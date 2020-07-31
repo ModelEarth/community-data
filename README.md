@@ -13,6 +13,11 @@ The last block of this notebook contains the code for generating the state-wide 
 
 ## Usage  
 
-Resulting data is used with Environmentally-Enable Input-Output widgets within Model.earth and Neighborhood.org.  Our goal is to provide a framework for global analysis and we welcome your participation.
+Resulting data is used with Environmentally-Enable Input-Output widgets within Model.earth and Neighborhood.org.  Our goal is to provide a framework for global analysis and we welcome your participation. You may also pull this data into your other projects.
+
+### Data Includes
+
+#### US Industries by County
+Annual Payroll, Employee Count, Establishments (with estimates filling gaps that protect anonymity)
 
 
