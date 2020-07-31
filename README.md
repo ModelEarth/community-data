@@ -1,9 +1,6 @@
 # Community Data
 
-## Data preparation
-
-
-Run [process/python/us_econ.ipynb](data/us_econ.ipynb) in Jupyter Notebook or by running:  
+To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in Jupyter Notebook or by running:  
 
 
 	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
@@ -12,3 +9,10 @@ Run [process/python/us_econ.ipynb](data/us_econ.ipynb) in Jupyter Notebook or by
 After running, you can delete the county_level folder inside data_raw\BEA_Industry_Factors.  
 
 The last block of this notebook contains the code for generating the state-wide data. Getting the state-wide totals directly from the Census API results in numbers different from the sum of each state’s county totals.  
+
+
+## Usage  
+
+Resulting data is used with Environmentally-Enable Input-Output widgets within Model.earth and Neighborhood.org.  Our goal is to provide a framework for global analysis and we welcome your participation.
+
+
