@@ -1,6 +1,6 @@
-#RStudio
+# RStudio
 
-Script still resides in community/info/rstudio
+This script still resides in community/info/rstudio
 
 
 This is the R code to generate centroids of geographical units (county, zip code tabulation area) from TIGER shapefile. 
