@@ -1,6 +1,6 @@
 # Community Data
 
-To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in Jupyter Notebook or by running:  
+To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in a Jupyter Notebook or by running:  
 
 
 	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
