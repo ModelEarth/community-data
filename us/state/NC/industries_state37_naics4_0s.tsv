@@ -1,0 +1,10 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+8	37	999	Statewide	21	Coal mining	37	2121	1.0	1.0
+9	37	999	Statewide	21	Metal ore mining	37	2122	3.0	1.6666666666666667
+14	37	999	Statewide	22	Natural gas distribution	37	2212	51.2	51.2
+36	37	999	Statewide	31	Footwear manufacturing	37	3162	4.0	2.2
+95	37	999	Statewide	33	Motor vehicle manufacturing	37	3361	8.2	6.8
+106	37	999	Statewide	33	Railroad rolling stock manufacturing	37	3365	4.0	2.6
+168	37	999	Statewide	48	Pipeline transportation of crude oil	37	4861	2.0	1.4
+171	37	999	Statewide	48	Scenic and sightseeing transportation, other	37	4879	6.8	4.2
+201	37	999	Statewide	52	Monetary authorities - central bank	37	5211	1.0	1.0

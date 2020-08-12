@@ -1,0 +1,12 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	47	999	Statewide	11	Fishing	47	1141	2.0	1.25
+8	47	999	Statewide	21	Metal ore mining	47	2122	3.0	2.8
+38	47	999	Statewide	31	Leather and hide tanning and finishing	47	3161	3.0	2.2
+105	47	999	Statewide	33	Railroad rolling stock manufacturing	47	3365	4.2	3.4
+158	47	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	47	4831	6.0	4.4
+162	47	999	Statewide	48	Interurban and rural bus transportation	47	4852	7.4	5.6
+167	47	999	Statewide	48	Pipeline transportation of crude oil	47	4861	5.333333333333333	3.4
+184	47	999	Statewide	51	Cable and other subscription programming	47	5152	8.8	8.8
+200	47	999	Statewide	52	Monetary authorities - central bank	47	5211	2.0	2.0
+205	47	999	Statewide	52	Securities and commodity exchanges	47	5232	1.0	1.0
+262	47	999	Statewide	71	Gambling industries	47	7132	10.2	7.8

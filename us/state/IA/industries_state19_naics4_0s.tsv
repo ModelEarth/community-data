@@ -1,0 +1,25 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	19	999	Statewide	11	Forest nurseries and gathering of forest products	19	1132	1.0	1.0
+6	19	999	Statewide	11	Timber tract operations	19	1131	2.0	1.25
+8	19	999	Statewide	21	Oil and gas extraction	19	2111	1.0	1.25
+11	19	999	Statewide	22	Natural gas distribution	19	2212	15.6	15.4
+26	19	999	Statewide	31	Apparel knitting mills	19	3151	2.0	2.0
+32	19	999	Statewide	31	Footwear manufacturing	19	3162	1.0	1.0
+35	19	999	Statewide	31	Leather and hide tanning and finishing	19	3161	3.2	3.2
+37	19	999	Statewide	31	Other leather and allied product manufacturing	19	3169	5.0	2.8
+39	19	999	Statewide	31	Seafood product preparation and packaging	19	3117	2.0	2.0
+66	19	999	Statewide	33	Alumina and aluminum production and processing	19	3313	7.0	7.0
+68	19	999	Statewide	33	Audio and video equipment manufacturing	19	3343	2.0	1.4
+72	19	999	Statewide	33	Communications equipment manufacturing	19	3342	9.0	6.2
+73	19	999	Statewide	33	Computer and peripheral equipment manufacturing	19	3341	4.0	3.2
+75	19	999	Statewide	33	Electric lighting equipment manufacturing	19	3351	10.4	8.4
+93	19	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	19	3314	3.0	3.0
+154	19	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	19	4831	1.0	1.0
+157	19	999	Statewide	48	Inland water transportation	19	4832	2.666666666666667	2.0
+158	19	999	Statewide	48	Interurban and rural bus transportation	19	4852	7.4	5.6
+163	19	999	Statewide	48	Pipeline transportation of crude oil	19	4861	5.0	4.8
+166	19	999	Statewide	48	Scenic and sightseeing transportation, other	19	4879	2.0	1.0
+180	19	999	Statewide	51	Cable and other subscription programming	19	5152	2.0	2.0
+195	19	999	Statewide	52	Monetary authorities - central bank	19	5211	1.0	1.0
+200	19	999	Statewide	52	Securities and commodity exchanges	19	5232	2.0	2.0
+253	19	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	19	6223	3.0	1.6

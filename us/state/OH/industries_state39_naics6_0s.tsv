@@ -1,0 +1,66 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+8	39	999	Statewide	11	Shellfish fishing	39	114112	3.0	1.6666666666666667
+12	39	999	Statewide	11	Timber tract operations	39	113110	3.0	2.0
+14	39	999	Statewide	21	Anthracite mining	39	212113	1.0	1.0
+22	39	999	Statewide	21	Dimension stone mining and quarrying	39	212311	6.0	3.4
+24	39	999	Statewide	21	Gold ore mining	39	212221	1.0	1.0
+26	39	999	Statewide	21	Iron ore mining	39	212210	1.0	1.0
+27	39	999	Statewide	21	Kaolin and ball clay mining	39	212324	1.0	1.0
+29	39	999	Statewide	21	Other chemical and fertilizer mineral mining	39	212393	3.0	3.0
+32	39	999	Statewide	21	Support activities for metal mining	39	213114	1.0	2.2
+36	39	999	Statewide	22	Electric bulk power transmission and control	39	221121	26.0	23.2
+39	39	999	Statewide	22	Hydroelectric power generation	39	221111	3.0	2.0
+41	39	999	Statewide	22	Nuclear electric power generation	39	221113	6.6	6.6
+42	39	999	Statewide	22	Other electric power generation	39	221118	7.0	5.2
+44	39	999	Statewide	22	Solar electric power generation	39	221114	2.2	1.6
+47	39	999	Statewide	22	Wind electric power generation	39	221115	3.5	3.4
+84	39	999	Statewide	31	Beet sugar manufacturing	39	311313	1.0	1.0
+86	39	999	Statewide	31	Breakfast cereal manufacturing	39	311230	5.0	3.4
+89	39	999	Statewide	31	Cane sugar manufacturing	39	311314	2.0	1.2
+90	39	999	Statewide	31	Carpet and rug mills	39	314110	3.0	1.6
+97	39	999	Statewide	31	Creamery butter manufacturing	39	311512	2.0	1.6
+102	39	999	Statewide	31	Dried and dehydrated food manufacturing	39	311423	3.0	2.2
+116	39	999	Statewide	31	Hosiery and sock mills	39	315110	1.0	1.0
+119	39	999	Statewide	31	Knit fabric mills	39	313240	2.0	2.0
+124	39	999	Statewide	31	Narrow fabric mills and schiffli machine embroidery	39	313220	7.0	4.2
+135	39	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	39	314994	3.0	2.2
+136	39	999	Statewide	31	Seafood product preparation and packaging	39	311710	2.0	1.6
+143	39	999	Statewide	31	Tobacco manufacturing	39	312230	1.0	1.0
+145	39	999	Statewide	31	Wet corn milling	39	311221	1.0	1.0
+147	39	999	Statewide	31	Women's handbag and purse manufacturing	39	316992	5.5	2.0
+175	39	999	Statewide	32	Engineered wood member (except truss) manufacturing	39	321213	4.0	2.4
+177	39	999	Statewide	32	Explosives manufacturing	39	325920	3.0	2.2
+179	39	999	Statewide	32	Flat glass manufacturing	39	327211	3.0	2.6
+181	39	999	Statewide	32	Glass container manufacturing	39	327213	5.0	3.6
+203	39	999	Statewide	32	Pesticide and other agricultural chemical manufacturing	39	325320	4.0	1.75
+204	39	999	Statewide	32	Petrochemical manufacturing	39	325110	2.0	1.5
+208	39	999	Statewide	32	Phosphatic fertilizer manufacturing	39	325312	2.6	2.6
+221	39	999	Statewide	32	Pulp mills	39	322110	3.0	2.2
+257	39	999	Statewide	33	Ammunition (except small arms) manufacturing	39	332993	5.0	2.0
+264	39	999	Statewide	33	Blank magnetic and optical recording media manufacturing	39	334613	1.0	1.0
+295	39	999	Statewide	33	Fiber optic cable manufacturing	39	335921	1.0	1.0
+301	39	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	39	336415	1.0	1.0
+305	39	999	Statewide	33	Household cooking appliance manufacturing	39	335221	4.0	1.6
+307	39	999	Statewide	33	Household laundry equipment manufacturing	39	335224	2.8	2.8
+308	39	999	Statewide	33	Household refrigerator and home freezer manufacturing	39	335222	3.0	3.0
+321	39	999	Statewide	33	Irradiation apparatus manufacturing	39	334517	6.0	6.0
+324	39	999	Statewide	33	Light truck and utility vehicle manufacturing	39	336112	4.8	4.2
+341	39	999	Statewide	33	Motor home manufacturing	39	336213	2.0	2.0
+372	39	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	39	336419	2.0	2.0
+375	39	999	Statewide	33	Other major household appliance manufacturing	39	335228	2.0	1.8
+392	39	999	Statewide	33	Primary battery manufacturing	39	335912	2.4	1.8
+409	39	999	Statewide	33	Semiconductor machinery manufacturing	39	333242	3.0	3.0
+578	39	999	Statewide	48	Air traffic control	39	488111	6.8	6.4
+579	39	999	Statewide	48	All other pipeline transportation	39	486990	3.0	1.75
+592	39	999	Statewide	48	Inland water passenger transportation	39	483212	3.0	1.5
+596	39	999	Statewide	48	Mixed mode transit systems	39	485111	2.0	2.0
+606	39	999	Statewide	48	Other urban transit systems	39	485119	4.0	4.0
+613	39	999	Statewide	48	Scenic and sightseeing transportation, other	39	487990	3.0	1.6
+638	39	999	Statewide	51	Greeting card publishers	39	511191	2.0	2.0
+682	39	999	Statewide	52	Monetary authorities - central bank	39	521110	3.0	3.0
+686	39	999	Statewide	52	Other depository credit intermediation	39	522190	5.25	2.25
+694	39	999	Statewide	52	Secondary market financing	39	522294	5.2	3.4
+874	39	999	Statewide	71	Amusement and theme parks	39	713110	17.466666666666665	14.8
+877	39	999	Statewide	71	Casinos (except casino hotels)	39	713210	5.533333333333332	3.6
+900	39	999	Statewide	72	Casino hotels	39	721120	4.25	2.75
+944	39	999	Statewide	81	One-hour photofinishing	39	812922	4.0	2.4

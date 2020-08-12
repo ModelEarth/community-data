@@ -1,0 +1,37 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	54	999	Statewide	11	Forest nurseries and gathering of forest products	54	1132	1.0	1.0
+1	54	999	Statewide	11	Hunting and trapping	54	1142	2.0	1.0
+4	54	999	Statewide	11	Support activities for crop production	54	1151	3.0	2.2
+8	54	999	Statewide	21	Metal ore mining	54	2122	2.0	2.0
+25	54	999	Statewide	31	Animal food manufacturing	54	3111	2.0	2.0
+30	54	999	Statewide	31	Dairy product manufacturing	54	3115	3.2	3.0
+31	54	999	Statewide	31	Fabric mills	54	3132	2.0	2.0
+32	54	999	Statewide	31	Fiber, yarn, and thread mills	54	3131	1.0	1.0
+34	54	999	Statewide	31	Grain and oilseed milling	54	3112	1.0	1.0
+36	54	999	Statewide	31	Other leather and allied product manufacturing	54	3169	2.0	1.6666666666666667
+38	54	999	Statewide	31	Seafood product preparation and packaging	54	3117	1.0	1.0
+42	54	999	Statewide	31	Tobacco manufacturing	54	3122	2.0	1.6
+48	54	999	Statewide	32	Lime and gypsum product manufacturing	54	3274	7.0	4.2
+55	54	999	Statewide	32	Pharmaceutical and medicine manufacturing	54	3254	4.0	4.0
+58	54	999	Statewide	32	Pulp, paper, and paperboard mills	54	3221	2.0	2.0
+62	54	999	Statewide	32	Soap, cleaning compound, and toilet preparation manufacturing	54	3256	4.2	3.6
+68	54	999	Statewide	33	Audio and video equipment manufacturing	54	3343	1.0	1.0
+72	54	999	Statewide	33	Communications equipment manufacturing	54	3342	1.0	1.0
+75	54	999	Statewide	33	Electric lighting equipment manufacturing	54	3351	1.0	1.0
+80	54	999	Statewide	33	Hardware manufacturing	54	3325	1.0	1.0
+84	54	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	54	3346	1.0	1.0
+88	54	999	Statewide	33	Motor vehicle manufacturing	54	3361	1.0	1.0
+95	54	999	Statewide	33	Other furniture related product manufacturing	54	3379	4.0	2.0
+98	54	999	Statewide	33	Other transportation equipment manufacturing	54	3369	4.0	1.6
+101	54	999	Statewide	33	Ship and boat building	54	3366	1.0	1.0
+102	54	999	Statewide	33	Spring and wire product manufacturing	54	3326	3.0	1.4
+104	54	999	Statewide	33	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	54	3334	1.0	1.0
+154	54	999	Statewide	48	Inland water transportation	54	4832	5.0	4.0
+155	54	999	Statewide	48	Interurban and rural bus transportation	54	4852	1.0	1.0
+159	54	999	Statewide	48	Pipeline transportation of crude oil	54	4861	6.0	3.8
+162	54	999	Statewide	48	Scenic and sightseeing transportation, other	54	4879	1.0	1.0
+163	54	999	Statewide	48	Scenic and sightseeing transportation, water	54	4872	1.0	1.0
+165	54	999	Statewide	48	School and employee bus transportation	54	4854	5.0	2.6
+183	54	999	Statewide	51	Sound recording industries	54	5122	2.0	1.2
+192	54	999	Statewide	52	Other investment pools and funds	54	5259	3.333333333333333	1.5
+248	54	999	Statewide	71	Agents and managers for artists, athletes, entertainers, and other public figures	54	7114	2.0	1.2

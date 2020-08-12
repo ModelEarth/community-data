@@ -1,0 +1,20 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	5	999	Statewide	11	Fishing	5	1141	2.0	1.2
+8	5	999	Statewide	21	Coal mining	5	2121	3.0	1.2
+28	5	999	Statewide	31	Apparel knitting mills	5	3151	3.0	2.8
+33	5	999	Statewide	31	Fabric mills	5	3132	1.0	1.0
+37	5	999	Statewide	31	Leather and hide tanning and finishing	5	3161	1.0	1.0
+43	5	999	Statewide	31	Textile and fabric finishing and fabric coating mills	5	3133	5.0	2.2
+45	5	999	Statewide	31	Tobacco manufacturing	5	3122	1.0	1.0
+48	5	999	Statewide	32	Clay product and refractory manufacturing	5	3271	11.0	10.8
+71	5	999	Statewide	33	Audio and video equipment manufacturing	5	3343	3.0	1.4
+75	5	999	Statewide	33	Communications equipment manufacturing	5	3342	1.0	1.0
+85	5	999	Statewide	33	Household appliance manufacturing	5	3352	3.0	2.2
+89	5	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	5	3346	2.0	2.0
+104	5	999	Statewide	33	Railroad rolling stock manufacturing	5	3365	3.0	3.0
+157	5	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	5	4831	2.0	1.2
+160	5	999	Statewide	48	Inland water transportation	5	4832	1.0	1.0
+161	5	999	Statewide	48	Interurban and rural bus transportation	5	4852	6.0	3.6
+168	5	999	Statewide	48	Scenic and sightseeing transportation, land	5	4871	2.0	1.4
+182	5	999	Statewide	51	Cable and other subscription programming	5	5152	3.0	3.0
+198	5	999	Statewide	52	Monetary authorities - central bank	5	5211	1.0	1.0

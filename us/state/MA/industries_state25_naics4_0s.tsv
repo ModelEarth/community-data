@@ -1,0 +1,10 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+8	25	999	Statewide	21	Metal ore mining	25	2122	1.0	1.0
+46	25	999	Statewide	31	Tobacco manufacturing	25	3122	2.0	1.2
+52	25	999	Statewide	32	Lime and gypsum product manufacturing	25	3274	2.0	1.2
+94	25	999	Statewide	33	Motor vehicle manufacturing	25	3361	1.2	1.2
+164	25	999	Statewide	48	Other pipeline transportation	25	4869	2.0	1.6
+167	25	999	Statewide	48	Pipeline transportation of crude oil	25	4861	1.0	1.0
+170	25	999	Statewide	48	Scenic and sightseeing transportation, other	25	4879	3.0	2.2
+200	25	999	Statewide	52	Monetary authorities - central bank	25	5211	2.0	2.0
+205	25	999	Statewide	52	Securities and commodity exchanges	25	5232	1.6	1.6

@@ -1,0 +1,30 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+15	6	999	Statewide	21	All other metal ore mining	6	212299	3.0	1.6
+17	6	999	Statewide	21	Bituminous coal and lignite surface mining	6	212111	2.0	1.4
+18	6	999	Statewide	21	Bituminous coal underground mining	6	212112	2.0	1.0
+28	6	999	Statewide	21	Iron ore mining	6	212210	2.0	1.2
+29	6	999	Statewide	21	Kaolin and ball clay mining	6	212324	1.0	1.0
+30	6	999	Statewide	21	Lead ore and zinc ore mining	6	212231	1.0	1.0
+32	6	999	Statewide	21	Other chemical and fertilizer mineral mining	6	212393	4.0	1.8
+34	6	999	Statewide	21	Potash, soda, and borate mineral mining	6	212391	4.2	4.0
+35	6	999	Statewide	21	Support activities for coal mining	6	213113	4.0	1.5
+40	6	999	Statewide	22	Electric bulk power transmission and control	6	221121	5.8000000000000025	4.2
+46	6	999	Statewide	22	Nuclear electric power generation	6	221113	1.0	1.0
+89	6	999	Statewide	31	Beet sugar manufacturing	6	311313	4.0	3.4
+94	6	999	Statewide	31	Cane sugar manufacturing	6	311314	4.8	4.0
+126	6	999	Statewide	31	Malt manufacturing	6	311213	2.0	1.8
+201	6	999	Statewide	32	Newsprint mills	6	322122	1.0	1.0
+213	6	999	Statewide	32	Petrochemical manufacturing	6	325110	4.0	1.8
+230	6	999	Statewide	32	Pulp mills	6	322110	1.0	1.0
+238	6	999	Statewide	32	Softwood veneer and plywood manufacturing	6	321212	5.0	3.6
+266	6	999	Statewide	33	Ammunition (except small arms) manufacturing	6	332993	3.0	3.0
+311	6	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	6	336415	8.2	7.4
+314	6	999	Statewide	33	Heavy duty truck manufacturing	6	336120	9.4	6.6
+317	6	999	Statewide	33	Household refrigerator and home freezer manufacturing	6	335222	2.2	1.4
+350	6	999	Statewide	33	Motor home manufacturing	6	336213	4.0	2.8
+587	6	999	Statewide	48	Air traffic control	6	488111	22.0	5.2
+588	6	999	Statewide	48	All other pipeline transportation	6	486990	3.0	1.2
+595	6	999	Statewide	48	Commuter rail systems	6	485112	4.2	2.8
+597	6	999	Statewide	48	Deep sea passenger transportation	6	483112	8.6	4.8
+693	6	999	Statewide	52	Monetary authorities - central bank	6	521110	3.0	3.0
+821	6	999	Statewide	56	Solid waste combustors and incinerators	6	562213	6.8	4.8

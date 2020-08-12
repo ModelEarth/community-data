@@ -1,0 +1,48 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+1	2	999	Statewide	11	Forest nurseries and gathering of forest products	2	1132	2.25	1.5
+7	2	999	Statewide	11	Timber tract operations	2	1131	1.2	1.2
+8	2	999	Statewide	21	Coal mining	2	2121	2.25	2.0
+14	2	999	Statewide	22	Natural gas distribution	2	2212	6.0	5.8
+26	2	999	Statewide	31	Animal food manufacturing	2	3111	3.0	2.25
+27	2	999	Statewide	31	Animal slaughtering and processing	2	3116	4.2	4.2
+28	2	999	Statewide	31	Apparel accessories and other apparel manufacturing	2	3159	2.0	1.2
+33	2	999	Statewide	31	Fruit and vegetable preserving and specialty food manufacturing	2	3114	1.0	1.0
+36	2	999	Statewide	31	Other leather and allied product manufacturing	2	3169	2.0	1.8
+40	2	999	Statewide	31	Textile and fabric finishing and fabric coating mills	2	3133	3.0	1.6666666666666667
+41	2	999	Statewide	31	Tobacco manufacturing	2	3122	1.0	1.0
+43	2	999	Statewide	32	Clay product and refractory manufacturing	2	3271	1.0	1.0
+44	2	999	Statewide	32	Converted paper product manufacturing	2	3222	3.0	1.2
+46	2	999	Statewide	32	Other chemical product and preparation manufacturing	2	3259	2.0	1.5
+49	2	999	Statewide	32	Paint, coating, and adhesive manufacturing	2	3255	1.0	1.0
+50	2	999	Statewide	32	Pesticide, fertilizer, and other agricultural chemical manufacturing	2	3253	2.0	1.2
+52	2	999	Statewide	32	Pharmaceutical and medicine manufacturing	2	3254	3.0	1.5
+60	2	999	Statewide	33	Agriculture, construction, and mining machinery manufacturing	2	3331	2.4	2.4
+61	2	999	Statewide	33	Alumina and aluminum production and processing	2	3313	1.0	1.0
+63	2	999	Statewide	33	Boiler, tank, and shipping container manufacturing	2	3324	3.4	3.4
+65	2	999	Statewide	33	Commercial and service industry machinery manufacturing	2	3333	1.0	1.0
+66	2	999	Statewide	33	Communications equipment manufacturing	2	3342	1.25	1.25
+67	2	999	Statewide	33	Cutlery and handtool manufacturing	2	3322	2.6	2.6
+68	2	999	Statewide	33	Electric lighting equipment manufacturing	2	3351	2.0	1.6666666666666667
+69	2	999	Statewide	33	Electrical equipment manufacturing	2	3353	1.0	1.0
+70	2	999	Statewide	33	Engine, turbine, and power transmission equipment manufacturing	2	3336	2.333333333333333	2.333333333333333
+71	2	999	Statewide	33	Forging and stamping	2	3321	1.0	1.0
+73	2	999	Statewide	33	Industrial machinery manufacturing	2	3332	1.0	1.0
+74	2	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	2	3311	2.0	1.0
+77	2	999	Statewide	33	Motor vehicle body and trailer manufacturing	2	3362	3.0	1.4
+80	2	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	2	3314	2.0	2.0
+82	2	999	Statewide	33	Other electrical equipment and component manufacturing	2	3359	1.0	1.0
+87	2	999	Statewide	33	Other transportation equipment manufacturing	2	3369	1.0	1.0
+89	2	999	Statewide	33	Steel product manufacturing from purchased steel	2	3312	1.0	1.0
+90	2	999	Statewide	33	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	2	3334	2.0	1.2
+91	2	999	Statewide	42	Apparel, piece goods, and notions merchant wholesalers	2	4243	4.0	3.2
+95	2	999	Statewide	42	Farm product raw material merchant wholesalers	2	4245	1.0	1.0
+142	2	999	Statewide	48	Interurban and rural bus transportation	2	4852	3.8	3.0
+145	2	999	Statewide	48	Other support activities for transportation	2	4889	2.8	2.6
+147	2	999	Statewide	48	Pipeline transportation of crude oil	2	4861	11.8	11.2
+148	2	999	Statewide	48	Pipeline transportation of natural gas	2	4862	2.25	1.75
+160	2	999	Statewide	48	Urban transit systems	2	4851	9.0	5.8
+170	2	999	Statewide	51	Satellite telecommunications	2	5174	7.2	7.2
+188	2	999	Statewide	53	Lessors of nonfinancial intangible assets (except copyrighted works)	2	5331	2.0	1.8
+216	2	999	Statewide	61	Junior colleges	2	6112	1.0	1.0
+235	2	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	2	6223	4.0	2.0
+237	2	999	Statewide	71	Agents and managers for artists, athletes, entertainers, and other public figures	2	7114	1.0	1.0

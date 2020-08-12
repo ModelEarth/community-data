@@ -1,0 +1,8 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+7	39	999	Statewide	11	Timber tract operations	39	1131	3.0	2.0
+9	39	999	Statewide	21	Metal ore mining	39	2122	1.25	1.25
+29	39	999	Statewide	31	Apparel knitting mills	39	3151	1.0	1.0
+43	39	999	Statewide	31	Seafood product preparation and packaging	39	3117	2.0	1.6
+47	39	999	Statewide	31	Tobacco manufacturing	39	3122	1.0	1.0
+171	39	999	Statewide	48	Scenic and sightseeing transportation, other	39	4879	3.0	1.6
+201	39	999	Statewide	52	Monetary authorities - central bank	39	5211	3.0	3.0

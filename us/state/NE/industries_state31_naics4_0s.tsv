@@ -1,0 +1,28 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+1	31	999	Statewide	11	Forest nurseries and gathering of forest products	31	1132	1.0	1.0
+2	31	999	Statewide	11	Hunting and trapping	31	1142	4.0	2.6
+7	31	999	Statewide	21	Metal ore mining	31	2122	2.0	1.2
+26	31	999	Statewide	31	Apparel accessories and other apparel manufacturing	31	3159	2.0	1.0
+27	31	999	Statewide	31	Apparel knitting mills	31	3151	1.0	1.0
+33	31	999	Statewide	31	Fiber, yarn, and thread mills	31	3131	1.0	1.0
+34	31	999	Statewide	31	Footwear manufacturing	31	3162	1.0	1.0
+37	31	999	Statewide	31	Leather and hide tanning and finishing	31	3161	4.2	2.8
+39	31	999	Statewide	31	Other leather and allied product manufacturing	31	3169	1.0	1.0
+41	31	999	Statewide	31	Sugar and confectionery product manufacturing	31	3113	7.2	6.4
+49	31	999	Statewide	32	Lime and gypsum product manufacturing	31	3274	2.0	1.25
+67	31	999	Statewide	33	Alumina and aluminum production and processing	31	3313	1.0	1.0
+69	31	999	Statewide	33	Audio and video equipment manufacturing	31	3343	2.0	1.25
+74	31	999	Statewide	33	Computer and peripheral equipment manufacturing	31	3341	4.0	2.2
+81	31	999	Statewide	33	Hardware manufacturing	31	3325	3.0	1.8
+83	31	999	Statewide	33	Household appliance manufacturing	31	3352	1.0	1.0
+85	31	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	31	3311	5.0	2.2
+94	31	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	31	3314	2.0	1.4
+98	31	999	Statewide	33	Other furniture related product manufacturing	31	3379	4.6	3.8
+104	31	999	Statewide	33	Ship and boat building	31	3366	1.0	1.0
+106	31	999	Statewide	33	Steel product manufacturing from purchased steel	31	3312	4.0	1.8
+162	31	999	Statewide	48	Pipeline transportation of crude oil	31	4861	4.0	3.4
+164	31	999	Statewide	48	Scenic and sightseeing transportation, land	31	4871	3.2	2.4
+172	31	999	Statewide	48	Support activities for water transportation	31	4883	2.0	1.0
+174	31	999	Statewide	48	Urban transit systems	31	4851	3.2	2.2
+178	31	999	Statewide	51	Cable and other subscription programming	31	5152	2.0	1.8
+194	31	999	Statewide	52	Monetary authorities - central bank	31	5211	1.0	1.0

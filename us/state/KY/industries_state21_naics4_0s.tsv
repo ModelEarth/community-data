@@ -1,0 +1,18 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	21	999	Statewide	11	Fishing	21	1141	3.0	1.6
+1	21	999	Statewide	11	Forest nurseries and gathering of forest products	21	1132	1.0	1.0
+2	21	999	Statewide	11	Hunting and trapping	21	1142	3.0	1.8
+7	21	999	Statewide	11	Timber tract operations	21	1131	2.0	2.0
+9	21	999	Statewide	21	Metal ore mining	21	2122	2.0	1.0
+29	21	999	Statewide	31	Apparel knitting mills	21	3151	3.0	1.6
+35	21	999	Statewide	31	Footwear manufacturing	21	3162	3.0	1.4
+38	21	999	Statewide	31	Leather and hide tanning and finishing	21	3161	2.0	2.0
+40	21	999	Statewide	31	Other leather and allied product manufacturing	21	3169	7.0	4.2
+42	21	999	Statewide	31	Seafood product preparation and packaging	21	3117	3.0	1.0
+77	21	999	Statewide	33	Computer and peripheral equipment manufacturing	21	3341	5.0	3.0
+86	21	999	Statewide	33	Household appliance manufacturing	21	3352	8.8	6.0
+90	21	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	21	3346	4.5	2.2
+105	21	999	Statewide	33	Railroad rolling stock manufacturing	21	3365	7.0	7.0
+158	21	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	21	4831	2.0	1.3333333333333333
+170	21	999	Statewide	48	Scenic and sightseeing transportation, other	21	4879	1.0	1.0
+200	21	999	Statewide	52	Monetary authorities - central bank	21	5211	1.0	1.0

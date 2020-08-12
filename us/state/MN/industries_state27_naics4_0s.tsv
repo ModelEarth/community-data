@@ -1,0 +1,10 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+28	27	999	Statewide	31	Apparel knitting mills	27	3151	3.0	2.2
+35	27	999	Statewide	31	Footwear manufacturing	27	3162	4.0	1.8
+42	27	999	Statewide	31	Seafood product preparation and packaging	27	3117	3.8	3.8
+46	27	999	Statewide	31	Tobacco manufacturing	27	3122	1.0	1.0
+52	27	999	Statewide	32	Lime and gypsum product manufacturing	27	3274	1.4	1.4
+86	27	999	Statewide	33	Household appliance manufacturing	27	3352	5.0	2.8
+94	27	999	Statewide	33	Motor vehicle manufacturing	27	3361	8.0	6.6
+200	27	999	Statewide	52	Monetary authorities - central bank	27	5211	2.0	2.0
+205	27	999	Statewide	52	Securities and commodity exchanges	27	5232	1.0	1.0
