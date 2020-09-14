@@ -172,6 +172,7 @@ callback(
 		"sectionTitle": "leftNav",
 		"topnavaccess": "10",
 		"menuaccess": "0",
+		"livedomain": "https://map.georgia.org",
 		"directlink": "/explore/info",
 		"caption": "Find lodging, check traffic conditions, view gas prices, search maps and follow weather forecasts."
 	},
@@ -201,7 +202,8 @@ callback(
 		"icon": "<i class='material-icons'>&#xE87A;</i>",
 		"hideOverlaysButton": "true",
 		"sectionTitle": "leftNav",
-		"directlink": "https://georgiadata.github.io/info/",
+		"livedomain": "https://map.georgia.org",
+		"directlink": "/explore/info/",
 		"caption": "Find lodging, check traffic conditions, view gas prices, search maps and follow weather forecasts.",
 		"menuaccess": "10"
 	},
@@ -245,7 +247,8 @@ callback(
 		"where": "name != ''",
 		"exportaccess": "6",
 		"menuaccess": "0",
-		"directlink": "https://georgiadata.github.io/#lodging",
+		"livedomain": "https://map.georgia.org",
+		"directlink": "/explore/#lodging",
 		"overlaylevel": "2"
 	},
 	{
@@ -300,7 +303,8 @@ callback(
 		"mainiframe": "/explore/traffic",
 		"iframeheight": "650",
 		"admin": "GDOT server is not secure.",
-		"directlink": "http://georgiadata.github.io/directory/#traffic",
+		"livedomain": "https://map.georgia.org",
+		"directlink": "/directory/#traffic",
 		"menuaccess": "0"
 	},
 	{
@@ -376,7 +380,8 @@ callback(
 		"sectionTitle": "leftNav",
 		"mainiframe": "http://ready.ga.gov/be-informed/hurricanes/",
 		"iframeheight": "3000",
-		"menuaccess": "10"
+		"menuaccess": "10",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "atlanta-forecast",
@@ -390,7 +395,8 @@ callback(
 		"icon": "<i class='material-icons'>&#xE87A;</i>",
 		"mainiframe": "https://www.wunderground.com/forecast/us/ga/atlanta/30312",
 		"iframeheight": "3000",
-		"menuaccess": "10"
+		"menuaccess": "10",
+		"livedomain": "https://map.georgia.org",
 	},	
 	{
 		"item": "savannah-forecast",
@@ -404,7 +410,8 @@ callback(
 		"icon": "<i class='material-icons'>&#xE87A;</i>",
 		"mainiframe": "https://www.wunderground.com/forecast/us/ga/savannah/31401?mr=1",
 		"iframeheight": "3000",
-		"menuaccess": "10"
+		"menuaccess": "10",
+		"livedomain": "https://map.georgia.org",
 	},
 
 	{
@@ -432,7 +439,8 @@ callback(
 		"basemap": "",
 		"icon": "<i class='fa fa-plane'></i>",
 		"admin": "Removed description field. Omitting primary from public_use_airports_medium_scale with NOT IN query",
-		"intro": "Georgia’s logistics infrastructure offers businesses a significant competitive advantage. <a href='http://www.georgia.org/competitive-advantages/infrastructure/' target='infrastructure'>Learn More</a>"
+		"intro": "Georgia’s logistics infrastructure offers businesses a significant competitive advantage. <a href='http://www.georgia.org/competitive-advantages/infrastructure/' target='infrastructure'>Learn More</a>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "railroads",
@@ -450,7 +458,8 @@ callback(
 		"skips": "",
 		"basemap": "",
 		"icon": "<i class='material-icons'>&#xE570;</i>",
-		"admin": "Includes intermodal table with ports."
+		"admin": "Includes intermodal table with ports.",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "roadways",
@@ -466,7 +475,8 @@ callback(
 		"table": "georgia_roadways",
 		"namefield": "fullname",
 		"username": "georgia-map",
-		"icon": "<i class='material-icons'>&#xE565;</i>"
+		"icon": "<i class='material-icons'>&#xE565;</i>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "broadband",
@@ -477,7 +487,6 @@ callback(
 		"provider": "Infrastructure",
 		"image": "/explore/menu/img/hero/burst.jpg",
 		"siteHeaderHeight": "200px",
-		"mainiframeX": "https://broadband.georgia.gov/",
 		"mainiframe": "https://itos.maps.arcgis.com/apps/webappviewer/index.html?id=4bd288a57db947bf9c0536b4be7ae1f3",
 		"icon": "<i class='material-icons' style='font-weight:550'>&#xE52F;</i>",
 		"intro": "Source: <a href='http://digital.georgia.gov/map/'>digital.georgia.gov/map</a>",
@@ -504,7 +513,8 @@ callback(
 		"nameappend": " County",
 		"layerset": "georgia",
 		"icon": "<i class='fa fa-certificate fa-lg'></i>",
-		"intro": "Source: Georgia Department of Community Affairs (DCA) &nbsp;<a href='http://www.dca.state.ga.us/economic/taxcredits/programs/taxcredit.asp'>Job Tax Credit Program</a> - <a href='http://www.georgiaplanning.com/dataforplanning.asp'>Job Tax County Tier List XLSX</a><br>Tier 1: Orange | Tier 2: Dark Green | Tier 3: Medium Green | Tier 4: Lite Green"
+		"intro": "Source: Georgia Department of Community Affairs (DCA) &nbsp;<a href='http://www.dca.state.ga.us/economic/taxcredits/programs/taxcredit.asp'>Job Tax Credit Program</a> - <a href='http://www.georgiaplanning.com/dataforplanning.asp'>Job Tax County Tier List XLSX</a><br>Tier 1: Orange | Tier 2: Dark Green | Tier 3: Medium Green | Tier 4: Lite Green",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "available-properties",
@@ -548,6 +558,7 @@ callback(
 		"image": "/explore/menu/img/hero/auto.jpg",
 		"siteHeaderHeight": "0px",
 		"export": "off",
+		"livedomain": "https://map.georgia.org",
 		"mainiframe": "/explore/menu/insite/utilities/index.html",
 		"iframeheight": "475",
 		"layerset": "georgia",
@@ -628,7 +639,8 @@ callback(
 		"icon": "<i class='fa fa-recycle'></i>",
 		"mainiframe": "https://model.earth/community/recycling/ga/",
 		"footerlogos": "Residential recycling center content from <a href='https://RecycleSearch.com' target='recyclesearch'>recyclesearch.com</a>",
-		"caption": "Residential recycling center content from <a href='https://RecycleSearch.com' target='recyclesearch'>recyclesearch.com</a>"
+		"caption": "Residential recycling center content from <a href='https://RecycleSearch.com' target='recyclesearch'>recyclesearch.com</a>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "processors",
@@ -655,7 +667,8 @@ callback(
 		"exportaccess": "0",
 		"footerlogos": "<div style='border-radius: 12px; padding:0 0 10px 12px'><div style='float:left'><div style='padding:2px'><a href='http://www.georgiarecycles.org/' target='_blank'><img src='/explore/directory/img/logos/georgia-recycling-coalition-8.png' alt='georgiarecycles.org' style='width:180px; margin: 0px 18px 10px 0px; float:left;' /></a><br></div></div><a href='https://epd.georgia.gov' target='_blank' style='float:left' target='_blank'><img src='/explore/directory/img/logos/georgia-epd-transparent.png' style='margin:2px 5px 0 5px; width:230px; float:left' alt='epd.georgia.gov' /></a></div><div style='clear:both'></div>",
 		"admin": "Data contact: Susan Wood, Georgia EPD. Gathered in 2011, some updates in 2015.",
-		"intro": "Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='processors'>ArcGIS.com</a></nobr>"
+		"intro": "Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='processors'>ArcGIS.com</a></nobr>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "transfer",
@@ -677,7 +690,8 @@ callback(
 		"exportaccess": "0",
 		"footerlogos": "<div style='border-radius: 12px; padding:0 0 10px 12px'><div style='float:left'><div style='padding:2px'><a href='http://www.georgiarecycles.org/' target='_blank'><img src='/explore/directory/img/logos/georgia-recycling-coalition-8.png' alt='georgiarecycles.org' style='width:180px; margin: 0px 18px 10px 0px; float:left;' /></a><br></div></div><a href='https://epd.georgia.gov' target='_blank' style='float:left' target='_blank'><img src='/explore/directory/img/logos/georgia-epd-transparent.png' style='margin:2px 5px 0 5px; width:230px; float:left' alt='epd.georgia.gov' /></a></div><div style='clear:both'></div>",
 		"intro": "Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='transfer'>ArcGIS.com</a></nobr>",
-		"admin": "NOTE - resides in separate carto account, but is not maintained there by EPD. Okay to move to main account, or retain to save storage space."
+		"admin": "NOTE - resides in separate carto account, but is not maintained there by EPD. Okay to move to main account, or retain to save storage space.",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "recyclers",
@@ -698,7 +712,8 @@ callback(
 		"icon": "<i class='fa fa-recycle'></i>",
 		"exportaccess": "0",
 		"footerlogos": "<div style='border-radius: 12px; padding:0 0 10px 12px'><div style='float:left'><div style='padding:2px'><a href='http://www.georgiarecycles.org/' target='_blank'><img src='/explore/directory/img/logos/georgia-recycling-coalition-8.png' alt='georgiarecycles.org' style='width:180px; margin: 0px 18px 10px 0px; float:left;' /></a><br></div></div><a href='https://epd.georgia.gov' target='_blank' style='float:left' target='_blank'><img src='/explore/directory/img/logos/georgia-epd-transparent.png' style='margin:2px 5px 0 5px; width:230px; float:left' alt='epd.georgia.gov' /></a></div><div style='clear:both'></div>",
-		"intro": "Manufacturers engaged in recycling during the manufacturing process.<br>Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='recyclers'>ArcGIS.com</a></nobr>"
+		"intro": "Manufacturers engaged in recycling during the manufacturing process.<br>Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='recyclers'>ArcGIS.com</a></nobr>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "inert_waste_landfills",
@@ -722,7 +737,8 @@ callback(
 		"exportaccess": "0",
 		"footerlogos": "<div style='border-radius: 12px; padding:0 0 10px 12px'><div style='float:left'><div style='padding:2px'><a href='http://www.georgiarecycles.org/' target='_blank'><img src='/explore/directory/img/logos/georgia-recycling-coalition-8.png' alt='georgiarecycles.org' style='width:180px; margin: 0px 18px 10px 0px; float:left;' /></a><br></div></div><a href='https://epd.georgia.gov' target='_blank' style='float:left' target='_blank'><img src='/explore/directory/img/logos/georgia-epd-transparent.png' style='margin:2px 5px 0 5px; width:230px; float:left' alt='epd.georgia.gov' /></a></div><div style='clear:both'></div>",
 		"intro": "Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='inert_waste_landfills'>ArcGIS.com</a></nobr>",
-		"problem": "Requires ArcGIS desktop to export."
+		"problem": "Requires ArcGIS desktop to export.",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "landfills",
@@ -746,12 +762,14 @@ callback(
 		"exportaccess": "0",
 		"footerlogos": "<div style='border-radius: 12px; padding:0 0 10px 12px'><div style='float:left'><div style='padding:2px'><a href='http://www.georgiarecycles.org/' target='_blank'><img src='/explore/directory/img/logos/georgia-recycling-coalition-8.png' alt='georgiarecycles.org' style='width:180px; margin: 0px 18px 10px 0px; float:left;' /></a><br></div></div><a href='https://epd.georgia.gov' target='_blank' style='float:left' target='_blank'><img src='/explore/directory/img/logos/georgia-epd-transparent.png' style='margin:2px 5px 0 5px; width:230px; float:left' alt='epd.georgia.gov' /></a></div><div style='clear:both'></div>",
 		"intro": "Data provided by <a href='https://epd.georgia.gov/' target='epd'>Georgia EPD</a>. <nobr>View on <a href='http://arcg.is/225L0zO' target='inert_waste_landfills'>ArcGIS.com</a></nobr>",
-		"problem": "Requires ArcGIS desktop to export."
+		"problem": "Requires ArcGIS desktop to export.",
+		"livedomain": "https://map.georgia.org",
 	},
 
 	{
 		"menulevel": "1",
 		"item": "cameraready",
+		"livedomain": "https://map.georgia.org",
 		"directlink": "/explore/film",
 		"rootfolder": "film",
 		"title": "Camera Ready Communities",
@@ -790,7 +808,7 @@ callback(
 		"caption": "Georgia’s Camera Ready Communities program connects film and TV productions with skilled county liaisons across the state to provide local expertise and support.",
 		"sidetopX": "Liaisons, click 'update' on your profile to make edits.",
 		"overlaylevel": "2",
-		"partnertools": "https://partner.exploregeorgia.org/"
+		"partnertools": "https://partner.exploregeorgia.org/",
 	},
 	{
 		"item": "cameraready-locations",
@@ -1295,7 +1313,8 @@ callback(
 		"imagebarBackground": "rgba(00, 00, 00, .6)",
 		"icon": "<i class='material-icons' style='font-weight:600'>&#xE90F;</i>",
 		"mainiframe": "https://www.georgiaenergydata.org/dashboards/totalenergy",
-		"iframeheight": "1000"
+		"iframeheight": "1000",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "energy-production",
@@ -1433,7 +1452,8 @@ callback(
 		"icon": "<i class='material-icons'>&#xE7FB;</i>",
 		"not_used_here": "<a href='http://georgiadata.github.io/directory/add/' target='_blank' style='white-space:nowrap' class='hidePrint'>Add Listing</a>",
 		"intro": "The Aerospace Directory is a free listing service provided by the Center of Innovation for Aerospace for any aerospace-related company or organization in Georgia. Participating in this directory gives a company/organization visibility to national, regional, and state partners who are looking for local suppliers or potential suppliers for new economic development prospects.",
-		"caption": "Search aerospace-related companies in the Georgia Center of Innovation's directory of aerospace suppliers."
+		"caption": "Search aerospace-related companies in the Georgia Center of Innovation's directory of aerospace suppliers.",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "aeromerge",
@@ -1571,6 +1591,7 @@ callback(
 		"provider": "Defense-Industry",
 		"showthumb": "0",
 		"image": "/explore/menu/img/hero/auto.jpg",
+		"livedomain": "https://map.georgia.org",
 		"directlink": "/explore/defense/",
 		"menuaccess": "1"
 	},
@@ -1660,7 +1681,8 @@ callback(
 		"categoriesMenu": "All Categories::,3PL,Air Transport,Education,Logistics Services,Ocean Transport,Rail Transport,Technology,Truck Transport",
 		"icon": "<i class='material-icons'>&#xE87A;</i>",
 		"intro": "Have freight to move? Looking for a company in Georgia that can meet your unique logistics needs? Search the most comprehensive database of logistics providers located in the state to find a perfect match.",
-		"caption": "Have freight to move? Find Georgia companies that meet your unique logistics needs."
+		"caption": "Have freight to move? Find Georgia companies that meet your unique logistics needs.",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "directory",
@@ -1771,6 +1793,7 @@ callback(
 		"tabtitle": "Film Support",
 		"pagetitle": "Film Support Services",
 		"section": "Companies",
+		"livedomain": "https://map.georgia.org",
 		"directlink": "/explore/film/#reel-support"
 	},
 	{
@@ -1973,7 +1996,8 @@ callback(
 		"css": ".cartodb-legend:before {content: 'Active and NonActive Duty';display: block;}",
 		"googlesheet": "https://docs.google.com/spreadsheets/d/11vAcolhTW1ZJ7qbQtIg6w2cEwfTuYxOBUg5sjoXaupk/edit?usp=sharing",
 		"intro1": "If a military installation has a value in the ActiveDuty population column, the ActiveAndNon population column will be blank, and vice versa.  Same for ActivePay and ActiveAndNonPay.",
-		"intro": "Search contractors, contract history and opportunites in the <a href='https://georgiadata.github.io/defense' target='defense'>Georgia Defense Exchange</a>"
+		"intro": "Search contractors, contract history and opportunites in the <a href='https://georgiadata.github.io/defense' target='defense'>Georgia Defense Exchange</a>",
+		"livedomain": "https://map.georgia.org",
 	},
 	{
 		"item": "defense-exchange-link",
@@ -2032,7 +2056,8 @@ callback(
 		"css": ".cartodb-legend:before {content: 'DoD-Related Awards (millions)';display: block;}.cartodb-legend li:nth-child(odd):before {content: '$';margin-right:-2px;}",
 		"googlesheet": "https://docs.google.com/spreadsheets/d/1mVH-jQd5_Nvov6EJygQw4Uxi8V0zxmkElsSPaflYGpU/edit?usp=sharing",
 		"intro1": "<a href='https://docs.google.com/spreadsheets/d/1mVH-jQd5_Nvov6EJygQw4Uxi8V0zxmkElsSPaflYGpU/edit?usp=sharing' target='defense'>Google Sheet</a>",
-		"intro": "Search contractors, contract histories and opportunites in the <a href='https://gdx.georgia.org/' target='defense' style='white-space:nowrap'>Georgia Defense Exchange</a>"
+		"intro": "Search contractors, contract histories and opportunites in the <a href='https://gdx.georgia.org/' target='defense' style='white-space:nowrap'>Georgia Defense Exchange</a>",
+		"livedomain": "https://map.georgia.org",
 	},
 
   ]
