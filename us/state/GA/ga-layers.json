@@ -54,7 +54,26 @@ callback(
 		"directlink": "/localsite/map/#show=farmfresh",
 		"caption": ""
 	},
-
+	{
+		"menulevel": "1",
+		"item": "net",
+		"rootfolder": "info",
+		"title": "Social Safety Net",
+		"tabtitle": "Social Safety Net",
+		"mobiletitle": "Social Safety Net",
+		"section": "Safety Net",
+		"provider": "Admin",
+		"image": "/community/img/overview/farmfresh-eggs.jpg",
+		"siteHeaderHeight": "10px",
+		"siteHeaderHeightMax": "230px",
+		"icon": "<i class='material-icons'>&#xE87A;</i>",
+		"hideOverlaysButton": "true",
+		"sectionTitle": "leftNav",
+		"topnavaccess": "10",
+		"menuaccess": "0",
+		"directlink": "/localsite/map/#show=net",
+		"caption": ""
+	},
 	{
 		"item": "parks",
 		"title": "Georgia State Parks and Historic Sites",
@@ -1617,7 +1636,7 @@ callback(
 		"sectionicon": "<i class='material-icons'>&#xE90F;</i>",
 		"primarytitleformattedX": "Georgia Companies",
 		"provider": "Centers of Innovation",
-		"image": "/explore/menu/img/hero/stars.jpg",
+		"image": "/community/img/overview/logistics.jpg",
 		"siteHeaderHeight": "180px",
 		"feedname": "logisticsCOI",
 		"feedX": "https://georgia-map.carto.com/api/v2/viz/52719b28-9d43-11e6-9a5f-0e3ff518bd15/viz.json",
