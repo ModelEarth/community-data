@@ -10,7 +10,7 @@ The following R-Language updates to countyTiger.R in the [community-data repo](h
 <option value="WY" stateid="56" lat="42.9897" lon="-107.5444" km="251459">Wyoming</option>  
 ```
 
-Loren will add the resulting menu updates here to zoom into the state county maps:  
+We'll add the resulting menu updates here to zoom into the state county maps:  
 
 [https://model.earth/localsite/info/#select=counties](https://model.earth/localsite/info/#select=counties)
 
