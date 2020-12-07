@@ -12,6 +12,6 @@ The following R-Language updates to countyTiger.R in the [community-data repo](h
 
 We'll add the resulting menu updates here to zoom into the state county maps:  
 
-[https://model.earth/localsite/info/#select=counties](https://model.earth/localsite/info/#select=counties)
+[https://model.earth/localsite/info/#select=counties](https://model.earth/localsite/info/#show=counties)
 
 
