@@ -11,7 +11,8 @@ state_csv = st_drop_geometry(state) %>%
   select(STATEFP, STUSPS, NAME, ALAND, INTPTLAT, INTPTLON) %>%
   mutate(ALAND = round(ALAND / 1e+06, 0)) %>% # change unit from m2 to km2, round to integer
   rename(lat = INTPTLAT, lon = INTPTLON, name = NAME, kilometers = ALAND, fips = STATEFP, state = STUSPS) %>%
-  mutate(lat = round(as.numeric(lat), num_decimals), lon = round(as.numeric(lon), num_decimals))
+  mutate(lat = round(as.numeric(lat), num_decimals), lon = round(as.numeric(lon), num_decimals)) %>%
+  arrange(name)
 
 
 # write csv
