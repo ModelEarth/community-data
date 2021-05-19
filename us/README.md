@@ -4,7 +4,7 @@ The following R-Language updates to countyTiger.R in the [community-data repo](h
 
 1. Round the lat and lon values to four decimals.  
 2. Round decimals off kilometers  
-3. Output a dropdown menu list in the following format. (Continue to output the select.csv file.)  
+3. DONE - Output a dropdown menu list in the following format. (Continue to output the select.csv file.)  
 
 ```
 <option value="WY" stateid="56" lat="42.9897" lon="-107.5444" km="251459">Wyoming</option>  
