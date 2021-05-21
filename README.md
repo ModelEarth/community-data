@@ -8,7 +8,7 @@ To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in 
 
 After running, you can delete the county_level folder inside data_raw\BEA_Industry_Factors.  
 
-The last block of this notebook contains the code for generating the state-wide data. Getting the state-wide totals directly from the Census API results in numbers different from the sum of each state’s county totals.  
+The last block of this notebook contains the code for generating the state-wide data. Getting the state-wide totals directly from the Census API results in numbers different from the sum of each state’s county totals since the cesus excludes payroll and number of employees for counties with only a couple firms.  
 
 
 ## Usage  
