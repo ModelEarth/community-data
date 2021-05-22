@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="img/logo/speakman-icon.png" />
+
+<title>Community Data</title>
+<link type="text/css" rel="stylesheet" href="https://neighborhood.org/localsite/css/base.css" />
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/localsite.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/navigation.js"></script>
+
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/d3.v5.min.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/showdown.min.js"></script>
+
+<script>
+    param.titleArray = ["community","data"]
+    param.startTitle = "Community Data"
+    //param.headerFile = "header.html"
+    //param.footer = "footer.html"
+    
+    $(window).scroll(function(){let toZero = 1-$(window).scrollTop()/200; $(".herocenter").css("opacity", toZero); if (toZero <= 0) {$(".herocenter").hide()} else {$(".herocenter").show();}});
+</script>
+
+<style>
+
+.bgimg { background-position: 0 0px; }
+
+.text-flow {
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    padding:15px 20px 15px 20px;
+    background-color: rgba(33,33,33,.85);
+}
+.fade-in {
+  animation: fadeIn ease 4s;
+}
+@keyframes fadeIn {
+    0% {
+    opacity:0;
+    }
+    100% {
+    opacity:1;
+    }
+}
+.bgimg-notfixed {
+    background-attachment: scroll;
+}
+#play-button {
+    opacity: .8;
+    cursor: pointer;
+}
+#play-buttonX:hover {
+    opacity: 1
+}
+.storybox {
+    position: absolute;
+    left: 60px;
+    bottom: 40px;
+    height: 220px;
+    width: 420px;
+    background-color: rgba(35, 35, 35, .85);
+    padding: 60px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    color:#fff;
+    line-height: 2.6em;
+    font-size: 16px;
+}
+@media (max-width: 1400px) {
+  .storybox {display:none;}
+}
+</style>
+</head>
+
+<body>
+<div style="background:#fff; min-height:150px; width:100%; position: relative">
+    
+    <!-- logo centered -->
+    <div class="herocenter" style="position: absolute; z-index:2; top:37%">
+
+        <div class="fade-in text-flowX" style="position:fixed; left:0px; right:0px; 
+        text-align:center; margin-top:50px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
+            <span style="font-weight:800; opacity:1">your</span> community data
+
+            <!--
+            <br><br>
+            <div id="play-button" style="font-size: 48px; margin-left:2px"><a href="#mission">
+            ▶️</a>
+            </div>
+            -->
+        </div>
+    </div>
+
+    <div class="lazy bgimg bgimg-notfixed" data-src="img/hero/woman-table-computer.jpg" style="opacity:.85">
+        <img src="img/hero/woman-table-computer.jpg" style="opacity:0;width:100%">
+    </div>
+
+    <div class="storybox hideMobile local" style="display:none">
+           <b>Welcome</b><br>
+           This box is only visible locally.<br>
+           The class "local" displays it.
+    </div>
+</div>
+
+<a name="mission"></a>
+
+<div class="content contentpadding">
+
+<div class="pageColumns" style="displayX:none">
+
+    <div class="pageColumn">
+      <div class="pageColumnInside">
+          <h2>Who We Are</h2>
+          Code for America Brigades<br>
+          <a href="https://model.earth/localsite/map/">Brigade Map</a>
+      </div>
+    </div>
+
+    <div class="pageColumn">
+      <div class="pageColumnInside">
+
+        <h2>What We Do</h2>
+        Integrations of workforce data<br>
+        <a href="https://model.earth/community/">Model.Earth Projects</a>
+
+      </div>
+    </div>
+
+
+
+    <div class="pageColumn">
+      <div class="pageColumnInside">
+
+        <h2>Our Partners</h2>
+        <!--Industry, Nonprofits, Universities<br>-->
+        States and Federal Government<br>
+        <a href="https://model.georgia.org">Model.Georgia.org</a>
+        
+      </div>
+    </div>
+
+</div>
+
+
+
+
+</div>
+
+<div style="clear:both"></div>
+
+
+
+<div class="lazy bgimg bgimg-notfixed" data-src="img/hero/group-yellow-chairs.jpg" style="top:auto; bottom:0px; opacity:.85; line-height: 0px">
+    <img src="img/hero/group-yellow-chairs.jpg" style="opacity:0; width:100%; bottom:0px;">
+</div>
+
+<!--
+Goal: To provide a free alternative to SalesForce using Frappe
+
+Workforce seeks to identify and reduce the financial take of middlemen in the allocation process.
+-->
+
+<div class="content contentpadding">
+    <div id="readmeDiv"></div>
+</div>
+<script>
+    loadMarkdown("README.md", "readmeDiv", "_parent");
+</script>
+
+<br><br>
+
+<div class="lazy bgimg bgimg-notfixed" data-src="img/hero/postit-board.jpg" style="top:auto; bottom:0px; opacity:.85; line-height: 0px">
+        <img src="img/hero/postit-board.jpg" style="opacity:0; width:100%; bottom:0px;">
+    </div>
+
+<div id="footer"></div>
+
+</body>
+</html>

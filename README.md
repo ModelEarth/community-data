@@ -1,56 +1,99 @@
-# Community Data
+# Community Data Prep
 
-To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in a Jupyter Notebook or by running:  
+Community Data pre-processed data for the model.earth project.  
+
+The following has not yet been fully implimented. It orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline)
+
+## Running the Pipeline Locally
+
+Prerequisites:
+- `make`
+- `node`
+
+After a fresh clone, run `npm install` to install the necessary node modules.
+
+To run the full pipeline, which will download the latest tree data and all
+images, run:
+
+```bash
+make release
+```
+
+To skip lengthy network requests, you can run a smaller version of the pipeline
+with:
+
+```bash
+make local-only
+```
+
+See the `Makefile` for other rules that are available.
+
+### Viewing the Logs
+
+The various scripts that makeup the pipeline rely on reading/writing to stdin 
+and stdout, so the scripts can't log to stdout like you'd expect. Instead, they
+write to a log file that's located at tmp/log.txt. If you'd like to watch logs
+as they happen, simply run:
+
+```bash
+tail -f tmp/log.txt
+```
+
+### Command Documentation
+
+#### find\_missing\_species.py
+This covers how to run the find_missing_species.py script. Let's start with the command line options and what they do:
+```
+python find_missing_species.py -u <inventory url> -s <known species csv file> -o <output file>
+```
+`-u`: This is the url to download the tree inventory csv from santa monica. This data must also contain the column, `Species ID`, which is the species id. If not specified, it defaults to `https://data.smgov.net/resource/w8ue-6cnd.csv?$limit=50000`
+
+`-s`: This specifies the csv file containing all known species ids. This script expects the species id in the column named `Species ID`. If not specified, it defaults to `data/species_attributes.csv`
+
+`-o`: This specifies the name of the output csv file. If not specified it prints the csv file to stdout (aka the command line).
 
 
-	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
+Here are some examples:
 
+```
+python find_missing_species.py -h # this shows you all the options (and explanations)
 
-After running, you can delete the county_level folder inside data_raw\BEA_Industry_Factors.  
+# this grabs data from the santa monica trees dataset and saves them to missing_trees.csv
+python find_missing_species.py -o missing_trees.csv
 
-The last block of this notebook contains the code for generating the state-wide data. Getting the state-wide totals directly from the Census API results in numbers different from the sum of each state’s county totals since the cesus excludes payroll and number of employees for counties with only a couple firms.  
+# uses all the defaults and prints the output to the command line
+python find_missing_species.py
+```
 
+### General Thoughts on the Pipeline
 
-## Usage  
+We don't want a server. To avoid this, we serve static data as JSON via a Google 
+Cloud bucket. This has a number of benefits, namely cost and client simplicity.
 
-Resulting data is used with Environmentally-Enable Input-Output widgets within Model.earth and Neighborhood.org.  Our goal is to provide a framework for global analysis and we welcome your participation. You may also pull this data into your other projects.
+The pipeline in general works like this:
 
-### Data Includes
+- Start with tree data provided by FLOWSA, Federal Farmfresh data, etc.
+- End with CSV and JSON files that can be used to render maps, and a series of 
+  JSON files that represent the details of individual locations and zip codes.
+- In between, we break down each augmentation/alteration of the data into a
+  series of distinct processes, each of which reads from stdin and writes to
+  stdout. Examples include doing the initial parse of the CSV and APIs.
+- Each of these scripts are written and documented extensively.
+- The Makefile composes these scripts into a set of routines.
+- CircleCI will run the `make release` script nightly to update the data.
 
-#### US Industries by County
-Annual Payroll, Employee Count, Establishments (with estimates filling gaps that protect anonymity)  
+## Protocol for pull requests + code review
 
+- Please review open issues and link your pull request to the relevant issue.
+- Please create new branch!
+- For all **new** changes, please submit your pull request to the ```test-circleci``` branch.
+- In your pull request, please list and explain all proposed changes to the code base (additions, deletions). If you reuse code from elsewhere, please make sure you've attributed it.
+- Please apply all relevant labels to your pull request.
+- Please request a review (either from a specific person or from the appropriate [slack channel](https://model.earth/community/challenge/meetups/)).
+- Reviewers: please review all proposed changes, write comments and questions in line notes. Please review all updates made at your request.
+- Reviewer and requester: please confirm with each other that the PR is ready to merge. Please make sure that the PR branch name documents the new changes.
 
+## Data Sources
 
-### For NAICS industry charts
-
-The Jupyter Notebook for industry data preparation resides in [us_econ.ipynb](us_econ.ipynb).  
-
-Run the notebook cells either in juyter notebook or by running from the command line:
-
-	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
-
-After aggregating the data, you can delete the county\_level and state\_level folders inside data/data_raw/BEA\_Industry\_Factors.  
-
-The last block of this notebook contains the code for generating the state-wide data. When only 1 or 2 of an industry reside in a county, numbers are omitted by the US Census to protect privacy. As a result, the state-wide totals from the Census API are larger than the sum of each state’s county totals.  
-[Additional info](https://github.com/modelearth/community/issues/9)  
-### API calls
-As included in the [us_econ.ipynb](us_econ.ipynb) notebook, the base url for API calls is:
-
-	https://api.census.gov/data
-
-A full URL follows the following format:
-
-	{base_url}/{year}/cbp?get={columns_to_select}&for=county:*&in=state:{fips:02d}
-
-For example, to get the 2016 data for all counties in the state of Georgia, you can use the following URL:
-
-	https://api.census.gov/data/2016/cbp?get=GEO_ID,GEO_TTL,COUNTY,YEAR,NAICS2012,NAICS2012_TTL,ESTAB,EMP,PAYANN&for=county:*&in=state:13
-
-You can find a list of columns to select on [this link](https://api.census.gov/data/2016/cbp/variables.html).
-### Note for the data used in the Bubblemap
-If rounding off 8 decimals, ozone depletion, pesticides and a few others would need to be switched to scientific notation in the data file. This would allow the files to be reduced
-US from 151kb to under 72.7kb
-GA from 120kb, to under 59.2kb
-
-
+EPA FLOWSA - [Pull state data from API](https://model.earth/localsite/info/data/)  
+BEA - [view our prior script](process/python/bea/)
