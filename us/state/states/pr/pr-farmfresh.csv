@@ -1,3 +1,3 @@
-"city","facebook","name","state","street","tags","twitter","type","website","x","y","zip"
-"Barranquitas ","SweetWater Vertical Farm","SweetWater Vertical Farm","pr","Carretera 779 KM 8.9","herbs fresh-fruits fresh-vegetables honey juices ciders","","farm","","-66.269690","18.243352","00794"
-"Carolina","","L. A Mercado Agricola","pr","","baked goods flowers eggs vegetables honey trees coffee juices","","market","","-66.011273","18.431395","00979"
+"city","facebook","latitude","longitude","name","state","street","tags","twitter","type","website","zip"
+"Barranquitas ","SweetWater Vertical Farm","18.243352","-66.269690","SweetWater Vertical Farm","PR","Carretera 779 KM 8.9","herbs fresh-fruits fresh-vegetables honey juices ciders","","farm","","00794"
+"Carolina","","18.431395","-66.011273","L. A Mercado Agricola","PR","","baked goods flowers eggs vegetables honey trees coffee juices","","market","","00979"

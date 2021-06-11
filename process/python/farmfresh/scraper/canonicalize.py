@@ -60,6 +60,8 @@ us_state_abbrev = {
     'Wyoming': 'wy'
 }
 
+us_state_abbrev_upper = {k:v.upper() for k,v in us_state_abbrev.items()}
+
 k_mapping = {
     "OF_ID": "type",
     "FMID": "type",
@@ -79,8 +81,8 @@ k_mapping = {
     "Facebook": "facebook",
     "Market_Twitter": "twitter",
     "Twitter": "twitter",
-    "x": "x",
-    "y": "y",
+    "x": "longitude",
+    "y": "latitude",
     "Organic": "tags",
     "Bakedgoods": "tags",
     "Cheese": "tags",
@@ -154,8 +156,8 @@ def v_mapping_func(map):
 v_mapping = {
     "FMID": lambda x: "market",
     "OF_ID": lambda x: "farm",
-    "State": v_mapping_func(us_state_abbrev),
-    "Location_State": v_mapping_func(us_state_abbrev),
+    "State": v_mapping_func(us_state_abbrev_upper),
+    "Location_State": v_mapping_func(us_state_abbrev_upper),
     "Organic": v_mapping_func({"Y": "organic"}),
     "Bakedgoods": v_mapping_func({"Y": "baked goods"}),
     "Cheese": v_mapping_func({"Y": "cheese"}),
