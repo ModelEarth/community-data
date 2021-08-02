@@ -1,8 +1,10 @@
-# Community Data Prep
+# Community Datasets
 
-Community Data pre-processed data for the model.earth project.  
+Pre-processed state, county and zipcode data for the [model.earth](https://model.earth) project.  
 
-The following has not yet been fully implimented. It orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline)
+Most data resides in our [state folders](https://github.com/modelearth/community-data/tree/master/us/state).  
+
+The following Python pipeline has not yet been fully implimented. It orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline)
 
 ## Running the Pipeline Locally
 
