@@ -7,7 +7,7 @@ It fetches data for our [Map of Fresh Produce](https://model.earth/localsite/inf
 
 Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
 
-TO DO: Set up a GitHub Action that runs the [a Python scraper](scraper) nightly.  
+TO DO: Set up a GitHub Action that runs the [Python scraper](scraper) nightly.  
 Update the state files if changed. Call the nightly process from a page listing all the data pulls.  
 
 
