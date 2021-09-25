@@ -1,12 +1,14 @@
 # Farm Fresh Data
 
+We're using [a Python scraper](scraper) to pull and merge locations from the national USDA dataset.  
+Note that USDA now also provides an [API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).  
 
-Fetch data for our [Map of Fresh Produce](https://model.earth/localsite/info/#show=farmfresh).  
+It fetches data for our [Map of Fresh Produce](https://model.earth/localsite/info/#show=farmfresh).  
 
 Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
 
-We're using a Python scraper to pull and merge locations from the national USDA dataset.  
-Note that USDA now also provides an [API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).  
+TO DO: Set up a GitHub Action that runs the [a Python scraper](scraper) nightly.  
+Update the state files if changed. Call the nightly process from a page listing all the data pulls.  
 
 
 ### About USDA Source
