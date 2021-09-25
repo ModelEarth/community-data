@@ -1,7 +1,9 @@
 # Farm Fresh Data
 
 
-Fetch data for our [Map of Fresh Produce](../../localsite/info/#show=farmfresh).  Here are [Georgia Data Specifics](ga)  
+Fetch data for our [Map of Fresh Produce](https://model.earth/localsite/info/#show=farmfresh).  
+
+Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
 
 We're using a Python scraper to pull and merge locations from the national USDA dataset.  
 Note that USDA now also provides an [API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).  

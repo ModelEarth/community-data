@@ -2,11 +2,11 @@
 
 Pre-processed state, county and zipcode data for the [model.earth](https://model.earth) project.  
 
-Most data resides in our [state folders](https://github.com/modelearth/community-data/tree/master/us/state).  
+Most data currently resides in our [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) subfolders.  
 
 Our Python pipeline has not yet been implimented. The following orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). We may instead just use Github Actions. Here are links to our [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions).
 
-## Running the Pipeline Locally
+## Running the Pipeline Locally (We're not currently using this. Using GitHub Actions instead)
 
 Prerequisites:
 - `make`
@@ -97,5 +97,5 @@ The pipeline in general works like this:
 
 ## Data Sources
 
-EPA FLOWSA - [Pull state data from API](https://model.earth/localsite/info/data/)  
-BEA - [view our prior script](process/python/bea/)
+EPA FLOWSA - [Display datasets from API](https://model.earth/localsite/info/data/)  
+BEA - [Our prior script](process/python/bea/)
