@@ -4,9 +4,19 @@ Pre-processed state, county and zipcode data for the [model.earth](https://model
 
 Most data currently resides in our [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) subfolders.  
 
-Our Python pipeline has not yet been implimented. The following orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). We may instead just use Github Actions. Here are links to our [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions).
 
-## Running the Pipeline Locally (We're not currently using this. Using GitHub Actions instead)
+
+We're using Github Actions. Here are our [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions).
+
+
+
+
+<br><br><br><br><br>
+
+## Running the Pipeline Locally<br>(We're not currently using the following. Using GitHub Actions instead.)
+
+We did not implement the following Python pipeline. The following orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). We're using GitHub Action instead.  
+
 
 Prerequisites:
 - `make`
