@@ -15,7 +15,9 @@ We're using Github Actions. Here are our [Github&nbsp;Actions&nbsp;samples](http
 
 ## Running the Pipeline Locally<br>(We're not currently using the following. Using GitHub Actions instead.)
 
-We did not implement the following Python pipeline. The following orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). We're using GitHub Action instead.  
+We did not implement the following Python pipeline. 
+The following orginated from the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). 
+We're using GitHub Actions instead.  
 
 
 Prerequisites:
