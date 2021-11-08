@@ -1,6 +1,6 @@
 # Community Datasets
 
-Pre-processed state, county and zipcode data for the [model.earth](https://model.earth) project.  
+Pre-processed county and zipcode data for the [model.earth](https://model.earth) [neighborhood.org](https://neighborhood.org) project.  
 
 Most data currently resides in our [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) subfolders.  
 
