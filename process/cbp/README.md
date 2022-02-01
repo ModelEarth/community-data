@@ -16,7 +16,6 @@ We'll need to figure out if the Eckert source can provide a payroll estimate.
 **Generate files for all states and save at:**	  
 community-data/us/state/GA/naics/GA-county-naics6-2018.csv
 
-
-
+[Example of saving to state files](../python/bea). Make this a process we can share with our ML processing. 
 
 
