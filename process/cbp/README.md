@@ -10,7 +10,7 @@ FIPS,NAICS,Establishments,Employees,Payroll
 (Machine learning export might also include Population)
 
 Generate for all states in the format:  
-community-data/us/state/GA/GA-county-naics-6-digits-2018.csv
+community-data/us/state/GA/naics/GA-county-naics6-2018.csv
 
 
 
