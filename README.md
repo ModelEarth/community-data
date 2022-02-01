@@ -10,5 +10,6 @@ County NAICS data from [Fabian Eckert 2018 output](process/cbp).
 
 [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions)  
 
-Before GitHub Actions, another approach would be like the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline). Here's a [fork of the resulting map](https://neighborhood.org/public-tree-map/).
+Before GitHub Actions, another approach would be like the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline).  
+Here's a [fork of the resulting Santa Monica tree map](https://neighborhood.org/public-tree-map/).
 
