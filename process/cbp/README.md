@@ -15,7 +15,7 @@ Combine fipstate, fipscty into a 5 character string.
 We'll need to figure out if the Eckert source can provide a payroll estimate.  
 
 **Generate folders and files for all states in the format:**	  
-community-data/us/state/GA/naics/GA-county-naics6-2018.csv
+community-data/us/state/GA/naics/GA-counties-naics6-2018.csv
 
 [Example of saving to state files](../python/bea). Make this a process we can share with our ML processing. 
 
