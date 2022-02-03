@@ -1,5 +1,9 @@
 # Community Data (us_econ)
 
+Open Jupyter Notebook in a browser with the command:
+
+	jupyter-notebook
+
 To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in a Jupyter Notebook or by running:  
 
 
