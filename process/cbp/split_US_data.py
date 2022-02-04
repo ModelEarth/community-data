@@ -16,7 +16,7 @@ for i in range(2,7): # Generate for 2 to 6
     #df = pd.read_csv('country/US-counties-naics'+str(i)+'-'+year+'-'+quarter+'.csv', dtype = str)
     #df = pd.read_csv('source/efsy_panel_naics'+year+'.csv', dtype = str)
 
-    df = pd.read_csv('source/US-states-naics2-2021-Q1.csv', dtype = str)
+    df = pd.read_csv('source/US-counties-naics2-2021-Q1.csv', dtype = str)
     
     states = pd.read_csv("source/FIPS_state_no_starting_zero.csv", dtype = str)
     fips_list = states['FIPS'].tolist()
