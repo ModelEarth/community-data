@@ -9,7 +9,7 @@ import random
 year = "2018"
 
 # Set to quarter desired. Must be string.
-# quarter = "Q1"
+quarter = "Q1"
 
 for i in range(2,7): # Generate for 2 to 6
 
