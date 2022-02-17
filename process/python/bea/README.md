@@ -1,5 +1,7 @@
 # Community Data (us_econ)
 
+Online at our [Google Colab](https://colab.research.google.com/drive/1gXlpE6Hmc60RRsbYXuJ4QRoKyfnv2wzC) - not tested  
+
 Open Jupyter Notebook in a browser with the command:
 
 	jupyter-notebook
