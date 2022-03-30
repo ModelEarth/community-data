@@ -44,16 +44,16 @@ def zipcode(): # populates zip code folders with data for each zip
         with open("ind2_data.json", "r") as f2:
             jsdata = json.load(f2)
 
-        df = pd.DataFrame(jsdata, columns = ["Zip Code", "naics", "Establishments", "Employees", "Payroll", "IND Level"])
+        df = pd.DataFrame(jsdata, columns = ["Zip", "Naics", "Establishments", "Employees", "Payroll", "NaicsLevel"])
 
         for num in zips[30000:30500]:
             if df.loc[df["Zip Code"] == num].empty == True:
                 continue
             elif not os.path.exists("zips/" + num): # check if directory for zipcode already there before
                 os.makedirs("zips/" + num)
-                df.loc[df["Zip Code"] == num].to_csv("zips/" + num + "/zipcode" + num + "-naics" + j + "-2018" + ".csv", index = False)
+                df.loc[df["Zip"] == num].to_csv("zips/" + num + "/zipcode" + num + "-naics" + j + "-2018" + ".csv", index = False)
             else:
-                df.loc[df["Zip Code"] == num].to_csv("zips/" + num + "/zipcode" + num + "-naics" + j + "-2018" + ".csv", index = False)
+                df.loc[df["Zip"] == num].to_csv("zips/" + num + "/zipcode" + num + "-naics" + j + "-2018" + ".csv", index = False)
         print("Done with IND")
 
 
