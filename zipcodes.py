@@ -10,7 +10,7 @@ import os
 import json, requests, csv
 import pandas as pd
 
-ind_level = "6"
+ind_level = "5"
 url = "https://api.census.gov/data/2018/zbp?get=ZIPCODE,NAICS2017,ESTAB,EMPSZES,PAYANN&for=&INDLEVEL=" + ind_level
 
 # Simple way to get all Data
@@ -22,7 +22,7 @@ orig.columns = new_header
 # Converting to Integer Values
 # cannot convert to int '44-45' -> need to determine best course of action
 # duplicate row with 44 and 45 line?
-int_df = orig.astype({'NAICS2017':'int', 'ESTAB' : 'int', 'EMPSZES' : 'int', 'PAYANN' : 'int', 'ZIPCODE' : 'str'})
+int_df = orig.astype({'NAICS2017':'str', 'ESTAB' : 'int', 'EMPSZES' : 'int', 'PAYANN' : 'int', 'ZIPCODE' : 'str'})
 
 # Grouping (Count Unique & Sum)
 gr1 = int_df[['ZIPCODE','NAICS2017']].groupby(['ZIPCODE']).nunique()

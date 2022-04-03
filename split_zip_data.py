@@ -44,7 +44,7 @@ def zipcode(): # populates zip code folders with data for each zip
 
         df = pd.DataFrame(jsdata, columns = ["Zip", "Naics", "Establishments", "Employees", "Payroll", "NaicsLevel"])
 
-        for num in zips[29500:30500]:
+        for num in zips[80000:]:
             if df.loc[df["Zip"] == num].empty == True:
                 continue
             if not os.path.exists("us/zipcodes/naics/" + num[0]): # check if directory for 1st num already there
