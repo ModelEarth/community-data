@@ -6,7 +6,7 @@ import os
 import json, requests, csv
 import pandas as pd
 
-inds = ["4"]
+inds = ["5"]
 raw_nums = list(range(501,99951))
 zips = []
 
