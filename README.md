@@ -6,10 +6,10 @@ County Business Pattern (CBP) Processed data currently resides in [community-dat
 
 https://api.census.gov/data/{year}/cbp?get={columns_to_select}&for=county:*&in=state:{fips:02d}  
 
-[About our data pipeline](https://model.earth/localsite/info/data/)  
+[About our data pipeline](https://model.earth/data-pipeline)  
 
 [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions)  
 
-Before GitHub Actions, another approach would be like the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline).  
+BPrior to GitHub Actions, another approach was the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline).  
 Here's a [fork of the resulting Santa Monica tree map](https://neighborhood.org/public-tree-map/).
 
