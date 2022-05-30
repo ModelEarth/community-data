@@ -28,9 +28,7 @@ print(int_df.columns)
 
 # Grouping (Count Unique & Sum)
 gr1 = int_df[['Zip','Industries']].groupby(['Zip']).nunique()
-#gr11 = gr1.rename({'ZIPCODE' : 'Zip'}, inplace = False)
 gr2 = int_df[['Zip','Establishments', 'Employees', 'Payroll']].groupby(['Zip']).sum()
-#gr22 = gr2.rename({'ZIPCODE' : 'Zip'}, inplace = False)
 
 # Merging Grouped Dataframes
 combined = gr1.merge(gr2, left_on='Zip', right_on='Zip')

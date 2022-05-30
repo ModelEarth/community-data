@@ -43,8 +43,8 @@ def zipcode(): # populates zip code folders with data for each zip
             jsdata = json.load(f2)
 
         df = pd.DataFrame(jsdata, columns = ["Zip", "Naics", "Establishments", "Employees", "Payroll", "NaicsLevel"])
-        df['Employees'] = df['Employees'].astype('int')
-        #df2 = df.astype({'Employees' : 'int'})
+        df['Employees'] =  df['Employees'].str.lstrip('0')
+        print(df)
 
         for num in zips[29500:30000]:
             if df.loc[df["Zip"] == num].empty == True:
