@@ -11,7 +11,7 @@ To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in 
 
 	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
 
-It takes a few hours for the Python scripts to run. The biggest part is getting data from API. the second big one is aggregating tthe CSV files and deleting the prior files.  
+It takes a few hours for the Python scripts to run. The biggest part is getting data from API. the second big one is aggregating the CSV files and deleting the prior files.  
 
 After running, you can delete the county_level folder inside data_raw\BEA_Industry_Factors.  
 
