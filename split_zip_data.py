@@ -6,7 +6,7 @@ import os
 import json, requests, csv
 import pandas as pd
 
-inds = ["6"]
+inds = ["2", "3", "4", "5"]
 raw_nums = list(range(501,99951))
 zips = []
 
@@ -46,7 +46,7 @@ def zipcode(): # populates zip code folders with data for each zip
         df['Employees'] =  df['Employees'].str.lstrip('0')
         print(df)
 
-        for num in zips[29500:30000]:
+        for num in zips:
             if df.loc[df["Zip"] == num].empty == True:
                 continue
             if not os.path.exists("us/zipcodes/naics/" + num[0]): # check if directory for 1st num already there
