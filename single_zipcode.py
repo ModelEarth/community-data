@@ -19,23 +19,22 @@ import pandas as pd
 
 inds = ["2"]
 
-def single_zipcode(input_zip): # populates zip code folders with data for each zip
-    for j in inds:
-        url = "https://api.census.gov/data/2018/zbp?get=ZIPCODE,NAICS2017,ESTAB,EMPSZES,PAYANN&for=&INDLEVEL=" + j
-        response = requests.get(url)
-        data = response.json()
-        with open('ind_data.json', 'w') as f:
-            json.dump(data, f)
+def single_zipcode(input_zip, ind_level): # populates zip code folders with data for given zip and NAICS (ind) level
+    url = "https://api.census.gov/data/2018/zbp?get=ZIPCODE,NAICS2017,ESTAB,EMPSZES,PAYANN&for=&INDLEVEL=" + str(ind_level)
+    response = requests.get(url)
+    data = response.json()
+    with open('ind_data.json', 'w') as f:
+        json.dump(data, f)
 
-        with open("ind_data.json", "r") as f2:
-            jsdata = json.load(f2)
+    with open("ind_data.json", "r") as f2:
+        jsdata = json.load(f2)
 
-        df = pd.DataFrame(jsdata, columns = ["Zip", "Naics", "Establishments", "Employees", "Payroll", "NaicsLevel"])
-        df['Employees'] =  df['Employees'].str.lstrip('0')
+    df = pd.DataFrame(jsdata, columns = ["Zip", "Naics", "Establishments", "Employees", "Payroll", "NaicsLevel"])
+    df['Employees'] =  df['Employees'].str.lstrip('0')
 
-
-        if df.loc[df["Zip"] == input_zip].empty == True:
-            continue
+    if df.loc[df["Zip"] == input_zip].empty == True:
+        print("No Data")
+    else:
         if not os.path.exists("us/zipcodes/naics/" + input_zip[0]): # check if directory for 1st num already there
             os.makedirs("us/zipcodes/naics/" + input_zip[0])
         if not os.path.exists("us/zipcodes/naics/" + input_zip[0] + "/" + input_zip[1]):
@@ -47,11 +46,11 @@ def single_zipcode(input_zip): # populates zip code folders with data for each z
         if not os.path.exists("us/zipcodes/naics/" + input_zip[0] + "/" + input_zip[1] + "/" + input_zip[2] + "/" + input_zip[3] + "/" + input_zip[4]):
             os.makedirs("us/zipcodes/naics/" + input_zip[0] + "/" + input_zip[1] + "/" + input_zip[2] + "/" + input_zip[3] + "/" + input_zip[4])
 
-        df.loc[df["Zip"] == input_zip].to_csv("us/zipcodes/naics/" + input_zip[0] + "/" + input_zip[1] + "/" 
-        + input_zip[2] + "/" + input_zip[3] + "/" + input_zip[4] + "/zipcode" + input_zip + "-census-naics" + j + "-2018" + ".csv", index = False)
+    df.loc[df["Zip"] == input_zip].to_csv("us/zipcodes/naics/" + input_zip[0] + "/" + input_zip[1] + "/" 
+    + input_zip[2] + "/" + input_zip[3] + "/" + input_zip[4] + "/zipcode" + input_zip + "-census-naics" + str(ind_level) + "-2018" + ".csv", index = False)
 
-        print("Done")
+    print("Done")
 
 ## Function Call
-single_zipcode("98006")
-print("Run Complete")
+single_zipcode("98006", 2)
+print("Complete")

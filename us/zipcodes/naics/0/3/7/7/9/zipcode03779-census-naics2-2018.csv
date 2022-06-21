@@ -1,4 +1,4 @@
-Zip,Naics,Establishments,Employees,Payroll,NaicsLevel
-03779,00,7,1,2057,2
-03779,00,4,210,0,2
-03779,72,3,1,0,2
+Naics,Establishments,Employees,Payroll
+00,7,1,2057
+00,4,210,0
+72,3,1,0

@@ -1,6 +1,6 @@
-Zip,Naics,Establishments,Employees,Payroll,NaicsLevel
-03771,00,12,1,3473,2
-03771,00,8,210,0,2
-03771,23,4,1,0,2
-03771,23,4,210,0,2
-03771,48-49,3,1,0,2
+Naics,Establishments,Employees,Payroll
+00,12,1,3473
+00,8,210,0
+23,4,1,0
+23,4,210,0
+48-49,3,1,0

@@ -6,7 +6,7 @@ import os
 import json, requests, csv
 import pandas as pd
 
-inds = ["2", "3", "4", "5"]
+inds = ["2"]
 raw_nums = list(range(501,99951))
 zips = []
 
@@ -46,7 +46,7 @@ def zipcode(): # populates zip code folders with data for each zip
         df['Employees'] =  df['Employees'].str.lstrip('0')
         print(df)
 
-        for num in zips:
+        for num in zips[3000:3500]:
             if df.loc[df["Zip"] == num].empty == True:
                 continue
             if not os.path.exists("us/zipcodes/naics/" + num[0]): # check if directory for 1st num already there
@@ -60,7 +60,7 @@ def zipcode(): # populates zip code folders with data for each zip
             if not os.path.exists("us/zipcodes/naics/" + num[0] + "/" + num[1] + "/" + num[2] + "/" + num[3] + "/" + num[4]):
                 os.makedirs("us/zipcodes/naics/" + num[0] + "/" + num[1] + "/" + num[2] + "/" + num[3] + "/" + num[4])
 
-            df.loc[df["Zip"] == num].to_csv("us/zipcodes/naics/" + num[0] + "/" + num[1] + "/" + num[2] + "/" + num[3] + "/" + num[4] + "/zipcode" + num + "-census-naics" + j + "-2018" + ".csv", index = False)
+            df.loc[df["Zip"] == num].drop(columns=["Zip", "NaicsLevel"], axis = 1).to_csv("us/zipcodes/naics/" + num[0] + "/" + num[1] + "/" + num[2] + "/" + num[3] + "/" + num[4] + "/zipcode" + num + "-census-naics" + j + "-2018" + ".csv", index = False)
 
         print("Done with IND")
 
