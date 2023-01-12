@@ -15,6 +15,6 @@ Note: How to Process (1) Zipcode for Testing:
 
 [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#github-actions)  
 
-BPrior to GitHub Actions, another approach was the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline).  
+Prior to GitHub Actions, another approach was the [Public Tree Map Pipeline](https://github.com/Public-Tree-Map/public-tree-map-data-pipeline).  
 Here's a [fork of the resulting Santa Monica tree map](https://neighborhood.org/public-tree-map/).
 
