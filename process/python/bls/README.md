@@ -2,7 +2,7 @@
 
 This folder can be deleted if we use FLOWSA. The files in this BLS folder were added when checking if additional payroll and employment levels were available from BLS.  
 
-The following files were excluded because they exceed 100GB  
+The following files were excluded because they exceed 100 MB:  
 2020.q1-q2.singlefile.csv  
 curr_yr_qtrly_by_area.zip  
 curr_yr_qtrly_singlefile.zip  
