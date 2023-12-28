@@ -1,6 +1,6 @@
 # Community Data (us_econ)
 
-Online at our [Google Colab](https://colab.research.google.com/drive/1gXlpE6Hmc60RRsbYXuJ4QRoKyfnv2wzC) - not tested  
+Also online at our [Google Colab](https://colab.research.google.com/drive/1gXlpE6Hmc60RRsbYXuJ4QRoKyfnv2wzC) - not tested  
 
 Open Jupyter Notebook in a browser with the command:
 
@@ -22,7 +22,7 @@ The last block of this notebook contains the code for generating the state-wide 
 
 ## Usage  
 
-Resulting data is used with Environmentally-Enable Input-Output widgets within Model.earth and Neighborhood.org.  We're developing a framework for global analysis and we encourage your participation integrating datasets and pulling visualizations into your other projects.
+Resulting data is used within the [industry comparison](/localsite/info/) page to load industries for counties.
 
 ### Data Includes
 
