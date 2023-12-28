@@ -1,10 +1,10 @@
 
 [Data Pipeline](https://model.earth/data-pipeline)
-# Community Datasets
+<!--# Community Datasets -->
 
 ### County Business Patterns (CBP)
 Pre-processed data for local industry levels (including employment, establishments and payroll).
-<!--https://github.com/modelearth/community-data/tree/master/-->Processed data resides in [community-data/us/state](us/state) 
+Processed data resides in [https://github.com/modelearth/community-data/tree/master/community-data/us/state](us/state) <span class="local" style="display:none">- <a href="us/state">local</a></span>
 
 <!-- https://github.com/modelearth/community-data/tree/master/ -->
 Here are [the steps](process/python/bea) we used to generate subfolders with [us_econ.ipynb](process/python/bea) from the US Census&nbsp;API.
