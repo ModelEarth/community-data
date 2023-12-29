@@ -84,6 +84,11 @@
 @media (max-width: 1400px) {
   .storybox {display:none;}
 }
+@media (max-width: 400px) {
+    #topTitleHolder {
+        margin-top:0px !important;
+    }
+}
 </style>
 </head>
 
@@ -93,9 +98,9 @@
     <!-- logo centered -->
     <div class="herocenter" style="position: absolute; z-index:2; top:37%">
 
-        <div class="fade-in text-flowX" style="position:fixed; left:0px; right:0px; 
-        text-align:center; margin-top:50px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
-            <span style="font-weight:800; opacity:1">ModelEarth</span> Community Data
+        <div id="topTitleHolder" class="fade-in text-flowX" style="position:fixed; left:0px; right:0px; 
+        text-align:center; margin-top:50px; padding-left: 20px; padding-right: 20px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
+            <span style="font-weight:800; opacity:1">ModelEarth</span> Community&nbsp;Data
 
             <!--
             <br><br>
@@ -110,7 +115,7 @@
         <img src="img/hero/woman-table-computer.jpg" style="opacity:0;width:100%">
     </div>
 
-    <div class="storybox hideMobile local">
+    <div class="storybox hideMobile">
            <b>Localsite Map Framework</b><br>
            County Business Patterns (CBP)
     </div>
@@ -118,9 +123,9 @@
 
 <a name="mission"></a>
 
-<div class="content contentpadding">
+<div class="content contentpadding" style="display:none">
 
-<div class="pageColumns" style="displayX:none">
+<div class="pageColumns">
 
     <div class="pageColumn">
       <div class="pageColumnInside">
@@ -155,21 +160,14 @@
 
 </div>
 
-
-
-
 </div>
 
+<!--
 <div style="clear:both"></div>
 <br>
-
 <hr>
-
-<!--
-Goal: To provide a free alternative to SalesForce using Frappe
-
-Workforce seeks to identify and reduce the financial take of middlemen in the allocation process.
 -->
+
 
 <div class="content contentpadding">
     <div id="readmeDiv"></div>
