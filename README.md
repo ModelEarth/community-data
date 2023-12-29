@@ -7,15 +7,11 @@ Pre-processed data for local industry levels (including employment, establishmen
 Processed data resides in [https://github.com/modelearth/community-data/tree/master/community-data/us/state](us/state) <span class="local" style="display:none">- <a href="us/state">local</a></span>
 
 <!-- https://github.com/modelearth/community-data/tree/master/ -->
-Here are [the steps](process/python/bea) we used to generate subfolders with [us_econ.ipynb](process/python/bea) from the US Census&nbsp;API.
+Here are [the steps](process/python/bea) we used to generate subfolders with our [us_econ.ipynb](process/python/bea) python script pulling from the [US Census&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
 
 TO DO: Generate folders above with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
 
-<!-- Not sure what this relates to
-How to process zipcodes for testing:
-1) Access the single_zipcode.py file.
-2) Select which NAICS levels you want by modifying the list "inds".
-3) Run the function with desired incode as your parameter. This input should be a string, and contain five characters. Ex: '98006', '30308', '00501'
--->
+[Process Zips](process/naics/zips/)
+
 
 [Model.Earth](https://model.earth)
