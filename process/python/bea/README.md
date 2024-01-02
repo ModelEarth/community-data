@@ -2,7 +2,7 @@
 
 Also online at our [Google Colab](https://colab.research.google.com/drive/1gXlpE6Hmc60RRsbYXuJ4QRoKyfnv2wzC) - not tested  
 
-Open Jupyter Notebook in a browser with the command:
+Open Jupyter Notebook with this command in the folder process/python/bea then click us_econ.ipynb and run each step:
 
 	jupyter-notebook
 
