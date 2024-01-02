@@ -11,7 +11,7 @@ Here are [the steps](process/python/bea) we used to generate subfolders with our
 
 TO DO: Generate folders above with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
 
-[Process Zips](process/naics/zips/)
+[Process Zips](process/naics/)
 
 
 [Model.Earth](https://model.earth)
