@@ -1,6 +1,8 @@
 # Community Data (us_econ)
 
-Also online at our [Google Colab](https://colab.research.google.com/drive/1gXlpE6Hmc60RRsbYXuJ4QRoKyfnv2wzC) - not tested  
+To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in a Jupyter Notebook or by running:  
+
+	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
 
 Open Jupyter Notebook with this command in the folder process/python/bea then click us_econ.ipynb and run each step:
 
@@ -8,12 +10,7 @@ Open Jupyter Notebook with this command in the folder process/python/bea then cl
 
 You may need to run `pip install notebook` after installing Python.  
 
-To process, run [process/python/us_econ.ipynb](process/python/us_econ.ipynb) in a Jupyter Notebook or by running:  
-
-
-	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
-
-It takes a few hours for the Python scripts to run. The biggest part is getting data from API. the second big one is aggregating the CSV files and deleting the prior files.  
+It may take a few hours for the Python scripts to run. The most time is getting data from API. The second most is aggregating the CSV files and deleting the prior files.<!-- let's record actual times -->
 
 After running, you can delete the county_level folder inside data_raw\BEA_Industry_Factors.  
 
