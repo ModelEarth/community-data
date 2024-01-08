@@ -1,0 +1,90 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+13	55	999	Statewide	21	Crude petroleum and natural gas extraction	55	211111	8.0	2.6
+19	55	999	Statewide	21	Kaolin and ball clay mining	55	212324	2.0	1.0
+21	55	999	Statewide	21	Support activities for metal mining	55	213114	2.0	1.8
+24	55	999	Statewide	22	Biomass electric power generation	55	221117	3.0	1.4
+25	55	999	Statewide	22	Electric bulk power transmission and control	55	221121	11.0	5.6
+30	55	999	Statewide	22	Nuclear electric power generation	55	221113	5.75	2.8
+31	55	999	Statewide	22	Other electric power generation	55	221118	4.0	1.8
+33	55	999	Statewide	22	Solar electric power generation	55	221114	2.0	1.0
+34	55	999	Statewide	22	Steam and air-conditioning supply	55	221330	5.0	2.2
+76	55	999	Statewide	31	Broadwoven fabric mills	55	313210	7.0	3.2
+77	55	999	Statewide	31	Carpet and rug mills	55	314110	4.0	1.3333333333333333
+92	55	999	Statewide	31	Fabric coating mills	55	313320	12.75	4.8
+93	55	999	Statewide	31	Fats and oils refining and blending	55	311225	3.0	1.25
+94	55	999	Statewide	31	Fiber, yarn, and thread mills	55	313110	5.0	2.2
+95	55	999	Statewide	31	Flavoring syrup and concentrate manufacturing	55	311930	6.5	2.8
+99	55	999	Statewide	31	Frozen cakes, pies, and other pastries manufacturing	55	311813	6.25	3.2
+103	55	999	Statewide	31	Hosiery and sock mills	55	315110	2.0	1.0
+111	55	999	Statewide	31	Men's and boys' cut and sew apparel manufacturing	55	315220	7.0	2.6
+112	55	999	Statewide	31	Narrow fabric mills and schiffli machine embroidery	55	313220	7.0	3.2
+116	55	999	Statewide	31	Other apparel knitting mills	55	315190	4.0	2.0
+123	55	999	Statewide	31	Rice milling	55	311212	1.0	1.0
+125	55	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	55	314994	3.0	1.2
+128	55	999	Statewide	31	Soybean and other oilseed processing	55	311224	5.0	1.6
+129	55	999	Statewide	31	Specialty canning	55	311422	2.5	1.4
+133	55	999	Statewide	31	Tobacco manufacturing	55	312230	5.0	2.0
+135	55	999	Statewide	31	Wet corn milling	55	311221	5.0	2.8
+137	55	999	Statewide	31	Women's handbag and purse manufacturing	55	316992	2.666666666666667	1.5
+146	55	999	Statewide	32	All other petroleum and coal products manufacturing	55	324199	6.0	2.4
+149	55	999	Statewide	32	Artificial and synthetic fibers and filaments manufacturing	55	325220	2.0	1.0
+151	55	999	Statewide	32	Asphalt shingle and coating materials manufacturing	55	324122	3.0	1.5
+159	55	999	Statewide	32	Concrete pipe manufacturing	55	327332	11.0	5.2
+164	55	999	Statewide	32	Cyclic crude, intermediate, and gum and wood chemical manufacturing	55	325194	2.0	1.0
+168	55	999	Statewide	32	Flat glass manufacturing	55	327211	6.0	2.4
+170	55	999	Statewide	32	Glass container manufacturing	55	327213	7.0	2.8
+176	55	999	Statewide	32	Industrial gas manufacturing	55	325120	13.75	6.4
+193	55	999	Statewide	32	Petrochemical manufacturing	55	325110	4.0	1.8
+195	55	999	Statewide	32	Petroleum refineries	55	324110	2.0	1.25
+197	55	999	Statewide	32	Phosphatic fertilizer manufacturing	55	325312	5.0	2.0
+223	55	999	Statewide	32	Tire manufacturing (except retreading)	55	326211	1.0	1.0
+244	55	999	Statewide	33	Ammunition (except small arms) manufacturing	55	332993	5.0	2.2
+251	55	999	Statewide	33	Blank magnetic and optical recording media manufacturing	55	334613	4.5	2.0
+252	55	999	Statewide	33	Blind and shade manufacturing	55	337920	17.0	7.6
+260	55	999	Statewide	33	Computer storage device manufacturing	55	334112	6.0	3.0
+287	55	999	Statewide	33	Heavy duty truck manufacturing	55	336120	6.0	2.4
+288	55	999	Statewide	33	Household cooking appliance manufacturing	55	335221	6.0	3.0
+289	55	999	Statewide	33	Household furniture (except wood and metal) manufacturing	55	337125	10.0	4.0
+290	55	999	Statewide	33	Household refrigerator and home freezer manufacturing	55	335222	4.0	2.0
+303	55	999	Statewide	33	Irradiation apparatus manufacturing	55	334517	9.25	4.4
+306	55	999	Statewide	33	Light truck and utility vehicle manufacturing	55	336112	3.0	1.2
+310	55	999	Statewide	33	Measuring and dispensing pump manufacturing	55	333913	2.0	1.0
+323	55	999	Statewide	33	Motor home manufacturing	55	336213	2.0	1.0
+335	55	999	Statewide	33	Nonferrous forging	55	332112	2.0	1.0
+336	55	999	Statewide	33	Nonferrous metal (except aluminum) smelting and refining	55	331410	4.0	2.0
+342	55	999	Statewide	33	Oil and gas field machinery and equipment manufacturing	55	333132	2.0	1.5
+344	55	999	Statewide	33	Optical instrument and lens manufacturing	55	333314	3.25	1.4
+354	55	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	55	336419	3.0	1.25
+357	55	999	Statewide	33	Other major household appliance manufacturing	55	335228	2.0	1.0
+365	55	999	Statewide	33	Photographic and photocopying equipment manufacturing	55	333316	8.0	2.4
+367	55	999	Statewide	33	Plumbing fixture fitting and trim manufacturing	55	332913	4.0	2.0
+374	55	999	Statewide	33	Primary battery manufacturing	55	335912	6.0	3.0
+386	55	999	Statewide	33	Scale and balance manufacturing	55	333997	10.0	4.4
+387	55	999	Statewide	33	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	55	334511	7.0	3.2
+389	55	999	Statewide	33	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	55	331492	3.0	1.2
+395	55	999	Statewide	33	Small arms ammunition manufacturing	55	332992	7.0	2.2
+406	55	999	Statewide	33	Storage battery manufacturing	55	335911	5.5	2.6
+415	55	999	Statewide	33	Upholstered household furniture manufacturing	55	337121	48.416666666666664	21.8
+559	55	999	Statewide	48	Air traffic control	55	488111	18.0	9.0
+560	55	999	Statewide	48	All other pipeline transportation	55	486990	2.0	2.0
+565	55	999	Statewide	48	Coastal and great lakes freight transportation	55	483113	2.0	1.0
+571	55	999	Statewide	48	Inland water freight transportation	55	483211	2.0	1.0
+572	55	999	Statewide	48	Inland water passenger transportation	55	483212	1.0	1.0
+573	55	999	Statewide	48	Interurban and rural bus transportation	55	485210	11.0	4.4
+576	55	999	Statewide	48	Mixed mode transit systems	55	485111	1.0	1.0
+585	55	999	Statewide	48	Other urban transit systems	55	485119	1.0	1.0
+587	55	999	Statewide	48	Pipeline transportation of crude oil	55	486110	29.75	16.6
+609	55	999	Statewide	51	All other information services	55	519190	10.75	4.8
+617	55	999	Statewide	51	Integrated record production\/distribution	55	512220	6.0	2.6
+626	55	999	Statewide	51	Other motion picture and video industries	55	512199	4.0	2.0
+627	55	999	Statewide	51	Other sound recording industries	55	512290	6.75	2.8
+631	55	999	Statewide	51	Record production	55	512210	4.25	2.2
+655	55	999	Statewide	52	International trade financing	55	522293	2.0	1.0
+661	55	999	Statewide	52	Open-end investment funds	55	525910	2.0	1.0
+663	55	999	Statewide	52	Other depository credit intermediation	55	522190	1.0	1.0
+671	55	999	Statewide	52	Secondary market financing	55	522294	2.0	1.25
+714	55	999	Statewide	54	Geophysical surveying and mapping services	55	541360	5.0	1.8
+786	55	999	Statewide	56	Solid waste combustors and incinerators	55	562213	4.0	1.6
+796	55	999	Statewide	61	Business and secretarial schools	55	611410	8.0	8.0
+855	55	999	Statewide	71	Dance companies	55	711120	19.0	8.4
+921	55	999	Statewide	81	One-hour photofinishing	55	812922	7.0	3.0

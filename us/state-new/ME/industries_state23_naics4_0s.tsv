@@ -1,0 +1,33 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+1	23	999	Statewide	11	Forest nurseries and gathering of forest products	23	1132	5.0	1.6
+2	23	999	Statewide	11	Hunting and trapping	23	1142	3.0	1.0
+9	23	999	Statewide	21	Oil and gas extraction	23	2111	1.0	1.0
+10	23	999	Statewide	21	Support activities for mining	23	2131	3.0	1.2
+26	23	999	Statewide	31	Apparel accessories and other apparel manufacturing	23	3159	4.5	2.0
+36	23	999	Statewide	31	Leather and hide tanning and finishing	23	3161	4.0	2.0
+44	23	999	Statewide	31	Tobacco manufacturing	23	3122	1.0	1.0
+49	23	999	Statewide	32	Glass and glass product manufacturing	23	3272	11.0	5.8
+53	23	999	Statewide	32	Paint, coating, and adhesive manufacturing	23	3255	5.0	2.4
+65	23	999	Statewide	33	Aerospace product and parts manufacturing	23	3364	12.25	5.6
+67	23	999	Statewide	33	Alumina and aluminum production and processing	23	3313	2.0	1.0
+70	23	999	Statewide	33	Boiler, tank, and shipping container manufacturing	23	3324	4.25	1.6
+74	23	999	Statewide	33	Computer and peripheral equipment manufacturing	23	3341	5.0	2.2
+76	23	999	Statewide	33	Electric lighting equipment manufacturing	23	3351	5.0	2.0
+78	23	999	Statewide	33	Engine, turbine, and power transmission equipment manufacturing	23	3336	12.5	5.8
+84	23	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	23	3311	2.25	1.2
+90	23	999	Statewide	33	Motor vehicle manufacturing	23	3361	2.0	1.0
+93	23	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	23	3314	4.0	2.0
+97	23	999	Statewide	33	Other furniture related product manufacturing	23	3379	2.0	1.0
+101	23	999	Statewide	33	Railroad rolling stock manufacturing	23	3365	2.0	1.0
+105	23	999	Statewide	33	Steel product manufacturing from purchased steel	23	3312	5.0	1.6
+111	23	999	Statewide	42	Farm product raw material merchant wholesalers	23	4245	4.0	1.6
+158	23	999	Statewide	48	Interurban and rural bus transportation	23	4852	4.0	1.4
+160	23	999	Statewide	48	Other pipeline transportation	23	4869	4.0	1.6666666666666667
+163	23	999	Statewide	48	Pipeline transportation of crude oil	23	4861	6.5	2.8
+164	23	999	Statewide	48	Pipeline transportation of natural gas	23	4862	15.75	7.8
+166	23	999	Statewide	48	Scenic and sightseeing transportation, other	23	4879	5.0	2.2
+172	23	999	Statewide	48	Support activities for rail transportation	23	4882	3.75	3.0
+187	23	999	Statewide	51	Satellite telecommunications	23	5174	4.5	2.0
+198	23	999	Statewide	52	Other investment pools and funds	23	5259	4.5	2.0
+252	23	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	23	6223	3.75	2.4
+256	23	999	Statewide	71	Gambling industries	23	7132	15.0	6.8

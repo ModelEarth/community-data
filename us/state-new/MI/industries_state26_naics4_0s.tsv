@@ -1,0 +1,5 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+8	26	999	Statewide	21	Coal mining	26	2121	2.0	1.0
+9	26	999	Statewide	21	Metal ore mining	26	2122	13.75	5.6
+36	26	999	Statewide	31	Footwear manufacturing	26	3162	6.0	1.8
+201	26	999	Statewide	52	Monetary authorities - central bank	26	5211	2.0	1.0

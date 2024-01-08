@@ -1,0 +1,80 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+11	34	999	Statewide	11	Timber tract operations	34	113110	2.0	1.5
+12	34	999	Statewide	21	All other nonmetallic mineral mining	34	212399	6.0	2.6
+13	34	999	Statewide	21	Clay and ceramic and refractory minerals mining	34	212325	1.0	1.0
+15	34	999	Statewide	21	Crude petroleum and natural gas extraction	34	211111	4.0	2.0
+16	34	999	Statewide	21	Crushed and broken granite mining and quarrying	34	212313	9.0	4.2
+18	34	999	Statewide	21	Dimension stone mining and quarrying	34	212311	6.0	2.8
+20	34	999	Statewide	21	Gold ore mining	34	212221	1.0	1.0
+22	34	999	Statewide	21	Other chemical and fertilizer mineral mining	34	212393	2.0	2.0
+27	34	999	Statewide	22	Electric bulk power transmission and control	34	221121	1.0	1.0
+32	34	999	Statewide	22	Nuclear electric power generation	34	221113	12.0	6.0
+75	34	999	Statewide	31	Beet sugar manufacturing	34	311313	2.0	1.0
+77	34	999	Statewide	31	Breakfast cereal manufacturing	34	311230	1.0	1.0
+87	34	999	Statewide	31	Creamery butter manufacturing	34	311512	3.0	1.2
+91	34	999	Statewide	31	Dog and cat food manufacturing	34	311111	13.5	6.2
+99	34	999	Statewide	31	Flour milling	34	311211	4.5	2.4
+106	34	999	Statewide	31	Hosiery and sock mills	34	315110	2.0	1.3333333333333333
+123	34	999	Statewide	31	Rendering and meat byproduct processing	34	311613	3.0	1.2
+126	34	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	34	314994	5.0	2.8
+147	34	999	Statewide	32	Artificial and synthetic fibers and filaments manufacturing	34	325220	1.0	1.0
+162	34	999	Statewide	32	Cyclic crude, intermediate, and gum and wood chemical manufacturing	34	325194	2.0	1.0
+163	34	999	Statewide	32	Ethyl alcohol manufacturing	34	325193	3.0	1.2
+165	34	999	Statewide	32	Flat glass manufacturing	34	327211	6.0	2.6
+170	34	999	Statewide	32	Gypsum product manufacturing	34	327420	9.75	4.2
+171	34	999	Statewide	32	Hardwood veneer and plywood manufacturing	34	321211	5.0	2.2
+175	34	999	Statewide	32	Manufactured home (mobile home) manufacturing	34	321991	4.0	1.8
+178	34	999	Statewide	32	Nitrogenous fertilizer manufacturing	34	325311	5.0	2.4
+185	34	999	Statewide	32	Paper (except newsprint) mills	34	322121	8.25	4.2
+189	34	999	Statewide	32	Petrochemical manufacturing	34	325110	4.0	1.8
+193	34	999	Statewide	32	Phosphatic fertilizer manufacturing	34	325312	1.0	1.0
+194	34	999	Statewide	32	Photographic film, paper, plate, and chemical manufacturing	34	325992	14.25	5.6
+217	34	999	Statewide	32	Synthetic rubber manufacturing	34	325212	13.0	6.4
+218	34	999	Statewide	32	Tire manufacturing (except retreading)	34	326211	6.0	2.4
+226	34	999	Statewide	32	Wood preservation	34	321114	6.0	3.0
+231	34	999	Statewide	33	Aircraft manufacturing	34	336411	5.0	1.4
+239	34	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	34	331315	2.0	1.0
+246	34	999	Statewide	33	Blank magnetic and optical recording media manufacturing	34	334613	3.0	1.4
+254	34	999	Statewide	33	Computer storage device manufacturing	34	334112	2.0	1.0
+278	34	999	Statewide	33	Fluid power pump and motor manufacturing	34	333996	2.0	1.0
+282	34	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	34	336415	3.0	1.4
+285	34	999	Statewide	33	Heavy duty truck manufacturing	34	336120	3.0	1.3333333333333333
+286	34	999	Statewide	33	Household cooking appliance manufacturing	34	335221	4.0	1.6
+288	34	999	Statewide	33	Household refrigerator and home freezer manufacturing	34	335222	1.0	1.0
+300	34	999	Statewide	33	Iron foundries	34	331511	9.0	4.2
+301	34	999	Statewide	33	Irradiation apparatus manufacturing	34	334517	5.0	2.2
+303	34	999	Statewide	33	Lawn and garden tractor and home lawn and garden equipment manufacturing	34	333112	2.0	1.0
+309	34	999	Statewide	33	Metal can manufacturing	34	332431	5.0	2.8
+317	34	999	Statewide	33	Mining machinery and equipment manufacturing	34	333131	3.0	1.2
+325	34	999	Statewide	33	Motor vehicle steering and suspension components (except spring) manufacturing	34	336330	4.0	2.0
+326	34	999	Statewide	33	Motor vehicle transmission and power train parts manufacturing	34	336350	4.0	2.0
+327	34	999	Statewide	33	Motorcycle, bicycle, and parts manufacturing	34	336991	9.0	2.2
+330	34	999	Statewide	33	Nonferrous forging	34	332112	4.0	2.0
+337	34	999	Statewide	33	Oil and gas field machinery and equipment manufacturing	34	333132	4.0	1.8
+349	34	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	34	336419	2.0	1.0
+359	34	999	Statewide	33	Photographic and photocopying equipment manufacturing	34	333316	11.0	5.2
+362	34	999	Statewide	33	Powder metallurgy part manufacturing	34	332117	2.0	1.0
+365	34	999	Statewide	33	Power-driven handtool manufacturing	34	333991	4.0	1.8
+368	34	999	Statewide	33	Primary battery manufacturing	34	335912	3.0	1.4
+373	34	999	Statewide	33	Railroad rolling stock manufacturing	34	336510	3.0	1.25
+380	34	999	Statewide	33	Scale and balance manufacturing	34	333997	5.0	1.6
+382	34	999	Statewide	33	Secondary smelting and alloying of aluminum	34	331314	1.0	1.0
+390	34	999	Statewide	33	Small arms ammunition manufacturing	34	332992	2.0	1.0
+398	34	999	Statewide	33	Steel foundries (except investment)	34	331513	6.0	2.0
+399	34	999	Statewide	33	Steel investment foundries	34	331512	7.5	3.6
+401	34	999	Statewide	33	Storage battery manufacturing	34	335911	2.0	1.0
+407	34	999	Statewide	33	Travel trailer and camper manufacturing	34	336214	4.0	2.0
+554	34	999	Statewide	48	Air traffic control	34	488111	3.0	1.2
+555	34	999	Statewide	48	All other pipeline transportation	34	486990	1.0	1.0
+562	34	999	Statewide	48	Commuter rail systems	34	485112	2.0	1.0
+564	34	999	Statewide	48	Deep sea passenger transportation	34	483112	4.0	1.5
+574	34	999	Statewide	48	Mixed mode transit systems	34	485111	3.0	3.0
+584	34	999	Statewide	48	Other urban transit systems	34	485119	6.0	2.8
+586	34	999	Statewide	48	Pipeline transportation of crude oil	34	486110	4.0	1.6
+591	34	999	Statewide	48	Scenic and sightseeing transportation, other	34	487990	9.25	3.2
+616	34	999	Statewide	51	Greeting card publishers	34	511191	8.0	3.4
+626	34	999	Statewide	51	Other motion picture and video industries	34	512199	3.0	1.0
+660	34	999	Statewide	52	Monetary authorities - central bank	34	521110	3.0	1.8
+664	34	999	Statewide	52	Other depository credit intermediation	34	522190	7.0	3.2
+673	34	999	Statewide	52	Securities and commodity exchanges	34	523210	3.5	1.6
+856	34	999	Statewide	71	Casinos (except casino hotels)	34	713210	3.0	1.5

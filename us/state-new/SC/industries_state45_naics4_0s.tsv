@@ -1,0 +1,15 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+8	45	999	Statewide	21	Coal mining	45	2121	3.0	1.5
+9	45	999	Statewide	21	Metal ore mining	45	2122	2.25	1.2
+11	45	999	Statewide	21	Oil and gas extraction	45	2111	3.0	1.0
+29	45	999	Statewide	31	Apparel knitting mills	45	3151	7.0	2.6
+36	45	999	Statewide	31	Footwear manufacturing	45	3162	2.0	1.0
+39	45	999	Statewide	31	Leather and hide tanning and finishing	45	3161	4.0	2.0
+43	45	999	Statewide	31	Seafood product preparation and packaging	45	3117	5.0	2.3333333333333335
+47	45	999	Statewide	31	Tobacco manufacturing	45	3122	2.0	1.0
+53	45	999	Statewide	32	Lime and gypsum product manufacturing	45	3274	9.25	4.0
+73	45	999	Statewide	33	Audio and video equipment manufacturing	45	3343	6.0	2.6
+78	45	999	Statewide	33	Computer and peripheral equipment manufacturing	45	3341	9.5	4.6
+95	45	999	Statewide	33	Motor vehicle manufacturing	45	3361	14.75	7.0
+168	45	999	Statewide	48	Pipeline transportation of crude oil	45	4861	4.0	1.8
+171	45	999	Statewide	48	Scenic and sightseeing transportation, other	45	4879	5.0	2.2

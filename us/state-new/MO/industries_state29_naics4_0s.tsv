@@ -1,0 +1,10 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+0	29	999	Statewide	11	Fishing	29	1141	3.0	1.0
+8	29	999	Statewide	21	Coal mining	29	2121	9.0	2.8
+9	29	999	Statewide	21	Metal ore mining	29	2122	15.75	7.8
+35	29	999	Statewide	31	Fiber, yarn, and thread mills	29	3131	1.0	1.0
+43	29	999	Statewide	31	Seafood product preparation and packaging	29	3117	2.0	1.0
+47	29	999	Statewide	31	Tobacco manufacturing	29	3122	4.0	1.6
+63	29	999	Statewide	32	Pulp, paper, and paperboard mills	29	3221	8.0	4.0
+159	29	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	29	4831	7.333333333333334	3.6
+206	29	999	Statewide	52	Securities and commodity exchanges	29	5232	2.0	1.0

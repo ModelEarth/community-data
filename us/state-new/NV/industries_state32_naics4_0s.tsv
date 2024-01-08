@@ -1,0 +1,16 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+1	32	999	Statewide	11	Forest nurseries and gathering of forest products	32	1132	2.0	1.0
+3	32	999	Statewide	11	Logging	32	1133	4.0	2.0
+7	32	999	Statewide	11	Timber tract operations	32	1131	3.0	1.0
+8	32	999	Statewide	21	Coal mining	32	2121	3.0	1.2
+14	32	999	Statewide	22	Natural gas distribution	32	2212	41.5	22.4
+35	32	999	Statewide	31	Grain and oilseed milling	32	3112	2.0	1.0
+39	32	999	Statewide	31	Seafood product preparation and packaging	32	3117	2.0	1.0
+59	32	999	Statewide	32	Pulp, paper, and paperboard mills	32	3221	4.25	1.6
+82	32	999	Statewide	33	Household appliance manufacturing	32	3352	2.0	1.0
+84	32	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	32	3311	2.0	1.0
+103	32	999	Statewide	33	Ship and boat building	32	3366	4.0	2.0
+105	32	999	Statewide	33	Steel product manufacturing from purchased steel	32	3312	1.0	1.0
+157	32	999	Statewide	48	Inland water transportation	32	4832	3.0	1.2
+160	32	999	Statewide	48	Other pipeline transportation	32	4869	4.0	2.6
+168	32	999	Statewide	48	School and employee bus transportation	32	4854	8.0	4.6

@@ -1,0 +1,7 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+1	17	999	Statewide	11	Forest nurseries and gathering of forest products	17	1132	4.0	1.6
+7	17	999	Statewide	11	Timber tract operations	17	1131	8.0	3.4
+9	17	999	Statewide	21	Metal ore mining	17	2122	3.0	1.2
+36	17	999	Statewide	31	Footwear manufacturing	17	3162	8.75	4.2
+47	17	999	Statewide	31	Tobacco manufacturing	17	3122	5.0	2.0
+201	17	999	Statewide	52	Monetary authorities - central bank	17	5211	5.0	2.8

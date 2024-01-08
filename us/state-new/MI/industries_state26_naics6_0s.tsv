@@ -1,0 +1,80 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+2	26	999	Statewide	11	Farm management services	26	115116	12.0	5.4
+8	26	999	Statewide	11	Shellfish fishing	26	114112	2.0	1.0
+13	26	999	Statewide	21	All other metal ore mining	26	212299	2.0	1.0
+15	26	999	Statewide	21	Bituminous coal and lignite surface mining	26	212111	1.0	1.0
+16	26	999	Statewide	21	Bituminous coal underground mining	26	212112	1.0	1.0
+18	26	999	Statewide	21	Copper ore and nickel ore mining	26	212234	5.0	1.6
+21	26	999	Statewide	21	Dimension stone mining and quarrying	26	212311	2.0	1.25
+24	26	999	Statewide	21	Iron ore mining	26	212210	6.0	3.0
+25	26	999	Statewide	21	Lead ore and zinc ore mining	26	212231	2.0	1.0
+27	26	999	Statewide	21	Other chemical and fertilizer mineral mining	26	212393	2.0	1.0
+29	26	999	Statewide	21	Support activities for coal mining	26	213113	6.0	3.4
+30	26	999	Statewide	21	Support activities for metal mining	26	213114	3.0	2.8
+34	26	999	Statewide	22	Electric bulk power transmission and control	26	221121	11.0	6.2
+42	26	999	Statewide	22	Solar electric power generation	26	221114	1.0	1.0
+82	26	999	Statewide	31	Beet sugar manufacturing	26	311313	8.0	4.0
+87	26	999	Statewide	31	Cane sugar manufacturing	26	311314	2.0	1.0
+94	26	999	Statewide	31	Cookie and cracker manufacturing	26	311821	16.166666666666668	7.4
+95	26	999	Statewide	31	Creamery butter manufacturing	26	311512	2.0	1.0
+104	26	999	Statewide	31	Fats and oils refining and blending	26	311225	1.0	1.0
+109	26	999	Statewide	31	Footwear manufacturing	26	316210	6.0	1.8
+110	26	999	Statewide	31	Frozen cakes, pies, and other pastries manufacturing	26	311813	15.5	6.8
+126	26	999	Statewide	31	Other apparel knitting mills	26	315190	4.0	1.8
+134	26	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	26	314994	6.0	3.0
+137	26	999	Statewide	31	Soybean and other oilseed processing	26	311224	6.0	2.2
+145	26	999	Statewide	31	Women's handbag and purse manufacturing	26	316992	3.0	1.3333333333333333
+154	26	999	Statewide	32	All other petroleum and coal products manufacturing	26	324199	6.0	2.6
+157	26	999	Statewide	32	Artificial and synthetic fibers and filaments manufacturing	26	325220	5.0	2.2
+160	26	999	Statewide	32	Biological product (except diagnostic) manufacturing	26	325414	8.5	3.8
+172	26	999	Statewide	32	Cyclic crude, intermediate, and gum and wood chemical manufacturing	26	325194	2.75	1.6
+173	26	999	Statewide	32	Engineered wood member (except truss) manufacturing	26	321213	4.0	1.4
+175	26	999	Statewide	32	Explosives manufacturing	26	325920	3.75	1.8
+177	26	999	Statewide	32	Flat glass manufacturing	26	327211	2.0	1.0
+179	26	999	Statewide	32	Glass container manufacturing	26	327213	5.0	2.2
+187	26	999	Statewide	32	Lime manufacturing	26	327410	4.0	2.0
+191	26	999	Statewide	32	Newsprint mills	26	322122	1.0	1.0
+192	26	999	Statewide	32	Nitrogenous fertilizer manufacturing	26	325311	5.0	2.2
+197	26	999	Statewide	32	Other pressed and blown glass and glassware manufacturing	26	327212	6.5	2.2
+202	26	999	Statewide	32	Pesticide and other agricultural chemical manufacturing	26	325320	9.0	3.6
+203	26	999	Statewide	32	Petrochemical manufacturing	26	325110	4.0	1.6
+205	26	999	Statewide	32	Petroleum refineries	26	324110	4.0	2.6
+219	26	999	Statewide	32	Pulp mills	26	322110	6.0	2.2
+224	26	999	Statewide	32	Sanitary paper product manufacturing	26	322291	1.0	1.0
+227	26	999	Statewide	32	Softwood veneer and plywood manufacturing	26	321212	11.0	4.0
+231	26	999	Statewide	32	Synthetic dye and pigment manufacturing	26	325130	8.0	3.0
+233	26	999	Statewide	32	Tire manufacturing (except retreading)	26	326211	3.0	1.2
+252	26	999	Statewide	33	Alumina refining and primary aluminum production	26	331313	6.0	2.2
+260	26	999	Statewide	33	Ball and roller bearing manufacturing	26	332991	8.0	4.0
+271	26	999	Statewide	33	Computer storage device manufacturing	26	334112	1.0	1.0
+283	26	999	Statewide	33	Electric lamp bulb and part manufacturing	26	335110	2.0	1.3333333333333333
+293	26	999	Statewide	33	Fiber optic cable manufacturing	26	335921	2.0	1.0
+302	26	999	Statewide	33	Household cooking appliance manufacturing	26	335221	2.0	1.25
+303	26	999	Statewide	33	Household furniture (except wood and metal) manufacturing	26	337125	9.0	3.8
+304	26	999	Statewide	33	Household refrigerator and home freezer manufacturing	26	335222	2.0	1.0
+317	26	999	Statewide	33	Irradiation apparatus manufacturing	26	334517	3.0	1.2
+336	26	999	Statewide	33	Motor home manufacturing	26	336213	7.25	3.4
+349	26	999	Statewide	33	Nonferrous metal (except aluminum) smelting and refining	26	331410	15.0	6.2
+369	26	999	Statewide	33	Other major household appliance manufacturing	26	335228	5.0	1.6
+386	26	999	Statewide	33	Primary battery manufacturing	26	335912	10.75	5.2
+398	26	999	Statewide	33	Scale and balance manufacturing	26	333997	4.0	1.8
+403	26	999	Statewide	33	Semiconductor machinery manufacturing	26	333242	3.0	1.4
+410	26	999	Statewide	33	Small electrical appliance manufacturing	26	335210	16.0	6.8
+572	26	999	Statewide	48	Air traffic control	26	488111	8.0	4.0
+573	26	999	Statewide	48	All other pipeline transportation	26	486990	4.0	1.2
+585	26	999	Statewide	48	Inland water freight transportation	26	483211	3.5	1.8
+589	26	999	Statewide	48	Marine cargo handling	26	488320	5.0	2.2
+590	26	999	Statewide	48	Mixed mode transit systems	26	485111	2.0	1.0
+600	26	999	Statewide	48	Other urban transit systems	26	485119	5.0	2.0
+632	26	999	Statewide	51	Greeting card publishers	26	511191	11.0	4.6
+639	26	999	Statewide	51	Music publishers	26	512230	14.25	6.2
+647	26	999	Statewide	51	Record production	26	512210	8.0	3.4
+661	26	999	Statewide	52	Commodity contracts dealing	26	523130	24.25	9.4
+671	26	999	Statewide	52	International trade financing	26	522293	6.0	1.8
+676	26	999	Statewide	52	Monetary authorities - central bank	26	521110	2.0	1.0
+680	26	999	Statewide	52	Other depository credit intermediation	26	522190	6.0	2.3333333333333335
+688	26	999	Statewide	52	Secondary market financing	26	522294	3.5	2.25
+803	26	999	Statewide	56	Solid waste combustors and incinerators	26	562213	5.25	2.4
+813	26	999	Statewide	61	Business and secretarial schools	26	611410	23.0	13.2
+871	26	999	Statewide	71	Casinos (except casino hotels)	26	713210	4.0	1.4
+938	26	999	Statewide	81	One-hour photofinishing	26	812922	7.0	2.4

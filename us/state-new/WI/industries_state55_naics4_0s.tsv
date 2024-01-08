@@ -1,0 +1,9 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+9	55	999	Statewide	21	Oil and gas extraction	55	2111	8.0	2.6
+27	55	999	Statewide	31	Apparel knitting mills	55	3151	6.0	3.0
+33	55	999	Statewide	31	Fiber, yarn, and thread mills	55	3131	5.0	2.2
+45	55	999	Statewide	31	Tobacco manufacturing	55	3122	5.0	2.0
+93	55	999	Statewide	33	Motor vehicle manufacturing	55	3361	15.0	5.8
+160	55	999	Statewide	48	Inland water transportation	55	4832	3.0	1.2
+161	55	999	Statewide	48	Interurban and rural bus transportation	55	4852	11.0	4.4
+166	55	999	Statewide	48	Pipeline transportation of crude oil	55	4861	29.75	16.6
