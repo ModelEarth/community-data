@@ -23,12 +23,13 @@
 -->
 
 <script>
-
+    /*
     param.headerLogoSmall = "<img src='/localsite/img/logo/partners/neighborhood-icon.png' style='width:40px;opacity:0.7'>"     
     param.titleArray = ["community","data"]
     param.startTitle = "Community Data"
     //param.headerFile = "header.html"
     param.footer = "/localsite/footer.html"
+    */
     
     //$(document).ready(function () {
         $(window).scroll(function(){let toZero = 1-$(window).scrollTop()/200; $(".herocenter").css("opacity", toZero); if (toZero <= 0) {$(".herocenter").hide()} else {$(".herocenter").show();}});
@@ -93,25 +94,25 @@
 </head>
 
 <body>
-<div style="background:#fff; min-height:150px; width:100%; position: relative">
+<div style="background:#fff; min-height:150px; width:100%; height:300px; position:relative; overflow:hidden">
     
     <!-- logo centered -->
-    <div class="herocenter" style="position: absolute; z-index:2; top:37%">
+    <div class="herocenter" style="position: absolute; z-index:2; top:37%;">
 
         <div id="topTitleHolder" class="fade-in text-flowX" style="position:fixed; left:0px; right:0px; 
-        text-align:center; margin-top:50px; padding-left: 20px; padding-right: 20px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
+        text-align:center; margin-top:140px; padding-left: 20px; padding-right: 20px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
             <span style="font-weight:800; opacity:1">ModelEarth</span> Community&nbsp;Data
 
-            
+            <!--
             <br><br>
             <div id="play-button" style="font-size: 48px; margin-left:2px"><a href="#pipeline">
             ▶️</a>
             </div>
-            
+            -->
         </div>
     </div>
 
-    <div class="lazy bgimg bgimg-notfixed" data-src="img/hero/woman-table-computer.jpg" style="opacity:.85">
+    <div class="lazy bgimg bgimg-notfixed" data-src="img/hero/woman-table-computer.jpg" style="opacity:.85; margin-top:-180px">
         <img src="img/hero/woman-table-computer.jpg" style="opacity:0;width:100%">
     </div>
 

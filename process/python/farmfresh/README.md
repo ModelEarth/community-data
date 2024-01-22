@@ -3,7 +3,7 @@
 We're using [a Python scraper](scraper) to pull and merge locations from the national USDA dataset.  
 Note that USDA now also provides an [API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).  
 
-It fetches data for our [Map of Fresh Produce](https://model.earth/localsite/info/#show=farmfresh).  
+It fetches data for our [Map of Fresh Produce](https://model.earth/localsite/map/#show=farmfresh&state=NY) - [view on localhost](/localsite/map/#show=farmfresh&state=NY)
 
 Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
 
