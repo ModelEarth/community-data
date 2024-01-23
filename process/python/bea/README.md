@@ -15,7 +15,10 @@ Or you can run [us_econ.ipynb](process/python/us_econ.ipynb) from the command li
 
 You may need to run `pip install notebook` after installing Python.  
 
+<!--
+Timeout still occured with the following...
 Change the timeout (sleep) on your computer. Changed Start Screen Saver when inactive from 20 minutes to never.
+-->
 
 It may take a few hours for the Python scripts to run. The most time is getting data from API. The second most is aggregating the CSV files and deleting the prior files.<!-- let's record actual times -->
 
