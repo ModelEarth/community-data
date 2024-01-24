@@ -6,12 +6,19 @@ This process fetches data for our [Map of Fresh Produce](https://model.earth/loc
 
 We used [a Python scraper](scraper) to pull and merge locations from the national USDA dataset.  
 
-TO DO: USDA now provides an [API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).  
+TO DO:
 
-Update our "Makefile" script since the following USDA export no longer exists.
+Please update our "Makefile" python script to use the new [USDA API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).
+
+The following USDA export used in our scrape no longer exists.
 https://search.ams.usda.gov/farmersmarkets/ExcelExport.aspx
 
 Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
+
+Sample of [API file pull using Python](../bea/)
+
+TO DO: We also need a file containing an overview for all the states. It could include a column for the total location in each state.
+
 
 TO DO: Set up a GitHub Action that runs the static file creation process nightly. 
 
@@ -23,6 +30,9 @@ TO DO: Set up a GitHub Action that runs the static file creation process nightly
 Issue with federal datasource:  
 Needs to require either http or https at time of data entry.  
 
+<br>
+
+# About Our Previous Scrapper
 
 ## USDA Farm Fresh Screen Scraper
 
