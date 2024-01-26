@@ -15,3 +15,5 @@ Processed data resides at:
 - [Process Zips](process/naics/)
 - [Process Farm Fresh Data](process/python/farmfresh/)
 - [Model.Earth](https://model.earth)
+
+Investigation of [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
