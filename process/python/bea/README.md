@@ -39,6 +39,10 @@ USEPA has these 2 crosswalks. (There are no naics industry titles in these.)
 
 Titles might need to be pulled from separate files (2017 and 2022) using the XLSX files downloadable from the following census page. Click "downloadable files" at [census.gov/naics/?48967](https://www.census.gov/naics/?48967)
 
+<!--
+TO DO: Locate crosswalk relating North American NAICS, European Union NACE codes, and any other trade crosswalks.
+-->
+
 TO DO: Generate folders quarterly with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
 
 
