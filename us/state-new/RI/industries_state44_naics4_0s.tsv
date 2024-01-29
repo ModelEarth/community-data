@@ -1,33 +1,27 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 1	44	999	Statewide	11	Logging	44	1133	5.0	1.6
 4	44	999	Statewide	11	Support activities for forestry	44	1153	2.0	1.0
 6	44	999	Statewide	21	Oil and gas extraction	44	2111	2.0	1.0
 7	44	999	Statewide	21	Support activities for mining	44	2131	2.0	1.0
-9	44	999	Statewide	22	Natural gas distribution	44	2212	8.0	4.0
-10	44	999	Statewide	22	Water, sewage and other systems	44	2213	19.75	9.8
 21	44	999	Statewide	31	Animal food manufacturing	44	3111	2.0	1.0
 30	44	999	Statewide	31	Footwear manufacturing	44	3162	1.0	1.0
 42	44	999	Statewide	32	Clay product and refractory manufacturing	44	3271	2.0	1.0
 49	44	999	Statewide	32	Pesticide, fertilizer, and other agricultural chemical manufacturing	44	3253	6.0	1.6
 54	44	999	Statewide	32	Pulp, paper, and paperboard mills	44	3221	1.0	1.0
-56	44	999	Statewide	32	Rubber product manufacturing	44	3262	9.25	4.4
 60	44	999	Statewide	33	Aerospace product and parts manufacturing	44	3364	1.0	1.0
 61	44	999	Statewide	33	Agriculture, construction, and mining machinery manufacturing	44	3331	3.0	1.4
 62	44	999	Statewide	33	Alumina and aluminum production and processing	44	3313	1.0	1.0
 64	44	999	Statewide	33	Audio and video equipment manufacturing	44	3343	2.25	1.2
-69	44	999	Statewide	33	Computer and peripheral equipment manufacturing	44	3341	5.75	2.8
+69	44	999	Statewide	33	Computer and peripheral equipment manufacturing	44	3341	6.15	3.3333333333333335
 79	44	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	44	3311	1.0	1.0
 90	44	999	Statewide	33	Other furniture related product manufacturing	44	3379	2.0	1.0
 93	44	999	Statewide	33	Other transportation equipment manufacturing	44	3369	4.0	1.75
 94	44	999	Statewide	33	Railroad rolling stock manufacturing	44	3365	1.0	1.0
-98	44	999	Statewide	33	Steel product manufacturing from purchased steel	44	3312	4.0	2.0
-146	44	999	Statewide	48	Charter bus industry	44	4855	5.0	1.6
-151	44	999	Statewide	48	Interurban and rural bus transportation	44	4852	4.25	2.2
-152	44	999	Statewide	48	Nonscheduled air transportation	44	4812	4.0	2.0
-153	44	999	Statewide	48	Other pipeline transportation	44	4869	3.5	1.6
-156	44	999	Statewide	48	Pipeline transportation of natural gas	44	4862	2.0	1.0
-158	44	999	Statewide	48	Scenic and sightseeing transportation, other	44	4879	2.0	1.0
-164	44	999	Statewide	48	Support activities for rail transportation	44	4882	1.0	1.0
-168	44	999	Statewide	48	Urban transit systems	44	4851	1.0	1.0
-172	44	999	Statewide	51	Cable and other subscription programming	44	5152	2.0	1.0
-241	44	999	Statewide	62	Psychiatric and substance abuse hospitals	44	6222	2.75	1.6
+98	44	999	Statewide	33	Steel product manufacturing from purchased steel	44	3312	4.2	2.4444444444444446
+148	44	999	Statewide	48	Charter bus industry	44	4855	5.0	1.6
+155	44	999	Statewide	48	Other pipeline transportation	44	4869	3.5	1.6
+158	44	999	Statewide	48	Pipeline transportation of natural gas	44	4862	2.0	1.0
+166	44	999	Statewide	48	Support activities for rail transportation	44	4882	1.0	1.0
+170	44	999	Statewide	48	Urban transit systems	44	4851	1.0	1.0
+174	44	999	Statewide	51	Cable and other subscription programming	44	5152	2.0	1.0
+244	44	999	Statewide	62	Psychiatric and substance abuse hospitals	44	6222	2.75	1.6

@@ -1,30 +1,25 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
-0	50	999	Statewide	11	Forest nurseries and gathering of forest products	50	1132	3.0	1.75
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 5	50	999	Statewide	11	Timber tract operations	50	1131	6.0	3.0
 8	50	999	Statewide	22	Natural gas distribution	50	2212	2.0	1.0
 22	50	999	Statewide	31	Apparel accessories and other apparel manufacturing	50	3159	6.0	2.0
 23	50	999	Statewide	31	Apparel knitting mills	50	3151	2.0	1.0
 28	50	999	Statewide	31	Fabric mills	50	3132	3.0	1.25
-29	50	999	Statewide	31	Fiber, yarn, and thread mills	50	3131	6.5	3.4
+29	50	999	Statewide	31	Fiber, yarn, and thread mills	50	3131	6.5	3.6666666666666665
 30	50	999	Statewide	31	Footwear manufacturing	50	3162	3.0	1.2
 33	50	999	Statewide	31	Leather and hide tanning and finishing	50	3161	3.0	1.2
 35	50	999	Statewide	31	Other leather and allied product manufacturing	50	3169	10.0	4.0
 43	50	999	Statewide	32	Converted paper product manufacturing	50	3222	4.0	1.4
-50	50	999	Statewide	32	Petroleum and coal products manufacturing	50	3241	18.25	8.2
-51	50	999	Statewide	32	Pharmaceutical and medicine manufacturing	50	3254	10.5	5.4
-55	50	999	Statewide	32	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	50	3252	4.75	2.4
-56	50	999	Statewide	32	Rubber product manufacturing	50	3262	4.0	1.6
-60	50	999	Statewide	33	Aerospace product and parts manufacturing	50	3364	5.25	2.4
+50	50	999	Statewide	32	Petroleum and coal products manufacturing	50	3241	18.25	7.222222222222222
+56	50	999	Statewide	32	Rubber product manufacturing	50	3262	4.0	2.2222222222222223
 61	50	999	Statewide	33	Agriculture, construction, and mining machinery manufacturing	50	3331	4.0	1.6
 62	50	999	Statewide	33	Alumina and aluminum production and processing	50	3313	1.0	1.0
 64	50	999	Statewide	33	Audio and video equipment manufacturing	50	3343	2.0	1.0
 69	50	999	Statewide	33	Computer and peripheral equipment manufacturing	50	3341	2.0	2.0
-70	50	999	Statewide	33	Cutlery and handtool manufacturing	50	3322	6.5	3.2
-74	50	999	Statewide	33	Forging and stamping	50	3321	9.0	4.2
+70	50	999	Statewide	33	Cutlery and handtool manufacturing	50	3322	6.5	4.0
+74	50	999	Statewide	33	Forging and stamping	50	3321	9.0	4.111111111111111
 75	50	999	Statewide	33	Hardware manufacturing	50	3325	2.0	1.0
 77	50	999	Statewide	33	Household appliance manufacturing	50	3352	1.0	1.0
 79	50	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	50	3311	1.0	1.0
-81	50	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	50	3346	3.0	1.4
 84	50	999	Statewide	33	Motor vehicle body and trailer manufacturing	50	3362	2.0	1.0
 85	50	999	Statewide	33	Motor vehicle manufacturing	50	3361	4.0	1.6
 88	50	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	50	3314	2.0	1.0
@@ -32,16 +27,13 @@
 95	50	999	Statewide	33	Other transportation equipment manufacturing	50	3369	8.0	3.0
 98	50	999	Statewide	33	Spring and wire product manufacturing	50	3326	4.0	1.4
 99	50	999	Statewide	33	Steel product manufacturing from purchased steel	50	3312	4.0	2.0
-150	50	999	Statewide	48	Inland water transportation	50	4832	8.0	4.0
-152	50	999	Statewide	48	Nonscheduled air transportation	50	4812	3.0	1.2
-155	50	999	Statewide	48	Pipeline transportation of crude oil	50	4861	2.0	1.0
-156	50	999	Statewide	48	Pipeline transportation of natural gas	50	4862	3.75	1.8
-158	50	999	Statewide	48	Scenic and sightseeing transportation, other	50	4879	4.0	2.0
-159	50	999	Statewide	48	Scenic and sightseeing transportation, water	50	4872	6.0	3.0
-164	50	999	Statewide	48	Support activities for rail transportation	50	4882	13.0	8.2
-166	50	999	Statewide	48	Support activities for water transportation	50	4883	4.0	1.4
-168	50	999	Statewide	48	Urban transit systems	50	4851	12.5	4.4
-179	50	999	Statewide	51	Satellite telecommunications	50	5174	2.0	1.0
-190	50	999	Statewide	52	Other investment pools and funds	50	5259	3.0	1.6
-241	50	999	Statewide	62	Psychiatric and substance abuse hospitals	50	6222	2.0	1.0
-246	50	999	Statewide	71	Gambling industries	50	7132	4.25	1.6
+152	50	999	Statewide	48	Inland water transportation	50	4832	8.0	4.444444444444445
+154	50	999	Statewide	48	Nonscheduled air transportation	50	4812	3.0	1.2
+157	50	999	Statewide	48	Pipeline transportation of crude oil	50	4861	2.0	1.0
+158	50	999	Statewide	48	Pipeline transportation of natural gas	50	4862	3.75	1.8
+160	50	999	Statewide	48	Scenic and sightseeing transportation, other	50	4879	4.0	2.0
+161	50	999	Statewide	48	Scenic and sightseeing transportation, water	50	4872	6.0	3.0
+168	50	999	Statewide	48	Support activities for water transportation	50	4883	4.0	1.4
+181	50	999	Statewide	51	Satellite telecommunications	50	5174	2.0	1.0
+244	50	999	Statewide	62	Psychiatric and substance abuse hospitals	50	6222	2.0	1.0
+249	50	999	Statewide	71	Gambling industries	50	7132	4.25	1.6

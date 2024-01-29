@@ -1,42 +1,37 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 5	48	999	Statewide	11	Forest nurseries and gathering of forest products	48	113210	6.0	1.8
 15	48	999	Statewide	21	Anthracite mining	48	212113	1.0	1.0
-25	48	999	Statewide	21	Gold ore mining	48	212221	4.0	1.2
-29	48	999	Statewide	21	Lead ore and zinc ore mining	48	212231	2.0	1.0
-33	48	999	Statewide	21	Phosphate rock mining	48	212392	1.0	1.0
-34	48	999	Statewide	21	Potash, soda, and borate mineral mining	48	212391	6.5	3.4
-35	48	999	Statewide	21	Silver ore mining	48	212222	2.0	1.0
-45	48	999	Statewide	22	Geothermal electric power generation	48	221116	5.0	1.6
-48	48	999	Statewide	22	Nuclear electric power generation	48	221113	9.0	3.8
-92	48	999	Statewide	31	Breakfast cereal manufacturing	48	311230	2.0	1.3333333333333333
-95	48	999	Statewide	31	Cane sugar manufacturing	48	311314	3.0	1.2
-103	48	999	Statewide	31	Creamery butter manufacturing	48	311512	5.0	1.6
-108	48	999	Statewide	31	Dried and dehydrated food manufacturing	48	311423	11.0	3.4
-122	48	999	Statewide	31	Hosiery and sock mills	48	315110	4.0	1.4
-127	48	999	Statewide	31	Malt manufacturing	48	311213	1.0	1.0
-131	48	999	Statewide	31	Narrow fabric mills and schiffli machine embroidery	48	313220	7.583333333333333	3.6
-209	48	999	Statewide	32	Paper (except newsprint) mills	48	322121	12.0	4.8
-217	48	999	Statewide	32	Phosphatic fertilizer manufacturing	48	325312	3.0	1.2
-230	48	999	Statewide	32	Pulp mills	48	322110	3.0	1.4
-238	48	999	Statewide	32	Softwood veneer and plywood manufacturing	48	321212	8.0	3.8
-263	48	999	Statewide	33	Alumina refining and primary aluminum production	48	331313	8.0	3.8
-265	48	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	48	331315	8.0	3.0
-273	48	999	Statewide	33	Blank magnetic and optical recording media manufacturing	48	334613	5.25	2.4
-311	48	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	48	336415	1.0	1.0
-314	48	999	Statewide	33	Heavy duty truck manufacturing	48	336120	7.0	2.6
-317	48	999	Statewide	33	Household refrigerator and home freezer manufacturing	48	335222	2.0	1.0
-333	48	999	Statewide	33	Light truck and utility vehicle manufacturing	48	336112	9.0	4.0
-347	48	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	48	336992	13.0	3.8
-350	48	999	Statewide	33	Motor home manufacturing	48	336213	3.0	1.2
-362	48	999	Statewide	33	Nonferrous forging	48	332112	1.75	1.75
-381	48	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	48	336419	2.0	1.0
-384	48	999	Statewide	33	Other major household appliance manufacturing	48	335228	3.0	1.0
-595	48	999	Statewide	48	Commuter rail systems	48	485112	3.0	1.2
-597	48	999	Statewide	48	Deep sea passenger transportation	48	483112	4.0	2.0
-607	48	999	Statewide	48	Mixed mode transit systems	48	485111	22.25	5.8
-649	48	999	Statewide	51	Greeting card publishers	48	511191	3.0	1.5
-693	48	999	Statewide	52	Monetary authorities - central bank	48	521110	12.0	6.0
-706	48	999	Statewide	52	Securities and commodity exchanges	48	523210	1.0	1.0
-859	48	999	Statewide	62	HMO medical centers	48	621491	26.5	10.2
-889	48	999	Statewide	71	Casinos (except casino hotels)	48	713210	8.0	2.4
-911	48	999	Statewide	72	Casino hotels	48	721120	2.0	1.3333333333333333
+26	48	999	Statewide	21	Gold ore mining	48	212221	4.0	1.2
+30	48	999	Statewide	21	Lead ore and zinc ore mining	48	212231	2.0	1.0
+35	48	999	Statewide	21	Phosphate rock mining	48	212392	1.0	1.0
+36	48	999	Statewide	21	Potash, soda, and borate mineral mining	48	212391	6.5	3.4
+37	48	999	Statewide	21	Silver ore mining	48	212222	2.0	1.0
+47	48	999	Statewide	22	Geothermal electric power generation	48	221116	5.0	1.6
+94	48	999	Statewide	31	Breakfast cereal manufacturing	48	311230	2.0	1.3333333333333333
+97	48	999	Statewide	31	Cane sugar manufacturing	48	311314	3.0	1.2
+105	48	999	Statewide	31	Creamery butter manufacturing	48	311512	5.0	1.6
+124	48	999	Statewide	31	Hosiery and sock mills	48	315110	4.0	1.4
+129	48	999	Statewide	31	Malt manufacturing	48	311213	1.0	1.0
+133	48	999	Statewide	31	Narrow fabric mills and schiffli machine embroidery	48	313220	7.583333333333333	4.666666666666667
+211	48	999	Statewide	32	Paper (except newsprint) mills	48	322121	12.0	4.8
+219	48	999	Statewide	32	Phosphatic fertilizer manufacturing	48	325312	3.0	1.2
+232	48	999	Statewide	32	Pulp mills	48	322110	3.0	1.4
+240	48	999	Statewide	32	Softwood veneer and plywood manufacturing	48	321212	8.0	3.4444444444444446
+265	48	999	Statewide	33	Alumina refining and primary aluminum production	48	331313	8.0	3.4444444444444446
+267	48	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	48	331315	8.0	3.888888888888889
+275	48	999	Statewide	33	Blank magnetic and optical recording media manufacturing	48	334613	5.25	2.4
+316	48	999	Statewide	33	Heavy duty truck manufacturing	48	336120	7.0	2.7777777777777777
+319	48	999	Statewide	33	Household refrigerator and home freezer manufacturing	48	335222	2.0	1.0
+335	48	999	Statewide	33	Light truck and utility vehicle manufacturing	48	336112	9.0	3.5555555555555554
+351	48	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	48	336992	13.0	4.333333333333333
+366	48	999	Statewide	33	Nonferrous forging	48	332112	2.0	2.875
+385	48	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	48	336419	2.0	1.0
+388	48	999	Statewide	33	Other major household appliance manufacturing	48	335228	3.0	1.0
+612	48	999	Statewide	48	Commuter rail systems	48	485112	3.0	1.2
+614	48	999	Statewide	48	Deep sea passenger transportation	48	483112	4.0	2.0
+624	48	999	Statewide	48	Mixed mode transit systems	48	485111	22.25	5.8
+666	48	999	Statewide	51	Greeting card publishers	48	511191	3.0	1.5
+726	48	999	Statewide	52	Securities and commodity exchanges	48	523210	1.0	1.0
+887	48	999	Statewide	62	HMO medical centers	48	621491	26.5	7.444444444444445
+917	48	999	Statewide	71	Casinos (except casino hotels)	48	713210	8.0	2.4
+939	48	999	Statewide	72	Casino hotels	48	721120	2.0	1.3333333333333333

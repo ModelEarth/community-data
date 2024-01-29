@@ -1,55 +1,49 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 0	42	999	Statewide	11	Cotton ginning	42	115111	1.0	1.0
 4	42	999	Statewide	11	Finfish fishing	42	114111	5.0	1.75
 14	42	999	Statewide	21	All other metal ore mining	42	212299	3.0	1.3333333333333333
 19	42	999	Statewide	21	Clay and ceramic and refractory minerals mining	42	212325	4.0	2.0
-26	42	999	Statewide	21	Industrial sand mining	42	212322	6.0	3.0
-27	42	999	Statewide	21	Iron ore mining	42	212210	3.0	1.2
-28	42	999	Statewide	21	Kaolin and ball clay mining	42	212324	2.0	1.0
-39	42	999	Statewide	22	Geothermal electric power generation	42	221116	1.0	1.0
-86	42	999	Statewide	31	Breakfast cereal manufacturing	42	311230	6.0	3.0
-89	42	999	Statewide	31	Cane sugar manufacturing	42	311314	2.0	1.0
-97	42	999	Statewide	31	Creamery butter manufacturing	42	311512	4.5	1.8
-106	42	999	Statewide	31	Fats and oils refining and blending	42	311225	7.0	3.0
-139	42	999	Statewide	31	Soybean and other oilseed processing	42	311224	4.0	2.0
-145	42	999	Statewide	31	Tortilla manufacturing	42	311830	6.0	2.6
-146	42	999	Statewide	31	Wet corn milling	42	311221	3.0	1.4
-176	42	999	Statewide	32	Engineered wood member (except truss) manufacturing	42	321213	8.0	3.6
-177	42	999	Statewide	32	Ethyl alcohol manufacturing	42	325193	3.0	1.2
-205	42	999	Statewide	32	Petrochemical manufacturing	42	325110	4.0	1.8
-222	42	999	Statewide	32	Pulp mills	42	322110	3.0	1.8
-230	42	999	Statewide	32	Softwood veneer and plywood manufacturing	42	321212	3.0	1.4
-235	42	999	Statewide	32	Synthetic rubber manufacturing	42	325212	4.0	2.0
-249	42	999	Statewide	33	Aircraft manufacturing	42	336411	14.25	7.2
-255	42	999	Statewide	33	Alumina refining and primary aluminum production	42	331313	5.0	2.2
-257	42	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	42	331315	7.25	3.4
-262	42	999	Statewide	33	Automobile manufacturing	42	336111	5.25	2.4
-269	42	999	Statewide	33	Broom, brush, and mop manufacturing	42	339994	16.5	7.0
-274	42	999	Statewide	33	Computer storage device manufacturing	42	334112	2.0	1.0
-302	42	999	Statewide	33	Guided missile and space vehicle manufacturing	42	336414	2.0	1.0
-303	42	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	42	336415	2.0	1.0
-306	42	999	Statewide	33	Heavy duty truck manufacturing	42	336120	6.0	3.0
-307	42	999	Statewide	33	Household cooking appliance manufacturing	42	335221	4.0	2.0
-309	42	999	Statewide	33	Household laundry equipment manufacturing	42	335224	1.0	1.0
-325	42	999	Statewide	33	Light truck and utility vehicle manufacturing	42	336112	1.0	1.0
-329	42	999	Statewide	33	Measuring and dispensing pump manufacturing	42	333913	3.0	1.2
-342	42	999	Statewide	33	Motor home manufacturing	42	336213	2.0	1.0
-351	42	999	Statewide	33	Motorcycle, bicycle, and parts manufacturing	42	336991	18.0	6.8
-354	42	999	Statewide	33	Nonferrous forging	42	332112	5.0	2.6
-373	42	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	42	336419	6.0	3.0
-376	42	999	Statewide	33	Other major household appliance manufacturing	42	335228	1.0	1.0
-384	42	999	Statewide	33	Photographic and photocopying equipment manufacturing	42	333316	10.0	4.4
-425	42	999	Statewide	33	Storage battery manufacturing	42	335911	13.5	5.8
-578	42	999	Statewide	48	Air traffic control	42	488111	10.0	5.0
-579	42	999	Statewide	48	All other pipeline transportation	42	486990	12.0	6.6
-585	42	999	Statewide	48	Coastal and great lakes passenger transportation	42	483114	2.0	1.5
-592	42	999	Statewide	48	Inland water passenger transportation	42	483212	5.0	2.6
-606	42	999	Statewide	48	Other urban transit systems	42	485119	3.0	1.2
-608	42	999	Statewide	48	Pipeline transportation of crude oil	42	486110	5.0	1.8
-613	42	999	Statewide	48	Scenic and sightseeing transportation, other	42	487990	4.0	1.8
-648	42	999	Statewide	51	Other motion picture and video industries	42	512199	9.0	3.0
-682	42	999	Statewide	52	Monetary authorities - central bank	42	521110	6.0	3.0
-686	42	999	Statewide	52	Other depository credit intermediation	42	522190	5.5	2.0
-694	42	999	Statewide	52	Secondary market financing	42	522294	7.0	3.8
-695	42	999	Statewide	52	Securities and commodity exchanges	42	523210	3.0	1.3333333333333333
-848	42	999	Statewide	62	HMO medical centers	42	621491	36.75	8.4
+27	42	999	Statewide	21	Industrial sand mining	42	212322	6.0	3.4444444444444446
+28	42	999	Statewide	21	Iron ore mining	42	212210	3.0	1.2
+29	42	999	Statewide	21	Kaolin and ball clay mining	42	212324	2.0	1.0
+41	42	999	Statewide	22	Geothermal electric power generation	42	221116	1.0	1.0
+88	42	999	Statewide	31	Breakfast cereal manufacturing	42	311230	6.0	3.0
+91	42	999	Statewide	31	Cane sugar manufacturing	42	311314	2.0	1.0
+108	42	999	Statewide	31	Fats and oils refining and blending	42	311225	7.0	3.0
+141	42	999	Statewide	31	Soybean and other oilseed processing	42	311224	4.0	2.0
+147	42	999	Statewide	31	Tortilla manufacturing	42	311830	6.0	2.6
+148	42	999	Statewide	31	Wet corn milling	42	311221	3.0	1.4
+179	42	999	Statewide	32	Ethyl alcohol manufacturing	42	325193	3.0	1.2
+207	42	999	Statewide	32	Petrochemical manufacturing	42	325110	4.0	1.8
+224	42	999	Statewide	32	Pulp mills	42	322110	3.0	1.8
+232	42	999	Statewide	32	Softwood veneer and plywood manufacturing	42	321212	3.0	1.4
+237	42	999	Statewide	32	Synthetic rubber manufacturing	42	325212	4.0	2.4444444444444446
+251	42	999	Statewide	33	Aircraft manufacturing	42	336411	14.25	6.666666666666667
+257	42	999	Statewide	33	Alumina refining and primary aluminum production	42	331313	5.0	2.2
+259	42	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	42	331315	7.25	3.6666666666666665
+264	42	999	Statewide	33	Automobile manufacturing	42	336111	5.25	2.6666666666666665
+276	42	999	Statewide	33	Computer storage device manufacturing	42	334112	2.0	1.0
+304	42	999	Statewide	33	Guided missile and space vehicle manufacturing	42	336414	2.0	1.0
+305	42	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	42	336415	2.0	1.0
+308	42	999	Statewide	33	Heavy duty truck manufacturing	42	336120	6.0	3.0
+309	42	999	Statewide	33	Household cooking appliance manufacturing	42	335221	4.0	2.0
+311	42	999	Statewide	33	Household laundry equipment manufacturing	42	335224	1.0	1.0
+327	42	999	Statewide	33	Light truck and utility vehicle manufacturing	42	336112	1.0	1.0
+331	42	999	Statewide	33	Measuring and dispensing pump manufacturing	42	333913	3.0	1.2
+345	42	999	Statewide	33	Motor home manufacturing	42	336213	2.0	1.0
+354	42	999	Statewide	33	Motorcycle, bicycle, and parts manufacturing	42	336991	18.0	7.333333333333333
+357	42	999	Statewide	33	Nonferrous forging	42	332112	5.0	2.6
+376	42	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	42	336419	6.0	3.0
+379	42	999	Statewide	33	Other major household appliance manufacturing	42	335228	1.0	1.0
+387	42	999	Statewide	33	Photographic and photocopying equipment manufacturing	42	333316	10.0	4.666666666666667
+428	42	999	Statewide	33	Storage battery manufacturing	42	335911	13.5	5.444444444444445
+594	42	999	Statewide	48	Air traffic control	42	488111	10.0	5.0
+595	42	999	Statewide	48	All other pipeline transportation	42	486990	12.0	6.6
+601	42	999	Statewide	48	Coastal and great lakes passenger transportation	42	483114	2.0	1.5
+608	42	999	Statewide	48	Inland water passenger transportation	42	483212	5.0	2.7777777777777777
+624	42	999	Statewide	48	Pipeline transportation of crude oil	42	486110	5.0	1.8
+664	42	999	Statewide	51	Other motion picture and video industries	42	512199	9.0	3.0
+701	42	999	Statewide	52	Monetary authorities - central bank	42	521110	6.0	3.0
+705	42	999	Statewide	52	Other depository credit intermediation	42	522190	5.5	2.0
+713	42	999	Statewide	52	Secondary market financing	42	522294	7.0	3.8
+714	42	999	Statewide	52	Securities and commodity exchanges	42	523210	3.0	1.3333333333333333

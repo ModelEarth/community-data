@@ -1,27 +1,23 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
-14	16	999	Statewide	22	Natural gas distribution	16	2212	26.0	13.0
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 29	16	999	Statewide	31	Apparel knitting mills	16	3151	1.0	1.0
 35	16	999	Statewide	31	Fiber, yarn, and thread mills	16	3131	2.0	1.3333333333333333
 44	16	999	Statewide	31	Textile and fabric finishing and fabric coating mills	16	3133	4.0	1.4
 48	16	999	Statewide	32	Clay product and refractory manufacturing	16	3271	3.25	1.6
-50	16	999	Statewide	32	Glass and glass product manufacturing	16	3272	14.75	6.4
+50	16	999	Statewide	32	Glass and glass product manufacturing	16	3272	14.75	5.777777777777778
 51	16	999	Statewide	32	Lime and gypsum product manufacturing	16	3274	2.0	1.0
-57	16	999	Statewide	32	Petroleum and coal products manufacturing	16	3241	6.0	2.4
+57	16	999	Statewide	32	Petroleum and coal products manufacturing	16	3241	6.0	2.6666666666666665
 61	16	999	Statewide	32	Pulp, paper, and paperboard mills	16	3221	4.0	2.0
 70	16	999	Statewide	33	Audio and video equipment manufacturing	16	3343	5.0	1.8
-75	16	999	Statewide	33	Computer and peripheral equipment manufacturing	16	3341	11.25	4.4
-79	16	999	Statewide	33	Engine, turbine, and power transmission equipment manufacturing	16	3336	5.0	2.8
 86	16	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	16	3311	1.0	1.0
 88	16	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	16	3346	3.25	1.4
 92	16	999	Statewide	33	Motor vehicle manufacturing	16	3361	3.0	1.3333333333333333
 99	16	999	Statewide	33	Other furniture related product manufacturing	16	3379	4.0	2.0
 103	16	999	Statewide	33	Railroad rolling stock manufacturing	16	3365	3.0	1.4
 107	16	999	Statewide	33	Steel product manufacturing from purchased steel	16	3312	6.0	2.4
-156	16	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	16	4831	3.0	1.6666666666666667
-160	16	999	Statewide	48	Interurban and rural bus transportation	16	4852	2.5	1.4
-162	16	999	Statewide	48	Other pipeline transportation	16	4869	3.0	1.4
-165	16	999	Statewide	48	Pipeline transportation of crude oil	16	4861	5.75	2.8
-166	16	999	Statewide	48	Pipeline transportation of natural gas	16	4862	4.0	2.0
-167	16	999	Statewide	48	Scenic and sightseeing transportation, land	16	4871	2.0	2.0
-168	16	999	Statewide	48	Scenic and sightseeing transportation, other	16	4879	4.0	1.8
-255	16	999	Statewide	71	Agents and managers for artists, athletes, entertainers, and other public figures	16	7114	5.0	1.8
+158	16	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	16	4831	3.0	1.6666666666666667
+164	16	999	Statewide	48	Other pipeline transportation	16	4869	3.0	1.4
+167	16	999	Statewide	48	Pipeline transportation of crude oil	16	4861	5.75	2.8
+168	16	999	Statewide	48	Pipeline transportation of natural gas	16	4862	4.0	2.0
+169	16	999	Statewide	48	Scenic and sightseeing transportation, land	16	4871	2.0	2.0
+170	16	999	Statewide	48	Scenic and sightseeing transportation, other	16	4879	4.0	1.8
+259	16	999	Statewide	71	Agents and managers for artists, athletes, entertainers, and other public figures	16	7114	5.0	1.8

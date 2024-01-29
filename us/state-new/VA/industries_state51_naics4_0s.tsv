@@ -1,10 +1,8 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 9	51	999	Statewide	21	Metal ore mining	51	2122	3.0	1.2
 29	51	999	Statewide	31	Apparel knitting mills	51	3151	5.0	1.6
 39	51	999	Statewide	31	Leather and hide tanning and finishing	51	3161	1.0	1.0
 87	51	999	Statewide	33	Household appliance manufacturing	51	3352	5.0	2.0
-95	51	999	Statewide	33	Motor vehicle manufacturing	51	3361	6.0	2.4
-168	51	999	Statewide	48	Pipeline transportation of crude oil	51	4861	7.0	3.0
-171	51	999	Statewide	48	Scenic and sightseeing transportation, other	51	4879	4.0	1.6
-201	51	999	Statewide	52	Monetary authorities - central bank	51	5211	10.0	5.0
-206	51	999	Statewide	52	Securities and commodity exchanges	51	5232	1.0	1.0
+95	51	999	Statewide	33	Motor vehicle manufacturing	51	3361	6.0	2.6666666666666665
+170	51	999	Statewide	48	Pipeline transportation of crude oil	51	4861	7.0	3.0
+209	51	999	Statewide	52	Securities and commodity exchanges	51	5232	1.0	1.0

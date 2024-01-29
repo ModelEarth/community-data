@@ -1,4 +1,4 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 0	18	999	Statewide	11	Fishing	18	1141	3.0	1.5
 1	18	999	Statewide	11	Forest nurseries and gathering of forest products	18	1132	2.0	1.0
 9	18	999	Statewide	21	Metal ore mining	18	2122	2.0	1.0
@@ -7,8 +7,6 @@
 36	18	999	Statewide	31	Footwear manufacturing	18	3162	1.0	1.0
 42	18	999	Statewide	31	Seafood product preparation and packaging	18	3117	3.0	1.3333333333333333
 46	18	999	Statewide	31	Tobacco manufacturing	18	3122	3.0	1.2
-86	18	999	Statewide	33	Household appliance manufacturing	18	3352	13.5	5.4
-158	18	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	18	4831	5.0	1.8
-161	18	999	Statewide	48	Inland water transportation	18	4832	13.0	6.2
-167	18	999	Statewide	48	Pipeline transportation of crude oil	18	4861	19.5	12.4
-170	18	999	Statewide	48	Scenic and sightseeing transportation, other	18	4879	4.0	1.3333333333333333
+160	18	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	18	4831	5.0	1.8
+163	18	999	Statewide	48	Inland water transportation	18	4832	13.0	6.111111111111111
+172	18	999	Statewide	48	Scenic and sightseeing transportation, other	18	4879	4.0	1.3333333333333333

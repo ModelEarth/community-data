@@ -1,4 +1,4 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 0	20	999	Statewide	11	Fishing	20	1141	4.0	1.4
 1	20	999	Statewide	11	Forest nurseries and gathering of forest products	20	1132	1.0	1.0
 29	20	999	Statewide	31	Fabric mills	20	3132	7.0	2.8
@@ -8,11 +8,10 @@
 38	20	999	Statewide	31	Seafood product preparation and packaging	20	3117	1.0	1.0
 57	20	999	Statewide	32	Pulp, paper, and paperboard mills	20	3221	4.0	2.0
 81	20	999	Statewide	33	Household appliance manufacturing	20	3352	1.0	1.0
-89	20	999	Statewide	33	Motor vehicle manufacturing	20	3361	7.0	3.4
+89	20	999	Statewide	33	Motor vehicle manufacturing	20	3361	7.0	3.6666666666666665
 102	20	999	Statewide	33	Ship and boat building	20	3366	6.0	2.4
-153	20	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	20	4831	2.25	1.2
-163	20	999	Statewide	48	Scenic and sightseeing transportation, land	20	4871	2.0	1.0
-164	20	999	Statewide	48	Scenic and sightseeing transportation, other	20	4879	1.0	1.0
-176	20	999	Statewide	51	Cable and other subscription programming	20	5152	8.0	4.0
-183	20	999	Statewide	51	Satellite telecommunications	20	5174	4.0	1.5
-196	20	999	Statewide	52	Securities and commodity exchanges	20	5232	2.25	1.2
+155	20	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	20	4831	2.25	1.2
+165	20	999	Statewide	48	Scenic and sightseeing transportation, land	20	4871	2.0	1.0
+166	20	999	Statewide	48	Scenic and sightseeing transportation, other	20	4879	1.0	1.0
+178	20	999	Statewide	51	Cable and other subscription programming	20	5152	8.0	4.0
+185	20	999	Statewide	51	Satellite telecommunications	20	5174	4.0	1.5

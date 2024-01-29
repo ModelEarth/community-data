@@ -1,5 +1,5 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
-0	56	999	Statewide	11	Fishing	56	1141	4.0	1.4
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+0	56	999	Statewide	11	Fishing	56	1141	4.0	2.111111111111111
 6	56	999	Statewide	11	Timber tract operations	56	1131	3.0	1.25
 25	56	999	Statewide	31	Animal food manufacturing	56	3111	1.0	1.0
 27	56	999	Statewide	31	Apparel accessories and other apparel manufacturing	56	3159	2.0	1.5
@@ -9,7 +9,6 @@
 34	56	999	Statewide	31	Fruit and vegetable preserving and specialty food manufacturing	56	3114	2.333333333333333	1.6666666666666667
 35	56	999	Statewide	31	Grain and oilseed milling	56	3112	3.75	1.8
 41	56	999	Statewide	31	Textile and fabric finishing and fabric coating mills	56	3133	6.0	1.8
-42	56	999	Statewide	31	Textile furnishings mills	56	3141	7.0	2.2
 43	56	999	Statewide	31	Tobacco manufacturing	56	3122	2.0	1.0
 46	56	999	Statewide	32	Clay product and refractory manufacturing	56	3271	2.0	1.0
 47	56	999	Statewide	32	Converted paper product manufacturing	56	3222	4.0	1.6
@@ -34,20 +33,17 @@
 95	56	999	Statewide	33	Other furniture related product manufacturing	56	3379	1.0	1.0
 98	56	999	Statewide	33	Other transportation equipment manufacturing	56	3369	2.0	1.0
 99	56	999	Statewide	33	Railroad rolling stock manufacturing	56	3365	2.0	1.0
-100	56	999	Statewide	33	Semiconductor and other electronic component manufacturing	56	3344	5.25	2.2
 101	56	999	Statewide	33	Ship and boat building	56	3366	2.0	1.5
 104	56	999	Statewide	33	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	56	3334	6.0	2.6
-151	56	999	Statewide	48	Charter bus industry	56	4855	4.0	1.4
-152	56	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	56	4831	1.0	1.0
-155	56	999	Statewide	48	Inland water transportation	56	4832	2.0	1.0
-158	56	999	Statewide	48	Other support activities for transportation	56	4889	2.0	1.0
-163	56	999	Statewide	48	Scenic and sightseeing transportation, other	56	4879	3.75	1.8
-164	56	999	Statewide	48	Scenic and sightseeing transportation, water	56	4872	3.0	1.4
-171	56	999	Statewide	48	Support activities for water transportation	56	4883	1.0	1.0
-173	56	999	Statewide	48	Urban transit systems	56	4851	7.5	3.0
-177	56	999	Statewide	51	Cable and other subscription programming	56	5152	2.0	1.3333333333333333
-184	56	999	Statewide	51	Satellite telecommunications	56	5174	2.0	1.0
-186	56	999	Statewide	51	Sound recording industries	56	5122	3.0	1.6
-230	56	999	Statewide	61	Junior colleges	56	6112	4.0	2.0
-247	56	999	Statewide	62	Psychiatric and substance abuse hospitals	56	6222	12.5	6.0
-249	56	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	56	6223	4.0	1.4
+153	56	999	Statewide	48	Charter bus industry	56	4855	4.0	1.4
+154	56	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	56	4831	1.0	1.0
+157	56	999	Statewide	48	Inland water transportation	56	4832	2.0	1.0
+160	56	999	Statewide	48	Other support activities for transportation	56	4889	2.0	1.0
+165	56	999	Statewide	48	Scenic and sightseeing transportation, other	56	4879	3.75	1.8
+173	56	999	Statewide	48	Support activities for water transportation	56	4883	1.0	1.0
+175	56	999	Statewide	48	Urban transit systems	56	4851	7.5	3.0
+179	56	999	Statewide	51	Cable and other subscription programming	56	5152	2.0	1.3333333333333333
+186	56	999	Statewide	51	Satellite telecommunications	56	5174	2.0	1.0
+188	56	999	Statewide	51	Sound recording industries	56	5122	3.0	1.6
+233	56	999	Statewide	61	Junior colleges	56	6112	4.0	2.0
+252	56	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	56	6223	4.0	1.4

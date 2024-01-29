@@ -1,5 +1,5 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
-8	22	999	Statewide	21	Coal mining	22	2121	6.0	3.2
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+8	22	999	Statewide	21	Coal mining	22	2121	6.0	3.111111111111111
 9	22	999	Statewide	21	Metal ore mining	22	2122	1.0	1.0
 34	22	999	Statewide	31	Fiber, yarn, and thread mills	22	3131	3.0	1.2
 37	22	999	Statewide	31	Leather and hide tanning and finishing	22	3161	5.0	1.6
@@ -12,6 +12,5 @@
 96	22	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	22	3314	3.0	1.2
 100	22	999	Statewide	33	Other furniture related product manufacturing	22	3379	2.0	1.0
 104	22	999	Statewide	33	Railroad rolling stock manufacturing	22	3365	5.0	2.2
-169	22	999	Statewide	48	Scenic and sightseeing transportation, other	22	4879	2.0	1.0
-179	22	999	Statewide	48	Urban transit systems	22	4851	15.75	7.8
-199	22	999	Statewide	52	Monetary authorities - central bank	22	5211	2.0	1.0
+171	22	999	Statewide	48	Scenic and sightseeing transportation, other	22	4879	2.0	1.0
+202	22	999	Statewide	52	Monetary authorities - central bank	22	5211	2.0	1.0

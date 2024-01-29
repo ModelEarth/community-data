@@ -1,4 +1,3 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 1	48	999	Statewide	11	Forest nurseries and gathering of forest products	48	1132	6.0	1.8
-201	48	999	Statewide	52	Monetary authorities - central bank	48	5211	12.0	6.0
-206	48	999	Statewide	52	Securities and commodity exchanges	48	5232	1.0	1.0
+209	48	999	Statewide	52	Securities and commodity exchanges	48	5232	1.0	1.0

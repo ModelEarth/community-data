@@ -1,7 +1,6 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 9	42	999	Statewide	21	Metal ore mining	42	2122	6.0	2.0
-95	42	999	Statewide	33	Motor vehicle manufacturing	42	3361	11.5	5.8
-168	42	999	Statewide	48	Pipeline transportation of crude oil	42	4861	5.0	1.8
-171	42	999	Statewide	48	Scenic and sightseeing transportation, other	42	4879	4.0	1.8
-201	42	999	Statewide	52	Monetary authorities - central bank	42	5211	6.0	3.0
-206	42	999	Statewide	52	Securities and commodity exchanges	42	5232	3.0	1.3333333333333333
+95	42	999	Statewide	33	Motor vehicle manufacturing	42	3361	11.5	5.888888888888889
+170	42	999	Statewide	48	Pipeline transportation of crude oil	42	4861	5.0	1.8
+204	42	999	Statewide	52	Monetary authorities - central bank	42	5211	6.0	3.0
+209	42	999	Statewide	52	Securities and commodity exchanges	42	5232	3.0	1.3333333333333333

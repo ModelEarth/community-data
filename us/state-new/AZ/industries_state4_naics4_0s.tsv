@@ -1,13 +1,11 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 1	4	999	Statewide	11	Forest nurseries and gathering of forest products	4	1132	5.0	2.6
-2	4	999	Statewide	11	Hunting and trapping	4	1142	6.0	3.4
+2	4	999	Statewide	11	Hunting and trapping	4	1142	6.0	3.2222222222222223
 7	4	999	Statewide	11	Timber tract operations	4	1131	2.0	1.0
 8	4	999	Statewide	21	Coal mining	4	2121	6.0	2.8
-14	4	999	Statewide	22	Natural gas distribution	4	2212	55.75	29.0
 29	4	999	Statewide	31	Apparel knitting mills	4	3151	4.0	2.0
-35	4	999	Statewide	31	Fiber, yarn, and thread mills	4	3131	7.0	3.2
+35	4	999	Statewide	31	Fiber, yarn, and thread mills	4	3131	7.0	4.0
 106	4	999	Statewide	33	Railroad rolling stock manufacturing	4	3365	2.0	1.0
-159	4	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	4	4831	3.0	1.2
-165	4	999	Statewide	48	Other pipeline transportation	4	4869	11.0	5.6
-168	4	999	Statewide	48	Pipeline transportation of crude oil	4	4861	4.333333333333333	1.75
-201	4	999	Statewide	52	Monetary authorities - central bank	4	5211	2.0	1.0
+167	4	999	Statewide	48	Other pipeline transportation	4	4869	11.0	4.888888888888889
+170	4	999	Statewide	48	Pipeline transportation of crude oil	4	4861	4.333333333333333	1.75
+204	4	999	Statewide	52	Monetary authorities - central bank	4	5211	2.0	1.0

@@ -1,4 +1,4 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS2012_TTL	state	relevant_naics	estab_agg	estab_api
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
 0	40	999	Statewide	11	Fishing	40	1141	2.0	1.0
 1	40	999	Statewide	11	Hunting and trapping	40	1142	5.0	1.8
 8	40	999	Statewide	21	Metal ore mining	40	2122	3.0	1.8
@@ -7,15 +7,11 @@
 35	40	999	Statewide	31	Footwear manufacturing	40	3162	1.0	1.0
 44	40	999	Statewide	31	Tobacco manufacturing	40	3122	1.0	1.0
 70	40	999	Statewide	33	Audio and video equipment manufacturing	40	3343	3.0	1.2
-75	40	999	Statewide	33	Computer and peripheral equipment manufacturing	40	3341	13.5	6.0
-84	40	999	Statewide	33	Household appliance manufacturing	40	3352	6.0	3.0
-92	40	999	Statewide	33	Motor vehicle manufacturing	40	3361	11.5	5.2
-103	40	999	Statewide	33	Railroad rolling stock manufacturing	40	3365	7.833333333333333	4.2
-156	40	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	40	4831	2.0	1.0
-159	40	999	Statewide	48	Inland water transportation	40	4832	3.0	1.2
-167	40	999	Statewide	48	Scenic and sightseeing transportation, land	40	4871	2.0	1.5
-168	40	999	Statewide	48	Scenic and sightseeing transportation, water	40	4872	1.0	1.0
-169	40	999	Statewide	48	Scheduled air transportation	40	4811	40.5	18.4
-181	40	999	Statewide	51	Cable and other subscription programming	40	5152	18.0	5.2
-197	40	999	Statewide	52	Monetary authorities - central bank	40	5211	2.0	1.0
-202	40	999	Statewide	52	Securities and commodity exchanges	40	5232	1.0	1.0
+75	40	999	Statewide	33	Computer and peripheral equipment manufacturing	40	3341	13.5	5.111111111111111
+103	40	999	Statewide	33	Railroad rolling stock manufacturing	40	3365	7.833333333333333	3.6666666666666665
+158	40	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	40	4831	2.0	1.0
+161	40	999	Statewide	48	Inland water transportation	40	4832	3.0	1.2
+169	40	999	Statewide	48	Scenic and sightseeing transportation, land	40	4871	2.0	1.5
+170	40	999	Statewide	48	Scenic and sightseeing transportation, water	40	4872	1.0	1.0
+200	40	999	Statewide	52	Monetary authorities - central bank	40	5211	2.0	1.0
+205	40	999	Statewide	52	Securities and commodity exchanges	40	5232	1.0	1.0
