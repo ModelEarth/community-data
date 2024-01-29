@@ -8,7 +8,7 @@ Processed zip code files reside at:
 /us/zipcode/naics/3/0/3/1/8/zipcode30318-census-naics6-2018.csv
 -->
 
-Processed using <b>split_zip_data.py</b> in the current folder.
+Processed using <b>split\_zip\_data.py</b> in the current folder.
 Creates files for naics levels 2,4 and 6.
 
 Example used by [upcoming naics list](/localsite/info/#beta=true)
