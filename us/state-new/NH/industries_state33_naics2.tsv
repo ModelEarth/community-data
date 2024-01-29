@@ -1,0 +1,338 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+58340	33001	33	1	Belknap County	11	Agriculture, forestry, fishing and hunting	11	0500000US33001	3.0	0.0	189.0
+58341	33001	33	1	Belknap County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33001	2.0	0.0	0.0
+58342	33001	33	1	Belknap County	22	Utilities	22	0500000US33001	6.0	97.0	8200.0
+58343	33001	33	1	Belknap County	23	Construction	23	0500000US33001	193.0	1050.0	58869.0
+58344	33001	33	1	Belknap County	42	Wholesale trade	42	0500000US33001	58.0	486.0	26516.0
+58345	33001	33	1	Belknap County	51	Information	51	0500000US33001	27.0	323.0	14183.0
+58346	33001	33	1	Belknap County	52	Finance and insurance	52	0500000US33001	71.0	0.0	35896.0
+58347	33001	33	1	Belknap County	53	Real estate and rental and leasing	53	0500000US33001	77.0	414.0	12423.0
+58348	33001	33	1	Belknap County	54	Professional, scientific, and technical services	54	0500000US33001	149.0	693.0	37512.0
+58349	33001	33	1	Belknap County	55	Management of companies and enterprises	55	0500000US33001	4.0	0.0	0.0
+58350	33001	33	1	Belknap County	56	Administrative and support and waste management and remediation services	56	0500000US33001	91.0	866.0	28457.0
+58351	33001	33	1	Belknap County	61	Educational services	61	0500000US33001	20.0	475.0	17062.0
+58352	33001	33	1	Belknap County	62	Health care and social assistance	62	0500000US33001	136.0	3645.0	152456.0
+58353	33001	33	1	Belknap County	71	Arts, entertainment, and recreation	71	0500000US33001	54.0	403.0	12811.0
+58354	33001	33	1	Belknap County	72	Accommodation and food services	72	0500000US33001	224.0	2525.0	51657.0
+58355	33001	33	1	Belknap County	81	Other services (except public administration)	81	0500000US33001	188.0	852.0	19562.0
+58356	33001	33	1	Belknap County	99	Industries not classified	99	0500000US33001	1.0	0.0	0.0
+58358	33001	33	1	Belknap County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33001	4.5	8.25	359.875
+58359	33001	33	1	Belknap County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33001	5.25	23.0	1632.125
+58360	33001	33	1	Belknap County, New Hampshire	22	Utilities	22	0500000US33001	7.875	97.5	11017.75
+58361	33001	33	1	Belknap County, New Hampshire	23	Construction	23	0500000US33001	219.125	1225.125	81852.5
+58362	33001	33	1	Belknap County, New Hampshire	42	Wholesale trade	42	0500000US33001	58.25	463.125	29400.0
+58363	33001	33	1	Belknap County, New Hampshire	51	Information	51	0500000US33001	25.625	271.625	13134.625
+58364	33001	33	1	Belknap County, New Hampshire	52	Finance and insurance	52	0500000US33001	74.125	455.25	39737.625
+58365	33001	33	1	Belknap County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33001	80.375	364.5	13003.375
+58366	33001	33	1	Belknap County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33001	136.0	644.25	38616.75
+58367	33001	33	1	Belknap County, New Hampshire	55	Management of companies and enterprises	55	0500000US33001	4.625	64.0	4182.5
+58368	33001	33	1	Belknap County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33001	101.75	754.375	23927.5
+58369	33001	33	1	Belknap County, New Hampshire	61	Educational services	61	0500000US33001	20.875	480.25	18069.125
+58370	33001	33	1	Belknap County, New Hampshire	62	Health care and social assistance	62	0500000US33001	147.5	4018.875	183157.875
+58371	33001	33	1	Belknap County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33001	53.5	422.125	14236.125
+58372	33001	33	1	Belknap County, New Hampshire	72	Accommodation and food services	72	0500000US33001	240.0	2938.0	65959.75
+58373	33001	33	1	Belknap County, New Hampshire	81	Other services (except public administration)	81	0500000US33001	197.375	822.25	22012.125
+58374	33001	33	1	Belknap County, New Hampshire	99	Industries not classified	99	0500000US33001	3.4	1.6	51.4
+58376	33003	33	3	Carroll County	11	Agriculture, forestry, fishing and hunting	11	0500000US33003	12.0	68.0	2455.0
+58377	33003	33	3	Carroll County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33003	2.0	0.0	0.0
+58378	33003	33	3	Carroll County	22	Utilities	22	0500000US33003	7.0	0.0	4548.0
+58379	33003	33	3	Carroll County	23	Construction	23	0500000US33003	211.0	947.0	45098.0
+58380	33003	33	3	Carroll County	42	Wholesale trade	42	0500000US33003	46.0	302.0	13426.0
+58381	33003	33	3	Carroll County	51	Information	51	0500000US33003	45.0	272.0	9150.0
+58382	33003	33	3	Carroll County	52	Finance and insurance	52	0500000US33003	69.0	488.0	25748.0
+58383	33003	33	3	Carroll County	53	Real estate and rental and leasing	53	0500000US33003	68.0	232.0	8642.0
+58384	33003	33	3	Carroll County	54	Professional, scientific, and technical services	54	0500000US33003	132.0	498.0	30394.0
+58385	33003	33	3	Carroll County	55	Management of companies and enterprises	55	0500000US33003	3.0	0.0	0.0
+58386	33003	33	3	Carroll County	56	Administrative and support and waste management and remediation services	56	0500000US33003	98.0	481.0	20418.0
+58387	33003	33	3	Carroll County	61	Educational services	61	0500000US33003	24.0	394.0	11673.0
+58388	33003	33	3	Carroll County	62	Health care and social assistance	62	0500000US33003	142.0	2755.0	105228.0
+58389	33003	33	3	Carroll County	71	Arts, entertainment, and recreation	71	0500000US33003	59.0	991.0	19322.0
+58390	33003	33	3	Carroll County	72	Accommodation and food services	72	0500000US33003	308.0	4087.0	75675.0
+58391	33003	33	3	Carroll County	81	Other services (except public administration)	81	0500000US33003	149.0	564.0	15173.0
+58392	33003	33	3	Carroll County	99	Industries not classified	99	0500000US33003	1.0	0.0	0.0
+58394	33003	33	3	Carroll County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33003	11.5	45.5	2140.25
+58395	33003	33	3	Carroll County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33003	2.2	2.6	154.6
+58396	33003	33	3	Carroll County, New Hampshire	22	Utilities	22	0500000US33003	6.875	54.625	4991.75
+58397	33003	33	3	Carroll County, New Hampshire	23	Construction	23	0500000US33003	224.25	1001.625	54942.625
+58398	33003	33	3	Carroll County, New Hampshire	42	Wholesale trade	42	0500000US33003	43.125	276.875	14637.5
+58399	33003	33	3	Carroll County, New Hampshire	51	Information	51	0500000US33003	36.5	227.375	11195.625
+58400	33003	33	3	Carroll County, New Hampshire	52	Finance and insurance	52	0500000US33003	59.25	378.5	20378.375
+58401	33003	33	3	Carroll County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33003	86.5	303.5	11652.625
+58402	33003	33	3	Carroll County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33003	127.75	505.125	31584.875
+58403	33003	33	3	Carroll County, New Hampshire	55	Management of companies and enterprises	55	0500000US33003	3.1666666666666665	21.0	1112.8333333333333
+58404	33003	33	3	Carroll County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33003	108.0	668.25	27696.0
+58405	33003	33	3	Carroll County, New Hampshire	61	Educational services	61	0500000US33003	23.25	393.625	12669.25
+58406	33003	33	3	Carroll County, New Hampshire	62	Health care and social assistance	62	0500000US33003	147.75	2678.625	111857.625
+58407	33003	33	3	Carroll County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33003	58.25	664.25	19396.5
+58408	33003	33	3	Carroll County, New Hampshire	72	Accommodation and food services	72	0500000US33003	303.875	4258.5	94376.0
+58409	33003	33	3	Carroll County, New Hampshire	81	Other services (except public administration)	81	0500000US33003	158.625	628.0	18953.5
+58410	33003	33	3	Carroll County, New Hampshire	99	Industries not classified	99	0500000US33003	5.0	7.142857142857143	366.42857142857144
+58412	33005	33	5	Cheshire County	11	Agriculture, forestry, fishing and hunting	11	0500000US33005	8.0	14.0	403.0
+58413	33005	33	5	Cheshire County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33005	5.0	0.0	1655.0
+58414	33005	33	5	Cheshire County	22	Utilities	22	0500000US33005	7.0	0.0	0.0
+58415	33005	33	5	Cheshire County	23	Construction	23	0500000US33005	216.0	1295.0	61994.0
+58416	33005	33	5	Cheshire County	42	Wholesale trade	42	0500000US33005	69.0	992.0	45343.0
+58417	33005	33	5	Cheshire County	51	Information	51	0500000US33005	36.0	499.0	27546.0
+58418	33005	33	5	Cheshire County	52	Finance and insurance	52	0500000US33005	96.0	1553.0	93595.0
+58419	33005	33	5	Cheshire County	53	Real estate and rental and leasing	53	0500000US33005	61.0	212.0	7730.0
+58420	33005	33	5	Cheshire County	54	Professional, scientific, and technical services	54	0500000US33005	149.0	649.0	30484.0
+58421	33005	33	5	Cheshire County	55	Management of companies and enterprises	55	0500000US33005	11.0	0.0	0.0
+58422	33005	33	5	Cheshire County	56	Administrative and support and waste management and remediation services	56	0500000US33005	102.0	1068.0	40216.0
+58423	33005	33	5	Cheshire County	61	Educational services	61	0500000US33005	33.0	1069.0	31867.0
+58424	33005	33	5	Cheshire County	62	Health care and social assistance	62	0500000US33005	156.0	3927.0	150415.0
+58425	33005	33	5	Cheshire County	71	Arts, entertainment, and recreation	71	0500000US33005	43.0	575.0	6971.0
+58426	33005	33	5	Cheshire County	72	Accommodation and food services	72	0500000US33005	170.0	2574.0	41111.0
+58427	33005	33	5	Cheshire County	81	Other services (except public administration)	81	0500000US33005	188.0	1193.0	31550.0
+58429	33005	33	5	Cheshire County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33005	9.25	13.625	568.875
+58430	33005	33	5	Cheshire County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33005	4.5	22.375	2086.25
+58431	33005	33	5	Cheshire County, New Hampshire	22	Utilities	22	0500000US33005	5.25	36.0	3712.75
+58432	33005	33	5	Cheshire County, New Hampshire	23	Construction	23	0500000US33005	233.5	1412.125	81077.375
+58433	33005	33	5	Cheshire County, New Hampshire	42	Wholesale trade	42	0500000US33005	65.625	987.625	50312.0
+58434	33005	33	5	Cheshire County, New Hampshire	51	Information	51	0500000US33005	35.625	514.375	40233.5
+58435	33005	33	5	Cheshire County, New Hampshire	52	Finance and insurance	52	0500000US33005	93.5	1276.375	86956.125
+58436	33005	33	5	Cheshire County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33005	70.5	224.125	8916.625
+58437	33005	33	5	Cheshire County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33005	150.0	634.625	35818.5
+58438	33005	33	5	Cheshire County, New Hampshire	55	Management of companies and enterprises	55	0500000US33005	12.75	1245.75	103994.875
+58439	33005	33	5	Cheshire County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33005	108.125	1098.0	36689.375
+58440	33005	33	5	Cheshire County, New Hampshire	61	Educational services	61	0500000US33005	33.25	1037.875	33488.125
+58441	33005	33	5	Cheshire County, New Hampshire	62	Health care and social assistance	62	0500000US33005	163.375	3856.625	170347.5
+58442	33005	33	5	Cheshire County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33005	46.25	549.625	9563.875
+58443	33005	33	5	Cheshire County, New Hampshire	72	Accommodation and food services	72	0500000US33005	180.875	2624.125	48727.375
+58444	33005	33	5	Cheshire County, New Hampshire	81	Other services (except public administration)	81	0500000US33005	182.625	1198.375	33563.0
+58445	33005	33	5	Cheshire County, New Hampshire	99	Industries not classified	99	0500000US33005	2.4	2.0	28.6
+58447	33007	33	7	Coos County	11	Agriculture, forestry, fishing and hunting	11	0500000US33007	31.0	161.0	5697.0
+58448	33007	33	7	Coos County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33007	2.0	0.0	0.0
+58449	33007	33	7	Coos County	22	Utilities	22	0500000US33007	8.0	72.0	5394.0
+58450	33007	33	7	Coos County	23	Construction	23	0500000US33007	67.0	0.0	8613.0
+58451	33007	33	7	Coos County	42	Wholesale trade	42	0500000US33007	20.0	291.0	8225.0
+58452	33007	33	7	Coos County	51	Information	51	0500000US33007	21.0	0.0	0.0
+58453	33007	33	7	Coos County	52	Finance and insurance	52	0500000US33007	36.0	312.0	12059.0
+58454	33007	33	7	Coos County	53	Real estate and rental and leasing	53	0500000US33007	25.0	64.0	2414.0
+58455	33007	33	7	Coos County	54	Professional, scientific, and technical services	54	0500000US33007	37.0	113.0	4291.0
+58456	33007	33	7	Coos County	55	Management of companies and enterprises	55	0500000US33007	3.0	0.0	0.0
+58457	33007	33	7	Coos County	56	Administrative and support and waste management and remediation services	56	0500000US33007	35.0	205.0	7087.0
+58458	33007	33	7	Coos County	61	Educational services	61	0500000US33007	12.0	0.0	2950.0
+58459	33007	33	7	Coos County	62	Health care and social assistance	62	0500000US33007	101.0	2235.0	86685.0
+58460	33007	33	7	Coos County	71	Arts, entertainment, and recreation	71	0500000US33007	23.0	110.0	5471.0
+58461	33007	33	7	Coos County	72	Accommodation and food services	72	0500000US33007	110.0	1715.0	31802.0
+58462	33007	33	7	Coos County	81	Other services (except public administration)	81	0500000US33007	90.0	508.0	14366.0
+58463	33007	33	7	Coos County	99	Industries not classified	99	0500000US33007	1.0	0.0	0.0
+58465	33007	33	7	Coos County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33007	24.625	155.125	6113.75
+58466	33007	33	7	Coos County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33007	1.5	0.0	0.0
+58467	33007	33	7	Coos County, New Hampshire	22	Utilities	22	0500000US33007	10.375	100.25	8478.625
+58468	33007	33	7	Coos County, New Hampshire	23	Construction	23	0500000US33007	65.75	210.25	10585.5
+58469	33007	33	7	Coos County, New Hampshire	42	Wholesale trade	42	0500000US33007	23.0	186.875	10357.0
+58470	33007	33	7	Coos County, New Hampshire	51	Information	51	0500000US33007	15.25	56.0	2793.125
+58471	33007	33	7	Coos County, New Hampshire	52	Finance and insurance	52	0500000US33007	36.125	268.75	13567.75
+58472	33007	33	7	Coos County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33007	26.125	76.25	4857.5
+58473	33007	33	7	Coos County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33007	31.25	133.625	6072.625
+58474	33007	33	7	Coos County, New Hampshire	55	Management of companies and enterprises	55	0500000US33007	3.625	27.0	2439.625
+58475	33007	33	7	Coos County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33007	36.125	175.375	6486.25
+58476	33007	33	7	Coos County, New Hampshire	61	Educational services	61	0500000US33007	11.625	112.125	4205.5
+58477	33007	33	7	Coos County, New Hampshire	62	Health care and social assistance	62	0500000US33007	99.125	2143.0	92593.875
+58478	33007	33	7	Coos County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33007	27.25	112.875	5831.375
+58479	33007	33	7	Coos County, New Hampshire	72	Accommodation and food services	72	0500000US33007	114.75	1938.875	38315.375
+58480	33007	33	7	Coos County, New Hampshire	81	Other services (except public administration)	81	0500000US33007	79.875	394.125	11686.875
+58481	33007	33	7	Coos County, New Hampshire	99	Industries not classified	99	0500000US33007	1.75	0.0	0.0
+58483	33009	33	9	Grafton County	11	Agriculture, forestry, fishing and hunting	11	0500000US33009	22.0	0.0	11107.0
+58484	33009	33	9	Grafton County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33009	9.0	25.0	1502.0
+58485	33009	33	9	Grafton County	22	Utilities	22	0500000US33009	21.0	294.0	21711.0
+58486	33009	33	9	Grafton County	23	Construction	23	0500000US33009	246.0	1105.0	52451.0
+58487	33009	33	9	Grafton County	42	Wholesale trade	42	0500000US33009	91.0	743.0	44400.0
+58488	33009	33	9	Grafton County	51	Information	51	0500000US33009	76.0	1113.0	72414.0
+58489	33009	33	9	Grafton County	52	Finance and insurance	52	0500000US33009	146.0	906.0	73374.0
+58490	33009	33	9	Grafton County	53	Real estate and rental and leasing	53	0500000US33009	142.0	453.0	15245.0
+58491	33009	33	9	Grafton County	54	Professional, scientific, and technical services	54	0500000US33009	250.0	1494.0	103023.0
+58492	33009	33	9	Grafton County	55	Management of companies and enterprises	55	0500000US33009	6.0	0.0	0.0
+58493	33009	33	9	Grafton County	56	Administrative and support and waste management and remediation services	56	0500000US33009	149.0	850.0	27660.0
+58494	33009	33	9	Grafton County	61	Educational services	61	0500000US33009	61.0	0.0	0.0
+58495	33009	33	9	Grafton County	62	Health care and social assistance	62	0500000US33009	268.0	10282.0	666977.0
+58496	33009	33	9	Grafton County	71	Arts, entertainment, and recreation	71	0500000US33009	76.0	1931.0	22619.0
+58497	33009	33	9	Grafton County	72	Accommodation and food services	72	0500000US33009	376.0	5077.0	96677.0
+58498	33009	33	9	Grafton County	81	Other services (except public administration)	81	0500000US33009	271.0	1289.0	30752.0
+58499	33009	33	9	Grafton County	99	Industries not classified	99	0500000US33009	2.0	0.0	0.0
+58501	33009	33	9	Grafton County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33009	24.875	91.5	11302.375
+58502	33009	33	9	Grafton County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33009	6.25	17.875	1546.25
+58503	33009	33	9	Grafton County, New Hampshire	22	Utilities	22	0500000US33009	18.125	299.25	25228.125
+58504	33009	33	9	Grafton County, New Hampshire	23	Construction	23	0500000US33009	245.125	1221.5	64623.375
+58505	33009	33	9	Grafton County, New Hampshire	42	Wholesale trade	42	0500000US33009	92.375	749.375	49177.25
+58506	33009	33	9	Grafton County, New Hampshire	51	Information	51	0500000US33009	69.5	1000.5	78583.75
+58507	33009	33	9	Grafton County, New Hampshire	52	Finance and insurance	52	0500000US33009	145.75	905.625	103173.75
+58508	33009	33	9	Grafton County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33009	143.375	526.875	22430.375
+58509	33009	33	9	Grafton County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33009	235.75	1648.625	146983.0
+58510	33009	33	9	Grafton County, New Hampshire	55	Management of companies and enterprises	55	0500000US33009	8.875	122.875	9882.375
+58511	33009	33	9	Grafton County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33009	156.125	999.25	42189.875
+58512	33009	33	9	Grafton County, New Hampshire	61	Educational services	61	0500000US33009	65.5	6641.25	326504.0
+58513	33009	33	9	Grafton County, New Hampshire	62	Health care and social assistance	62	0500000US33009	277.625	11902.25	843537.875
+58514	33009	33	9	Grafton County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33009	74.5	1808.125	29433.125
+58515	33009	33	9	Grafton County, New Hampshire	72	Accommodation and food services	72	0500000US33009	405.25	5219.375	112088.625
+58516	33009	33	9	Grafton County, New Hampshire	81	Other services (except public administration)	81	0500000US33009	259.625	1363.75	36820.75
+58517	33009	33	9	Grafton County, New Hampshire	99	Industries not classified	99	0500000US33009	6.625	16.625	398.125
+58519	33011	33	11	Hillsborough County	11	Agriculture, forestry, fishing and hunting	11	0500000US33011	17.0	56.0	2565.0
+58520	33011	33	11	Hillsborough County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33011	7.0	25.0	1288.0
+58521	33011	33	11	Hillsborough County	22	Utilities	22	0500000US33011	22.0	0.0	0.0
+58522	33011	33	11	Hillsborough County	23	Construction	23	0500000US33011	1072.0	7118.0	374252.0
+58523	33011	33	11	Hillsborough County	42	Wholesale trade	42	0500000US33011	601.0	7232.0	531886.0
+58524	33011	33	11	Hillsborough County	51	Information	51	0500000US33011	269.0	6934.0	595287.0
+58525	33011	33	11	Hillsborough County	52	Finance and insurance	52	0500000US33011	598.0	5713.0	431984.0
+58526	33011	33	11	Hillsborough County	53	Real estate and rental and leasing	53	0500000US33011	385.0	2720.0	126624.0
+58527	33011	33	11	Hillsborough County	54	Professional, scientific, and technical services	54	0500000US33011	1312.0	10115.0	691377.0
+58528	33011	33	11	Hillsborough County	55	Management of companies and enterprises	55	0500000US33011	72.0	3480.0	251701.0
+58529	33011	33	11	Hillsborough County	56	Administrative and support and waste management and remediation services	56	0500000US33011	649.0	11091.0	379566.0
+58530	33011	33	11	Hillsborough County	61	Educational services	61	0500000US33011	180.0	5079.0	145624.0
+58531	33011	33	11	Hillsborough County	62	Health care and social assistance	62	0500000US33011	1092.0	28574.0	1341673.0
+58532	33011	33	11	Hillsborough County	71	Arts, entertainment, and recreation	71	0500000US33011	160.0	3082.0	77391.0
+58533	33011	33	11	Hillsborough County	72	Accommodation and food services	72	0500000US33011	891.0	14857.0	236660.0
+58534	33011	33	11	Hillsborough County	81	Other services (except public administration)	81	0500000US33011	1011.0	6889.0	199860.0
+58535	33011	33	11	Hillsborough County	99	Industries not classified	99	0500000US33011	5.0	0.0	95.0
+58537	33011	33	11	Hillsborough County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33011	21.125	52.5	3201.0
+58538	33011	33	11	Hillsborough County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33011	7.375	38.5	2244.5
+58539	33011	33	11	Hillsborough County, New Hampshire	22	Utilities	22	0500000US33011	26.0	708.375	64511.25
+58540	33011	33	11	Hillsborough County, New Hampshire	23	Construction	23	0500000US33011	1168.875	8378.0	542221.75
+58541	33011	33	11	Hillsborough County, New Hampshire	42	Wholesale trade	42	0500000US33011	573.375	7448.125	591721.625
+58542	33011	33	11	Hillsborough County, New Hampshire	51	Information	51	0500000US33011	244.75	7612.75	723240.75
+58543	33011	33	11	Hillsborough County, New Hampshire	52	Finance and insurance	52	0500000US33011	626.25	8949.375	890565.375
+58544	33011	33	11	Hillsborough County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33011	425.625	2787.5	138423.0
+58545	33011	33	11	Hillsborough County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33011	1272.5	12849.25	1174034.875
+58546	33011	33	11	Hillsborough County, New Hampshire	55	Management of companies and enterprises	55	0500000US33011	69.75	3580.625	294216.5
+58547	33011	33	11	Hillsborough County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33011	697.375	10605.875	436385.875
+58548	33011	33	11	Hillsborough County, New Hampshire	61	Educational services	61	0500000US33011	200.125	5825.375	208970.375
+58549	33011	33	11	Hillsborough County, New Hampshire	62	Health care and social assistance	62	0500000US33011	1141.75	30599.5	1569837.75
+58550	33011	33	11	Hillsborough County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33011	182.125	3240.0	80571.5
+58551	33011	33	11	Hillsborough County, New Hampshire	72	Accommodation and food services	72	0500000US33011	907.75	16146.0	293583.125
+58552	33011	33	11	Hillsborough County, New Hampshire	81	Other services (except public administration)	81	0500000US33011	1069.25	7577.75	254821.75
+58553	33011	33	11	Hillsborough County, New Hampshire	99	Industries not classified	99	0500000US33011	10.5	9.125	290.75
+58555	33013	33	13	Merrimack County	11	Agriculture, forestry, fishing and hunting	11	0500000US33013	16.0	77.0	2503.0
+58556	33013	33	13	Merrimack County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33013	8.0	96.0	4437.0
+58557	33013	33	13	Merrimack County	22	Utilities	22	0500000US33013	11.0	0.0	0.0
+58558	33013	33	13	Merrimack County	23	Construction	23	0500000US33013	461.0	2734.0	158812.0
+58559	33013	33	13	Merrimack County	42	Wholesale trade	42	0500000US33013	170.0	3220.0	168548.0
+58560	33013	33	13	Merrimack County	51	Information	51	0500000US33013	66.0	643.0	35352.0
+58561	33013	33	13	Merrimack County	52	Finance and insurance	52	0500000US33013	196.0	3431.0	220006.0
+58562	33013	33	13	Merrimack County	53	Real estate and rental and leasing	53	0500000US33013	142.0	862.0	42354.0
+58563	33013	33	13	Merrimack County	54	Professional, scientific, and technical services	54	0500000US33013	434.0	3660.0	177889.0
+58564	33013	33	13	Merrimack County	55	Management of companies and enterprises	55	0500000US33013	26.0	746.0	61745.0
+58565	33013	33	13	Merrimack County	56	Administrative and support and waste management and remediation services	56	0500000US33013	224.0	1862.0	76558.0
+58566	33013	33	13	Merrimack County	61	Educational services	61	0500000US33013	73.0	3835.0	137704.0
+58567	33013	33	13	Merrimack County	62	Health care and social assistance	62	0500000US33013	414.0	12205.0	546027.0
+58568	33013	33	13	Merrimack County	71	Arts, entertainment, and recreation	71	0500000US33013	84.0	2277.0	27587.0
+58569	33013	33	13	Merrimack County	72	Accommodation and food services	72	0500000US33013	307.0	4743.0	78032.0
+58570	33013	33	13	Merrimack County	81	Other services (except public administration)	81	0500000US33013	516.0	2460.0	79589.0
+58571	33013	33	13	Merrimack County	99	Industries not classified	99	0500000US33013	1.0	0.0	0.0
+58573	33013	33	13	Merrimack County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33013	18.25	87.25	3997.875
+58574	33013	33	13	Merrimack County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33013	8.875	74.0	4936.25
+58575	33013	33	13	Merrimack County, New Hampshire	22	Utilities	22	0500000US33013	15.375	251.0	26500.375
+58576	33013	33	13	Merrimack County, New Hampshire	23	Construction	23	0500000US33013	469.125	3292.0	219397.25
+58577	33013	33	13	Merrimack County, New Hampshire	42	Wholesale trade	42	0500000US33013	171.25	3588.125	209844.75
+58578	33013	33	13	Merrimack County, New Hampshire	51	Information	51	0500000US33013	67.75	772.25	43460.75
+58579	33013	33	13	Merrimack County, New Hampshire	52	Finance and insurance	52	0500000US33013	209.25	3376.625	249481.625
+58580	33013	33	13	Merrimack County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33013	141.375	1028.5	64080.625
+58581	33013	33	13	Merrimack County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33013	393.375	2913.75	204252.625
+58582	33013	33	13	Merrimack County, New Hampshire	55	Management of companies and enterprises	55	0500000US33013	18.75	740.375	78418.5
+58583	33013	33	13	Merrimack County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33013	244.875	2195.75	99491.375
+58584	33013	33	13	Merrimack County, New Hampshire	61	Educational services	61	0500000US33013	77.5	4390.375	168828.375
+58585	33013	33	13	Merrimack County, New Hampshire	62	Health care and social assistance	62	0500000US33013	418.25	12561.5	617503.75
+58586	33013	33	13	Merrimack County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33013	79.625	1865.0	30292.75
+58587	33013	33	13	Merrimack County, New Hampshire	72	Accommodation and food services	72	0500000US33013	322.0	5556.75	104664.125
+58588	33013	33	13	Merrimack County, New Hampshire	81	Other services (except public administration)	81	0500000US33013	520.375	2722.75	101594.25
+58589	33013	33	13	Merrimack County, New Hampshire	99	Industries not classified	99	0500000US33013	4.5	3.3333333333333335	75.16666666666667
+58591	33015	33	15	Rockingham County	11	Agriculture, forestry, fishing and hunting	11	0500000US33015	11.0	0.0	297.0
+58592	33015	33	15	Rockingham County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33015	3.0	0.0	0.0
+58593	33015	33	15	Rockingham County	22	Utilities	22	0500000US33015	27.0	1359.0	145113.0
+58594	33015	33	15	Rockingham County	23	Construction	23	0500000US33015	983.0	6179.0	352341.0
+58595	33015	33	15	Rockingham County	42	Wholesale trade	42	0500000US33015	606.0	7408.0	506078.0
+58596	33015	33	15	Rockingham County	51	Information	51	0500000US33015	157.0	2356.0	161678.0
+58597	33015	33	15	Rockingham County	52	Finance and insurance	52	0500000US33015	457.0	6057.0	503942.0
+58598	33015	33	15	Rockingham County	53	Real estate and rental and leasing	53	0500000US33015	300.0	1242.0	57458.0
+58599	33015	33	15	Rockingham County	54	Professional, scientific, and technical services	54	0500000US33015	1054.0	7824.0	511462.0
+58600	33015	33	15	Rockingham County	55	Management of companies and enterprises	55	0500000US33015	61.0	1572.0	164864.0
+58601	33015	33	15	Rockingham County	56	Administrative and support and waste management and remediation services	56	0500000US33015	638.0	10035.0	382194.0
+58602	33015	33	15	Rockingham County	61	Educational services	61	0500000US33015	133.0	3035.0	98517.0
+58603	33015	33	15	Rockingham County	62	Health care and social assistance	62	0500000US33015	869.0	15529.0	674128.0
+58604	33015	33	15	Rockingham County	71	Arts, entertainment, and recreation	71	0500000US33015	186.0	2800.0	69091.0
+58605	33015	33	15	Rockingham County	72	Accommodation and food services	72	0500000US33015	855.0	13329.0	258451.0
+58606	33015	33	15	Rockingham County	81	Other services (except public administration)	81	0500000US33015	818.0	4575.0	128071.0
+58607	33015	33	15	Rockingham County	99	Industries not classified	99	0500000US33015	10.0	4.0	116.0
+58609	33015	33	15	Rockingham County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33015	9.75	22.875	960.375
+58610	33015	33	15	Rockingham County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33015	4.375	14.0	1188.875
+58611	33015	33	15	Rockingham County, New Hampshire	22	Utilities	22	0500000US33015	28.125	1214.75	141306.375
+58612	33015	33	15	Rockingham County, New Hampshire	23	Construction	23	0500000US33015	1087.75	8066.25	557337.875
+58613	33015	33	15	Rockingham County, New Hampshire	42	Wholesale trade	42	0500000US33015	572.25	7788.125	646024.75
+58614	33015	33	15	Rockingham County, New Hampshire	51	Information	51	0500000US33015	161.25	3747.625	295376.625
+58615	33015	33	15	Rockingham County, New Hampshire	52	Finance and insurance	52	0500000US33015	495.875	7011.125	660927.25
+58616	33015	33	15	Rockingham County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33015	327.0	1531.375	76377.375
+58617	33015	33	15	Rockingham County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33015	1022.375	9274.875	634094.0
+58618	33015	33	15	Rockingham County, New Hampshire	55	Management of companies and enterprises	55	0500000US33015	67.625	1970.375	239637.375
+58619	33015	33	15	Rockingham County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33015	652.0	9568.125	459330.5
+58620	33015	33	15	Rockingham County, New Hampshire	61	Educational services	61	0500000US33015	146.875	3288.5	123296.25
+58621	33015	33	15	Rockingham County, New Hampshire	62	Health care and social assistance	62	0500000US33015	888.25	16224.75	798850.75
+58622	33015	33	15	Rockingham County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33015	222.375	3055.75	76479.875
+58623	33015	33	15	Rockingham County, New Hampshire	72	Accommodation and food services	72	0500000US33015	908.625	14890.875	312606.875
+58624	33015	33	15	Rockingham County, New Hampshire	81	Other services (except public administration)	81	0500000US33015	876.0	5063.625	158467.25
+58625	33015	33	15	Rockingham County, New Hampshire	99	Industries not classified	99	0500000US33015	13.75	9.375	343.375
+58627	33017	33	17	Strafford County	11	Agriculture, forestry, fishing and hunting	11	0500000US33017	11.0	29.0	660.0
+58628	33017	33	17	Strafford County	21	Mining, quarrying, and oil and gas extraction	21	0500000US33017	5.0	21.0	2475.0
+58629	33017	33	17	Strafford County	22	Utilities	22	0500000US33017	2.0	0.0	0.0
+58630	33017	33	17	Strafford County	23	Construction	23	0500000US33017	265.0	1264.0	65746.0
+58631	33017	33	17	Strafford County	42	Wholesale trade	42	0500000US33017	98.0	1119.0	67101.0
+58632	33017	33	17	Strafford County	51	Information	51	0500000US33017	47.0	727.0	35201.0
+58633	33017	33	17	Strafford County	52	Finance and insurance	52	0500000US33017	132.0	0.0	0.0
+58634	33017	33	17	Strafford County	53	Real estate and rental and leasing	53	0500000US33017	93.0	544.0	17241.0
+58635	33017	33	17	Strafford County	54	Professional, scientific, and technical services	54	0500000US33017	236.0	1649.0	99411.0
+58636	33017	33	17	Strafford County	55	Management of companies and enterprises	55	0500000US33017	17.0	0.0	30891.0
+58637	33017	33	17	Strafford County	56	Administrative and support and waste management and remediation services	56	0500000US33017	152.0	1625.0	54516.0
+58638	33017	33	17	Strafford County	61	Educational services	61	0500000US33017	32.0	1018.0	46056.0
+58639	33017	33	17	Strafford County	62	Health care and social assistance	62	0500000US33017	304.0	6557.0	331529.0
+58640	33017	33	17	Strafford County	71	Arts, entertainment, and recreation	71	0500000US33017	36.0	485.0	9261.0
+58641	33017	33	17	Strafford County	72	Accommodation and food services	72	0500000US33017	274.0	3638.0	54258.0
+58642	33017	33	17	Strafford County	81	Other services (except public administration)	81	0500000US33017	262.0	1530.0	40262.0
+58643	33017	33	17	Strafford County	99	Industries not classified	99	0500000US33017	1.0	0.0	0.0
+58645	33017	33	17	Strafford County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33017	9.125	28.625	816.125
+58646	33017	33	17	Strafford County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33017	4.375	21.125	2356.0
+58647	33017	33	17	Strafford County, New Hampshire	22	Utilities	22	0500000US33017	1.25	0.0	0.0
+58648	33017	33	17	Strafford County, New Hampshire	23	Construction	23	0500000US33017	284.375	1405.5	78182.625
+58649	33017	33	17	Strafford County, New Hampshire	42	Wholesale trade	42	0500000US33017	93.125	1214.0	73889.375
+58650	33017	33	17	Strafford County, New Hampshire	51	Information	51	0500000US33017	46.625	567.0	30890.0
+58651	33017	33	17	Strafford County, New Hampshire	52	Finance and insurance	52	0500000US33017	130.625	2734.5	256422.625
+58652	33017	33	17	Strafford County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33017	103.75	385.5	16488.25
+58653	33017	33	17	Strafford County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33017	228.125	1355.625	83194.125
+58654	33017	33	17	Strafford County, New Hampshire	55	Management of companies and enterprises	55	0500000US33017	16.625	483.25	32697.375
+58655	33017	33	17	Strafford County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33017	165.625	2024.0	70400.5
+58656	33017	33	17	Strafford County, New Hampshire	61	Educational services	61	0500000US33017	35.75	985.125	43128.125
+58657	33017	33	17	Strafford County, New Hampshire	62	Health care and social assistance	62	0500000US33017	313.875	7242.25	379480.125
+58658	33017	33	17	Strafford County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33017	41.25	620.0	12114.25
+58659	33017	33	17	Strafford County, New Hampshire	72	Accommodation and food services	72	0500000US33017	291.75	4177.625	70522.625
+58660	33017	33	17	Strafford County, New Hampshire	81	Other services (except public administration)	81	0500000US33017	276.375	1712.125	49339.75
+58661	33017	33	17	Strafford County, New Hampshire	99	Industries not classified	99	0500000US33017	4.125	3.25	146.25
+58663	33019	33	19	Sullivan County	11	Agriculture, forestry, fishing and hunting	11	0500000US33019	7.0	65.0	1958.0
+58664	33019	33	19	Sullivan County	22	Utilities	22	0500000US33019	7.0	41.0	3109.0
+58665	33019	33	19	Sullivan County	23	Construction	23	0500000US33019	111.0	416.0	17868.0
+58666	33019	33	19	Sullivan County	42	Wholesale trade	42	0500000US33019	44.0	469.0	30007.0
+58667	33019	33	19	Sullivan County	51	Information	51	0500000US33019	17.0	90.0	3121.0
+58668	33019	33	19	Sullivan County	52	Finance and insurance	52	0500000US33019	36.0	442.0	20556.0
+58669	33019	33	19	Sullivan County	53	Real estate and rental and leasing	53	0500000US33019	35.0	241.0	17731.0
+58670	33019	33	19	Sullivan County	54	Professional, scientific, and technical services	54	0500000US33019	57.0	187.0	9748.0
+58671	33019	33	19	Sullivan County	55	Management of companies and enterprises	55	0500000US33019	2.0	0.0	0.0
+58672	33019	33	19	Sullivan County	56	Administrative and support and waste management and remediation services	56	0500000US33019	40.0	646.0	21458.0
+58673	33019	33	19	Sullivan County	61	Educational services	61	0500000US33019	13.0	250.0	7656.0
+58674	33019	33	19	Sullivan County	62	Health care and social assistance	62	0500000US33019	95.0	1245.0	43928.0
+58675	33019	33	19	Sullivan County	71	Arts, entertainment, and recreation	71	0500000US33019	13.0	43.0	1306.0
+58676	33019	33	19	Sullivan County	72	Accommodation and food services	72	0500000US33019	71.0	761.0	12511.0
+58677	33019	33	19	Sullivan County	81	Other services (except public administration)	81	0500000US33019	108.0	0.0	0.0
+58679	33019	33	19	Sullivan County, New Hampshire	11	Agriculture, forestry, fishing and hunting	11	0500000US33019	7.125	75.625	2878.875
+58680	33019	33	19	Sullivan County, New Hampshire	21	Mining, quarrying, and oil and gas extraction	21	0500000US33019	1.0	0.0	0.0
+58681	33019	33	19	Sullivan County, New Hampshire	22	Utilities	22	0500000US33019	6.375	45.125	4540.375
+58682	33019	33	19	Sullivan County, New Hampshire	23	Construction	23	0500000US33019	107.75	453.25	21511.5
+58683	33019	33	19	Sullivan County, New Hampshire	42	Wholesale trade	42	0500000US33019	40.125	556.75	56612.75
+58684	33019	33	19	Sullivan County, New Hampshire	51	Information	51	0500000US33019	14.875	94.625	3847.875
+58685	33019	33	19	Sullivan County, New Hampshire	52	Finance and insurance	52	0500000US33019	33.625	409.25	20923.0
+58686	33019	33	19	Sullivan County, New Hampshire	53	Real estate and rental and leasing	53	0500000US33019	35.75	294.0	14722.625
+58687	33019	33	19	Sullivan County, New Hampshire	54	Professional, scientific, and technical services	54	0500000US33019	53.125	225.125	13080.5
+58688	33019	33	19	Sullivan County, New Hampshire	55	Management of companies and enterprises	55	0500000US33019	3.125	111.75	4718.75
+58689	33019	33	19	Sullivan County, New Hampshire	56	Administrative and support and waste management and remediation services	56	0500000US33019	49.75	529.5	14984.625
+58690	33019	33	19	Sullivan County, New Hampshire	61	Educational services	61	0500000US33019	14.625	266.125	9658.625
+58691	33019	33	19	Sullivan County, New Hampshire	62	Health care and social assistance	62	0500000US33019	90.5	1252.125	47982.375
+58692	33019	33	19	Sullivan County, New Hampshire	71	Arts, entertainment, and recreation	71	0500000US33019	16.75	34.875	1444.875
+58693	33019	33	19	Sullivan County, New Hampshire	72	Accommodation and food services	72	0500000US33019	68.625	762.625	14376.625
+58694	33019	33	19	Sullivan County, New Hampshire	81	Other services (except public administration)	81	0500000US33019	99.25	500.5	14884.75
+58695	33019	33	19	Sullivan County, New Hampshire	99	Industries not classified	99	0500000US33019	2.75	0.0	21.5

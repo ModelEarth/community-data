@@ -1,0 +1,1492 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+66165	38001	38	1	Adams County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38001	2.0	0.0	0.0
+66166	38001	38	1	Adams County	22	Utilities	22	0500000US38001	1.0	0.0	0.0
+66167	38001	38	1	Adams County	23	Construction	23	0500000US38001	13.0	0.0	596.0
+66168	38001	38	1	Adams County	42	Wholesale trade	42	0500000US38001	11.0	53.0	2139.0
+66169	38001	38	1	Adams County	51	Information	51	0500000US38001	3.0	14.0	157.0
+66170	38001	38	1	Adams County	52	Finance and insurance	52	0500000US38001	9.0	0.0	1557.0
+66171	38001	38	1	Adams County	53	Real estate and rental and leasing	53	0500000US38001	2.0	0.0	0.0
+66172	38001	38	1	Adams County	54	Professional, scientific, and technical services	54	0500000US38001	4.0	0.0	0.0
+66173	38001	38	1	Adams County	56	Administrative and support and waste management and remediation services	56	0500000US38001	3.0	0.0	96.0
+66174	38001	38	1	Adams County	62	Health care and social assistance	62	0500000US38001	13.0	0.0	0.0
+66175	38001	38	1	Adams County	72	Accommodation and food services	72	0500000US38001	11.0	62.0	542.0
+66176	38001	38	1	Adams County	81	Other services (except public administration)	81	0500000US38001	11.0	0.0	400.0
+66178	38001	38	1	Adams County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38001	1.3333333333333333	0.0	0.0
+66179	38001	38	1	Adams County, North Dakota	22	Utilities	22	0500000US38001	1.0	0.0	0.0
+66180	38001	38	1	Adams County, North Dakota	23	Construction	23	0500000US38001	11.25	23.5	610.75
+66181	38001	38	1	Adams County, North Dakota	42	Wholesale trade	42	0500000US38001	8.875	69.5	3164.25
+66182	38001	38	1	Adams County, North Dakota	51	Information	51	0500000US38001	3.2857142857142856	15.285714285714286	176.85714285714286
+66183	38001	38	1	Adams County, North Dakota	52	Finance and insurance	52	0500000US38001	8.125	27.25	1704.25
+66184	38001	38	1	Adams County, North Dakota	53	Real estate and rental and leasing	53	0500000US38001	2.6	1.0	27.4
+66185	38001	38	1	Adams County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38001	3.75	11.625	612.5
+66186	38001	38	1	Adams County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38001	3.0	3.8	91.8
+66187	38001	38	1	Adams County, North Dakota	62	Health care and social assistance	62	0500000US38001	14.875	244.5	10559.375
+66188	38001	38	1	Adams County, North Dakota	72	Accommodation and food services	72	0500000US38001	7.875	55.125	595.0
+66189	38001	38	1	Adams County, North Dakota	81	Other services (except public administration)	81	0500000US38001	11.5	14.25	481.625
+66190	38001	38	1	Adams County, North Dakota	99	Industries not classified	99	0500000US38001	1.0	0.0	0.0
+66192	38003	38	3	Barnes County	11	Agriculture, forestry, fishing and hunting	11	0500000US38003	1.0	0.0	0.0
+66193	38003	38	3	Barnes County	22	Utilities	22	0500000US38003	2.0	0.0	0.0
+66194	38003	38	3	Barnes County	23	Construction	23	0500000US38003	50.0	286.0	13319.0
+66195	38003	38	3	Barnes County	42	Wholesale trade	42	0500000US38003	25.0	195.0	9670.0
+66196	38003	38	3	Barnes County	51	Information	51	0500000US38003	7.0	0.0	0.0
+66197	38003	38	3	Barnes County	52	Finance and insurance	52	0500000US38003	26.0	142.0	7853.0
+66198	38003	38	3	Barnes County	53	Real estate and rental and leasing	53	0500000US38003	11.0	81.0	1787.0
+66199	38003	38	3	Barnes County	54	Professional, scientific, and technical services	54	0500000US38003	15.0	0.0	0.0
+66200	38003	38	3	Barnes County	55	Management of companies and enterprises	55	0500000US38003	2.0	0.0	0.0
+66201	38003	38	3	Barnes County	56	Administrative and support and waste management and remediation services	56	0500000US38003	12.0	52.0	892.0
+66202	38003	38	3	Barnes County	61	Educational services	61	0500000US38003	3.0	27.0	325.0
+66203	38003	38	3	Barnes County	62	Health care and social assistance	62	0500000US38003	36.0	1171.0	27102.0
+66204	38003	38	3	Barnes County	71	Arts, entertainment, and recreation	71	0500000US38003	8.0	118.0	473.0
+66205	38003	38	3	Barnes County	72	Accommodation and food services	72	0500000US38003	31.0	359.0	3341.0
+66206	38003	38	3	Barnes County	81	Other services (except public administration)	81	0500000US38003	45.0	247.0	4061.0
+66207	38003	38	3	Barnes County	99	Industries not classified	99	0500000US38003	3.0	1.0	42.0
+66209	38003	38	3	Barnes County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38003	1.0	0.0	0.0
+66210	38003	38	3	Barnes County, North Dakota	22	Utilities	22	0500000US38003	2.0	0.0	0.0
+66211	38003	38	3	Barnes County, North Dakota	23	Construction	23	0500000US38003	49.75	260.75	13303.5
+66212	38003	38	3	Barnes County, North Dakota	42	Wholesale trade	42	0500000US38003	24.875	209.875	10834.125
+66213	38003	38	3	Barnes County, North Dakota	51	Information	51	0500000US38003	5.75	39.625	2757.375
+66214	38003	38	3	Barnes County, North Dakota	52	Finance and insurance	52	0500000US38003	27.25	140.75	8628.125
+66215	38003	38	3	Barnes County, North Dakota	53	Real estate and rental and leasing	53	0500000US38003	9.25	60.5	2425.5
+66216	38003	38	3	Barnes County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38003	14.75	73.125	3483.25
+66217	38003	38	3	Barnes County, North Dakota	55	Management of companies and enterprises	55	0500000US38003	2.75	9.0	471.75
+66218	38003	38	3	Barnes County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38003	10.25	52.75	1340.5
+66219	38003	38	3	Barnes County, North Dakota	61	Educational services	61	0500000US38003	3.625	27.375	444.375
+66220	38003	38	3	Barnes County, North Dakota	62	Health care and social assistance	62	0500000US38003	39.125	1069.0	30955.5
+66221	38003	38	3	Barnes County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38003	6.75	73.625	529.0
+66222	38003	38	3	Barnes County, North Dakota	72	Accommodation and food services	72	0500000US38003	32.875	344.5	4081.375
+66223	38003	38	3	Barnes County, North Dakota	81	Other services (except public administration)	81	0500000US38003	46.0	237.0	4633.125
+66224	38003	38	3	Barnes County, North Dakota	99	Industries not classified	99	0500000US38003	1.0	0.0	0.0
+66226	38005	38	5	Benson County	11	Agriculture, forestry, fishing and hunting	11	0500000US38005	1.0	0.0	0.0
+66227	38005	38	5	Benson County	23	Construction	23	0500000US38005	10.0	28.0	941.0
+66228	38005	38	5	Benson County	42	Wholesale trade	42	0500000US38005	14.0	73.0	4286.0
+66229	38005	38	5	Benson County	51	Information	51	0500000US38005	4.0	0.0	288.0
+66230	38005	38	5	Benson County	52	Finance and insurance	52	0500000US38005	13.0	0.0	0.0
+66231	38005	38	5	Benson County	53	Real estate and rental and leasing	53	0500000US38005	2.0	0.0	0.0
+66232	38005	38	5	Benson County	54	Professional, scientific, and technical services	54	0500000US38005	6.0	0.0	928.0
+66233	38005	38	5	Benson County	56	Administrative and support and waste management and remediation services	56	0500000US38005	3.0	0.0	0.0
+66234	38005	38	5	Benson County	61	Educational services	61	0500000US38005	1.0	0.0	0.0
+66235	38005	38	5	Benson County	62	Health care and social assistance	62	0500000US38005	4.0	0.0	0.0
+66236	38005	38	5	Benson County	71	Arts, entertainment, and recreation	71	0500000US38005	2.0	0.0	0.0
+66237	38005	38	5	Benson County	72	Accommodation and food services	72	0500000US38005	15.0	49.0	514.0
+66238	38005	38	5	Benson County	81	Other services (except public administration)	81	0500000US38005	9.0	0.0	340.0
+66239	38005	38	5	Benson County	99	Industries not classified	99	0500000US38005	2.0	0.0	0.0
+66241	38005	38	5	Benson County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38005	1.0	0.0	0.0
+66242	38005	38	5	Benson County, North Dakota	23	Construction	23	0500000US38005	8.125	15.5	1079.125
+66243	38005	38	5	Benson County, North Dakota	42	Wholesale trade	42	0500000US38005	12.5	79.125	5261.125
+66244	38005	38	5	Benson County, North Dakota	51	Information	51	0500000US38005	3.5	5.75	300.25
+66245	38005	38	5	Benson County, North Dakota	52	Finance and insurance	52	0500000US38005	9.75	45.375	2435.25
+66246	38005	38	5	Benson County, North Dakota	53	Real estate and rental and leasing	53	0500000US38005	1.4	0.8	5.0
+66247	38005	38	5	Benson County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38005	3.6666666666666665	1.3333333333333333	227.83333333333334
+66248	38005	38	5	Benson County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38005	1.0	0.0	0.0
+66249	38005	38	5	Benson County, North Dakota	61	Educational services	61	0500000US38005	1.0	0.0	0.0
+66250	38005	38	5	Benson County, North Dakota	62	Health care and social assistance	62	0500000US38005	4.125	21.75	348.875
+66251	38005	38	5	Benson County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38005	1.5	0.0	0.0
+66252	38005	38	5	Benson County, North Dakota	72	Accommodation and food services	72	0500000US38005	11.0	189.375	4383.125
+66253	38005	38	5	Benson County, North Dakota	81	Other services (except public administration)	81	0500000US38005	6.0	8.125	189.875
+66254	38005	38	5	Benson County, North Dakota	99	Industries not classified	99	0500000US38005	1.3333333333333333	0.0	0.0
+66256	38007	38	7	Billings County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38007	6.0	52.0	4555.0
+66257	38007	38	7	Billings County	23	Construction	23	0500000US38007	6.0	0.0	1259.0
+66258	38007	38	7	Billings County	42	Wholesale trade	42	0500000US38007	2.0	0.0	0.0
+66259	38007	38	7	Billings County	52	Finance and insurance	52	0500000US38007	2.0	0.0	0.0
+66260	38007	38	7	Billings County	54	Professional, scientific, and technical services	54	0500000US38007	3.0	0.0	284.0
+66261	38007	38	7	Billings County	56	Administrative and support and waste management and remediation services	56	0500000US38007	3.0	0.0	0.0
+66262	38007	38	7	Billings County	72	Accommodation and food services	72	0500000US38007	14.0	0.0	0.0
+66263	38007	38	7	Billings County	81	Other services (except public administration)	81	0500000US38007	6.0	0.0	992.0
+66265	38007	38	7	Billings County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38007	5.5	56.875	5134.625
+66266	38007	38	7	Billings County, North Dakota	23	Construction	23	0500000US38007	5.125	16.5	913.25
+66267	38007	38	7	Billings County, North Dakota	42	Wholesale trade	42	0500000US38007	2.6666666666666665	2.3333333333333335	48.5
+66268	38007	38	7	Billings County, North Dakota	52	Finance and insurance	52	0500000US38007	2.0	0.0	0.0
+66269	38007	38	7	Billings County, North Dakota	53	Real estate and rental and leasing	53	0500000US38007	1.0	0.0	0.0
+66270	38007	38	7	Billings County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38007	2.75	2.0	177.75
+66271	38007	38	7	Billings County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38007	4.125	10.5	590.25
+66272	38007	38	7	Billings County, North Dakota	72	Accommodation and food services	72	0500000US38007	11.875	74.25	5224.5
+66273	38007	38	7	Billings County, North Dakota	81	Other services (except public administration)	81	0500000US38007	4.75	17.875	1227.0
+66274	38007	38	7	Billings County, North Dakota	99	Industries not classified	99	0500000US38007	1.0	0.0	0.0
+66276	38009	38	9	Bottineau County	11	Agriculture, forestry, fishing and hunting	11	0500000US38009	4.0	4.0	396.0
+66277	38009	38	9	Bottineau County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38009	15.0	353.0	28181.0
+66278	38009	38	9	Bottineau County	22	Utilities	22	0500000US38009	1.0	0.0	0.0
+66279	38009	38	9	Bottineau County	23	Construction	23	0500000US38009	33.0	98.0	4304.0
+66280	38009	38	9	Bottineau County	42	Wholesale trade	42	0500000US38009	16.0	126.0	5692.0
+66281	38009	38	9	Bottineau County	51	Information	51	0500000US38009	2.0	0.0	0.0
+66282	38009	38	9	Bottineau County	52	Finance and insurance	52	0500000US38009	30.0	133.0	5351.0
+66283	38009	38	9	Bottineau County	53	Real estate and rental and leasing	53	0500000US38009	9.0	0.0	125.0
+66284	38009	38	9	Bottineau County	54	Professional, scientific, and technical services	54	0500000US38009	20.0	58.0	2958.0
+66285	38009	38	9	Bottineau County	56	Administrative and support and waste management and remediation services	56	0500000US38009	5.0	0.0	647.0
+66286	38009	38	9	Bottineau County	61	Educational services	61	0500000US38009	1.0	0.0	0.0
+66287	38009	38	9	Bottineau County	62	Health care and social assistance	62	0500000US38009	6.0	256.0	6962.0
+66288	38009	38	9	Bottineau County	71	Arts, entertainment, and recreation	71	0500000US38009	7.0	0.0	330.0
+66289	38009	38	9	Bottineau County	72	Accommodation and food services	72	0500000US38009	28.0	209.0	2775.0
+66290	38009	38	9	Bottineau County	81	Other services (except public administration)	81	0500000US38009	25.0	0.0	1543.0
+66292	38009	38	9	Bottineau County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38009	4.875	6.0	338.375
+66293	38009	38	9	Bottineau County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38009	14.625	260.25	20825.0
+66294	38009	38	9	Bottineau County, North Dakota	22	Utilities	22	0500000US38009	1.0	0.0	0.0
+66295	38009	38	9	Bottineau County, North Dakota	23	Construction	23	0500000US38009	33.5	78.0	4137.875
+66296	38009	38	9	Bottineau County, North Dakota	42	Wholesale trade	42	0500000US38009	17.875	105.625	6704.375
+66297	38009	38	9	Bottineau County, North Dakota	51	Information	51	0500000US38009	3.0	2.5	68.16666666666667
+66298	38009	38	9	Bottineau County, North Dakota	52	Finance and insurance	52	0500000US38009	24.625	119.75	5749.5
+66299	38009	38	9	Bottineau County, North Dakota	53	Real estate and rental and leasing	53	0500000US38009	5.625	6.375	46.125
+66300	38009	38	9	Bottineau County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38009	19.625	57.875	3843.5
+66301	38009	38	9	Bottineau County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38009	7.5	17.0	1173.625
+66302	38009	38	9	Bottineau County, North Dakota	61	Educational services	61	0500000US38009	1.0	0.0	0.0
+66303	38009	38	9	Bottineau County, North Dakota	62	Health care and social assistance	62	0500000US38009	12.125	268.625	8548.0
+66304	38009	38	9	Bottineau County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38009	7.5	20.5	406.125
+66305	38009	38	9	Bottineau County, North Dakota	72	Accommodation and food services	72	0500000US38009	27.125	194.875	2816.125
+66306	38009	38	9	Bottineau County, North Dakota	81	Other services (except public administration)	81	0500000US38009	26.375	80.375	1864.25
+66307	38009	38	9	Bottineau County, North Dakota	99	Industries not classified	99	0500000US38009	1.5	0.0	0.0
+66309	38011	38	11	Bowman County	11	Agriculture, forestry, fishing and hunting	11	0500000US38011	1.0	0.0	0.0
+66310	38011	38	11	Bowman County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38011	5.0	80.0	6093.0
+66311	38011	38	11	Bowman County	22	Utilities	22	0500000US38011	3.0	0.0	0.0
+66312	38011	38	11	Bowman County	23	Construction	23	0500000US38011	24.0	0.0	0.0
+66313	38011	38	11	Bowman County	42	Wholesale trade	42	0500000US38011	14.0	0.0	8615.0
+66314	38011	38	11	Bowman County	51	Information	51	0500000US38011	4.0	9.0	224.0
+66315	38011	38	11	Bowman County	52	Finance and insurance	52	0500000US38011	15.0	0.0	3522.0
+66316	38011	38	11	Bowman County	53	Real estate and rental and leasing	53	0500000US38011	3.0	0.0	0.0
+66317	38011	38	11	Bowman County	54	Professional, scientific, and technical services	54	0500000US38011	4.0	0.0	0.0
+66318	38011	38	11	Bowman County	55	Management of companies and enterprises	55	0500000US38011	2.0	0.0	0.0
+66319	38011	38	11	Bowman County	61	Educational services	61	0500000US38011	1.0	0.0	0.0
+66320	38011	38	11	Bowman County	62	Health care and social assistance	62	0500000US38011	11.0	0.0	0.0
+66321	38011	38	11	Bowman County	71	Arts, entertainment, and recreation	71	0500000US38011	2.0	0.0	0.0
+66322	38011	38	11	Bowman County	72	Accommodation and food services	72	0500000US38011	17.0	114.0	1240.0
+66323	38011	38	11	Bowman County	81	Other services (except public administration)	81	0500000US38011	18.0	53.0	1172.0
+66325	38011	38	11	Bowman County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38011	2.0	0.0	0.0
+66326	38011	38	11	Bowman County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38011	4.375	78.625	6071.25
+66327	38011	38	11	Bowman County, North Dakota	22	Utilities	22	0500000US38011	3.0	6.0	462.125
+66328	38011	38	11	Bowman County, North Dakota	23	Construction	23	0500000US38011	19.875	61.125	4266.25
+66329	38011	38	11	Bowman County, North Dakota	42	Wholesale trade	42	0500000US38011	13.125	127.25	6768.625
+66330	38011	38	11	Bowman County, North Dakota	51	Information	51	0500000US38011	3.875	7.75	107.375
+66331	38011	38	11	Bowman County, North Dakota	52	Finance and insurance	52	0500000US38011	14.0	74.375	4828.75
+66332	38011	38	11	Bowman County, North Dakota	53	Real estate and rental and leasing	53	0500000US38011	2.5	1.3333333333333333	140.5
+66333	38011	38	11	Bowman County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38011	7.625	42.5	3634.0
+66334	38011	38	11	Bowman County, North Dakota	55	Management of companies and enterprises	55	0500000US38011	2.0	0.0	0.0
+66335	38011	38	11	Bowman County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38011	1.25	0.0	0.0
+66336	38011	38	11	Bowman County, North Dakota	61	Educational services	61	0500000US38011	1.0	0.0	0.0
+66337	38011	38	11	Bowman County, North Dakota	62	Health care and social assistance	62	0500000US38011	17.25	189.5	7209.375
+66338	38011	38	11	Bowman County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38011	2.75	3.875	63.25
+66339	38011	38	11	Bowman County, North Dakota	72	Accommodation and food services	72	0500000US38011	17.75	133.5	1579.75
+66340	38011	38	11	Bowman County, North Dakota	81	Other services (except public administration)	81	0500000US38011	17.25	58.0	1366.125
+66342	38013	38	13	Burke County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38013	8.0	0.0	8066.0
+66343	38013	38	13	Burke County	22	Utilities	22	0500000US38013	1.0	0.0	0.0
+66344	38013	38	13	Burke County	23	Construction	23	0500000US38013	6.0	0.0	0.0
+66345	38013	38	13	Burke County	42	Wholesale trade	42	0500000US38013	7.0	0.0	0.0
+66346	38013	38	13	Burke County	51	Information	51	0500000US38013	1.0	0.0	0.0
+66347	38013	38	13	Burke County	52	Finance and insurance	52	0500000US38013	9.0	0.0	1214.0
+66348	38013	38	13	Burke County	53	Real estate and rental and leasing	53	0500000US38013	3.0	3.0	132.0
+66349	38013	38	13	Burke County	54	Professional, scientific, and technical services	54	0500000US38013	4.0	0.0	0.0
+66350	38013	38	13	Burke County	62	Health care and social assistance	62	0500000US38013	5.0	0.0	164.0
+66351	38013	38	13	Burke County	72	Accommodation and food services	72	0500000US38013	12.0	46.0	521.0
+66352	38013	38	13	Burke County	81	Other services (except public administration)	81	0500000US38013	8.0	7.0	139.0
+66354	38013	38	13	Burke County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38013	1.0	0.0	0.0
+66355	38013	38	13	Burke County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38013	7.625	22.625	2383.5
+66356	38013	38	13	Burke County, North Dakota	22	Utilities	22	0500000US38013	1.0	0.0	0.0
+66357	38013	38	13	Burke County, North Dakota	23	Construction	23	0500000US38013	4.0	5.0	181.25
+66358	38013	38	13	Burke County, North Dakota	42	Wholesale trade	42	0500000US38013	6.5	37.125	2332.0
+66359	38013	38	13	Burke County, North Dakota	51	Information	51	0500000US38013	1.0	0.0	0.0
+66360	38013	38	13	Burke County, North Dakota	52	Finance and insurance	52	0500000US38013	8.25	32.75	1544.375
+66361	38013	38	13	Burke County, North Dakota	53	Real estate and rental and leasing	53	0500000US38013	3.0	1.25	78.75
+66362	38013	38	13	Burke County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38013	5.0	20.625	871.75
+66363	38013	38	13	Burke County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38013	1.0	0.0	0.0
+66364	38013	38	13	Burke County, North Dakota	62	Health care and social assistance	62	0500000US38013	4.875	15.125	220.125
+66365	38013	38	13	Burke County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38013	2.0	0.0	0.0
+66366	38013	38	13	Burke County, North Dakota	72	Accommodation and food services	72	0500000US38013	9.375	32.5	480.375
+66367	38013	38	13	Burke County, North Dakota	81	Other services (except public administration)	81	0500000US38013	7.875	15.625	590.75
+66369	38015	38	15	Burleigh County	11	Agriculture, forestry, fishing and hunting	11	0500000US38015	1.0	0.0	0.0
+66370	38015	38	15	Burleigh County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38015	16.0	31.0	3134.0
+66371	38015	38	15	Burleigh County	22	Utilities	22	0500000US38015	15.0	606.0	55918.0
+66372	38015	38	15	Burleigh County	23	Construction	23	0500000US38015	389.0	2822.0	164063.0
+66373	38015	38	15	Burleigh County	42	Wholesale trade	42	0500000US38015	158.0	2215.0	123070.0
+66374	38015	38	15	Burleigh County	51	Information	51	0500000US38015	55.0	835.0	33820.0
+66375	38015	38	15	Burleigh County	52	Finance and insurance	52	0500000US38015	227.0	2207.0	148748.0
+66376	38015	38	15	Burleigh County	53	Real estate and rental and leasing	53	0500000US38015	133.0	396.0	13766.0
+66377	38015	38	15	Burleigh County	54	Professional, scientific, and technical services	54	0500000US38015	302.0	1875.0	117980.0
+66378	38015	38	15	Burleigh County	55	Management of companies and enterprises	55	0500000US38015	22.0	997.0	83867.0
+66379	38015	38	15	Burleigh County	56	Administrative and support and waste management and remediation services	56	0500000US38015	147.0	1779.0	57055.0
+66380	38015	38	15	Burleigh County	61	Educational services	61	0500000US38015	26.0	0.0	0.0
+66381	38015	38	15	Burleigh County	62	Health care and social assistance	62	0500000US38015	273.0	10849.0	505461.0
+66382	38015	38	15	Burleigh County	71	Arts, entertainment, and recreation	71	0500000US38015	43.0	700.0	10829.0
+66383	38015	38	15	Burleigh County	72	Accommodation and food services	72	0500000US38015	173.0	4943.0	73362.0
+66384	38015	38	15	Burleigh County	81	Other services (except public administration)	81	0500000US38015	330.0	2298.0	69672.0
+66385	38015	38	15	Burleigh County	99	Industries not classified	99	0500000US38015	2.0	0.0	0.0
+66387	38015	38	15	Burleigh County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38015	1.8333333333333333	1.3333333333333333	609.0
+66388	38015	38	15	Burleigh County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38015	17.5	43.625	4554.25
+66389	38015	38	15	Burleigh County, North Dakota	22	Utilities	22	0500000US38015	14.5	823.625	85718.875
+66390	38015	38	15	Burleigh County, North Dakota	23	Construction	23	0500000US38015	420.5	3382.75	227670.875
+66391	38015	38	15	Burleigh County, North Dakota	42	Wholesale trade	42	0500000US38015	156.125	2248.625	133124.0
+66392	38015	38	15	Burleigh County, North Dakota	51	Information	51	0500000US38015	48.625	872.625	43272.375
+66393	38015	38	15	Burleigh County, North Dakota	52	Finance and insurance	52	0500000US38015	217.0	1933.0	125452.25
+66394	38015	38	15	Burleigh County, North Dakota	53	Real estate and rental and leasing	53	0500000US38015	161.125	488.375	20014.625
+66395	38015	38	15	Burleigh County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38015	297.125	2688.875	179978.25
+66396	38015	38	15	Burleigh County, North Dakota	55	Management of companies and enterprises	55	0500000US38015	22.625	786.625	70856.75
+66397	38015	38	15	Burleigh County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38015	168.5	1697.625	63689.25
+66398	38015	38	15	Burleigh County, North Dakota	61	Educational services	61	0500000US38015	28.25	1101.5	32524.375
+66399	38015	38	15	Burleigh County, North Dakota	62	Health care and social assistance	62	0500000US38015	297.875	10898.25	543624.25
+66400	38015	38	15	Burleigh County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38015	45.625	906.0	13758.125
+66401	38015	38	15	Burleigh County, North Dakota	72	Accommodation and food services	72	0500000US38015	203.0	5469.75	95483.875
+66402	38015	38	15	Burleigh County, North Dakota	81	Other services (except public administration)	81	0500000US38015	335.75	2618.0	94288.5
+66403	38015	38	15	Burleigh County, North Dakota	99	Industries not classified	99	0500000US38015	5.5	7.75	97.125
+66405	38017	38	17	Cass County	11	Agriculture, forestry, fishing and hunting	11	0500000US38017	11.0	0.0	749.0
+66406	38017	38	17	Cass County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38017	1.0	0.0	0.0
+66407	38017	38	17	Cass County	22	Utilities	22	0500000US38017	7.0	0.0	0.0
+66408	38017	38	17	Cass County	23	Construction	23	0500000US38017	662.0	6328.0	352000.0
+66409	38017	38	17	Cass County	42	Wholesale trade	42	0500000US38017	376.0	6768.0	374755.0
+66410	38017	38	17	Cass County	51	Information	51	0500000US38017	82.0	3110.0	224782.0
+66411	38017	38	17	Cass County	52	Finance and insurance	52	0500000US38017	396.0	7074.0	399466.0
+66412	38017	38	17	Cass County	53	Real estate and rental and leasing	53	0500000US38017	276.0	1729.0	63073.0
+66413	38017	38	17	Cass County	54	Professional, scientific, and technical services	54	0500000US38017	466.0	4822.0	267966.0
+66414	38017	38	17	Cass County	55	Management of companies and enterprises	55	0500000US38017	49.0	3242.0	207013.0
+66415	38017	38	17	Cass County	56	Administrative and support and waste management and remediation services	56	0500000US38017	258.0	5012.0	133849.0
+66416	38017	38	17	Cass County	61	Educational services	61	0500000US38017	35.0	595.0	12861.0
+66417	38017	38	17	Cass County	62	Health care and social assistance	62	0500000US38017	437.0	16232.0	891329.0
+66418	38017	38	17	Cass County	71	Arts, entertainment, and recreation	71	0500000US38017	95.0	1604.0	25168.0
+66419	38017	38	17	Cass County	72	Accommodation and food services	72	0500000US38017	390.0	9828.0	139719.0
+66420	38017	38	17	Cass County	81	Other services (except public administration)	81	0500000US38017	485.0	3492.0	88348.0
+66421	38017	38	17	Cass County	99	Industries not classified	99	0500000US38017	1.0	0.0	0.0
+66423	38017	38	17	Cass County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38017	9.5	25.75	879.75
+66424	38017	38	17	Cass County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38017	2.4	1.2	125.8
+66425	38017	38	17	Cass County, North Dakota	22	Utilities	22	0500000US38017	8.0	135.25	12248.125
+66426	38017	38	17	Cass County, North Dakota	23	Construction	23	0500000US38017	710.75	7007.25	470562.625
+66427	38017	38	17	Cass County, North Dakota	42	Wholesale trade	42	0500000US38017	386.875	7158.75	431582.25
+66428	38017	38	17	Cass County, North Dakota	51	Information	51	0500000US38017	86.625	3007.625	261791.25
+66429	38017	38	17	Cass County, North Dakota	52	Finance and insurance	52	0500000US38017	411.75	8535.125	525583.75
+66430	38017	38	17	Cass County, North Dakota	53	Real estate and rental and leasing	53	0500000US38017	324.75	1767.25	71740.625
+66431	38017	38	17	Cass County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38017	496.375	5801.125	369488.875
+66432	38017	38	17	Cass County, North Dakota	55	Management of companies and enterprises	55	0500000US38017	51.875	2904.0	224384.375
+66433	38017	38	17	Cass County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38017	298.125	5402.75	174329.25
+66434	38017	38	17	Cass County, North Dakota	61	Educational services	61	0500000US38017	38.25	770.5	18170.875
+66435	38017	38	17	Cass County, North Dakota	62	Health care and social assistance	62	0500000US38017	499.125	18870.125	1073452.125
+66436	38017	38	17	Cass County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38017	108.125	2017.25	32703.75
+66437	38017	38	17	Cass County, North Dakota	72	Accommodation and food services	72	0500000US38017	438.625	10644.375	167872.25
+66438	38017	38	17	Cass County, North Dakota	81	Other services (except public administration)	81	0500000US38017	502.75	3701.375	107083.25
+66439	38017	38	17	Cass County, North Dakota	99	Industries not classified	99	0500000US38017	4.875	5.0	84.625
+66441	38019	38	19	Cavalier County	11	Agriculture, forestry, fishing and hunting	11	0500000US38019	3.0	8.0	219.0
+66442	38019	38	19	Cavalier County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38019	1.0	0.0	0.0
+66443	38019	38	19	Cavalier County	22	Utilities	22	0500000US38019	4.0	0.0	0.0
+66444	38019	38	19	Cavalier County	23	Construction	23	0500000US38019	22.0	80.0	8479.0
+66445	38019	38	19	Cavalier County	42	Wholesale trade	42	0500000US38019	15.0	136.0	9591.0
+66446	38019	38	19	Cavalier County	51	Information	51	0500000US38019	4.0	0.0	0.0
+66447	38019	38	19	Cavalier County	52	Finance and insurance	52	0500000US38019	17.0	99.0	5364.0
+66448	38019	38	19	Cavalier County	53	Real estate and rental and leasing	53	0500000US38019	1.0	0.0	0.0
+66449	38019	38	19	Cavalier County	54	Professional, scientific, and technical services	54	0500000US38019	6.0	0.0	561.0
+66450	38019	38	19	Cavalier County	56	Administrative and support and waste management and remediation services	56	0500000US38019	3.0	0.0	0.0
+66451	38019	38	19	Cavalier County	62	Health care and social assistance	62	0500000US38019	10.0	241.0	5657.0
+66452	38019	38	19	Cavalier County	71	Arts, entertainment, and recreation	71	0500000US38019	4.0	0.0	95.0
+66453	38019	38	19	Cavalier County	72	Accommodation and food services	72	0500000US38019	18.0	108.0	964.0
+66454	38019	38	19	Cavalier County	81	Other services (except public administration)	81	0500000US38019	17.0	94.0	1132.0
+66455	38019	38	19	Cavalier County	99	Industries not classified	99	0500000US38019	1.0	0.0	0.0
+66457	38019	38	19	Cavalier County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38019	3.0	7.25	290.75
+66458	38019	38	19	Cavalier County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38019	1.0	0.0	0.0
+66459	38019	38	19	Cavalier County, North Dakota	22	Utilities	22	0500000US38019	3.125	24.625	1613.125
+66460	38019	38	19	Cavalier County, North Dakota	23	Construction	23	0500000US38019	18.25	57.125	5399.25
+66461	38019	38	19	Cavalier County, North Dakota	42	Wholesale trade	42	0500000US38019	15.0	118.875	10348.25
+66462	38019	38	19	Cavalier County, North Dakota	51	Information	51	0500000US38019	4.75	72.375	4441.75
+66463	38019	38	19	Cavalier County, North Dakota	52	Finance and insurance	52	0500000US38019	14.125	85.5	5629.625
+66464	38019	38	19	Cavalier County, North Dakota	53	Real estate and rental and leasing	53	0500000US38019	1.25	0.0	0.0
+66465	38019	38	19	Cavalier County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38019	6.75	11.75	715.75
+66466	38019	38	19	Cavalier County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38019	1.5	0.25	5.5
+66467	38019	38	19	Cavalier County, North Dakota	62	Health care and social assistance	62	0500000US38019	9.125	224.125	6241.5
+66468	38019	38	19	Cavalier County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38019	3.625	10.25	114.375
+66469	38019	38	19	Cavalier County, North Dakota	72	Accommodation and food services	72	0500000US38019	13.75	88.0	1085.0
+66470	38019	38	19	Cavalier County, North Dakota	81	Other services (except public administration)	81	0500000US38019	16.0	76.25	1128.625
+66471	38019	38	19	Cavalier County, North Dakota	99	Industries not classified	99	0500000US38019	2.3333333333333335	0.6666666666666666	9.333333333333334
+66473	38021	38	21	Dickey County	11	Agriculture, forestry, fishing and hunting	11	0500000US38021	2.0	0.0	0.0
+66474	38021	38	21	Dickey County	22	Utilities	22	0500000US38021	2.0	0.0	0.0
+66475	38021	38	21	Dickey County	23	Construction	23	0500000US38021	24.0	0.0	1892.0
+66476	38021	38	21	Dickey County	42	Wholesale trade	42	0500000US38021	14.0	144.0	7256.0
+66477	38021	38	21	Dickey County	51	Information	51	0500000US38021	5.0	0.0	0.0
+66478	38021	38	21	Dickey County	52	Finance and insurance	52	0500000US38021	13.0	57.0	2222.0
+66479	38021	38	21	Dickey County	53	Real estate and rental and leasing	53	0500000US38021	1.0	0.0	0.0
+66480	38021	38	21	Dickey County	54	Professional, scientific, and technical services	54	0500000US38021	9.0	36.0	896.0
+66481	38021	38	21	Dickey County	56	Administrative and support and waste management and remediation services	56	0500000US38021	5.0	0.0	0.0
+66482	38021	38	21	Dickey County	61	Educational services	61	0500000US38021	1.0	0.0	0.0
+66483	38021	38	21	Dickey County	62	Health care and social assistance	62	0500000US38021	22.0	399.0	12882.0
+66484	38021	38	21	Dickey County	71	Arts, entertainment, and recreation	71	0500000US38021	4.0	0.0	70.0
+66485	38021	38	21	Dickey County	72	Accommodation and food services	72	0500000US38021	19.0	169.0	1271.0
+66486	38021	38	21	Dickey County	81	Other services (except public administration)	81	0500000US38021	33.0	139.0	2538.0
+66488	38021	38	21	Dickey County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38021	2.0	0.0	0.0
+66489	38021	38	21	Dickey County, North Dakota	22	Utilities	22	0500000US38021	2.0	0.0	0.0
+66490	38021	38	21	Dickey County, North Dakota	23	Construction	23	0500000US38021	21.875	47.25	1812.125
+66491	38021	38	21	Dickey County, North Dakota	42	Wholesale trade	42	0500000US38021	17.125	160.25	8926.75
+66492	38021	38	21	Dickey County, North Dakota	51	Information	51	0500000US38021	5.0	30.375	1770.5
+66493	38021	38	21	Dickey County, North Dakota	52	Finance and insurance	52	0500000US38021	11.375	47.875	2853.375
+66494	38021	38	21	Dickey County, North Dakota	53	Real estate and rental and leasing	53	0500000US38021	1.0	0.0	0.0
+66495	38021	38	21	Dickey County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38021	10.375	25.5	958.875
+66496	38021	38	21	Dickey County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38021	4.375	3.75	86.0
+66497	38021	38	21	Dickey County, North Dakota	61	Educational services	61	0500000US38021	1.0	0.0	0.0
+66498	38021	38	21	Dickey County, North Dakota	62	Health care and social assistance	62	0500000US38021	23.875	380.875	12738.125
+66499	38021	38	21	Dickey County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38021	5.125	4.5	126.625
+66500	38021	38	21	Dickey County, North Dakota	72	Accommodation and food services	72	0500000US38021	16.625	137.25	1221.0
+66501	38021	38	21	Dickey County, North Dakota	81	Other services (except public administration)	81	0500000US38021	28.375	106.25	2540.0
+66503	38023	38	23	Divide County	11	Agriculture, forestry, fishing and hunting	11	0500000US38023	1.0	0.0	0.0
+66504	38023	38	23	Divide County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38023	6.0	0.0	2776.0
+66505	38023	38	23	Divide County	22	Utilities	22	0500000US38023	1.0	0.0	0.0
+66506	38023	38	23	Divide County	23	Construction	23	0500000US38023	9.0	61.0	4102.0
+66507	38023	38	23	Divide County	42	Wholesale trade	42	0500000US38023	2.0	0.0	0.0
+66508	38023	38	23	Divide County	51	Information	51	0500000US38023	2.0	0.0	0.0
+66509	38023	38	23	Divide County	52	Finance and insurance	52	0500000US38023	10.0	33.0	1257.0
+66510	38023	38	23	Divide County	53	Real estate and rental and leasing	53	0500000US38023	1.0	0.0	0.0
+66511	38023	38	23	Divide County	54	Professional, scientific, and technical services	54	0500000US38023	6.0	15.0	407.0
+66512	38023	38	23	Divide County	56	Administrative and support and waste management and remediation services	56	0500000US38023	6.0	0.0	0.0
+66513	38023	38	23	Divide County	61	Educational services	61	0500000US38023	1.0	0.0	0.0
+66514	38023	38	23	Divide County	62	Health care and social assistance	62	0500000US38023	6.0	0.0	0.0
+66515	38023	38	23	Divide County	71	Arts, entertainment, and recreation	71	0500000US38023	3.0	0.0	0.0
+66516	38023	38	23	Divide County	72	Accommodation and food services	72	0500000US38023	9.0	97.0	1198.0
+66517	38023	38	23	Divide County	81	Other services (except public administration)	81	0500000US38023	11.0	27.0	318.0
+66519	38023	38	23	Divide County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38023	1.0	0.0	0.0
+66520	38023	38	23	Divide County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38023	5.571428571428571	20.285714285714285	1918.7142857142858
+66521	38023	38	23	Divide County, North Dakota	22	Utilities	22	0500000US38023	1.0	0.0	0.0
+66522	38023	38	23	Divide County, North Dakota	23	Construction	23	0500000US38023	11.0	34.25	3011.75
+66523	38023	38	23	Divide County, North Dakota	42	Wholesale trade	42	0500000US38023	3.875	25.0	1912.0
+66524	38023	38	23	Divide County, North Dakota	51	Information	51	0500000US38023	2.0	0.0	0.0
+66525	38023	38	23	Divide County, North Dakota	52	Finance and insurance	52	0500000US38023	8.5	28.375	1320.25
+66526	38023	38	23	Divide County, North Dakota	53	Real estate and rental and leasing	53	0500000US38023	2.5714285714285716	4.571428571428571	317.57142857142856
+66527	38023	38	23	Divide County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38023	4.5	10.0	346.5
+66528	38023	38	23	Divide County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38023	4.75	14.375	613.125
+66529	38023	38	23	Divide County, North Dakota	61	Educational services	61	0500000US38023	1.0	0.0	0.0
+66530	38023	38	23	Divide County, North Dakota	62	Health care and social assistance	62	0500000US38023	4.5	45.5	1842.875
+66531	38023	38	23	Divide County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38023	3.5	3.0	85.875
+66532	38023	38	23	Divide County, North Dakota	72	Accommodation and food services	72	0500000US38023	10.375	80.25	1093.25
+66533	38023	38	23	Divide County, North Dakota	81	Other services (except public administration)	81	0500000US38023	10.625	25.125	338.75
+66534	38023	38	23	Divide County, North Dakota	99	Industries not classified	99	0500000US38023	1.0	0.0	0.0
+66536	38025	38	25	Dunn County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38025	21.0	367.0	25853.0
+66537	38025	38	25	Dunn County	22	Utilities	22	0500000US38025	2.0	0.0	0.0
+66538	38025	38	25	Dunn County	23	Construction	23	0500000US38025	23.0	0.0	7315.0
+66539	38025	38	25	Dunn County	42	Wholesale trade	42	0500000US38025	8.0	0.0	0.0
+66540	38025	38	25	Dunn County	51	Information	51	0500000US38025	2.0	0.0	0.0
+66541	38025	38	25	Dunn County	52	Finance and insurance	52	0500000US38025	8.0	0.0	0.0
+66542	38025	38	25	Dunn County	53	Real estate and rental and leasing	53	0500000US38025	3.0	43.0	3789.0
+66543	38025	38	25	Dunn County	54	Professional, scientific, and technical services	54	0500000US38025	4.0	0.0	0.0
+66544	38025	38	25	Dunn County	56	Administrative and support and waste management and remediation services	56	0500000US38025	4.0	0.0	828.0
+66545	38025	38	25	Dunn County	62	Health care and social assistance	62	0500000US38025	4.0	0.0	0.0
+66546	38025	38	25	Dunn County	71	Arts, entertainment, and recreation	71	0500000US38025	1.0	0.0	0.0
+66547	38025	38	25	Dunn County	72	Accommodation and food services	72	0500000US38025	8.0	76.0	1282.0
+66548	38025	38	25	Dunn County	81	Other services (except public administration)	81	0500000US38025	16.0	30.0	1340.0
+66550	38025	38	25	Dunn County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38025	28.75	574.25	50754.0
+66551	38025	38	25	Dunn County, North Dakota	22	Utilities	22	0500000US38025	2.8333333333333335	1.8333333333333333	119.66666666666667
+66552	38025	38	25	Dunn County, North Dakota	23	Construction	23	0500000US38025	22.125	174.375	14710.5
+66553	38025	38	25	Dunn County, North Dakota	42	Wholesale trade	42	0500000US38025	14.125	182.25	12501.375
+66554	38025	38	25	Dunn County, North Dakota	51	Information	51	0500000US38025	1.0	0.0	0.0
+66555	38025	38	25	Dunn County, North Dakota	52	Finance and insurance	52	0500000US38025	5.75	19.0	797.875
+66556	38025	38	25	Dunn County, North Dakota	53	Real estate and rental and leasing	53	0500000US38025	3.875	6.375	428.5
+66557	38025	38	25	Dunn County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38025	6.75	68.75	5238.75
+66558	38025	38	25	Dunn County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38025	4.875	26.75	2004.125
+66559	38025	38	25	Dunn County, North Dakota	62	Health care and social assistance	62	0500000US38025	4.875	39.375	1620.375
+66560	38025	38	25	Dunn County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38025	3.125	6.375	133.875
+66561	38025	38	25	Dunn County, North Dakota	72	Accommodation and food services	72	0500000US38025	11.25	115.375	3142.875
+66562	38025	38	25	Dunn County, North Dakota	81	Other services (except public administration)	81	0500000US38025	16.75	84.625	3674.25
+66563	38025	38	25	Dunn County, North Dakota	99	Industries not classified	99	0500000US38025	1.0	0.0	0.0
+66565	38027	38	27	Eddy County	11	Agriculture, forestry, fishing and hunting	11	0500000US38027	1.0	0.0	0.0
+66566	38027	38	27	Eddy County	22	Utilities	22	0500000US38027	1.0	0.0	0.0
+66567	38027	38	27	Eddy County	23	Construction	23	0500000US38027	8.0	22.0	361.0
+66568	38027	38	27	Eddy County	42	Wholesale trade	42	0500000US38027	4.0	0.0	1447.0
+66569	38027	38	27	Eddy County	51	Information	51	0500000US38027	1.0	0.0	0.0
+66570	38027	38	27	Eddy County	52	Finance and insurance	52	0500000US38027	4.0	23.0	954.0
+66571	38027	38	27	Eddy County	53	Real estate and rental and leasing	53	0500000US38027	2.0	0.0	0.0
+66572	38027	38	27	Eddy County	54	Professional, scientific, and technical services	54	0500000US38027	4.0	0.0	206.0
+66573	38027	38	27	Eddy County	56	Administrative and support and waste management and remediation services	56	0500000US38027	1.0	0.0	0.0
+66574	38027	38	27	Eddy County	62	Health care and social assistance	62	0500000US38027	9.0	214.0	6321.0
+66575	38027	38	27	Eddy County	71	Arts, entertainment, and recreation	71	0500000US38027	2.0	0.0	0.0
+66576	38027	38	27	Eddy County	72	Accommodation and food services	72	0500000US38027	11.0	0.0	309.0
+66577	38027	38	27	Eddy County	81	Other services (except public administration)	81	0500000US38027	10.0	44.0	1039.0
+66579	38027	38	27	Eddy County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38027	1.0	0.0	0.0
+66580	38027	38	27	Eddy County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38027	1.25	0.0	0.0
+66581	38027	38	27	Eddy County, North Dakota	22	Utilities	22	0500000US38027	1.0	0.0	0.0
+66582	38027	38	27	Eddy County, North Dakota	23	Construction	23	0500000US38027	11.125	18.25	1098.375
+66583	38027	38	27	Eddy County, North Dakota	42	Wholesale trade	42	0500000US38027	4.5	27.375	1751.625
+66584	38027	38	27	Eddy County, North Dakota	51	Information	51	0500000US38027	1.25	0.0	0.0
+66585	38027	38	27	Eddy County, North Dakota	52	Finance and insurance	52	0500000US38027	4.75	19.875	1228.125
+66586	38027	38	27	Eddy County, North Dakota	53	Real estate and rental and leasing	53	0500000US38027	2.5	0.75	4.5
+66587	38027	38	27	Eddy County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38027	5.25	8.25	281.375
+66588	38027	38	27	Eddy County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38027	1.25	0.0	0.0
+66589	38027	38	27	Eddy County, North Dakota	62	Health care and social assistance	62	0500000US38027	9.75	202.125	6390.25
+66590	38027	38	27	Eddy County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38027	2.4	0.0	0.0
+66591	38027	38	27	Eddy County, North Dakota	72	Accommodation and food services	72	0500000US38027	7.5	21.5	287.25
+66592	38027	38	27	Eddy County, North Dakota	81	Other services (except public administration)	81	0500000US38027	10.125	26.0	647.5
+66594	38029	38	29	Emmons County	11	Agriculture, forestry, fishing and hunting	11	0500000US38029	2.0	0.0	0.0
+66595	38029	38	29	Emmons County	22	Utilities	22	0500000US38029	3.0	0.0	0.0
+66596	38029	38	29	Emmons County	23	Construction	23	0500000US38029	22.0	92.0	6684.0
+66597	38029	38	29	Emmons County	42	Wholesale trade	42	0500000US38029	14.0	112.0	3306.0
+66598	38029	38	29	Emmons County	51	Information	51	0500000US38029	2.0	0.0	0.0
+66599	38029	38	29	Emmons County	52	Finance and insurance	52	0500000US38029	11.0	51.0	1794.0
+66600	38029	38	29	Emmons County	54	Professional, scientific, and technical services	54	0500000US38029	10.0	0.0	319.0
+66601	38029	38	29	Emmons County	55	Management of companies and enterprises	55	0500000US38029	1.0	0.0	0.0
+66602	38029	38	29	Emmons County	56	Administrative and support and waste management and remediation services	56	0500000US38029	3.0	0.0	224.0
+66603	38029	38	29	Emmons County	61	Educational services	61	0500000US38029	2.0	0.0	0.0
+66604	38029	38	29	Emmons County	62	Health care and social assistance	62	0500000US38029	11.0	211.0	5787.0
+66605	38029	38	29	Emmons County	71	Arts, entertainment, and recreation	71	0500000US38029	3.0	0.0	0.0
+66606	38029	38	29	Emmons County	72	Accommodation and food services	72	0500000US38029	10.0	84.0	770.0
+66607	38029	38	29	Emmons County	81	Other services (except public administration)	81	0500000US38029	10.0	23.0	267.0
+66609	38029	38	29	Emmons County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38029	2.0	0.0	0.0
+66610	38029	38	29	Emmons County, North Dakota	22	Utilities	22	0500000US38029	3.0	6.5	552.0
+66611	38029	38	29	Emmons County, North Dakota	23	Construction	23	0500000US38029	17.75	64.25	3988.0
+66612	38029	38	29	Emmons County, North Dakota	42	Wholesale trade	42	0500000US38029	13.625	87.25	3256.0
+66613	38029	38	29	Emmons County, North Dakota	51	Information	51	0500000US38029	1.25	0.0	0.0
+66614	38029	38	29	Emmons County, North Dakota	52	Finance and insurance	52	0500000US38029	12.625	54.375	2351.125
+66615	38029	38	29	Emmons County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38029	8.5	11.875	521.875
+66616	38029	38	29	Emmons County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38029	3.875	3.375	113.125
+66617	38029	38	29	Emmons County, North Dakota	61	Educational services	61	0500000US38029	2.0	0.0	0.0
+66618	38029	38	29	Emmons County, North Dakota	62	Health care and social assistance	62	0500000US38029	9.25	195.375	6113.625
+66619	38029	38	29	Emmons County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38029	1.25	0.0	0.0
+66620	38029	38	29	Emmons County, North Dakota	72	Accommodation and food services	72	0500000US38029	11.125	57.0	660.0
+66621	38029	38	29	Emmons County, North Dakota	81	Other services (except public administration)	81	0500000US38029	9.75	27.5	318.75
+66623	38031	38	31	Foster County	11	Agriculture, forestry, fishing and hunting	11	0500000US38031	1.0	0.0	0.0
+66624	38031	38	31	Foster County	22	Utilities	22	0500000US38031	2.0	0.0	0.0
+66625	38031	38	31	Foster County	23	Construction	23	0500000US38031	18.0	0.0	2077.0
+66626	38031	38	31	Foster County	42	Wholesale trade	42	0500000US38031	20.0	165.0	9178.0
+66627	38031	38	31	Foster County	51	Information	51	0500000US38031	3.0	0.0	0.0
+66628	38031	38	31	Foster County	52	Finance and insurance	52	0500000US38031	13.0	61.0	2728.0
+66629	38031	38	31	Foster County	53	Real estate and rental and leasing	53	0500000US38031	2.0	0.0	0.0
+66630	38031	38	31	Foster County	54	Professional, scientific, and technical services	54	0500000US38031	7.0	0.0	494.0
+66631	38031	38	31	Foster County	56	Administrative and support and waste management and remediation services	56	0500000US38031	3.0	0.0	0.0
+66632	38031	38	31	Foster County	62	Health care and social assistance	62	0500000US38031	12.0	308.0	10002.0
+66633	38031	38	31	Foster County	71	Arts, entertainment, and recreation	71	0500000US38031	2.0	0.0	0.0
+66634	38031	38	31	Foster County	72	Accommodation and food services	72	0500000US38031	10.0	118.0	1286.0
+66635	38031	38	31	Foster County	81	Other services (except public administration)	81	0500000US38031	15.0	36.0	559.0
+66637	38031	38	31	Foster County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38031	1.25	0.0	0.0
+66638	38031	38	31	Foster County, North Dakota	22	Utilities	22	0500000US38031	1.0	0.0	0.0
+66639	38031	38	31	Foster County, North Dakota	23	Construction	23	0500000US38031	17.375	58.625	2252.875
+66640	38031	38	31	Foster County, North Dakota	42	Wholesale trade	42	0500000US38031	19.375	142.625	9821.875
+66641	38031	38	31	Foster County, North Dakota	51	Information	51	0500000US38031	3.0	17.0	1147.875
+66642	38031	38	31	Foster County, North Dakota	52	Finance and insurance	52	0500000US38031	11.75	61.25	3935.25
+66643	38031	38	31	Foster County, North Dakota	53	Real estate and rental and leasing	53	0500000US38031	3.7142857142857144	7.857142857142857	160.14285714285714
+66644	38031	38	31	Foster County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38031	5.5	8.5	226.125
+66645	38031	38	31	Foster County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38031	3.0	0.8333333333333334	56.166666666666664
+66646	38031	38	31	Foster County, North Dakota	62	Health care and social assistance	62	0500000US38031	12.75	262.0	9490.875
+66647	38031	38	31	Foster County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38031	3.125	12.375	113.125
+66648	38031	38	31	Foster County, North Dakota	72	Accommodation and food services	72	0500000US38031	10.375	126.125	1660.25
+66649	38031	38	31	Foster County, North Dakota	81	Other services (except public administration)	81	0500000US38031	14.375	34.375	590.0
+66651	38033	38	33	Golden Valley County	22	Utilities	22	0500000US38033	1.0	0.0	0.0
+66652	38033	38	33	Golden Valley County	23	Construction	23	0500000US38033	11.0	0.0	677.0
+66653	38033	38	33	Golden Valley County	42	Wholesale trade	42	0500000US38033	5.0	0.0	0.0
+66654	38033	38	33	Golden Valley County	51	Information	51	0500000US38033	1.0	0.0	0.0
+66655	38033	38	33	Golden Valley County	52	Finance and insurance	52	0500000US38033	8.0	0.0	1404.0
+66656	38033	38	33	Golden Valley County	54	Professional, scientific, and technical services	54	0500000US38033	5.0	0.0	477.0
+66657	38033	38	33	Golden Valley County	56	Administrative and support and waste management and remediation services	56	0500000US38033	1.0	0.0	0.0
+66658	38033	38	33	Golden Valley County	62	Health care and social assistance	62	0500000US38033	5.0	0.0	0.0
+66659	38033	38	33	Golden Valley County	71	Arts, entertainment, and recreation	71	0500000US38033	2.0	0.0	0.0
+66660	38033	38	33	Golden Valley County	72	Accommodation and food services	72	0500000US38033	4.0	0.0	345.0
+66661	38033	38	33	Golden Valley County	81	Other services (except public administration)	81	0500000US38033	10.0	0.0	482.0
+66663	38033	38	33	Golden Valley County, North Dakota	22	Utilities	22	0500000US38033	1.75	0.0	0.0
+66664	38033	38	33	Golden Valley County, North Dakota	23	Construction	23	0500000US38033	11.25	12.5	778.5
+66665	38033	38	33	Golden Valley County, North Dakota	42	Wholesale trade	42	0500000US38033	4.5	43.375	2420.75
+66666	38033	38	33	Golden Valley County, North Dakota	51	Information	51	0500000US38033	1.0	0.0	0.0
+66667	38033	38	33	Golden Valley County, North Dakota	52	Finance and insurance	52	0500000US38033	7.875	21.875	1503.75
+66668	38033	38	33	Golden Valley County, North Dakota	53	Real estate and rental and leasing	53	0500000US38033	1.0	0.0	0.0
+66669	38033	38	33	Golden Valley County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38033	4.25	11.0	459.25
+66670	38033	38	33	Golden Valley County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38033	2.6	0.6	28.6
+66671	38033	38	33	Golden Valley County, North Dakota	62	Health care and social assistance	62	0500000US38033	6.875	94.75	3109.625
+66672	38033	38	33	Golden Valley County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38033	1.5	0.0	0.0
+66673	38033	38	33	Golden Valley County, North Dakota	72	Accommodation and food services	72	0500000US38033	4.0	13.0	197.5
+66674	38033	38	33	Golden Valley County, North Dakota	81	Other services (except public administration)	81	0500000US38033	8.75	27.875	386.125
+66676	38035	38	35	Grand Forks County	11	Agriculture, forestry, fishing and hunting	11	0500000US38035	7.0	0.0	560.0
+66677	38035	38	35	Grand Forks County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38035	4.0	0.0	0.0
+66678	38035	38	35	Grand Forks County	22	Utilities	22	0500000US38035	4.0	308.0	25743.0
+66679	38035	38	35	Grand Forks County	23	Construction	23	0500000US38035	198.0	2089.0	118032.0
+66680	38035	38	35	Grand Forks County	42	Wholesale trade	42	0500000US38035	108.0	1456.0	75621.0
+66681	38035	38	35	Grand Forks County	51	Information	51	0500000US38035	26.0	460.0	20088.0
+66682	38035	38	35	Grand Forks County	52	Finance and insurance	52	0500000US38035	125.0	962.0	51471.0
+66683	38035	38	35	Grand Forks County	53	Real estate and rental and leasing	53	0500000US38035	77.0	488.0	14251.0
+66684	38035	38	35	Grand Forks County	54	Professional, scientific, and technical services	54	0500000US38035	127.0	1424.0	78150.0
+66685	38035	38	35	Grand Forks County	55	Management of companies and enterprises	55	0500000US38035	9.0	439.0	22121.0
+66686	38035	38	35	Grand Forks County	56	Administrative and support and waste management and remediation services	56	0500000US38035	105.0	1244.0	43589.0
+66687	38035	38	35	Grand Forks County	61	Educational services	61	0500000US38035	15.0	201.0	2968.0
+66688	38035	38	35	Grand Forks County	62	Health care and social assistance	62	0500000US38035	160.0	6536.0	286888.0
+66689	38035	38	35	Grand Forks County	71	Arts, entertainment, and recreation	71	0500000US38035	43.0	1097.0	8772.0
+66690	38035	38	35	Grand Forks County	72	Accommodation and food services	72	0500000US38035	197.0	4289.0	56006.0
+66691	38035	38	35	Grand Forks County	81	Other services (except public administration)	81	0500000US38035	206.0	1239.0	27667.0
+66693	38035	38	35	Grand Forks County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38035	6.625	12.375	587.75
+66694	38035	38	35	Grand Forks County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38035	4.2	16.0	757.6
+66695	38035	38	35	Grand Forks County, North Dakota	22	Utilities	22	0500000US38035	5.625	314.375	30012.625
+66696	38035	38	35	Grand Forks County, North Dakota	23	Construction	23	0500000US38035	204.375	2175.375	147791.25
+66697	38035	38	35	Grand Forks County, North Dakota	42	Wholesale trade	42	0500000US38035	104.625	1455.375	78891.5
+66698	38035	38	35	Grand Forks County, North Dakota	51	Information	51	0500000US38035	25.125	477.5	20823.625
+66699	38035	38	35	Grand Forks County, North Dakota	52	Finance and insurance	52	0500000US38035	121.625	929.25	59674.875
+66700	38035	38	35	Grand Forks County, North Dakota	53	Real estate and rental and leasing	53	0500000US38035	91.75	601.25	22499.25
+66701	38035	38	35	Grand Forks County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38035	133.875	1488.25	91810.25
+66702	38035	38	35	Grand Forks County, North Dakota	55	Management of companies and enterprises	55	0500000US38035	11.125	289.75	14978.875
+66703	38035	38	35	Grand Forks County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38035	102.125	1209.875	46648.0
+66704	38035	38	35	Grand Forks County, North Dakota	61	Educational services	61	0500000US38035	15.625	146.0	3544.25
+66705	38035	38	35	Grand Forks County, North Dakota	62	Health care and social assistance	62	0500000US38035	172.625	7340.25	361097.375
+66706	38035	38	35	Grand Forks County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38035	46.25	1044.75	9710.0
+66707	38035	38	35	Grand Forks County, North Dakota	72	Accommodation and food services	72	0500000US38035	198.375	4370.5	62050.125
+66708	38035	38	35	Grand Forks County, North Dakota	81	Other services (except public administration)	81	0500000US38035	195.25	1297.0	32145.375
+66709	38035	38	35	Grand Forks County, North Dakota	99	Industries not classified	99	0500000US38035	3.5	1.8333333333333333	37.666666666666664
+66711	38037	38	37	Grant County	11	Agriculture, forestry, fishing and hunting	11	0500000US38037	4.0	0.0	0.0
+66712	38037	38	37	Grant County	22	Utilities	22	0500000US38037	1.0	0.0	0.0
+66713	38037	38	37	Grant County	23	Construction	23	0500000US38037	8.0	11.0	284.0
+66714	38037	38	37	Grant County	42	Wholesale trade	42	0500000US38037	8.0	41.0	1778.0
+66715	38037	38	37	Grant County	51	Information	51	0500000US38037	1.0	0.0	0.0
+66716	38037	38	37	Grant County	52	Finance and insurance	52	0500000US38037	7.0	33.0	1108.0
+66717	38037	38	37	Grant County	53	Real estate and rental and leasing	53	0500000US38037	1.0	0.0	0.0
+66718	38037	38	37	Grant County	54	Professional, scientific, and technical services	54	0500000US38037	3.0	7.0	94.0
+66719	38037	38	37	Grant County	56	Administrative and support and waste management and remediation services	56	0500000US38037	3.0	0.0	0.0
+66720	38037	38	37	Grant County	62	Health care and social assistance	62	0500000US38037	7.0	201.0	4841.0
+66721	38037	38	37	Grant County	71	Arts, entertainment, and recreation	71	0500000US38037	1.0	0.0	0.0
+66722	38037	38	37	Grant County	72	Accommodation and food services	72	0500000US38037	6.0	24.0	269.0
+66723	38037	38	37	Grant County	81	Other services (except public administration)	81	0500000US38037	6.0	0.0	0.0
+66725	38037	38	37	Grant County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38037	2.0	0.0	0.0
+66726	38037	38	37	Grant County, North Dakota	22	Utilities	22	0500000US38037	1.0	0.0	0.0
+66727	38037	38	37	Grant County, North Dakota	23	Construction	23	0500000US38037	6.875	8.25	365.25
+66728	38037	38	37	Grant County, North Dakota	42	Wholesale trade	42	0500000US38037	7.625	27.25	1518.25
+66729	38037	38	37	Grant County, North Dakota	51	Information	51	0500000US38037	1.0	0.0	0.0
+66730	38037	38	37	Grant County, North Dakota	52	Finance and insurance	52	0500000US38037	7.0	24.875	1719.125
+66731	38037	38	37	Grant County, North Dakota	53	Real estate and rental and leasing	53	0500000US38037	1.0	0.0	0.0
+66732	38037	38	37	Grant County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38037	2.6666666666666665	2.6666666666666665	104.5
+66733	38037	38	37	Grant County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38037	2.75	0.0	0.0
+66734	38037	38	37	Grant County, North Dakota	62	Health care and social assistance	62	0500000US38037	8.0	180.375	5384.375
+66735	38037	38	37	Grant County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38037	1.0	0.0	0.0
+66736	38037	38	37	Grant County, North Dakota	72	Accommodation and food services	72	0500000US38037	7.0	24.75	315.0
+66737	38037	38	37	Grant County, North Dakota	81	Other services (except public administration)	81	0500000US38037	7.0	15.75	579.125
+66738	38037	38	37	Grant County, North Dakota	99	Industries not classified	99	0500000US38037	2.5	2.0	13.5
+66740	38039	38	39	Griggs County	11	Agriculture, forestry, fishing and hunting	11	0500000US38039	1.0	0.0	0.0
+66741	38039	38	39	Griggs County	23	Construction	23	0500000US38039	14.0	15.0	549.0
+66742	38039	38	39	Griggs County	42	Wholesale trade	42	0500000US38039	6.0	103.0	5299.0
+66743	38039	38	39	Griggs County	51	Information	51	0500000US38039	2.0	0.0	0.0
+66744	38039	38	39	Griggs County	52	Finance and insurance	52	0500000US38039	9.0	34.0	1564.0
+66745	38039	38	39	Griggs County	53	Real estate and rental and leasing	53	0500000US38039	1.0	0.0	0.0
+66746	38039	38	39	Griggs County	54	Professional, scientific, and technical services	54	0500000US38039	9.0	0.0	0.0
+66747	38039	38	39	Griggs County	56	Administrative and support and waste management and remediation services	56	0500000US38039	3.0	0.0	0.0
+66748	38039	38	39	Griggs County	62	Health care and social assistance	62	0500000US38039	5.0	0.0	0.0
+66749	38039	38	39	Griggs County	71	Arts, entertainment, and recreation	71	0500000US38039	3.0	0.0	209.0
+66750	38039	38	39	Griggs County	72	Accommodation and food services	72	0500000US38039	11.0	44.0	556.0
+66751	38039	38	39	Griggs County	81	Other services (except public administration)	81	0500000US38039	17.0	35.0	787.0
+66753	38039	38	39	Griggs County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38039	1.0	0.0	0.0
+66754	38039	38	39	Griggs County, North Dakota	23	Construction	23	0500000US38039	9.5	9.0	317.75
+66755	38039	38	39	Griggs County, North Dakota	42	Wholesale trade	42	0500000US38039	6.25	34.75	2021.375
+66756	38039	38	39	Griggs County, North Dakota	51	Information	51	0500000US38039	2.0	0.0	0.0
+66757	38039	38	39	Griggs County, North Dakota	52	Finance and insurance	52	0500000US38039	6.75	23.75	1278.0
+66758	38039	38	39	Griggs County, North Dakota	53	Real estate and rental and leasing	53	0500000US38039	1.25	0.0	0.0
+66759	38039	38	39	Griggs County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38039	6.875	16.875	692.0
+66760	38039	38	39	Griggs County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38039	4.25	19.25	546.625
+66761	38039	38	39	Griggs County, North Dakota	62	Health care and social assistance	62	0500000US38039	4.375	63.5	2131.875
+66762	38039	38	39	Griggs County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38039	3.0	13.25	201.25
+66763	38039	38	39	Griggs County, North Dakota	72	Accommodation and food services	72	0500000US38039	10.75	54.5	504.625
+66764	38039	38	39	Griggs County, North Dakota	81	Other services (except public administration)	81	0500000US38039	14.5	29.25	858.0
+66765	38039	38	39	Griggs County, North Dakota	99	Industries not classified	99	0500000US38039	1.0	0.0	0.0
+66767	38041	38	41	Hettinger County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38041	1.0	0.0	0.0
+66768	38041	38	41	Hettinger County	22	Utilities	22	0500000US38041	3.0	0.0	0.0
+66769	38041	38	41	Hettinger County	23	Construction	23	0500000US38041	6.0	0.0	0.0
+66770	38041	38	41	Hettinger County	42	Wholesale trade	42	0500000US38041	4.0	0.0	0.0
+66771	38041	38	41	Hettinger County	51	Information	51	0500000US38041	3.0	0.0	0.0
+66772	38041	38	41	Hettinger County	52	Finance and insurance	52	0500000US38041	12.0	50.0	2365.0
+66773	38041	38	41	Hettinger County	53	Real estate and rental and leasing	53	0500000US38041	2.0	0.0	0.0
+66774	38041	38	41	Hettinger County	54	Professional, scientific, and technical services	54	0500000US38041	5.0	15.0	388.0
+66775	38041	38	41	Hettinger County	56	Administrative and support and waste management and remediation services	56	0500000US38041	5.0	0.0	0.0
+66776	38041	38	41	Hettinger County	61	Educational services	61	0500000US38041	1.0	0.0	0.0
+66777	38041	38	41	Hettinger County	62	Health care and social assistance	62	0500000US38041	10.0	0.0	0.0
+66778	38041	38	41	Hettinger County	71	Arts, entertainment, and recreation	71	0500000US38041	4.0	0.0	0.0
+66779	38041	38	41	Hettinger County	72	Accommodation and food services	72	0500000US38041	5.0	0.0	232.0
+66780	38041	38	41	Hettinger County	81	Other services (except public administration)	81	0500000US38041	11.0	23.0	411.0
+66782	38041	38	41	Hettinger County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38041	1.0	0.0	0.0
+66783	38041	38	41	Hettinger County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38041	1.0	0.0	0.0
+66784	38041	38	41	Hettinger County, North Dakota	22	Utilities	22	0500000US38041	3.0	2.5	218.0
+66785	38041	38	41	Hettinger County, North Dakota	23	Construction	23	0500000US38041	6.875	25.0	2091.625
+66786	38041	38	41	Hettinger County, North Dakota	42	Wholesale trade	42	0500000US38041	6.375	23.875	1476.75
+66787	38041	38	41	Hettinger County, North Dakota	51	Information	51	0500000US38041	3.0	13.714285714285714	108.42857142857143
+66788	38041	38	41	Hettinger County, North Dakota	52	Finance and insurance	52	0500000US38041	11.5	48.625	2586.375
+66789	38041	38	41	Hettinger County, North Dakota	53	Real estate and rental and leasing	53	0500000US38041	2.0	0.0	0.0
+66790	38041	38	41	Hettinger County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38041	5.375	15.75	1124.875
+66791	38041	38	41	Hettinger County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38041	4.875	9.125	80.875
+66792	38041	38	41	Hettinger County, North Dakota	61	Educational services	61	0500000US38041	1.0	0.0	0.0
+66793	38041	38	41	Hettinger County, North Dakota	62	Health care and social assistance	62	0500000US38041	8.0	63.125	2167.5
+66794	38041	38	41	Hettinger County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38041	3.142857142857143	0.7142857142857143	40.0
+66795	38041	38	41	Hettinger County, North Dakota	72	Accommodation and food services	72	0500000US38041	6.625	32.875	356.125
+66796	38041	38	41	Hettinger County, North Dakota	81	Other services (except public administration)	81	0500000US38041	10.25	26.5	528.5
+66798	38043	38	43	Kidder County	22	Utilities	22	0500000US38043	2.0	0.0	0.0
+66799	38043	38	43	Kidder County	23	Construction	23	0500000US38043	3.0	0.0	0.0
+66800	38043	38	43	Kidder County	42	Wholesale trade	42	0500000US38043	6.0	0.0	0.0
+66801	38043	38	43	Kidder County	51	Information	51	0500000US38043	2.0	0.0	0.0
+66802	38043	38	43	Kidder County	52	Finance and insurance	52	0500000US38043	5.0	0.0	1832.0
+66803	38043	38	43	Kidder County	53	Real estate and rental and leasing	53	0500000US38043	2.0	0.0	0.0
+66804	38043	38	43	Kidder County	54	Professional, scientific, and technical services	54	0500000US38043	5.0	0.0	0.0
+66805	38043	38	43	Kidder County	55	Management of companies and enterprises	55	0500000US38043	1.0	0.0	0.0
+66806	38043	38	43	Kidder County	56	Administrative and support and waste management and remediation services	56	0500000US38043	1.0	0.0	0.0
+66807	38043	38	43	Kidder County	61	Educational services	61	0500000US38043	1.0	0.0	0.0
+66808	38043	38	43	Kidder County	62	Health care and social assistance	62	0500000US38043	6.0	77.0	855.0
+66809	38043	38	43	Kidder County	71	Arts, entertainment, and recreation	71	0500000US38043	2.0	0.0	0.0
+66810	38043	38	43	Kidder County	72	Accommodation and food services	72	0500000US38043	8.0	0.0	0.0
+66811	38043	38	43	Kidder County	81	Other services (except public administration)	81	0500000US38043	6.0	0.0	124.0
+66813	38043	38	43	Kidder County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38043	2.0	3.0	102.0
+66814	38043	38	43	Kidder County, North Dakota	22	Utilities	22	0500000US38043	2.0	0.0	0.0
+66815	38043	38	43	Kidder County, North Dakota	23	Construction	23	0500000US38043	6.25	9.375	711.625
+66816	38043	38	43	Kidder County, North Dakota	42	Wholesale trade	42	0500000US38043	6.5	22.125	1019.25
+66817	38043	38	43	Kidder County, North Dakota	51	Information	51	0500000US38043	2.0	0.0	0.0
+66818	38043	38	43	Kidder County, North Dakota	52	Finance and insurance	52	0500000US38043	4.375	35.125	2035.0
+66819	38043	38	43	Kidder County, North Dakota	53	Real estate and rental and leasing	53	0500000US38043	2.0	0.0	0.0
+66820	38043	38	43	Kidder County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38043	6.25	20.5	714.5
+66821	38043	38	43	Kidder County, North Dakota	55	Management of companies and enterprises	55	0500000US38043	1.0	0.0	0.0
+66822	38043	38	43	Kidder County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38043	1.5	0.0	0.0
+66823	38043	38	43	Kidder County, North Dakota	61	Educational services	61	0500000US38043	1.0	0.0	0.0
+66824	38043	38	43	Kidder County, North Dakota	62	Health care and social assistance	62	0500000US38043	5.875	53.625	1102.625
+66825	38043	38	43	Kidder County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38043	1.8	0.2	12.4
+66826	38043	38	43	Kidder County, North Dakota	72	Accommodation and food services	72	0500000US38043	8.875	30.625	556.25
+66827	38043	38	43	Kidder County, North Dakota	81	Other services (except public administration)	81	0500000US38043	6.75	20.25	267.75
+66828	38043	38	43	Kidder County, North Dakota	99	Industries not classified	99	0500000US38043	1.0	0.0	0.0
+66830	38045	38	45	LaMoure County	11	Agriculture, forestry, fishing and hunting	11	0500000US38045	5.0	0.0	0.0
+66831	38045	38	45	LaMoure County	22	Utilities	22	0500000US38045	2.0	0.0	0.0
+66832	38045	38	45	LaMoure County	23	Construction	23	0500000US38045	8.0	0.0	645.0
+66833	38045	38	45	LaMoure County	42	Wholesale trade	42	0500000US38045	23.0	193.0	8458.0
+66834	38045	38	45	LaMoure County	51	Information	51	0500000US38045	3.0	18.0	480.0
+66835	38045	38	45	LaMoure County	52	Finance and insurance	52	0500000US38045	19.0	107.0	5138.0
+66836	38045	38	45	LaMoure County	53	Real estate and rental and leasing	53	0500000US38045	2.0	0.0	0.0
+66837	38045	38	45	LaMoure County	54	Professional, scientific, and technical services	54	0500000US38045	2.0	0.0	0.0
+66838	38045	38	45	LaMoure County	56	Administrative and support and waste management and remediation services	56	0500000US38045	2.0	0.0	0.0
+66839	38045	38	45	LaMoure County	61	Educational services	61	0500000US38045	1.0	0.0	0.0
+66840	38045	38	45	LaMoure County	62	Health care and social assistance	62	0500000US38045	11.0	154.0	3380.0
+66841	38045	38	45	LaMoure County	71	Arts, entertainment, and recreation	71	0500000US38045	4.0	0.0	121.0
+66842	38045	38	45	LaMoure County	72	Accommodation and food services	72	0500000US38045	16.0	82.0	663.0
+66843	38045	38	45	LaMoure County	81	Other services (except public administration)	81	0500000US38045	21.0	86.0	1182.0
+66845	38045	38	45	LaMoure County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38045	3.125	6.125	236.125
+66846	38045	38	45	LaMoure County, North Dakota	22	Utilities	22	0500000US38045	2.0	0.0	0.0
+66847	38045	38	45	LaMoure County, North Dakota	23	Construction	23	0500000US38045	9.625	20.375	812.75
+66848	38045	38	45	LaMoure County, North Dakota	42	Wholesale trade	42	0500000US38045	24.75	209.125	11655.25
+66849	38045	38	45	LaMoure County, North Dakota	51	Information	51	0500000US38045	3.0	16.75	448.0
+66850	38045	38	45	LaMoure County, North Dakota	52	Finance and insurance	52	0500000US38045	19.375	95.375	6454.125
+66851	38045	38	45	LaMoure County, North Dakota	53	Real estate and rental and leasing	53	0500000US38045	2.8333333333333335	1.5	12.5
+66852	38045	38	45	LaMoure County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38045	2.0	3.5	132.5
+66853	38045	38	45	LaMoure County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38045	2.6	3.8	107.2
+66854	38045	38	45	LaMoure County, North Dakota	61	Educational services	61	0500000US38045	1.0	0.0	0.0
+66855	38045	38	45	LaMoure County, North Dakota	62	Health care and social assistance	62	0500000US38045	13.625	170.5	3902.75
+66856	38045	38	45	LaMoure County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38045	3.5	7.875	97.75
+66857	38045	38	45	LaMoure County, North Dakota	72	Accommodation and food services	72	0500000US38045	14.625	63.0	565.25
+66858	38045	38	45	LaMoure County, North Dakota	81	Other services (except public administration)	81	0500000US38045	20.625	60.75	1236.5
+66860	38047	38	47	Logan County	23	Construction	23	0500000US38047	14.0	0.0	1457.0
+66861	38047	38	47	Logan County	42	Wholesale trade	42	0500000US38047	7.0	102.0	2871.0
+66862	38047	38	47	Logan County	52	Finance and insurance	52	0500000US38047	6.0	26.0	1292.0
+66863	38047	38	47	Logan County	53	Real estate and rental and leasing	53	0500000US38047	1.0	0.0	0.0
+66864	38047	38	47	Logan County	54	Professional, scientific, and technical services	54	0500000US38047	2.0	0.0	0.0
+66865	38047	38	47	Logan County	62	Health care and social assistance	62	0500000US38047	7.0	0.0	0.0
+66866	38047	38	47	Logan County	72	Accommodation and food services	72	0500000US38047	10.0	52.0	335.0
+66867	38047	38	47	Logan County	81	Other services (except public administration)	81	0500000US38047	10.0	0.0	327.0
+66869	38047	38	47	Logan County, North Dakota	23	Construction	23	0500000US38047	10.875	22.875	1379.125
+66870	38047	38	47	Logan County, North Dakota	42	Wholesale trade	42	0500000US38047	7.625	106.125	3874.0
+66871	38047	38	47	Logan County, North Dakota	51	Information	51	0500000US38047	1.0	0.0	0.0
+66872	38047	38	47	Logan County, North Dakota	52	Finance and insurance	52	0500000US38047	6.375	26.875	1503.125
+66873	38047	38	47	Logan County, North Dakota	53	Real estate and rental and leasing	53	0500000US38047	1.0	0.0	0.0
+66874	38047	38	47	Logan County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38047	2.25	0.0	0.0
+66875	38047	38	47	Logan County, North Dakota	62	Health care and social assistance	62	0500000US38047	7.625	79.0	1788.625
+66876	38047	38	47	Logan County, North Dakota	72	Accommodation and food services	72	0500000US38047	5.625	40.75	281.75
+66877	38047	38	47	Logan County, North Dakota	81	Other services (except public administration)	81	0500000US38047	10.0	39.5	728.875
+66879	38049	38	49	McHenry County	11	Agriculture, forestry, fishing and hunting	11	0500000US38049	2.0	0.0	0.0
+66880	38049	38	49	McHenry County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38049	1.0	0.0	0.0
+66881	38049	38	49	McHenry County	22	Utilities	22	0500000US38049	1.0	0.0	0.0
+66882	38049	38	49	McHenry County	23	Construction	23	0500000US38049	21.0	0.0	1798.0
+66883	38049	38	49	McHenry County	42	Wholesale trade	42	0500000US38049	6.0	74.0	4188.0
+66884	38049	38	49	McHenry County	51	Information	51	0500000US38049	2.0	0.0	0.0
+66885	38049	38	49	McHenry County	52	Finance and insurance	52	0500000US38049	15.0	49.0	2027.0
+66886	38049	38	49	McHenry County	53	Real estate and rental and leasing	53	0500000US38049	5.0	0.0	354.0
+66887	38049	38	49	McHenry County	54	Professional, scientific, and technical services	54	0500000US38049	6.0	0.0	0.0
+66888	38049	38	49	McHenry County	56	Administrative and support and waste management and remediation services	56	0500000US38049	4.0	0.0	0.0
+66889	38049	38	49	McHenry County	62	Health care and social assistance	62	0500000US38049	5.0	0.0	0.0
+66890	38049	38	49	McHenry County	71	Arts, entertainment, and recreation	71	0500000US38049	2.0	0.0	0.0
+66891	38049	38	49	McHenry County	72	Accommodation and food services	72	0500000US38049	7.0	24.0	262.0
+66892	38049	38	49	McHenry County	81	Other services (except public administration)	81	0500000US38049	16.0	0.0	720.0
+66894	38049	38	49	McHenry County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38049	2.0	0.0	0.0
+66895	38049	38	49	McHenry County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38049	1.0	0.0	0.0
+66896	38049	38	49	McHenry County, North Dakota	22	Utilities	22	0500000US38049	1.0	0.0	0.0
+66897	38049	38	49	McHenry County, North Dakota	23	Construction	23	0500000US38049	19.875	29.5	2012.5
+66898	38049	38	49	McHenry County, North Dakota	42	Wholesale trade	42	0500000US38049	9.0	150.75	9200.125
+66899	38049	38	49	McHenry County, North Dakota	51	Information	51	0500000US38049	2.0	0.0	0.0
+66900	38049	38	49	McHenry County, North Dakota	52	Finance and insurance	52	0500000US38049	13.5	44.25	2395.125
+66901	38049	38	49	McHenry County, North Dakota	53	Real estate and rental and leasing	53	0500000US38049	4.375	6.5	84.75
+66902	38049	38	49	McHenry County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38049	8.125	13.5	763.125
+66903	38049	38	49	McHenry County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38049	3.75	7.375	342.375
+66904	38049	38	49	McHenry County, North Dakota	62	Health care and social assistance	62	0500000US38049	7.25	88.5	1995.375
+66905	38049	38	49	McHenry County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38049	1.75	0.0	0.0
+66906	38049	38	49	McHenry County, North Dakota	72	Accommodation and food services	72	0500000US38049	9.25	29.125	417.125
+66907	38049	38	49	McHenry County, North Dakota	81	Other services (except public administration)	81	0500000US38049	14.0	26.25	1086.75
+66908	38049	38	49	McHenry County, North Dakota	99	Industries not classified	99	0500000US38049	1.0	0.0	0.0
+66910	38051	38	51	McIntosh County	11	Agriculture, forestry, fishing and hunting	11	0500000US38051	1.0	0.0	0.0
+66911	38051	38	51	McIntosh County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38051	1.0	0.0	0.0
+66912	38051	38	51	McIntosh County	22	Utilities	22	0500000US38051	3.0	0.0	0.0
+66913	38051	38	51	McIntosh County	23	Construction	23	0500000US38051	8.0	15.0	307.0
+66914	38051	38	51	McIntosh County	42	Wholesale trade	42	0500000US38051	12.0	116.0	3514.0
+66915	38051	38	51	McIntosh County	51	Information	51	0500000US38051	1.0	0.0	0.0
+66916	38051	38	51	McIntosh County	52	Finance and insurance	52	0500000US38051	10.0	59.0	1879.0
+66917	38051	38	51	McIntosh County	53	Real estate and rental and leasing	53	0500000US38051	3.0	0.0	120.0
+66918	38051	38	51	McIntosh County	54	Professional, scientific, and technical services	54	0500000US38051	6.0	0.0	0.0
+66919	38051	38	51	McIntosh County	56	Administrative and support and waste management and remediation services	56	0500000US38051	3.0	0.0	0.0
+66920	38051	38	51	McIntosh County	62	Health care and social assistance	62	0500000US38051	10.0	322.0	9173.0
+66921	38051	38	51	McIntosh County	71	Arts, entertainment, and recreation	71	0500000US38051	3.0	9.0	28.0
+66922	38051	38	51	McIntosh County	72	Accommodation and food services	72	0500000US38051	11.0	0.0	345.0
+66923	38051	38	51	McIntosh County	81	Other services (except public administration)	81	0500000US38051	12.0	35.0	333.0
+66925	38051	38	51	McIntosh County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38051	1.25	0.0	0.0
+66926	38051	38	51	McIntosh County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38051	1.0	0.0	0.0
+66927	38051	38	51	McIntosh County, North Dakota	22	Utilities	22	0500000US38051	2.5	0.0	0.0
+66928	38051	38	51	McIntosh County, North Dakota	23	Construction	23	0500000US38051	11.0	17.75	841.0
+66929	38051	38	51	McIntosh County, North Dakota	42	Wholesale trade	42	0500000US38051	12.125	107.5	4230.75
+66930	38051	38	51	McIntosh County, North Dakota	51	Information	51	0500000US38051	1.0	0.0	0.0
+66931	38051	38	51	McIntosh County, North Dakota	52	Finance and insurance	52	0500000US38051	9.875	37.25	2285.625
+66932	38051	38	51	McIntosh County, North Dakota	53	Real estate and rental and leasing	53	0500000US38051	3.0	4.0	102.25
+66933	38051	38	51	McIntosh County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38051	6.875	16.625	593.5
+66934	38051	38	51	McIntosh County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38051	3.25	0.5	27.0
+66935	38051	38	51	McIntosh County, North Dakota	62	Health care and social assistance	62	0500000US38051	10.25	327.875	10384.0
+66936	38051	38	51	McIntosh County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38051	3.375	4.5	36.125
+66937	38051	38	51	McIntosh County, North Dakota	72	Accommodation and food services	72	0500000US38051	10.75	25.625	391.25
+66938	38051	38	51	McIntosh County, North Dakota	81	Other services (except public administration)	81	0500000US38051	14.625	42.0	777.375
+66940	38053	38	53	McKenzie County	11	Agriculture, forestry, fishing and hunting	11	0500000US38053	4.0	0.0	0.0
+66941	38053	38	53	McKenzie County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38053	44.0	465.0	44576.0
+66942	38053	38	53	McKenzie County	22	Utilities	22	0500000US38053	3.0	0.0	2967.0
+66943	38053	38	53	McKenzie County	23	Construction	23	0500000US38053	57.0	605.0	48092.0
+66944	38053	38	53	McKenzie County	42	Wholesale trade	42	0500000US38053	15.0	185.0	26766.0
+66945	38053	38	53	McKenzie County	51	Information	51	0500000US38053	3.0	0.0	475.0
+66946	38053	38	53	McKenzie County	52	Finance and insurance	52	0500000US38053	10.0	118.0	5032.0
+66947	38053	38	53	McKenzie County	53	Real estate and rental and leasing	53	0500000US38053	15.0	73.0	5102.0
+66948	38053	38	53	McKenzie County	54	Professional, scientific, and technical services	54	0500000US38053	32.0	130.0	13686.0
+66949	38053	38	53	McKenzie County	56	Administrative and support and waste management and remediation services	56	0500000US38053	18.0	0.0	7140.0
+66950	38053	38	53	McKenzie County	62	Health care and social assistance	62	0500000US38053	10.0	181.0	6227.0
+66951	38053	38	53	McKenzie County	71	Arts, entertainment, and recreation	71	0500000US38053	4.0	0.0	0.0
+66952	38053	38	53	McKenzie County	72	Accommodation and food services	72	0500000US38053	26.0	457.0	6019.0
+66953	38053	38	53	McKenzie County	81	Other services (except public administration)	81	0500000US38053	34.0	118.0	2945.0
+66955	38053	38	53	McKenzie County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38053	4.4	15.4	863.0
+66956	38053	38	53	McKenzie County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38053	68.375	1153.875	112426.75
+66957	38053	38	53	McKenzie County, North Dakota	22	Utilities	22	0500000US38053	7.625	75.75	6964.25
+66958	38053	38	53	McKenzie County, North Dakota	23	Construction	23	0500000US38053	78.75	1070.875	93686.0
+66959	38053	38	53	McKenzie County, North Dakota	42	Wholesale trade	42	0500000US38053	23.875	355.125	29148.5
+66960	38053	38	53	McKenzie County, North Dakota	51	Information	51	0500000US38053	5.375	28.125	1689.25
+66961	38053	38	53	McKenzie County, North Dakota	52	Finance and insurance	52	0500000US38053	10.625	120.625	8073.0
+66962	38053	38	53	McKenzie County, North Dakota	53	Real estate and rental and leasing	53	0500000US38053	26.5	209.625	14974.5
+66963	38053	38	53	McKenzie County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38053	37.0	258.375	23522.375
+66964	38053	38	53	McKenzie County, North Dakota	55	Management of companies and enterprises	55	0500000US38053	1.6666666666666667	0.0	0.0
+66965	38053	38	53	McKenzie County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38053	23.0	225.125	13104.375
+66966	38053	38	53	McKenzie County, North Dakota	61	Educational services	61	0500000US38053	1.6	3.2	146.4
+66967	38053	38	53	McKenzie County, North Dakota	62	Health care and social assistance	62	0500000US38053	14.125	332.25	12028.125
+66968	38053	38	53	McKenzie County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38053	4.875	12.5	255.0
+66969	38053	38	53	McKenzie County, North Dakota	72	Accommodation and food services	72	0500000US38053	40.625	525.125	12832.75
+66970	38053	38	53	McKenzie County, North Dakota	81	Other services (except public administration)	81	0500000US38053	40.375	195.5	6751.5
+66972	38055	38	55	McLean County	11	Agriculture, forestry, fishing and hunting	11	0500000US38055	1.0	0.0	0.0
+66973	38055	38	55	McLean County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38055	6.0	0.0	0.0
+66974	38055	38	55	McLean County	22	Utilities	22	0500000US38055	5.0	0.0	0.0
+66975	38055	38	55	McLean County	23	Construction	23	0500000US38055	45.0	0.0	6231.0
+66976	38055	38	55	McLean County	42	Wholesale trade	42	0500000US38055	20.0	207.0	9271.0
+66977	38055	38	55	McLean County	51	Information	51	0500000US38055	2.0	0.0	0.0
+66978	38055	38	55	McLean County	52	Finance and insurance	52	0500000US38055	20.0	121.0	4491.0
+66979	38055	38	55	McLean County	53	Real estate and rental and leasing	53	0500000US38055	2.0	0.0	0.0
+66980	38055	38	55	McLean County	54	Professional, scientific, and technical services	54	0500000US38055	7.0	20.0	504.0
+66981	38055	38	55	McLean County	56	Administrative and support and waste management and remediation services	56	0500000US38055	6.0	0.0	0.0
+66982	38055	38	55	McLean County	61	Educational services	61	0500000US38055	3.0	7.0	82.0
+66983	38055	38	55	McLean County	62	Health care and social assistance	62	0500000US38055	18.0	0.0	0.0
+66984	38055	38	55	McLean County	71	Arts, entertainment, and recreation	71	0500000US38055	4.0	0.0	0.0
+66985	38055	38	55	McLean County	72	Accommodation and food services	72	0500000US38055	28.0	180.0	1952.0
+66986	38055	38	55	McLean County	81	Other services (except public administration)	81	0500000US38055	34.0	98.0	1549.0
+66987	38055	38	55	McLean County	99	Industries not classified	99	0500000US38055	1.0	0.0	0.0
+66989	38055	38	55	McLean County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38055	1.8	0.6	21.2
+66990	38055	38	55	McLean County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38055	5.142857142857143	137.57142857142858	16100.714285714286
+66991	38055	38	55	McLean County, North Dakota	22	Utilities	22	0500000US38055	4.25	116.5	14672.875
+66992	38055	38	55	McLean County, North Dakota	23	Construction	23	0500000US38055	39.375	100.875	5789.75
+66993	38055	38	55	McLean County, North Dakota	42	Wholesale trade	42	0500000US38055	19.125	175.875	10829.875
+66994	38055	38	55	McLean County, North Dakota	51	Information	51	0500000US38055	2.0	0.0	0.0
+66995	38055	38	55	McLean County, North Dakota	52	Finance and insurance	52	0500000US38055	22.5	130.625	6062.375
+66996	38055	38	55	McLean County, North Dakota	53	Real estate and rental and leasing	53	0500000US38055	2.6666666666666665	1.1666666666666667	26.333333333333332
+66997	38055	38	55	McLean County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38055	7.25	22.875	1089.875
+66998	38055	38	55	McLean County, North Dakota	55	Management of companies and enterprises	55	0500000US38055	1.75	0.0	0.0
+66999	38055	38	55	McLean County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38055	5.5	21.0	585.125
+67000	38055	38	55	McLean County, North Dakota	61	Educational services	61	0500000US38055	2.75	2.0	32.75
+67001	38055	38	55	McLean County, North Dakota	62	Health care and social assistance	62	0500000US38055	17.75	422.125	13106.625
+67002	38055	38	55	McLean County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38055	3.875	10.75	298.625
+67003	38055	38	55	McLean County, North Dakota	72	Accommodation and food services	72	0500000US38055	27.25	203.125	2851.375
+67004	38055	38	55	McLean County, North Dakota	81	Other services (except public administration)	81	0500000US38055	33.75	108.5	1773.75
+67005	38055	38	55	McLean County, North Dakota	99	Industries not classified	99	0500000US38055	2.6	0.8	31.2
+67007	38057	38	57	Mercer County	11	Agriculture, forestry, fishing and hunting	11	0500000US38057	2.0	0.0	0.0
+67008	38057	38	57	Mercer County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38057	6.0	0.0	0.0
+67009	38057	38	57	Mercer County	22	Utilities	22	0500000US38057	9.0	0.0	0.0
+67010	38057	38	57	Mercer County	23	Construction	23	0500000US38057	16.0	392.0	13017.0
+67011	38057	38	57	Mercer County	42	Wholesale trade	42	0500000US38057	6.0	0.0	0.0
+67012	38057	38	57	Mercer County	51	Information	51	0500000US38057	4.0	0.0	0.0
+67013	38057	38	57	Mercer County	52	Finance and insurance	52	0500000US38057	21.0	106.0	4138.0
+67014	38057	38	57	Mercer County	53	Real estate and rental and leasing	53	0500000US38057	5.0	0.0	0.0
+67015	38057	38	57	Mercer County	54	Professional, scientific, and technical services	54	0500000US38057	11.0	49.0	2233.0
+67016	38057	38	57	Mercer County	56	Administrative and support and waste management and remediation services	56	0500000US38057	13.0	66.0	1448.0
+67017	38057	38	57	Mercer County	62	Health care and social assistance	62	0500000US38057	18.0	429.0	12254.0
+67018	38057	38	57	Mercer County	71	Arts, entertainment, and recreation	71	0500000US38057	8.0	30.0	287.0
+67019	38057	38	57	Mercer County	72	Accommodation and food services	72	0500000US38057	30.0	311.0	3411.0
+67020	38057	38	57	Mercer County	81	Other services (except public administration)	81	0500000US38057	30.0	127.0	2028.0
+67021	38057	38	57	Mercer County	99	Industries not classified	99	0500000US38057	2.0	0.0	0.0
+67023	38057	38	57	Mercer County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38057	1.5	0.0	0.0
+67024	38057	38	57	Mercer County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38057	8.0	614.125	66894.5
+67025	38057	38	57	Mercer County, North Dakota	22	Utilities	22	0500000US38057	7.75	437.75	48111.625
+67026	38057	38	57	Mercer County, North Dakota	23	Construction	23	0500000US38057	19.5	219.5	14500.125
+67027	38057	38	57	Mercer County, North Dakota	42	Wholesale trade	42	0500000US38057	9.375	43.875	2588.75
+67028	38057	38	57	Mercer County, North Dakota	51	Information	51	0500000US38057	4.25	38.625	2306.25
+67029	38057	38	57	Mercer County, North Dakota	52	Finance and insurance	52	0500000US38057	21.75	125.0	4949.5
+67030	38057	38	57	Mercer County, North Dakota	53	Real estate and rental and leasing	53	0500000US38057	5.25	7.0	378.0
+67031	38057	38	57	Mercer County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38057	10.25	49.75	2537.0
+67032	38057	38	57	Mercer County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38057	9.375	33.0	1268.5
+67033	38057	38	57	Mercer County, North Dakota	62	Health care and social assistance	62	0500000US38057	22.125	501.25	17730.875
+67034	38057	38	57	Mercer County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38057	6.625	27.5	318.75
+67035	38057	38	57	Mercer County, North Dakota	72	Accommodation and food services	72	0500000US38057	31.125	262.375	3426.375
+67036	38057	38	57	Mercer County, North Dakota	81	Other services (except public administration)	81	0500000US38057	30.0	122.625	2608.375
+67037	38057	38	57	Mercer County, North Dakota	99	Industries not classified	99	0500000US38057	1.3333333333333333	0.0	0.0
+67039	38059	38	59	Morton County	11	Agriculture, forestry, fishing and hunting	11	0500000US38059	4.0	0.0	667.0
+67040	38059	38	59	Morton County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38059	4.0	54.0	7816.0
+67041	38059	38	59	Morton County	22	Utilities	22	0500000US38059	5.0	0.0	0.0
+67042	38059	38	59	Morton County	23	Construction	23	0500000US38059	114.0	583.0	29114.0
+67043	38059	38	59	Morton County	42	Wholesale trade	42	0500000US38059	43.0	415.0	17423.0
+67044	38059	38	59	Morton County	51	Information	51	0500000US38059	7.0	0.0	0.0
+67045	38059	38	59	Morton County	52	Finance and insurance	52	0500000US38059	56.0	350.0	17592.0
+67046	38059	38	59	Morton County	53	Real estate and rental and leasing	53	0500000US38059	42.0	111.0	3506.0
+67047	38059	38	59	Morton County	54	Professional, scientific, and technical services	54	0500000US38059	61.0	0.0	0.0
+67048	38059	38	59	Morton County	56	Administrative and support and waste management and remediation services	56	0500000US38059	30.0	0.0	0.0
+67049	38059	38	59	Morton County	61	Educational services	61	0500000US38059	7.0	158.0	1929.0
+67050	38059	38	59	Morton County	62	Health care and social assistance	62	0500000US38059	65.0	1615.0	48756.0
+67051	38059	38	59	Morton County	71	Arts, entertainment, and recreation	71	0500000US38059	12.0	160.0	1865.0
+67052	38059	38	59	Morton County	72	Accommodation and food services	72	0500000US38059	51.0	715.0	8937.0
+67053	38059	38	59	Morton County	81	Other services (except public administration)	81	0500000US38059	89.0	443.0	11539.0
+67054	38059	38	59	Morton County	99	Industries not classified	99	0500000US38059	1.0	0.0	0.0
+67056	38059	38	59	Morton County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38059	3.6666666666666665	7.166666666666667	544.0
+67057	38059	38	59	Morton County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38059	6.25	96.25	7558.625
+67058	38059	38	59	Morton County, North Dakota	22	Utilities	22	0500000US38059	6.0	84.125	8651.75
+67059	38059	38	59	Morton County, North Dakota	23	Construction	23	0500000US38059	135.125	663.125	41585.0
+67060	38059	38	59	Morton County, North Dakota	42	Wholesale trade	42	0500000US38059	46.75	442.125	21501.5
+67061	38059	38	59	Morton County, North Dakota	51	Information	51	0500000US38059	8.25	212.625	7425.75
+67062	38059	38	59	Morton County, North Dakota	52	Finance and insurance	52	0500000US38059	56.5	395.75	23643.375
+67063	38059	38	59	Morton County, North Dakota	53	Real estate and rental and leasing	53	0500000US38059	38.25	114.875	4626.125
+67064	38059	38	59	Morton County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38059	74.5	1068.875	73433.5
+67065	38059	38	59	Morton County, North Dakota	55	Management of companies and enterprises	55	0500000US38059	1.0	0.0	0.0
+67066	38059	38	59	Morton County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38059	39.625	250.75	10369.5
+67067	38059	38	59	Morton County, North Dakota	61	Educational services	61	0500000US38059	7.25	165.25	2237.625
+67068	38059	38	59	Morton County, North Dakota	62	Health care and social assistance	62	0500000US38059	66.125	1810.75	62656.125
+67069	38059	38	59	Morton County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38059	12.875	183.75	2301.5
+67070	38059	38	59	Morton County, North Dakota	72	Accommodation and food services	72	0500000US38059	56.375	756.25	11924.25
+67071	38059	38	59	Morton County, North Dakota	81	Other services (except public administration)	81	0500000US38059	97.75	462.375	14790.375
+67072	38059	38	59	Morton County, North Dakota	99	Industries not classified	99	0500000US38059	2.5	0.75	30.25
+67074	38061	38	61	Mountrail County	11	Agriculture, forestry, fishing and hunting	11	0500000US38061	3.0	0.0	0.0
+67075	38061	38	61	Mountrail County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38061	27.0	395.0	37367.0
+67076	38061	38	61	Mountrail County	22	Utilities	22	0500000US38061	3.0	0.0	0.0
+67077	38061	38	61	Mountrail County	23	Construction	23	0500000US38061	37.0	0.0	0.0
+67078	38061	38	61	Mountrail County	42	Wholesale trade	42	0500000US38061	13.0	161.0	10225.0
+67079	38061	38	61	Mountrail County	51	Information	51	0500000US38061	3.0	0.0	0.0
+67080	38061	38	61	Mountrail County	52	Finance and insurance	52	0500000US38061	24.0	0.0	4408.0
+67081	38061	38	61	Mountrail County	53	Real estate and rental and leasing	53	0500000US38061	5.0	0.0	197.0
+67082	38061	38	61	Mountrail County	54	Professional, scientific, and technical services	54	0500000US38061	19.0	45.0	3685.0
+67083	38061	38	61	Mountrail County	55	Management of companies and enterprises	55	0500000US38061	1.0	0.0	0.0
+67084	38061	38	61	Mountrail County	56	Administrative and support and waste management and remediation services	56	0500000US38061	11.0	0.0	8117.0
+67085	38061	38	61	Mountrail County	62	Health care and social assistance	62	0500000US38061	15.0	222.0	7997.0
+67086	38061	38	61	Mountrail County	71	Arts, entertainment, and recreation	71	0500000US38061	4.0	0.0	319.0
+67087	38061	38	61	Mountrail County	72	Accommodation and food services	72	0500000US38061	31.0	136.0	2251.0
+67088	38061	38	61	Mountrail County	81	Other services (except public administration)	81	0500000US38061	29.0	107.0	2684.0
+67089	38061	38	61	Mountrail County	99	Industries not classified	99	0500000US38061	1.0	0.0	0.0
+67091	38061	38	61	Mountrail County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38061	1.25	0.0	0.0
+67092	38061	38	61	Mountrail County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38061	35.75	700.75	63505.75
+67093	38061	38	61	Mountrail County, North Dakota	22	Utilities	22	0500000US38061	4.125	15.375	1504.5
+67094	38061	38	61	Mountrail County, North Dakota	23	Construction	23	0500000US38061	37.125	400.375	32248.875
+67095	38061	38	61	Mountrail County, North Dakota	42	Wholesale trade	42	0500000US38061	19.0	206.5	14076.625
+67096	38061	38	61	Mountrail County, North Dakota	51	Information	51	0500000US38061	3.625	29.5	2389.75
+67097	38061	38	61	Mountrail County, North Dakota	52	Finance and insurance	52	0500000US38061	23.625	69.25	5624.75
+67098	38061	38	61	Mountrail County, North Dakota	53	Real estate and rental and leasing	53	0500000US38061	7.625	15.625	453.5
+67099	38061	38	61	Mountrail County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38061	22.0	155.75	13068.75
+67100	38061	38	61	Mountrail County, North Dakota	55	Management of companies and enterprises	55	0500000US38061	1.0	0.0	0.0
+67101	38061	38	61	Mountrail County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38061	15.0	125.375	7740.25
+67102	38061	38	61	Mountrail County, North Dakota	62	Health care and social assistance	62	0500000US38061	14.125	247.125	8802.625
+67103	38061	38	61	Mountrail County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38061	5.0	15.375	376.5
+67104	38061	38	61	Mountrail County, North Dakota	72	Accommodation and food services	72	0500000US38061	39.5	298.375	6144.875
+67105	38061	38	61	Mountrail County, North Dakota	81	Other services (except public administration)	81	0500000US38061	34.75	202.875	8875.25
+67106	38061	38	61	Mountrail County, North Dakota	99	Industries not classified	99	0500000US38061	1.25	0.0	0.0
+67108	38063	38	63	Nelson County	11	Agriculture, forestry, fishing and hunting	11	0500000US38063	2.0	0.0	0.0
+67109	38063	38	63	Nelson County	23	Construction	23	0500000US38063	6.0	17.0	528.0
+67110	38063	38	63	Nelson County	42	Wholesale trade	42	0500000US38063	13.0	113.0	6327.0
+67111	38063	38	63	Nelson County	51	Information	51	0500000US38063	1.0	0.0	0.0
+67112	38063	38	63	Nelson County	52	Finance and insurance	52	0500000US38063	19.0	0.0	2850.0
+67113	38063	38	63	Nelson County	53	Real estate and rental and leasing	53	0500000US38063	4.0	0.0	0.0
+67114	38063	38	63	Nelson County	54	Professional, scientific, and technical services	54	0500000US38063	4.0	0.0	0.0
+67115	38063	38	63	Nelson County	56	Administrative and support and waste management and remediation services	56	0500000US38063	2.0	0.0	0.0
+67116	38063	38	63	Nelson County	62	Health care and social assistance	62	0500000US38063	10.0	282.0	5775.0
+67117	38063	38	63	Nelson County	71	Arts, entertainment, and recreation	71	0500000US38063	1.0	0.0	0.0
+67118	38063	38	63	Nelson County	72	Accommodation and food services	72	0500000US38063	14.0	85.0	784.0
+67119	38063	38	63	Nelson County	81	Other services (except public administration)	81	0500000US38063	21.0	0.0	722.0
+67121	38063	38	63	Nelson County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38063	2.2	0.0	0.0
+67122	38063	38	63	Nelson County, North Dakota	22	Utilities	22	0500000US38063	1.0	0.0	0.0
+67123	38063	38	63	Nelson County, North Dakota	23	Construction	23	0500000US38063	10.0	18.625	882.75
+67124	38063	38	63	Nelson County, North Dakota	42	Wholesale trade	42	0500000US38063	11.5	110.5	7690.5
+67125	38063	38	63	Nelson County, North Dakota	51	Information	51	0500000US38063	1.0	0.0	0.0
+67126	38063	38	63	Nelson County, North Dakota	52	Finance and insurance	52	0500000US38063	17.125	60.0	3156.5
+67127	38063	38	63	Nelson County, North Dakota	53	Real estate and rental and leasing	53	0500000US38063	3.0	6.375	57.25
+67128	38063	38	63	Nelson County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38063	3.125	6.25	376.875
+67129	38063	38	63	Nelson County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38063	2.2	0.8	7.8
+67130	38063	38	63	Nelson County, North Dakota	62	Health care and social assistance	62	0500000US38063	12.0	262.625	7044.625
+67131	38063	38	63	Nelson County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38063	1.0	0.0	0.0
+67132	38063	38	63	Nelson County, North Dakota	72	Accommodation and food services	72	0500000US38063	12.25	62.75	683.75
+67133	38063	38	63	Nelson County, North Dakota	81	Other services (except public administration)	81	0500000US38063	17.5	28.5	688.375
+67134	38063	38	63	Nelson County, North Dakota	99	Industries not classified	99	0500000US38063	1.5	0.0	0.0
+67136	38065	38	65	Oliver County	11	Agriculture, forestry, fishing and hunting	11	0500000US38065	1.0	0.0	0.0
+67137	38065	38	65	Oliver County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38065	2.0	0.0	0.0
+67138	38065	38	65	Oliver County	22	Utilities	22	0500000US38065	3.0	0.0	0.0
+67139	38065	38	65	Oliver County	23	Construction	23	0500000US38065	6.0	12.0	476.0
+67140	38065	38	65	Oliver County	42	Wholesale trade	42	0500000US38065	1.0	0.0	0.0
+67141	38065	38	65	Oliver County	52	Finance and insurance	52	0500000US38065	3.0	9.0	562.0
+67142	38065	38	65	Oliver County	54	Professional, scientific, and technical services	54	0500000US38065	3.0	0.0	0.0
+67143	38065	38	65	Oliver County	56	Administrative and support and waste management and remediation services	56	0500000US38065	1.0	0.0	0.0
+67144	38065	38	65	Oliver County	61	Educational services	61	0500000US38065	1.0	0.0	0.0
+67145	38065	38	65	Oliver County	62	Health care and social assistance	62	0500000US38065	4.0	0.0	426.0
+67146	38065	38	65	Oliver County	71	Arts, entertainment, and recreation	71	0500000US38065	3.0	0.0	0.0
+67147	38065	38	65	Oliver County	72	Accommodation and food services	72	0500000US38065	3.0	0.0	0.0
+67148	38065	38	65	Oliver County	81	Other services (except public administration)	81	0500000US38065	5.0	0.0	0.0
+67150	38065	38	65	Oliver County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38065	1.0	0.0	0.0
+67151	38065	38	65	Oliver County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38065	2.0	0.0	0.0
+67152	38065	38	65	Oliver County, North Dakota	22	Utilities	22	0500000US38065	3.875	80.25	8220.625
+67153	38065	38	65	Oliver County, North Dakota	23	Construction	23	0500000US38065	4.25	24.375	1382.0
+67154	38065	38	65	Oliver County, North Dakota	42	Wholesale trade	42	0500000US38065	1.25	0.0	0.0
+67155	38065	38	65	Oliver County, North Dakota	52	Finance and insurance	52	0500000US38065	2.75	5.625	355.125
+67156	38065	38	65	Oliver County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38065	2.5	3.1666666666666665	66.16666666666667
+67157	38065	38	65	Oliver County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38065	1.25	0.0	0.0
+67158	38065	38	65	Oliver County, North Dakota	61	Educational services	61	0500000US38065	1.0	0.0	0.0
+67159	38065	38	65	Oliver County, North Dakota	62	Health care and social assistance	62	0500000US38065	3.875	15.875	496.0
+67160	38065	38	65	Oliver County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38065	3.875	4.0	190.125
+67161	38065	38	65	Oliver County, North Dakota	72	Accommodation and food services	72	0500000US38065	1.75	0.0	14.25
+67162	38065	38	65	Oliver County, North Dakota	81	Other services (except public administration)	81	0500000US38065	6.375	14.5	95.0
+67164	38067	38	67	Pembina County	11	Agriculture, forestry, fishing and hunting	11	0500000US38067	6.0	4.0	216.0
+67165	38067	38	67	Pembina County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38067	1.0	0.0	0.0
+67166	38067	38	67	Pembina County	22	Utilities	22	0500000US38067	1.0	0.0	0.0
+67167	38067	38	67	Pembina County	23	Construction	23	0500000US38067	27.0	119.0	11146.0
+67168	38067	38	67	Pembina County	42	Wholesale trade	42	0500000US38067	36.0	647.0	29267.0
+67169	38067	38	67	Pembina County	51	Information	51	0500000US38067	4.0	0.0	0.0
+67170	38067	38	67	Pembina County	52	Finance and insurance	52	0500000US38067	21.0	127.0	5361.0
+67171	38067	38	67	Pembina County	53	Real estate and rental and leasing	53	0500000US38067	3.0	1.0	21.0
+67172	38067	38	67	Pembina County	54	Professional, scientific, and technical services	54	0500000US38067	14.0	0.0	830.0
+67173	38067	38	67	Pembina County	56	Administrative and support and waste management and remediation services	56	0500000US38067	10.0	0.0	0.0
+67174	38067	38	67	Pembina County	62	Health care and social assistance	62	0500000US38067	16.0	0.0	0.0
+67175	38067	38	67	Pembina County	71	Arts, entertainment, and recreation	71	0500000US38067	11.0	0.0	355.0
+67176	38067	38	67	Pembina County	72	Accommodation and food services	72	0500000US38067	20.0	152.0	1401.0
+67177	38067	38	67	Pembina County	81	Other services (except public administration)	81	0500000US38067	34.0	88.0	1220.0
+67179	38067	38	67	Pembina County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38067	4.75	6.0	268.75
+67180	38067	38	67	Pembina County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38067	1.0	0.0	0.0
+67181	38067	38	67	Pembina County, North Dakota	22	Utilities	22	0500000US38067	1.25	0.0	0.0
+67182	38067	38	67	Pembina County, North Dakota	23	Construction	23	0500000US38067	26.375	125.25	13230.5
+67183	38067	38	67	Pembina County, North Dakota	42	Wholesale trade	42	0500000US38067	36.75	396.125	18158.0
+67184	38067	38	67	Pembina County, North Dakota	51	Information	51	0500000US38067	3.75	3.125	102.0
+67185	38067	38	67	Pembina County, North Dakota	52	Finance and insurance	52	0500000US38067	19.125	117.625	5945.875
+67186	38067	38	67	Pembina County, North Dakota	53	Real estate and rental and leasing	53	0500000US38067	2.5	1.1666666666666667	26.666666666666668
+67187	38067	38	67	Pembina County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38067	14.0	30.625	1225.75
+67188	38067	38	67	Pembina County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38067	9.125	19.125	530.625
+67189	38067	38	67	Pembina County, North Dakota	62	Health care and social assistance	62	0500000US38067	17.375	277.75	7771.5
+67190	38067	38	67	Pembina County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38067	10.875	35.0	375.5
+67191	38067	38	67	Pembina County, North Dakota	72	Accommodation and food services	72	0500000US38067	15.5	96.875	938.5
+67192	38067	38	67	Pembina County, North Dakota	81	Other services (except public administration)	81	0500000US38067	30.25	69.625	1383.125
+67193	38067	38	67	Pembina County, North Dakota	99	Industries not classified	99	0500000US38067	1.0	0.0	0.0
+67195	38069	38	69	Pierce County	11	Agriculture, forestry, fishing and hunting	11	0500000US38069	2.0	0.0	0.0
+67196	38069	38	69	Pierce County	22	Utilities	22	0500000US38069	2.0	0.0	0.0
+67197	38069	38	69	Pierce County	23	Construction	23	0500000US38069	19.0	58.0	2421.0
+67198	38069	38	69	Pierce County	42	Wholesale trade	42	0500000US38069	12.0	0.0	5852.0
+67199	38069	38	69	Pierce County	51	Information	51	0500000US38069	5.0	21.0	390.0
+67200	38069	38	69	Pierce County	52	Finance and insurance	52	0500000US38069	16.0	0.0	3595.0
+67201	38069	38	69	Pierce County	53	Real estate and rental and leasing	53	0500000US38069	2.0	0.0	0.0
+67202	38069	38	69	Pierce County	54	Professional, scientific, and technical services	54	0500000US38069	13.0	0.0	1246.0
+67203	38069	38	69	Pierce County	56	Administrative and support and waste management and remediation services	56	0500000US38069	5.0	56.0	886.0
+67204	38069	38	69	Pierce County	61	Educational services	61	0500000US38069	4.0	0.0	418.0
+67205	38069	38	69	Pierce County	62	Health care and social assistance	62	0500000US38069	9.0	0.0	0.0
+67206	38069	38	69	Pierce County	71	Arts, entertainment, and recreation	71	0500000US38069	5.0	0.0	294.0
+67207	38069	38	69	Pierce County	72	Accommodation and food services	72	0500000US38069	12.0	139.0	1503.0
+67208	38069	38	69	Pierce County	81	Other services (except public administration)	81	0500000US38069	21.0	0.0	1337.0
+67210	38069	38	69	Pierce County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38069	2.5	2.625	177.375
+67211	38069	38	69	Pierce County, North Dakota	22	Utilities	22	0500000US38069	2.5	12.875	1089.625
+67212	38069	38	69	Pierce County, North Dakota	23	Construction	23	0500000US38069	21.875	51.125	2787.0
+67213	38069	38	69	Pierce County, North Dakota	42	Wholesale trade	42	0500000US38069	15.125	156.375	8436.5
+67214	38069	38	69	Pierce County, North Dakota	51	Information	51	0500000US38069	3.0	9.5	164.5
+67215	38069	38	69	Pierce County, North Dakota	52	Finance and insurance	52	0500000US38069	15.375	65.0	4349.125
+67216	38069	38	69	Pierce County, North Dakota	53	Real estate and rental and leasing	53	0500000US38069	2.4285714285714284	1.5714285714285714	18.857142857142858
+67217	38069	38	69	Pierce County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38069	11.875	53.25	2171.5
+67218	38069	38	69	Pierce County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38069	4.75	29.75	708.375
+67219	38069	38	69	Pierce County, North Dakota	61	Educational services	61	0500000US38069	4.75	28.375	511.75
+67220	38069	38	69	Pierce County, North Dakota	62	Health care and social assistance	62	0500000US38069	9.375	132.75	5140.875
+67221	38069	38	69	Pierce County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38069	5.0	19.25	431.625
+67222	38069	38	69	Pierce County, North Dakota	72	Accommodation and food services	72	0500000US38069	14.375	123.5	1659.5
+67223	38069	38	69	Pierce County, North Dakota	81	Other services (except public administration)	81	0500000US38069	20.5	77.875	1518.125
+67225	38071	38	71	Ramsey County	11	Agriculture, forestry, fishing and hunting	11	0500000US38071	5.0	18.0	1208.0
+67226	38071	38	71	Ramsey County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38071	1.0	0.0	0.0
+67227	38071	38	71	Ramsey County	22	Utilities	22	0500000US38071	2.0	0.0	0.0
+67228	38071	38	71	Ramsey County	23	Construction	23	0500000US38071	53.0	235.0	8283.0
+67229	38071	38	71	Ramsey County	42	Wholesale trade	42	0500000US38071	33.0	246.0	12378.0
+67230	38071	38	71	Ramsey County	51	Information	51	0500000US38071	5.0	155.0	7195.0
+67231	38071	38	71	Ramsey County	52	Finance and insurance	52	0500000US38071	32.0	250.0	11236.0
+67232	38071	38	71	Ramsey County	53	Real estate and rental and leasing	53	0500000US38071	6.0	0.0	0.0
+67233	38071	38	71	Ramsey County	54	Professional, scientific, and technical services	54	0500000US38071	19.0	61.0	2347.0
+67234	38071	38	71	Ramsey County	55	Management of companies and enterprises	55	0500000US38071	2.0	0.0	0.0
+67235	38071	38	71	Ramsey County	56	Administrative and support and waste management and remediation services	56	0500000US38071	14.0	100.0	2382.0
+67236	38071	38	71	Ramsey County	61	Educational services	61	0500000US38071	2.0	0.0	0.0
+67237	38071	38	71	Ramsey County	62	Health care and social assistance	62	0500000US38071	42.0	884.0	25839.0
+67238	38071	38	71	Ramsey County	71	Arts, entertainment, and recreation	71	0500000US38071	10.0	0.0	0.0
+67239	38071	38	71	Ramsey County	72	Accommodation and food services	72	0500000US38071	47.0	641.0	7953.0
+67240	38071	38	71	Ramsey County	81	Other services (except public administration)	81	0500000US38071	37.0	145.0	2694.0
+67242	38071	38	71	Ramsey County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38071	5.5	17.875	1352.0
+67243	38071	38	71	Ramsey County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38071	1.0	0.0	0.0
+67244	38071	38	71	Ramsey County, North Dakota	22	Utilities	22	0500000US38071	2.625	28.375	2676.25
+67245	38071	38	71	Ramsey County, North Dakota	23	Construction	23	0500000US38071	49.125	170.25	7357.0
+67246	38071	38	71	Ramsey County, North Dakota	42	Wholesale trade	42	0500000US38071	33.0	335.375	18404.125
+67247	38071	38	71	Ramsey County, North Dakota	51	Information	51	0500000US38071	5.5	129.0	6446.25
+67248	38071	38	71	Ramsey County, North Dakota	52	Finance and insurance	52	0500000US38071	32.0	287.0	17155.125
+67249	38071	38	71	Ramsey County, North Dakota	53	Real estate and rental and leasing	53	0500000US38071	7.875	97.625	2967.625
+67250	38071	38	71	Ramsey County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38071	18.625	66.0	2734.75
+67251	38071	38	71	Ramsey County, North Dakota	55	Management of companies and enterprises	55	0500000US38071	2.0	0.0	0.0
+67252	38071	38	71	Ramsey County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38071	16.75	81.875	2896.125
+67253	38071	38	71	Ramsey County, North Dakota	61	Educational services	61	0500000US38071	4.125	19.375	357.375
+67254	38071	38	71	Ramsey County, North Dakota	62	Health care and social assistance	62	0500000US38071	52.75	811.75	30905.75
+67255	38071	38	71	Ramsey County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38071	9.125	35.375	932.75
+67256	38071	38	71	Ramsey County, North Dakota	72	Accommodation and food services	72	0500000US38071	50.125	815.625	13118.625
+67257	38071	38	71	Ramsey County, North Dakota	81	Other services (except public administration)	81	0500000US38071	41.0	148.75	3137.375
+67258	38071	38	71	Ramsey County, North Dakota	99	Industries not classified	99	0500000US38071	2.0	0.0	0.0
+67260	38073	38	73	Ransom County	11	Agriculture, forestry, fishing and hunting	11	0500000US38073	3.0	0.0	0.0
+67261	38073	38	73	Ransom County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38073	2.0	0.0	0.0
+67262	38073	38	73	Ransom County	22	Utilities	22	0500000US38073	1.0	0.0	0.0
+67263	38073	38	73	Ransom County	23	Construction	23	0500000US38073	18.0	0.0	0.0
+67264	38073	38	73	Ransom County	42	Wholesale trade	42	0500000US38073	11.0	0.0	7539.0
+67265	38073	38	73	Ransom County	51	Information	51	0500000US38073	1.0	0.0	0.0
+67266	38073	38	73	Ransom County	52	Finance and insurance	52	0500000US38073	16.0	0.0	0.0
+67267	38073	38	73	Ransom County	53	Real estate and rental and leasing	53	0500000US38073	4.0	0.0	0.0
+67268	38073	38	73	Ransom County	54	Professional, scientific, and technical services	54	0500000US38073	15.0	0.0	1312.0
+67269	38073	38	73	Ransom County	56	Administrative and support and waste management and remediation services	56	0500000US38073	2.0	0.0	0.0
+67270	38073	38	73	Ransom County	62	Health care and social assistance	62	0500000US38073	24.0	403.0	11601.0
+67271	38073	38	73	Ransom County	71	Arts, entertainment, and recreation	71	0500000US38073	1.0	0.0	0.0
+67272	38073	38	73	Ransom County	72	Accommodation and food services	72	0500000US38073	20.0	129.0	1293.0
+67273	38073	38	73	Ransom County	81	Other services (except public administration)	81	0500000US38073	32.0	129.0	1611.0
+67275	38073	38	73	Ransom County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38073	2.0	0.0	0.0
+67276	38073	38	73	Ransom County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38073	1.0	0.0	0.0
+67277	38073	38	73	Ransom County, North Dakota	22	Utilities	22	0500000US38073	1.0	0.0	0.0
+67278	38073	38	73	Ransom County, North Dakota	23	Construction	23	0500000US38073	17.75	36.375	2188.0
+67279	38073	38	73	Ransom County, North Dakota	42	Wholesale trade	42	0500000US38073	13.625	131.875	8880.875
+67280	38073	38	73	Ransom County, North Dakota	51	Information	51	0500000US38073	1.0	0.0	0.0
+67281	38073	38	73	Ransom County, North Dakota	52	Finance and insurance	52	0500000US38073	13.5	55.375	2897.0
+67282	38073	38	73	Ransom County, North Dakota	53	Real estate and rental and leasing	53	0500000US38073	7.75	7.0	276.0
+67283	38073	38	73	Ransom County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38073	16.625	56.625	1680.0
+67284	38073	38	73	Ransom County, North Dakota	55	Management of companies and enterprises	55	0500000US38073	1.0	0.0	0.0
+67285	38073	38	73	Ransom County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38073	3.75	23.125	585.375
+67286	38073	38	73	Ransom County, North Dakota	61	Educational services	61	0500000US38073	1.0	0.0	0.0
+67287	38073	38	73	Ransom County, North Dakota	62	Health care and social assistance	62	0500000US38073	31.25	384.75	12898.25
+67288	38073	38	73	Ransom County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38073	2.0	1.6	44.2
+67289	38073	38	73	Ransom County, North Dakota	72	Accommodation and food services	72	0500000US38073	19.625	119.375	1236.25
+67290	38073	38	73	Ransom County, North Dakota	81	Other services (except public administration)	81	0500000US38073	26.75	123.875	1647.25
+67292	38075	38	75	Renville County	11	Agriculture, forestry, fishing and hunting	11	0500000US38075	2.0	0.0	0.0
+67293	38075	38	75	Renville County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38075	14.0	0.0	4745.0
+67294	38075	38	75	Renville County	22	Utilities	22	0500000US38075	2.0	0.0	0.0
+67295	38075	38	75	Renville County	23	Construction	23	0500000US38075	10.0	36.0	1306.0
+67296	38075	38	75	Renville County	42	Wholesale trade	42	0500000US38075	13.0	91.0	4583.0
+67297	38075	38	75	Renville County	51	Information	51	0500000US38075	1.0	0.0	0.0
+67298	38075	38	75	Renville County	52	Finance and insurance	52	0500000US38075	10.0	0.0	1096.0
+67299	38075	38	75	Renville County	53	Real estate and rental and leasing	53	0500000US38075	2.0	0.0	0.0
+67300	38075	38	75	Renville County	54	Professional, scientific, and technical services	54	0500000US38075	7.0	0.0	289.0
+67301	38075	38	75	Renville County	56	Administrative and support and waste management and remediation services	56	0500000US38075	3.0	0.0	0.0
+67302	38075	38	75	Renville County	61	Educational services	61	0500000US38075	1.0	0.0	0.0
+67303	38075	38	75	Renville County	62	Health care and social assistance	62	0500000US38075	7.0	0.0	0.0
+67304	38075	38	75	Renville County	71	Arts, entertainment, and recreation	71	0500000US38075	1.0	0.0	0.0
+67305	38075	38	75	Renville County	72	Accommodation and food services	72	0500000US38075	10.0	0.0	235.0
+67306	38075	38	75	Renville County	81	Other services (except public administration)	81	0500000US38075	4.0	0.0	168.0
+67307	38075	38	75	Renville County	99	Industries not classified	99	0500000US38075	1.0	0.0	0.0
+67309	38075	38	75	Renville County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38075	2.0	0.0	0.0
+67310	38075	38	75	Renville County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38075	13.0	30.0	3114.75
+67311	38075	38	75	Renville County, North Dakota	22	Utilities	22	0500000US38075	2.0	0.0	0.0
+67312	38075	38	75	Renville County, North Dakota	23	Construction	23	0500000US38075	10.875	30.375	1527.25
+67313	38075	38	75	Renville County, North Dakota	42	Wholesale trade	42	0500000US38075	12.875	78.625	5648.75
+67314	38075	38	75	Renville County, North Dakota	51	Information	51	0500000US38075	1.75	0.0	0.0
+67315	38075	38	75	Renville County, North Dakota	52	Finance and insurance	52	0500000US38075	9.375	23.625	1430.25
+67316	38075	38	75	Renville County, North Dakota	53	Real estate and rental and leasing	53	0500000US38075	2.5	2.5	71.5
+67317	38075	38	75	Renville County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38075	6.375	9.75	322.0
+67318	38075	38	75	Renville County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38075	3.25	3.5	134.0
+67319	38075	38	75	Renville County, North Dakota	61	Educational services	61	0500000US38075	1.0	0.0	0.0
+67320	38075	38	75	Renville County, North Dakota	62	Health care and social assistance	62	0500000US38075	6.25	57.75	1476.375
+67321	38075	38	75	Renville County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38075	1.5	0.0	0.0
+67322	38075	38	75	Renville County, North Dakota	72	Accommodation and food services	72	0500000US38075	12.0	35.125	445.125
+67323	38075	38	75	Renville County, North Dakota	81	Other services (except public administration)	81	0500000US38075	6.25	10.125	381.125
+67324	38075	38	75	Renville County, North Dakota	99	Industries not classified	99	0500000US38075	1.0	0.0	0.0
+67326	38077	38	77	Richland County	11	Agriculture, forestry, fishing and hunting	11	0500000US38077	5.0	0.0	0.0
+67327	38077	38	77	Richland County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38077	2.0	0.0	0.0
+67328	38077	38	77	Richland County	22	Utilities	22	0500000US38077	2.0	0.0	0.0
+67329	38077	38	77	Richland County	23	Construction	23	0500000US38077	78.0	356.0	16004.0
+67330	38077	38	77	Richland County	42	Wholesale trade	42	0500000US38077	37.0	204.0	9781.0
+67331	38077	38	77	Richland County	51	Information	51	0500000US38077	4.0	0.0	0.0
+67332	38077	38	77	Richland County	52	Finance and insurance	52	0500000US38077	32.0	154.0	7717.0
+67333	38077	38	77	Richland County	53	Real estate and rental and leasing	53	0500000US38077	18.0	50.0	1072.0
+67334	38077	38	77	Richland County	54	Professional, scientific, and technical services	54	0500000US38077	31.0	199.0	9403.0
+67335	38077	38	77	Richland County	55	Management of companies and enterprises	55	0500000US38077	1.0	0.0	0.0
+67336	38077	38	77	Richland County	56	Administrative and support and waste management and remediation services	56	0500000US38077	15.0	96.0	1995.0
+67337	38077	38	77	Richland County	61	Educational services	61	0500000US38077	5.0	0.0	0.0
+67338	38077	38	77	Richland County	62	Health care and social assistance	62	0500000US38077	44.0	620.0	19596.0
+67339	38077	38	77	Richland County	71	Arts, entertainment, and recreation	71	0500000US38077	10.0	0.0	687.0
+67340	38077	38	77	Richland County	72	Accommodation and food services	72	0500000US38077	47.0	854.0	15913.0
+67341	38077	38	77	Richland County	81	Other services (except public administration)	81	0500000US38077	69.0	275.0	4788.0
+67343	38077	38	77	Richland County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38077	3.4285714285714284	19.142857142857142	1157.2857142857142
+67344	38077	38	77	Richland County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38077	2.3333333333333335	2.1666666666666665	208.66666666666666
+67345	38077	38	77	Richland County, North Dakota	22	Utilities	22	0500000US38077	2.0	0.0	0.0
+67346	38077	38	77	Richland County, North Dakota	23	Construction	23	0500000US38077	75.5	395.625	18657.75
+67347	38077	38	77	Richland County, North Dakota	42	Wholesale trade	42	0500000US38077	39.5	254.375	14319.625
+67348	38077	38	77	Richland County, North Dakota	51	Information	51	0500000US38077	3.2	7.2	482.2
+67349	38077	38	77	Richland County, North Dakota	52	Finance and insurance	52	0500000US38077	38.5	198.125	10581.5
+67350	38077	38	77	Richland County, North Dakota	53	Real estate and rental and leasing	53	0500000US38077	13.25	39.125	1010.0
+67351	38077	38	77	Richland County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38077	28.5	145.375	6407.75
+67352	38077	38	77	Richland County, North Dakota	55	Management of companies and enterprises	55	0500000US38077	1.0	0.0	0.0
+67353	38077	38	77	Richland County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38077	18.0	127.125	4200.0
+67354	38077	38	77	Richland County, North Dakota	61	Educational services	61	0500000US38077	3.75	60.75	1401.75
+67355	38077	38	77	Richland County, North Dakota	62	Health care and social assistance	62	0500000US38077	44.875	632.25	22590.5
+67356	38077	38	77	Richland County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38077	9.5	21.0	551.75
+67357	38077	38	77	Richland County, North Dakota	72	Accommodation and food services	72	0500000US38077	41.625	903.25	18731.0
+67358	38077	38	77	Richland County, North Dakota	81	Other services (except public administration)	81	0500000US38077	64.0	252.625	4946.0
+67359	38077	38	77	Richland County, North Dakota	99	Industries not classified	99	0500000US38077	1.6666666666666667	0.6666666666666666	7.0
+67361	38079	38	79	Rolette County	11	Agriculture, forestry, fishing and hunting	11	0500000US38079	1.0	0.0	0.0
+67362	38079	38	79	Rolette County	23	Construction	23	0500000US38079	29.0	107.0	2991.0
+67363	38079	38	79	Rolette County	42	Wholesale trade	42	0500000US38079	8.0	0.0	3102.0
+67364	38079	38	79	Rolette County	51	Information	51	0500000US38079	6.0	0.0	0.0
+67365	38079	38	79	Rolette County	52	Finance and insurance	52	0500000US38079	15.0	0.0	3096.0
+67366	38079	38	79	Rolette County	53	Real estate and rental and leasing	53	0500000US38079	2.0	0.0	0.0
+67367	38079	38	79	Rolette County	54	Professional, scientific, and technical services	54	0500000US38079	6.0	0.0	268.0
+67368	38079	38	79	Rolette County	56	Administrative and support and waste management and remediation services	56	0500000US38079	9.0	96.0	1217.0
+67369	38079	38	79	Rolette County	61	Educational services	61	0500000US38079	1.0	0.0	0.0
+67370	38079	38	79	Rolette County	62	Health care and social assistance	62	0500000US38079	23.0	537.0	23674.0
+67371	38079	38	79	Rolette County	71	Arts, entertainment, and recreation	71	0500000US38079	3.0	0.0	359.0
+67372	38079	38	79	Rolette County	72	Accommodation and food services	72	0500000US38079	26.0	0.0	0.0
+67373	38079	38	79	Rolette County	81	Other services (except public administration)	81	0500000US38079	15.0	49.0	700.0
+67375	38079	38	79	Rolette County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38079	1.0	0.0	0.0
+67376	38079	38	79	Rolette County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38079	1.0	0.0	0.0
+67377	38079	38	79	Rolette County, North Dakota	22	Utilities	22	0500000US38079	1.0	0.0	0.0
+67378	38079	38	79	Rolette County, North Dakota	23	Construction	23	0500000US38079	29.875	148.0	4866.625
+67379	38079	38	79	Rolette County, North Dakota	42	Wholesale trade	42	0500000US38079	9.375	37.875	2013.375
+67380	38079	38	79	Rolette County, North Dakota	51	Information	51	0500000US38079	5.0	40.875	1007.25
+67381	38079	38	79	Rolette County, North Dakota	52	Finance and insurance	52	0500000US38079	14.0	105.75	4651.125
+67382	38079	38	79	Rolette County, North Dakota	53	Real estate and rental and leasing	53	0500000US38079	2.25	0.75	2.0
+67383	38079	38	79	Rolette County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38079	6.875	25.875	395.0
+67384	38079	38	79	Rolette County, North Dakota	55	Management of companies and enterprises	55	0500000US38079	1.0	0.0	0.0
+67385	38079	38	79	Rolette County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38079	5.5	64.625	805.375
+67386	38079	38	79	Rolette County, North Dakota	61	Educational services	61	0500000US38079	1.0	0.0	0.0
+67387	38079	38	79	Rolette County, North Dakota	62	Health care and social assistance	62	0500000US38079	21.0	585.25	34852.875
+67388	38079	38	79	Rolette County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38079	5.25	13.125	422.625
+67389	38079	38	79	Rolette County, North Dakota	72	Accommodation and food services	72	0500000US38079	23.125	393.625	8409.25
+67390	38079	38	79	Rolette County, North Dakota	81	Other services (except public administration)	81	0500000US38079	15.875	43.375	765.5
+67392	38081	38	81	Sargent County	11	Agriculture, forestry, fishing and hunting	11	0500000US38081	2.0	0.0	0.0
+67393	38081	38	81	Sargent County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38081	1.0	0.0	0.0
+67394	38081	38	81	Sargent County	22	Utilities	22	0500000US38081	1.0	0.0	0.0
+67395	38081	38	81	Sargent County	23	Construction	23	0500000US38081	14.0	0.0	3433.0
+67396	38081	38	81	Sargent County	42	Wholesale trade	42	0500000US38081	12.0	73.0	2846.0
+67397	38081	38	81	Sargent County	51	Information	51	0500000US38081	1.0	0.0	0.0
+67398	38081	38	81	Sargent County	52	Finance and insurance	52	0500000US38081	9.0	48.0	1836.0
+67399	38081	38	81	Sargent County	53	Real estate and rental and leasing	53	0500000US38081	4.0	0.0	50.0
+67400	38081	38	81	Sargent County	54	Professional, scientific, and technical services	54	0500000US38081	9.0	35.0	1454.0
+67401	38081	38	81	Sargent County	56	Administrative and support and waste management and remediation services	56	0500000US38081	3.0	0.0	0.0
+67402	38081	38	81	Sargent County	61	Educational services	61	0500000US38081	1.0	0.0	0.0
+67403	38081	38	81	Sargent County	62	Health care and social assistance	62	0500000US38081	7.0	64.0	1771.0
+67404	38081	38	81	Sargent County	71	Arts, entertainment, and recreation	71	0500000US38081	2.0	0.0	0.0
+67405	38081	38	81	Sargent County	72	Accommodation and food services	72	0500000US38081	14.0	48.0	468.0
+67406	38081	38	81	Sargent County	81	Other services (except public administration)	81	0500000US38081	14.0	0.0	989.0
+67408	38081	38	81	Sargent County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38081	1.75	0.0	0.0
+67409	38081	38	81	Sargent County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38081	1.0	0.0	0.0
+67410	38081	38	81	Sargent County, North Dakota	22	Utilities	22	0500000US38081	1.0	0.0	0.0
+67411	38081	38	81	Sargent County, North Dakota	23	Construction	23	0500000US38081	12.0	57.5	3926.125
+67412	38081	38	81	Sargent County, North Dakota	42	Wholesale trade	42	0500000US38081	13.25	92.5	5210.125
+67413	38081	38	81	Sargent County, North Dakota	51	Information	51	0500000US38081	1.0	0.0	0.0
+67414	38081	38	81	Sargent County, North Dakota	52	Finance and insurance	52	0500000US38081	8.5	42.75	1973.5
+67415	38081	38	81	Sargent County, North Dakota	53	Real estate and rental and leasing	53	0500000US38081	3.125	4.125	50.5
+67416	38081	38	81	Sargent County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38081	6.75	14.5	787.875
+67417	38081	38	81	Sargent County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38081	4.428571428571429	10.285714285714286	411.14285714285717
+67418	38081	38	81	Sargent County, North Dakota	62	Health care and social assistance	62	0500000US38081	9.125	77.375	2412.375
+67419	38081	38	81	Sargent County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38081	3.625	14.125	194.625
+67420	38081	38	81	Sargent County, North Dakota	72	Accommodation and food services	72	0500000US38081	12.75	39.375	588.125
+67421	38081	38	81	Sargent County, North Dakota	81	Other services (except public administration)	81	0500000US38081	11.875	32.0	1268.75
+67423	38083	38	83	Sheridan County	11	Agriculture, forestry, fishing and hunting	11	0500000US38083	1.0	0.0	0.0
+67424	38083	38	83	Sheridan County	23	Construction	23	0500000US38083	1.0	0.0	0.0
+67425	38083	38	83	Sheridan County	42	Wholesale trade	42	0500000US38083	3.0	0.0	0.0
+67426	38083	38	83	Sheridan County	52	Finance and insurance	52	0500000US38083	5.0	0.0	0.0
+67427	38083	38	83	Sheridan County	53	Real estate and rental and leasing	53	0500000US38083	2.0	0.0	0.0
+67428	38083	38	83	Sheridan County	54	Professional, scientific, and technical services	54	0500000US38083	4.0	0.0	0.0
+67429	38083	38	83	Sheridan County	55	Management of companies and enterprises	55	0500000US38083	1.0	0.0	0.0
+67430	38083	38	83	Sheridan County	62	Health care and social assistance	62	0500000US38083	2.0	0.0	0.0
+67431	38083	38	83	Sheridan County	72	Accommodation and food services	72	0500000US38083	2.0	0.0	0.0
+67432	38083	38	83	Sheridan County	81	Other services (except public administration)	81	0500000US38083	8.0	0.0	0.0
+67433	38083	38	83	Sheridan County	99	Industries not classified	99	0500000US38083	1.0	0.0	0.0
+67435	38083	38	83	Sheridan County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38083	1.0	0.0	0.0
+67436	38083	38	83	Sheridan County, North Dakota	23	Construction	23	0500000US38083	4.0	2.75	201.875
+67437	38083	38	83	Sheridan County, North Dakota	42	Wholesale trade	42	0500000US38083	2.5	0.0	0.0
+67438	38083	38	83	Sheridan County, North Dakota	52	Finance and insurance	52	0500000US38083	4.25	8.5	274.5
+67439	38083	38	83	Sheridan County, North Dakota	53	Real estate and rental and leasing	53	0500000US38083	1.75	0.0	0.0
+67440	38083	38	83	Sheridan County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38083	3.875	5.5	232.125
+67441	38083	38	83	Sheridan County, North Dakota	62	Health care and social assistance	62	0500000US38083	3.0	21.875	592.5
+67442	38083	38	83	Sheridan County, North Dakota	72	Accommodation and food services	72	0500000US38083	2.5	10.333333333333334	99.5
+67443	38083	38	83	Sheridan County, North Dakota	81	Other services (except public administration)	81	0500000US38083	8.25	10.875	219.625
+67445	38085	38	85	Sioux County	52	Finance and insurance	52	0500000US38085	1.0	0.0	0.0
+67446	38085	38	85	Sioux County	54	Professional, scientific, and technical services	54	0500000US38085	2.0	0.0	0.0
+67447	38085	38	85	Sioux County	56	Administrative and support and waste management and remediation services	56	0500000US38085	1.0	0.0	0.0
+67448	38085	38	85	Sioux County	61	Educational services	61	0500000US38085	2.0	0.0	0.0
+67449	38085	38	85	Sioux County	62	Health care and social assistance	62	0500000US38085	1.0	0.0	0.0
+67450	38085	38	85	Sioux County	72	Accommodation and food services	72	0500000US38085	6.0	0.0	0.0
+67451	38085	38	85	Sioux County	81	Other services (except public administration)	81	0500000US38085	3.0	0.0	0.0
+67453	38085	38	85	Sioux County, North Dakota	23	Construction	23	0500000US38085	1.5	2.75	38.25
+67454	38085	38	85	Sioux County, North Dakota	52	Finance and insurance	52	0500000US38085	1.6	0.0	0.0
+67455	38085	38	85	Sioux County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38085	2.3333333333333335	2.5	132.16666666666666
+67456	38085	38	85	Sioux County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38085	1.0	0.0	0.0
+67457	38085	38	85	Sioux County, North Dakota	61	Educational services	61	0500000US38085	2.0	0.0	0.0
+67458	38085	38	85	Sioux County, North Dakota	62	Health care and social assistance	62	0500000US38085	2.625	23.625	701.25
+67459	38085	38	85	Sioux County, North Dakota	72	Accommodation and food services	72	0500000US38085	6.0	152.25	4401.875
+67460	38085	38	85	Sioux County, North Dakota	81	Other services (except public administration)	81	0500000US38085	4.0	18.625	470.125
+67462	38087	38	87	Slope County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38087	2.0	0.0	0.0
+67463	38087	38	87	Slope County	23	Construction	23	0500000US38087	4.0	0.0	0.0
+67464	38087	38	87	Slope County	56	Administrative and support and waste management and remediation services	56	0500000US38087	3.0	0.0	0.0
+67465	38087	38	87	Slope County	72	Accommodation and food services	72	0500000US38087	1.0	0.0	0.0
+67466	38087	38	87	Slope County	81	Other services (except public administration)	81	0500000US38087	1.0	0.0	0.0
+67468	38087	38	87	Slope County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38087	2.3333333333333335	13.166666666666666	968.3333333333334
+67469	38087	38	87	Slope County, North Dakota	23	Construction	23	0500000US38087	3.5	0.3333333333333333	8.166666666666666
+67470	38087	38	87	Slope County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38087	2.857142857142857	1.7142857142857142	13.857142857142858
+67471	38087	38	87	Slope County, North Dakota	62	Health care and social assistance	62	0500000US38087	1.0	0.0	0.0
+67472	38087	38	87	Slope County, North Dakota	72	Accommodation and food services	72	0500000US38087	1.5	0.0	0.0
+67473	38087	38	87	Slope County, North Dakota	81	Other services (except public administration)	81	0500000US38087	1.0	0.0	0.0
+67475	38089	38	89	Stark County	11	Agriculture, forestry, fishing and hunting	11	0500000US38089	5.0	0.0	0.0
+67476	38089	38	89	Stark County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38089	67.0	1827.0	187552.0
+67477	38089	38	89	Stark County	22	Utilities	22	0500000US38089	2.0	0.0	0.0
+67478	38089	38	89	Stark County	23	Construction	23	0500000US38089	158.0	1228.0	84149.0
+67479	38089	38	89	Stark County	42	Wholesale trade	42	0500000US38089	66.0	993.0	60526.0
+67480	38089	38	89	Stark County	51	Information	51	0500000US38089	14.0	249.0	12088.0
+67481	38089	38	89	Stark County	52	Finance and insurance	52	0500000US38089	68.0	443.0	21276.0
+67482	38089	38	89	Stark County	53	Real estate and rental and leasing	53	0500000US38089	42.0	227.0	12082.0
+67483	38089	38	89	Stark County	54	Professional, scientific, and technical services	54	0500000US38089	70.0	408.0	23079.0
+67484	38089	38	89	Stark County	55	Management of companies and enterprises	55	0500000US38089	3.0	24.0	2026.0
+67485	38089	38	89	Stark County	56	Administrative and support and waste management and remediation services	56	0500000US38089	54.0	353.0	14693.0
+67486	38089	38	89	Stark County	61	Educational services	61	0500000US38089	8.0	142.0	2514.0
+67487	38089	38	89	Stark County	62	Health care and social assistance	62	0500000US38089	90.0	1902.0	60505.0
+67488	38089	38	89	Stark County	71	Arts, entertainment, and recreation	71	0500000US38089	18.0	0.0	1991.0
+67489	38089	38	89	Stark County	72	Accommodation and food services	72	0500000US38089	80.0	1468.0	26108.0
+67490	38089	38	89	Stark County	81	Other services (except public administration)	81	0500000US38089	100.0	608.0	19450.0
+67492	38089	38	89	Stark County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38089	5.5	11.0	355.625
+67493	38089	38	89	Stark County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38089	68.25	2148.25	206087.125
+67494	38089	38	89	Stark County, North Dakota	22	Utilities	22	0500000US38089	2.625	51.0	4786.25
+67495	38089	38	89	Stark County, North Dakota	23	Construction	23	0500000US38089	151.125	1258.625	101006.25
+67496	38089	38	89	Stark County, North Dakota	42	Wholesale trade	42	0500000US38089	75.875	949.875	61826.25
+67497	38089	38	89	Stark County, North Dakota	51	Information	51	0500000US38089	13.5	226.5	13000.25
+67498	38089	38	89	Stark County, North Dakota	52	Finance and insurance	52	0500000US38089	60.5	418.5	24271.125
+67499	38089	38	89	Stark County, North Dakota	53	Real estate and rental and leasing	53	0500000US38089	50.0	244.25	14054.375
+67500	38089	38	89	Stark County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38089	84.0	515.75	31514.125
+67501	38089	38	89	Stark County, North Dakota	55	Management of companies and enterprises	55	0500000US38089	7.25	289.25	25312.25
+67502	38089	38	89	Stark County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38089	57.125	391.0	13940.625
+67503	38089	38	89	Stark County, North Dakota	61	Educational services	61	0500000US38089	9.875	154.125	3594.5
+67504	38089	38	89	Stark County, North Dakota	62	Health care and social assistance	62	0500000US38089	91.875	2088.5	77187.0
+67505	38089	38	89	Stark County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38089	19.0	169.75	2608.625
+67506	38089	38	89	Stark County, North Dakota	72	Accommodation and food services	72	0500000US38089	92.25	1535.75	30633.0
+67507	38089	38	89	Stark County, North Dakota	81	Other services (except public administration)	81	0500000US38089	114.25	654.25	26061.25
+67508	38089	38	89	Stark County, North Dakota	99	Industries not classified	99	0500000US38089	2.8	2.0	66.6
+67510	38091	38	91	Steele County	11	Agriculture, forestry, fishing and hunting	11	0500000US38091	1.0	0.0	0.0
+67511	38091	38	91	Steele County	22	Utilities	22	0500000US38091	1.0	0.0	0.0
+67512	38091	38	91	Steele County	23	Construction	23	0500000US38091	8.0	98.0	4425.0
+67513	38091	38	91	Steele County	42	Wholesale trade	42	0500000US38091	6.0	46.0	2407.0
+67514	38091	38	91	Steele County	52	Finance and insurance	52	0500000US38091	6.0	53.0	2647.0
+67515	38091	38	91	Steele County	53	Real estate and rental and leasing	53	0500000US38091	1.0	0.0	0.0
+67516	38091	38	91	Steele County	54	Professional, scientific, and technical services	54	0500000US38091	3.0	3.0	74.0
+67517	38091	38	91	Steele County	56	Administrative and support and waste management and remediation services	56	0500000US38091	1.0	0.0	0.0
+67518	38091	38	91	Steele County	62	Health care and social assistance	62	0500000US38091	1.0	0.0	0.0
+67519	38091	38	91	Steele County	71	Arts, entertainment, and recreation	71	0500000US38091	2.0	0.0	0.0
+67520	38091	38	91	Steele County	72	Accommodation and food services	72	0500000US38091	5.0	0.0	133.0
+67521	38091	38	91	Steele County	81	Other services (except public administration)	81	0500000US38091	6.0	0.0	239.0
+67523	38091	38	91	Steele County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38091	1.0	0.0	0.0
+67524	38091	38	91	Steele County, North Dakota	22	Utilities	22	0500000US38091	1.25	0.0	0.0
+67525	38091	38	91	Steele County, North Dakota	23	Construction	23	0500000US38091	9.0	89.625	6028.375
+67526	38091	38	91	Steele County, North Dakota	42	Wholesale trade	42	0500000US38091	4.375	47.375	3064.75
+67527	38091	38	91	Steele County, North Dakota	51	Information	51	0500000US38091	1.0	0.0	0.0
+67528	38091	38	91	Steele County, North Dakota	52	Finance and insurance	52	0500000US38091	6.0	47.875	2984.5
+67529	38091	38	91	Steele County, North Dakota	53	Real estate and rental and leasing	53	0500000US38091	2.0	0.0	0.0
+67530	38091	38	91	Steele County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38091	3.5	4.666666666666667	121.83333333333333
+67531	38091	38	91	Steele County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38091	1.0	0.0	0.0
+67532	38091	38	91	Steele County, North Dakota	62	Health care and social assistance	62	0500000US38091	1.0	0.0	0.0
+67533	38091	38	91	Steele County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38091	2.0	0.0	0.0
+67534	38091	38	91	Steele County, North Dakota	72	Accommodation and food services	72	0500000US38091	6.5	18.625	205.625
+67535	38091	38	91	Steele County, North Dakota	81	Other services (except public administration)	81	0500000US38091	5.25	9.0	284.375
+67537	38093	38	93	Stutsman County	11	Agriculture, forestry, fishing and hunting	11	0500000US38093	3.0	0.0	0.0
+67538	38093	38	93	Stutsman County	22	Utilities	22	0500000US38093	3.0	0.0	0.0
+67539	38093	38	93	Stutsman County	23	Construction	23	0500000US38093	64.0	313.0	13184.0
+67540	38093	38	93	Stutsman County	42	Wholesale trade	42	0500000US38093	46.0	425.0	19053.0
+67541	38093	38	93	Stutsman County	51	Information	51	0500000US38093	13.0	176.0	6136.0
+67542	38093	38	93	Stutsman County	52	Finance and insurance	52	0500000US38093	47.0	391.0	19491.0
+67543	38093	38	93	Stutsman County	53	Real estate and rental and leasing	53	0500000US38093	30.0	78.0	2065.0
+67544	38093	38	93	Stutsman County	54	Professional, scientific, and technical services	54	0500000US38093	34.0	183.0	7089.0
+67545	38093	38	93	Stutsman County	55	Management of companies and enterprises	55	0500000US38093	1.0	0.0	0.0
+67546	38093	38	93	Stutsman County	56	Administrative and support and waste management and remediation services	56	0500000US38093	32.0	180.0	4332.0
+67547	38093	38	93	Stutsman County	61	Educational services	61	0500000US38093	4.0	0.0	0.0
+67548	38093	38	93	Stutsman County	62	Health care and social assistance	62	0500000US38093	62.0	2510.0	92222.0
+67549	38093	38	93	Stutsman County	71	Arts, entertainment, and recreation	71	0500000US38093	15.0	99.0	1114.0
+67550	38093	38	93	Stutsman County	72	Accommodation and food services	72	0500000US38093	59.0	892.0	12069.0
+67551	38093	38	93	Stutsman County	81	Other services (except public administration)	81	0500000US38093	76.0	455.0	9168.0
+67553	38093	38	93	Stutsman County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38093	2.0	0.0	0.0
+67554	38093	38	93	Stutsman County, North Dakota	22	Utilities	22	0500000US38093	3.875	64.75	6776.0
+67555	38093	38	93	Stutsman County, North Dakota	23	Construction	23	0500000US38093	78.5	348.375	16789.5
+67556	38093	38	93	Stutsman County, North Dakota	42	Wholesale trade	42	0500000US38093	45.5	455.625	24909.5
+67557	38093	38	93	Stutsman County, North Dakota	51	Information	51	0500000US38093	13.0	154.375	5295.375
+67558	38093	38	93	Stutsman County, North Dakota	52	Finance and insurance	52	0500000US38093	47.5	457.5	27103.375
+67559	38093	38	93	Stutsman County, North Dakota	53	Real estate and rental and leasing	53	0500000US38093	30.75	59.625	2036.375
+67560	38093	38	93	Stutsman County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38093	34.625	227.375	10360.875
+67561	38093	38	93	Stutsman County, North Dakota	55	Management of companies and enterprises	55	0500000US38093	1.75	0.0	0.0
+67562	38093	38	93	Stutsman County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38093	28.75	180.25	5436.75
+67563	38093	38	93	Stutsman County, North Dakota	61	Educational services	61	0500000US38093	5.5	221.75	3974.625
+67564	38093	38	93	Stutsman County, North Dakota	62	Health care and social assistance	62	0500000US38093	65.875	2726.5	119305.875
+67565	38093	38	93	Stutsman County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38093	14.625	69.25	1036.0
+67566	38093	38	93	Stutsman County, North Dakota	72	Accommodation and food services	72	0500000US38093	65.25	918.875	13897.0
+67567	38093	38	93	Stutsman County, North Dakota	81	Other services (except public administration)	81	0500000US38093	75.5	442.625	11186.25
+67568	38093	38	93	Stutsman County, North Dakota	99	Industries not classified	99	0500000US38093	1.0	0.0	0.0
+67570	38095	38	95	Towner County	23	Construction	23	0500000US38095	7.0	17.0	402.0
+67571	38095	38	95	Towner County	42	Wholesale trade	42	0500000US38095	8.0	63.0	3424.0
+67572	38095	38	95	Towner County	52	Finance and insurance	52	0500000US38095	14.0	50.0	2191.0
+67573	38095	38	95	Towner County	53	Real estate and rental and leasing	53	0500000US38095	2.0	0.0	0.0
+67574	38095	38	95	Towner County	54	Professional, scientific, and technical services	54	0500000US38095	8.0	0.0	546.0
+67575	38095	38	95	Towner County	56	Administrative and support and waste management and remediation services	56	0500000US38095	1.0	0.0	0.0
+67576	38095	38	95	Towner County	62	Health care and social assistance	62	0500000US38095	3.0	0.0	0.0
+67577	38095	38	95	Towner County	71	Arts, entertainment, and recreation	71	0500000US38095	2.0	0.0	0.0
+67578	38095	38	95	Towner County	72	Accommodation and food services	72	0500000US38095	8.0	0.0	326.0
+67579	38095	38	95	Towner County	81	Other services (except public administration)	81	0500000US38095	11.0	39.0	478.0
+67581	38095	38	95	Towner County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38095	1.0	0.0	0.0
+67582	38095	38	95	Towner County, North Dakota	23	Construction	23	0500000US38095	6.25	10.5	323.125
+67583	38095	38	95	Towner County, North Dakota	42	Wholesale trade	42	0500000US38095	9.125	82.0	4912.875
+67584	38095	38	95	Towner County, North Dakota	51	Information	51	0500000US38095	1.0	0.0	0.0
+67585	38095	38	95	Towner County, North Dakota	52	Finance and insurance	52	0500000US38095	12.75	51.75	2286.875
+67586	38095	38	95	Towner County, North Dakota	53	Real estate and rental and leasing	53	0500000US38095	1.0	0.0	0.0
+67587	38095	38	95	Towner County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38095	6.75	18.5	834.0
+67588	38095	38	95	Towner County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38095	1.4	2.0	156.4
+67589	38095	38	95	Towner County, North Dakota	61	Educational services	61	0500000US38095	1.0	0.0	0.0
+67590	38095	38	95	Towner County, North Dakota	62	Health care and social assistance	62	0500000US38095	2.875	57.25	2116.75
+67591	38095	38	95	Towner County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38095	1.0	0.0	0.0
+67592	38095	38	95	Towner County, North Dakota	72	Accommodation and food services	72	0500000US38095	8.0	28.375	320.625
+67593	38095	38	95	Towner County, North Dakota	81	Other services (except public administration)	81	0500000US38095	10.25	30.5	426.0
+67595	38097	38	97	Traill County	11	Agriculture, forestry, fishing and hunting	11	0500000US38097	9.0	40.0	2072.0
+67596	38097	38	97	Traill County	23	Construction	23	0500000US38097	32.0	132.0	5292.0
+67597	38097	38	97	Traill County	42	Wholesale trade	42	0500000US38097	33.0	341.0	16990.0
+67598	38097	38	97	Traill County	51	Information	51	0500000US38097	5.0	24.0	375.0
+67599	38097	38	97	Traill County	52	Finance and insurance	52	0500000US38097	28.0	170.0	7624.0
+67600	38097	38	97	Traill County	53	Real estate and rental and leasing	53	0500000US38097	7.0	0.0	154.0
+67601	38097	38	97	Traill County	54	Professional, scientific, and technical services	54	0500000US38097	11.0	35.0	1410.0
+67602	38097	38	97	Traill County	56	Administrative and support and waste management and remediation services	56	0500000US38097	3.0	0.0	0.0
+67603	38097	38	97	Traill County	61	Educational services	61	0500000US38097	2.0	0.0	0.0
+67604	38097	38	97	Traill County	62	Health care and social assistance	62	0500000US38097	20.0	0.0	0.0
+67605	38097	38	97	Traill County	71	Arts, entertainment, and recreation	71	0500000US38097	3.0	0.0	0.0
+67606	38097	38	97	Traill County	72	Accommodation and food services	72	0500000US38097	25.0	201.0	1986.0
+67607	38097	38	97	Traill County	81	Other services (except public administration)	81	0500000US38097	41.0	107.0	2608.0
+67609	38097	38	97	Traill County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38097	9.25	50.875	3364.375
+67610	38097	38	97	Traill County, North Dakota	22	Utilities	22	0500000US38097	1.3333333333333333	0.0	0.0
+67611	38097	38	97	Traill County, North Dakota	23	Construction	23	0500000US38097	35.75	151.5	7991.875
+67612	38097	38	97	Traill County, North Dakota	42	Wholesale trade	42	0500000US38097	33.875	378.875	20618.5
+67613	38097	38	97	Traill County, North Dakota	51	Information	51	0500000US38097	3.4285714285714284	14.428571428571429	353.42857142857144
+67614	38097	38	97	Traill County, North Dakota	52	Finance and insurance	52	0500000US38097	25.625	146.25	8198.5
+67615	38097	38	97	Traill County, North Dakota	53	Real estate and rental and leasing	53	0500000US38097	6.875	7.25	123.875
+67616	38097	38	97	Traill County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38097	13.75	41.625	1939.375
+67617	38097	38	97	Traill County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38097	3.75	18.125	1168.125
+67618	38097	38	97	Traill County, North Dakota	61	Educational services	61	0500000US38097	1.25	0.0	0.0
+67619	38097	38	97	Traill County, North Dakota	62	Health care and social assistance	62	0500000US38097	18.5	446.625	18440.5
+67620	38097	38	97	Traill County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38097	3.5	7.5	92.0
+67621	38097	38	97	Traill County, North Dakota	72	Accommodation and food services	72	0500000US38097	21.625	166.25	1919.875
+67622	38097	38	97	Traill County, North Dakota	81	Other services (except public administration)	81	0500000US38097	40.125	107.25	2546.75
+67623	38097	38	97	Traill County, North Dakota	99	Industries not classified	99	0500000US38097	1.0	0.0	0.0
+67625	38099	38	99	Walsh County	11	Agriculture, forestry, fishing and hunting	11	0500000US38099	6.0	0.0	0.0
+67626	38099	38	99	Walsh County	22	Utilities	22	0500000US38099	2.0	0.0	0.0
+67627	38099	38	99	Walsh County	23	Construction	23	0500000US38099	50.0	221.0	16887.0
+67628	38099	38	99	Walsh County	42	Wholesale trade	42	0500000US38099	36.0	332.0	16601.0
+67629	38099	38	99	Walsh County	51	Information	51	0500000US38099	8.0	110.0	5244.0
+67630	38099	38	99	Walsh County	52	Finance and insurance	52	0500000US38099	34.0	160.0	7224.0
+67631	38099	38	99	Walsh County	53	Real estate and rental and leasing	53	0500000US38099	10.0	0.0	0.0
+67632	38099	38	99	Walsh County	54	Professional, scientific, and technical services	54	0500000US38099	25.0	92.0	2995.0
+67633	38099	38	99	Walsh County	55	Management of companies and enterprises	55	0500000US38099	1.0	0.0	0.0
+67634	38099	38	99	Walsh County	56	Administrative and support and waste management and remediation services	56	0500000US38099	13.0	163.0	2024.0
+67635	38099	38	99	Walsh County	62	Health care and social assistance	62	0500000US38099	39.0	678.0	21108.0
+67636	38099	38	99	Walsh County	71	Arts, entertainment, and recreation	71	0500000US38099	11.0	41.0	506.0
+67637	38099	38	99	Walsh County	72	Accommodation and food services	72	0500000US38099	37.0	222.0	2294.0
+67638	38099	38	99	Walsh County	81	Other services (except public administration)	81	0500000US38099	60.0	175.0	3149.0
+67639	38099	38	99	Walsh County	99	Industries not classified	99	0500000US38099	1.0	0.0	0.0
+67641	38099	38	99	Walsh County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38099	6.375	18.125	869.125
+67642	38099	38	99	Walsh County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38099	1.0	0.0	0.0
+67643	38099	38	99	Walsh County, North Dakota	22	Utilities	22	0500000US38099	1.8	0.0	0.0
+67644	38099	38	99	Walsh County, North Dakota	23	Construction	23	0500000US38099	41.0	125.125	7599.5
+67645	38099	38	99	Walsh County, North Dakota	42	Wholesale trade	42	0500000US38099	39.25	348.875	20073.25
+67646	38099	38	99	Walsh County, North Dakota	51	Information	51	0500000US38099	7.125	96.0	5094.625
+67647	38099	38	99	Walsh County, North Dakota	52	Finance and insurance	52	0500000US38099	34.5	174.0	9258.5
+67648	38099	38	99	Walsh County, North Dakota	53	Real estate and rental and leasing	53	0500000US38099	10.375	23.375	336.5
+67649	38099	38	99	Walsh County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38099	25.75	93.5	3817.5
+67650	38099	38	99	Walsh County, North Dakota	55	Management of companies and enterprises	55	0500000US38099	1.0	0.0	0.0
+67651	38099	38	99	Walsh County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38099	12.375	148.25	2465.75
+67652	38099	38	99	Walsh County, North Dakota	62	Health care and social assistance	62	0500000US38099	38.625	684.125	25613.75
+67653	38099	38	99	Walsh County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38099	9.75	33.125	434.875
+67654	38099	38	99	Walsh County, North Dakota	72	Accommodation and food services	72	0500000US38099	30.375	176.375	1916.875
+67655	38099	38	99	Walsh County, North Dakota	81	Other services (except public administration)	81	0500000US38099	49.875	165.375	2948.5
+67656	38099	38	99	Walsh County, North Dakota	99	Industries not classified	99	0500000US38099	2.0	1.0	58.0
+67658	38101	38	101	Ward County	11	Agriculture, forestry, fishing and hunting	11	0500000US38101	5.0	0.0	0.0
+67659	38101	38	101	Ward County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38101	49.0	1890.0	202226.0
+67660	38101	38	101	Ward County	22	Utilities	22	0500000US38101	9.0	133.0	11046.0
+67661	38101	38	101	Ward County	23	Construction	23	0500000US38101	285.0	2095.0	136203.0
+67662	38101	38	101	Ward County	42	Wholesale trade	42	0500000US38101	109.0	1736.0	107452.0
+67663	38101	38	101	Ward County	51	Information	51	0500000US38101	27.0	498.0	23484.0
+67664	38101	38	101	Ward County	52	Finance and insurance	52	0500000US38101	137.0	1588.0	61067.0
+67665	38101	38	101	Ward County	53	Real estate and rental and leasing	53	0500000US38101	81.0	690.0	36689.0
+67666	38101	38	101	Ward County	54	Professional, scientific, and technical services	54	0500000US38101	145.0	748.0	48070.0
+67667	38101	38	101	Ward County	55	Management of companies and enterprises	55	0500000US38101	5.0	0.0	0.0
+67668	38101	38	101	Ward County	56	Administrative and support and waste management and remediation services	56	0500000US38101	91.0	900.0	29038.0
+67669	38101	38	101	Ward County	61	Educational services	61	0500000US38101	16.0	191.0	5543.0
+67670	38101	38	101	Ward County	62	Health care and social assistance	62	0500000US38101	153.0	4377.0	205959.0
+67671	38101	38	101	Ward County	71	Arts, entertainment, and recreation	71	0500000US38101	36.0	503.0	6037.0
+67672	38101	38	101	Ward County	72	Accommodation and food services	72	0500000US38101	174.0	4008.0	62903.0
+67673	38101	38	101	Ward County	81	Other services (except public administration)	81	0500000US38101	183.0	1131.0	27094.0
+67674	38101	38	101	Ward County	99	Industries not classified	99	0500000US38101	2.0	0.0	0.0
+67676	38101	38	101	Ward County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38101	3.6666666666666665	6.666666666666667	382.0
+67677	38101	38	101	Ward County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38101	50.5	1774.0	195764.875
+67678	38101	38	101	Ward County, North Dakota	22	Utilities	22	0500000US38101	9.625	138.5	13243.25
+67679	38101	38	101	Ward County, North Dakota	23	Construction	23	0500000US38101	256.5	1657.25	110953.375
+67680	38101	38	101	Ward County, North Dakota	42	Wholesale trade	42	0500000US38101	116.25	1739.875	107194.125
+67681	38101	38	101	Ward County, North Dakota	51	Information	51	0500000US38101	21.25	460.375	25063.25
+67682	38101	38	101	Ward County, North Dakota	52	Finance and insurance	52	0500000US38101	134.625	1012.0	62591.625
+67683	38101	38	101	Ward County, North Dakota	53	Real estate and rental and leasing	53	0500000US38101	109.0	522.25	26273.0
+67684	38101	38	101	Ward County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38101	163.625	980.375	65372.375
+67685	38101	38	101	Ward County, North Dakota	55	Management of companies and enterprises	55	0500000US38101	8.375	89.375	8471.375
+67686	38101	38	101	Ward County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38101	97.375	1034.5	30823.375
+67687	38101	38	101	Ward County, North Dakota	61	Educational services	61	0500000US38101	19.125	199.25	5357.375
+67688	38101	38	101	Ward County, North Dakota	62	Health care and social assistance	62	0500000US38101	166.75	4823.125	270361.375
+67689	38101	38	101	Ward County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38101	40.375	513.75	8294.625
+67690	38101	38	101	Ward County, North Dakota	72	Accommodation and food services	72	0500000US38101	179.75	3963.625	64510.0
+67691	38101	38	101	Ward County, North Dakota	81	Other services (except public administration)	81	0500000US38101	205.5	1230.5	36186.25
+67692	38101	38	101	Ward County, North Dakota	99	Industries not classified	99	0500000US38101	3.6666666666666665	2.1666666666666665	48.833333333333336
+67694	38103	38	103	Wells County	11	Agriculture, forestry, fishing and hunting	11	0500000US38103	3.0	0.0	551.0
+67695	38103	38	103	Wells County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38103	1.0	0.0	0.0
+67696	38103	38	103	Wells County	22	Utilities	22	0500000US38103	1.0	0.0	0.0
+67697	38103	38	103	Wells County	23	Construction	23	0500000US38103	19.0	47.0	2555.0
+67698	38103	38	103	Wells County	42	Wholesale trade	42	0500000US38103	19.0	174.0	9452.0
+67699	38103	38	103	Wells County	51	Information	51	0500000US38103	3.0	0.0	0.0
+67700	38103	38	103	Wells County	52	Finance and insurance	52	0500000US38103	15.0	79.0	3034.0
+67701	38103	38	103	Wells County	53	Real estate and rental and leasing	53	0500000US38103	3.0	0.0	0.0
+67702	38103	38	103	Wells County	54	Professional, scientific, and technical services	54	0500000US38103	9.0	0.0	763.0
+67703	38103	38	103	Wells County	56	Administrative and support and waste management and remediation services	56	0500000US38103	2.0	0.0	0.0
+67704	38103	38	103	Wells County	62	Health care and social assistance	62	0500000US38103	17.0	465.0	11346.0
+67705	38103	38	103	Wells County	71	Arts, entertainment, and recreation	71	0500000US38103	3.0	0.0	0.0
+67706	38103	38	103	Wells County	72	Accommodation and food services	72	0500000US38103	17.0	118.0	1078.0
+67707	38103	38	103	Wells County	81	Other services (except public administration)	81	0500000US38103	26.0	94.0	1324.0
+67708	38103	38	103	Wells County	99	Industries not classified	99	0500000US38103	1.0	0.0	0.0
+67710	38103	38	103	Wells County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38103	2.7142857142857144	1.1428571428571428	72.71428571428571
+67711	38103	38	103	Wells County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38103	1.0	0.0	0.0
+67712	38103	38	103	Wells County, North Dakota	22	Utilities	22	0500000US38103	1.0	0.0	0.0
+67713	38103	38	103	Wells County, North Dakota	23	Construction	23	0500000US38103	21.5	38.625	2127.125
+67714	38103	38	103	Wells County, North Dakota	42	Wholesale trade	42	0500000US38103	17.875	215.5	14151.5
+67715	38103	38	103	Wells County, North Dakota	51	Information	51	0500000US38103	3.0	18.75	282.125
+67716	38103	38	103	Wells County, North Dakota	52	Finance and insurance	52	0500000US38103	14.375	80.875	3577.125
+67717	38103	38	103	Wells County, North Dakota	53	Real estate and rental and leasing	53	0500000US38103	3.875	4.25	139.25
+67718	38103	38	103	Wells County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38103	10.375	13.375	647.875
+67719	38103	38	103	Wells County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38103	3.0	3.6	79.8
+67720	38103	38	103	Wells County, North Dakota	62	Health care and social assistance	62	0500000US38103	18.25	442.75	12271.75
+67721	38103	38	103	Wells County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38103	2.75	0.0	0.0
+67722	38103	38	103	Wells County, North Dakota	72	Accommodation and food services	72	0500000US38103	18.625	115.0	1110.125
+67723	38103	38	103	Wells County, North Dakota	81	Other services (except public administration)	81	0500000US38103	26.375	82.125	1677.125
+67724	38103	38	103	Wells County, North Dakota	99	Industries not classified	99	0500000US38103	1.0	0.0	0.0
+67726	38105	38	105	Williams County	11	Agriculture, forestry, fishing and hunting	11	0500000US38105	1.0	0.0	0.0
+67727	38105	38	105	Williams County	21	Mining, quarrying, and oil and gas extraction	21	0500000US38105	129.0	5490.0	531505.0
+67728	38105	38	105	Williams County	22	Utilities	22	0500000US38105	8.0	0.0	0.0
+67729	38105	38	105	Williams County	23	Construction	23	0500000US38105	154.0	1535.0	121046.0
+67730	38105	38	105	Williams County	42	Wholesale trade	42	0500000US38105	110.0	2120.0	174359.0
+67731	38105	38	105	Williams County	51	Information	51	0500000US38105	14.0	258.0	13575.0
+67732	38105	38	105	Williams County	52	Finance and insurance	52	0500000US38105	63.0	419.0	22731.0
+67733	38105	38	105	Williams County	53	Real estate and rental and leasing	53	0500000US38105	75.0	760.0	80832.0
+67734	38105	38	105	Williams County	54	Professional, scientific, and technical services	54	0500000US38105	101.0	483.0	56285.0
+67735	38105	38	105	Williams County	55	Management of companies and enterprises	55	0500000US38105	3.0	35.0	3276.0
+67736	38105	38	105	Williams County	56	Administrative and support and waste management and remediation services	56	0500000US38105	58.0	747.0	50114.0
+67737	38105	38	105	Williams County	61	Educational services	61	0500000US38105	4.0	72.0	1420.0
+67738	38105	38	105	Williams County	62	Health care and social assistance	62	0500000US38105	69.0	1722.0	67657.0
+67739	38105	38	105	Williams County	71	Arts, entertainment, and recreation	71	0500000US38105	19.0	0.0	3027.0
+67740	38105	38	105	Williams County	72	Accommodation and food services	72	0500000US38105	92.0	1702.0	35801.0
+67741	38105	38	105	Williams County	81	Other services (except public administration)	81	0500000US38105	104.0	540.0	19450.0
+67742	38105	38	105	Williams County	99	Industries not classified	99	0500000US38105	2.0	0.0	0.0
+67744	38105	38	105	Williams County, North Dakota	11	Agriculture, forestry, fishing and hunting	11	0500000US38105	2.5	0.25	11.5
+67745	38105	38	105	Williams County, North Dakota	21	Mining, quarrying, and oil and gas extraction	21	0500000US38105	151.5	6152.625	589546.5
+67746	38105	38	105	Williams County, North Dakota	22	Utilities	22	0500000US38105	13.125	176.625	17955.75
+67747	38105	38	105	Williams County, North Dakota	23	Construction	23	0500000US38105	157.875	2227.5	194358.0
+67748	38105	38	105	Williams County, North Dakota	42	Wholesale trade	42	0500000US38105	127.75	2043.5	150538.75
+67749	38105	38	105	Williams County, North Dakota	51	Information	51	0500000US38105	13.125	194.125	10095.375
+67750	38105	38	105	Williams County, North Dakota	52	Finance and insurance	52	0500000US38105	56.625	397.625	23329.75
+67751	38105	38	105	Williams County, North Dakota	53	Real estate and rental and leasing	53	0500000US38105	115.125	919.25	72986.375
+67752	38105	38	105	Williams County, North Dakota	54	Professional, scientific, and technical services	54	0500000US38105	134.5	695.25	65078.75
+67753	38105	38	105	Williams County, North Dakota	55	Management of companies and enterprises	55	0500000US38105	5.375	45.125	4368.125
+67754	38105	38	105	Williams County, North Dakota	56	Administrative and support and waste management and remediation services	56	0500000US38105	75.25	839.625	45118.875
+67755	38105	38	105	Williams County, North Dakota	61	Educational services	61	0500000US38105	7.125	99.75	2756.625
+67756	38105	38	105	Williams County, North Dakota	62	Health care and social assistance	62	0500000US38105	80.25	1392.0	67207.125
+67757	38105	38	105	Williams County, North Dakota	71	Arts, entertainment, and recreation	71	0500000US38105	21.375	169.125	6066.375
+67758	38105	38	105	Williams County, North Dakota	72	Accommodation and food services	72	0500000US38105	120.125	2091.875	49596.5
+67759	38105	38	105	Williams County, North Dakota	81	Other services (except public administration)	81	0500000US38105	120.75	623.75	24950.0
+67760	38105	38	105	Williams County, North Dakota	99	Industries not classified	99	0500000US38105	4.0	6.75	99.0

@@ -1,0 +1,1264 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+97868	53001	53	1	Adams County	11	Agriculture, forestry, fishing and hunting	11	0500000US53001	12.0	192.0	5850.0
+97869	53001	53	1	Adams County	22	Utilities	22	0500000US53001	3.0	0.0	0.0
+97870	53001	53	1	Adams County	23	Construction	23	0500000US53001	26.0	73.0	2611.0
+97871	53001	53	1	Adams County	42	Wholesale trade	42	0500000US53001	29.0	504.0	30730.0
+97872	53001	53	1	Adams County	51	Information	51	0500000US53001	6.0	0.0	0.0
+97873	53001	53	1	Adams County	52	Finance and insurance	52	0500000US53001	21.0	87.0	3205.0
+97874	53001	53	1	Adams County	53	Real estate and rental and leasing	53	0500000US53001	10.0	0.0	398.0
+97875	53001	53	1	Adams County	54	Professional, scientific, and technical services	54	0500000US53001	13.0	0.0	1552.0
+97876	53001	53	1	Adams County	56	Administrative and support and waste management and remediation services	56	0500000US53001	9.0	34.0	765.0
+97877	53001	53	1	Adams County	61	Educational services	61	0500000US53001	2.0	0.0	0.0
+97878	53001	53	1	Adams County	62	Health care and social assistance	62	0500000US53001	28.0	0.0	0.0
+97879	53001	53	1	Adams County	71	Arts, entertainment, and recreation	71	0500000US53001	3.0	0.0	0.0
+97880	53001	53	1	Adams County	72	Accommodation and food services	72	0500000US53001	37.0	329.0	4851.0
+97881	53001	53	1	Adams County	81	Other services (except public administration)	81	0500000US53001	47.0	0.0	2736.0
+97883	53001	53	1	Adams County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53001	13.125	174.25	9459.375
+97884	53001	53	1	Adams County, Washington	22	Utilities	22	0500000US53001	3.0	12.125	1250.0
+97885	53001	53	1	Adams County, Washington	23	Construction	23	0500000US53001	27.625	79.25	3644.25
+97886	53001	53	1	Adams County, Washington	42	Wholesale trade	42	0500000US53001	32.5	500.375	30576.0
+97887	53001	53	1	Adams County, Washington	51	Information	51	0500000US53001	4.125	5.375	156.875
+97888	53001	53	1	Adams County, Washington	52	Finance and insurance	52	0500000US53001	19.125	87.75	3889.5
+97889	53001	53	1	Adams County, Washington	53	Real estate and rental and leasing	53	0500000US53001	12.875	23.5	623.125
+97890	53001	53	1	Adams County, Washington	54	Professional, scientific, and technical services	54	0500000US53001	11.5	55.875	2648.375
+97891	53001	53	1	Adams County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53001	8.875	25.0	989.25
+97892	53001	53	1	Adams County, Washington	61	Educational services	61	0500000US53001	2.0	0.0	0.0
+97893	53001	53	1	Adams County, Washington	62	Health care and social assistance	62	0500000US53001	29.75	583.25	30360.125
+97894	53001	53	1	Adams County, Washington	71	Arts, entertainment, and recreation	71	0500000US53001	4.0	16.25	308.25
+97895	53001	53	1	Adams County, Washington	72	Accommodation and food services	72	0500000US53001	35.0	389.75	5928.25
+97896	53001	53	1	Adams County, Washington	81	Other services (except public administration)	81	0500000US53001	45.625	132.875	3231.5
+97897	53001	53	1	Adams County, Washington	99	Industries not classified	99	0500000US53001	1.75	0.25	16.25
+97899	53003	53	3	Asotin County	11	Agriculture, forestry, fishing and hunting	11	0500000US53003	3.0	0.0	0.0
+97900	53003	53	3	Asotin County	22	Utilities	22	0500000US53003	1.0	0.0	0.0
+97901	53003	53	3	Asotin County	23	Construction	23	0500000US53003	62.0	374.0	19495.0
+97902	53003	53	3	Asotin County	42	Wholesale trade	42	0500000US53003	15.0	96.0	5235.0
+97903	53003	53	3	Asotin County	51	Information	51	0500000US53003	5.0	0.0	0.0
+97904	53003	53	3	Asotin County	52	Finance and insurance	52	0500000US53003	31.0	153.0	7331.0
+97905	53003	53	3	Asotin County	53	Real estate and rental and leasing	53	0500000US53003	21.0	141.0	2958.0
+97906	53003	53	3	Asotin County	54	Professional, scientific, and technical services	54	0500000US53003	32.0	235.0	6552.0
+97907	53003	53	3	Asotin County	55	Management of companies and enterprises	55	0500000US53003	1.0	0.0	0.0
+97908	53003	53	3	Asotin County	56	Administrative and support and waste management and remediation services	56	0500000US53003	21.0	98.0	3080.0
+97909	53003	53	3	Asotin County	61	Educational services	61	0500000US53003	11.0	60.0	848.0
+97910	53003	53	3	Asotin County	62	Health care and social assistance	62	0500000US53003	52.0	994.0	35720.0
+97911	53003	53	3	Asotin County	71	Arts, entertainment, and recreation	71	0500000US53003	7.0	90.0	1467.0
+97912	53003	53	3	Asotin County	72	Accommodation and food services	72	0500000US53003	39.0	574.0	8627.0
+97913	53003	53	3	Asotin County	81	Other services (except public administration)	81	0500000US53003	38.0	188.0	2905.0
+97914	53003	53	3	Asotin County	99	Industries not classified	99	0500000US53003	1.0	0.0	0.0
+97916	53003	53	3	Asotin County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53003	1.75	0.0	238.0
+97917	53003	53	3	Asotin County, Washington	22	Utilities	22	0500000US53003	1.0	0.0	0.0
+97918	53003	53	3	Asotin County, Washington	23	Construction	23	0500000US53003	65.875	390.0	25919.0
+97919	53003	53	3	Asotin County, Washington	42	Wholesale trade	42	0500000US53003	16.875	100.125	5867.5
+97920	53003	53	3	Asotin County, Washington	51	Information	51	0500000US53003	6.625	31.875	1374.75
+97921	53003	53	3	Asotin County, Washington	52	Finance and insurance	52	0500000US53003	28.375	155.125	8167.125
+97922	53003	53	3	Asotin County, Washington	53	Real estate and rental and leasing	53	0500000US53003	19.25	76.75	1820.625
+97923	53003	53	3	Asotin County, Washington	54	Professional, scientific, and technical services	54	0500000US53003	36.125	250.625	8681.75
+97924	53003	53	3	Asotin County, Washington	55	Management of companies and enterprises	55	0500000US53003	2.4285714285714284	2.142857142857143	106.28571428571429
+97925	53003	53	3	Asotin County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53003	19.0	103.375	3872.375
+97926	53003	53	3	Asotin County, Washington	61	Educational services	61	0500000US53003	9.25	41.375	783.5
+97927	53003	53	3	Asotin County, Washington	62	Health care and social assistance	62	0500000US53003	53.625	1119.5	50105.25
+97928	53003	53	3	Asotin County, Washington	71	Arts, entertainment, and recreation	71	0500000US53003	8.375	93.25	1824.625
+97929	53003	53	3	Asotin County, Washington	72	Accommodation and food services	72	0500000US53003	42.875	634.5	11297.25
+97930	53003	53	3	Asotin County, Washington	81	Other services (except public administration)	81	0500000US53003	40.125	182.25	3339.0
+97931	53003	53	3	Asotin County, Washington	99	Industries not classified	99	0500000US53003	2.5	2.5	46.0
+97933	53005	53	5	Benton County	11	Agriculture, forestry, fishing and hunting	11	0500000US53005	13.0	59.0	2985.0
+97934	53005	53	5	Benton County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53005	1.0	0.0	0.0
+97935	53005	53	5	Benton County	22	Utilities	22	0500000US53005	8.0	0.0	0.0
+97936	53005	53	5	Benton County	23	Construction	23	0500000US53005	498.0	3877.0	234492.0
+97937	53005	53	5	Benton County	42	Wholesale trade	42	0500000US53005	134.0	1456.0	81578.0
+97938	53005	53	5	Benton County	51	Information	51	0500000US53005	52.0	827.0	29155.0
+97939	53005	53	5	Benton County	52	Finance and insurance	52	0500000US53005	238.0	1650.0	93873.0
+97940	53005	53	5	Benton County	53	Real estate and rental and leasing	53	0500000US53005	240.0	1054.0	30556.0
+97941	53005	53	5	Benton County	54	Professional, scientific, and technical services	54	0500000US53005	436.0	8533.0	639130.0
+97942	53005	53	5	Benton County	55	Management of companies and enterprises	55	0500000US53005	12.0	182.0	17084.0
+97943	53005	53	5	Benton County	56	Administrative and support and waste management and remediation services	56	0500000US53005	226.0	8496.0	689169.0
+97944	53005	53	5	Benton County	61	Educational services	61	0500000US53005	37.0	354.0	6433.0
+97945	53005	53	5	Benton County	62	Health care and social assistance	62	0500000US53005	545.0	10038.0	460394.0
+97946	53005	53	5	Benton County	71	Arts, entertainment, and recreation	71	0500000US53005	54.0	1226.0	19165.0
+97947	53005	53	5	Benton County	72	Accommodation and food services	72	0500000US53005	372.0	5906.0	89598.0
+97948	53005	53	5	Benton County	81	Other services (except public administration)	81	0500000US53005	350.0	2667.0	62998.0
+97949	53005	53	5	Benton County	99	Industries not classified	99	0500000US53005	2.0	0.0	0.0
+97951	53005	53	5	Benton County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53005	14.0	131.125	5812.375
+97952	53005	53	5	Benton County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53005	1.0	0.0	0.0
+97953	53005	53	5	Benton County, Washington	22	Utilities	22	0500000US53005	7.0	59.375	5594.5
+97954	53005	53	5	Benton County, Washington	23	Construction	23	0500000US53005	572.0	5833.125	394446.0
+97955	53005	53	5	Benton County, Washington	42	Wholesale trade	42	0500000US53005	141.875	1651.375	102706.5
+97956	53005	53	5	Benton County, Washington	51	Information	51	0500000US53005	65.25	793.0	31269.875
+97957	53005	53	5	Benton County, Washington	52	Finance and insurance	52	0500000US53005	236.0	1771.625	120888.5
+97958	53005	53	5	Benton County, Washington	53	Real estate and rental and leasing	53	0500000US53005	295.875	1091.125	41199.625
+97959	53005	53	5	Benton County, Washington	54	Professional, scientific, and technical services	54	0500000US53005	469.75	7665.625	664404.0
+97960	53005	53	5	Benton County, Washington	55	Management of companies and enterprises	55	0500000US53005	19.125	420.25	35780.375
+97961	53005	53	5	Benton County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53005	231.0	9154.875	676498.75
+97962	53005	53	5	Benton County, Washington	61	Educational services	61	0500000US53005	46.375	418.75	8679.875
+97963	53005	53	5	Benton County, Washington	62	Health care and social assistance	62	0500000US53005	586.5	10950.0	566179.125
+97964	53005	53	5	Benton County, Washington	71	Arts, entertainment, and recreation	71	0500000US53005	70.25	1306.75	23210.0
+97965	53005	53	5	Benton County, Washington	72	Accommodation and food services	72	0500000US53005	404.875	6971.875	128579.75
+97966	53005	53	5	Benton County, Washington	81	Other services (except public administration)	81	0500000US53005	407.5	2859.5	76852.0
+97967	53005	53	5	Benton County, Washington	99	Industries not classified	99	0500000US53005	8.25	8.5	260.5
+97969	53007	53	7	Chelan County	11	Agriculture, forestry, fishing and hunting	11	0500000US53007	20.0	956.0	34774.0
+97970	53007	53	7	Chelan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53007	4.0	0.0	0.0
+97971	53007	53	7	Chelan County	22	Utilities	22	0500000US53007	4.0	0.0	0.0
+97972	53007	53	7	Chelan County	23	Construction	23	0500000US53007	320.0	1456.0	94052.0
+97973	53007	53	7	Chelan County	42	Wholesale trade	42	0500000US53007	103.0	2237.0	91371.0
+97974	53007	53	7	Chelan County	51	Information	51	0500000US53007	34.0	447.0	15919.0
+97975	53007	53	7	Chelan County	52	Finance and insurance	52	0500000US53007	129.0	842.0	43080.0
+97976	53007	53	7	Chelan County	53	Real estate and rental and leasing	53	0500000US53007	118.0	416.0	11445.0
+97977	53007	53	7	Chelan County	54	Professional, scientific, and technical services	54	0500000US53007	182.0	891.0	39759.0
+97978	53007	53	7	Chelan County	55	Management of companies and enterprises	55	0500000US53007	2.0	0.0	0.0
+97979	53007	53	7	Chelan County	56	Administrative and support and waste management and remediation services	56	0500000US53007	115.0	506.0	14756.0
+97980	53007	53	7	Chelan County	61	Educational services	61	0500000US53007	25.0	109.0	1539.0
+97981	53007	53	7	Chelan County	62	Health care and social assistance	62	0500000US53007	222.0	5213.0	292198.0
+97982	53007	53	7	Chelan County	71	Arts, entertainment, and recreation	71	0500000US53007	63.0	677.0	12902.0
+97983	53007	53	7	Chelan County	72	Accommodation and food services	72	0500000US53007	292.0	3337.0	63171.0
+97984	53007	53	7	Chelan County	81	Other services (except public administration)	81	0500000US53007	229.0	1018.0	23627.0
+97985	53007	53	7	Chelan County	99	Industries not classified	99	0500000US53007	11.0	0.0	161.0
+97987	53007	53	7	Chelan County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53007	21.375	2077.375	82645.0
+97988	53007	53	7	Chelan County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53007	3.8333333333333335	4.5	728.8333333333334
+97989	53007	53	7	Chelan County, Washington	22	Utilities	22	0500000US53007	3.7142857142857144	4.571428571428571	339.7142857142857
+97990	53007	53	7	Chelan County, Washington	23	Construction	23	0500000US53007	373.625	2188.0	149571.5
+97991	53007	53	7	Chelan County, Washington	42	Wholesale trade	42	0500000US53007	101.125	2675.5	121728.125
+97992	53007	53	7	Chelan County, Washington	51	Information	51	0500000US53007	41.25	442.375	19514.5
+97993	53007	53	7	Chelan County, Washington	52	Finance and insurance	52	0500000US53007	123.75	751.0	47819.5
+97994	53007	53	7	Chelan County, Washington	53	Real estate and rental and leasing	53	0500000US53007	138.875	503.625	18508.5
+97995	53007	53	7	Chelan County, Washington	54	Professional, scientific, and technical services	54	0500000US53007	194.5	1101.5	57727.5
+97996	53007	53	7	Chelan County, Washington	55	Management of companies and enterprises	55	0500000US53007	3.75	79.875	6036.25
+97997	53007	53	7	Chelan County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53007	130.875	703.375	23508.125
+97998	53007	53	7	Chelan County, Washington	61	Educational services	61	0500000US53007	29.125	129.125	1998.25
+97999	53007	53	7	Chelan County, Washington	62	Health care and social assistance	62	0500000US53007	234.75	6112.125	387226.75
+98000	53007	53	7	Chelan County, Washington	71	Arts, entertainment, and recreation	71	0500000US53007	62.0	768.625	15870.375
+98001	53007	53	7	Chelan County, Washington	72	Accommodation and food services	72	0500000US53007	307.0	4055.0	89301.375
+98002	53007	53	7	Chelan County, Washington	81	Other services (except public administration)	81	0500000US53007	237.0	1083.875	28754.125
+98003	53007	53	7	Chelan County, Washington	99	Industries not classified	99	0500000US53007	7.125	5.625	196.25
+98005	53009	53	9	Clallam County	11	Agriculture, forestry, fishing and hunting	11	0500000US53009	63.0	437.0	20212.0
+98006	53009	53	9	Clallam County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53009	3.0	0.0	564.0
+98007	53009	53	9	Clallam County	22	Utilities	22	0500000US53009	9.0	31.0	966.0
+98008	53009	53	9	Clallam County	23	Construction	23	0500000US53009	309.0	956.0	42403.0
+98009	53009	53	9	Clallam County	42	Wholesale trade	42	0500000US53009	43.0	258.0	10448.0
+98010	53009	53	9	Clallam County	51	Information	51	0500000US53009	17.0	165.0	6629.0
+98011	53009	53	9	Clallam County	52	Finance and insurance	52	0500000US53009	95.0	499.0	23314.0
+98012	53009	53	9	Clallam County	53	Real estate and rental and leasing	53	0500000US53009	88.0	236.0	7373.0
+98013	53009	53	9	Clallam County	54	Professional, scientific, and technical services	54	0500000US53009	169.0	830.0	33571.0
+98014	53009	53	9	Clallam County	55	Management of companies and enterprises	55	0500000US53009	4.0	0.0	0.0
+98015	53009	53	9	Clallam County	56	Administrative and support and waste management and remediation services	56	0500000US53009	100.0	562.0	10795.0
+98016	53009	53	9	Clallam County	61	Educational services	61	0500000US53009	19.0	122.0	2346.0
+98017	53009	53	9	Clallam County	62	Health care and social assistance	62	0500000US53009	270.0	3994.0	144190.0
+98018	53009	53	9	Clallam County	71	Arts, entertainment, and recreation	71	0500000US53009	35.0	507.0	12919.0
+98019	53009	53	9	Clallam County	72	Accommodation and food services	72	0500000US53009	229.0	2100.0	35629.0
+98020	53009	53	9	Clallam County	81	Other services (except public administration)	81	0500000US53009	188.0	928.0	19919.0
+98021	53009	53	9	Clallam County	99	Industries not classified	99	0500000US53009	1.0	0.0	0.0
+98023	53009	53	9	Clallam County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53009	57.5	449.75	24802.25
+98024	53009	53	9	Clallam County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53009	3.625	14.625	923.0
+98025	53009	53	9	Clallam County, Washington	22	Utilities	22	0500000US53009	9.75	29.375	854.375
+98026	53009	53	9	Clallam County, Washington	23	Construction	23	0500000US53009	319.0	1194.75	56079.875
+98027	53009	53	9	Clallam County, Washington	42	Wholesale trade	42	0500000US53009	51.125	353.5	16110.25
+98028	53009	53	9	Clallam County, Washington	51	Information	51	0500000US53009	19.875	136.75	6412.375
+98029	53009	53	9	Clallam County, Washington	52	Finance and insurance	52	0500000US53009	89.75	501.875	29397.125
+98030	53009	53	9	Clallam County, Washington	53	Real estate and rental and leasing	53	0500000US53009	92.0	233.25	7994.875
+98031	53009	53	9	Clallam County, Washington	54	Professional, scientific, and technical services	54	0500000US53009	159.875	706.75	29843.125
+98032	53009	53	9	Clallam County, Washington	55	Management of companies and enterprises	55	0500000US53009	4.875	99.25	4726.75
+98033	53009	53	9	Clallam County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53009	109.25	640.875	19496.0
+98034	53009	53	9	Clallam County, Washington	61	Educational services	61	0500000US53009	19.75	171.125	3503.75
+98035	53009	53	9	Clallam County, Washington	62	Health care and social assistance	62	0500000US53009	243.25	4110.375	178999.375
+98036	53009	53	9	Clallam County, Washington	71	Arts, entertainment, and recreation	71	0500000US53009	37.5	517.375	14806.375
+98037	53009	53	9	Clallam County, Washington	72	Accommodation and food services	72	0500000US53009	226.5	2310.25	45530.125
+98038	53009	53	9	Clallam County, Washington	81	Other services (except public administration)	81	0500000US53009	196.0	939.75	24891.0
+98039	53009	53	9	Clallam County, Washington	99	Industries not classified	99	0500000US53009	4.625	5.875	200.125
+98041	53011	53	11	Clark County	11	Agriculture, forestry, fishing and hunting	11	0500000US53011	38.0	155.0	7680.0
+98042	53011	53	11	Clark County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53011	13.0	0.0	3958.0
+98043	53011	53	11	Clark County	22	Utilities	22	0500000US53011	3.0	0.0	0.0
+98044	53011	53	11	Clark County	23	Construction	23	0500000US53011	1241.0	8318.0	472250.0
+98045	53011	53	11	Clark County	42	Wholesale trade	42	0500000US53011	554.0	6223.0	447414.0
+98046	53011	53	11	Clark County	51	Information	51	0500000US53011	149.0	2788.0	166106.0
+98047	53011	53	11	Clark County	52	Finance and insurance	52	0500000US53011	611.0	4699.0	286560.0
+98048	53011	53	11	Clark County	53	Real estate and rental and leasing	53	0500000US53011	458.0	1992.0	70011.0
+98049	53011	53	11	Clark County	54	Professional, scientific, and technical services	54	0500000US53011	1132.0	6979.0	350416.0
+98050	53011	53	11	Clark County	55	Management of companies and enterprises	55	0500000US53011	77.0	2428.0	288258.0
+98051	53011	53	11	Clark County	56	Administrative and support and waste management and remediation services	56	0500000US53011	552.0	6552.0	191183.0
+98052	53011	53	11	Clark County	61	Educational services	61	0500000US53011	128.0	1507.0	30595.0
+98053	53011	53	11	Clark County	62	Health care and social assistance	62	0500000US53011	1074.0	20202.0	1021924.0
+98054	53011	53	11	Clark County	71	Arts, entertainment, and recreation	71	0500000US53011	121.0	2014.0	40190.0
+98055	53011	53	11	Clark County	72	Accommodation and food services	72	0500000US53011	740.0	11053.0	177923.0
+98056	53011	53	11	Clark County	81	Other services (except public administration)	81	0500000US53011	904.0	5101.0	125229.0
+98057	53011	53	11	Clark County	99	Industries not classified	99	0500000US53011	15.0	0.0	184.0
+98059	53011	53	11	Clark County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53011	38.375	200.625	15719.625
+98060	53011	53	11	Clark County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53011	10.0	35.875	4738.125
+98061	53011	53	11	Clark County, Washington	22	Utilities	22	0500000US53011	4.625	62.375	5297.125
+98062	53011	53	11	Clark County, Washington	23	Construction	23	0500000US53011	1630.375	13454.5	844555.375
+98063	53011	53	11	Clark County, Washington	42	Wholesale trade	42	0500000US53011	553.375	6571.0	524477.25
+98064	53011	53	11	Clark County, Washington	51	Information	51	0500000US53011	199.75	3359.125	195553.125
+98065	53011	53	11	Clark County, Washington	52	Finance and insurance	52	0500000US53011	643.125	5580.625	506435.0
+98066	53011	53	11	Clark County, Washington	53	Real estate and rental and leasing	53	0500000US53011	592.0	2308.875	99607.375
+98067	53011	53	11	Clark County, Washington	54	Professional, scientific, and technical services	54	0500000US53011	1229.875	8519.25	513037.625
+98068	53011	53	11	Clark County, Washington	55	Management of companies and enterprises	55	0500000US53011	81.75	4539.375	425331.25
+98069	53011	53	11	Clark County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53011	635.5	8314.625	284143.5
+98070	53011	53	11	Clark County, Washington	61	Educational services	61	0500000US53011	131.25	1653.0	39218.375
+98071	53011	53	11	Clark County, Washington	62	Health care and social assistance	62	0500000US53011	1192.375	22515.125	1204913.375
+98072	53011	53	11	Clark County, Washington	71	Arts, entertainment, and recreation	71	0500000US53011	136.5	2788.25	67054.875
+98073	53011	53	11	Clark County, Washington	72	Accommodation and food services	72	0500000US53011	794.125	13020.375	250754.25
+98074	53011	53	11	Clark County, Washington	81	Other services (except public administration)	81	0500000US53011	987.625	5747.0	167789.625
+98075	53011	53	11	Clark County, Washington	99	Industries not classified	99	0500000US53011	29.25	29.5	834.125
+98077	53013	53	13	Columbia County	11	Agriculture, forestry, fishing and hunting	11	0500000US53013	3.0	8.0	328.0
+98078	53013	53	13	Columbia County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53013	1.0	0.0	0.0
+98079	53013	53	13	Columbia County	22	Utilities	22	0500000US53013	3.0	0.0	0.0
+98080	53013	53	13	Columbia County	23	Construction	23	0500000US53013	10.0	0.0	487.0
+98081	53013	53	13	Columbia County	42	Wholesale trade	42	0500000US53013	18.0	0.0	3114.0
+98082	53013	53	13	Columbia County	51	Information	51	0500000US53013	3.0	0.0	0.0
+98083	53013	53	13	Columbia County	52	Finance and insurance	52	0500000US53013	5.0	0.0	669.0
+98084	53013	53	13	Columbia County	53	Real estate and rental and leasing	53	0500000US53013	7.0	12.0	250.0
+98085	53013	53	13	Columbia County	54	Professional, scientific, and technical services	54	0500000US53013	8.0	22.0	512.0
+98086	53013	53	13	Columbia County	56	Administrative and support and waste management and remediation services	56	0500000US53013	3.0	0.0	0.0
+98087	53013	53	13	Columbia County	62	Health care and social assistance	62	0500000US53013	11.0	169.0	6051.0
+98088	53013	53	13	Columbia County	71	Arts, entertainment, and recreation	71	0500000US53013	3.0	0.0	0.0
+98089	53013	53	13	Columbia County	72	Accommodation and food services	72	0500000US53013	12.0	0.0	739.0
+98090	53013	53	13	Columbia County	81	Other services (except public administration)	81	0500000US53013	13.0	76.0	3399.0
+98092	53013	53	13	Columbia County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53013	3.875	9.5	510.375
+98093	53013	53	13	Columbia County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53013	1.0	0.0	0.0
+98094	53013	53	13	Columbia County, Washington	22	Utilities	22	0500000US53013	4.875	18.375	2312.5
+98095	53013	53	13	Columbia County, Washington	23	Construction	23	0500000US53013	9.875	12.625	405.625
+98096	53013	53	13	Columbia County, Washington	42	Wholesale trade	42	0500000US53013	10.375	15.375	845.75
+98097	53013	53	13	Columbia County, Washington	51	Information	51	0500000US53013	2.625	6.0	136.625
+98098	53013	53	13	Columbia County, Washington	52	Finance and insurance	52	0500000US53013	4.375	18.125	593.125
+98099	53013	53	13	Columbia County, Washington	53	Real estate and rental and leasing	53	0500000US53013	6.0	9.5	189.5
+98100	53013	53	13	Columbia County, Washington	54	Professional, scientific, and technical services	54	0500000US53013	9.125	26.75	702.75
+98101	53013	53	13	Columbia County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53013	3.75	3.125	432.375
+98102	53013	53	13	Columbia County, Washington	61	Educational services	61	0500000US53013	1.75	0.0	0.0
+98103	53013	53	13	Columbia County, Washington	62	Health care and social assistance	62	0500000US53013	9.0	170.375	7920.125
+98104	53013	53	13	Columbia County, Washington	71	Arts, entertainment, and recreation	71	0500000US53013	3.5	72.875	487.625
+98105	53013	53	13	Columbia County, Washington	72	Accommodation and food services	72	0500000US53013	12.5	67.375	1150.625
+98106	53013	53	13	Columbia County, Washington	81	Other services (except public administration)	81	0500000US53013	11.625	78.25	4818.0
+98107	53013	53	13	Columbia County, Washington	99	Industries not classified	99	0500000US53013	1.5	0.0	0.0
+98109	53015	53	15	Cowlitz County	11	Agriculture, forestry, fishing and hunting	11	0500000US53015	52.0	745.0	36588.0
+98110	53015	53	15	Cowlitz County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53015	7.0	0.0	0.0
+98111	53015	53	15	Cowlitz County	22	Utilities	22	0500000US53015	7.0	0.0	0.0
+98112	53015	53	15	Cowlitz County	23	Construction	23	0500000US53015	239.0	2900.0	179334.0
+98113	53015	53	15	Cowlitz County	42	Wholesale trade	42	0500000US53015	100.0	1151.0	60803.0
+98114	53015	53	15	Cowlitz County	51	Information	51	0500000US53015	26.0	321.0	14213.0
+98115	53015	53	15	Cowlitz County	52	Finance and insurance	52	0500000US53015	113.0	832.0	37621.0
+98116	53015	53	15	Cowlitz County	53	Real estate and rental and leasing	53	0500000US53015	104.0	349.0	8458.0
+98117	53015	53	15	Cowlitz County	54	Professional, scientific, and technical services	54	0500000US53015	139.0	791.0	32723.0
+98118	53015	53	15	Cowlitz County	55	Management of companies and enterprises	55	0500000US53015	7.0	0.0	7861.0
+98119	53015	53	15	Cowlitz County	56	Administrative and support and waste management and remediation services	56	0500000US53015	93.0	754.0	21596.0
+98120	53015	53	15	Cowlitz County	61	Educational services	61	0500000US53015	27.0	296.0	6121.0
+98121	53015	53	15	Cowlitz County	62	Health care and social assistance	62	0500000US53015	238.0	5404.0	224928.0
+98122	53015	53	15	Cowlitz County	71	Arts, entertainment, and recreation	71	0500000US53015	21.0	261.0	4840.0
+98123	53015	53	15	Cowlitz County	72	Accommodation and food services	72	0500000US53015	213.0	2730.0	39768.0
+98124	53015	53	15	Cowlitz County	81	Other services (except public administration)	81	0500000US53015	227.0	1207.0	27756.0
+98125	53015	53	15	Cowlitz County	99	Industries not classified	99	0500000US53015	3.0	1.0	25.0
+98127	53015	53	15	Cowlitz County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53015	49.5	845.25	51313.625
+98128	53015	53	15	Cowlitz County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53015	6.25	53.125	4338.75
+98129	53015	53	15	Cowlitz County, Washington	22	Utilities	22	0500000US53015	7.75	53.625	5870.25
+98130	53015	53	15	Cowlitz County, Washington	23	Construction	23	0500000US53015	246.625	2734.375	189348.0
+98131	53015	53	15	Cowlitz County, Washington	42	Wholesale trade	42	0500000US53015	98.375	1116.375	63321.375
+98132	53015	53	15	Cowlitz County, Washington	51	Information	51	0500000US53015	29.25	278.375	13114.625
+98133	53015	53	15	Cowlitz County, Washington	52	Finance and insurance	52	0500000US53015	100.0	813.375	46453.625
+98134	53015	53	15	Cowlitz County, Washington	53	Real estate and rental and leasing	53	0500000US53015	122.25	462.75	16415.625
+98135	53015	53	15	Cowlitz County, Washington	54	Professional, scientific, and technical services	54	0500000US53015	139.375	782.375	38206.25
+98136	53015	53	15	Cowlitz County, Washington	55	Management of companies and enterprises	55	0500000US53015	7.0	91.5	7480.75
+98137	53015	53	15	Cowlitz County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53015	98.0	1250.875	43481.75
+98138	53015	53	15	Cowlitz County, Washington	61	Educational services	61	0500000US53015	25.125	318.75	7265.75
+98139	53015	53	15	Cowlitz County, Washington	62	Health care and social assistance	62	0500000US53015	231.0	5556.875	254872.0
+98140	53015	53	15	Cowlitz County, Washington	71	Arts, entertainment, and recreation	71	0500000US53015	22.0	334.75	6035.75
+98141	53015	53	15	Cowlitz County, Washington	72	Accommodation and food services	72	0500000US53015	218.0	3010.875	53800.375
+98142	53015	53	15	Cowlitz County, Washington	81	Other services (except public administration)	81	0500000US53015	224.25	1243.125	33202.5
+98143	53015	53	15	Cowlitz County, Washington	99	Industries not classified	99	0500000US53015	6.125	7.375	206.25
+98145	53017	53	17	Douglas County	11	Agriculture, forestry, fishing and hunting	11	0500000US53017	10.0	0.0	3511.0
+98146	53017	53	17	Douglas County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53017	1.0	0.0	0.0
+98147	53017	53	17	Douglas County	22	Utilities	22	0500000US53017	1.0	0.0	0.0
+98148	53017	53	17	Douglas County	23	Construction	23	0500000US53017	105.0	353.0	16412.0
+98149	53017	53	17	Douglas County	42	Wholesale trade	42	0500000US53017	42.0	637.0	22165.0
+98150	53017	53	17	Douglas County	51	Information	51	0500000US53017	6.0	0.0	0.0
+98151	53017	53	17	Douglas County	52	Finance and insurance	52	0500000US53017	33.0	189.0	7348.0
+98152	53017	53	17	Douglas County	53	Real estate and rental and leasing	53	0500000US53017	26.0	68.0	2173.0
+98153	53017	53	17	Douglas County	54	Professional, scientific, and technical services	54	0500000US53017	35.0	180.0	6315.0
+98154	53017	53	17	Douglas County	55	Management of companies and enterprises	55	0500000US53017	7.0	0.0	0.0
+98155	53017	53	17	Douglas County	56	Administrative and support and waste management and remediation services	56	0500000US53017	49.0	166.0	5703.0
+98156	53017	53	17	Douglas County	61	Educational services	61	0500000US53017	2.0	0.0	0.0
+98157	53017	53	17	Douglas County	62	Health care and social assistance	62	0500000US53017	65.0	929.0	25304.0
+98158	53017	53	17	Douglas County	71	Arts, entertainment, and recreation	71	0500000US53017	11.0	259.0	4798.0
+98159	53017	53	17	Douglas County	72	Accommodation and food services	72	0500000US53017	52.0	803.0	11537.0
+98160	53017	53	17	Douglas County	81	Other services (except public administration)	81	0500000US53017	72.0	267.0	5314.0
+98162	53017	53	17	Douglas County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53017	12.5	108.375	4270.25
+98163	53017	53	17	Douglas County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53017	1.0	0.0	0.0
+98164	53017	53	17	Douglas County, Washington	22	Utilities	22	0500000US53017	1.0	0.0	0.0
+98165	53017	53	17	Douglas County, Washington	23	Construction	23	0500000US53017	150.75	568.25	29970.0
+98166	53017	53	17	Douglas County, Washington	42	Wholesale trade	42	0500000US53017	44.5	849.875	36878.5
+98167	53017	53	17	Douglas County, Washington	51	Information	51	0500000US53017	11.75	118.25	6864.5
+98168	53017	53	17	Douglas County, Washington	52	Finance and insurance	52	0500000US53017	33.5	184.875	8941.25
+98169	53017	53	17	Douglas County, Washington	53	Real estate and rental and leasing	53	0500000US53017	39.0	99.375	3311.25
+98170	53017	53	17	Douglas County, Washington	54	Professional, scientific, and technical services	54	0500000US53017	40.75	189.75	7784.125
+98171	53017	53	17	Douglas County, Washington	55	Management of companies and enterprises	55	0500000US53017	5.0	19.125	2168.375
+98172	53017	53	17	Douglas County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53017	47.75	293.875	8102.625
+98173	53017	53	17	Douglas County, Washington	61	Educational services	61	0500000US53017	6.125	42.125	665.75
+98174	53017	53	17	Douglas County, Washington	62	Health care and social assistance	62	0500000US53017	66.125	886.25	26698.25
+98175	53017	53	17	Douglas County, Washington	71	Arts, entertainment, and recreation	71	0500000US53017	11.25	137.25	2639.75
+98176	53017	53	17	Douglas County, Washington	72	Accommodation and food services	72	0500000US53017	59.625	960.5	17974.125
+98177	53017	53	17	Douglas County, Washington	81	Other services (except public administration)	81	0500000US53017	73.375	280.375	6984.625
+98178	53017	53	17	Douglas County, Washington	99	Industries not classified	99	0500000US53017	3.125	2.125	71.0
+98180	53019	53	19	Ferry County	11	Agriculture, forestry, fishing and hunting	11	0500000US53019	15.0	0.0	1174.0
+98181	53019	53	19	Ferry County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53019	2.0	0.0	0.0
+98182	53019	53	19	Ferry County	23	Construction	23	0500000US53019	14.0	0.0	721.0
+98183	53019	53	19	Ferry County	42	Wholesale trade	42	0500000US53019	1.0	0.0	0.0
+98184	53019	53	19	Ferry County	51	Information	51	0500000US53019	4.0	17.0	460.0
+98185	53019	53	19	Ferry County	52	Finance and insurance	52	0500000US53019	5.0	20.0	514.0
+98186	53019	53	19	Ferry County	53	Real estate and rental and leasing	53	0500000US53019	6.0	0.0	315.0
+98187	53019	53	19	Ferry County	54	Professional, scientific, and technical services	54	0500000US53019	7.0	0.0	428.0
+98188	53019	53	19	Ferry County	56	Administrative and support and waste management and remediation services	56	0500000US53019	4.0	0.0	485.0
+98189	53019	53	19	Ferry County	61	Educational services	61	0500000US53019	2.0	0.0	0.0
+98190	53019	53	19	Ferry County	62	Health care and social assistance	62	0500000US53019	13.0	0.0	0.0
+98191	53019	53	19	Ferry County	71	Arts, entertainment, and recreation	71	0500000US53019	1.0	0.0	0.0
+98192	53019	53	19	Ferry County	72	Accommodation and food services	72	0500000US53019	17.0	67.0	874.0
+98193	53019	53	19	Ferry County	81	Other services (except public administration)	81	0500000US53019	11.0	0.0	0.0
+98195	53019	53	19	Ferry County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53019	15.5	32.625	2201.125
+98196	53019	53	19	Ferry County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53019	1.75	0.0	0.0
+98197	53019	53	19	Ferry County, Washington	23	Construction	23	0500000US53019	15.0	19.25	1031.625
+98198	53019	53	19	Ferry County, Washington	42	Wholesale trade	42	0500000US53019	1.0	0.0	0.0
+98199	53019	53	19	Ferry County, Washington	51	Information	51	0500000US53019	3.125	11.875	469.0
+98200	53019	53	19	Ferry County, Washington	52	Finance and insurance	52	0500000US53019	5.375	15.875	608.875
+98201	53019	53	19	Ferry County, Washington	53	Real estate and rental and leasing	53	0500000US53019	7.375	21.875	497.375
+98202	53019	53	19	Ferry County, Washington	54	Professional, scientific, and technical services	54	0500000US53019	7.375	15.5	449.0
+98203	53019	53	19	Ferry County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53019	5.125	13.875	490.875
+98204	53019	53	19	Ferry County, Washington	61	Educational services	61	0500000US53019	2.625	5.5	80.75
+98205	53019	53	19	Ferry County, Washington	62	Health care and social assistance	62	0500000US53019	13.5	113.125	4648.25
+98206	53019	53	19	Ferry County, Washington	71	Arts, entertainment, and recreation	71	0500000US53019	1.0	0.0	0.0
+98207	53019	53	19	Ferry County, Washington	72	Accommodation and food services	72	0500000US53019	18.75	59.75	1202.625
+98208	53019	53	19	Ferry County, Washington	81	Other services (except public administration)	81	0500000US53019	10.0	32.75	956.875
+98210	53021	53	21	Franklin County	11	Agriculture, forestry, fishing and hunting	11	0500000US53021	21.0	474.0	19006.0
+98211	53021	53	21	Franklin County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53021	3.0	0.0	0.0
+98212	53021	53	21	Franklin County	22	Utilities	22	0500000US53021	4.0	0.0	0.0
+98213	53021	53	21	Franklin County	23	Construction	23	0500000US53021	215.0	1360.0	60611.0
+98214	53021	53	21	Franklin County	42	Wholesale trade	42	0500000US53021	123.0	1649.0	75827.0
+98215	53021	53	21	Franklin County	51	Information	51	0500000US53021	25.0	181.0	7577.0
+98216	53021	53	21	Franklin County	52	Finance and insurance	52	0500000US53021	54.0	390.0	18005.0
+98217	53021	53	21	Franklin County	53	Real estate and rental and leasing	53	0500000US53021	54.0	247.0	7058.0
+98218	53021	53	21	Franklin County	54	Professional, scientific, and technical services	54	0500000US53021	74.0	474.0	21643.0
+98219	53021	53	21	Franklin County	55	Management of companies and enterprises	55	0500000US53021	2.0	0.0	0.0
+98220	53021	53	21	Franklin County	56	Administrative and support and waste management and remediation services	56	0500000US53021	81.0	726.0	27135.0
+98221	53021	53	21	Franklin County	61	Educational services	61	0500000US53021	15.0	0.0	10507.0
+98222	53021	53	21	Franklin County	62	Health care and social assistance	62	0500000US53021	121.0	1712.0	82661.0
+98223	53021	53	21	Franklin County	71	Arts, entertainment, and recreation	71	0500000US53021	14.0	0.0	0.0
+98224	53021	53	21	Franklin County	72	Accommodation and food services	72	0500000US53021	118.0	1746.0	26499.0
+98225	53021	53	21	Franklin County	81	Other services (except public administration)	81	0500000US53021	129.0	684.0	16389.0
+98227	53021	53	21	Franklin County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53021	26.375	656.375	36627.375
+98228	53021	53	21	Franklin County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53021	3.0	34.375	2058.0
+98229	53021	53	21	Franklin County, Washington	22	Utilities	22	0500000US53021	3.75	6.5	681.25
+98230	53021	53	21	Franklin County, Washington	23	Construction	23	0500000US53021	258.5	1918.0	100638.5
+98231	53021	53	21	Franklin County, Washington	42	Wholesale trade	42	0500000US53021	126.125	1740.75	101202.25
+98232	53021	53	21	Franklin County, Washington	51	Information	51	0500000US53021	21.625	205.375	7469.875
+98233	53021	53	21	Franklin County, Washington	52	Finance and insurance	52	0500000US53021	49.25	367.875	21052.125
+98234	53021	53	21	Franklin County, Washington	53	Real estate and rental and leasing	53	0500000US53021	72.375	307.125	10716.375
+98235	53021	53	21	Franklin County, Washington	54	Professional, scientific, and technical services	54	0500000US53021	89.75	529.75	27461.375
+98236	53021	53	21	Franklin County, Washington	55	Management of companies and enterprises	55	0500000US53021	2.5714285714285716	41.714285714285715	3252.1428571428573
+98237	53021	53	21	Franklin County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53021	92.875	1001.0	41604.125
+98238	53021	53	21	Franklin County, Washington	61	Educational services	61	0500000US53021	16.75	283.625	12035.0
+98239	53021	53	21	Franklin County, Washington	62	Health care and social assistance	62	0500000US53021	140.875	2099.5	109765.75
+98240	53021	53	21	Franklin County, Washington	71	Arts, entertainment, and recreation	71	0500000US53021	15.125	229.75	6954.875
+98241	53021	53	21	Franklin County, Washington	72	Accommodation and food services	72	0500000US53021	131.25	2067.5	36651.625
+98242	53021	53	21	Franklin County, Washington	81	Other services (except public administration)	81	0500000US53021	143.75	737.5	21106.5
+98243	53021	53	21	Franklin County, Washington	99	Industries not classified	99	0500000US53021	3.4285714285714284	2.142857142857143	47.714285714285715
+98245	53023	53	23	Garfield County	11	Agriculture, forestry, fishing and hunting	11	0500000US53023	1.0	0.0	0.0
+98246	53023	53	23	Garfield County	22	Utilities	22	0500000US53023	1.0	0.0	0.0
+98247	53023	53	23	Garfield County	23	Construction	23	0500000US53023	2.0	0.0	0.0
+98248	53023	53	23	Garfield County	42	Wholesale trade	42	0500000US53023	9.0	131.0	5351.0
+98249	53023	53	23	Garfield County	51	Information	51	0500000US53023	1.0	0.0	0.0
+98250	53023	53	23	Garfield County	52	Finance and insurance	52	0500000US53023	4.0	0.0	559.0
+98251	53023	53	23	Garfield County	54	Professional, scientific, and technical services	54	0500000US53023	4.0	5.0	48.0
+98252	53023	53	23	Garfield County	56	Administrative and support and waste management and remediation services	56	0500000US53023	1.0	0.0	0.0
+98253	53023	53	23	Garfield County	62	Health care and social assistance	62	0500000US53023	4.0	0.0	0.0
+98254	53023	53	23	Garfield County	71	Arts, entertainment, and recreation	71	0500000US53023	1.0	0.0	0.0
+98255	53023	53	23	Garfield County	72	Accommodation and food services	72	0500000US53023	6.0	0.0	107.0
+98256	53023	53	23	Garfield County	81	Other services (except public administration)	81	0500000US53023	5.0	12.0	81.0
+98258	53023	53	23	Garfield County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53023	1.0	0.0	0.0
+98259	53023	53	23	Garfield County, Washington	22	Utilities	22	0500000US53023	2.0	0.0	0.0
+98260	53023	53	23	Garfield County, Washington	23	Construction	23	0500000US53023	3.5	6.0	211.0
+98261	53023	53	23	Garfield County, Washington	42	Wholesale trade	42	0500000US53023	7.625	89.25	3825.875
+98262	53023	53	23	Garfield County, Washington	51	Information	51	0500000US53023	1.0	0.0	0.0
+98263	53023	53	23	Garfield County, Washington	52	Finance and insurance	52	0500000US53023	4.125	12.0	497.5
+98264	53023	53	23	Garfield County, Washington	54	Professional, scientific, and technical services	54	0500000US53023	3.5	3.25	80.0
+98265	53023	53	23	Garfield County, Washington	62	Health care and social assistance	62	0500000US53023	5.375	81.625	2932.125
+98266	53023	53	23	Garfield County, Washington	71	Arts, entertainment, and recreation	71	0500000US53023	1.0	0.0	0.0
+98267	53023	53	23	Garfield County, Washington	72	Accommodation and food services	72	0500000US53023	2.75	4.75	74.0
+98268	53023	53	23	Garfield County, Washington	81	Other services (except public administration)	81	0500000US53023	3.875	9.625	128.625
+98270	53025	53	25	Grant County	11	Agriculture, forestry, fishing and hunting	11	0500000US53025	26.0	332.0	11064.0
+98271	53025	53	25	Grant County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53025	3.0	0.0	0.0
+98272	53025	53	25	Grant County	22	Utilities	22	0500000US53025	6.0	0.0	114.0
+98273	53025	53	25	Grant County	23	Construction	23	0500000US53025	179.0	752.0	35142.0
+98274	53025	53	25	Grant County	42	Wholesale trade	42	0500000US53025	127.0	1726.0	76614.0
+98275	53025	53	25	Grant County	51	Information	51	0500000US53025	23.0	234.0	9367.0
+98276	53025	53	25	Grant County	52	Finance and insurance	52	0500000US53025	98.0	559.0	28580.0
+98277	53025	53	25	Grant County	53	Real estate and rental and leasing	53	0500000US53025	81.0	213.0	5921.0
+98278	53025	53	25	Grant County	54	Professional, scientific, and technical services	54	0500000US53025	103.0	413.0	15584.0
+98279	53025	53	25	Grant County	55	Management of companies and enterprises	55	0500000US53025	5.0	0.0	0.0
+98280	53025	53	25	Grant County	56	Administrative and support and waste management and remediation services	56	0500000US53025	59.0	734.0	24736.0
+98281	53025	53	25	Grant County	61	Educational services	61	0500000US53025	8.0	100.0	1755.0
+98282	53025	53	25	Grant County	62	Health care and social assistance	62	0500000US53025	147.0	2896.0	119118.0
+98283	53025	53	25	Grant County	71	Arts, entertainment, and recreation	71	0500000US53025	22.0	201.0	4600.0
+98284	53025	53	25	Grant County	72	Accommodation and food services	72	0500000US53025	192.0	1932.0	31380.0
+98285	53025	53	25	Grant County	81	Other services (except public administration)	81	0500000US53025	182.0	664.0	13112.0
+98287	53025	53	25	Grant County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53025	23.5	476.375	17298.625
+98288	53025	53	25	Grant County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53025	2.4	0.0	0.0
+98289	53025	53	25	Grant County, Washington	22	Utilities	22	0500000US53025	7.125	10.875	323.875
+98290	53025	53	25	Grant County, Washington	23	Construction	23	0500000US53025	204.25	1082.625	60399.5
+98291	53025	53	25	Grant County, Washington	42	Wholesale trade	42	0500000US53025	133.875	1877.125	95222.25
+98292	53025	53	25	Grant County, Washington	51	Information	51	0500000US53025	28.375	329.875	21230.75
+98293	53025	53	25	Grant County, Washington	52	Finance and insurance	52	0500000US53025	91.75	538.25	30330.875
+98294	53025	53	25	Grant County, Washington	53	Real estate and rental and leasing	53	0500000US53025	117.125	294.75	6980.875
+98295	53025	53	25	Grant County, Washington	54	Professional, scientific, and technical services	54	0500000US53025	104.0	797.125	51176.25
+98296	53025	53	25	Grant County, Washington	55	Management of companies and enterprises	55	0500000US53025	4.25	139.875	10486.75
+98297	53025	53	25	Grant County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53025	67.375	1074.625	37383.5
+98298	53025	53	25	Grant County, Washington	61	Educational services	61	0500000US53025	11.75	106.125	2129.0
+98299	53025	53	25	Grant County, Washington	62	Health care and social assistance	62	0500000US53025	168.625	2993.5	134904.125
+98300	53025	53	25	Grant County, Washington	71	Arts, entertainment, and recreation	71	0500000US53025	21.125	232.125	5937.25
+98301	53025	53	25	Grant County, Washington	72	Accommodation and food services	72	0500000US53025	196.625	2207.0	40339.125
+98302	53025	53	25	Grant County, Washington	81	Other services (except public administration)	81	0500000US53025	185.75	693.125	15470.375
+98303	53025	53	25	Grant County, Washington	99	Industries not classified	99	0500000US53025	4.375	2.875	111.5
+98305	53027	53	27	Grays Harbor County	11	Agriculture, forestry, fishing and hunting	11	0500000US53027	75.0	569.0	30945.0
+98306	53027	53	27	Grays Harbor County	22	Utilities	22	0500000US53027	3.0	0.0	0.0
+98307	53027	53	27	Grays Harbor County	23	Construction	23	0500000US53027	160.0	1331.0	84455.0
+98308	53027	53	27	Grays Harbor County	42	Wholesale trade	42	0500000US53027	52.0	557.0	25439.0
+98309	53027	53	27	Grays Harbor County	51	Information	51	0500000US53027	20.0	187.0	7523.0
+98310	53027	53	27	Grays Harbor County	52	Finance and insurance	52	0500000US53027	86.0	634.0	26809.0
+98311	53027	53	27	Grays Harbor County	53	Real estate and rental and leasing	53	0500000US53027	84.0	249.0	6096.0
+98312	53027	53	27	Grays Harbor County	54	Professional, scientific, and technical services	54	0500000US53027	90.0	429.0	18174.0
+98313	53027	53	27	Grays Harbor County	55	Management of companies and enterprises	55	0500000US53027	3.0	0.0	0.0
+98314	53027	53	27	Grays Harbor County	56	Administrative and support and waste management and remediation services	56	0500000US53027	61.0	550.0	13888.0
+98315	53027	53	27	Grays Harbor County	61	Educational services	61	0500000US53027	8.0	0.0	468.0
+98316	53027	53	27	Grays Harbor County	62	Health care and social assistance	62	0500000US53027	200.0	2785.0	104831.0
+98317	53027	53	27	Grays Harbor County	71	Arts, entertainment, and recreation	71	0500000US53027	29.0	157.0	2618.0
+98318	53027	53	27	Grays Harbor County	72	Accommodation and food services	72	0500000US53027	234.0	1929.0	33425.0
+98319	53027	53	27	Grays Harbor County	81	Other services (except public administration)	81	0500000US53027	159.0	864.0	15249.0
+98320	53027	53	27	Grays Harbor County	99	Industries not classified	99	0500000US53027	4.0	2.0	89.0
+98322	53027	53	27	Grays Harbor County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53027	67.125	333.25	22259.5
+98323	53027	53	27	Grays Harbor County, Washington	22	Utilities	22	0500000US53027	3.0	14.875	1365.375
+98324	53027	53	27	Grays Harbor County, Washington	23	Construction	23	0500000US53027	165.375	1106.25	65726.25
+98325	53027	53	27	Grays Harbor County, Washington	42	Wholesale trade	42	0500000US53027	47.375	641.125	31614.25
+98326	53027	53	27	Grays Harbor County, Washington	51	Information	51	0500000US53027	21.625	164.875	7393.0
+98327	53027	53	27	Grays Harbor County, Washington	52	Finance and insurance	52	0500000US53027	72.5	385.125	28159.5
+98328	53027	53	27	Grays Harbor County, Washington	53	Real estate and rental and leasing	53	0500000US53027	76.5	317.875	7995.0
+98329	53027	53	27	Grays Harbor County, Washington	54	Professional, scientific, and technical services	54	0500000US53027	82.375	392.375	22410.75
+98330	53027	53	27	Grays Harbor County, Washington	55	Management of companies and enterprises	55	0500000US53027	3.25	27.75	3969.25
+98331	53027	53	27	Grays Harbor County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53027	58.5	598.75	17361.0
+98332	53027	53	27	Grays Harbor County, Washington	61	Educational services	61	0500000US53027	7.625	15.25	368.875
+98333	53027	53	27	Grays Harbor County, Washington	62	Health care and social assistance	62	0500000US53027	185.375	2778.125	121832.75
+98334	53027	53	27	Grays Harbor County, Washington	71	Arts, entertainment, and recreation	71	0500000US53027	28.375	211.25	3156.375
+98335	53027	53	27	Grays Harbor County, Washington	72	Accommodation and food services	72	0500000US53027	223.875	2158.125	41295.875
+98336	53027	53	27	Grays Harbor County, Washington	81	Other services (except public administration)	81	0500000US53027	154.375	872.375	17336.625
+98337	53027	53	27	Grays Harbor County, Washington	99	Industries not classified	99	0500000US53027	5.0	5.375	122.875
+98339	53029	53	29	Island County	11	Agriculture, forestry, fishing and hunting	11	0500000US53029	13.0	0.0	659.0
+98340	53029	53	29	Island County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53029	3.0	14.0	583.0
+98341	53029	53	29	Island County	22	Utilities	22	0500000US53029	15.0	52.0	1893.0
+98342	53029	53	29	Island County	23	Construction	23	0500000US53029	273.0	733.0	30999.0
+98343	53029	53	29	Island County	42	Wholesale trade	42	0500000US53029	43.0	145.0	7266.0
+98344	53029	53	29	Island County	51	Information	51	0500000US53029	28.0	0.0	0.0
+98345	53029	53	29	Island County	52	Finance and insurance	52	0500000US53029	84.0	475.0	20430.0
+98346	53029	53	29	Island County	53	Real estate and rental and leasing	53	0500000US53029	82.0	0.0	6764.0
+98347	53029	53	29	Island County	54	Professional, scientific, and technical services	54	0500000US53029	178.0	613.0	24722.0
+98348	53029	53	29	Island County	55	Management of companies and enterprises	55	0500000US53029	3.0	0.0	0.0
+98349	53029	53	29	Island County	56	Administrative and support and waste management and remediation services	56	0500000US53029	100.0	353.0	10438.0
+98350	53029	53	29	Island County	61	Educational services	61	0500000US53029	32.0	232.0	6678.0
+98351	53029	53	29	Island County	62	Health care and social assistance	62	0500000US53029	171.0	2379.0	94712.0
+98352	53029	53	29	Island County	71	Arts, entertainment, and recreation	71	0500000US53029	48.0	326.0	5746.0
+98353	53029	53	29	Island County	72	Accommodation and food services	72	0500000US53029	159.0	1662.0	26081.0
+98354	53029	53	29	Island County	81	Other services (except public administration)	81	0500000US53029	145.0	740.0	15454.0
+98355	53029	53	29	Island County	99	Industries not classified	99	0500000US53029	3.0	0.0	15.0
+98357	53029	53	29	Island County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53029	20.5	18.875	1320.625
+98358	53029	53	29	Island County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53029	2.6	3.6	245.0
+98359	53029	53	29	Island County, Washington	22	Utilities	22	0500000US53029	14.0	57.5	2720.25
+98360	53029	53	29	Island County, Washington	23	Construction	23	0500000US53029	298.25	1099.375	56872.625
+98361	53029	53	29	Island County, Washington	42	Wholesale trade	42	0500000US53029	41.0	173.75	10263.0
+98362	53029	53	29	Island County, Washington	51	Information	51	0500000US53029	26.125	162.75	7613.25
+98363	53029	53	29	Island County, Washington	52	Finance and insurance	52	0500000US53029	77.625	381.5	21434.375
+98364	53029	53	29	Island County, Washington	53	Real estate and rental and leasing	53	0500000US53029	111.375	316.5	11281.75
+98365	53029	53	29	Island County, Washington	54	Professional, scientific, and technical services	54	0500000US53029	180.5	696.0	36582.0
+98366	53029	53	29	Island County, Washington	55	Management of companies and enterprises	55	0500000US53029	2.2	4.4	276.8
+98367	53029	53	29	Island County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53029	111.25	422.25	13538.875
+98368	53029	53	29	Island County, Washington	61	Educational services	61	0500000US53029	36.75	258.375	9155.125
+98369	53029	53	29	Island County, Washington	62	Health care and social assistance	62	0500000US53029	170.0	2546.5	112546.625
+98370	53029	53	29	Island County, Washington	71	Arts, entertainment, and recreation	71	0500000US53029	44.0	328.75	7084.625
+98371	53029	53	29	Island County, Washington	72	Accommodation and food services	72	0500000US53029	160.5	1838.25	37782.75
+98372	53029	53	29	Island County, Washington	81	Other services (except public administration)	81	0500000US53029	158.5	814.375	18804.0
+98373	53029	53	29	Island County, Washington	99	Industries not classified	99	0500000US53029	7.714285714285714	6.428571428571429	245.71428571428572
+98375	53031	53	31	Jefferson County	11	Agriculture, forestry, fishing and hunting	11	0500000US53031	8.0	0.0	793.0
+98376	53031	53	31	Jefferson County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53031	3.0	0.0	0.0
+98377	53031	53	31	Jefferson County	22	Utilities	22	0500000US53031	5.0	0.0	0.0
+98378	53031	53	31	Jefferson County	23	Construction	23	0500000US53031	138.0	586.0	25122.0
+98379	53031	53	31	Jefferson County	42	Wholesale trade	42	0500000US53031	24.0	134.0	4813.0
+98380	53031	53	31	Jefferson County	51	Information	51	0500000US53031	24.0	150.0	7205.0
+98381	53031	53	31	Jefferson County	52	Finance and insurance	52	0500000US53031	39.0	150.0	7597.0
+98382	53031	53	31	Jefferson County	53	Real estate and rental and leasing	53	0500000US53031	49.0	115.0	2601.0
+98383	53031	53	31	Jefferson County	54	Professional, scientific, and technical services	54	0500000US53031	108.0	254.0	9997.0
+98384	53031	53	31	Jefferson County	55	Management of companies and enterprises	55	0500000US53031	4.0	0.0	0.0
+98385	53031	53	31	Jefferson County	56	Administrative and support and waste management and remediation services	56	0500000US53031	45.0	139.0	3679.0
+98386	53031	53	31	Jefferson County	61	Educational services	61	0500000US53031	25.0	130.0	2697.0
+98387	53031	53	31	Jefferson County	62	Health care and social assistance	62	0500000US53031	109.0	1329.0	52014.0
+98388	53031	53	31	Jefferson County	71	Arts, entertainment, and recreation	71	0500000US53031	22.0	116.0	2093.0
+98389	53031	53	31	Jefferson County	72	Accommodation and food services	72	0500000US53031	108.0	953.0	14807.0
+98390	53031	53	31	Jefferson County	81	Other services (except public administration)	81	0500000US53031	106.0	484.0	11050.0
+98392	53031	53	31	Jefferson County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53031	13.25	30.875	2256.625
+98393	53031	53	31	Jefferson County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53031	3.0	18.0	1146.125
+98394	53031	53	31	Jefferson County, Washington	22	Utilities	22	0500000US53031	3.25	0.0	0.0
+98395	53031	53	31	Jefferson County, Washington	23	Construction	23	0500000US53031	147.25	606.25	27787.0
+98396	53031	53	31	Jefferson County, Washington	42	Wholesale trade	42	0500000US53031	24.25	131.125	5095.375
+98397	53031	53	31	Jefferson County, Washington	51	Information	51	0500000US53031	26.125	145.375	7059.875
+98398	53031	53	31	Jefferson County, Washington	52	Finance and insurance	52	0500000US53031	33.875	149.0	9559.0
+98399	53031	53	31	Jefferson County, Washington	53	Real estate and rental and leasing	53	0500000US53031	53.875	142.125	5095.75
+98400	53031	53	31	Jefferson County, Washington	54	Professional, scientific, and technical services	54	0500000US53031	108.25	294.875	13655.25
+98401	53031	53	31	Jefferson County, Washington	55	Management of companies and enterprises	55	0500000US53031	3.6	11.2	426.6
+98402	53031	53	31	Jefferson County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53031	38.125	190.375	6390.375
+98403	53031	53	31	Jefferson County, Washington	61	Educational services	61	0500000US53031	22.25	137.5	3204.75
+98404	53031	53	31	Jefferson County, Washington	62	Health care and social assistance	62	0500000US53031	101.75	1448.75	67074.875
+98405	53031	53	31	Jefferson County, Washington	71	Arts, entertainment, and recreation	71	0500000US53031	25.875	131.625	3236.625
+98406	53031	53	31	Jefferson County, Washington	72	Accommodation and food services	72	0500000US53031	103.125	1009.375	19811.25
+98407	53031	53	31	Jefferson County, Washington	81	Other services (except public administration)	81	0500000US53031	108.375	534.875	15102.875
+98408	53031	53	31	Jefferson County, Washington	99	Industries not classified	99	0500000US53031	4.625	6.625	174.125
+98410	53033	53	33	King County	11	Agriculture, forestry, fishing and hunting	11	0500000US53033	238.0	1947.0	142577.0
+98411	53033	53	33	King County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53033	22.0	335.0	26159.0
+98412	53033	53	33	King County	22	Utilities	22	0500000US53033	45.0	0.0	0.0
+98413	53033	53	33	King County	23	Construction	23	0500000US53033	5154.0	44855.0	2887438.0
+98414	53033	53	33	King County	42	Wholesale trade	42	0500000US53033	4012.0	58984.0	4214466.0
+98415	53033	53	33	King County	51	Information	51	0500000US53033	1627.0	89853.0	13968957.0
+98416	53033	53	33	King County	52	Finance and insurance	52	0500000US53033	3591.0	42107.0	3813457.0
+98417	53033	53	33	King County	53	Real estate and rental and leasing	53	0500000US53033	4137.0	23247.0	1220644.0
+98418	53033	53	33	King County	54	Professional, scientific, and technical services	54	0500000US53033	9672.0	96384.0	8366010.0
+98419	53033	53	33	King County	55	Management of companies and enterprises	55	0500000US53033	551.0	51739.0	6402676.0
+98420	53033	53	33	King County	56	Administrative and support and waste management and remediation services	56	0500000US53033	3279.0	63882.0	3189466.0
+98421	53033	53	33	King County	61	Educational services	61	0500000US53033	1222.0	23958.0	765162.0
+98422	53033	53	33	King County	62	Health care and social assistance	62	0500000US53033	7302.0	135142.0	6979404.0
+98423	53033	53	33	King County	71	Arts, entertainment, and recreation	71	0500000US53033	1034.0	24931.0	940459.0
+98424	53033	53	33	King County	72	Accommodation and food services	72	0500000US53033	5895.0	93352.0	1990061.0
+98425	53033	53	33	King County	81	Other services (except public administration)	81	0500000US53033	5694.0	43699.0	1513665.0
+98426	53033	53	33	King County	99	Industries not classified	99	0500000US53033	70.0	0.0	1304.0
+98428	53033	53	33	King County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53033	225.125	1470.5	123568.375
+98429	53033	53	33	King County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53033	22.375	400.0	22062.375
+98430	53033	53	33	King County, Washington	22	Utilities	22	0500000US53033	43.625	3894.25	464032.25
+98431	53033	53	33	King County, Washington	23	Construction	23	0500000US53033	6035.25	64808.125	4834816.125
+98432	53033	53	33	King County, Washington	42	Wholesale trade	42	0500000US53033	3779.125	61682.25	4692862.125
+98433	53033	53	33	King County, Washington	51	Information	51	0500000US53033	1845.875	110463.25	21854831.625
+98434	53033	53	33	King County, Washington	52	Finance and insurance	52	0500000US53033	3562.875	46378.75	4958987.75
+98435	53033	53	33	King County, Washington	53	Real estate and rental and leasing	53	0500000US53033	4660.125	24713.5	1609642.0
+98436	53033	53	33	King County, Washington	54	Professional, scientific, and technical services	54	0500000US53033	10641.375	113463.5	11428139.5
+98437	53033	53	33	King County, Washington	55	Management of companies and enterprises	55	0500000US53033	599.875	79792.375	10804831.625
+98438	53033	53	33	King County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53033	3431.75	66152.0	3662463.25
+98439	53033	53	33	King County, Washington	61	Educational services	61	0500000US53033	1421.875	26600.875	891035.625
+98440	53033	53	33	King County, Washington	62	Health care and social assistance	62	0500000US53033	7807.0	151028.75	8874564.75
+98441	53033	53	33	King County, Washington	71	Arts, entertainment, and recreation	71	0500000US53033	1216.25	30038.5	1192450.75
+98442	53033	53	33	King County, Washington	72	Accommodation and food services	72	0500000US53033	6361.875	112340.625	2794647.375
+98443	53033	53	33	King County, Washington	81	Other services (except public administration)	81	0500000US53033	5938.0	49100.375	2041634.5
+98444	53033	53	33	King County, Washington	99	Industries not classified	99	0500000US53033	171.0	107.75	4900.875
+98446	53035	53	35	Kitsap County	11	Agriculture, forestry, fishing and hunting	11	0500000US53035	33.0	74.0	3409.0
+98447	53035	53	35	Kitsap County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53035	2.0	0.0	0.0
+98448	53035	53	35	Kitsap County	22	Utilities	22	0500000US53035	11.0	0.0	0.0
+98449	53035	53	35	Kitsap County	23	Construction	23	0500000US53035	707.0	2933.0	146108.0
+98450	53035	53	35	Kitsap County	42	Wholesale trade	42	0500000US53035	174.0	1033.0	55048.0
+98451	53035	53	35	Kitsap County	51	Information	51	0500000US53035	78.0	1768.0	142455.0
+98452	53035	53	35	Kitsap County	52	Finance and insurance	52	0500000US53035	304.0	1967.0	104030.0
+98453	53035	53	35	Kitsap County	53	Real estate and rental and leasing	53	0500000US53035	334.0	959.0	32566.0
+98454	53035	53	35	Kitsap County	54	Professional, scientific, and technical services	54	0500000US53035	706.0	4298.0	211638.0
+98455	53035	53	35	Kitsap County	55	Management of companies and enterprises	55	0500000US53035	18.0	158.0	8855.0
+98456	53035	53	35	Kitsap County	56	Administrative and support and waste management and remediation services	56	0500000US53035	324.0	3805.0	114697.0
+98457	53035	53	35	Kitsap County	61	Educational services	61	0500000US53035	97.0	875.0	25524.0
+98458	53035	53	35	Kitsap County	62	Health care and social assistance	62	0500000US53035	682.0	12248.0	503291.0
+98459	53035	53	35	Kitsap County	71	Arts, entertainment, and recreation	71	0500000US53035	96.0	1401.0	27976.0
+98460	53035	53	35	Kitsap County	72	Accommodation and food services	72	0500000US53035	470.0	7311.0	132121.0
+98461	53035	53	35	Kitsap County	81	Other services (except public administration)	81	0500000US53035	531.0	3073.0	71324.0
+98462	53035	53	35	Kitsap County	99	Industries not classified	99	0500000US53035	2.0	0.0	0.0
+98464	53035	53	35	Kitsap County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53035	35.375	65.25	5372.25
+98465	53035	53	35	Kitsap County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53035	2.0	0.0	0.0
+98466	53035	53	35	Kitsap County, Washington	22	Utilities	22	0500000US53035	10.25	97.5	9853.375
+98467	53035	53	35	Kitsap County, Washington	23	Construction	23	0500000US53035	824.0	4111.75	232415.75
+98468	53035	53	35	Kitsap County, Washington	42	Wholesale trade	42	0500000US53035	152.0	1001.75	58216.125
+98469	53035	53	35	Kitsap County, Washington	51	Information	51	0500000US53035	97.375	985.875	58104.125
+98470	53035	53	35	Kitsap County, Washington	52	Finance and insurance	52	0500000US53035	295.125	1811.0	112165.75
+98471	53035	53	35	Kitsap County, Washington	53	Real estate and rental and leasing	53	0500000US53035	385.5	1062.375	45100.625
+98472	53035	53	35	Kitsap County, Washington	54	Professional, scientific, and technical services	54	0500000US53035	720.0	4449.125	283986.25
+98473	53035	53	35	Kitsap County, Washington	55	Management of companies and enterprises	55	0500000US53035	20.5	288.75	20018.125
+98474	53035	53	35	Kitsap County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53035	337.0	3483.75	110343.75
+98475	53035	53	35	Kitsap County, Washington	61	Educational services	61	0500000US53035	88.0	701.875	20912.5
+98476	53035	53	35	Kitsap County, Washington	62	Health care and social assistance	62	0500000US53035	703.875	12753.0	617674.625
+98477	53035	53	35	Kitsap County, Washington	71	Arts, entertainment, and recreation	71	0500000US53035	98.625	1579.0	32262.375
+98478	53035	53	35	Kitsap County, Washington	72	Accommodation and food services	72	0500000US53035	512.375	9134.5	185300.625
+98479	53035	53	35	Kitsap County, Washington	81	Other services (except public administration)	81	0500000US53035	564.875	3470.125	93632.625
+98480	53035	53	35	Kitsap County, Washington	99	Industries not classified	99	0500000US53035	12.75	12.125	427.125
+98482	53037	53	37	Kittitas County	11	Agriculture, forestry, fishing and hunting	11	0500000US53037	15.0	0.0	0.0
+98483	53037	53	37	Kittitas County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53037	2.0	0.0	0.0
+98484	53037	53	37	Kittitas County	22	Utilities	22	0500000US53037	9.0	0.0	3000.0
+98485	53037	53	37	Kittitas County	23	Construction	23	0500000US53037	181.0	425.0	18286.0
+98486	53037	53	37	Kittitas County	42	Wholesale trade	42	0500000US53037	43.0	442.0	23941.0
+98487	53037	53	37	Kittitas County	51	Information	51	0500000US53037	12.0	158.0	6450.0
+98488	53037	53	37	Kittitas County	52	Finance and insurance	52	0500000US53037	44.0	184.0	7652.0
+98489	53037	53	37	Kittitas County	53	Real estate and rental and leasing	53	0500000US53037	55.0	140.0	4485.0
+98490	53037	53	37	Kittitas County	54	Professional, scientific, and technical services	54	0500000US53037	66.0	235.0	8990.0
+98491	53037	53	37	Kittitas County	55	Management of companies and enterprises	55	0500000US53037	2.0	0.0	0.0
+98492	53037	53	37	Kittitas County	56	Administrative and support and waste management and remediation services	56	0500000US53037	54.0	197.0	6347.0
+98493	53037	53	37	Kittitas County	61	Educational services	61	0500000US53037	10.0	198.0	2584.0
+98494	53037	53	37	Kittitas County	62	Health care and social assistance	62	0500000US53037	97.0	1600.0	55828.0
+98495	53037	53	37	Kittitas County	71	Arts, entertainment, and recreation	71	0500000US53037	27.0	0.0	0.0
+98496	53037	53	37	Kittitas County	72	Accommodation and food services	72	0500000US53037	162.0	1957.0	36686.0
+98497	53037	53	37	Kittitas County	81	Other services (except public administration)	81	0500000US53037	101.0	489.0	10774.0
+98498	53037	53	37	Kittitas County	99	Industries not classified	99	0500000US53037	2.0	0.0	0.0
+98500	53037	53	37	Kittitas County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53037	14.125	99.25	5706.625
+98501	53037	53	37	Kittitas County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53037	2.25	0.0	0.0
+98502	53037	53	37	Kittitas County, Washington	22	Utilities	22	0500000US53037	9.25	38.0	3714.5
+98503	53037	53	37	Kittitas County, Washington	23	Construction	23	0500000US53037	224.125	840.375	43050.375
+98504	53037	53	37	Kittitas County, Washington	42	Wholesale trade	42	0500000US53037	43.625	517.375	30439.375
+98505	53037	53	37	Kittitas County, Washington	51	Information	51	0500000US53037	15.625	219.25	9496.375
+98506	53037	53	37	Kittitas County, Washington	52	Finance and insurance	52	0500000US53037	49.875	215.125	10967.25
+98507	53037	53	37	Kittitas County, Washington	53	Real estate and rental and leasing	53	0500000US53037	66.0	167.25	7366.75
+98508	53037	53	37	Kittitas County, Washington	54	Professional, scientific, and technical services	54	0500000US53037	83.125	292.125	13262.625
+98509	53037	53	37	Kittitas County, Washington	55	Management of companies and enterprises	55	0500000US53037	3.125	6.25	268.75
+98510	53037	53	37	Kittitas County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53037	61.375	298.75	15714.0
+98511	53037	53	37	Kittitas County, Washington	61	Educational services	61	0500000US53037	12.25	182.125	2926.875
+98512	53037	53	37	Kittitas County, Washington	62	Health care and social assistance	62	0500000US53037	102.125	1726.125	70836.625
+98513	53037	53	37	Kittitas County, Washington	71	Arts, entertainment, and recreation	71	0500000US53037	31.0	866.25	7270.625
+98514	53037	53	37	Kittitas County, Washington	72	Accommodation and food services	72	0500000US53037	162.0	2447.375	47908.625
+98515	53037	53	37	Kittitas County, Washington	81	Other services (except public administration)	81	0500000US53037	102.0	522.125	13585.375
+98516	53037	53	37	Kittitas County, Washington	99	Industries not classified	99	0500000US53037	4.375	3.125	77.75
+98518	53039	53	39	Klickitat County	11	Agriculture, forestry, fishing and hunting	11	0500000US53039	29.0	0.0	14553.0
+98519	53039	53	39	Klickitat County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53039	2.0	0.0	0.0
+98520	53039	53	39	Klickitat County	22	Utilities	22	0500000US53039	10.0	62.0	4952.0
+98521	53039	53	39	Klickitat County	23	Construction	23	0500000US53039	82.0	166.0	7957.0
+98522	53039	53	39	Klickitat County	42	Wholesale trade	42	0500000US53039	18.0	117.0	5228.0
+98523	53039	53	39	Klickitat County	51	Information	51	0500000US53039	8.0	0.0	1048.0
+98524	53039	53	39	Klickitat County	52	Finance and insurance	52	0500000US53039	16.0	0.0	2582.0
+98525	53039	53	39	Klickitat County	53	Real estate and rental and leasing	53	0500000US53039	21.0	21.0	408.0
+98526	53039	53	39	Klickitat County	54	Professional, scientific, and technical services	54	0500000US53039	64.0	294.0	13290.0
+98527	53039	53	39	Klickitat County	56	Administrative and support and waste management and remediation services	56	0500000US53039	22.0	204.0	10360.0
+98528	53039	53	39	Klickitat County	61	Educational services	61	0500000US53039	7.0	0.0	510.0
+98529	53039	53	39	Klickitat County	62	Health care and social assistance	62	0500000US53039	40.0	582.0	26029.0
+98530	53039	53	39	Klickitat County	71	Arts, entertainment, and recreation	71	0500000US53039	12.0	35.0	1281.0
+98531	53039	53	39	Klickitat County	72	Accommodation and food services	72	0500000US53039	49.0	287.0	5804.0
+98532	53039	53	39	Klickitat County	81	Other services (except public administration)	81	0500000US53039	49.0	145.0	2844.0
+98533	53039	53	39	Klickitat County	99	Industries not classified	99	0500000US53039	3.0	0.0	0.0
+98535	53039	53	39	Klickitat County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53039	20.625	395.5	14904.625
+98536	53039	53	39	Klickitat County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53039	2.25	0.0	0.0
+98537	53039	53	39	Klickitat County, Washington	22	Utilities	22	0500000US53039	9.5	60.625	6091.375
+98538	53039	53	39	Klickitat County, Washington	23	Construction	23	0500000US53039	85.125	189.75	7851.625
+98539	53039	53	39	Klickitat County, Washington	42	Wholesale trade	42	0500000US53039	16.875	156.0	11370.0
+98540	53039	53	39	Klickitat County, Washington	51	Information	51	0500000US53039	8.5	37.375	1967.375
+98541	53039	53	39	Klickitat County, Washington	52	Finance and insurance	52	0500000US53039	18.75	61.875	2985.125
+98542	53039	53	39	Klickitat County, Washington	53	Real estate and rental and leasing	53	0500000US53039	24.0	43.0	1128.625
+98543	53039	53	39	Klickitat County, Washington	54	Professional, scientific, and technical services	54	0500000US53039	54.375	302.75	15502.375
+98544	53039	53	39	Klickitat County, Washington	55	Management of companies and enterprises	55	0500000US53039	1.0	0.0	0.0
+98545	53039	53	39	Klickitat County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53039	19.125	222.5	13471.875
+98546	53039	53	39	Klickitat County, Washington	61	Educational services	61	0500000US53039	6.0	26.375	662.625
+98547	53039	53	39	Klickitat County, Washington	62	Health care and social assistance	62	0500000US53039	45.25	630.75	29535.625
+98548	53039	53	39	Klickitat County, Washington	71	Arts, entertainment, and recreation	71	0500000US53039	12.375	34.375	1677.625
+98549	53039	53	39	Klickitat County, Washington	72	Accommodation and food services	72	0500000US53039	53.875	351.5	7931.875
+98550	53039	53	39	Klickitat County, Washington	81	Other services (except public administration)	81	0500000US53039	53.25	210.875	6120.625
+98551	53039	53	39	Klickitat County, Washington	99	Industries not classified	99	0500000US53039	1.3333333333333333	0.0	0.0
+98553	53041	53	41	Lewis County	11	Agriculture, forestry, fishing and hunting	11	0500000US53041	72.0	789.0	25199.0
+98554	53041	53	41	Lewis County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53041	11.0	83.0	11636.0
+98555	53041	53	41	Lewis County	22	Utilities	22	0500000US53041	8.0	0.0	0.0
+98556	53041	53	41	Lewis County	23	Construction	23	0500000US53041	185.0	709.0	29384.0
+98557	53041	53	41	Lewis County	42	Wholesale trade	42	0500000US53041	70.0	627.0	22476.0
+98558	53041	53	41	Lewis County	51	Information	51	0500000US53041	17.0	0.0	6061.0
+98559	53041	53	41	Lewis County	52	Finance and insurance	52	0500000US53041	86.0	388.0	16026.0
+98560	53041	53	41	Lewis County	53	Real estate and rental and leasing	53	0500000US53041	75.0	270.0	8516.0
+98561	53041	53	41	Lewis County	54	Professional, scientific, and technical services	54	0500000US53041	119.0	520.0	18210.0
+98562	53041	53	41	Lewis County	55	Management of companies and enterprises	55	0500000US53041	3.0	0.0	0.0
+98563	53041	53	41	Lewis County	56	Administrative and support and waste management and remediation services	56	0500000US53041	77.0	690.0	18779.0
+98564	53041	53	41	Lewis County	61	Educational services	61	0500000US53041	10.0	105.0	1570.0
+98565	53041	53	41	Lewis County	62	Health care and social assistance	62	0500000US53041	200.0	3415.0	141402.0
+98566	53041	53	41	Lewis County	71	Arts, entertainment, and recreation	71	0500000US53041	17.0	187.0	2205.0
+98567	53041	53	41	Lewis County	72	Accommodation and food services	72	0500000US53041	188.0	1840.0	28000.0
+98568	53041	53	41	Lewis County	81	Other services (except public administration)	81	0500000US53041	167.0	782.0	16276.0
+98569	53041	53	41	Lewis County	99	Industries not classified	99	0500000US53041	3.0	0.0	0.0
+98571	53041	53	41	Lewis County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53041	79.25	883.5	38194.75
+98572	53041	53	41	Lewis County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53041	8.75	81.0	5463.875
+98573	53041	53	41	Lewis County, Washington	22	Utilities	22	0500000US53041	7.875	175.625	18960.0
+98574	53041	53	41	Lewis County, Washington	23	Construction	23	0500000US53041	215.0	942.75	48796.125
+98575	53041	53	41	Lewis County, Washington	42	Wholesale trade	42	0500000US53041	72.75	647.5	32413.75
+98576	53041	53	41	Lewis County, Washington	51	Information	51	0500000US53041	24.875	181.25	7100.0
+98577	53041	53	41	Lewis County, Washington	52	Finance and insurance	52	0500000US53041	87.875	385.625	19193.5
+98578	53041	53	41	Lewis County, Washington	53	Real estate and rental and leasing	53	0500000US53041	85.125	328.125	14727.0
+98579	53041	53	41	Lewis County, Washington	54	Professional, scientific, and technical services	54	0500000US53041	110.0	554.375	24403.0
+98580	53041	53	41	Lewis County, Washington	55	Management of companies and enterprises	55	0500000US53041	3.5714285714285716	59.857142857142854	3768.0
+98581	53041	53	41	Lewis County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53041	74.875	932.25	27979.0
+98582	53041	53	41	Lewis County, Washington	61	Educational services	61	0500000US53041	13.125	144.125	3066.25
+98583	53041	53	41	Lewis County, Washington	62	Health care and social assistance	62	0500000US53041	206.5	3604.875	171933.875
+98584	53041	53	41	Lewis County, Washington	71	Arts, entertainment, and recreation	71	0500000US53041	18.25	190.375	2267.75
+98585	53041	53	41	Lewis County, Washington	72	Accommodation and food services	72	0500000US53041	193.0	2188.375	38945.75
+98586	53041	53	41	Lewis County, Washington	81	Other services (except public administration)	81	0500000US53041	172.375	804.875	19147.5
+98587	53041	53	41	Lewis County, Washington	99	Industries not classified	99	0500000US53041	5.285714285714286	7.428571428571429	181.85714285714286
+98589	53043	53	43	Lincoln County	11	Agriculture, forestry, fishing and hunting	11	0500000US53043	1.0	0.0	0.0
+98590	53043	53	43	Lincoln County	22	Utilities	22	0500000US53043	4.0	0.0	1719.0
+98591	53043	53	43	Lincoln County	23	Construction	23	0500000US53043	36.0	150.0	6140.0
+98592	53043	53	43	Lincoln County	42	Wholesale trade	42	0500000US53043	28.0	158.0	8093.0
+98593	53043	53	43	Lincoln County	51	Information	51	0500000US53043	6.0	0.0	0.0
+98594	53043	53	43	Lincoln County	52	Finance and insurance	52	0500000US53043	22.0	75.0	2308.0
+98595	53043	53	43	Lincoln County	53	Real estate and rental and leasing	53	0500000US53043	4.0	0.0	119.0
+98596	53043	53	43	Lincoln County	54	Professional, scientific, and technical services	54	0500000US53043	11.0	0.0	5742.0
+98597	53043	53	43	Lincoln County	55	Management of companies and enterprises	55	0500000US53043	1.0	0.0	0.0
+98598	53043	53	43	Lincoln County	56	Administrative and support and waste management and remediation services	56	0500000US53043	8.0	0.0	0.0
+98599	53043	53	43	Lincoln County	61	Educational services	61	0500000US53043	2.0	0.0	0.0
+98600	53043	53	43	Lincoln County	62	Health care and social assistance	62	0500000US53043	16.0	0.0	0.0
+98601	53043	53	43	Lincoln County	71	Arts, entertainment, and recreation	71	0500000US53043	8.0	0.0	1314.0
+98602	53043	53	43	Lincoln County	72	Accommodation and food services	72	0500000US53043	24.0	92.0	1025.0
+98603	53043	53	43	Lincoln County	81	Other services (except public administration)	81	0500000US53043	29.0	0.0	1003.0
+98605	53043	53	43	Lincoln County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53043	1.5	0.0	0.0
+98606	53043	53	43	Lincoln County, Washington	22	Utilities	22	0500000US53043	4.0	23.125	1964.125
+98607	53043	53	43	Lincoln County, Washington	23	Construction	23	0500000US53043	38.5	221.5	12907.125
+98608	53043	53	43	Lincoln County, Washington	42	Wholesale trade	42	0500000US53043	28.75	225.5	12050.125
+98609	53043	53	43	Lincoln County, Washington	51	Information	51	0500000US53043	5.625	18.75	411.0
+98610	53043	53	43	Lincoln County, Washington	52	Finance and insurance	52	0500000US53043	20.75	56.875	2574.125
+98611	53043	53	43	Lincoln County, Washington	53	Real estate and rental and leasing	53	0500000US53043	6.5	14.625	377.625
+98612	53043	53	43	Lincoln County, Washington	54	Professional, scientific, and technical services	54	0500000US53043	15.75	101.25	6545.875
+98613	53043	53	43	Lincoln County, Washington	55	Management of companies and enterprises	55	0500000US53043	1.5	0.0	0.0
+98614	53043	53	43	Lincoln County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53043	7.75	33.25	1353.625
+98615	53043	53	43	Lincoln County, Washington	61	Educational services	61	0500000US53043	2.4285714285714284	9.428571428571429	171.28571428571428
+98616	53043	53	43	Lincoln County, Washington	62	Health care and social assistance	62	0500000US53043	15.125	294.75	13419.25
+98617	53043	53	43	Lincoln County, Washington	71	Arts, entertainment, and recreation	71	0500000US53043	7.25	22.375	1139.375
+98618	53043	53	43	Lincoln County, Washington	72	Accommodation and food services	72	0500000US53043	17.875	68.875	980.875
+98619	53043	53	43	Lincoln County, Washington	81	Other services (except public administration)	81	0500000US53043	27.5	56.25	1136.25
+98620	53043	53	43	Lincoln County, Washington	99	Industries not classified	99	0500000US53043	1.6666666666666667	0.0	19.0
+98622	53045	53	45	Mason County	11	Agriculture, forestry, fishing and hunting	11	0500000US53045	21.0	388.0	18763.0
+98623	53045	53	45	Mason County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53045	3.0	33.0	1973.0
+98624	53045	53	45	Mason County	22	Utilities	22	0500000US53045	3.0	0.0	185.0
+98625	53045	53	45	Mason County	23	Construction	23	0500000US53045	165.0	522.0	18715.0
+98626	53045	53	45	Mason County	42	Wholesale trade	42	0500000US53045	36.0	547.0	27836.0
+98627	53045	53	45	Mason County	51	Information	51	0500000US53045	11.0	98.0	3019.0
+98628	53045	53	45	Mason County	52	Finance and insurance	52	0500000US53045	49.0	368.0	17577.0
+98629	53045	53	45	Mason County	53	Real estate and rental and leasing	53	0500000US53045	43.0	230.0	4596.0
+98630	53045	53	45	Mason County	54	Professional, scientific, and technical services	54	0500000US53045	73.0	242.0	6950.0
+98631	53045	53	45	Mason County	55	Management of companies and enterprises	55	0500000US53045	2.0	0.0	0.0
+98632	53045	53	45	Mason County	56	Administrative and support and waste management and remediation services	56	0500000US53045	43.0	172.0	5431.0
+98633	53045	53	45	Mason County	61	Educational services	61	0500000US53045	5.0	0.0	0.0
+98634	53045	53	45	Mason County	62	Health care and social assistance	62	0500000US53045	95.0	1745.0	67790.0
+98635	53045	53	45	Mason County	71	Arts, entertainment, and recreation	71	0500000US53045	21.0	178.0	4499.0
+98636	53045	53	45	Mason County	72	Accommodation and food services	72	0500000US53045	97.0	1570.0	37984.0
+98637	53045	53	45	Mason County	81	Other services (except public administration)	81	0500000US53045	103.0	446.0	9134.0
+98638	53045	53	45	Mason County	99	Industries not classified	99	0500000US53045	3.0	0.0	0.0
+98640	53045	53	45	Mason County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53045	20.875	341.125	16842.125
+98641	53045	53	45	Mason County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53045	3.75	39.75	2718.125
+98642	53045	53	45	Mason County, Washington	22	Utilities	22	0500000US53045	4.5	8.625	265.125
+98643	53045	53	45	Mason County, Washington	23	Construction	23	0500000US53045	190.5	666.25	27181.875
+98644	53045	53	45	Mason County, Washington	42	Wholesale trade	42	0500000US53045	37.75	413.875	23964.625
+98645	53045	53	45	Mason County, Washington	51	Information	51	0500000US53045	11.25	89.5	3922.875
+98646	53045	53	45	Mason County, Washington	52	Finance and insurance	52	0500000US53045	45.25	302.375	15559.625
+98647	53045	53	45	Mason County, Washington	53	Real estate and rental and leasing	53	0500000US53045	50.875	118.5	4098.375
+98648	53045	53	45	Mason County, Washington	54	Professional, scientific, and technical services	54	0500000US53045	71.0	249.5	9622.875
+98649	53045	53	45	Mason County, Washington	55	Management of companies and enterprises	55	0500000US53045	1.3333333333333333	0.0	0.0
+98650	53045	53	45	Mason County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53045	49.125	203.75	7331.5
+98651	53045	53	45	Mason County, Washington	61	Educational services	61	0500000US53045	7.125	27.375	701.5
+98652	53045	53	45	Mason County, Washington	62	Health care and social assistance	62	0500000US53045	98.5	1892.625	85121.875
+98653	53045	53	45	Mason County, Washington	71	Arts, entertainment, and recreation	71	0500000US53045	19.0	202.625	5753.875
+98654	53045	53	45	Mason County, Washington	72	Accommodation and food services	72	0500000US53045	103.875	1699.5	44493.125
+98655	53045	53	45	Mason County, Washington	81	Other services (except public administration)	81	0500000US53045	101.375	462.125	10810.75
+98656	53045	53	45	Mason County, Washington	99	Industries not classified	99	0500000US53045	4.428571428571429	3.5714285714285716	102.0
+98658	53047	53	47	Okanogan County	11	Agriculture, forestry, fishing and hunting	11	0500000US53047	36.0	183.0	6113.0
+98659	53047	53	47	Okanogan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53047	2.0	0.0	0.0
+98660	53047	53	47	Okanogan County	22	Utilities	22	0500000US53047	8.0	0.0	1711.0
+98661	53047	53	47	Okanogan County	23	Construction	23	0500000US53047	152.0	389.0	14043.0
+98662	53047	53	47	Okanogan County	42	Wholesale trade	42	0500000US53047	38.0	389.0	13847.0
+98663	53047	53	47	Okanogan County	51	Information	51	0500000US53047	20.0	164.0	5232.0
+98664	53047	53	47	Okanogan County	52	Finance and insurance	52	0500000US53047	46.0	218.0	8305.0
+98665	53047	53	47	Okanogan County	53	Real estate and rental and leasing	53	0500000US53047	60.0	165.0	2237.0
+98666	53047	53	47	Okanogan County	54	Professional, scientific, and technical services	54	0500000US53047	76.0	0.0	0.0
+98667	53047	53	47	Okanogan County	55	Management of companies and enterprises	55	0500000US53047	2.0	0.0	0.0
+98668	53047	53	47	Okanogan County	56	Administrative and support and waste management and remediation services	56	0500000US53047	46.0	152.0	3924.0
+98669	53047	53	47	Okanogan County	61	Educational services	61	0500000US53047	16.0	0.0	592.0
+98670	53047	53	47	Okanogan County	62	Health care and social assistance	62	0500000US53047	116.0	1826.0	66378.0
+98671	53047	53	47	Okanogan County	71	Arts, entertainment, and recreation	71	0500000US53047	31.0	376.0	7279.0
+98672	53047	53	47	Okanogan County	72	Accommodation and food services	72	0500000US53047	123.0	1071.0	17736.0
+98673	53047	53	47	Okanogan County	81	Other services (except public administration)	81	0500000US53047	97.0	293.0	6302.0
+98674	53047	53	47	Okanogan County	99	Industries not classified	99	0500000US53047	1.0	0.0	0.0
+98676	53047	53	47	Okanogan County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53047	38.375	331.25	10912.125
+98677	53047	53	47	Okanogan County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53047	1.75	0.0	0.0
+98678	53047	53	47	Okanogan County, Washington	22	Utilities	22	0500000US53047	6.375	30.0	1977.875
+98679	53047	53	47	Okanogan County, Washington	23	Construction	23	0500000US53047	163.5	447.5	18827.375
+98680	53047	53	47	Okanogan County, Washington	42	Wholesale trade	42	0500000US53047	40.0	368.625	17757.5
+98681	53047	53	47	Okanogan County, Washington	51	Information	51	0500000US53047	18.875	167.25	6655.75
+98682	53047	53	47	Okanogan County, Washington	52	Finance and insurance	52	0500000US53047	42.125	214.125	10091.0
+98683	53047	53	47	Okanogan County, Washington	53	Real estate and rental and leasing	53	0500000US53047	51.875	129.5	2348.25
+98684	53047	53	47	Okanogan County, Washington	54	Professional, scientific, and technical services	54	0500000US53047	74.625	262.75	9680.0
+98685	53047	53	47	Okanogan County, Washington	55	Management of companies and enterprises	55	0500000US53047	2.6	9.2	376.8
+98686	53047	53	47	Okanogan County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53047	48.875	157.0	5220.25
+98687	53047	53	47	Okanogan County, Washington	61	Educational services	61	0500000US53047	15.375	46.625	814.5
+98688	53047	53	47	Okanogan County, Washington	62	Health care and social assistance	62	0500000US53047	107.375	1682.875	73653.0
+98689	53047	53	47	Okanogan County, Washington	71	Arts, entertainment, and recreation	71	0500000US53047	31.375	393.5	8669.75
+98690	53047	53	47	Okanogan County, Washington	72	Accommodation and food services	72	0500000US53047	122.25	1130.0	22277.125
+98691	53047	53	47	Okanogan County, Washington	81	Other services (except public administration)	81	0500000US53047	96.625	284.625	6908.5
+98692	53047	53	47	Okanogan County, Washington	99	Industries not classified	99	0500000US53047	7.375	9.75	273.25
+98694	53049	53	49	Pacific County	11	Agriculture, forestry, fishing and hunting	11	0500000US53049	49.0	195.0	8226.0
+98695	53049	53	49	Pacific County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53049	2.0	0.0	0.0
+98696	53049	53	49	Pacific County	22	Utilities	22	0500000US53049	1.0	0.0	0.0
+98697	53049	53	49	Pacific County	23	Construction	23	0500000US53049	60.0	160.0	4215.0
+98698	53049	53	49	Pacific County	42	Wholesale trade	42	0500000US53049	6.0	0.0	2063.0
+98699	53049	53	49	Pacific County	51	Information	51	0500000US53049	10.0	0.0	1591.0
+98700	53049	53	49	Pacific County	52	Finance and insurance	52	0500000US53049	25.0	222.0	9893.0
+98701	53049	53	49	Pacific County	53	Real estate and rental and leasing	53	0500000US53049	22.0	57.0	961.0
+98702	53049	53	49	Pacific County	54	Professional, scientific, and technical services	54	0500000US53049	38.0	0.0	3905.0
+98703	53049	53	49	Pacific County	56	Administrative and support and waste management and remediation services	56	0500000US53049	17.0	133.0	4318.0
+98704	53049	53	49	Pacific County	61	Educational services	61	0500000US53049	1.0	0.0	0.0
+98705	53049	53	49	Pacific County	62	Health care and social assistance	62	0500000US53049	44.0	638.0	24962.0
+98706	53049	53	49	Pacific County	71	Arts, entertainment, and recreation	71	0500000US53049	14.0	0.0	664.0
+98707	53049	53	49	Pacific County	72	Accommodation and food services	72	0500000US53049	111.0	793.0	14157.0
+98708	53049	53	49	Pacific County	81	Other services (except public administration)	81	0500000US53049	62.0	217.0	3660.0
+98709	53049	53	49	Pacific County	99	Industries not classified	99	0500000US53049	3.0	0.0	29.0
+98711	53049	53	49	Pacific County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53049	45.625	251.625	11761.5
+98712	53049	53	49	Pacific County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53049	2.4285714285714284	5.142857142857143	205.42857142857142
+98713	53049	53	49	Pacific County, Washington	22	Utilities	22	0500000US53049	1.5	0.0	0.0
+98714	53049	53	49	Pacific County, Washington	23	Construction	23	0500000US53049	61.0	224.75	8345.375
+98715	53049	53	49	Pacific County, Washington	42	Wholesale trade	42	0500000US53049	7.625	41.875	1742.75
+98716	53049	53	49	Pacific County, Washington	51	Information	51	0500000US53049	11.25	36.875	1584.5
+98717	53049	53	49	Pacific County, Washington	52	Finance and insurance	52	0500000US53049	25.25	149.25	6939.0
+98718	53049	53	49	Pacific County, Washington	53	Real estate and rental and leasing	53	0500000US53049	20.625	102.5	4219.625
+98719	53049	53	49	Pacific County, Washington	54	Professional, scientific, and technical services	54	0500000US53049	37.625	91.25	4828.5
+98720	53049	53	49	Pacific County, Washington	55	Management of companies and enterprises	55	0500000US53049	1.0	0.0	0.0
+98721	53049	53	49	Pacific County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53049	18.125	115.125	2450.875
+98722	53049	53	49	Pacific County, Washington	61	Educational services	61	0500000US53049	1.6	1.0	16.2
+98723	53049	53	49	Pacific County, Washington	62	Health care and social assistance	62	0500000US53049	39.5	651.375	32573.25
+98724	53049	53	49	Pacific County, Washington	71	Arts, entertainment, and recreation	71	0500000US53049	13.375	48.375	1044.75
+98725	53049	53	49	Pacific County, Washington	72	Accommodation and food services	72	0500000US53049	109.0	830.5	16754.375
+98726	53049	53	49	Pacific County, Washington	81	Other services (except public administration)	81	0500000US53049	57.875	197.375	4097.375
+98727	53049	53	49	Pacific County, Washington	99	Industries not classified	99	0500000US53049	4.4	4.0	93.4
+98729	53051	53	51	Pend Oreille County	11	Agriculture, forestry, fishing and hunting	11	0500000US53051	7.0	51.0	2397.0
+98730	53051	53	51	Pend Oreille County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53051	2.0	0.0	0.0
+98731	53051	53	51	Pend Oreille County	23	Construction	23	0500000US53051	33.0	61.0	2703.0
+98732	53051	53	51	Pend Oreille County	42	Wholesale trade	42	0500000US53051	4.0	0.0	0.0
+98733	53051	53	51	Pend Oreille County	51	Information	51	0500000US53051	8.0	54.0	1842.0
+98734	53051	53	51	Pend Oreille County	52	Finance and insurance	52	0500000US53051	10.0	0.0	1755.0
+98735	53051	53	51	Pend Oreille County	53	Real estate and rental and leasing	53	0500000US53051	7.0	0.0	182.0
+98736	53051	53	51	Pend Oreille County	54	Professional, scientific, and technical services	54	0500000US53051	15.0	56.0	1907.0
+98737	53051	53	51	Pend Oreille County	56	Administrative and support and waste management and remediation services	56	0500000US53051	8.0	6.0	150.0
+98738	53051	53	51	Pend Oreille County	62	Health care and social assistance	62	0500000US53051	18.0	401.0	15088.0
+98739	53051	53	51	Pend Oreille County	71	Arts, entertainment, and recreation	71	0500000US53051	4.0	0.0	0.0
+98740	53051	53	51	Pend Oreille County	72	Accommodation and food services	72	0500000US53051	27.0	171.0	2602.0
+98741	53051	53	51	Pend Oreille County	81	Other services (except public administration)	81	0500000US53051	24.0	72.0	1380.0
+98743	53051	53	51	Pend Oreille County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53051	6.0	33.75	2367.0
+98744	53051	53	51	Pend Oreille County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53051	1.75	0.0	0.0
+98745	53051	53	51	Pend Oreille County, Washington	23	Construction	23	0500000US53051	42.0	94.625	4926.75
+98746	53051	53	51	Pend Oreille County, Washington	42	Wholesale trade	42	0500000US53051	5.875	11.375	508.75
+98747	53051	53	51	Pend Oreille County, Washington	51	Information	51	0500000US53051	7.875	47.875	1800.875
+98748	53051	53	51	Pend Oreille County, Washington	52	Finance and insurance	52	0500000US53051	13.375	53.875	2582.875
+98749	53051	53	51	Pend Oreille County, Washington	53	Real estate and rental and leasing	53	0500000US53051	7.375	17.125	552.125
+98750	53051	53	51	Pend Oreille County, Washington	54	Professional, scientific, and technical services	54	0500000US53051	15.375	72.125	2806.625
+98751	53051	53	51	Pend Oreille County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53051	7.375	14.125	335.25
+98752	53051	53	51	Pend Oreille County, Washington	62	Health care and social assistance	62	0500000US53051	21.25	358.25	17200.5
+98753	53051	53	51	Pend Oreille County, Washington	71	Arts, entertainment, and recreation	71	0500000US53051	4.125	12.625	385.75
+98754	53051	53	51	Pend Oreille County, Washington	72	Accommodation and food services	72	0500000US53051	23.375	177.375	2786.75
+98755	53051	53	51	Pend Oreille County, Washington	81	Other services (except public administration)	81	0500000US53051	24.625	72.75	1481.375
+98756	53051	53	51	Pend Oreille County, Washington	99	Industries not classified	99	0500000US53051	1.75	1.0	3.75
+98758	53053	53	53	Pierce County	11	Agriculture, forestry, fishing and hunting	11	0500000US53053	74.0	226.0	11209.0
+98759	53053	53	53	Pierce County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53053	11.0	164.0	9215.0
+98760	53053	53	53	Pierce County	22	Utilities	22	0500000US53053	26.0	584.0	40809.0
+98761	53053	53	53	Pierce County	23	Construction	23	0500000US53053	2095.0	14328.0	803283.0
+98762	53053	53	53	Pierce County	42	Wholesale trade	42	0500000US53053	803.0	10356.0	523125.0
+98763	53053	53	53	Pierce County	51	Information	51	0500000US53053	173.0	3650.0	176232.0
+98764	53053	53	53	Pierce County	52	Finance and insurance	52	0500000US53053	916.0	9794.0	597477.0
+98765	53053	53	53	Pierce County	53	Real estate and rental and leasing	53	0500000US53053	934.0	5144.0	167808.0
+98766	53053	53	53	Pierce County	54	Professional, scientific, and technical services	54	0500000US53053	1434.0	9173.0	548873.0
+98767	53053	53	53	Pierce County	55	Management of companies and enterprises	55	0500000US53053	81.0	5083.0	333465.0
+98768	53053	53	53	Pierce County	56	Administrative and support and waste management and remediation services	56	0500000US53053	910.0	11143.0	358019.0
+98769	53053	53	53	Pierce County	61	Educational services	61	0500000US53053	202.0	7389.0	172404.0
+98770	53053	53	53	Pierce County	62	Health care and social assistance	62	0500000US53053	1913.0	42148.0	2120792.0
+98771	53053	53	53	Pierce County	71	Arts, entertainment, and recreation	71	0500000US53053	234.0	6936.0	140162.0
+98772	53053	53	53	Pierce County	72	Accommodation and food services	72	0500000US53053	1552.0	22757.0	382320.0
+98773	53053	53	53	Pierce County	81	Other services (except public administration)	81	0500000US53053	1783.0	13259.0	407919.0
+98774	53053	53	53	Pierce County	99	Industries not classified	99	0500000US53053	16.0	0.0	397.0
+98776	53053	53	53	Pierce County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53053	80.375	283.5	14951.625
+98777	53053	53	53	Pierce County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53053	11.0	181.375	12794.875
+98778	53053	53	53	Pierce County, Washington	22	Utilities	22	0500000US53053	27.125	590.0	50677.75
+98779	53053	53	53	Pierce County, Washington	23	Construction	23	0500000US53053	2489.875	20196.75	1320121.25
+98780	53053	53	53	Pierce County, Washington	42	Wholesale trade	42	0500000US53053	801.0	12135.625	707445.25
+98781	53053	53	53	Pierce County, Washington	51	Information	51	0500000US53053	208.375	3229.5	166063.375
+98782	53053	53	53	Pierce County, Washington	52	Finance and insurance	52	0500000US53053	926.0	9718.25	697141.75
+98783	53053	53	53	Pierce County, Washington	53	Real estate and rental and leasing	53	0500000US53053	1133.0	5171.0	220538.625
+98784	53053	53	53	Pierce County, Washington	54	Professional, scientific, and technical services	54	0500000US53053	1531.375	9573.125	596090.25
+98785	53053	53	53	Pierce County, Washington	55	Management of companies and enterprises	55	0500000US53053	84.375	7366.625	431592.625
+98786	53053	53	53	Pierce County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53053	1049.5	14444.0	576549.875
+98787	53053	53	53	Pierce County, Washington	61	Educational services	61	0500000US53053	202.5	6859.125	185247.625
+98788	53053	53	53	Pierce County, Washington	62	Health care and social assistance	62	0500000US53053	1988.0	49662.625	2911373.875
+98789	53053	53	53	Pierce County, Washington	71	Arts, entertainment, and recreation	71	0500000US53053	251.125	7289.75	178101.0
+98790	53053	53	53	Pierce County, Washington	72	Accommodation and food services	72	0500000US53053	1620.5	27461.625	549595.75
+98791	53053	53	53	Pierce County, Washington	81	Other services (except public administration)	81	0500000US53053	1838.75	12683.125	414223.5
+98792	53053	53	53	Pierce County, Washington	99	Industries not classified	99	0500000US53053	30.125	41.375	1279.5
+98794	53055	53	55	San Juan County	11	Agriculture, forestry, fishing and hunting	11	0500000US53055	9.0	5.0	294.0
+98795	53055	53	55	San Juan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53055	1.0	0.0	0.0
+98796	53055	53	55	San Juan County	22	Utilities	22	0500000US53055	10.0	0.0	0.0
+98797	53055	53	55	San Juan County	23	Construction	23	0500000US53055	204.0	613.0	22835.0
+98798	53055	53	55	San Juan County	42	Wholesale trade	42	0500000US53055	16.0	0.0	1847.0
+98799	53055	53	55	San Juan County	51	Information	51	0500000US53055	14.0	62.0	2070.0
+98800	53055	53	55	San Juan County	52	Finance and insurance	52	0500000US53055	25.0	134.0	6900.0
+98801	53055	53	55	San Juan County	53	Real estate and rental and leasing	53	0500000US53055	52.0	87.0	2018.0
+98802	53055	53	55	San Juan County	54	Professional, scientific, and technical services	54	0500000US53055	95.0	212.0	11081.0
+98803	53055	53	55	San Juan County	55	Management of companies and enterprises	55	0500000US53055	1.0	0.0	0.0
+98804	53055	53	55	San Juan County	56	Administrative and support and waste management and remediation services	56	0500000US53055	51.0	224.0	5630.0
+98805	53055	53	55	San Juan County	61	Educational services	61	0500000US53055	12.0	54.0	1882.0
+98806	53055	53	55	San Juan County	62	Health care and social assistance	62	0500000US53055	61.0	347.0	10032.0
+98807	53055	53	55	San Juan County	71	Arts, entertainment, and recreation	71	0500000US53055	41.0	192.0	3922.0
+98808	53055	53	55	San Juan County	72	Accommodation and food services	72	0500000US53055	101.0	702.0	21555.0
+98809	53055	53	55	San Juan County	81	Other services (except public administration)	81	0500000US53055	75.0	237.0	6428.0
+98810	53055	53	55	San Juan County	99	Industries not classified	99	0500000US53055	3.0	0.0	0.0
+98812	53055	53	55	San Juan County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53055	10.75	5.25	299.125
+98813	53055	53	55	San Juan County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53055	1.0	0.0	0.0
+98814	53055	53	55	San Juan County, Washington	22	Utilities	22	0500000US53055	9.0	81.0	6802.0
+98815	53055	53	55	San Juan County, Washington	23	Construction	23	0500000US53055	226.875	769.5	32972.75
+98816	53055	53	55	San Juan County, Washington	42	Wholesale trade	42	0500000US53055	15.625	34.25	1305.5
+98817	53055	53	55	San Juan County, Washington	51	Information	51	0500000US53055	16.125	75.75	3302.125
+98818	53055	53	55	San Juan County, Washington	52	Finance and insurance	52	0500000US53055	24.875	135.25	8256.875
+98819	53055	53	55	San Juan County, Washington	53	Real estate and rental and leasing	53	0500000US53055	60.75	132.5	4924.5
+98820	53055	53	55	San Juan County, Washington	54	Professional, scientific, and technical services	54	0500000US53055	104.75	238.5	14260.75
+98821	53055	53	55	San Juan County, Washington	55	Management of companies and enterprises	55	0500000US53055	1.75	0.0	0.0
+98822	53055	53	55	San Juan County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53055	56.75	277.625	8715.125
+98823	53055	53	55	San Juan County, Washington	61	Educational services	61	0500000US53055	14.875	80.375	2652.75
+98824	53055	53	55	San Juan County, Washington	62	Health care and social assistance	62	0500000US53055	61.5	385.875	13895.0
+98825	53055	53	55	San Juan County, Washington	71	Arts, entertainment, and recreation	71	0500000US53055	40.5	183.75	5022.625
+98826	53055	53	55	San Juan County, Washington	72	Accommodation and food services	72	0500000US53055	104.0	976.25	30825.25
+98827	53055	53	55	San Juan County, Washington	81	Other services (except public administration)	81	0500000US53055	71.125	237.5	6845.75
+98828	53055	53	55	San Juan County, Washington	99	Industries not classified	99	0500000US53055	3.0	2.3333333333333335	73.0
+98830	53057	53	57	Skagit County	11	Agriculture, forestry, fishing and hunting	11	0500000US53057	55.0	0.0	0.0
+98831	53057	53	57	Skagit County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53057	8.0	0.0	1244.0
+98832	53057	53	57	Skagit County	22	Utilities	22	0500000US53057	8.0	0.0	0.0
+98833	53057	53	57	Skagit County	23	Construction	23	0500000US53057	393.0	2432.0	147690.0
+98834	53057	53	57	Skagit County	42	Wholesale trade	42	0500000US53057	124.0	1415.0	68926.0
+98835	53057	53	57	Skagit County	51	Information	51	0500000US53057	38.0	451.0	20635.0
+98836	53057	53	57	Skagit County	52	Finance and insurance	52	0500000US53057	186.0	1454.0	72652.0
+98837	53057	53	57	Skagit County	53	Real estate and rental and leasing	53	0500000US53057	159.0	458.0	13918.0
+98838	53057	53	57	Skagit County	54	Professional, scientific, and technical services	54	0500000US53057	301.0	1525.0	76126.0
+98839	53057	53	57	Skagit County	55	Management of companies and enterprises	55	0500000US53057	5.0	43.0	2656.0
+98840	53057	53	57	Skagit County	56	Administrative and support and waste management and remediation services	56	0500000US53057	141.0	1191.0	34104.0
+98841	53057	53	57	Skagit County	61	Educational services	61	0500000US53057	36.0	345.0	8864.0
+98842	53057	53	57	Skagit County	62	Health care and social assistance	62	0500000US53057	328.0	7324.0	306309.0
+98843	53057	53	57	Skagit County	71	Arts, entertainment, and recreation	71	0500000US53057	53.0	973.0	24564.0
+98844	53057	53	57	Skagit County	72	Accommodation and food services	72	0500000US53057	329.0	4198.0	82833.0
+98845	53057	53	57	Skagit County	81	Other services (except public administration)	81	0500000US53057	334.0	1640.0	41225.0
+98846	53057	53	57	Skagit County	99	Industries not classified	99	0500000US53057	5.0	7.0	80.0
+98848	53057	53	57	Skagit County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53057	53.125	292.625	19390.25
+98849	53057	53	57	Skagit County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53057	8.875	46.625	2998.375
+98850	53057	53	57	Skagit County, Washington	22	Utilities	22	0500000US53057	8.875	79.25	8916.25
+98851	53057	53	57	Skagit County, Washington	23	Construction	23	0500000US53057	481.75	3447.125	240777.75
+98852	53057	53	57	Skagit County, Washington	42	Wholesale trade	42	0500000US53057	125.25	1576.75	82372.625
+98853	53057	53	57	Skagit County, Washington	51	Information	51	0500000US53057	42.625	491.25	22545.0
+98854	53057	53	57	Skagit County, Washington	52	Finance and insurance	52	0500000US53057	174.375	1466.75	83925.5
+98855	53057	53	57	Skagit County, Washington	53	Real estate and rental and leasing	53	0500000US53057	164.625	468.875	16529.25
+98856	53057	53	57	Skagit County, Washington	54	Professional, scientific, and technical services	54	0500000US53057	290.0	1746.125	108899.75
+98857	53057	53	57	Skagit County, Washington	55	Management of companies and enterprises	55	0500000US53057	7.75	58.875	3236.25
+98858	53057	53	57	Skagit County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53057	156.75	1488.0	46408.75
+98859	53057	53	57	Skagit County, Washington	61	Educational services	61	0500000US53057	41.0	344.875	9719.75
+98860	53057	53	57	Skagit County, Washington	62	Health care and social assistance	62	0500000US53057	353.75	7605.0	385118.75
+98861	53057	53	57	Skagit County, Washington	71	Arts, entertainment, and recreation	71	0500000US53057	58.5	569.625	11422.75
+98862	53057	53	57	Skagit County, Washington	72	Accommodation and food services	72	0500000US53057	347.875	5376.75	121698.875
+98863	53057	53	57	Skagit County, Washington	81	Other services (except public administration)	81	0500000US53057	345.375	1818.125	55044.125
+98864	53057	53	57	Skagit County, Washington	99	Industries not classified	99	0500000US53057	6.625	8.625	242.625
+98866	53059	53	59	Skamania County	11	Agriculture, forestry, fishing and hunting	11	0500000US53059	4.0	5.0	151.0
+98867	53059	53	59	Skamania County	23	Construction	23	0500000US53059	31.0	76.0	3708.0
+98868	53059	53	59	Skamania County	42	Wholesale trade	42	0500000US53059	8.0	0.0	1396.0
+98869	53059	53	59	Skamania County	51	Information	51	0500000US53059	6.0	23.0	997.0
+98870	53059	53	59	Skamania County	52	Finance and insurance	52	0500000US53059	5.0	22.0	625.0
+98871	53059	53	59	Skamania County	53	Real estate and rental and leasing	53	0500000US53059	4.0	7.0	134.0
+98872	53059	53	59	Skamania County	54	Professional, scientific, and technical services	54	0500000US53059	17.0	0.0	0.0
+98873	53059	53	59	Skamania County	56	Administrative and support and waste management and remediation services	56	0500000US53059	5.0	0.0	0.0
+98874	53059	53	59	Skamania County	62	Health care and social assistance	62	0500000US53059	16.0	132.0	2986.0
+98875	53059	53	59	Skamania County	71	Arts, entertainment, and recreation	71	0500000US53059	3.0	0.0	0.0
+98876	53059	53	59	Skamania County	72	Accommodation and food services	72	0500000US53059	25.0	480.0	9718.0
+98877	53059	53	59	Skamania County	81	Other services (except public administration)	81	0500000US53059	13.0	25.0	589.0
+98879	53059	53	59	Skamania County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53059	5.125	6.625	316.625
+98880	53059	53	59	Skamania County, Washington	23	Construction	23	0500000US53059	37.625	95.625	4490.75
+98881	53059	53	59	Skamania County, Washington	42	Wholesale trade	42	0500000US53059	10.5	39.375	2262.25
+98882	53059	53	59	Skamania County, Washington	51	Information	51	0500000US53059	3.2857142857142856	4.285714285714286	330.85714285714283
+98883	53059	53	59	Skamania County, Washington	52	Finance and insurance	52	0500000US53059	4.125	20.125	688.875
+98884	53059	53	59	Skamania County, Washington	53	Real estate and rental and leasing	53	0500000US53059	7.25	9.5	287.0
+98885	53059	53	59	Skamania County, Washington	54	Professional, scientific, and technical services	54	0500000US53059	14.625	45.625	2858.875
+98886	53059	53	59	Skamania County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53059	8.0	18.5	632.25
+98887	53059	53	59	Skamania County, Washington	62	Health care and social assistance	62	0500000US53059	18.375	148.625	3924.5
+98888	53059	53	59	Skamania County, Washington	71	Arts, entertainment, and recreation	71	0500000US53059	3.8	13.6	504.2
+98889	53059	53	59	Skamania County, Washington	72	Accommodation and food services	72	0500000US53059	26.125	593.375	11958.125
+98890	53059	53	59	Skamania County, Washington	81	Other services (except public administration)	81	0500000US53059	15.0	31.125	570.125
+98891	53059	53	59	Skamania County, Washington	99	Industries not classified	99	0500000US53059	1.3333333333333333	0.0	0.0
+98893	53061	53	61	Snohomish County	11	Agriculture, forestry, fishing and hunting	11	0500000US53061	128.0	273.0	14642.0
+98894	53061	53	61	Snohomish County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53061	14.0	116.0	7761.0
+98895	53061	53	61	Snohomish County	22	Utilities	22	0500000US53061	10.0	60.0	3364.0
+98896	53061	53	61	Snohomish County	23	Construction	23	0500000US53061	2553.0	14843.0	792558.0
+98897	53061	53	61	Snohomish County	42	Wholesale trade	42	0500000US53061	846.0	8195.0	476083.0
+98898	53061	53	61	Snohomish County	51	Information	51	0500000US53061	223.0	5358.0	326304.0
+98899	53061	53	61	Snohomish County	52	Finance and insurance	52	0500000US53061	925.0	8573.0	555388.0
+98900	53061	53	61	Snohomish County	53	Real estate and rental and leasing	53	0500000US53061	856.0	3055.0	119251.0
+98901	53061	53	61	Snohomish County	54	Professional, scientific, and technical services	54	0500000US53061	1563.0	9697.0	696696.0
+98902	53061	53	61	Snohomish County	55	Management of companies and enterprises	55	0500000US53061	71.0	3236.0	273835.0
+98903	53061	53	61	Snohomish County	56	Administrative and support and waste management and remediation services	56	0500000US53061	990.0	9687.0	333698.0
+98904	53061	53	61	Snohomish County	61	Educational services	61	0500000US53061	236.0	2001.0	46763.0
+98905	53061	53	61	Snohomish County	62	Health care and social assistance	62	0500000US53061	1785.0	28323.0	1209355.0
+98906	53061	53	61	Snohomish County	71	Arts, entertainment, and recreation	71	0500000US53061	202.0	6467.0	174301.0
+98907	53061	53	61	Snohomish County	72	Accommodation and food services	72	0500000US53061	1543.0	19211.0	337243.0
+98908	53061	53	61	Snohomish County	81	Other services (except public administration)	81	0500000US53061	1623.0	9601.0	257029.0
+98909	53061	53	61	Snohomish County	99	Industries not classified	99	0500000US53061	11.0	0.0	257.0
+98911	53061	53	61	Snohomish County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53061	134.0	271.5	17506.25
+98912	53061	53	61	Snohomish County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53061	15.0	128.0	8874.25
+98913	53061	53	61	Snohomish County, Washington	22	Utilities	22	0500000US53061	9.875	50.875	4603.5
+98914	53061	53	61	Snohomish County, Washington	23	Construction	23	0500000US53061	3167.75	23080.25	1436663.75
+98915	53061	53	61	Snohomish County, Washington	42	Wholesale trade	42	0500000US53061	828.875	9526.5	757661.625
+98916	53061	53	61	Snohomish County, Washington	51	Information	51	0500000US53061	252.5	5262.375	336507.75
+98917	53061	53	61	Snohomish County, Washington	52	Finance and insurance	52	0500000US53061	923.875	9213.625	735360.5
+98918	53061	53	61	Snohomish County, Washington	53	Real estate and rental and leasing	53	0500000US53061	1022.625	3540.375	172677.875
+98919	53061	53	61	Snohomish County, Washington	54	Professional, scientific, and technical services	54	0500000US53061	1776.625	12084.625	883179.625
+98920	53061	53	61	Snohomish County, Washington	55	Management of companies and enterprises	55	0500000US53061	63.875	1753.875	147215.0
+98921	53061	53	61	Snohomish County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53061	1093.75	11982.5	547251.375
+98922	53061	53	61	Snohomish County, Washington	61	Educational services	61	0500000US53061	246.625	2155.875	57584.25
+98923	53061	53	61	Snohomish County, Washington	62	Health care and social assistance	62	0500000US53061	1937.0	30929.875	1518086.75
+98924	53061	53	61	Snohomish County, Washington	71	Arts, entertainment, and recreation	71	0500000US53061	210.75	4319.625	106202.625
+98925	53061	53	61	Snohomish County, Washington	72	Accommodation and food services	72	0500000US53061	1643.75	25436.25	559796.5
+98926	53061	53	61	Snohomish County, Washington	81	Other services (except public administration)	81	0500000US53061	1707.375	10630.5	322092.25
+98927	53061	53	61	Snohomish County, Washington	99	Industries not classified	99	0500000US53061	34.875	35.125	1124.75
+98929	53063	53	63	Spokane County	11	Agriculture, forestry, fishing and hunting	11	0500000US53063	27.0	0.0	3968.0
+98930	53063	53	63	Spokane County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53063	19.0	161.0	16431.0
+98931	53063	53	63	Spokane County	22	Utilities	22	0500000US53063	14.0	0.0	0.0
+98932	53063	53	63	Spokane County	23	Construction	23	0500000US53063	1286.0	8086.0	444262.0
+98933	53063	53	63	Spokane County	42	Wholesale trade	42	0500000US53063	674.0	10058.0	497406.0
+98934	53063	53	63	Spokane County	51	Information	51	0500000US53063	193.0	3571.0	185335.0
+98935	53063	53	63	Spokane County	52	Finance and insurance	52	0500000US53063	841.0	10450.0	603757.0
+98936	53063	53	63	Spokane County	53	Real estate and rental and leasing	53	0500000US53063	606.0	3022.0	102397.0
+98937	53063	53	63	Spokane County	54	Professional, scientific, and technical services	54	0500000US53063	1259.0	8167.0	433649.0
+98938	53063	53	63	Spokane County	55	Management of companies and enterprises	55	0500000US53063	88.0	2629.0	203599.0
+98939	53063	53	63	Spokane County	56	Administrative and support and waste management and remediation services	56	0500000US53063	655.0	10833.0	300796.0
+98940	53063	53	63	Spokane County	61	Educational services	61	0500000US53063	152.0	6556.0	165695.0
+98941	53063	53	63	Spokane County	62	Health care and social assistance	62	0500000US53063	1493.0	33270.0	1579786.0
+98942	53063	53	63	Spokane County	71	Arts, entertainment, and recreation	71	0500000US53063	160.0	3096.0	44817.0
+98943	53063	53	63	Spokane County	72	Accommodation and food services	72	0500000US53063	1060.0	17903.0	312057.0
+98944	53063	53	63	Spokane County	81	Other services (except public administration)	81	0500000US53063	1148.0	7309.0	178365.0
+98945	53063	53	63	Spokane County	99	Industries not classified	99	0500000US53063	11.0	4.0	175.0
+98947	53063	53	63	Spokane County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53063	28.625	112.0	7384.75
+98948	53063	53	63	Spokane County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53063	17.625	160.0	12834.0
+98949	53063	53	63	Spokane County, Washington	22	Utilities	22	0500000US53063	15.875	595.25	66278.5
+98950	53063	53	63	Spokane County, Washington	23	Construction	23	0500000US53063	1510.0	10934.25	663648.125
+98951	53063	53	63	Spokane County, Washington	42	Wholesale trade	42	0500000US53063	696.375	10623.25	584942.125
+98952	53063	53	63	Spokane County, Washington	51	Information	51	0500000US53063	232.0	4299.375	265342.875
+98953	53063	53	63	Spokane County, Washington	52	Finance and insurance	52	0500000US53063	888.25	10971.0	736176.875
+98954	53063	53	63	Spokane County, Washington	53	Real estate and rental and leasing	53	0500000US53063	695.625	3482.375	138228.375
+98955	53063	53	63	Spokane County, Washington	54	Professional, scientific, and technical services	54	0500000US53063	1331.5	9092.625	580708.875
+98956	53063	53	63	Spokane County, Washington	55	Management of companies and enterprises	55	0500000US53063	88.75	3111.5	235425.25
+98957	53063	53	63	Spokane County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53063	706.25	10660.0	344342.125
+98958	53063	53	63	Spokane County, Washington	61	Educational services	61	0500000US53063	165.125	6759.5	185457.375
+98959	53063	53	63	Spokane County, Washington	62	Health care and social assistance	62	0500000US53063	1607.125	38780.25	2070955.875
+98960	53063	53	63	Spokane County, Washington	71	Arts, entertainment, and recreation	71	0500000US53063	181.125	3000.375	50254.25
+98961	53063	53	63	Spokane County, Washington	72	Accommodation and food services	72	0500000US53063	1101.25	19292.875	371090.875
+98962	53063	53	63	Spokane County, Washington	81	Other services (except public administration)	81	0500000US53063	1204.625	8265.75	234424.0
+98963	53063	53	63	Spokane County, Washington	99	Industries not classified	99	0500000US53063	24.375	26.125	795.75
+98965	53065	53	65	Stevens County	11	Agriculture, forestry, fishing and hunting	11	0500000US53065	51.0	188.0	7330.0
+98966	53065	53	65	Stevens County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53065	6.0	0.0	0.0
+98967	53065	53	65	Stevens County	22	Utilities	22	0500000US53065	6.0	0.0	0.0
+98968	53065	53	65	Stevens County	23	Construction	23	0500000US53065	127.0	354.0	15102.0
+98969	53065	53	65	Stevens County	42	Wholesale trade	42	0500000US53065	22.0	182.0	5898.0
+98970	53065	53	65	Stevens County	51	Information	51	0500000US53065	15.0	76.0	2427.0
+98971	53065	53	65	Stevens County	52	Finance and insurance	52	0500000US53065	33.0	213.0	9733.0
+98972	53065	53	65	Stevens County	53	Real estate and rental and leasing	53	0500000US53065	25.0	0.0	1981.0
+98973	53065	53	65	Stevens County	54	Professional, scientific, and technical services	54	0500000US53065	65.0	215.0	8593.0
+98974	53065	53	65	Stevens County	55	Management of companies and enterprises	55	0500000US53065	1.0	0.0	0.0
+98975	53065	53	65	Stevens County	56	Administrative and support and waste management and remediation services	56	0500000US53065	31.0	84.0	2410.0
+98976	53065	53	65	Stevens County	61	Educational services	61	0500000US53065	7.0	0.0	174.0
+98977	53065	53	65	Stevens County	62	Health care and social assistance	62	0500000US53065	82.0	1625.0	53524.0
+98978	53065	53	65	Stevens County	71	Arts, entertainment, and recreation	71	0500000US53065	12.0	0.0	4561.0
+98979	53065	53	65	Stevens County	72	Accommodation and food services	72	0500000US53065	88.0	541.0	7970.0
+98980	53065	53	65	Stevens County	81	Other services (except public administration)	81	0500000US53065	95.0	286.0	6230.0
+98981	53065	53	65	Stevens County	99	Industries not classified	99	0500000US53065	3.0	1.0	33.0
+98983	53065	53	65	Stevens County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53065	46.25	160.0	8701.75
+98984	53065	53	65	Stevens County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53065	5.0	37.0	3025.125
+98985	53065	53	65	Stevens County, Washington	22	Utilities	22	0500000US53065	6.375	30.875	3451.125
+98986	53065	53	65	Stevens County, Washington	23	Construction	23	0500000US53065	133.375	503.875	24612.0
+98987	53065	53	65	Stevens County, Washington	42	Wholesale trade	42	0500000US53065	21.375	213.5	7161.375
+98988	53065	53	65	Stevens County, Washington	51	Information	51	0500000US53065	16.25	56.375	2291.875
+98989	53065	53	65	Stevens County, Washington	52	Finance and insurance	52	0500000US53065	29.625	182.0	8813.125
+98990	53065	53	65	Stevens County, Washington	53	Real estate and rental and leasing	53	0500000US53065	25.375	71.75	1811.5
+98991	53065	53	65	Stevens County, Washington	54	Professional, scientific, and technical services	54	0500000US53065	61.125	212.625	8565.875
+98992	53065	53	65	Stevens County, Washington	55	Management of companies and enterprises	55	0500000US53065	1.0	0.0	0.0
+98993	53065	53	65	Stevens County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53065	38.625	144.5	5391.875
+98994	53065	53	65	Stevens County, Washington	61	Educational services	61	0500000US53065	6.5	23.875	462.125
+98995	53065	53	65	Stevens County, Washington	62	Health care and social assistance	62	0500000US53065	86.75	1820.75	70077.5
+98996	53065	53	65	Stevens County, Washington	71	Arts, entertainment, and recreation	71	0500000US53065	16.125	221.0	5343.125
+98997	53065	53	65	Stevens County, Washington	72	Accommodation and food services	72	0500000US53065	84.875	582.75	9972.5
+98998	53065	53	65	Stevens County, Washington	81	Other services (except public administration)	81	0500000US53065	88.625	311.0	7973.75
+98999	53065	53	65	Stevens County, Washington	99	Industries not classified	99	0500000US53065	4.857142857142857	3.142857142857143	81.71428571428571
+99001	53067	53	67	Thurston County	11	Agriculture, forestry, fishing and hunting	11	0500000US53067	50.0	377.0	18439.0
+99002	53067	53	67	Thurston County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53067	5.0	0.0	0.0
+99003	53067	53	67	Thurston County	22	Utilities	22	0500000US53067	11.0	0.0	0.0
+99004	53067	53	67	Thurston County	23	Construction	23	0500000US53067	678.0	3104.0	139451.0
+99005	53067	53	67	Thurston County	42	Wholesale trade	42	0500000US53067	203.0	2196.0	111892.0
+99006	53067	53	67	Thurston County	51	Information	51	0500000US53067	85.0	1119.0	59535.0
+99007	53067	53	67	Thurston County	52	Finance and insurance	52	0500000US53067	323.0	2488.0	133683.0
+99008	53067	53	67	Thurston County	53	Real estate and rental and leasing	53	0500000US53067	317.0	1024.0	31444.0
+99009	53067	53	67	Thurston County	54	Professional, scientific, and technical services	54	0500000US53067	597.0	7106.0	330874.0
+99010	53067	53	67	Thurston County	55	Management of companies and enterprises	55	0500000US53067	16.0	195.0	13745.0
+99011	53067	53	67	Thurston County	56	Administrative and support and waste management and remediation services	56	0500000US53067	304.0	2088.0	62792.0
+99012	53067	53	67	Thurston County	61	Educational services	61	0500000US53067	78.0	1535.0	34121.0
+99013	53067	53	67	Thurston County	62	Health care and social assistance	62	0500000US53067	782.0	12836.0	617372.0
+99014	53067	53	67	Thurston County	71	Arts, entertainment, and recreation	71	0500000US53067	89.0	2539.0	63824.0
+99015	53067	53	67	Thurston County	72	Accommodation and food services	72	0500000US53067	536.0	7763.0	129052.0
+99016	53067	53	67	Thurston County	81	Other services (except public administration)	81	0500000US53067	622.0	3967.0	125702.0
+99017	53067	53	67	Thurston County	99	Industries not classified	99	0500000US53067	6.0	0.0	652.0
+99019	53067	53	67	Thurston County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53067	54.125	426.125	26313.875
+99020	53067	53	67	Thurston County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53067	4.875	77.625	4613.25
+99021	53067	53	67	Thurston County, Washington	22	Utilities	22	0500000US53067	11.25	78.75	8865.5
+99022	53067	53	67	Thurston County, Washington	23	Construction	23	0500000US53067	755.625	4604.125	265034.625
+99023	53067	53	67	Thurston County, Washington	42	Wholesale trade	42	0500000US53067	205.625	2340.125	127080.375
+99024	53067	53	67	Thurston County, Washington	51	Information	51	0500000US53067	103.375	1883.5	103160.75
+99025	53067	53	67	Thurston County, Washington	52	Finance and insurance	52	0500000US53067	336.5	2762.75	185919.75
+99026	53067	53	67	Thurston County, Washington	53	Real estate and rental and leasing	53	0500000US53067	345.0	1089.0	44403.875
+99027	53067	53	67	Thurston County, Washington	54	Professional, scientific, and technical services	54	0500000US53067	656.25	4588.75	273499.375
+99028	53067	53	67	Thurston County, Washington	55	Management of companies and enterprises	55	0500000US53067	25.125	262.5	19910.5
+99029	53067	53	67	Thurston County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53067	329.125	2895.5	90289.75
+99030	53067	53	67	Thurston County, Washington	61	Educational services	61	0500000US53067	85.125	1748.875	40024.125
+99031	53067	53	67	Thurston County, Washington	62	Health care and social assistance	62	0500000US53067	875.75	14840.5	757375.25
+99032	53067	53	67	Thurston County, Washington	71	Arts, entertainment, and recreation	71	0500000US53067	94.25	2778.125	75232.25
+99033	53067	53	67	Thurston County, Washington	72	Accommodation and food services	72	0500000US53067	554.125	9134.375	170912.5
+99034	53067	53	67	Thurston County, Washington	81	Other services (except public administration)	81	0500000US53067	646.375	4288.375	159119.0
+99035	53067	53	67	Thurston County, Washington	99	Industries not classified	99	0500000US53067	16.0	14.0	387.125
+99037	53069	53	69	Wahkiakum County	11	Agriculture, forestry, fishing and hunting	11	0500000US53069	6.0	0.0	4979.0
+99038	53069	53	69	Wahkiakum County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53069	1.0	0.0	0.0
+99039	53069	53	69	Wahkiakum County	23	Construction	23	0500000US53069	11.0	0.0	0.0
+99040	53069	53	69	Wahkiakum County	42	Wholesale trade	42	0500000US53069	2.0	0.0	0.0
+99041	53069	53	69	Wahkiakum County	51	Information	51	0500000US53069	3.0	0.0	0.0
+99042	53069	53	69	Wahkiakum County	52	Finance and insurance	52	0500000US53069	4.0	0.0	329.0
+99043	53069	53	69	Wahkiakum County	53	Real estate and rental and leasing	53	0500000US53069	6.0	0.0	54.0
+99044	53069	53	69	Wahkiakum County	54	Professional, scientific, and technical services	54	0500000US53069	7.0	0.0	280.0
+99045	53069	53	69	Wahkiakum County	56	Administrative and support and waste management and remediation services	56	0500000US53069	4.0	0.0	0.0
+99046	53069	53	69	Wahkiakum County	62	Health care and social assistance	62	0500000US53069	7.0	92.0	1363.0
+99047	53069	53	69	Wahkiakum County	72	Accommodation and food services	72	0500000US53069	7.0	42.0	317.0
+99048	53069	53	69	Wahkiakum County	81	Other services (except public administration)	81	0500000US53069	6.0	0.0	113.0
+99050	53069	53	69	Wahkiakum County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53069	7.0	108.375	4615.25
+99051	53069	53	69	Wahkiakum County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53069	1.5	0.0	0.0
+99052	53069	53	69	Wahkiakum County, Washington	23	Construction	23	0500000US53069	11.25	42.25	1818.5
+99053	53069	53	69	Wahkiakum County, Washington	42	Wholesale trade	42	0500000US53069	1.75	0.0	0.0
+99054	53069	53	69	Wahkiakum County, Washington	51	Information	51	0500000US53069	3.0	11.875	746.125
+99055	53069	53	69	Wahkiakum County, Washington	52	Finance and insurance	52	0500000US53069	3.5	8.125	396.75
+99056	53069	53	69	Wahkiakum County, Washington	53	Real estate and rental and leasing	53	0500000US53069	4.75	4.75	91.375
+99057	53069	53	69	Wahkiakum County, Washington	54	Professional, scientific, and technical services	54	0500000US53069	6.0	13.375	401.75
+99058	53069	53	69	Wahkiakum County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53069	3.625	14.625	328.0
+99059	53069	53	69	Wahkiakum County, Washington	62	Health care and social assistance	62	0500000US53069	4.0	34.5	1118.625
+99060	53069	53	69	Wahkiakum County, Washington	71	Arts, entertainment, and recreation	71	0500000US53069	1.0	0.0	0.0
+99061	53069	53	69	Wahkiakum County, Washington	72	Accommodation and food services	72	0500000US53069	7.875	16.25	335.375
+99062	53069	53	69	Wahkiakum County, Washington	81	Other services (except public administration)	81	0500000US53069	7.125	11.0	203.25
+99063	53069	53	69	Wahkiakum County, Washington	99	Industries not classified	99	0500000US53069	2.0	0.0	0.0
+99065	53071	53	71	Walla Walla County	11	Agriculture, forestry, fishing and hunting	11	0500000US53071	9.0	0.0	2013.0
+99066	53071	53	71	Walla Walla County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53071	2.0	0.0	0.0
+99067	53071	53	71	Walla Walla County	22	Utilities	22	0500000US53071	11.0	0.0	9175.0
+99068	53071	53	71	Walla Walla County	23	Construction	23	0500000US53071	150.0	679.0	29355.0
+99069	53071	53	71	Walla Walla County	42	Wholesale trade	42	0500000US53071	73.0	624.0	24839.0
+99070	53071	53	71	Walla Walla County	51	Information	51	0500000US53071	25.0	379.0	15722.0
+99071	53071	53	71	Walla Walla County	52	Finance and insurance	52	0500000US53071	79.0	738.0	37071.0
+99072	53071	53	71	Walla Walla County	53	Real estate and rental and leasing	53	0500000US53071	53.0	174.0	5077.0
+99073	53071	53	71	Walla Walla County	54	Professional, scientific, and technical services	54	0500000US53071	112.0	423.0	16686.0
+99074	53071	53	71	Walla Walla County	55	Management of companies and enterprises	55	0500000US53071	1.0	0.0	0.0
+99075	53071	53	71	Walla Walla County	56	Administrative and support and waste management and remediation services	56	0500000US53071	69.0	338.0	9604.0
+99076	53071	53	71	Walla Walla County	61	Educational services	61	0500000US53071	11.0	0.0	0.0
+99077	53071	53	71	Walla Walla County	62	Health care and social assistance	62	0500000US53071	156.0	4167.0	192297.0
+99078	53071	53	71	Walla Walla County	71	Arts, entertainment, and recreation	71	0500000US53071	26.0	335.0	5394.0
+99079	53071	53	71	Walla Walla County	72	Accommodation and food services	72	0500000US53071	138.0	1966.0	30135.0
+99080	53071	53	71	Walla Walla County	81	Other services (except public administration)	81	0500000US53071	114.0	602.0	11849.0
+99081	53071	53	71	Walla Walla County	99	Industries not classified	99	0500000US53071	1.0	0.0	0.0
+99083	53071	53	71	Walla Walla County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53071	11.0	59.875	2246.375
+99084	53071	53	71	Walla Walla County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53071	2.0	0.0	0.0
+99085	53071	53	71	Walla Walla County, Washington	22	Utilities	22	0500000US53071	13.875	107.75	12193.125
+99086	53071	53	71	Walla Walla County, Washington	23	Construction	23	0500000US53071	160.75	889.25	44606.375
+99087	53071	53	71	Walla Walla County, Washington	42	Wholesale trade	42	0500000US53071	65.625	453.625	24126.625
+99088	53071	53	71	Walla Walla County, Washington	51	Information	51	0500000US53071	23.75	335.125	14345.75
+99089	53071	53	71	Walla Walla County, Washington	52	Finance and insurance	52	0500000US53071	75.0	524.25	41732.375
+99090	53071	53	71	Walla Walla County, Washington	53	Real estate and rental and leasing	53	0500000US53071	65.5	202.625	7181.375
+99091	53071	53	71	Walla Walla County, Washington	54	Professional, scientific, and technical services	54	0500000US53071	108.0	494.75	24293.0
+99092	53071	53	71	Walla Walla County, Washington	55	Management of companies and enterprises	55	0500000US53071	1.0	0.0	0.0
+99093	53071	53	71	Walla Walla County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53071	74.875	423.125	12084.25
+99094	53071	53	71	Walla Walla County, Washington	61	Educational services	61	0500000US53071	10.125	2079.5	46208.875
+99095	53071	53	71	Walla Walla County, Washington	62	Health care and social assistance	62	0500000US53071	158.5	4292.75	230928.875
+99096	53071	53	71	Walla Walla County, Washington	71	Arts, entertainment, and recreation	71	0500000US53071	26.25	333.875	6745.5
+99097	53071	53	71	Walla Walla County, Washington	72	Accommodation and food services	72	0500000US53071	132.375	2026.125	37521.625
+99098	53071	53	71	Walla Walla County, Washington	81	Other services (except public administration)	81	0500000US53071	119.375	626.875	15044.375
+99099	53071	53	71	Walla Walla County, Washington	99	Industries not classified	99	0500000US53071	3.5	3.5	55.5
+99101	53073	53	73	Whatcom County	11	Agriculture, forestry, fishing and hunting	11	0500000US53073	67.0	274.0	11206.0
+99102	53073	53	73	Whatcom County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53073	11.0	56.0	5126.0
+99103	53073	53	73	Whatcom County	22	Utilities	22	0500000US53073	19.0	0.0	0.0
+99104	53073	53	73	Whatcom County	23	Construction	23	0500000US53073	730.0	5456.0	315943.0
+99105	53073	53	73	Whatcom County	42	Wholesale trade	42	0500000US53073	327.0	3648.0	205523.0
+99106	53073	53	73	Whatcom County	51	Information	51	0500000US53073	94.0	1903.0	84625.0
+99107	53073	53	73	Whatcom County	52	Finance and insurance	52	0500000US53073	302.0	2198.0	143137.0
+99108	53073	53	73	Whatcom County	53	Real estate and rental and leasing	53	0500000US53073	315.0	1156.0	34849.0
+99109	53073	53	73	Whatcom County	54	Professional, scientific, and technical services	54	0500000US53073	683.0	3185.0	179775.0
+99110	53073	53	73	Whatcom County	55	Management of companies and enterprises	55	0500000US53073	24.0	838.0	55579.0
+99111	53073	53	73	Whatcom County	56	Administrative and support and waste management and remediation services	56	0500000US53073	283.0	2686.0	73233.0
+99112	53073	53	73	Whatcom County	61	Educational services	61	0500000US53073	94.0	1304.0	28767.0
+99113	53073	53	73	Whatcom County	62	Health care and social assistance	62	0500000US53073	657.0	9504.0	411695.0
+99114	53073	53	73	Whatcom County	71	Arts, entertainment, and recreation	71	0500000US53073	116.0	1610.0	31360.0
+99115	53073	53	73	Whatcom County	72	Accommodation and food services	72	0500000US53073	512.0	8421.0	150310.0
+99116	53073	53	73	Whatcom County	81	Other services (except public administration)	81	0500000US53073	564.0	3595.0	101559.0
+99117	53073	53	73	Whatcom County	99	Industries not classified	99	0500000US53073	4.0	0.0	0.0
+99119	53073	53	73	Whatcom County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53073	75.75	292.25	17037.375
+99120	53073	53	73	Whatcom County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53073	9.75	91.625	6100.0
+99121	53073	53	73	Whatcom County, Washington	22	Utilities	22	0500000US53073	18.5	73.25	8177.375
+99122	53073	53	73	Whatcom County, Washington	23	Construction	23	0500000US53073	843.625	7486.125	471927.75
+99123	53073	53	73	Whatcom County, Washington	42	Wholesale trade	42	0500000US53073	338.5	3415.375	189167.875
+99124	53073	53	73	Whatcom County, Washington	51	Information	51	0500000US53073	101.375	1745.25	98631.0
+99125	53073	53	73	Whatcom County, Washington	52	Finance and insurance	52	0500000US53073	294.125	2364.875	161811.875
+99126	53073	53	73	Whatcom County, Washington	53	Real estate and rental and leasing	53	0500000US53073	378.625	1506.0	62439.625
+99127	53073	53	73	Whatcom County, Washington	54	Professional, scientific, and technical services	54	0500000US53073	713.25	3461.5	220017.375
+99128	53073	53	73	Whatcom County, Washington	55	Management of companies and enterprises	55	0500000US53073	25.125	746.25	44563.125
+99129	53073	53	73	Whatcom County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53073	342.5	3326.125	102625.5
+99130	53073	53	73	Whatcom County, Washington	61	Educational services	61	0500000US53073	95.75	1329.5	30153.25
+99131	53073	53	73	Whatcom County, Washington	62	Health care and social assistance	62	0500000US53073	679.75	10286.75	471325.25
+99132	53073	53	73	Whatcom County, Washington	71	Arts, entertainment, and recreation	71	0500000US53073	125.5	1831.125	30790.625
+99133	53073	53	73	Whatcom County, Washington	72	Accommodation and food services	72	0500000US53073	541.625	8991.5	182290.875
+99134	53073	53	73	Whatcom County, Washington	81	Other services (except public administration)	81	0500000US53073	592.375	3670.25	116313.875
+99135	53073	53	73	Whatcom County, Washington	99	Industries not classified	99	0500000US53073	12.25	10.375	330.75
+99137	53075	53	75	Whitman County	11	Agriculture, forestry, fishing and hunting	11	0500000US53075	8.0	12.0	542.0
+99138	53075	53	75	Whitman County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53075	2.0	0.0	0.0
+99139	53075	53	75	Whitman County	22	Utilities	22	0500000US53075	5.0	0.0	0.0
+99140	53075	53	75	Whitman County	23	Construction	23	0500000US53075	70.0	289.0	13137.0
+99141	53075	53	75	Whitman County	42	Wholesale trade	42	0500000US53075	60.0	677.0	32942.0
+99142	53075	53	75	Whitman County	51	Information	51	0500000US53075	16.0	0.0	2520.0
+99143	53075	53	75	Whitman County	52	Finance and insurance	52	0500000US53075	53.0	221.0	10747.0
+99144	53075	53	75	Whitman County	53	Real estate and rental and leasing	53	0500000US53075	47.0	216.0	4515.0
+99145	53075	53	75	Whitman County	54	Professional, scientific, and technical services	54	0500000US53075	57.0	430.0	20571.0
+99146	53075	53	75	Whitman County	55	Management of companies and enterprises	55	0500000US53075	2.0	0.0	0.0
+99147	53075	53	75	Whitman County	56	Administrative and support and waste management and remediation services	56	0500000US53075	24.0	152.0	2855.0
+99148	53075	53	75	Whitman County	61	Educational services	61	0500000US53075	3.0	5.0	56.0
+99149	53075	53	75	Whitman County	62	Health care and social assistance	62	0500000US53075	98.0	1957.0	74601.0
+99150	53075	53	75	Whitman County	71	Arts, entertainment, and recreation	71	0500000US53075	12.0	116.0	2315.0
+99151	53075	53	75	Whitman County	72	Accommodation and food services	72	0500000US53075	133.0	1526.0	18333.0
+99152	53075	53	75	Whitman County	81	Other services (except public administration)	81	0500000US53075	91.0	426.0	7374.0
+99153	53075	53	75	Whitman County	99	Industries not classified	99	0500000US53075	2.0	0.0	0.0
+99155	53075	53	75	Whitman County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53075	7.75	30.0	1025.375
+99156	53075	53	75	Whitman County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53075	1.0	0.0	0.0
+99157	53075	53	75	Whitman County, Washington	22	Utilities	22	0500000US53075	4.0	18.75	2111.5
+99158	53075	53	75	Whitman County, Washington	23	Construction	23	0500000US53075	77.25	347.375	18137.125
+99159	53075	53	75	Whitman County, Washington	42	Wholesale trade	42	0500000US53075	59.875	673.625	41449.5
+99160	53075	53	75	Whitman County, Washington	51	Information	51	0500000US53075	18.625	124.5	6795.625
+99161	53075	53	75	Whitman County, Washington	52	Finance and insurance	52	0500000US53075	46.0	204.625	11596.25
+99162	53075	53	75	Whitman County, Washington	53	Real estate and rental and leasing	53	0500000US53075	49.375	256.5	6485.125
+99163	53075	53	75	Whitman County, Washington	54	Professional, scientific, and technical services	54	0500000US53075	63.5	339.25	17647.875
+99164	53075	53	75	Whitman County, Washington	55	Management of companies and enterprises	55	0500000US53075	2.3333333333333335	4.5	533.8333333333334
+99165	53075	53	75	Whitman County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53075	23.75	171.875	3922.25
+99166	53075	53	75	Whitman County, Washington	61	Educational services	61	0500000US53075	5.625	43.5	433.625
+99167	53075	53	75	Whitman County, Washington	62	Health care and social assistance	62	0500000US53075	101.0	1957.75	88210.0
+99168	53075	53	75	Whitman County, Washington	71	Arts, entertainment, and recreation	71	0500000US53075	12.0	87.375	1752.125
+99169	53075	53	75	Whitman County, Washington	72	Accommodation and food services	72	0500000US53075	126.25	1668.5	24396.125
+99170	53075	53	75	Whitman County, Washington	81	Other services (except public administration)	81	0500000US53075	95.125	470.5	10338.25
+99171	53075	53	75	Whitman County, Washington	99	Industries not classified	99	0500000US53075	3.0	1.75	37.5
+99173	53077	53	77	Yakima County	11	Agriculture, forestry, fishing and hunting	11	0500000US53077	37.0	1969.0	66634.0
+99174	53077	53	77	Yakima County	21	Mining, quarrying, and oil and gas extraction	21	0500000US53077	7.0	36.0	1451.0
+99175	53077	53	77	Yakima County	22	Utilities	22	0500000US53077	11.0	0.0	0.0
+99176	53077	53	77	Yakima County	23	Construction	23	0500000US53077	511.0	2491.0	110541.0
+99177	53077	53	77	Yakima County	42	Wholesale trade	42	0500000US53077	267.0	5529.0	262667.0
+99178	53077	53	77	Yakima County	51	Information	51	0500000US53077	62.0	997.0	40357.0
+99179	53077	53	77	Yakima County	52	Finance and insurance	52	0500000US53077	245.0	1602.0	83905.0
+99180	53077	53	77	Yakima County	53	Real estate and rental and leasing	53	0500000US53077	245.0	921.0	27652.0
+99181	53077	53	77	Yakima County	54	Professional, scientific, and technical services	54	0500000US53077	318.0	1984.0	79574.0
+99182	53077	53	77	Yakima County	55	Management of companies and enterprises	55	0500000US53077	12.0	261.0	15749.0
+99183	53077	53	77	Yakima County	56	Administrative and support and waste management and remediation services	56	0500000US53077	191.0	2280.0	63426.0
+99184	53077	53	77	Yakima County	61	Educational services	61	0500000US53077	52.0	1150.0	31857.0
+99185	53077	53	77	Yakima County	62	Health care and social assistance	62	0500000US53077	559.0	13077.0	555727.0
+99186	53077	53	77	Yakima County	71	Arts, entertainment, and recreation	71	0500000US53077	71.0	2122.0	38144.0
+99187	53077	53	77	Yakima County	72	Accommodation and food services	72	0500000US53077	416.0	5482.0	82333.0
+99188	53077	53	77	Yakima County	81	Other services (except public administration)	81	0500000US53077	441.0	2564.0	53603.0
+99189	53077	53	77	Yakima County	99	Industries not classified	99	0500000US53077	4.0	0.0	126.0
+99191	53077	53	77	Yakima County, Washington	11	Agriculture, forestry, fishing and hunting	11	0500000US53077	36.625	2184.0	80173.25
+99192	53077	53	77	Yakima County, Washington	21	Mining, quarrying, and oil and gas extraction	21	0500000US53077	6.875	55.375	2568.25
+99193	53077	53	77	Yakima County, Washington	22	Utilities	22	0500000US53077	9.0	118.125	10815.25
+99194	53077	53	77	Yakima County, Washington	23	Construction	23	0500000US53077	565.75	3247.375	170790.25
+99195	53077	53	77	Yakima County, Washington	42	Wholesale trade	42	0500000US53077	249.75	5559.25	299795.875
+99196	53077	53	77	Yakima County, Washington	51	Information	51	0500000US53077	66.125	929.25	40594.25
+99197	53077	53	77	Yakima County, Washington	52	Finance and insurance	52	0500000US53077	244.5	1544.125	97896.5
+99198	53077	53	77	Yakima County, Washington	53	Real estate and rental and leasing	53	0500000US53077	255.375	972.375	31912.125
+99199	53077	53	77	Yakima County, Washington	54	Professional, scientific, and technical services	54	0500000US53077	324.625	1979.75	102175.625
+99200	53077	53	77	Yakima County, Washington	55	Management of companies and enterprises	55	0500000US53077	13.0	229.0	15638.5
+99201	53077	53	77	Yakima County, Washington	56	Administrative and support and waste management and remediation services	56	0500000US53077	187.125	2480.75	75059.125
+99202	53077	53	77	Yakima County, Washington	61	Educational services	61	0500000US53077	61.0	1329.375	42948.375
+99203	53077	53	77	Yakima County, Washington	62	Health care and social assistance	62	0500000US53077	563.125	14060.75	681325.125
+99204	53077	53	77	Yakima County, Washington	71	Arts, entertainment, and recreation	71	0500000US53077	73.75	1989.75	46348.125
+99205	53077	53	77	Yakima County, Washington	72	Accommodation and food services	72	0500000US53077	444.375	6382.375	111888.0
+99206	53077	53	77	Yakima County, Washington	81	Other services (except public administration)	81	0500000US53077	438.375	2526.75	65616.5
+99207	53077	53	77	Yakima County, Washington	99	Industries not classified	99	0500000US53077	10.25	13.5	315.0

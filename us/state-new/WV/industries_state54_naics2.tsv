@@ -1,0 +1,1705 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+99209	54001	54	1	Barbour County	11	Agriculture, forestry, fishing and hunting	11	0500000US54001	3.0	0.0	0.0
+99210	54001	54	1	Barbour County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54001	5.0	0.0	0.0
+99211	54001	54	1	Barbour County	23	Construction	23	0500000US54001	27.0	100.0	3120.0
+99212	54001	54	1	Barbour County	42	Wholesale trade	42	0500000US54001	4.0	9.0	191.0
+99213	54001	54	1	Barbour County	51	Information	51	0500000US54001	2.0	0.0	0.0
+99214	54001	54	1	Barbour County	52	Finance and insurance	52	0500000US54001	7.0	87.0	2877.0
+99215	54001	54	1	Barbour County	53	Real estate and rental and leasing	53	0500000US54001	6.0	0.0	304.0
+99216	54001	54	1	Barbour County	54	Professional, scientific, and technical services	54	0500000US54001	16.0	118.0	3245.0
+99217	54001	54	1	Barbour County	55	Management of companies and enterprises	55	0500000US54001	2.0	0.0	0.0
+99218	54001	54	1	Barbour County	56	Administrative and support and waste management and remediation services	56	0500000US54001	7.0	43.0	1504.0
+99219	54001	54	1	Barbour County	61	Educational services	61	0500000US54001	2.0	0.0	0.0
+99220	54001	54	1	Barbour County	62	Health care and social assistance	62	0500000US54001	32.0	863.0	17841.0
+99221	54001	54	1	Barbour County	71	Arts, entertainment, and recreation	71	0500000US54001	6.0	11.0	155.0
+99222	54001	54	1	Barbour County	72	Accommodation and food services	72	0500000US54001	24.0	295.0	3478.0
+99223	54001	54	1	Barbour County	81	Other services (except public administration)	81	0500000US54001	28.0	0.0	843.0
+99225	54001	54	1	Barbour County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54001	3.4285714285714284	3.857142857142857	95.57142857142857
+99226	54001	54	1	Barbour County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54001	3.625	149.625	14324.625
+99227	54001	54	1	Barbour County, West Virginia	23	Construction	23	0500000US54001	20.75	77.125	2411.375
+99228	54001	54	1	Barbour County, West Virginia	42	Wholesale trade	42	0500000US54001	4.75	20.375	746.75
+99229	54001	54	1	Barbour County, West Virginia	51	Information	51	0500000US54001	3.125	4.75	180.5
+99230	54001	54	1	Barbour County, West Virginia	52	Finance and insurance	52	0500000US54001	7.625	72.125	2638.375
+99231	54001	54	1	Barbour County, West Virginia	53	Real estate and rental and leasing	53	0500000US54001	7.625	12.375	445.0
+99232	54001	54	1	Barbour County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54001	13.5	81.875	2478.75
+99233	54001	54	1	Barbour County, West Virginia	55	Management of companies and enterprises	55	0500000US54001	3.0	37.875	1620.0
+99234	54001	54	1	Barbour County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54001	8.125	65.375	6972.625
+99235	54001	54	1	Barbour County, West Virginia	61	Educational services	61	0500000US54001	2.0	0.0	0.0
+99236	54001	54	1	Barbour County, West Virginia	62	Health care and social assistance	62	0500000US54001	31.125	837.5	19871.0
+99237	54001	54	1	Barbour County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54001	4.714285714285714	6.428571428571429	129.71428571428572
+99238	54001	54	1	Barbour County, West Virginia	72	Accommodation and food services	72	0500000US54001	22.625	285.125	3511.75
+99239	54001	54	1	Barbour County, West Virginia	81	Other services (except public administration)	81	0500000US54001	26.125	67.75	931.5
+99240	54001	54	1	Barbour County, West Virginia	99	Industries not classified	99	0500000US54001	1.0	0.0	0.0
+99242	54003	54	3	Berkeley County	11	Agriculture, forestry, fishing and hunting	11	0500000US54003	2.0	0.0	0.0
+99243	54003	54	3	Berkeley County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54003	2.0	0.0	0.0
+99244	54003	54	3	Berkeley County	22	Utilities	22	0500000US54003	3.0	0.0	0.0
+99245	54003	54	3	Berkeley County	23	Construction	23	0500000US54003	159.0	945.0	30057.0
+99246	54003	54	3	Berkeley County	42	Wholesale trade	42	0500000US54003	46.0	897.0	40040.0
+99247	54003	54	3	Berkeley County	51	Information	51	0500000US54003	34.0	374.0	15616.0
+99248	54003	54	3	Berkeley County	52	Finance and insurance	52	0500000US54003	102.0	606.0	31298.0
+99249	54003	54	3	Berkeley County	53	Real estate and rental and leasing	53	0500000US54003	66.0	253.0	6385.0
+99250	54003	54	3	Berkeley County	54	Professional, scientific, and technical services	54	0500000US54003	136.0	903.0	48122.0
+99251	54003	54	3	Berkeley County	55	Management of companies and enterprises	55	0500000US54003	11.0	52.0	13739.0
+99252	54003	54	3	Berkeley County	56	Administrative and support and waste management and remediation services	56	0500000US54003	72.0	1295.0	24423.0
+99253	54003	54	3	Berkeley County	61	Educational services	61	0500000US54003	13.0	115.0	2734.0
+99254	54003	54	3	Berkeley County	62	Health care and social assistance	62	0500000US54003	195.0	5617.0	291145.0
+99255	54003	54	3	Berkeley County	71	Arts, entertainment, and recreation	71	0500000US54003	27.0	288.0	4522.0
+99256	54003	54	3	Berkeley County	72	Accommodation and food services	72	0500000US54003	172.0	2611.0	37042.0
+99257	54003	54	3	Berkeley County	81	Other services (except public administration)	81	0500000US54003	185.0	986.0	22334.0
+99259	54003	54	3	Berkeley County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54003	2.0	1.25	11.25
+99260	54003	54	3	Berkeley County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54003	1.75	0.0	0.0
+99261	54003	54	3	Berkeley County, West Virginia	22	Utilities	22	0500000US54003	3.375	32.5	3216.75
+99262	54003	54	3	Berkeley County, West Virginia	23	Construction	23	0500000US54003	175.0	947.25	39015.75
+99263	54003	54	3	Berkeley County, West Virginia	42	Wholesale trade	42	0500000US54003	42.75	818.375	46727.875
+99264	54003	54	3	Berkeley County, West Virginia	51	Information	51	0500000US54003	29.5	313.75	13514.25
+99265	54003	54	3	Berkeley County, West Virginia	52	Finance and insurance	52	0500000US54003	94.625	571.875	27823.125
+99266	54003	54	3	Berkeley County, West Virginia	53	Real estate and rental and leasing	53	0500000US54003	72.75	250.0	8690.625
+99267	54003	54	3	Berkeley County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54003	142.0	971.75	57616.375
+99268	54003	54	3	Berkeley County, West Virginia	55	Management of companies and enterprises	55	0500000US54003	8.0	33.75	1958.25
+99269	54003	54	3	Berkeley County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54003	81.125	1350.375	28077.0
+99270	54003	54	3	Berkeley County, West Virginia	61	Educational services	61	0500000US54003	11.25	170.625	5479.5
+99271	54003	54	3	Berkeley County, West Virginia	62	Health care and social assistance	62	0500000US54003	205.75	6020.75	385428.5
+99272	54003	54	3	Berkeley County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54003	34.125	309.75	4391.125
+99273	54003	54	3	Berkeley County, West Virginia	72	Accommodation and food services	72	0500000US54003	187.375	3187.125	46180.5
+99274	54003	54	3	Berkeley County, West Virginia	81	Other services (except public administration)	81	0500000US54003	189.25	1043.75	27545.0
+99275	54003	54	3	Berkeley County, West Virginia	99	Industries not classified	99	0500000US54003	2.3333333333333335	1.1666666666666667	37.166666666666664
+99277	54005	54	5	Boone County	11	Agriculture, forestry, fishing and hunting	11	0500000US54005	2.0	0.0	0.0
+99278	54005	54	5	Boone County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54005	22.0	0.0	0.0
+99279	54005	54	5	Boone County	22	Utilities	22	0500000US54005	4.0	0.0	0.0
+99280	54005	54	5	Boone County	23	Construction	23	0500000US54005	12.0	86.0	3063.0
+99281	54005	54	5	Boone County	42	Wholesale trade	42	0500000US54005	10.0	65.0	2615.0
+99282	54005	54	5	Boone County	51	Information	51	0500000US54005	6.0	0.0	0.0
+99283	54005	54	5	Boone County	52	Finance and insurance	52	0500000US54005	17.0	127.0	3904.0
+99284	54005	54	5	Boone County	53	Real estate and rental and leasing	53	0500000US54005	4.0	0.0	0.0
+99285	54005	54	5	Boone County	54	Professional, scientific, and technical services	54	0500000US54005	18.0	110.0	3749.0
+99286	54005	54	5	Boone County	55	Management of companies and enterprises	55	0500000US54005	6.0	24.0	984.0
+99287	54005	54	5	Boone County	56	Administrative and support and waste management and remediation services	56	0500000US54005	9.0	0.0	1201.0
+99288	54005	54	5	Boone County	61	Educational services	61	0500000US54005	2.0	0.0	0.0
+99289	54005	54	5	Boone County	62	Health care and social assistance	62	0500000US54005	37.0	810.0	21122.0
+99290	54005	54	5	Boone County	71	Arts, entertainment, and recreation	71	0500000US54005	6.0	0.0	598.0
+99291	54005	54	5	Boone County	72	Accommodation and food services	72	0500000US54005	20.0	312.0	4124.0
+99292	54005	54	5	Boone County	81	Other services (except public administration)	81	0500000US54005	41.0	178.0	4661.0
+99294	54005	54	5	Boone County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54005	2.857142857142857	3.142857142857143	211.14285714285714
+99295	54005	54	5	Boone County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54005	17.5	1095.875	81230.5
+99296	54005	54	5	Boone County, West Virginia	22	Utilities	22	0500000US54005	4.0	18.375	1638.5
+99297	54005	54	5	Boone County, West Virginia	23	Construction	23	0500000US54005	12.0	45.5	2362.375
+99298	54005	54	5	Boone County, West Virginia	42	Wholesale trade	42	0500000US54005	9.125	42.875	1569.625
+99299	54005	54	5	Boone County, West Virginia	51	Information	51	0500000US54005	5.5	7.5	653.5
+99300	54005	54	5	Boone County, West Virginia	52	Finance and insurance	52	0500000US54005	14.25	103.125	3689.125
+99301	54005	54	5	Boone County, West Virginia	53	Real estate and rental and leasing	53	0500000US54005	4.75	6.5	138.875
+99302	54005	54	5	Boone County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54005	14.875	79.875	2679.875
+99303	54005	54	5	Boone County, West Virginia	55	Management of companies and enterprises	55	0500000US54005	3.375	8.125	583.125
+99304	54005	54	5	Boone County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54005	6.375	30.25	901.625
+99305	54005	54	5	Boone County, West Virginia	61	Educational services	61	0500000US54005	2.2	2.2	39.6
+99306	54005	54	5	Boone County, West Virginia	62	Health care and social assistance	62	0500000US54005	36.625	893.125	24770.125
+99307	54005	54	5	Boone County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54005	4.75	29.25	531.0
+99308	54005	54	5	Boone County, West Virginia	72	Accommodation and food services	72	0500000US54005	19.5	265.0	3691.875
+99309	54005	54	5	Boone County, West Virginia	81	Other services (except public administration)	81	0500000US54005	34.625	167.375	4347.375
+99311	54007	54	7	Braxton County	11	Agriculture, forestry, fishing and hunting	11	0500000US54007	1.0	0.0	0.0
+99312	54007	54	7	Braxton County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54007	2.0	0.0	0.0
+99313	54007	54	7	Braxton County	22	Utilities	22	0500000US54007	2.0	0.0	0.0
+99314	54007	54	7	Braxton County	23	Construction	23	0500000US54007	29.0	139.0	6048.0
+99315	54007	54	7	Braxton County	42	Wholesale trade	42	0500000US54007	10.0	69.0	2260.0
+99316	54007	54	7	Braxton County	51	Information	51	0500000US54007	8.0	0.0	2006.0
+99317	54007	54	7	Braxton County	52	Finance and insurance	52	0500000US54007	13.0	85.0	2754.0
+99318	54007	54	7	Braxton County	53	Real estate and rental and leasing	53	0500000US54007	8.0	23.0	562.0
+99319	54007	54	7	Braxton County	54	Professional, scientific, and technical services	54	0500000US54007	12.0	52.0	1568.0
+99320	54007	54	7	Braxton County	55	Management of companies and enterprises	55	0500000US54007	2.0	0.0	0.0
+99321	54007	54	7	Braxton County	56	Administrative and support and waste management and remediation services	56	0500000US54007	6.0	51.0	1578.0
+99322	54007	54	7	Braxton County	62	Health care and social assistance	62	0500000US54007	19.0	876.0	18555.0
+99323	54007	54	7	Braxton County	71	Arts, entertainment, and recreation	71	0500000US54007	5.0	0.0	0.0
+99324	54007	54	7	Braxton County	72	Accommodation and food services	72	0500000US54007	27.0	363.0	4487.0
+99325	54007	54	7	Braxton County	81	Other services (except public administration)	81	0500000US54007	30.0	108.0	3925.0
+99326	54007	54	7	Braxton County	99	Industries not classified	99	0500000US54007	1.0	0.0	0.0
+99328	54007	54	7	Braxton County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54007	1.0	0.0	0.0
+99329	54007	54	7	Braxton County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54007	6.375	52.0	3377.875
+99330	54007	54	7	Braxton County, West Virginia	22	Utilities	22	0500000US54007	3.875	28.25	2639.0
+99331	54007	54	7	Braxton County, West Virginia	23	Construction	23	0500000US54007	25.25	154.125	6848.375
+99332	54007	54	7	Braxton County, West Virginia	42	Wholesale trade	42	0500000US54007	8.75	59.125	2105.875
+99333	54007	54	7	Braxton County, West Virginia	51	Information	51	0500000US54007	8.125	31.75	1373.375
+99334	54007	54	7	Braxton County, West Virginia	52	Finance and insurance	52	0500000US54007	13.75	61.75	2371.5
+99335	54007	54	7	Braxton County, West Virginia	53	Real estate and rental and leasing	53	0500000US54007	6.0	13.25	271.75
+99336	54007	54	7	Braxton County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54007	12.25	38.25	1331.375
+99337	54007	54	7	Braxton County, West Virginia	55	Management of companies and enterprises	55	0500000US54007	2.0	0.0	0.0
+99338	54007	54	7	Braxton County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54007	7.25	51.25	2192.125
+99339	54007	54	7	Braxton County, West Virginia	62	Health care and social assistance	62	0500000US54007	19.875	881.25	21464.75
+99340	54007	54	7	Braxton County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54007	4.285714285714286	3.5714285714285716	127.28571428571429
+99341	54007	54	7	Braxton County, West Virginia	72	Accommodation and food services	72	0500000US54007	25.25	355.25	5344.375
+99342	54007	54	7	Braxton County, West Virginia	81	Other services (except public administration)	81	0500000US54007	30.0	116.625	4494.0
+99343	54007	54	7	Braxton County, West Virginia	99	Industries not classified	99	0500000US54007	1.75	0.0	0.0
+99345	54009	54	9	Brooke County	23	Construction	23	0500000US54009	32.0	339.0	14041.0
+99346	54009	54	9	Brooke County	42	Wholesale trade	42	0500000US54009	13.0	114.0	5336.0
+99347	54009	54	9	Brooke County	51	Information	51	0500000US54009	2.0	0.0	0.0
+99348	54009	54	9	Brooke County	52	Finance and insurance	52	0500000US54009	20.0	135.0	3770.0
+99349	54009	54	9	Brooke County	53	Real estate and rental and leasing	53	0500000US54009	2.0	0.0	0.0
+99350	54009	54	9	Brooke County	54	Professional, scientific, and technical services	54	0500000US54009	21.0	97.0	1914.0
+99351	54009	54	9	Brooke County	55	Management of companies and enterprises	55	0500000US54009	1.0	0.0	0.0
+99352	54009	54	9	Brooke County	56	Administrative and support and waste management and remediation services	56	0500000US54009	15.0	0.0	2722.0
+99353	54009	54	9	Brooke County	61	Educational services	61	0500000US54009	1.0	0.0	0.0
+99354	54009	54	9	Brooke County	62	Health care and social assistance	62	0500000US54009	65.0	2040.0	67605.0
+99355	54009	54	9	Brooke County	71	Arts, entertainment, and recreation	71	0500000US54009	23.0	145.0	2196.0
+99356	54009	54	9	Brooke County	72	Accommodation and food services	72	0500000US54009	55.0	720.0	9504.0
+99357	54009	54	9	Brooke County	81	Other services (except public administration)	81	0500000US54009	58.0	275.0	4041.0
+99359	54009	54	9	Brooke County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54009	1.0	0.0	0.0
+99360	54009	54	9	Brooke County, West Virginia	23	Construction	23	0500000US54009	29.375	247.125	12297.5
+99361	54009	54	9	Brooke County, West Virginia	42	Wholesale trade	42	0500000US54009	9.5	94.25	4944.5
+99362	54009	54	9	Brooke County, West Virginia	51	Information	51	0500000US54009	1.5	0.0	0.0
+99363	54009	54	9	Brooke County, West Virginia	52	Finance and insurance	52	0500000US54009	19.375	121.625	4212.75
+99364	54009	54	9	Brooke County, West Virginia	53	Real estate and rental and leasing	53	0500000US54009	3.625	21.625	645.875
+99365	54009	54	9	Brooke County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54009	22.75	78.0	1713.25
+99366	54009	54	9	Brooke County, West Virginia	55	Management of companies and enterprises	55	0500000US54009	2.125	9.625	1244.375
+99367	54009	54	9	Brooke County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54009	13.0	78.25	3408.5
+99368	54009	54	9	Brooke County, West Virginia	61	Educational services	61	0500000US54009	2.0	0.0	0.0
+99369	54009	54	9	Brooke County, West Virginia	62	Health care and social assistance	62	0500000US54009	61.875	2136.25	90612.375
+99370	54009	54	9	Brooke County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54009	17.5	119.75	2060.25
+99371	54009	54	9	Brooke County, West Virginia	72	Accommodation and food services	72	0500000US54009	48.625	650.5	9764.5
+99372	54009	54	9	Brooke County, West Virginia	81	Other services (except public administration)	81	0500000US54009	56.0	249.0	4375.625
+99374	54011	54	11	Cabell County	11	Agriculture, forestry, fishing and hunting	11	0500000US54011	1.0	0.0	0.0
+99375	54011	54	11	Cabell County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54011	9.0	92.0	5717.0
+99376	54011	54	11	Cabell County	22	Utilities	22	0500000US54011	12.0	0.0	0.0
+99377	54011	54	11	Cabell County	23	Construction	23	0500000US54011	175.0	1967.0	114881.0
+99378	54011	54	11	Cabell County	42	Wholesale trade	42	0500000US54011	120.0	1902.0	86254.0
+99379	54011	54	11	Cabell County	51	Information	51	0500000US54011	38.0	692.0	37153.0
+99380	54011	54	11	Cabell County	52	Finance and insurance	52	0500000US54011	177.0	1256.0	58365.0
+99381	54011	54	11	Cabell County	53	Real estate and rental and leasing	53	0500000US54011	99.0	447.0	24412.0
+99382	54011	54	11	Cabell County	54	Professional, scientific, and technical services	54	0500000US54011	201.0	2140.0	76520.0
+99383	54011	54	11	Cabell County	55	Management of companies and enterprises	55	0500000US54011	17.0	184.0	12309.0
+99384	54011	54	11	Cabell County	56	Administrative and support and waste management and remediation services	56	0500000US54011	96.0	3698.0	91038.0
+99385	54011	54	11	Cabell County	61	Educational services	61	0500000US54011	19.0	350.0	9208.0
+99386	54011	54	11	Cabell County	62	Health care and social assistance	62	0500000US54011	372.0	12866.0	569882.0
+99387	54011	54	11	Cabell County	71	Arts, entertainment, and recreation	71	0500000US54011	60.0	1355.0	12577.0
+99388	54011	54	11	Cabell County	72	Accommodation and food services	72	0500000US54011	267.0	4934.0	63340.0
+99389	54011	54	11	Cabell County	81	Other services (except public administration)	81	0500000US54011	277.0	1738.0	42828.0
+99390	54011	54	11	Cabell County	99	Industries not classified	99	0500000US54011	1.0	0.0	0.0
+99392	54011	54	11	Cabell County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54011	1.0	0.0	0.0
+99393	54011	54	11	Cabell County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54011	8.0	39.125	2944.0
+99394	54011	54	11	Cabell County, West Virginia	22	Utilities	22	0500000US54011	11.625	159.75	13153.0
+99395	54011	54	11	Cabell County, West Virginia	23	Construction	23	0500000US54011	153.5	2132.625	126882.5
+99396	54011	54	11	Cabell County, West Virginia	42	Wholesale trade	42	0500000US54011	112.5	1609.875	82787.0
+99397	54011	54	11	Cabell County, West Virginia	51	Information	51	0500000US54011	38.625	1063.125	62804.5
+99398	54011	54	11	Cabell County, West Virginia	52	Finance and insurance	52	0500000US54011	154.875	1194.0	68397.125
+99399	54011	54	11	Cabell County, West Virginia	53	Real estate and rental and leasing	53	0500000US54011	106.75	503.25	23117.75
+99400	54011	54	11	Cabell County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54011	196.25	1951.375	75513.625
+99401	54011	54	11	Cabell County, West Virginia	55	Management of companies and enterprises	55	0500000US54011	17.125	162.625	8848.375
+99402	54011	54	11	Cabell County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54011	97.0	4030.125	111716.375
+99403	54011	54	11	Cabell County, West Virginia	61	Educational services	61	0500000US54011	20.125	292.125	7462.75
+99404	54011	54	11	Cabell County, West Virginia	62	Health care and social assistance	62	0500000US54011	362.75	14040.625	691914.875
+99405	54011	54	11	Cabell County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54011	53.875	1002.125	13725.75
+99406	54011	54	11	Cabell County, West Virginia	72	Accommodation and food services	72	0500000US54011	274.0	5368.75	77188.5
+99407	54011	54	11	Cabell County, West Virginia	81	Other services (except public administration)	81	0500000US54011	252.125	1720.75	46629.875
+99408	54011	54	11	Cabell County, West Virginia	99	Industries not classified	99	0500000US54011	2.4	4.4	112.6
+99410	54013	54	13	Calhoun County	11	Agriculture, forestry, fishing and hunting	11	0500000US54013	1.0	0.0	0.0
+99411	54013	54	13	Calhoun County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54013	19.0	0.0	0.0
+99412	54013	54	13	Calhoun County	23	Construction	23	0500000US54013	10.0	199.0	14746.0
+99413	54013	54	13	Calhoun County	51	Information	51	0500000US54013	3.0	0.0	0.0
+99414	54013	54	13	Calhoun County	52	Finance and insurance	52	0500000US54013	5.0	0.0	0.0
+99415	54013	54	13	Calhoun County	53	Real estate and rental and leasing	53	0500000US54013	3.0	0.0	149.0
+99416	54013	54	13	Calhoun County	54	Professional, scientific, and technical services	54	0500000US54013	5.0	0.0	0.0
+99417	54013	54	13	Calhoun County	55	Management of companies and enterprises	55	0500000US54013	2.0	0.0	0.0
+99418	54013	54	13	Calhoun County	56	Administrative and support and waste management and remediation services	56	0500000US54013	6.0	0.0	458.0
+99419	54013	54	13	Calhoun County	61	Educational services	61	0500000US54013	2.0	0.0	0.0
+99420	54013	54	13	Calhoun County	62	Health care and social assistance	62	0500000US54013	9.0	0.0	0.0
+99421	54013	54	13	Calhoun County	72	Accommodation and food services	72	0500000US54013	4.0	0.0	354.0
+99422	54013	54	13	Calhoun County	81	Other services (except public administration)	81	0500000US54013	9.0	0.0	0.0
+99424	54013	54	13	Calhoun County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54013	1.0	0.0	0.0
+99425	54013	54	13	Calhoun County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54013	15.5	58.375	1653.375
+99426	54013	54	13	Calhoun County, West Virginia	23	Construction	23	0500000US54013	8.25	203.75	18401.125
+99427	54013	54	13	Calhoun County, West Virginia	51	Information	51	0500000US54013	3.2857142857142856	1.0	80.71428571428571
+99428	54013	54	13	Calhoun County, West Virginia	52	Finance and insurance	52	0500000US54013	5.375	32.875	1039.25
+99429	54013	54	13	Calhoun County, West Virginia	53	Real estate and rental and leasing	53	0500000US54013	2.5	1.75	75.75
+99430	54013	54	13	Calhoun County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54013	5.375	18.875	1233.375
+99431	54013	54	13	Calhoun County, West Virginia	55	Management of companies and enterprises	55	0500000US54013	1.75	0.0	0.0
+99432	54013	54	13	Calhoun County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54013	4.75	16.75	475.25
+99433	54013	54	13	Calhoun County, West Virginia	61	Educational services	61	0500000US54013	1.75	0.0	0.0
+99434	54013	54	13	Calhoun County, West Virginia	62	Health care and social assistance	62	0500000US54013	8.625	128.875	5038.625
+99435	54013	54	13	Calhoun County, West Virginia	72	Accommodation and food services	72	0500000US54013	4.375	34.625	406.5
+99436	54013	54	13	Calhoun County, West Virginia	81	Other services (except public administration)	81	0500000US54013	9.125	13.875	245.75
+99437	54013	54	13	Calhoun County, West Virginia	99	Industries not classified	99	0500000US54013	1.25	0.0	0.0
+99439	54015	54	15	Clay County	11	Agriculture, forestry, fishing and hunting	11	0500000US54015	2.0	0.0	0.0
+99440	54015	54	15	Clay County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54015	8.0	0.0	0.0
+99441	54015	54	15	Clay County	22	Utilities	22	0500000US54015	1.0	0.0	0.0
+99442	54015	54	15	Clay County	23	Construction	23	0500000US54015	17.0	0.0	0.0
+99443	54015	54	15	Clay County	42	Wholesale trade	42	0500000US54015	1.0	0.0	0.0
+99444	54015	54	15	Clay County	51	Information	51	0500000US54015	1.0	0.0	0.0
+99445	54015	54	15	Clay County	52	Finance and insurance	52	0500000US54015	5.0	0.0	0.0
+99446	54015	54	15	Clay County	53	Real estate and rental and leasing	53	0500000US54015	1.0	0.0	0.0
+99447	54015	54	15	Clay County	54	Professional, scientific, and technical services	54	0500000US54015	2.0	0.0	0.0
+99448	54015	54	15	Clay County	55	Management of companies and enterprises	55	0500000US54015	2.0	0.0	0.0
+99449	54015	54	15	Clay County	56	Administrative and support and waste management and remediation services	56	0500000US54015	1.0	0.0	0.0
+99450	54015	54	15	Clay County	62	Health care and social assistance	62	0500000US54015	13.0	312.0	5518.0
+99451	54015	54	15	Clay County	72	Accommodation and food services	72	0500000US54015	5.0	37.0	409.0
+99452	54015	54	15	Clay County	81	Other services (except public administration)	81	0500000US54015	10.0	48.0	1580.0
+99454	54015	54	15	Clay County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54015	2.8	3.0	181.0
+99455	54015	54	15	Clay County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54015	3.25	0.0	0.0
+99456	54015	54	15	Clay County, West Virginia	22	Utilities	22	0500000US54015	1.0	0.0	0.0
+99457	54015	54	15	Clay County, West Virginia	23	Construction	23	0500000US54015	14.75	45.625	1988.125
+99458	54015	54	15	Clay County, West Virginia	42	Wholesale trade	42	0500000US54015	1.0	0.0	0.0
+99459	54015	54	15	Clay County, West Virginia	51	Information	51	0500000US54015	1.0	0.0	0.0
+99460	54015	54	15	Clay County, West Virginia	52	Finance and insurance	52	0500000US54015	3.125	11.125	419.625
+99461	54015	54	15	Clay County, West Virginia	53	Real estate and rental and leasing	53	0500000US54015	1.25	0.0	0.0
+99462	54015	54	15	Clay County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54015	2.5	0.0	14.75
+99463	54015	54	15	Clay County, West Virginia	55	Management of companies and enterprises	55	0500000US54015	1.25	0.0	0.0
+99464	54015	54	15	Clay County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54015	2.6	4.8	59.0
+99465	54015	54	15	Clay County, West Virginia	62	Health care and social assistance	62	0500000US54015	15.5	283.5	5837.75
+99466	54015	54	15	Clay County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54015	1.0	0.0	0.0
+99467	54015	54	15	Clay County, West Virginia	72	Accommodation and food services	72	0500000US54015	4.125	19.0	289.375
+99468	54015	54	15	Clay County, West Virginia	81	Other services (except public administration)	81	0500000US54015	7.5	52.625	1736.875
+99469	54015	54	15	Clay County, West Virginia	99	Industries not classified	99	0500000US54015	1.5	0.0	0.0
+99471	54017	54	17	Doddridge County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54017	8.0	0.0	0.0
+99472	54017	54	17	Doddridge County	23	Construction	23	0500000US54017	7.0	39.0	1179.0
+99473	54017	54	17	Doddridge County	42	Wholesale trade	42	0500000US54017	2.0	0.0	0.0
+99474	54017	54	17	Doddridge County	51	Information	51	0500000US54017	2.0	0.0	0.0
+99475	54017	54	17	Doddridge County	52	Finance and insurance	52	0500000US54017	4.0	40.0	2015.0
+99476	54017	54	17	Doddridge County	53	Real estate and rental and leasing	53	0500000US54017	1.0	0.0	0.0
+99477	54017	54	17	Doddridge County	54	Professional, scientific, and technical services	54	0500000US54017	1.0	0.0	0.0
+99478	54017	54	17	Doddridge County	56	Administrative and support and waste management and remediation services	56	0500000US54017	3.0	0.0	0.0
+99479	54017	54	17	Doddridge County	62	Health care and social assistance	62	0500000US54017	11.0	0.0	2224.0
+99480	54017	54	17	Doddridge County	71	Arts, entertainment, and recreation	71	0500000US54017	1.0	0.0	0.0
+99481	54017	54	17	Doddridge County	72	Accommodation and food services	72	0500000US54017	4.0	0.0	0.0
+99482	54017	54	17	Doddridge County	81	Other services (except public administration)	81	0500000US54017	7.0	13.0	257.0
+99484	54017	54	17	Doddridge County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54017	6.75	155.625	13250.75
+99485	54017	54	17	Doddridge County, West Virginia	22	Utilities	22	0500000US54017	1.0	0.0	0.0
+99486	54017	54	17	Doddridge County, West Virginia	23	Construction	23	0500000US54017	8.25	92.875	8156.625
+99487	54017	54	17	Doddridge County, West Virginia	42	Wholesale trade	42	0500000US54017	2.75	11.125	756.25
+99488	54017	54	17	Doddridge County, West Virginia	51	Information	51	0500000US54017	3.125	3.5	153.0
+99489	54017	54	17	Doddridge County, West Virginia	52	Finance and insurance	52	0500000US54017	3.25	22.875	1021.625
+99490	54017	54	17	Doddridge County, West Virginia	53	Real estate and rental and leasing	53	0500000US54017	1.0	0.0	0.0
+99491	54017	54	17	Doddridge County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54017	1.5	0.0	0.0
+99492	54017	54	17	Doddridge County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54017	2.0	0.0	0.0
+99493	54017	54	17	Doddridge County, West Virginia	62	Health care and social assistance	62	0500000US54017	10.375	88.5	2088.375
+99494	54017	54	17	Doddridge County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54017	1.0	0.0	0.0
+99495	54017	54	17	Doddridge County, West Virginia	72	Accommodation and food services	72	0500000US54017	5.125	58.625	773.0
+99496	54017	54	17	Doddridge County, West Virginia	81	Other services (except public administration)	81	0500000US54017	9.0	13.375	332.875
+99497	54017	54	17	Doddridge County, West Virginia	99	Industries not classified	99	0500000US54017	1.0	0.0	0.0
+99499	54019	54	19	Fayette County	11	Agriculture, forestry, fishing and hunting	11	0500000US54019	6.0	0.0	770.0
+99500	54019	54	19	Fayette County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54019	7.0	563.0	59483.0
+99501	54019	54	19	Fayette County	22	Utilities	22	0500000US54019	7.0	71.0	4578.0
+99502	54019	54	19	Fayette County	23	Construction	23	0500000US54019	81.0	332.0	9773.0
+99503	54019	54	19	Fayette County	42	Wholesale trade	42	0500000US54019	30.0	315.0	13535.0
+99504	54019	54	19	Fayette County	51	Information	51	0500000US54019	13.0	0.0	4501.0
+99505	54019	54	19	Fayette County	52	Finance and insurance	52	0500000US54019	37.0	238.0	7842.0
+99506	54019	54	19	Fayette County	53	Real estate and rental and leasing	53	0500000US54019	21.0	62.0	1150.0
+99507	54019	54	19	Fayette County	54	Professional, scientific, and technical services	54	0500000US54019	48.0	216.0	9574.0
+99508	54019	54	19	Fayette County	55	Management of companies and enterprises	55	0500000US54019	5.0	0.0	2505.0
+99509	54019	54	19	Fayette County	56	Administrative and support and waste management and remediation services	56	0500000US54019	28.0	291.0	7420.0
+99510	54019	54	19	Fayette County	61	Educational services	61	0500000US54019	4.0	0.0	0.0
+99511	54019	54	19	Fayette County	62	Health care and social assistance	62	0500000US54019	110.0	2082.0	66716.0
+99512	54019	54	19	Fayette County	71	Arts, entertainment, and recreation	71	0500000US54019	24.0	130.0	4426.0
+99513	54019	54	19	Fayette County	72	Accommodation and food services	72	0500000US54019	73.0	1132.0	17214.0
+99514	54019	54	19	Fayette County	81	Other services (except public administration)	81	0500000US54019	101.0	528.0	11216.0
+99516	54019	54	19	Fayette County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54019	11.125	27.75	771.25
+99517	54019	54	19	Fayette County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54019	9.125	798.125	56389.125
+99518	54019	54	19	Fayette County, West Virginia	22	Utilities	22	0500000US54019	7.625	76.75	6359.875
+99519	54019	54	19	Fayette County, West Virginia	23	Construction	23	0500000US54019	65.375	246.375	9090.75
+99520	54019	54	19	Fayette County, West Virginia	42	Wholesale trade	42	0500000US54019	22.0	249.0	13623.75
+99521	54019	54	19	Fayette County, West Virginia	51	Information	51	0500000US54019	11.75	80.625	3808.875
+99522	54019	54	19	Fayette County, West Virginia	52	Finance and insurance	52	0500000US54019	35.75	188.0	8003.625
+99523	54019	54	19	Fayette County, West Virginia	53	Real estate and rental and leasing	53	0500000US54019	19.5	47.375	1183.625
+99524	54019	54	19	Fayette County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54019	37.625	145.375	7601.25
+99525	54019	54	19	Fayette County, West Virginia	55	Management of companies and enterprises	55	0500000US54019	5.375	35.375	1621.25
+99526	54019	54	19	Fayette County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54019	24.0	234.5	6747.875
+99527	54019	54	19	Fayette County, West Virginia	61	Educational services	61	0500000US54019	4.5	12.0	200.25
+99528	54019	54	19	Fayette County, West Virginia	62	Health care and social assistance	62	0500000US54019	106.0	2016.125	70284.375
+99529	54019	54	19	Fayette County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54019	21.125	135.75	3785.5
+99530	54019	54	19	Fayette County, West Virginia	72	Accommodation and food services	72	0500000US54019	75.5	1107.25	23194.125
+99531	54019	54	19	Fayette County, West Virginia	81	Other services (except public administration)	81	0500000US54019	95.375	390.5	9414.875
+99532	54019	54	19	Fayette County, West Virginia	99	Industries not classified	99	0500000US54019	2.0	0.0	0.0
+99534	54021	54	21	Gilmer County	11	Agriculture, forestry, fishing and hunting	11	0500000US54021	1.0	0.0	0.0
+99535	54021	54	21	Gilmer County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54021	18.0	227.0	10101.0
+99536	54021	54	21	Gilmer County	22	Utilities	22	0500000US54021	1.0	0.0	0.0
+99537	54021	54	21	Gilmer County	23	Construction	23	0500000US54021	13.0	45.0	1323.0
+99538	54021	54	21	Gilmer County	42	Wholesale trade	42	0500000US54021	4.0	0.0	0.0
+99539	54021	54	21	Gilmer County	51	Information	51	0500000US54021	2.0	0.0	0.0
+99540	54021	54	21	Gilmer County	52	Finance and insurance	52	0500000US54021	5.0	0.0	0.0
+99541	54021	54	21	Gilmer County	53	Real estate and rental and leasing	53	0500000US54021	2.0	0.0	0.0
+99542	54021	54	21	Gilmer County	54	Professional, scientific, and technical services	54	0500000US54021	8.0	54.0	1846.0
+99543	54021	54	21	Gilmer County	56	Administrative and support and waste management and remediation services	56	0500000US54021	2.0	0.0	0.0
+99544	54021	54	21	Gilmer County	62	Health care and social assistance	62	0500000US54021	13.0	255.0	6939.0
+99545	54021	54	21	Gilmer County	71	Arts, entertainment, and recreation	71	0500000US54021	1.0	0.0	0.0
+99546	54021	54	21	Gilmer County	72	Accommodation and food services	72	0500000US54021	11.0	168.0	1783.0
+99547	54021	54	21	Gilmer County	81	Other services (except public administration)	81	0500000US54021	15.0	0.0	0.0
+99549	54021	54	21	Gilmer County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54021	2.25	1.5	35.75
+99550	54021	54	21	Gilmer County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54021	12.75	175.0	8085.625
+99551	54021	54	21	Gilmer County, West Virginia	22	Utilities	22	0500000US54021	1.0	0.0	0.0
+99552	54021	54	21	Gilmer County, West Virginia	23	Construction	23	0500000US54021	9.375	29.875	856.625
+99553	54021	54	21	Gilmer County, West Virginia	42	Wholesale trade	42	0500000US54021	4.5	12.625	560.5
+99554	54021	54	21	Gilmer County, West Virginia	51	Information	51	0500000US54021	1.75	0.0	0.0
+99555	54021	54	21	Gilmer County, West Virginia	52	Finance and insurance	52	0500000US54021	5.0	17.375	632.25
+99556	54021	54	21	Gilmer County, West Virginia	53	Real estate and rental and leasing	53	0500000US54021	2.8	4.0	167.8
+99557	54021	54	21	Gilmer County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54021	8.25	34.75	1144.5
+99558	54021	54	21	Gilmer County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54021	2.25	0.5	22.75
+99559	54021	54	21	Gilmer County, West Virginia	61	Educational services	61	0500000US54021	1.0	0.0	0.0
+99560	54021	54	21	Gilmer County, West Virginia	62	Health care and social assistance	62	0500000US54021	12.75	230.5	6751.75
+99561	54021	54	21	Gilmer County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54021	1.5	0.0	0.0
+99562	54021	54	21	Gilmer County, West Virginia	72	Accommodation and food services	72	0500000US54021	11.75	118.0	1823.0
+99563	54021	54	21	Gilmer County, West Virginia	81	Other services (except public administration)	81	0500000US54021	13.75	28.0	511.125
+99565	54023	54	23	Grant County	11	Agriculture, forestry, fishing and hunting	11	0500000US54023	6.0	0.0	972.0
+99566	54023	54	23	Grant County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54023	2.0	0.0	0.0
+99567	54023	54	23	Grant County	22	Utilities	22	0500000US54023	5.0	0.0	0.0
+99568	54023	54	23	Grant County	23	Construction	23	0500000US54023	39.0	212.0	10041.0
+99569	54023	54	23	Grant County	42	Wholesale trade	42	0500000US54023	3.0	0.0	101.0
+99570	54023	54	23	Grant County	51	Information	51	0500000US54023	3.0	0.0	0.0
+99571	54023	54	23	Grant County	52	Finance and insurance	52	0500000US54023	13.0	103.0	3422.0
+99572	54023	54	23	Grant County	53	Real estate and rental and leasing	53	0500000US54023	5.0	0.0	96.0
+99573	54023	54	23	Grant County	54	Professional, scientific, and technical services	54	0500000US54023	12.0	0.0	1640.0
+99574	54023	54	23	Grant County	55	Management of companies and enterprises	55	0500000US54023	2.0	0.0	0.0
+99575	54023	54	23	Grant County	56	Administrative and support and waste management and remediation services	56	0500000US54023	5.0	20.0	541.0
+99576	54023	54	23	Grant County	62	Health care and social assistance	62	0500000US54023	28.0	805.0	20381.0
+99577	54023	54	23	Grant County	71	Arts, entertainment, and recreation	71	0500000US54023	1.0	0.0	0.0
+99578	54023	54	23	Grant County	72	Accommodation and food services	72	0500000US54023	19.0	167.0	1751.0
+99579	54023	54	23	Grant County	81	Other services (except public administration)	81	0500000US54023	32.0	99.0	1665.0
+99581	54023	54	23	Grant County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54023	7.0	29.375	919.375
+99582	54023	54	23	Grant County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54023	1.75	0.0	0.0
+99583	54023	54	23	Grant County, West Virginia	22	Utilities	22	0500000US54023	3.75	91.25	8745.0
+99584	54023	54	23	Grant County, West Virginia	23	Construction	23	0500000US54023	39.125	232.5	12739.625
+99585	54023	54	23	Grant County, West Virginia	42	Wholesale trade	42	0500000US54023	3.625	9.5	206.5
+99586	54023	54	23	Grant County, West Virginia	51	Information	51	0500000US54023	2.8	3.6	142.8
+99587	54023	54	23	Grant County, West Virginia	52	Finance and insurance	52	0500000US54023	10.75	98.625	3643.75
+99588	54023	54	23	Grant County, West Virginia	53	Real estate and rental and leasing	53	0500000US54023	5.5	8.25	218.0
+99589	54023	54	23	Grant County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54023	10.25	36.375	1251.875
+99590	54023	54	23	Grant County, West Virginia	55	Management of companies and enterprises	55	0500000US54023	2.25	0.0	0.0
+99591	54023	54	23	Grant County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54023	6.0	37.0	1205.25
+99592	54023	54	23	Grant County, West Virginia	61	Educational services	61	0500000US54023	1.0	0.0	0.0
+99593	54023	54	23	Grant County, West Virginia	62	Health care and social assistance	62	0500000US54023	25.0	825.5	24058.0
+99594	54023	54	23	Grant County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54023	1.5	0.0	0.0
+99595	54023	54	23	Grant County, West Virginia	72	Accommodation and food services	72	0500000US54023	21.75	172.25	2308.5
+99596	54023	54	23	Grant County, West Virginia	81	Other services (except public administration)	81	0500000US54023	32.25	83.375	1950.25
+99597	54023	54	23	Grant County, West Virginia	99	Industries not classified	99	0500000US54023	1.0	0.0	0.0
+99599	54025	54	25	Greenbrier County	11	Agriculture, forestry, fishing and hunting	11	0500000US54025	16.0	64.0	2501.0
+99600	54025	54	25	Greenbrier County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54025	6.0	86.0	5834.0
+99601	54025	54	25	Greenbrier County	22	Utilities	22	0500000US54025	3.0	0.0	0.0
+99602	54025	54	25	Greenbrier County	23	Construction	23	0500000US54025	109.0	400.0	11398.0
+99603	54025	54	25	Greenbrier County	42	Wholesale trade	42	0500000US54025	19.0	237.0	7981.0
+99604	54025	54	25	Greenbrier County	51	Information	51	0500000US54025	17.0	0.0	4129.0
+99605	54025	54	25	Greenbrier County	52	Finance and insurance	52	0500000US54025	44.0	0.0	8672.0
+99606	54025	54	25	Greenbrier County	53	Real estate and rental and leasing	53	0500000US54025	40.0	118.0	3645.0
+99607	54025	54	25	Greenbrier County	54	Professional, scientific, and technical services	54	0500000US54025	75.0	341.0	8203.0
+99608	54025	54	25	Greenbrier County	55	Management of companies and enterprises	55	0500000US54025	2.0	0.0	0.0
+99609	54025	54	25	Greenbrier County	56	Administrative and support and waste management and remediation services	56	0500000US54025	43.0	906.0	18794.0
+99610	54025	54	25	Greenbrier County	61	Educational services	61	0500000US54025	4.0	0.0	0.0
+99611	54025	54	25	Greenbrier County	62	Health care and social assistance	62	0500000US54025	147.0	3089.0	101979.0
+99612	54025	54	25	Greenbrier County	71	Arts, entertainment, and recreation	71	0500000US54025	17.0	0.0	2734.0
+99613	54025	54	25	Greenbrier County	72	Accommodation and food services	72	0500000US54025	88.0	0.0	0.0
+99614	54025	54	25	Greenbrier County	81	Other services (except public administration)	81	0500000US54025	96.0	446.0	10017.0
+99615	54025	54	25	Greenbrier County	99	Industries not classified	99	0500000US54025	2.0	0.0	0.0
+99617	54025	54	25	Greenbrier County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54025	14.875	59.5	3065.125
+99618	54025	54	25	Greenbrier County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54025	5.75	250.125	15924.75
+99619	54025	54	25	Greenbrier County, West Virginia	22	Utilities	22	0500000US54025	4.25	42.875	3651.875
+99620	54025	54	25	Greenbrier County, West Virginia	23	Construction	23	0500000US54025	97.875	395.875	13726.5
+99621	54025	54	25	Greenbrier County, West Virginia	42	Wholesale trade	42	0500000US54025	19.375	225.875	8641.25
+99622	54025	54	25	Greenbrier County, West Virginia	51	Information	51	0500000US54025	16.875	86.125	3942.875
+99623	54025	54	25	Greenbrier County, West Virginia	52	Finance and insurance	52	0500000US54025	51.25	183.125	9351.0
+99624	54025	54	25	Greenbrier County, West Virginia	53	Real estate and rental and leasing	53	0500000US54025	39.375	93.0	3617.125
+99625	54025	54	25	Greenbrier County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54025	66.625	249.75	7688.125
+99626	54025	54	25	Greenbrier County, West Virginia	55	Management of companies and enterprises	55	0500000US54025	1.25	0.0	0.0
+99627	54025	54	25	Greenbrier County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54025	43.5	518.375	15932.25
+99628	54025	54	25	Greenbrier County, West Virginia	61	Educational services	61	0500000US54025	4.5	41.0	851.875
+99629	54025	54	25	Greenbrier County, West Virginia	62	Health care and social assistance	62	0500000US54025	138.125	2719.75	102284.0
+99630	54025	54	25	Greenbrier County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54025	14.875	164.25	3740.0
+99631	54025	54	25	Greenbrier County, West Virginia	72	Accommodation and food services	72	0500000US54025	84.0	1773.0	48496.75
+99632	54025	54	25	Greenbrier County, West Virginia	81	Other services (except public administration)	81	0500000US54025	97.25	435.5	10664.5
+99633	54025	54	25	Greenbrier County, West Virginia	99	Industries not classified	99	0500000US54025	2.5	0.75	15.0
+99635	54027	54	27	Hampshire County	11	Agriculture, forestry, fishing and hunting	11	0500000US54027	3.0	5.0	201.0
+99636	54027	54	27	Hampshire County	22	Utilities	22	0500000US54027	1.0	0.0	0.0
+99637	54027	54	27	Hampshire County	23	Construction	23	0500000US54027	57.0	169.0	4481.0
+99638	54027	54	27	Hampshire County	42	Wholesale trade	42	0500000US54027	7.0	0.0	0.0
+99639	54027	54	27	Hampshire County	51	Information	51	0500000US54027	6.0	45.0	2142.0
+99640	54027	54	27	Hampshire County	52	Finance and insurance	52	0500000US54027	20.0	176.0	6285.0
+99641	54027	54	27	Hampshire County	53	Real estate and rental and leasing	53	0500000US54027	14.0	0.0	758.0
+99642	54027	54	27	Hampshire County	54	Professional, scientific, and technical services	54	0500000US54027	24.0	81.0	1879.0
+99643	54027	54	27	Hampshire County	56	Administrative and support and waste management and remediation services	56	0500000US54027	9.0	48.0	494.0
+99644	54027	54	27	Hampshire County	61	Educational services	61	0500000US54027	1.0	0.0	0.0
+99645	54027	54	27	Hampshire County	62	Health care and social assistance	62	0500000US54027	34.0	834.0	22090.0
+99646	54027	54	27	Hampshire County	71	Arts, entertainment, and recreation	71	0500000US54027	3.0	0.0	0.0
+99647	54027	54	27	Hampshire County	72	Accommodation and food services	72	0500000US54027	35.0	298.0	5278.0
+99648	54027	54	27	Hampshire County	81	Other services (except public administration)	81	0500000US54027	43.0	144.0	2950.0
+99649	54027	54	27	Hampshire County	99	Industries not classified	99	0500000US54027	1.0	0.0	0.0
+99651	54027	54	27	Hampshire County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54027	2.0	0.0	0.0
+99652	54027	54	27	Hampshire County, West Virginia	22	Utilities	22	0500000US54027	2.0	0.0	0.0
+99653	54027	54	27	Hampshire County, West Virginia	23	Construction	23	0500000US54027	49.5	150.875	4822.25
+99654	54027	54	27	Hampshire County, West Virginia	42	Wholesale trade	42	0500000US54027	9.375	33.75	1738.375
+99655	54027	54	27	Hampshire County, West Virginia	51	Information	51	0500000US54027	4.571428571428571	57.285714285714285	2395.1428571428573
+99656	54027	54	27	Hampshire County, West Virginia	52	Finance and insurance	52	0500000US54027	18.875	179.0	6190.25
+99657	54027	54	27	Hampshire County, West Virginia	53	Real estate and rental and leasing	53	0500000US54027	12.375	21.625	939.375
+99658	54027	54	27	Hampshire County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54027	22.25	69.625	2644.375
+99659	54027	54	27	Hampshire County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54027	11.125	34.875	612.75
+99660	54027	54	27	Hampshire County, West Virginia	61	Educational services	61	0500000US54027	1.0	0.0	0.0
+99661	54027	54	27	Hampshire County, West Virginia	62	Health care and social assistance	62	0500000US54027	36.375	861.25	25731.25
+99662	54027	54	27	Hampshire County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54027	3.75	16.125	255.375
+99663	54027	54	27	Hampshire County, West Virginia	72	Accommodation and food services	72	0500000US54027	34.0	336.0	5266.125
+99664	54027	54	27	Hampshire County, West Virginia	81	Other services (except public administration)	81	0500000US54027	39.625	126.875	2843.5
+99665	54027	54	27	Hampshire County, West Virginia	99	Industries not classified	99	0500000US54027	2.3333333333333335	1.0	20.666666666666668
+99667	54029	54	29	Hancock County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54029	3.0	0.0	738.0
+99668	54029	54	29	Hancock County	22	Utilities	22	0500000US54029	5.0	0.0	0.0
+99669	54029	54	29	Hancock County	23	Construction	23	0500000US54029	32.0	100.0	2483.0
+99670	54029	54	29	Hancock County	42	Wholesale trade	42	0500000US54029	17.0	246.0	11197.0
+99671	54029	54	29	Hancock County	51	Information	51	0500000US54029	9.0	0.0	0.0
+99672	54029	54	29	Hancock County	52	Finance and insurance	52	0500000US54029	38.0	296.0	10819.0
+99673	54029	54	29	Hancock County	53	Real estate and rental and leasing	53	0500000US54029	22.0	95.0	1983.0
+99674	54029	54	29	Hancock County	54	Professional, scientific, and technical services	54	0500000US54029	48.0	497.0	13187.0
+99675	54029	54	29	Hancock County	55	Management of companies and enterprises	55	0500000US54029	1.0	0.0	0.0
+99676	54029	54	29	Hancock County	56	Administrative and support and waste management and remediation services	56	0500000US54029	20.0	157.0	5732.0
+99677	54029	54	29	Hancock County	61	Educational services	61	0500000US54029	5.0	96.0	1829.0
+99678	54029	54	29	Hancock County	62	Health care and social assistance	62	0500000US54029	75.0	1238.0	31317.0
+99679	54029	54	29	Hancock County	71	Arts, entertainment, and recreation	71	0500000US54029	30.0	0.0	0.0
+99680	54029	54	29	Hancock County	72	Accommodation and food services	72	0500000US54029	77.0	823.0	8915.0
+99681	54029	54	29	Hancock County	81	Other services (except public administration)	81	0500000US54029	80.0	379.0	4770.0
+99683	54029	54	29	Hancock County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54029	1.6	0.6	81.2
+99684	54029	54	29	Hancock County, West Virginia	22	Utilities	22	0500000US54029	5.625	49.5	4451.375
+99685	54029	54	29	Hancock County, West Virginia	23	Construction	23	0500000US54029	32.0	116.125	3189.375
+99686	54029	54	29	Hancock County, West Virginia	42	Wholesale trade	42	0500000US54029	13.875	270.375	13129.375
+99687	54029	54	29	Hancock County, West Virginia	51	Information	51	0500000US54029	9.25	28.25	1364.125
+99688	54029	54	29	Hancock County, West Virginia	52	Finance and insurance	52	0500000US54029	33.875	270.0	11027.75
+99689	54029	54	29	Hancock County, West Virginia	53	Real estate and rental and leasing	53	0500000US54029	20.875	85.5	2204.875
+99690	54029	54	29	Hancock County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54029	50.5	376.5	11524.625
+99691	54029	54	29	Hancock County, West Virginia	55	Management of companies and enterprises	55	0500000US54029	1.75	0.0	0.0
+99692	54029	54	29	Hancock County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54029	26.25	215.875	8634.875
+99693	54029	54	29	Hancock County, West Virginia	61	Educational services	61	0500000US54029	5.5	107.875	2125.25
+99694	54029	54	29	Hancock County, West Virginia	62	Health care and social assistance	62	0500000US54029	68.625	1197.75	34627.875
+99695	54029	54	29	Hancock County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54029	29.375	171.25	3925.875
+99696	54029	54	29	Hancock County, West Virginia	72	Accommodation and food services	72	0500000US54029	68.125	1428.625	26662.25
+99697	54029	54	29	Hancock County, West Virginia	81	Other services (except public administration)	81	0500000US54029	78.375	358.125	7716.625
+99698	54029	54	29	Hancock County, West Virginia	99	Industries not classified	99	0500000US54029	1.0	0.0	0.0
+99700	54031	54	31	Hardy County	11	Agriculture, forestry, fishing and hunting	11	0500000US54031	2.0	0.0	0.0
+99701	54031	54	31	Hardy County	23	Construction	23	0500000US54031	23.0	70.0	1982.0
+99702	54031	54	31	Hardy County	42	Wholesale trade	42	0500000US54031	5.0	0.0	0.0
+99703	54031	54	31	Hardy County	51	Information	51	0500000US54031	5.0	85.0	2728.0
+99704	54031	54	31	Hardy County	52	Finance and insurance	52	0500000US54031	22.0	203.0	7617.0
+99705	54031	54	31	Hardy County	53	Real estate and rental and leasing	53	0500000US54031	7.0	0.0	396.0
+99706	54031	54	31	Hardy County	54	Professional, scientific, and technical services	54	0500000US54031	15.0	0.0	1357.0
+99707	54031	54	31	Hardy County	55	Management of companies and enterprises	55	0500000US54031	1.0	0.0	0.0
+99708	54031	54	31	Hardy County	56	Administrative and support and waste management and remediation services	56	0500000US54031	9.0	0.0	0.0
+99709	54031	54	31	Hardy County	61	Educational services	61	0500000US54031	2.0	0.0	0.0
+99710	54031	54	31	Hardy County	62	Health care and social assistance	62	0500000US54031	30.0	450.0	12389.0
+99711	54031	54	31	Hardy County	71	Arts, entertainment, and recreation	71	0500000US54031	4.0	0.0	195.0
+99712	54031	54	31	Hardy County	72	Accommodation and food services	72	0500000US54031	28.0	315.0	3850.0
+99713	54031	54	31	Hardy County	81	Other services (except public administration)	81	0500000US54031	28.0	95.0	1259.0
+99715	54031	54	31	Hardy County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54031	1.25	0.0	0.0
+99716	54031	54	31	Hardy County, West Virginia	23	Construction	23	0500000US54031	27.125	57.625	2528.125
+99717	54031	54	31	Hardy County, West Virginia	42	Wholesale trade	42	0500000US54031	5.875	26.125	809.125
+99718	54031	54	31	Hardy County, West Virginia	51	Information	51	0500000US54031	6.0	72.75	3034.125
+99719	54031	54	31	Hardy County, West Virginia	52	Finance and insurance	52	0500000US54031	21.5	199.875	9473.25
+99720	54031	54	31	Hardy County, West Virginia	53	Real estate and rental and leasing	53	0500000US54031	11.0	19.5	749.875
+99721	54031	54	31	Hardy County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54031	15.875	64.75	2369.375
+99722	54031	54	31	Hardy County, West Virginia	55	Management of companies and enterprises	55	0500000US54031	1.0	0.0	0.0
+99723	54031	54	31	Hardy County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54031	8.0	60.125	2406.625
+99724	54031	54	31	Hardy County, West Virginia	61	Educational services	61	0500000US54031	1.25	0.0	0.0
+99725	54031	54	31	Hardy County, West Virginia	62	Health care and social assistance	62	0500000US54031	32.0	478.625	16017.375
+99726	54031	54	31	Hardy County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54031	4.571428571428571	12.571428571428571	237.42857142857142
+99727	54031	54	31	Hardy County, West Virginia	72	Accommodation and food services	72	0500000US54031	28.125	345.125	4574.75
+99728	54031	54	31	Hardy County, West Virginia	81	Other services (except public administration)	81	0500000US54031	30.375	118.0	2588.5
+99730	54033	54	33	Harrison County	11	Agriculture, forestry, fishing and hunting	11	0500000US54033	3.0	0.0	0.0
+99731	54033	54	33	Harrison County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54033	53.0	839.0	67886.0
+99732	54033	54	33	Harrison County	22	Utilities	22	0500000US54033	10.0	0.0	0.0
+99733	54033	54	33	Harrison County	23	Construction	23	0500000US54033	153.0	1192.0	45866.0
+99734	54033	54	33	Harrison County	42	Wholesale trade	42	0500000US54033	83.0	1192.0	50344.0
+99735	54033	54	33	Harrison County	51	Information	51	0500000US54033	27.0	638.0	30371.0
+99736	54033	54	33	Harrison County	52	Finance and insurance	52	0500000US54033	109.0	569.0	24919.0
+99737	54033	54	33	Harrison County	53	Real estate and rental and leasing	53	0500000US54033	63.0	534.0	23315.0
+99738	54033	54	33	Harrison County	54	Professional, scientific, and technical services	54	0500000US54033	140.0	1498.0	95869.0
+99739	54033	54	33	Harrison County	55	Management of companies and enterprises	55	0500000US54033	4.0	0.0	791.0
+99740	54033	54	33	Harrison County	56	Administrative and support and waste management and remediation services	56	0500000US54033	76.0	1338.0	30289.0
+99741	54033	54	33	Harrison County	61	Educational services	61	0500000US54033	15.0	414.0	8234.0
+99742	54033	54	33	Harrison County	62	Health care and social assistance	62	0500000US54033	235.0	6422.0	286095.0
+99743	54033	54	33	Harrison County	71	Arts, entertainment, and recreation	71	0500000US54033	38.0	320.0	5073.0
+99744	54033	54	33	Harrison County	72	Accommodation and food services	72	0500000US54033	156.0	2969.0	41776.0
+99745	54033	54	33	Harrison County	81	Other services (except public administration)	81	0500000US54033	221.0	1189.0	21792.0
+99746	54033	54	33	Harrison County	99	Industries not classified	99	0500000US54033	1.0	0.0	0.0
+99748	54033	54	33	Harrison County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54033	4.25	7.375	220.75
+99749	54033	54	33	Harrison County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54033	49.0	1092.75	90046.875
+99750	54033	54	33	Harrison County, West Virginia	22	Utilities	22	0500000US54033	11.25	314.125	30278.375
+99751	54033	54	33	Harrison County, West Virginia	23	Construction	23	0500000US54033	153.25	1506.75	85909.25
+99752	54033	54	33	Harrison County, West Virginia	42	Wholesale trade	42	0500000US54033	84.375	1401.0	63893.125
+99753	54033	54	33	Harrison County, West Virginia	51	Information	51	0500000US54033	30.0	565.75	26321.125
+99754	54033	54	33	Harrison County, West Virginia	52	Finance and insurance	52	0500000US54033	110.5	689.125	35964.875
+99755	54033	54	33	Harrison County, West Virginia	53	Real estate and rental and leasing	53	0500000US54033	57.875	276.75	12281.0
+99756	54033	54	33	Harrison County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54033	150.125	1859.625	117754.5
+99757	54033	54	33	Harrison County, West Virginia	55	Management of companies and enterprises	55	0500000US54033	3.5	19.0	1034.5
+99758	54033	54	33	Harrison County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54033	78.375	1499.875	50475.625
+99759	54033	54	33	Harrison County, West Virginia	61	Educational services	61	0500000US54033	17.5	479.875	9933.75
+99760	54033	54	33	Harrison County, West Virginia	62	Health care and social assistance	62	0500000US54033	227.625	6939.0	373623.75
+99761	54033	54	33	Harrison County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54033	39.625	297.875	5777.125
+99762	54033	54	33	Harrison County, West Virginia	72	Accommodation and food services	72	0500000US54033	162.25	3267.75	47771.875
+99763	54033	54	33	Harrison County, West Virginia	81	Other services (except public administration)	81	0500000US54033	214.375	1092.625	24098.5
+99764	54033	54	33	Harrison County, West Virginia	99	Industries not classified	99	0500000US54033	4.0	4.125	40.5
+99766	54035	54	35	Jackson County	11	Agriculture, forestry, fishing and hunting	11	0500000US54035	1.0	0.0	0.0
+99767	54035	54	35	Jackson County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54035	4.0	0.0	754.0
+99768	54035	54	35	Jackson County	22	Utilities	22	0500000US54035	2.0	0.0	0.0
+99769	54035	54	35	Jackson County	23	Construction	23	0500000US54035	49.0	454.0	23752.0
+99770	54035	54	35	Jackson County	42	Wholesale trade	42	0500000US54035	21.0	287.0	10145.0
+99771	54035	54	35	Jackson County	51	Information	51	0500000US54035	10.0	83.0	3760.0
+99772	54035	54	35	Jackson County	52	Finance and insurance	52	0500000US54035	32.0	0.0	6781.0
+99773	54035	54	35	Jackson County	53	Real estate and rental and leasing	53	0500000US54035	14.0	47.0	1982.0
+99774	54035	54	35	Jackson County	54	Professional, scientific, and technical services	54	0500000US54035	43.0	248.0	14008.0
+99775	54035	54	35	Jackson County	55	Management of companies and enterprises	55	0500000US54035	1.0	0.0	0.0
+99776	54035	54	35	Jackson County	56	Administrative and support and waste management and remediation services	56	0500000US54035	28.0	330.0	14776.0
+99777	54035	54	35	Jackson County	61	Educational services	61	0500000US54035	1.0	0.0	0.0
+99778	54035	54	35	Jackson County	62	Health care and social assistance	62	0500000US54035	62.0	1165.0	31337.0
+99779	54035	54	35	Jackson County	71	Arts, entertainment, and recreation	71	0500000US54035	8.0	34.0	499.0
+99780	54035	54	35	Jackson County	72	Accommodation and food services	72	0500000US54035	52.0	961.0	10608.0
+99781	54035	54	35	Jackson County	81	Other services (except public administration)	81	0500000US54035	53.0	253.0	5106.0
+99782	54035	54	35	Jackson County	99	Industries not classified	99	0500000US54035	1.0	0.0	0.0
+99784	54035	54	35	Jackson County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54035	2.5	2.6666666666666665	84.16666666666667
+99785	54035	54	35	Jackson County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54035	4.875	26.25	1995.0
+99786	54035	54	35	Jackson County, West Virginia	22	Utilities	22	0500000US54035	2.0	0.0	0.0
+99787	54035	54	35	Jackson County, West Virginia	23	Construction	23	0500000US54035	51.125	359.25	24583.0
+99788	54035	54	35	Jackson County, West Virginia	42	Wholesale trade	42	0500000US54035	19.25	283.25	10594.5
+99789	54035	54	35	Jackson County, West Virginia	51	Information	51	0500000US54035	8.375	66.875	3158.375
+99790	54035	54	35	Jackson County, West Virginia	52	Finance and insurance	52	0500000US54035	29.75	170.125	6740.25
+99791	54035	54	35	Jackson County, West Virginia	53	Real estate and rental and leasing	53	0500000US54035	15.75	50.625	2086.0
+99792	54035	54	35	Jackson County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54035	30.625	271.625	20990.375
+99793	54035	54	35	Jackson County, West Virginia	55	Management of companies and enterprises	55	0500000US54035	2.0	5.714285714285714	479.0
+99794	54035	54	35	Jackson County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54035	27.875	381.375	16973.875
+99795	54035	54	35	Jackson County, West Virginia	61	Educational services	61	0500000US54035	2.5714285714285716	7.571428571428571	88.42857142857143
+99796	54035	54	35	Jackson County, West Virginia	62	Health care and social assistance	62	0500000US54035	60.125	1142.25	35561.875
+99797	54035	54	35	Jackson County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54035	5.5	20.75	364.25
+99798	54035	54	35	Jackson County, West Virginia	72	Accommodation and food services	72	0500000US54035	48.5	939.0	12335.5
+99799	54035	54	35	Jackson County, West Virginia	81	Other services (except public administration)	81	0500000US54035	63.0	248.5	5632.625
+99800	54035	54	35	Jackson County, West Virginia	99	Industries not classified	99	0500000US54035	2.0	0.0	0.0
+99802	54037	54	37	Jefferson County	11	Agriculture, forestry, fishing and hunting	11	0500000US54037	6.0	18.0	386.0
+99803	54037	54	37	Jefferson County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54037	1.0	0.0	0.0
+99804	54037	54	37	Jefferson County	22	Utilities	22	0500000US54037	2.0	0.0	0.0
+99805	54037	54	37	Jefferson County	23	Construction	23	0500000US54037	80.0	424.0	14419.0
+99806	54037	54	37	Jefferson County	42	Wholesale trade	42	0500000US54037	18.0	94.0	4184.0
+99807	54037	54	37	Jefferson County	51	Information	51	0500000US54037	14.0	122.0	6072.0
+99808	54037	54	37	Jefferson County	52	Finance and insurance	52	0500000US54037	40.0	336.0	14003.0
+99809	54037	54	37	Jefferson County	53	Real estate and rental and leasing	53	0500000US54037	43.0	118.0	3297.0
+99810	54037	54	37	Jefferson County	54	Professional, scientific, and technical services	54	0500000US54037	83.0	343.0	18564.0
+99811	54037	54	37	Jefferson County	55	Management of companies and enterprises	55	0500000US54037	2.0	0.0	0.0
+99812	54037	54	37	Jefferson County	56	Administrative and support and waste management and remediation services	56	0500000US54037	46.0	206.0	5564.0
+99813	54037	54	37	Jefferson County	61	Educational services	61	0500000US54037	18.0	0.0	0.0
+99814	54037	54	37	Jefferson County	62	Health care and social assistance	62	0500000US54037	78.0	1278.0	43852.0
+99815	54037	54	37	Jefferson County	71	Arts, entertainment, and recreation	71	0500000US54037	24.0	0.0	0.0
+99816	54037	54	37	Jefferson County	72	Accommodation and food services	72	0500000US54037	125.0	1895.0	26193.0
+99817	54037	54	37	Jefferson County	81	Other services (except public administration)	81	0500000US54037	105.0	725.0	18128.0
+99819	54037	54	37	Jefferson County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54037	4.375	11.875	400.25
+99820	54037	54	37	Jefferson County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54037	1.0	0.0	0.0
+99821	54037	54	37	Jefferson County, West Virginia	22	Utilities	22	0500000US54037	2.0	0.0	0.0
+99822	54037	54	37	Jefferson County, West Virginia	23	Construction	23	0500000US54037	88.875	485.625	20969.375
+99823	54037	54	37	Jefferson County, West Virginia	42	Wholesale trade	42	0500000US54037	16.5	70.75	4141.25
+99824	54037	54	37	Jefferson County, West Virginia	51	Information	51	0500000US54037	14.125	106.625	5332.75
+99825	54037	54	37	Jefferson County, West Virginia	52	Finance and insurance	52	0500000US54037	41.5	247.75	15545.375
+99826	54037	54	37	Jefferson County, West Virginia	53	Real estate and rental and leasing	53	0500000US54037	50.375	162.5	5268.125
+99827	54037	54	37	Jefferson County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54037	91.125	363.875	21509.75
+99828	54037	54	37	Jefferson County, West Virginia	55	Management of companies and enterprises	55	0500000US54037	1.5	0.0	0.0
+99829	54037	54	37	Jefferson County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54037	44.0	225.875	7660.25
+99830	54037	54	37	Jefferson County, West Virginia	61	Educational services	61	0500000US54037	15.25	894.5	43948.25
+99831	54037	54	37	Jefferson County, West Virginia	62	Health care and social assistance	62	0500000US54037	67.375	1215.125	47638.25
+99832	54037	54	37	Jefferson County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54037	23.0	264.125	6045.875
+99833	54037	54	37	Jefferson County, West Virginia	72	Accommodation and food services	72	0500000US54037	127.125	3679.75	82306.75
+99834	54037	54	37	Jefferson County, West Virginia	81	Other services (except public administration)	81	0500000US54037	108.5	663.125	19579.0
+99835	54037	54	37	Jefferson County, West Virginia	99	Industries not classified	99	0500000US54037	2.0	0.0	0.0
+99837	54039	54	39	Kanawha County	11	Agriculture, forestry, fishing and hunting	11	0500000US54039	8.0	0.0	440.0
+99838	54039	54	39	Kanawha County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54039	72.0	2787.0	201828.0
+99839	54039	54	39	Kanawha County	22	Utilities	22	0500000US54039	33.0	0.0	0.0
+99840	54039	54	39	Kanawha County	23	Construction	23	0500000US54039	358.0	4065.0	223497.0
+99841	54039	54	39	Kanawha County	42	Wholesale trade	42	0500000US54039	275.0	4148.0	208564.0
+99842	54039	54	39	Kanawha County	51	Information	51	0500000US54039	105.0	2142.0	113601.0
+99843	54039	54	39	Kanawha County	52	Finance and insurance	52	0500000US54039	328.0	4786.0	252376.0
+99844	54039	54	39	Kanawha County	53	Real estate and rental and leasing	53	0500000US54039	238.0	1214.0	43483.0
+99845	54039	54	39	Kanawha County	54	Professional, scientific, and technical services	54	0500000US54039	550.0	6312.0	332612.0
+99846	54039	54	39	Kanawha County	55	Management of companies and enterprises	55	0500000US54039	45.0	721.0	40851.0
+99847	54039	54	39	Kanawha County	56	Administrative and support and waste management and remediation services	56	0500000US54039	220.0	8134.0	287346.0
+99848	54039	54	39	Kanawha County	61	Educational services	61	0500000US54039	38.0	1026.0	27686.0
+99849	54039	54	39	Kanawha County	62	Health care and social assistance	62	0500000US54039	746.0	19249.0	801627.0
+99850	54039	54	39	Kanawha County	71	Arts, entertainment, and recreation	71	0500000US54039	77.0	1786.0	42560.0
+99851	54039	54	39	Kanawha County	72	Accommodation and food services	72	0500000US54039	458.0	8707.0	125250.0
+99852	54039	54	39	Kanawha County	81	Other services (except public administration)	81	0500000US54039	642.0	4669.0	124686.0
+99853	54039	54	39	Kanawha County	99	Industries not classified	99	0500000US54039	3.0	0.0	0.0
+99855	54039	54	39	Kanawha County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54039	9.0	15.875	457.25
+99856	54039	54	39	Kanawha County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54039	60.5	1921.625	142778.375
+99857	54039	54	39	Kanawha County, West Virginia	22	Utilities	22	0500000US54039	33.875	559.875	52053.375
+99858	54039	54	39	Kanawha County, West Virginia	23	Construction	23	0500000US54039	326.5	3847.625	249876.125
+99859	54039	54	39	Kanawha County, West Virginia	42	Wholesale trade	42	0500000US54039	245.5	3993.75	194212.375
+99860	54039	54	39	Kanawha County, West Virginia	51	Information	51	0500000US54039	95.875	1968.5	105070.875
+99861	54039	54	39	Kanawha County, West Virginia	52	Finance and insurance	52	0500000US54039	301.25	4063.5	266630.0
+99862	54039	54	39	Kanawha County, West Virginia	53	Real estate and rental and leasing	53	0500000US54039	225.125	1224.125	51441.875
+99863	54039	54	39	Kanawha County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54039	493.25	5321.75	310834.625
+99864	54039	54	39	Kanawha County, West Virginia	55	Management of companies and enterprises	55	0500000US54039	46.625	986.375	82493.125
+99865	54039	54	39	Kanawha County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54039	225.875	6886.5	225160.5
+99866	54039	54	39	Kanawha County, West Virginia	61	Educational services	61	0500000US54039	41.125	712.5	22820.875
+99867	54039	54	39	Kanawha County, West Virginia	62	Health care and social assistance	62	0500000US54039	676.875	19245.75	953410.75
+99868	54039	54	39	Kanawha County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54039	78.0	1108.875	21508.5
+99869	54039	54	39	Kanawha County, West Virginia	72	Accommodation and food services	72	0500000US54039	440.875	9177.875	149412.75
+99870	54039	54	39	Kanawha County, West Virginia	81	Other services (except public administration)	81	0500000US54039	607.375	4144.625	124496.25
+99871	54039	54	39	Kanawha County, West Virginia	99	Industries not classified	99	0500000US54039	9.125	17.75	371.5
+99873	54041	54	41	Lewis County	11	Agriculture, forestry, fishing and hunting	11	0500000US54041	8.0	0.0	0.0
+99874	54041	54	41	Lewis County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54041	17.0	737.0	52804.0
+99875	54041	54	41	Lewis County	22	Utilities	22	0500000US54041	6.0	0.0	0.0
+99876	54041	54	41	Lewis County	23	Construction	23	0500000US54041	37.0	290.0	10666.0
+99877	54041	54	41	Lewis County	42	Wholesale trade	42	0500000US54041	15.0	127.0	5892.0
+99878	54041	54	41	Lewis County	51	Information	51	0500000US54041	7.0	0.0	3520.0
+99879	54041	54	41	Lewis County	52	Finance and insurance	52	0500000US54041	14.0	106.0	3485.0
+99880	54041	54	41	Lewis County	53	Real estate and rental and leasing	53	0500000US54041	9.0	0.0	0.0
+99881	54041	54	41	Lewis County	54	Professional, scientific, and technical services	54	0500000US54041	15.0	56.0	1586.0
+99882	54041	54	41	Lewis County	55	Management of companies and enterprises	55	0500000US54041	5.0	0.0	0.0
+99883	54041	54	41	Lewis County	56	Administrative and support and waste management and remediation services	56	0500000US54041	10.0	144.0	3699.0
+99884	54041	54	41	Lewis County	61	Educational services	61	0500000US54041	1.0	0.0	0.0
+99885	54041	54	41	Lewis County	62	Health care and social assistance	62	0500000US54041	36.0	0.0	0.0
+99886	54041	54	41	Lewis County	71	Arts, entertainment, and recreation	71	0500000US54041	6.0	0.0	0.0
+99887	54041	54	41	Lewis County	72	Accommodation and food services	72	0500000US54041	38.0	691.0	12042.0
+99888	54041	54	41	Lewis County	81	Other services (except public administration)	81	0500000US54041	52.0	212.0	3592.0
+99890	54041	54	41	Lewis County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54041	6.875	22.625	1079.125
+99891	54041	54	41	Lewis County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54041	16.125	413.75	30884.625
+99892	54041	54	41	Lewis County, West Virginia	22	Utilities	22	0500000US54041	7.875	85.5	13155.875
+99893	54041	54	41	Lewis County, West Virginia	23	Construction	23	0500000US54041	37.0	357.0	21619.0
+99894	54041	54	41	Lewis County, West Virginia	42	Wholesale trade	42	0500000US54041	15.0	119.0	5924.375
+99895	54041	54	41	Lewis County, West Virginia	51	Information	51	0500000US54041	7.0	60.5	2996.625
+99896	54041	54	41	Lewis County, West Virginia	52	Finance and insurance	52	0500000US54041	11.5	88.0	3204.75
+99897	54041	54	41	Lewis County, West Virginia	53	Real estate and rental and leasing	53	0500000US54041	8.75	18.625	542.25
+99898	54041	54	41	Lewis County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54041	15.625	56.0	2141.125
+99899	54041	54	41	Lewis County, West Virginia	55	Management of companies and enterprises	55	0500000US54041	5.833333333333333	59.666666666666664	3581.5
+99900	54041	54	41	Lewis County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54041	9.875	178.25	5932.5
+99901	54041	54	41	Lewis County, West Virginia	61	Educational services	61	0500000US54041	1.0	0.0	0.0
+99902	54041	54	41	Lewis County, West Virginia	62	Health care and social assistance	62	0500000US54041	31.25	716.0	27253.875
+99903	54041	54	41	Lewis County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54041	7.5	28.375	342.5
+99904	54041	54	41	Lewis County, West Virginia	72	Accommodation and food services	72	0500000US54041	36.875	690.125	11872.25
+99905	54041	54	41	Lewis County, West Virginia	81	Other services (except public administration)	81	0500000US54041	46.375	165.25	3538.75
+99906	54041	54	41	Lewis County, West Virginia	99	Industries not classified	99	0500000US54041	1.0	0.0	0.0
+99908	54043	54	43	Lincoln County	11	Agriculture, forestry, fishing and hunting	11	0500000US54043	1.0	0.0	0.0
+99909	54043	54	43	Lincoln County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54043	12.0	0.0	0.0
+99910	54043	54	43	Lincoln County	22	Utilities	22	0500000US54043	1.0	0.0	0.0
+99911	54043	54	43	Lincoln County	23	Construction	23	0500000US54043	34.0	225.0	6046.0
+99912	54043	54	43	Lincoln County	42	Wholesale trade	42	0500000US54043	3.0	0.0	228.0
+99913	54043	54	43	Lincoln County	51	Information	51	0500000US54043	6.0	48.0	2014.0
+99914	54043	54	43	Lincoln County	52	Finance and insurance	52	0500000US54043	15.0	60.0	1510.0
+99915	54043	54	43	Lincoln County	53	Real estate and rental and leasing	53	0500000US54043	2.0	0.0	0.0
+99916	54043	54	43	Lincoln County	54	Professional, scientific, and technical services	54	0500000US54043	9.0	0.0	0.0
+99917	54043	54	43	Lincoln County	56	Administrative and support and waste management and remediation services	56	0500000US54043	14.0	70.0	2130.0
+99918	54043	54	43	Lincoln County	62	Health care and social assistance	62	0500000US54043	18.0	0.0	0.0
+99919	54043	54	43	Lincoln County	71	Arts, entertainment, and recreation	71	0500000US54043	2.0	0.0	0.0
+99920	54043	54	43	Lincoln County	72	Accommodation and food services	72	0500000US54043	16.0	96.0	1093.0
+99921	54043	54	43	Lincoln County	81	Other services (except public administration)	81	0500000US54043	26.0	101.0	1516.0
+99923	54043	54	43	Lincoln County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54043	1.0	0.0	0.0
+99924	54043	54	43	Lincoln County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54043	8.285714285714286	63.857142857142854	3979.714285714286
+99925	54043	54	43	Lincoln County, West Virginia	22	Utilities	22	0500000US54043	1.0	0.0	0.0
+99926	54043	54	43	Lincoln County, West Virginia	23	Construction	23	0500000US54043	27.375	149.625	6409.75
+99927	54043	54	43	Lincoln County, West Virginia	42	Wholesale trade	42	0500000US54043	2.0	0.0	0.0
+99928	54043	54	43	Lincoln County, West Virginia	51	Information	51	0500000US54043	6.5	34.375	1873.125
+99929	54043	54	43	Lincoln County, West Virginia	52	Finance and insurance	52	0500000US54043	12.875	43.125	1551.5
+99930	54043	54	43	Lincoln County, West Virginia	53	Real estate and rental and leasing	53	0500000US54043	2.4	0.8	46.2
+99931	54043	54	43	Lincoln County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54043	10.625	30.875	1487.125
+99932	54043	54	43	Lincoln County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54043	10.25	50.25	1767.875
+99933	54043	54	43	Lincoln County, West Virginia	62	Health care and social assistance	62	0500000US54043	22.125	567.5	12772.125
+99934	54043	54	43	Lincoln County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54043	2.375	4.375	120.875
+99935	54043	54	43	Lincoln County, West Virginia	72	Accommodation and food services	72	0500000US54043	12.875	88.5	1031.0
+99936	54043	54	43	Lincoln County, West Virginia	81	Other services (except public administration)	81	0500000US54043	20.875	69.625	1258.75
+99938	54045	54	45	Logan County	11	Agriculture, forestry, fishing and hunting	11	0500000US54045	1.0	0.0	0.0
+99939	54045	54	45	Logan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54045	24.0	2739.0	215366.0
+99940	54045	54	45	Logan County	22	Utilities	22	0500000US54045	6.0	0.0	0.0
+99941	54045	54	45	Logan County	23	Construction	23	0500000US54045	37.0	0.0	4373.0
+99942	54045	54	45	Logan County	42	Wholesale trade	42	0500000US54045	36.0	416.0	18118.0
+99943	54045	54	45	Logan County	51	Information	51	0500000US54045	10.0	126.0	6133.0
+99944	54045	54	45	Logan County	52	Finance and insurance	52	0500000US54045	38.0	0.0	7410.0
+99945	54045	54	45	Logan County	53	Real estate and rental and leasing	53	0500000US54045	20.0	87.0	2418.0
+99946	54045	54	45	Logan County	54	Professional, scientific, and technical services	54	0500000US54045	40.0	251.0	7529.0
+99947	54045	54	45	Logan County	55	Management of companies and enterprises	55	0500000US54045	2.0	0.0	0.0
+99948	54045	54	45	Logan County	56	Administrative and support and waste management and remediation services	56	0500000US54045	23.0	212.0	7590.0
+99949	54045	54	45	Logan County	61	Educational services	61	0500000US54045	3.0	0.0	296.0
+99950	54045	54	45	Logan County	62	Health care and social assistance	62	0500000US54045	96.0	1947.0	71152.0
+99951	54045	54	45	Logan County	71	Arts, entertainment, and recreation	71	0500000US54045	7.0	69.0	1800.0
+99952	54045	54	45	Logan County	72	Accommodation and food services	72	0500000US54045	61.0	985.0	12098.0
+99953	54045	54	45	Logan County	81	Other services (except public administration)	81	0500000US54045	84.0	572.0	19844.0
+99955	54045	54	45	Logan County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54045	2.8333333333333335	8.5	135.16666666666666
+99956	54045	54	45	Logan County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54045	19.125	1986.5	153710.875
+99957	54045	54	45	Logan County, West Virginia	22	Utilities	22	0500000US54045	6.5	49.0	4285.5
+99958	54045	54	45	Logan County, West Virginia	23	Construction	23	0500000US54045	29.0	129.375	4224.25
+99959	54045	54	45	Logan County, West Virginia	42	Wholesale trade	42	0500000US54045	33.5	324.5	14774.25
+99960	54045	54	45	Logan County, West Virginia	51	Information	51	0500000US54045	14.0	136.75	5674.875
+99961	54045	54	45	Logan County, West Virginia	52	Finance and insurance	52	0500000US54045	35.25	143.5	7344.625
+99962	54045	54	45	Logan County, West Virginia	53	Real estate and rental and leasing	53	0500000US54045	17.0	62.875	1747.625
+99963	54045	54	45	Logan County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54045	34.125	229.875	6929.125
+99964	54045	54	45	Logan County, West Virginia	55	Management of companies and enterprises	55	0500000US54045	2.25	0.0	0.0
+99965	54045	54	45	Logan County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54045	18.25	264.25	11214.0
+99966	54045	54	45	Logan County, West Virginia	61	Educational services	61	0500000US54045	3.625	23.625	425.625
+99967	54045	54	45	Logan County, West Virginia	62	Health care and social assistance	62	0500000US54045	90.375	1985.375	78958.0
+99968	54045	54	45	Logan County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54045	8.375	51.375	1297.25
+99969	54045	54	45	Logan County, West Virginia	72	Accommodation and food services	72	0500000US54045	56.5	888.75	12015.125
+99970	54045	54	45	Logan County, West Virginia	81	Other services (except public administration)	81	0500000US54045	71.625	398.375	13201.125
+99971	54045	54	45	Logan County, West Virginia	99	Industries not classified	99	0500000US54045	2.0	0.0	0.0
+99973	54047	54	47	McDowell County	11	Agriculture, forestry, fishing and hunting	11	0500000US54047	6.0	12.0	271.0
+99974	54047	54	47	McDowell County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54047	25.0	566.0	35351.0
+99975	54047	54	47	McDowell County	22	Utilities	22	0500000US54047	2.0	0.0	0.0
+99976	54047	54	47	McDowell County	23	Construction	23	0500000US54047	7.0	0.0	0.0
+99977	54047	54	47	McDowell County	42	Wholesale trade	42	0500000US54047	5.0	0.0	0.0
+99978	54047	54	47	McDowell County	51	Information	51	0500000US54047	8.0	0.0	0.0
+99979	54047	54	47	McDowell County	52	Finance and insurance	52	0500000US54047	15.0	0.0	0.0
+99980	54047	54	47	McDowell County	53	Real estate and rental and leasing	53	0500000US54047	6.0	0.0	3317.0
+99981	54047	54	47	McDowell County	54	Professional, scientific, and technical services	54	0500000US54047	14.0	74.0	3951.0
+99982	54047	54	47	McDowell County	56	Administrative and support and waste management and remediation services	56	0500000US54047	8.0	0.0	0.0
+99983	54047	54	47	McDowell County	61	Educational services	61	0500000US54047	2.0	0.0	0.0
+99984	54047	54	47	McDowell County	62	Health care and social assistance	62	0500000US54047	35.0	865.0	21550.0
+99985	54047	54	47	McDowell County	71	Arts, entertainment, and recreation	71	0500000US54047	3.0	0.0	0.0
+99986	54047	54	47	McDowell County	72	Accommodation and food services	72	0500000US54047	22.0	174.0	2452.0
+99987	54047	54	47	McDowell County	81	Other services (except public administration)	81	0500000US54047	30.0	0.0	1981.0
+99989	54047	54	47	McDowell County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54047	4.375	8.5	340.25
+99990	54047	54	47	McDowell County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54047	19.75	296.25	19519.875
+99991	54047	54	47	McDowell County, West Virginia	22	Utilities	22	0500000US54047	1.75	0.0	0.0
+99992	54047	54	47	McDowell County, West Virginia	23	Construction	23	0500000US54047	5.125	17.5	669.125
+99993	54047	54	47	McDowell County, West Virginia	42	Wholesale trade	42	0500000US54047	4.571428571428571	44.142857142857146	3299.714285714286
+99994	54047	54	47	McDowell County, West Virginia	51	Information	51	0500000US54047	7.125	29.0	1318.5
+99995	54047	54	47	McDowell County, West Virginia	52	Finance and insurance	52	0500000US54047	12.0	80.75	2649.875
+99996	54047	54	47	McDowell County, West Virginia	53	Real estate and rental and leasing	53	0500000US54047	6.5	15.875	906.5
+99997	54047	54	47	McDowell County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54047	10.25	29.375	2959.875
+99998	54047	54	47	McDowell County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54047	9.0	31.75	1157.0
+99999	54047	54	47	McDowell County, West Virginia	61	Educational services	61	0500000US54047	1.75	0.0	0.0
+100000	54047	54	47	McDowell County, West Virginia	62	Health care and social assistance	62	0500000US54047	32.125	741.125	19509.625
+100001	54047	54	47	McDowell County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54047	3.0	3.5	54.25
+100002	54047	54	47	McDowell County, West Virginia	72	Accommodation and food services	72	0500000US54047	16.75	166.375	2537.375
+100003	54047	54	47	McDowell County, West Virginia	81	Other services (except public administration)	81	0500000US54047	31.875	98.25	2514.0
+100004	54047	54	47	McDowell County, West Virginia	99	Industries not classified	99	0500000US54047	2.25	1.0	5.5
+100006	54049	54	49	Marion County	11	Agriculture, forestry, fishing and hunting	11	0500000US54049	2.0	0.0	0.0
+100007	54049	54	49	Marion County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54049	14.0	0.0	0.0
+100008	54049	54	49	Marion County	22	Utilities	22	0500000US54049	11.0	0.0	0.0
+100009	54049	54	49	Marion County	23	Construction	23	0500000US54049	118.0	929.0	34387.0
+100010	54049	54	49	Marion County	42	Wholesale trade	42	0500000US54049	50.0	759.0	30774.0
+100011	54049	54	49	Marion County	51	Information	51	0500000US54049	22.0	302.0	13440.0
+100012	54049	54	49	Marion County	52	Finance and insurance	52	0500000US54049	69.0	503.0	19749.0
+100013	54049	54	49	Marion County	53	Real estate and rental and leasing	53	0500000US54049	35.0	127.0	4201.0
+100014	54049	54	49	Marion County	54	Professional, scientific, and technical services	54	0500000US54049	120.0	1079.0	57029.0
+100015	54049	54	49	Marion County	55	Management of companies and enterprises	55	0500000US54049	6.0	0.0	6383.0
+100016	54049	54	49	Marion County	56	Administrative and support and waste management and remediation services	56	0500000US54049	47.0	1936.0	39844.0
+100017	54049	54	49	Marion County	61	Educational services	61	0500000US54049	11.0	123.0	3595.0
+100018	54049	54	49	Marion County	62	Health care and social assistance	62	0500000US54049	160.0	2785.0	99192.0
+100019	54049	54	49	Marion County	71	Arts, entertainment, and recreation	71	0500000US54049	28.0	209.0	2500.0
+100020	54049	54	49	Marion County	72	Accommodation and food services	72	0500000US54049	111.0	2059.0	24244.0
+100021	54049	54	49	Marion County	81	Other services (except public administration)	81	0500000US54049	185.0	1087.0	24821.0
+100022	54049	54	49	Marion County	99	Industries not classified	99	0500000US54049	1.0	0.0	0.0
+100024	54049	54	49	Marion County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54049	2.3333333333333335	3.8333333333333335	70.83333333333333
+100025	54049	54	49	Marion County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54049	12.25	836.875	64269.25
+100026	54049	54	49	Marion County, West Virginia	22	Utilities	22	0500000US54049	13.125	240.25	19665.625
+100027	54049	54	49	Marion County, West Virginia	23	Construction	23	0500000US54049	107.875	778.25	33027.25
+100028	54049	54	49	Marion County, West Virginia	42	Wholesale trade	42	0500000US54049	45.875	748.375	37052.5
+100029	54049	54	49	Marion County, West Virginia	51	Information	51	0500000US54049	19.125	196.0	9711.0
+100030	54049	54	49	Marion County, West Virginia	52	Finance and insurance	52	0500000US54049	65.625	437.25	19190.875
+100031	54049	54	49	Marion County, West Virginia	53	Real estate and rental and leasing	53	0500000US54049	35.75	116.25	3908.375
+100032	54049	54	49	Marion County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54049	106.75	1135.625	70548.25
+100033	54049	54	49	Marion County, West Virginia	55	Management of companies and enterprises	55	0500000US54049	5.0	50.333333333333336	5303.833333333333
+100034	54049	54	49	Marion County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54049	46.75	1180.5	32659.25
+100035	54049	54	49	Marion County, West Virginia	61	Educational services	61	0500000US54049	11.25	85.875	2730.25
+100036	54049	54	49	Marion County, West Virginia	62	Health care and social assistance	62	0500000US54049	151.0	2876.25	108270.375
+100037	54049	54	49	Marion County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54049	28.125	190.125	2734.75
+100038	54049	54	49	Marion County, West Virginia	72	Accommodation and food services	72	0500000US54049	109.25	1770.5	24538.375
+100039	54049	54	49	Marion County, West Virginia	81	Other services (except public administration)	81	0500000US54049	165.875	907.25	22183.0
+100040	54049	54	49	Marion County, West Virginia	99	Industries not classified	99	0500000US54049	1.6666666666666667	0.6666666666666666	9.666666666666666
+100042	54051	54	51	Marshall County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54051	14.0	0.0	0.0
+100043	54051	54	51	Marshall County	22	Utilities	22	0500000US54051	5.0	0.0	0.0
+100044	54051	54	51	Marshall County	23	Construction	23	0500000US54051	40.0	198.0	8976.0
+100045	54051	54	51	Marshall County	42	Wholesale trade	42	0500000US54051	18.0	0.0	0.0
+100046	54051	54	51	Marshall County	51	Information	51	0500000US54051	3.0	22.0	722.0
+100047	54051	54	51	Marshall County	52	Finance and insurance	52	0500000US54051	25.0	0.0	6308.0
+100048	54051	54	51	Marshall County	53	Real estate and rental and leasing	53	0500000US54051	7.0	23.0	498.0
+100049	54051	54	51	Marshall County	54	Professional, scientific, and technical services	54	0500000US54051	33.0	166.0	5346.0
+100050	54051	54	51	Marshall County	55	Management of companies and enterprises	55	0500000US54051	4.0	0.0	0.0
+100051	54051	54	51	Marshall County	56	Administrative and support and waste management and remediation services	56	0500000US54051	14.0	0.0	14079.0
+100052	54051	54	51	Marshall County	61	Educational services	61	0500000US54051	3.0	76.0	981.0
+100053	54051	54	51	Marshall County	62	Health care and social assistance	62	0500000US54051	78.0	1852.0	45020.0
+100054	54051	54	51	Marshall County	71	Arts, entertainment, and recreation	71	0500000US54051	14.0	84.0	1122.0
+100055	54051	54	51	Marshall County	72	Accommodation and food services	72	0500000US54051	61.0	778.0	8374.0
+100056	54051	54	51	Marshall County	81	Other services (except public administration)	81	0500000US54051	68.0	391.0	6022.0
+100058	54051	54	51	Marshall County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54051	15.625	1881.75	163005.25
+100059	54051	54	51	Marshall County, West Virginia	22	Utilities	22	0500000US54051	4.625	89.625	10173.25
+100060	54051	54	51	Marshall County, West Virginia	23	Construction	23	0500000US54051	32.625	221.75	11965.625
+100061	54051	54	51	Marshall County, West Virginia	42	Wholesale trade	42	0500000US54051	17.5	265.5	12549.5
+100062	54051	54	51	Marshall County, West Virginia	51	Information	51	0500000US54051	3.0	9.375	322.875
+100063	54051	54	51	Marshall County, West Virginia	52	Finance and insurance	52	0500000US54051	21.375	164.75	8118.375
+100064	54051	54	51	Marshall County, West Virginia	53	Real estate and rental and leasing	53	0500000US54051	8.0	29.625	729.625
+100065	54051	54	51	Marshall County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54051	27.5	202.125	8265.0
+100066	54051	54	51	Marshall County, West Virginia	55	Management of companies and enterprises	55	0500000US54051	6.625	127.375	11800.0
+100067	54051	54	51	Marshall County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54051	15.625	724.75	13325.0
+100068	54051	54	51	Marshall County, West Virginia	61	Educational services	61	0500000US54051	3.0	29.8	881.8
+100069	54051	54	51	Marshall County, West Virginia	62	Health care and social assistance	62	0500000US54051	83.625	1587.75	50107.375
+100070	54051	54	51	Marshall County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54051	14.875	72.875	1211.125
+100071	54051	54	51	Marshall County, West Virginia	72	Accommodation and food services	72	0500000US54051	56.75	762.0	10025.125
+100072	54051	54	51	Marshall County, West Virginia	81	Other services (except public administration)	81	0500000US54051	71.625	390.125	7089.875
+100074	54053	54	53	Mason County	11	Agriculture, forestry, fishing and hunting	11	0500000US54053	1.0	0.0	0.0
+100075	54053	54	53	Mason County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54053	3.0	0.0	0.0
+100076	54053	54	53	Mason County	22	Utilities	22	0500000US54053	10.0	0.0	0.0
+100077	54053	54	53	Mason County	23	Construction	23	0500000US54053	24.0	246.0	8318.0
+100078	54053	54	53	Mason County	42	Wholesale trade	42	0500000US54053	6.0	0.0	0.0
+100079	54053	54	53	Mason County	51	Information	51	0500000US54053	5.0	39.0	1703.0
+100080	54053	54	53	Mason County	52	Finance and insurance	52	0500000US54053	24.0	118.0	3494.0
+100081	54053	54	53	Mason County	53	Real estate and rental and leasing	53	0500000US54053	14.0	51.0	1154.0
+100082	54053	54	53	Mason County	54	Professional, scientific, and technical services	54	0500000US54053	26.0	98.0	3615.0
+100083	54053	54	53	Mason County	55	Management of companies and enterprises	55	0500000US54053	2.0	0.0	0.0
+100084	54053	54	53	Mason County	56	Administrative and support and waste management and remediation services	56	0500000US54053	5.0	0.0	0.0
+100085	54053	54	53	Mason County	61	Educational services	61	0500000US54053	1.0	0.0	0.0
+100086	54053	54	53	Mason County	62	Health care and social assistance	62	0500000US54053	38.0	1078.0	39297.0
+100087	54053	54	53	Mason County	71	Arts, entertainment, and recreation	71	0500000US54053	10.0	0.0	1096.0
+100088	54053	54	53	Mason County	72	Accommodation and food services	72	0500000US54053	33.0	355.0	3997.0
+100089	54053	54	53	Mason County	81	Other services (except public administration)	81	0500000US54053	61.0	209.0	3307.0
+100091	54053	54	53	Mason County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54053	1.0	0.0	0.0
+100092	54053	54	53	Mason County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54053	3.0	0.0	0.0
+100093	54053	54	53	Mason County, West Virginia	22	Utilities	22	0500000US54053	9.25	151.875	14470.75
+100094	54053	54	53	Mason County, West Virginia	23	Construction	23	0500000US54053	25.375	223.125	10498.75
+100095	54053	54	53	Mason County, West Virginia	42	Wholesale trade	42	0500000US54053	5.0	31.875	1859.0
+100096	54053	54	53	Mason County, West Virginia	51	Information	51	0500000US54053	6.125	31.0	1286.25
+100097	54053	54	53	Mason County, West Virginia	52	Finance and insurance	52	0500000US54053	21.75	95.625	3785.75
+100098	54053	54	53	Mason County, West Virginia	53	Real estate and rental and leasing	53	0500000US54053	13.125	38.5	1001.75
+100099	54053	54	53	Mason County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54053	17.0	77.0	3652.375
+100100	54053	54	53	Mason County, West Virginia	55	Management of companies and enterprises	55	0500000US54053	1.0	0.0	0.0
+100101	54053	54	53	Mason County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54053	7.125	32.0	947.75
+100102	54053	54	53	Mason County, West Virginia	61	Educational services	61	0500000US54053	1.0	0.0	0.0
+100103	54053	54	53	Mason County, West Virginia	62	Health care and social assistance	62	0500000US54053	41.125	1018.625	39046.0
+100104	54053	54	53	Mason County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54053	9.375	51.0	804.5
+100105	54053	54	53	Mason County, West Virginia	72	Accommodation and food services	72	0500000US54053	26.875	327.625	4511.25
+100106	54053	54	53	Mason County, West Virginia	81	Other services (except public administration)	81	0500000US54053	57.875	200.125	3929.5
+100107	54053	54	53	Mason County, West Virginia	99	Industries not classified	99	0500000US54053	1.0	0.0	0.0
+100109	54055	54	55	Mercer County	11	Agriculture, forestry, fishing and hunting	11	0500000US54055	1.0	0.0	0.0
+100110	54055	54	55	Mercer County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54055	9.0	852.0	69769.0
+100111	54055	54	55	Mercer County	22	Utilities	22	0500000US54055	6.0	0.0	0.0
+100112	54055	54	55	Mercer County	23	Construction	23	0500000US54055	94.0	638.0	23085.0
+100113	54055	54	55	Mercer County	42	Wholesale trade	42	0500000US54055	58.0	648.0	31162.0
+100114	54055	54	55	Mercer County	51	Information	51	0500000US54055	23.0	975.0	27860.0
+100115	54055	54	55	Mercer County	52	Finance and insurance	52	0500000US54055	63.0	474.0	19755.0
+100116	54055	54	55	Mercer County	53	Real estate and rental and leasing	53	0500000US54055	39.0	128.0	4652.0
+100117	54055	54	55	Mercer County	54	Professional, scientific, and technical services	54	0500000US54055	92.0	571.0	22133.0
+100118	54055	54	55	Mercer County	55	Management of companies and enterprises	55	0500000US54055	5.0	0.0	0.0
+100119	54055	54	55	Mercer County	56	Administrative and support and waste management and remediation services	56	0500000US54055	43.0	796.0	19026.0
+100120	54055	54	55	Mercer County	61	Educational services	61	0500000US54055	5.0	96.0	2237.0
+100121	54055	54	55	Mercer County	62	Health care and social assistance	62	0500000US54055	246.0	4837.0	170905.0
+100122	54055	54	55	Mercer County	71	Arts, entertainment, and recreation	71	0500000US54055	31.0	175.0	3263.0
+100123	54055	54	55	Mercer County	72	Accommodation and food services	72	0500000US54055	108.0	2138.0	27987.0
+100124	54055	54	55	Mercer County	81	Other services (except public administration)	81	0500000US54055	167.0	1096.0	28502.0
+100125	54055	54	55	Mercer County	99	Industries not classified	99	0500000US54055	2.0	0.0	0.0
+100127	54055	54	55	Mercer County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54055	1.5	0.0	0.0
+100128	54055	54	55	Mercer County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54055	10.0	804.625	64106.0
+100129	54055	54	55	Mercer County, West Virginia	22	Utilities	22	0500000US54055	6.375	69.125	5150.625
+100130	54055	54	55	Mercer County, West Virginia	23	Construction	23	0500000US54055	83.75	610.5	25091.5
+100131	54055	54	55	Mercer County, West Virginia	42	Wholesale trade	42	0500000US54055	50.75	678.0	32758.125
+100132	54055	54	55	Mercer County, West Virginia	51	Information	51	0500000US54055	25.25	876.75	28277.125
+100133	54055	54	55	Mercer County, West Virginia	52	Finance and insurance	52	0500000US54055	57.875	398.375	17041.375
+100134	54055	54	55	Mercer County, West Virginia	53	Real estate and rental and leasing	53	0500000US54055	38.625	145.0	7483.0
+100135	54055	54	55	Mercer County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54055	79.375	541.875	19292.625
+100136	54055	54	55	Mercer County, West Virginia	55	Management of companies and enterprises	55	0500000US54055	4.25	20.5	1626.75
+100137	54055	54	55	Mercer County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54055	43.125	839.0	21385.375
+100138	54055	54	55	Mercer County, West Virginia	61	Educational services	61	0500000US54055	5.0	72.125	1774.0
+100139	54055	54	55	Mercer County, West Virginia	62	Health care and social assistance	62	0500000US54055	222.125	4719.25	175614.125
+100140	54055	54	55	Mercer County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54055	29.625	150.625	3111.875
+100141	54055	54	55	Mercer County, West Virginia	72	Accommodation and food services	72	0500000US54055	105.375	1995.75	29544.625
+100142	54055	54	55	Mercer County, West Virginia	81	Other services (except public administration)	81	0500000US54055	154.5	893.375	26426.75
+100143	54055	54	55	Mercer County, West Virginia	99	Industries not classified	99	0500000US54055	3.1666666666666665	1.6666666666666667	26.833333333333332
+100145	54057	54	57	Mineral County	11	Agriculture, forestry, fishing and hunting	11	0500000US54057	4.0	0.0	124.0
+100146	54057	54	57	Mineral County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54057	1.0	0.0	0.0
+100147	54057	54	57	Mineral County	22	Utilities	22	0500000US54057	4.0	21.0	1297.0
+100148	54057	54	57	Mineral County	23	Construction	23	0500000US54057	55.0	168.0	5660.0
+100149	54057	54	57	Mineral County	42	Wholesale trade	42	0500000US54057	13.0	88.0	2598.0
+100150	54057	54	57	Mineral County	51	Information	51	0500000US54057	6.0	0.0	0.0
+100151	54057	54	57	Mineral County	52	Finance and insurance	52	0500000US54057	23.0	128.0	3623.0
+100152	54057	54	57	Mineral County	53	Real estate and rental and leasing	53	0500000US54057	15.0	38.0	791.0
+100153	54057	54	57	Mineral County	54	Professional, scientific, and technical services	54	0500000US54057	27.0	0.0	4709.0
+100154	54057	54	57	Mineral County	55	Management of companies and enterprises	55	0500000US54057	1.0	0.0	0.0
+100155	54057	54	57	Mineral County	56	Administrative and support and waste management and remediation services	56	0500000US54057	15.0	0.0	0.0
+100156	54057	54	57	Mineral County	61	Educational services	61	0500000US54057	2.0	0.0	0.0
+100157	54057	54	57	Mineral County	62	Health care and social assistance	62	0500000US54057	66.0	1412.0	29270.0
+100158	54057	54	57	Mineral County	71	Arts, entertainment, and recreation	71	0500000US54057	6.0	0.0	339.0
+100159	54057	54	57	Mineral County	72	Accommodation and food services	72	0500000US54057	50.0	516.0	5709.0
+100160	54057	54	57	Mineral County	81	Other services (except public administration)	81	0500000US54057	67.0	251.0	4522.0
+100162	54057	54	57	Mineral County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54057	3.6	3.2	86.8
+100163	54057	54	57	Mineral County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54057	1.0	0.0	0.0
+100164	54057	54	57	Mineral County, West Virginia	22	Utilities	22	0500000US54057	4.5	29.0	2065.875
+100165	54057	54	57	Mineral County, West Virginia	23	Construction	23	0500000US54057	47.625	250.875	10482.125
+100166	54057	54	57	Mineral County, West Virginia	42	Wholesale trade	42	0500000US54057	12.0	99.25	3458.625
+100167	54057	54	57	Mineral County, West Virginia	51	Information	51	0500000US54057	7.0	220.375	12590.5
+100168	54057	54	57	Mineral County, West Virginia	52	Finance and insurance	52	0500000US54057	25.0	134.0	4512.75
+100169	54057	54	57	Mineral County, West Virginia	53	Real estate and rental and leasing	53	0500000US54057	13.25	30.375	814.125
+100170	54057	54	57	Mineral County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54057	22.375	104.0	5088.0
+100171	54057	54	57	Mineral County, West Virginia	55	Management of companies and enterprises	55	0500000US54057	1.0	0.0	0.0
+100172	54057	54	57	Mineral County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54057	13.5	69.125	1646.875
+100173	54057	54	57	Mineral County, West Virginia	61	Educational services	61	0500000US54057	1.3333333333333333	0.0	0.0
+100174	54057	54	57	Mineral County, West Virginia	62	Health care and social assistance	62	0500000US54057	70.5	1425.125	37552.75
+100175	54057	54	57	Mineral County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54057	5.5	21.0	290.0
+100176	54057	54	57	Mineral County, West Virginia	72	Accommodation and food services	72	0500000US54057	50.0	529.0	6212.0
+100177	54057	54	57	Mineral County, West Virginia	81	Other services (except public administration)	81	0500000US54057	64.375	274.5	5419.625
+100179	54059	54	59	Mingo County	11	Agriculture, forestry, fishing and hunting	11	0500000US54059	9.0	0.0	231.0
+100180	54059	54	59	Mingo County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54059	22.0	1297.0	97609.0
+100181	54059	54	59	Mingo County	22	Utilities	22	0500000US54059	4.0	0.0	0.0
+100182	54059	54	59	Mingo County	23	Construction	23	0500000US54059	29.0	750.0	22066.0
+100183	54059	54	59	Mingo County	42	Wholesale trade	42	0500000US54059	14.0	186.0	7800.0
+100184	54059	54	59	Mingo County	51	Information	51	0500000US54059	7.0	0.0	0.0
+100185	54059	54	59	Mingo County	52	Finance and insurance	52	0500000US54059	23.0	166.0	4746.0
+100186	54059	54	59	Mingo County	53	Real estate and rental and leasing	53	0500000US54059	16.0	42.0	1128.0
+100187	54059	54	59	Mingo County	54	Professional, scientific, and technical services	54	0500000US54059	47.0	249.0	6468.0
+100188	54059	54	59	Mingo County	55	Management of companies and enterprises	55	0500000US54059	5.0	0.0	0.0
+100189	54059	54	59	Mingo County	56	Administrative and support and waste management and remediation services	56	0500000US54059	11.0	0.0	0.0
+100190	54059	54	59	Mingo County	62	Health care and social assistance	62	0500000US54059	47.0	753.0	24135.0
+100191	54059	54	59	Mingo County	71	Arts, entertainment, and recreation	71	0500000US54059	5.0	0.0	0.0
+100192	54059	54	59	Mingo County	72	Accommodation and food services	72	0500000US54059	31.0	317.0	3528.0
+100193	54059	54	59	Mingo County	81	Other services (except public administration)	81	0500000US54059	43.0	266.0	6179.0
+100195	54059	54	59	Mingo County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54059	12.625	41.125	1316.125
+100196	54059	54	59	Mingo County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54059	14.75	656.875	40422.0
+100197	54059	54	59	Mingo County, West Virginia	22	Utilities	22	0500000US54059	4.0	16.125	853.5
+100198	54059	54	59	Mingo County, West Virginia	23	Construction	23	0500000US54059	26.375	117.0	6137.25
+100199	54059	54	59	Mingo County, West Virginia	42	Wholesale trade	42	0500000US54059	12.25	62.25	3866.125
+100200	54059	54	59	Mingo County, West Virginia	51	Information	51	0500000US54059	6.75	5.125	407.75
+100201	54059	54	59	Mingo County, West Virginia	52	Finance and insurance	52	0500000US54059	23.125	149.625	4383.5
+100202	54059	54	59	Mingo County, West Virginia	53	Real estate and rental and leasing	53	0500000US54059	12.5	33.75	921.375
+100203	54059	54	59	Mingo County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54059	42.375	291.375	6769.0
+100204	54059	54	59	Mingo County, West Virginia	55	Management of companies and enterprises	55	0500000US54059	3.6	0.0	0.0
+100205	54059	54	59	Mingo County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54059	10.375	32.75	1504.375
+100206	54059	54	59	Mingo County, West Virginia	61	Educational services	61	0500000US54059	1.0	0.0	0.0
+100207	54059	54	59	Mingo County, West Virginia	62	Health care and social assistance	62	0500000US54059	41.25	548.75	17421.0
+100208	54059	54	59	Mingo County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54059	5.25	31.0	425.625
+100209	54059	54	59	Mingo County, West Virginia	72	Accommodation and food services	72	0500000US54059	26.0	240.5	3120.0
+100210	54059	54	59	Mingo County, West Virginia	81	Other services (except public administration)	81	0500000US54059	38.0	199.875	4281.625
+100211	54059	54	59	Mingo County, West Virginia	99	Industries not classified	99	0500000US54059	1.0	0.0	0.0
+100213	54061	54	61	Monongalia County	11	Agriculture, forestry, fishing and hunting	11	0500000US54061	10.0	22.0	734.0
+100214	54061	54	61	Monongalia County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54061	30.0	1457.0	95417.0
+100215	54061	54	61	Monongalia County	22	Utilities	22	0500000US54061	6.0	0.0	0.0
+100216	54061	54	61	Monongalia County	23	Construction	23	0500000US54061	195.0	1638.0	73881.0
+100217	54061	54	61	Monongalia County	42	Wholesale trade	42	0500000US54061	65.0	450.0	19327.0
+100218	54061	54	61	Monongalia County	51	Information	51	0500000US54061	37.0	619.0	29311.0
+100219	54061	54	61	Monongalia County	52	Finance and insurance	52	0500000US54061	119.0	959.0	43167.0
+100220	54061	54	61	Monongalia County	53	Real estate and rental and leasing	53	0500000US54061	131.0	680.0	19868.0
+100221	54061	54	61	Monongalia County	54	Professional, scientific, and technical services	54	0500000US54061	205.0	2283.0	114501.0
+100222	54061	54	61	Monongalia County	55	Management of companies and enterprises	55	0500000US54061	17.0	636.0	40741.0
+100223	54061	54	61	Monongalia County	56	Administrative and support and waste management and remediation services	56	0500000US54061	93.0	2343.0	58490.0
+100224	54061	54	61	Monongalia County	61	Educational services	61	0500000US54061	23.0	271.0	5600.0
+100225	54061	54	61	Monongalia County	62	Health care and social assistance	62	0500000US54061	238.0	14297.0	616250.0
+100226	54061	54	61	Monongalia County	71	Arts, entertainment, and recreation	71	0500000US54061	55.0	329.0	5841.0
+100227	54061	54	61	Monongalia County	72	Accommodation and food services	72	0500000US54061	285.0	5772.0	70001.0
+100228	54061	54	61	Monongalia County	81	Other services (except public administration)	81	0500000US54061	207.0	1539.0	35964.0
+100229	54061	54	61	Monongalia County	99	Industries not classified	99	0500000US54061	2.0	0.0	0.0
+100231	54061	54	61	Monongalia County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54061	8.0	12.375	506.875
+100232	54061	54	61	Monongalia County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54061	28.75	974.75	70885.625
+100233	54061	54	61	Monongalia County, West Virginia	22	Utilities	22	0500000US54061	10.25	419.625	45444.5
+100234	54061	54	61	Monongalia County, West Virginia	23	Construction	23	0500000US54061	207.25	1860.0	89851.5
+100235	54061	54	61	Monongalia County, West Virginia	42	Wholesale trade	42	0500000US54061	62.875	659.625	49960.25
+100236	54061	54	61	Monongalia County, West Virginia	51	Information	51	0500000US54061	38.625	555.75	29325.0
+100237	54061	54	61	Monongalia County, West Virginia	52	Finance and insurance	52	0500000US54061	125.25	775.875	45554.25
+100238	54061	54	61	Monongalia County, West Virginia	53	Real estate and rental and leasing	53	0500000US54061	138.375	635.625	22538.0
+100239	54061	54	61	Monongalia County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54061	215.625	2587.875	157161.5
+100240	54061	54	61	Monongalia County, West Virginia	55	Management of companies and enterprises	55	0500000US54061	20.375	1314.0	98102.25
+100241	54061	54	61	Monongalia County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54061	104.875	2615.125	61119.375
+100242	54061	54	61	Monongalia County, West Virginia	61	Educational services	61	0500000US54061	26.125	329.75	8059.875
+100243	54061	54	61	Monongalia County, West Virginia	62	Health care and social assistance	62	0500000US54061	269.0	14979.25	831096.25
+100244	54061	54	61	Monongalia County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54061	62.25	421.375	7056.5
+100245	54061	54	61	Monongalia County, West Virginia	72	Accommodation and food services	72	0500000US54061	309.125	6442.125	91457.25
+100246	54061	54	61	Monongalia County, West Virginia	81	Other services (except public administration)	81	0500000US54061	224.625	1627.0	45351.125
+100247	54061	54	61	Monongalia County, West Virginia	99	Industries not classified	99	0500000US54061	4.75	4.375	103.25
+100249	54063	54	63	Monroe County	11	Agriculture, forestry, fishing and hunting	11	0500000US54063	9.0	0.0	410.0
+100250	54063	54	63	Monroe County	23	Construction	23	0500000US54063	41.0	116.0	3042.0
+100251	54063	54	63	Monroe County	42	Wholesale trade	42	0500000US54063	7.0	23.0	592.0
+100252	54063	54	63	Monroe County	51	Information	51	0500000US54063	3.0	7.0	298.0
+100253	54063	54	63	Monroe County	52	Finance and insurance	52	0500000US54063	7.0	46.0	1327.0
+100254	54063	54	63	Monroe County	53	Real estate and rental and leasing	53	0500000US54063	2.0	0.0	0.0
+100255	54063	54	63	Monroe County	54	Professional, scientific, and technical services	54	0500000US54063	9.0	29.0	602.0
+100256	54063	54	63	Monroe County	56	Administrative and support and waste management and remediation services	56	0500000US54063	5.0	32.0	650.0
+100257	54063	54	63	Monroe County	62	Health care and social assistance	62	0500000US54063	18.0	298.0	7415.0
+100258	54063	54	63	Monroe County	71	Arts, entertainment, and recreation	71	0500000US54063	3.0	0.0	0.0
+100259	54063	54	63	Monroe County	72	Accommodation and food services	72	0500000US54063	11.0	66.0	791.0
+100260	54063	54	63	Monroe County	81	Other services (except public administration)	81	0500000US54063	18.0	81.0	785.0
+100262	54063	54	63	Monroe County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54063	10.625	32.125	1046.125
+100263	54063	54	63	Monroe County, West Virginia	23	Construction	23	0500000US54063	37.125	109.25	3412.375
+100264	54063	54	63	Monroe County, West Virginia	42	Wholesale trade	42	0500000US54063	4.375	10.75	263.625
+100265	54063	54	63	Monroe County, West Virginia	51	Information	51	0500000US54063	3.0	5.8	442.6
+100266	54063	54	63	Monroe County, West Virginia	52	Finance and insurance	52	0500000US54063	6.0	40.375	1249.375
+100267	54063	54	63	Monroe County, West Virginia	53	Real estate and rental and leasing	53	0500000US54063	2.0	0.0	0.0
+100268	54063	54	63	Monroe County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54063	9.625	37.375	1038.5
+100269	54063	54	63	Monroe County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54063	4.125	22.125	708.875
+100270	54063	54	63	Monroe County, West Virginia	62	Health care and social assistance	62	0500000US54063	19.5	264.25	6730.875
+100271	54063	54	63	Monroe County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54063	2.857142857142857	7.285714285714286	127.14285714285714
+100272	54063	54	63	Monroe County, West Virginia	72	Accommodation and food services	72	0500000US54063	11.625	77.25	928.25
+100273	54063	54	63	Monroe County, West Virginia	81	Other services (except public administration)	81	0500000US54063	20.375	72.0	937.25
+100274	54063	54	63	Monroe County, West Virginia	99	Industries not classified	99	0500000US54063	1.25	0.0	0.0
+100276	54065	54	65	Morgan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54065	1.0	0.0	0.0
+100277	54065	54	65	Morgan County	22	Utilities	22	0500000US54065	1.0	0.0	0.0
+100278	54065	54	65	Morgan County	23	Construction	23	0500000US54065	22.0	74.0	2082.0
+100279	54065	54	65	Morgan County	42	Wholesale trade	42	0500000US54065	4.0	42.0	1264.0
+100280	54065	54	65	Morgan County	51	Information	51	0500000US54065	3.0	0.0	835.0
+100281	54065	54	65	Morgan County	52	Finance and insurance	52	0500000US54065	9.0	79.0	3232.0
+100282	54065	54	65	Morgan County	53	Real estate and rental and leasing	53	0500000US54065	10.0	0.0	0.0
+100283	54065	54	65	Morgan County	54	Professional, scientific, and technical services	54	0500000US54065	13.0	0.0	0.0
+100284	54065	54	65	Morgan County	56	Administrative and support and waste management and remediation services	56	0500000US54065	11.0	33.0	777.0
+100285	54065	54	65	Morgan County	62	Health care and social assistance	62	0500000US54065	20.0	569.0	16676.0
+100286	54065	54	65	Morgan County	71	Arts, entertainment, and recreation	71	0500000US54065	6.0	35.0	416.0
+100287	54065	54	65	Morgan County	72	Accommodation and food services	72	0500000US54065	27.0	307.0	4195.0
+100288	54065	54	65	Morgan County	81	Other services (except public administration)	81	0500000US54065	44.0	114.0	1666.0
+100290	54065	54	65	Morgan County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54065	1.0	0.0	0.0
+100291	54065	54	65	Morgan County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54065	1.0	0.0	0.0
+100292	54065	54	65	Morgan County, West Virginia	22	Utilities	22	0500000US54065	2.0	0.0	0.0
+100293	54065	54	65	Morgan County, West Virginia	23	Construction	23	0500000US54065	24.375	57.125	1919.25
+100294	54065	54	65	Morgan County, West Virginia	42	Wholesale trade	42	0500000US54065	4.0	24.5	1356.5
+100295	54065	54	65	Morgan County, West Virginia	51	Information	51	0500000US54065	3.1666666666666665	17.5	608.8333333333334
+100296	54065	54	65	Morgan County, West Virginia	52	Finance and insurance	52	0500000US54065	9.625	74.25	3559.375
+100297	54065	54	65	Morgan County, West Virginia	53	Real estate and rental and leasing	53	0500000US54065	8.75	20.875	676.5
+100298	54065	54	65	Morgan County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54065	14.625	57.5	3816.375
+100299	54065	54	65	Morgan County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54065	10.125	27.25	911.875
+100300	54065	54	65	Morgan County, West Virginia	62	Health care and social assistance	62	0500000US54065	20.125	553.5	19600.5
+100301	54065	54	65	Morgan County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54065	5.5	18.375	301.125
+100302	54065	54	65	Morgan County, West Virginia	72	Accommodation and food services	72	0500000US54065	28.0	291.5	4021.5
+100303	54065	54	65	Morgan County, West Virginia	81	Other services (except public administration)	81	0500000US54065	41.25	128.625	2173.875
+100305	54067	54	67	Nicholas County	11	Agriculture, forestry, fishing and hunting	11	0500000US54067	16.0	43.0	993.0
+100306	54067	54	67	Nicholas County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54067	12.0	1326.0	91441.0
+100307	54067	54	67	Nicholas County	22	Utilities	22	0500000US54067	3.0	0.0	0.0
+100308	54067	54	67	Nicholas County	23	Construction	23	0500000US54067	55.0	231.0	6913.0
+100309	54067	54	67	Nicholas County	42	Wholesale trade	42	0500000US54067	18.0	153.0	6533.0
+100310	54067	54	67	Nicholas County	51	Information	51	0500000US54067	9.0	0.0	0.0
+100311	54067	54	67	Nicholas County	52	Finance and insurance	52	0500000US54067	29.0	126.0	4207.0
+100312	54067	54	67	Nicholas County	53	Real estate and rental and leasing	53	0500000US54067	18.0	45.0	1421.0
+100313	54067	54	67	Nicholas County	54	Professional, scientific, and technical services	54	0500000US54067	46.0	239.0	7806.0
+100314	54067	54	67	Nicholas County	55	Management of companies and enterprises	55	0500000US54067	3.0	0.0	0.0
+100315	54067	54	67	Nicholas County	56	Administrative and support and waste management and remediation services	56	0500000US54067	18.0	151.0	6772.0
+100316	54067	54	67	Nicholas County	61	Educational services	61	0500000US54067	1.0	0.0	0.0
+100317	54067	54	67	Nicholas County	62	Health care and social assistance	62	0500000US54067	58.0	1679.0	49735.0
+100318	54067	54	67	Nicholas County	71	Arts, entertainment, and recreation	71	0500000US54067	7.0	0.0	0.0
+100319	54067	54	67	Nicholas County	72	Accommodation and food services	72	0500000US54067	59.0	854.0	9884.0
+100320	54067	54	67	Nicholas County	81	Other services (except public administration)	81	0500000US54067	61.0	253.0	6080.0
+100322	54067	54	67	Nicholas County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54067	23.625	56.875	1803.75
+100323	54067	54	67	Nicholas County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54067	10.5	180.5	24764.375
+100324	54067	54	67	Nicholas County, West Virginia	22	Utilities	22	0500000US54067	3.0	14.625	1246.0
+100325	54067	54	67	Nicholas County, West Virginia	23	Construction	23	0500000US54067	52.625	154.75	6396.125
+100326	54067	54	67	Nicholas County, West Virginia	42	Wholesale trade	42	0500000US54067	20.25	169.125	7577.125
+100327	54067	54	67	Nicholas County, West Virginia	51	Information	51	0500000US54067	8.625	45.125	2786.5
+100328	54067	54	67	Nicholas County, West Virginia	52	Finance and insurance	52	0500000US54067	28.75	92.75	4464.75
+100329	54067	54	67	Nicholas County, West Virginia	53	Real estate and rental and leasing	53	0500000US54067	17.125	55.125	1927.0
+100330	54067	54	67	Nicholas County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54067	39.0	155.0	5841.25
+100331	54067	54	67	Nicholas County, West Virginia	55	Management of companies and enterprises	55	0500000US54067	2.75	19.875	835.125
+100332	54067	54	67	Nicholas County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54067	15.25	151.375	7250.0
+100333	54067	54	67	Nicholas County, West Virginia	62	Health care and social assistance	62	0500000US54067	63.875	1620.25	56955.875
+100334	54067	54	67	Nicholas County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54067	7.375	32.875	550.25
+100335	54067	54	67	Nicholas County, West Virginia	72	Accommodation and food services	72	0500000US54067	56.25	815.0	10925.0
+100336	54067	54	67	Nicholas County, West Virginia	81	Other services (except public administration)	81	0500000US54067	60.0	216.25	4941.125
+100337	54067	54	67	Nicholas County, West Virginia	99	Industries not classified	99	0500000US54067	1.0	0.0	0.0
+100339	54069	54	69	Ohio County	11	Agriculture, forestry, fishing and hunting	11	0500000US54069	3.0	0.0	47.0
+100340	54069	54	69	Ohio County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54069	5.0	628.0	41112.0
+100341	54069	54	69	Ohio County	22	Utilities	22	0500000US54069	4.0	0.0	7762.0
+100342	54069	54	69	Ohio County	23	Construction	23	0500000US54069	79.0	936.0	41590.0
+100343	54069	54	69	Ohio County	42	Wholesale trade	42	0500000US54069	77.0	1278.0	57738.0
+100344	54069	54	69	Ohio County	51	Information	51	0500000US54069	26.0	540.0	18332.0
+100345	54069	54	69	Ohio County	52	Finance and insurance	52	0500000US54069	84.0	0.0	53521.0
+100346	54069	54	69	Ohio County	53	Real estate and rental and leasing	53	0500000US54069	57.0	285.0	8210.0
+100347	54069	54	69	Ohio County	54	Professional, scientific, and technical services	54	0500000US54069	153.0	1734.0	83040.0
+100348	54069	54	69	Ohio County	55	Management of companies and enterprises	55	0500000US54069	16.0	900.0	42237.0
+100349	54069	54	69	Ohio County	56	Administrative and support and waste management and remediation services	56	0500000US54069	63.0	2152.0	40718.0
+100350	54069	54	69	Ohio County	61	Educational services	61	0500000US54069	22.0	1111.0	22711.0
+100351	54069	54	69	Ohio County	62	Health care and social assistance	62	0500000US54069	234.0	6638.0	264834.0
+100352	54069	54	69	Ohio County	71	Arts, entertainment, and recreation	71	0500000US54069	44.0	0.0	22784.0
+100353	54069	54	69	Ohio County	72	Accommodation and food services	72	0500000US54069	136.0	3006.0	39447.0
+100354	54069	54	69	Ohio County	81	Other services (except public administration)	81	0500000US54069	188.0	1756.0	41550.0
+100356	54069	54	69	Ohio County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54069	2.0	0.0	0.0
+100357	54069	54	69	Ohio County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54069	3.5	180.125	16043.625
+100358	54069	54	69	Ohio County, West Virginia	22	Utilities	22	0500000US54069	5.5	109.875	8810.0
+100359	54069	54	69	Ohio County, West Virginia	23	Construction	23	0500000US54069	66.25	740.625	39140.625
+100360	54069	54	69	Ohio County, West Virginia	42	Wholesale trade	42	0500000US54069	67.0	1234.625	56914.5
+100361	54069	54	69	Ohio County, West Virginia	51	Information	51	0500000US54069	22.75	500.0	17591.75
+100362	54069	54	69	Ohio County, West Virginia	52	Finance and insurance	52	0500000US54069	82.25	1008.75	72439.75
+100363	54069	54	69	Ohio County, West Virginia	53	Real estate and rental and leasing	53	0500000US54069	55.5	329.5	12420.125
+100364	54069	54	69	Ohio County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54069	145.625	1842.875	104703.5
+100365	54069	54	69	Ohio County, West Virginia	55	Management of companies and enterprises	55	0500000US54069	15.5	459.875	38270.25
+100366	54069	54	69	Ohio County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54069	55.5	1868.5	57059.125
+100367	54069	54	69	Ohio County, West Virginia	61	Educational services	61	0500000US54069	19.75	901.875	20897.75
+100368	54069	54	69	Ohio County, West Virginia	62	Health care and social assistance	62	0500000US54069	228.875	6811.125	314667.25
+100369	54069	54	69	Ohio County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54069	38.5	453.625	13111.25
+100370	54069	54	69	Ohio County, West Virginia	72	Accommodation and food services	72	0500000US54069	139.875	3338.875	50358.5
+100371	54069	54	69	Ohio County, West Virginia	81	Other services (except public administration)	81	0500000US54069	176.75	1567.0	49045.375
+100372	54069	54	69	Ohio County, West Virginia	99	Industries not classified	99	0500000US54069	1.0	0.0	0.0
+100374	54071	54	71	Pendleton County	11	Agriculture, forestry, fishing and hunting	11	0500000US54071	3.0	0.0	0.0
+100375	54071	54	71	Pendleton County	22	Utilities	22	0500000US54071	1.0	0.0	0.0
+100376	54071	54	71	Pendleton County	23	Construction	23	0500000US54071	19.0	0.0	620.0
+100377	54071	54	71	Pendleton County	42	Wholesale trade	42	0500000US54071	3.0	0.0	0.0
+100378	54071	54	71	Pendleton County	51	Information	51	0500000US54071	3.0	23.0	1146.0
+100379	54071	54	71	Pendleton County	52	Finance and insurance	52	0500000US54071	6.0	0.0	2284.0
+100380	54071	54	71	Pendleton County	53	Real estate and rental and leasing	53	0500000US54071	2.0	0.0	0.0
+100381	54071	54	71	Pendleton County	54	Professional, scientific, and technical services	54	0500000US54071	5.0	11.0	332.0
+100382	54071	54	71	Pendleton County	56	Administrative and support and waste management and remediation services	56	0500000US54071	4.0	15.0	157.0
+100383	54071	54	71	Pendleton County	61	Educational services	61	0500000US54071	1.0	0.0	0.0
+100384	54071	54	71	Pendleton County	62	Health care and social assistance	62	0500000US54071	17.0	328.0	7433.0
+100385	54071	54	71	Pendleton County	71	Arts, entertainment, and recreation	71	0500000US54071	3.0	38.0	739.0
+100386	54071	54	71	Pendleton County	72	Accommodation and food services	72	0500000US54071	11.0	129.0	937.0
+100387	54071	54	71	Pendleton County	81	Other services (except public administration)	81	0500000US54071	17.0	0.0	1595.0
+100389	54071	54	71	Pendleton County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54071	2.3333333333333335	0.6666666666666666	11.0
+100390	54071	54	71	Pendleton County, West Virginia	22	Utilities	22	0500000US54071	1.0	0.0	0.0
+100391	54071	54	71	Pendleton County, West Virginia	23	Construction	23	0500000US54071	19.625	28.5	714.75
+100392	54071	54	71	Pendleton County, West Virginia	42	Wholesale trade	42	0500000US54071	4.5	9.75	170.875
+100393	54071	54	71	Pendleton County, West Virginia	51	Information	51	0500000US54071	3.75	25.375	915.75
+100394	54071	54	71	Pendleton County, West Virginia	52	Finance and insurance	52	0500000US54071	4.875	54.875	2358.0
+100395	54071	54	71	Pendleton County, West Virginia	53	Real estate and rental and leasing	53	0500000US54071	2.8333333333333335	1.8333333333333333	45.333333333333336
+100396	54071	54	71	Pendleton County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54071	5.875	11.25	471.25
+100397	54071	54	71	Pendleton County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54071	4.625	13.5	270.875
+100398	54071	54	71	Pendleton County, West Virginia	61	Educational services	61	0500000US54071	1.5	0.0	0.0
+100399	54071	54	71	Pendleton County, West Virginia	62	Health care and social assistance	62	0500000US54071	17.625	334.625	8196.0
+100400	54071	54	71	Pendleton County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54071	3.25	42.75	743.75
+100401	54071	54	71	Pendleton County, West Virginia	72	Accommodation and food services	72	0500000US54071	11.625	85.5	875.0
+100402	54071	54	71	Pendleton County, West Virginia	81	Other services (except public administration)	81	0500000US54071	15.625	38.875	1050.625
+100403	54071	54	71	Pendleton County, West Virginia	99	Industries not classified	99	0500000US54071	1.0	0.0	0.0
+100405	54073	54	73	Pleasants County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54073	8.0	0.0	0.0
+100406	54073	54	73	Pleasants County	22	Utilities	22	0500000US54073	4.0	0.0	0.0
+100407	54073	54	73	Pleasants County	23	Construction	23	0500000US54073	5.0	0.0	580.0
+100408	54073	54	73	Pleasants County	42	Wholesale trade	42	0500000US54073	1.0	0.0	0.0
+100409	54073	54	73	Pleasants County	51	Information	51	0500000US54073	4.0	0.0	0.0
+100410	54073	54	73	Pleasants County	52	Finance and insurance	52	0500000US54073	10.0	67.0	1851.0
+100411	54073	54	73	Pleasants County	53	Real estate and rental and leasing	53	0500000US54073	2.0	0.0	0.0
+100412	54073	54	73	Pleasants County	54	Professional, scientific, and technical services	54	0500000US54073	4.0	34.0	1054.0
+100413	54073	54	73	Pleasants County	55	Management of companies and enterprises	55	0500000US54073	1.0	0.0	0.0
+100414	54073	54	73	Pleasants County	56	Administrative and support and waste management and remediation services	56	0500000US54073	3.0	0.0	0.0
+100415	54073	54	73	Pleasants County	62	Health care and social assistance	62	0500000US54073	15.0	0.0	0.0
+100416	54073	54	73	Pleasants County	72	Accommodation and food services	72	0500000US54073	12.0	225.0	2355.0
+100417	54073	54	73	Pleasants County	81	Other services (except public administration)	81	0500000US54073	15.0	74.0	756.0
+100419	54073	54	73	Pleasants County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54073	4.5	14.5	640.625
+100420	54073	54	73	Pleasants County, West Virginia	22	Utilities	22	0500000US54073	4.142857142857143	51.857142857142854	6684.428571428572
+100421	54073	54	73	Pleasants County, West Virginia	23	Construction	23	0500000US54073	5.125	98.875	3424.75
+100422	54073	54	73	Pleasants County, West Virginia	42	Wholesale trade	42	0500000US54073	2.75	13.375	426.625
+100423	54073	54	73	Pleasants County, West Virginia	51	Information	51	0500000US54073	4.0	6.25	297.125
+100424	54073	54	73	Pleasants County, West Virginia	52	Finance and insurance	52	0500000US54073	9.625	68.375	1902.25
+100425	54073	54	73	Pleasants County, West Virginia	53	Real estate and rental and leasing	53	0500000US54073	2.6666666666666665	3.6666666666666665	145.83333333333334
+100426	54073	54	73	Pleasants County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54073	6.25	34.625	2066.0
+100427	54073	54	73	Pleasants County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54073	5.125	261.375	14241.125
+100428	54073	54	73	Pleasants County, West Virginia	62	Health care and social assistance	62	0500000US54073	17.875	255.5	5389.0
+100429	54073	54	73	Pleasants County, West Virginia	72	Accommodation and food services	72	0500000US54073	10.75	215.875	2565.25
+100430	54073	54	73	Pleasants County, West Virginia	81	Other services (except public administration)	81	0500000US54073	16.125	60.125	685.125
+100431	54073	54	73	Pleasants County, West Virginia	99	Industries not classified	99	0500000US54073	1.0	0.0	0.0
+100433	54075	54	75	Pocahontas County	11	Agriculture, forestry, fishing and hunting	11	0500000US54075	13.0	40.0	690.0
+100434	54075	54	75	Pocahontas County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54075	1.0	0.0	0.0
+100435	54075	54	75	Pocahontas County	22	Utilities	22	0500000US54075	1.0	0.0	0.0
+100436	54075	54	75	Pocahontas County	23	Construction	23	0500000US54075	30.0	78.0	2091.0
+100437	54075	54	75	Pocahontas County	42	Wholesale trade	42	0500000US54075	3.0	0.0	207.0
+100438	54075	54	75	Pocahontas County	51	Information	51	0500000US54075	5.0	0.0	1468.0
+100439	54075	54	75	Pocahontas County	52	Finance and insurance	52	0500000US54075	11.0	46.0	1282.0
+100440	54075	54	75	Pocahontas County	53	Real estate and rental and leasing	53	0500000US54075	10.0	0.0	0.0
+100441	54075	54	75	Pocahontas County	54	Professional, scientific, and technical services	54	0500000US54075	6.0	0.0	0.0
+100442	54075	54	75	Pocahontas County	56	Administrative and support and waste management and remediation services	56	0500000US54075	8.0	0.0	679.0
+100443	54075	54	75	Pocahontas County	62	Health care and social assistance	62	0500000US54075	20.0	406.0	10583.0
+100444	54075	54	75	Pocahontas County	71	Arts, entertainment, and recreation	71	0500000US54075	6.0	0.0	146.0
+100445	54075	54	75	Pocahontas County	72	Accommodation and food services	72	0500000US54075	24.0	0.0	0.0
+100446	54075	54	75	Pocahontas County	81	Other services (except public administration)	81	0500000US54075	23.0	108.0	1915.0
+100448	54075	54	75	Pocahontas County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54075	13.625	45.75	850.875
+100449	54075	54	75	Pocahontas County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54075	1.0	0.0	0.0
+100450	54075	54	75	Pocahontas County, West Virginia	22	Utilities	22	0500000US54075	1.0	0.0	0.0
+100451	54075	54	75	Pocahontas County, West Virginia	23	Construction	23	0500000US54075	29.5	75.0	2335.875
+100452	54075	54	75	Pocahontas County, West Virginia	42	Wholesale trade	42	0500000US54075	2.0	0.0	0.0
+100453	54075	54	75	Pocahontas County, West Virginia	51	Information	51	0500000US54075	3.75	18.25	831.375
+100454	54075	54	75	Pocahontas County, West Virginia	52	Finance and insurance	52	0500000US54075	10.125	42.0	1313.625
+100455	54075	54	75	Pocahontas County, West Virginia	53	Real estate and rental and leasing	53	0500000US54075	7.5	37.875	672.0
+100456	54075	54	75	Pocahontas County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54075	4.875	48.875	2723.25
+100457	54075	54	75	Pocahontas County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54075	7.125	34.875	783.25
+100458	54075	54	75	Pocahontas County, West Virginia	61	Educational services	61	0500000US54075	1.0	0.0	0.0
+100459	54075	54	75	Pocahontas County, West Virginia	62	Health care and social assistance	62	0500000US54075	22.75	400.75	12983.625
+100460	54075	54	75	Pocahontas County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54075	4.25	5.75	187.0
+100461	54075	54	75	Pocahontas County, West Virginia	72	Accommodation and food services	72	0500000US54075	24.5	988.25	14478.0
+100462	54075	54	75	Pocahontas County, West Virginia	81	Other services (except public administration)	81	0500000US54075	26.375	145.5	2596.0
+100464	54077	54	77	Preston County	11	Agriculture, forestry, fishing and hunting	11	0500000US54077	9.0	0.0	471.0
+100465	54077	54	77	Preston County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54077	5.0	0.0	0.0
+100466	54077	54	77	Preston County	22	Utilities	22	0500000US54077	6.0	0.0	0.0
+100467	54077	54	77	Preston County	23	Construction	23	0500000US54077	78.0	488.0	21167.0
+100468	54077	54	77	Preston County	42	Wholesale trade	42	0500000US54077	17.0	113.0	3793.0
+100469	54077	54	77	Preston County	51	Information	51	0500000US54077	12.0	75.0	2599.0
+100470	54077	54	77	Preston County	52	Finance and insurance	52	0500000US54077	24.0	162.0	5556.0
+100471	54077	54	77	Preston County	53	Real estate and rental and leasing	53	0500000US54077	20.0	58.0	1247.0
+100472	54077	54	77	Preston County	54	Professional, scientific, and technical services	54	0500000US54077	29.0	107.0	3737.0
+100473	54077	54	77	Preston County	56	Administrative and support and waste management and remediation services	56	0500000US54077	14.0	91.0	2102.0
+100474	54077	54	77	Preston County	62	Health care and social assistance	62	0500000US54077	62.0	1247.0	30780.0
+100475	54077	54	77	Preston County	71	Arts, entertainment, and recreation	71	0500000US54077	10.0	0.0	506.0
+100476	54077	54	77	Preston County	72	Accommodation and food services	72	0500000US54077	36.0	285.0	3470.0
+100477	54077	54	77	Preston County	81	Other services (except public administration)	81	0500000US54077	56.0	235.0	5644.0
+100479	54077	54	77	Preston County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54077	8.0	21.5	819.125
+100480	54077	54	77	Preston County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54077	4.5	37.875	2043.5
+100481	54077	54	77	Preston County, West Virginia	22	Utilities	22	0500000US54077	5.125	31.75	2468.625
+100482	54077	54	77	Preston County, West Virginia	23	Construction	23	0500000US54077	72.5	562.25	31315.75
+100483	54077	54	77	Preston County, West Virginia	42	Wholesale trade	42	0500000US54077	14.875	109.125	4306.25
+100484	54077	54	77	Preston County, West Virginia	51	Information	51	0500000US54077	13.0	68.375	2579.75
+100485	54077	54	77	Preston County, West Virginia	52	Finance and insurance	52	0500000US54077	23.375	163.125	6865.125
+100486	54077	54	77	Preston County, West Virginia	53	Real estate and rental and leasing	53	0500000US54077	19.0	58.875	1848.625
+100487	54077	54	77	Preston County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54077	29.625	106.375	4064.125
+100488	54077	54	77	Preston County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54077	15.0	553.75	25134.25
+100489	54077	54	77	Preston County, West Virginia	61	Educational services	61	0500000US54077	2.5	2.0	29.0
+100490	54077	54	77	Preston County, West Virginia	62	Health care and social assistance	62	0500000US54077	61.375	1139.875	36461.125
+100491	54077	54	77	Preston County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54077	12.0	31.375	687.125
+100492	54077	54	77	Preston County, West Virginia	72	Accommodation and food services	72	0500000US54077	37.5	308.0	4107.625
+100493	54077	54	77	Preston County, West Virginia	81	Other services (except public administration)	81	0500000US54077	55.375	229.125	5159.5
+100494	54077	54	77	Preston County, West Virginia	99	Industries not classified	99	0500000US54077	1.0	0.0	0.0
+100496	54079	54	79	Putnam County	11	Agriculture, forestry, fishing and hunting	11	0500000US54079	2.0	0.0	0.0
+100497	54079	54	79	Putnam County	22	Utilities	22	0500000US54079	6.0	0.0	0.0
+100498	54079	54	79	Putnam County	23	Construction	23	0500000US54079	180.0	1949.0	100500.0
+100499	54079	54	79	Putnam County	42	Wholesale trade	42	0500000US54079	95.0	1771.0	90564.0
+100500	54079	54	79	Putnam County	51	Information	51	0500000US54079	21.0	0.0	0.0
+100501	54079	54	79	Putnam County	52	Finance and insurance	52	0500000US54079	79.0	0.0	22294.0
+100502	54079	54	79	Putnam County	53	Real estate and rental and leasing	53	0500000US54079	56.0	307.0	17478.0
+100503	54079	54	79	Putnam County	54	Professional, scientific, and technical services	54	0500000US54079	104.0	937.0	39845.0
+100504	54079	54	79	Putnam County	55	Management of companies and enterprises	55	0500000US54079	9.0	128.0	6526.0
+100505	54079	54	79	Putnam County	56	Administrative and support and waste management and remediation services	56	0500000US54079	51.0	817.0	32979.0
+100506	54079	54	79	Putnam County	61	Educational services	61	0500000US54079	8.0	56.0	1924.0
+100507	54079	54	79	Putnam County	62	Health care and social assistance	62	0500000US54079	122.0	1766.0	60490.0
+100508	54079	54	79	Putnam County	71	Arts, entertainment, and recreation	71	0500000US54079	21.0	236.0	3290.0
+100509	54079	54	79	Putnam County	72	Accommodation and food services	72	0500000US54079	90.0	1505.0	19140.0
+100510	54079	54	79	Putnam County	81	Other services (except public administration)	81	0500000US54079	112.0	748.0	19751.0
+100511	54079	54	79	Putnam County	99	Industries not classified	99	0500000US54079	2.0	0.0	0.0
+100513	54079	54	79	Putnam County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54079	2.0	0.0	0.0
+100514	54079	54	79	Putnam County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54079	3.0	0.0	0.0
+100515	54079	54	79	Putnam County, West Virginia	22	Utilities	22	0500000US54079	5.625	123.625	13838.875
+100516	54079	54	79	Putnam County, West Virginia	23	Construction	23	0500000US54079	165.125	2198.0	128608.875
+100517	54079	54	79	Putnam County, West Virginia	42	Wholesale trade	42	0500000US54079	84.125	1503.375	83222.875
+100518	54079	54	79	Putnam County, West Virginia	51	Information	51	0500000US54079	26.5	409.375	23868.375
+100519	54079	54	79	Putnam County, West Virginia	52	Finance and insurance	52	0500000US54079	77.625	517.375	27730.375
+100520	54079	54	79	Putnam County, West Virginia	53	Real estate and rental and leasing	53	0500000US54079	57.25	235.875	11447.625
+100521	54079	54	79	Putnam County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54079	93.625	729.5	38284.0
+100522	54079	54	79	Putnam County, West Virginia	55	Management of companies and enterprises	55	0500000US54079	15.0	170.125	14047.875
+100523	54079	54	79	Putnam County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54079	55.125	991.625	39477.25
+100524	54079	54	79	Putnam County, West Virginia	61	Educational services	61	0500000US54079	8.5	79.875	2931.25
+100525	54079	54	79	Putnam County, West Virginia	62	Health care and social assistance	62	0500000US54079	128.625	2189.125	98207.0
+100526	54079	54	79	Putnam County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54079	20.25	227.625	3431.0
+100527	54079	54	79	Putnam County, West Virginia	72	Accommodation and food services	72	0500000US54079	99.625	1807.875	25613.25
+100528	54079	54	79	Putnam County, West Virginia	81	Other services (except public administration)	81	0500000US54079	110.125	721.625	19962.125
+100529	54079	54	79	Putnam County, West Virginia	99	Industries not classified	99	0500000US54079	2.3333333333333335	0.8333333333333334	9.166666666666666
+100531	54081	54	81	Raleigh County	11	Agriculture, forestry, fishing and hunting	11	0500000US54081	5.0	49.0	529.0
+100532	54081	54	81	Raleigh County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54081	29.0	3643.0	298550.0
+100533	54081	54	81	Raleigh County	22	Utilities	22	0500000US54081	8.0	155.0	10335.0
+100534	54081	54	81	Raleigh County	23	Construction	23	0500000US54081	179.0	1258.0	55793.0
+100535	54081	54	81	Raleigh County	42	Wholesale trade	42	0500000US54081	109.0	1381.0	66245.0
+100536	54081	54	81	Raleigh County	51	Information	51	0500000US54081	28.0	585.0	26009.0
+100537	54081	54	81	Raleigh County	52	Finance and insurance	52	0500000US54081	91.0	542.0	23715.0
+100538	54081	54	81	Raleigh County	53	Real estate and rental and leasing	53	0500000US54081	72.0	271.0	9107.0
+100539	54081	54	81	Raleigh County	54	Professional, scientific, and technical services	54	0500000US54081	124.0	843.0	40536.0
+100540	54081	54	81	Raleigh County	55	Management of companies and enterprises	55	0500000US54081	14.0	235.0	45052.0
+100541	54081	54	81	Raleigh County	56	Administrative and support and waste management and remediation services	56	0500000US54081	73.0	1680.0	34415.0
+100542	54081	54	81	Raleigh County	61	Educational services	61	0500000US54081	18.0	0.0	0.0
+100543	54081	54	81	Raleigh County	62	Health care and social assistance	62	0500000US54081	289.0	7598.0	305027.0
+100544	54081	54	81	Raleigh County	71	Arts, entertainment, and recreation	71	0500000US54081	25.0	403.0	4977.0
+100545	54081	54	81	Raleigh County	72	Accommodation and food services	72	0500000US54081	150.0	3279.0	48546.0
+100546	54081	54	81	Raleigh County	81	Other services (except public administration)	81	0500000US54081	184.0	1146.0	27590.0
+100547	54081	54	81	Raleigh County	99	Industries not classified	99	0500000US54081	2.0	0.0	0.0
+100549	54081	54	81	Raleigh County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54081	5.75	25.75	673.25
+100550	54081	54	81	Raleigh County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54081	19.75	1837.375	147667.125
+100551	54081	54	81	Raleigh County, West Virginia	22	Utilities	22	0500000US54081	7.375	159.75	11576.875
+100552	54081	54	81	Raleigh County, West Virginia	23	Construction	23	0500000US54081	149.5	1133.875	52247.875
+100553	54081	54	81	Raleigh County, West Virginia	42	Wholesale trade	42	0500000US54081	100.5	1164.625	54292.125
+100554	54081	54	81	Raleigh County, West Virginia	51	Information	51	0500000US54081	30.25	472.125	20960.5
+100555	54081	54	81	Raleigh County, West Virginia	52	Finance and insurance	52	0500000US54081	89.375	528.625	27374.125
+100556	54081	54	81	Raleigh County, West Virginia	53	Real estate and rental and leasing	53	0500000US54081	71.625	287.875	11757.375
+100557	54081	54	81	Raleigh County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54081	115.75	997.75	42274.625
+100558	54081	54	81	Raleigh County, West Virginia	55	Management of companies and enterprises	55	0500000US54081	16.75	239.75	21663.75
+100559	54081	54	81	Raleigh County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54081	70.0	1523.0	44634.875
+100560	54081	54	81	Raleigh County, West Virginia	61	Educational services	61	0500000US54081	14.125	281.875	4890.0
+100561	54081	54	81	Raleigh County, West Virginia	62	Health care and social assistance	62	0500000US54081	301.5	7004.25	304710.125
+100562	54081	54	81	Raleigh County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54081	24.0	372.0	4968.625
+100563	54081	54	81	Raleigh County, West Virginia	72	Accommodation and food services	72	0500000US54081	142.125	3424.0	52647.0
+100564	54081	54	81	Raleigh County, West Virginia	81	Other services (except public administration)	81	0500000US54081	179.375	1085.125	28485.375
+100565	54081	54	81	Raleigh County, West Virginia	99	Industries not classified	99	0500000US54081	1.8	0.6	33.6
+100567	54083	54	83	Randolph County	11	Agriculture, forestry, fishing and hunting	11	0500000US54083	11.0	43.0	959.0
+100568	54083	54	83	Randolph County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54083	3.0	0.0	0.0
+100569	54083	54	83	Randolph County	22	Utilities	22	0500000US54083	4.0	0.0	0.0
+100570	54083	54	83	Randolph County	23	Construction	23	0500000US54083	74.0	314.0	9318.0
+100571	54083	54	83	Randolph County	42	Wholesale trade	42	0500000US54083	29.0	260.0	9405.0
+100572	54083	54	83	Randolph County	51	Information	51	0500000US54083	11.0	123.0	4364.0
+100573	54083	54	83	Randolph County	52	Finance and insurance	52	0500000US54083	34.0	270.0	10270.0
+100574	54083	54	83	Randolph County	53	Real estate and rental and leasing	53	0500000US54083	21.0	99.0	3474.0
+100575	54083	54	83	Randolph County	54	Professional, scientific, and technical services	54	0500000US54083	49.0	220.0	6882.0
+100576	54083	54	83	Randolph County	55	Management of companies and enterprises	55	0500000US54083	2.0	0.0	0.0
+100577	54083	54	83	Randolph County	56	Administrative and support and waste management and remediation services	56	0500000US54083	16.0	0.0	7822.0
+100578	54083	54	83	Randolph County	61	Educational services	61	0500000US54083	3.0	0.0	0.0
+100579	54083	54	83	Randolph County	62	Health care and social assistance	62	0500000US54083	107.0	2886.0	85295.0
+100580	54083	54	83	Randolph County	71	Arts, entertainment, and recreation	71	0500000US54083	16.0	109.0	1296.0
+100581	54083	54	83	Randolph County	72	Accommodation and food services	72	0500000US54083	54.0	761.0	10776.0
+100582	54083	54	83	Randolph County	81	Other services (except public administration)	81	0500000US54083	69.0	312.0	6529.0
+100584	54083	54	83	Randolph County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54083	13.25	47.125	1151.375
+100585	54083	54	83	Randolph County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54083	3.375	79.375	6231.5
+100586	54083	54	83	Randolph County, West Virginia	22	Utilities	22	0500000US54083	4.0	27.375	2529.875
+100587	54083	54	83	Randolph County, West Virginia	23	Construction	23	0500000US54083	60.0	247.625	8907.875
+100588	54083	54	83	Randolph County, West Virginia	42	Wholesale trade	42	0500000US54083	24.375	259.375	11144.5
+100589	54083	54	83	Randolph County, West Virginia	51	Information	51	0500000US54083	9.375	116.875	3917.375
+100590	54083	54	83	Randolph County, West Virginia	52	Finance and insurance	52	0500000US54083	35.25	252.25	10561.125
+100591	54083	54	83	Randolph County, West Virginia	53	Real estate and rental and leasing	53	0500000US54083	22.0	114.875	3914.875
+100592	54083	54	83	Randolph County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54083	44.625	212.0	6979.25
+100593	54083	54	83	Randolph County, West Virginia	55	Management of companies and enterprises	55	0500000US54083	2.4285714285714284	18.857142857142858	501.7142857142857
+100594	54083	54	83	Randolph County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54083	16.5	199.0	5597.5
+100595	54083	54	83	Randolph County, West Virginia	61	Educational services	61	0500000US54083	3.75	189.0	3305.875
+100596	54083	54	83	Randolph County, West Virginia	62	Health care and social assistance	62	0500000US54083	96.25	2775.75	87693.75
+100597	54083	54	83	Randolph County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54083	14.375	99.625	1209.0
+100598	54083	54	83	Randolph County, West Virginia	72	Accommodation and food services	72	0500000US54083	59.25	856.125	12146.875
+100599	54083	54	83	Randolph County, West Virginia	81	Other services (except public administration)	81	0500000US54083	71.125	329.625	7474.625
+100600	54083	54	83	Randolph County, West Virginia	99	Industries not classified	99	0500000US54083	1.6666666666666667	0.0	0.0
+100602	54085	54	85	Ritchie County	11	Agriculture, forestry, fishing and hunting	11	0500000US54085	1.0	0.0	0.0
+100603	54085	54	85	Ritchie County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54085	27.0	315.0	16723.0
+100604	54085	54	85	Ritchie County	22	Utilities	22	0500000US54085	2.0	0.0	0.0
+100605	54085	54	85	Ritchie County	23	Construction	23	0500000US54085	20.0	0.0	0.0
+100606	54085	54	85	Ritchie County	42	Wholesale trade	42	0500000US54085	7.0	86.0	5663.0
+100607	54085	54	85	Ritchie County	51	Information	51	0500000US54085	2.0	0.0	0.0
+100608	54085	54	85	Ritchie County	52	Finance and insurance	52	0500000US54085	12.0	79.0	2545.0
+100609	54085	54	85	Ritchie County	53	Real estate and rental and leasing	53	0500000US54085	4.0	0.0	80.0
+100610	54085	54	85	Ritchie County	54	Professional, scientific, and technical services	54	0500000US54085	15.0	0.0	1608.0
+100611	54085	54	85	Ritchie County	56	Administrative and support and waste management and remediation services	56	0500000US54085	4.0	0.0	0.0
+100612	54085	54	85	Ritchie County	61	Educational services	61	0500000US54085	1.0	0.0	0.0
+100613	54085	54	85	Ritchie County	62	Health care and social assistance	62	0500000US54085	18.0	0.0	0.0
+100614	54085	54	85	Ritchie County	71	Arts, entertainment, and recreation	71	0500000US54085	4.0	14.0	193.0
+100615	54085	54	85	Ritchie County	72	Accommodation and food services	72	0500000US54085	17.0	159.0	1828.0
+100616	54085	54	85	Ritchie County	81	Other services (except public administration)	81	0500000US54085	19.0	0.0	1098.0
+100618	54085	54	85	Ritchie County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54085	1.0	0.0	0.0
+100619	54085	54	85	Ritchie County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54085	22.625	310.125	18678.875
+100620	54085	54	85	Ritchie County, West Virginia	22	Utilities	22	0500000US54085	2.3333333333333335	4.666666666666667	514.5
+100621	54085	54	85	Ritchie County, West Virginia	23	Construction	23	0500000US54085	16.625	85.25	3363.125
+100622	54085	54	85	Ritchie County, West Virginia	42	Wholesale trade	42	0500000US54085	6.5	58.25	5278.875
+100623	54085	54	85	Ritchie County, West Virginia	51	Information	51	0500000US54085	1.25	0.0	0.0
+100624	54085	54	85	Ritchie County, West Virginia	52	Finance and insurance	52	0500000US54085	13.375	78.875	2755.25
+100625	54085	54	85	Ritchie County, West Virginia	53	Real estate and rental and leasing	53	0500000US54085	3.25	4.75	81.625
+100626	54085	54	85	Ritchie County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54085	11.25	66.75	2586.375
+100627	54085	54	85	Ritchie County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54085	5.125	37.375	835.125
+100628	54085	54	85	Ritchie County, West Virginia	61	Educational services	61	0500000US54085	1.0	0.0	0.0
+100629	54085	54	85	Ritchie County, West Virginia	62	Health care and social assistance	62	0500000US54085	17.625	152.125	4580.125
+100630	54085	54	85	Ritchie County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54085	3.875	7.5	233.625
+100631	54085	54	85	Ritchie County, West Virginia	72	Accommodation and food services	72	0500000US54085	15.875	193.875	2872.875
+100632	54085	54	85	Ritchie County, West Virginia	81	Other services (except public administration)	81	0500000US54085	20.75	76.625	1248.0
+100634	54087	54	87	Roane County	11	Agriculture, forestry, fishing and hunting	11	0500000US54087	2.0	0.0	0.0
+100635	54087	54	87	Roane County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54087	46.0	220.0	8240.0
+100636	54087	54	87	Roane County	22	Utilities	22	0500000US54087	2.0	0.0	0.0
+100637	54087	54	87	Roane County	23	Construction	23	0500000US54087	25.0	75.0	3496.0
+100638	54087	54	87	Roane County	42	Wholesale trade	42	0500000US54087	9.0	82.0	2212.0
+100639	54087	54	87	Roane County	51	Information	51	0500000US54087	3.0	0.0	0.0
+100640	54087	54	87	Roane County	52	Finance and insurance	52	0500000US54087	12.0	96.0	3553.0
+100641	54087	54	87	Roane County	53	Real estate and rental and leasing	53	0500000US54087	10.0	0.0	464.0
+100642	54087	54	87	Roane County	54	Professional, scientific, and technical services	54	0500000US54087	16.0	43.0	1329.0
+100643	54087	54	87	Roane County	55	Management of companies and enterprises	55	0500000US54087	1.0	0.0	0.0
+100644	54087	54	87	Roane County	56	Administrative and support and waste management and remediation services	56	0500000US54087	4.0	0.0	0.0
+100645	54087	54	87	Roane County	61	Educational services	61	0500000US54087	2.0	0.0	0.0
+100646	54087	54	87	Roane County	62	Health care and social assistance	62	0500000US54087	22.0	0.0	0.0
+100647	54087	54	87	Roane County	71	Arts, entertainment, and recreation	71	0500000US54087	2.0	0.0	0.0
+100648	54087	54	87	Roane County	72	Accommodation and food services	72	0500000US54087	13.0	227.0	2636.0
+100649	54087	54	87	Roane County	81	Other services (except public administration)	81	0500000US54087	16.0	42.0	759.0
+100651	54087	54	87	Roane County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54087	1.25	0.0	0.0
+100652	54087	54	87	Roane County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54087	40.875	210.375	9333.375
+100653	54087	54	87	Roane County, West Virginia	22	Utilities	22	0500000US54087	3.375	10.375	970.25
+100654	54087	54	87	Roane County, West Virginia	23	Construction	23	0500000US54087	22.875	106.125	7627.125
+100655	54087	54	87	Roane County, West Virginia	42	Wholesale trade	42	0500000US54087	6.5	67.625	2113.0
+100656	54087	54	87	Roane County, West Virginia	51	Information	51	0500000US54087	2.3333333333333335	1.5	78.83333333333333
+100657	54087	54	87	Roane County, West Virginia	52	Finance and insurance	52	0500000US54087	13.0	98.5	3893.75
+100658	54087	54	87	Roane County, West Virginia	53	Real estate and rental and leasing	53	0500000US54087	8.75	14.0	297.125
+100659	54087	54	87	Roane County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54087	13.75	36.75	1409.375
+100660	54087	54	87	Roane County, West Virginia	55	Management of companies and enterprises	55	0500000US54087	1.0	0.0	0.0
+100661	54087	54	87	Roane County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54087	3.0	0.6666666666666666	14.333333333333334
+100662	54087	54	87	Roane County, West Virginia	61	Educational services	61	0500000US54087	2.0	0.0	0.0
+100663	54087	54	87	Roane County, West Virginia	62	Health care and social assistance	62	0500000US54087	24.75	503.5	19561.375
+100664	54087	54	87	Roane County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54087	1.25	0.0	0.0
+100665	54087	54	87	Roane County, West Virginia	72	Accommodation and food services	72	0500000US54087	11.75	195.25	2607.5
+100666	54087	54	87	Roane County, West Virginia	81	Other services (except public administration)	81	0500000US54087	15.5	33.625	898.25
+100667	54087	54	87	Roane County, West Virginia	99	Industries not classified	99	0500000US54087	1.0	0.0	0.0
+100669	54089	54	89	Summers County	11	Agriculture, forestry, fishing and hunting	11	0500000US54089	2.0	0.0	0.0
+100670	54089	54	89	Summers County	22	Utilities	22	0500000US54089	3.0	0.0	0.0
+100671	54089	54	89	Summers County	23	Construction	23	0500000US54089	10.0	31.0	862.0
+100672	54089	54	89	Summers County	42	Wholesale trade	42	0500000US54089	6.0	0.0	0.0
+100673	54089	54	89	Summers County	51	Information	51	0500000US54089	4.0	0.0	0.0
+100674	54089	54	89	Summers County	52	Finance and insurance	52	0500000US54089	6.0	0.0	1240.0
+100675	54089	54	89	Summers County	53	Real estate and rental and leasing	53	0500000US54089	3.0	0.0	118.0
+100676	54089	54	89	Summers County	54	Professional, scientific, and technical services	54	0500000US54089	12.0	135.0	4419.0
+100677	54089	54	89	Summers County	56	Administrative and support and waste management and remediation services	56	0500000US54089	7.0	0.0	0.0
+100678	54089	54	89	Summers County	62	Health care and social assistance	62	0500000US54089	20.0	423.0	12457.0
+100679	54089	54	89	Summers County	71	Arts, entertainment, and recreation	71	0500000US54089	1.0	0.0	0.0
+100680	54089	54	89	Summers County	72	Accommodation and food services	72	0500000US54089	19.0	233.0	2845.0
+100681	54089	54	89	Summers County	81	Other services (except public administration)	81	0500000US54089	25.0	78.0	1282.0
+100683	54089	54	89	Summers County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54089	3.75	14.0	463.875
+100684	54089	54	89	Summers County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54089	1.0	0.0	0.0
+100685	54089	54	89	Summers County, West Virginia	22	Utilities	22	0500000US54089	3.125	6.5	644.0
+100686	54089	54	89	Summers County, West Virginia	23	Construction	23	0500000US54089	11.125	27.125	1315.375
+100687	54089	54	89	Summers County, West Virginia	42	Wholesale trade	42	0500000US54089	6.125	85.375	5105.625
+100688	54089	54	89	Summers County, West Virginia	51	Information	51	0500000US54089	2.75	2.375	191.0
+100689	54089	54	89	Summers County, West Virginia	52	Finance and insurance	52	0500000US54089	7.0	42.625	1365.75
+100690	54089	54	89	Summers County, West Virginia	53	Real estate and rental and leasing	53	0500000US54089	3.75	11.5	173.375
+100691	54089	54	89	Summers County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54089	11.875	35.625	1243.0
+100692	54089	54	89	Summers County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54089	5.25	29.625	717.875
+100693	54089	54	89	Summers County, West Virginia	61	Educational services	61	0500000US54089	1.0	0.0	0.0
+100694	54089	54	89	Summers County, West Virginia	62	Health care and social assistance	62	0500000US54089	21.375	424.625	14196.875
+100695	54089	54	89	Summers County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54089	2.4285714285714284	2.4285714285714284	69.28571428571429
+100696	54089	54	89	Summers County, West Virginia	72	Accommodation and food services	72	0500000US54089	13.375	177.0	2427.75
+100697	54089	54	89	Summers County, West Virginia	81	Other services (except public administration)	81	0500000US54089	26.875	76.625	1347.5
+100699	54091	54	91	Taylor County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54091	2.0	0.0	0.0
+100700	54091	54	91	Taylor County	22	Utilities	22	0500000US54091	2.0	0.0	0.0
+100701	54091	54	91	Taylor County	23	Construction	23	0500000US54091	39.0	180.0	6954.0
+100702	54091	54	91	Taylor County	42	Wholesale trade	42	0500000US54091	8.0	0.0	0.0
+100703	54091	54	91	Taylor County	51	Information	51	0500000US54091	4.0	29.0	828.0
+100704	54091	54	91	Taylor County	52	Finance and insurance	52	0500000US54091	6.0	0.0	977.0
+100705	54091	54	91	Taylor County	53	Real estate and rental and leasing	53	0500000US54091	2.0	0.0	0.0
+100706	54091	54	91	Taylor County	54	Professional, scientific, and technical services	54	0500000US54091	11.0	0.0	0.0
+100707	54091	54	91	Taylor County	56	Administrative and support and waste management and remediation services	56	0500000US54091	5.0	0.0	0.0
+100708	54091	54	91	Taylor County	62	Health care and social assistance	62	0500000US54091	27.0	556.0	17636.0
+100709	54091	54	91	Taylor County	71	Arts, entertainment, and recreation	71	0500000US54091	4.0	0.0	268.0
+100710	54091	54	91	Taylor County	72	Accommodation and food services	72	0500000US54091	25.0	324.0	3084.0
+100711	54091	54	91	Taylor County	81	Other services (except public administration)	81	0500000US54091	45.0	133.0	2466.0
+100713	54091	54	91	Taylor County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54091	2.25	0.0	0.0
+100714	54091	54	91	Taylor County, West Virginia	22	Utilities	22	0500000US54091	2.0	0.0	0.0
+100715	54091	54	91	Taylor County, West Virginia	23	Construction	23	0500000US54091	33.625	145.25	6389.5
+100716	54091	54	91	Taylor County, West Virginia	42	Wholesale trade	42	0500000US54091	6.625	17.5	436.375
+100717	54091	54	91	Taylor County, West Virginia	51	Information	51	0500000US54091	3.5714285714285716	15.571428571428571	371.85714285714283
+100718	54091	54	91	Taylor County, West Virginia	52	Finance and insurance	52	0500000US54091	6.125	40.25	1256.5
+100719	54091	54	91	Taylor County, West Virginia	53	Real estate and rental and leasing	53	0500000US54091	3.142857142857143	3.2857142857142856	105.57142857142857
+100720	54091	54	91	Taylor County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54091	12.125	32.5	2062.375
+100721	54091	54	91	Taylor County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54091	8.125	38.625	2850.125
+100722	54091	54	91	Taylor County, West Virginia	61	Educational services	61	0500000US54091	1.0	0.0	0.0
+100723	54091	54	91	Taylor County, West Virginia	62	Health care and social assistance	62	0500000US54091	31.5	637.0	20760.625
+100724	54091	54	91	Taylor County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54091	3.4285714285714284	11.714285714285714	299.42857142857144
+100725	54091	54	91	Taylor County, West Virginia	72	Accommodation and food services	72	0500000US54091	22.125	260.625	2762.75
+100726	54091	54	91	Taylor County, West Virginia	81	Other services (except public administration)	81	0500000US54091	37.0	81.0	1967.5
+100727	54091	54	91	Taylor County, West Virginia	99	Industries not classified	99	0500000US54091	1.0	0.0	0.0
+100729	54093	54	93	Tucker County	11	Agriculture, forestry, fishing and hunting	11	0500000US54093	2.0	0.0	0.0
+100730	54093	54	93	Tucker County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54093	1.0	0.0	0.0
+100731	54093	54	93	Tucker County	22	Utilities	22	0500000US54093	2.0	0.0	0.0
+100732	54093	54	93	Tucker County	23	Construction	23	0500000US54093	17.0	0.0	1836.0
+100733	54093	54	93	Tucker County	42	Wholesale trade	42	0500000US54093	1.0	0.0	0.0
+100734	54093	54	93	Tucker County	51	Information	51	0500000US54093	2.0	0.0	0.0
+100735	54093	54	93	Tucker County	52	Finance and insurance	52	0500000US54093	10.0	52.0	1452.0
+100736	54093	54	93	Tucker County	53	Real estate and rental and leasing	53	0500000US54093	10.0	0.0	904.0
+100737	54093	54	93	Tucker County	54	Professional, scientific, and technical services	54	0500000US54093	7.0	0.0	437.0
+100738	54093	54	93	Tucker County	55	Management of companies and enterprises	55	0500000US54093	1.0	0.0	0.0
+100739	54093	54	93	Tucker County	56	Administrative and support and waste management and remediation services	56	0500000US54093	5.0	0.0	0.0
+100740	54093	54	93	Tucker County	61	Educational services	61	0500000US54093	1.0	0.0	0.0
+100741	54093	54	93	Tucker County	62	Health care and social assistance	62	0500000US54093	10.0	280.0	6503.0
+100742	54093	54	93	Tucker County	71	Arts, entertainment, and recreation	71	0500000US54093	10.0	331.0	3064.0
+100743	54093	54	93	Tucker County	72	Accommodation and food services	72	0500000US54093	33.0	310.0	3670.0
+100744	54093	54	93	Tucker County	81	Other services (except public administration)	81	0500000US54093	15.0	99.0	2527.0
+100745	54093	54	93	Tucker County	99	Industries not classified	99	0500000US54093	1.0	0.0	0.0
+100747	54093	54	93	Tucker County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54093	2.4285714285714284	5.714285714285714	264.7142857142857
+100748	54093	54	93	Tucker County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54093	1.0	0.0	0.0
+100749	54093	54	93	Tucker County, West Virginia	22	Utilities	22	0500000US54093	2.3333333333333335	7.833333333333333	324.1666666666667
+100750	54093	54	93	Tucker County, West Virginia	23	Construction	23	0500000US54093	16.625	60.125	2676.875
+100751	54093	54	93	Tucker County, West Virginia	42	Wholesale trade	42	0500000US54093	1.0	0.0	0.0
+100752	54093	54	93	Tucker County, West Virginia	51	Information	51	0500000US54093	3.0	0.0	0.0
+100753	54093	54	93	Tucker County, West Virginia	52	Finance and insurance	52	0500000US54093	9.5	43.5	1244.375
+100754	54093	54	93	Tucker County, West Virginia	53	Real estate and rental and leasing	53	0500000US54093	9.625	45.625	1425.875
+100755	54093	54	93	Tucker County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54093	6.857142857142857	10.571428571428571	238.85714285714286
+100756	54093	54	93	Tucker County, West Virginia	55	Management of companies and enterprises	55	0500000US54093	1.0	0.0	0.0
+100757	54093	54	93	Tucker County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54093	4.25	39.5	1365.5
+100758	54093	54	93	Tucker County, West Virginia	61	Educational services	61	0500000US54093	1.0	0.0	0.0
+100759	54093	54	93	Tucker County, West Virginia	62	Health care and social assistance	62	0500000US54093	9.875	295.0	8671.5
+100760	54093	54	93	Tucker County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54093	7.625	233.75	1831.125
+100761	54093	54	93	Tucker County, West Virginia	72	Accommodation and food services	72	0500000US54093	27.125	432.125	5190.125
+100762	54093	54	93	Tucker County, West Virginia	81	Other services (except public administration)	81	0500000US54093	13.75	89.25	2230.125
+100763	54093	54	93	Tucker County, West Virginia	99	Industries not classified	99	0500000US54093	1.0	0.0	0.0
+100765	54095	54	95	Tyler County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54095	1.0	0.0	0.0
+100766	54095	54	95	Tyler County	22	Utilities	22	0500000US54095	2.0	0.0	0.0
+100767	54095	54	95	Tyler County	23	Construction	23	0500000US54095	11.0	65.0	3070.0
+100768	54095	54	95	Tyler County	51	Information	51	0500000US54095	1.0	0.0	0.0
+100769	54095	54	95	Tyler County	52	Finance and insurance	52	0500000US54095	8.0	0.0	3481.0
+100770	54095	54	95	Tyler County	53	Real estate and rental and leasing	53	0500000US54095	1.0	0.0	0.0
+100771	54095	54	95	Tyler County	54	Professional, scientific, and technical services	54	0500000US54095	8.0	0.0	270.0
+100772	54095	54	95	Tyler County	56	Administrative and support and waste management and remediation services	56	0500000US54095	4.0	0.0	0.0
+100773	54095	54	95	Tyler County	62	Health care and social assistance	62	0500000US54095	12.0	524.0	12661.0
+100774	54095	54	95	Tyler County	71	Arts, entertainment, and recreation	71	0500000US54095	4.0	0.0	0.0
+100775	54095	54	95	Tyler County	72	Accommodation and food services	72	0500000US54095	6.0	69.0	705.0
+100776	54095	54	95	Tyler County	81	Other services (except public administration)	81	0500000US54095	26.0	86.0	1052.0
+100778	54095	54	95	Tyler County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54095	1.0	0.0	0.0
+100779	54095	54	95	Tyler County, West Virginia	22	Utilities	22	0500000US54095	2.0	0.0	0.0
+100780	54095	54	95	Tyler County, West Virginia	23	Construction	23	0500000US54095	9.125	31.625	1180.375
+100781	54095	54	95	Tyler County, West Virginia	51	Information	51	0500000US54095	2.0	3.6666666666666665	147.66666666666666
+100782	54095	54	95	Tyler County, West Virginia	52	Finance and insurance	52	0500000US54095	7.5	52.25	1535.25
+100783	54095	54	95	Tyler County, West Virginia	53	Real estate and rental and leasing	53	0500000US54095	1.0	0.0	0.0
+100784	54095	54	95	Tyler County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54095	6.0	16.625	451.125
+100785	54095	54	95	Tyler County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54095	3.5	5.875	235.25
+100786	54095	54	95	Tyler County, West Virginia	62	Health care and social assistance	62	0500000US54095	17.125	425.0	11760.0
+100787	54095	54	95	Tyler County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54095	3.0	4.125	61.125
+100788	54095	54	95	Tyler County, West Virginia	72	Accommodation and food services	72	0500000US54095	7.75	81.75	897.0
+100789	54095	54	95	Tyler County, West Virginia	81	Other services (except public administration)	81	0500000US54095	23.125	65.25	982.0
+100790	54095	54	95	Tyler County, West Virginia	99	Industries not classified	99	0500000US54095	1.5	0.0	0.0
+100792	54097	54	97	Upshur County	11	Agriculture, forestry, fishing and hunting	11	0500000US54097	7.0	0.0	0.0
+100793	54097	54	97	Upshur County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54097	31.0	729.0	42423.0
+100794	54097	54	97	Upshur County	22	Utilities	22	0500000US54097	2.0	0.0	0.0
+100795	54097	54	97	Upshur County	23	Construction	23	0500000US54097	75.0	640.0	29630.0
+100796	54097	54	97	Upshur County	42	Wholesale trade	42	0500000US54097	16.0	0.0	12443.0
+100797	54097	54	97	Upshur County	51	Information	51	0500000US54097	7.0	88.0	4615.0
+100798	54097	54	97	Upshur County	52	Finance and insurance	52	0500000US54097	20.0	122.0	4821.0
+100799	54097	54	97	Upshur County	53	Real estate and rental and leasing	53	0500000US54097	19.0	64.0	1847.0
+100800	54097	54	97	Upshur County	54	Professional, scientific, and technical services	54	0500000US54097	38.0	223.0	6303.0
+100801	54097	54	97	Upshur County	55	Management of companies and enterprises	55	0500000US54097	3.0	0.0	1222.0
+100802	54097	54	97	Upshur County	56	Administrative and support and waste management and remediation services	56	0500000US54097	12.0	0.0	761.0
+100803	54097	54	97	Upshur County	61	Educational services	61	0500000US54097	3.0	0.0	0.0
+100804	54097	54	97	Upshur County	62	Health care and social assistance	62	0500000US54097	75.0	1610.0	46274.0
+100805	54097	54	97	Upshur County	71	Arts, entertainment, and recreation	71	0500000US54097	7.0	39.0	396.0
+100806	54097	54	97	Upshur County	72	Accommodation and food services	72	0500000US54097	48.0	623.0	8707.0
+100807	54097	54	97	Upshur County	81	Other services (except public administration)	81	0500000US54097	55.0	197.0	3340.0
+100809	54097	54	97	Upshur County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54097	7.0	31.75	678.375
+100810	54097	54	97	Upshur County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54097	24.5	327.25	18441.5
+100811	54097	54	97	Upshur County, West Virginia	22	Utilities	22	0500000US54097	2.0	0.0	0.0
+100812	54097	54	97	Upshur County, West Virginia	23	Construction	23	0500000US54097	65.0	571.375	29506.125
+100813	54097	54	97	Upshur County, West Virginia	42	Wholesale trade	42	0500000US54097	14.25	233.25	12250.875
+100814	54097	54	97	Upshur County, West Virginia	51	Information	51	0500000US54097	9.625	92.75	4353.5
+100815	54097	54	97	Upshur County, West Virginia	52	Finance and insurance	52	0500000US54097	19.5	101.125	4368.5
+100816	54097	54	97	Upshur County, West Virginia	53	Real estate and rental and leasing	53	0500000US54097	18.0	85.0	2843.75
+100817	54097	54	97	Upshur County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54097	37.875	215.125	8020.125
+100818	54097	54	97	Upshur County, West Virginia	55	Management of companies and enterprises	55	0500000US54097	2.2	2.8	213.2
+100819	54097	54	97	Upshur County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54097	14.625	65.125	1485.375
+100820	54097	54	97	Upshur County, West Virginia	61	Educational services	61	0500000US54097	2.2	0.0	0.0
+100821	54097	54	97	Upshur County, West Virginia	62	Health care and social assistance	62	0500000US54097	77.25	1436.25	52487.125
+100822	54097	54	97	Upshur County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54097	6.875	43.5	547.5
+100823	54097	54	97	Upshur County, West Virginia	72	Accommodation and food services	72	0500000US54097	52.0	684.75	9433.0
+100824	54097	54	97	Upshur County, West Virginia	81	Other services (except public administration)	81	0500000US54097	50.875	189.375	3695.25
+100825	54097	54	97	Upshur County, West Virginia	99	Industries not classified	99	0500000US54097	1.0	0.0	0.0
+100827	54099	54	99	Wayne County	11	Agriculture, forestry, fishing and hunting	11	0500000US54099	1.0	0.0	0.0
+100828	54099	54	99	Wayne County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54099	8.0	936.0	78644.0
+100829	54099	54	99	Wayne County	22	Utilities	22	0500000US54099	3.0	0.0	0.0
+100830	54099	54	99	Wayne County	23	Construction	23	0500000US54099	49.0	333.0	11771.0
+100831	54099	54	99	Wayne County	42	Wholesale trade	42	0500000US54099	19.0	326.0	17532.0
+100832	54099	54	99	Wayne County	51	Information	51	0500000US54099	7.0	0.0	0.0
+100833	54099	54	99	Wayne County	52	Finance and insurance	52	0500000US54099	31.0	129.0	4025.0
+100834	54099	54	99	Wayne County	53	Real estate and rental and leasing	53	0500000US54099	16.0	55.0	931.0
+100835	54099	54	99	Wayne County	54	Professional, scientific, and technical services	54	0500000US54099	22.0	146.0	5567.0
+100836	54099	54	99	Wayne County	55	Management of companies and enterprises	55	0500000US54099	4.0	0.0	0.0
+100837	54099	54	99	Wayne County	56	Administrative and support and waste management and remediation services	56	0500000US54099	17.0	0.0	1714.0
+100838	54099	54	99	Wayne County	61	Educational services	61	0500000US54099	1.0	0.0	0.0
+100839	54099	54	99	Wayne County	62	Health care and social assistance	62	0500000US54099	72.0	0.0	0.0
+100840	54099	54	99	Wayne County	71	Arts, entertainment, and recreation	71	0500000US54099	14.0	96.0	1900.0
+100841	54099	54	99	Wayne County	72	Accommodation and food services	72	0500000US54099	50.0	629.0	7694.0
+100842	54099	54	99	Wayne County	81	Other services (except public administration)	81	0500000US54099	59.0	265.0	5774.0
+100843	54099	54	99	Wayne County	99	Industries not classified	99	0500000US54099	1.0	0.0	0.0
+100845	54099	54	99	Wayne County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54099	1.0	0.0	0.0
+100846	54099	54	99	Wayne County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54099	7.625	436.0	28688.875
+100847	54099	54	99	Wayne County, West Virginia	22	Utilities	22	0500000US54099	3.125	4.875	440.25
+100848	54099	54	99	Wayne County, West Virginia	23	Construction	23	0500000US54099	46.625	280.125	12589.875
+100849	54099	54	99	Wayne County, West Virginia	42	Wholesale trade	42	0500000US54099	18.375	346.25	21006.5
+100850	54099	54	99	Wayne County, West Virginia	51	Information	51	0500000US54099	6.375	12.5	880.5
+100851	54099	54	99	Wayne County, West Virginia	52	Finance and insurance	52	0500000US54099	27.0	104.125	3567.75
+100852	54099	54	99	Wayne County, West Virginia	53	Real estate and rental and leasing	53	0500000US54099	16.25	46.875	1336.375
+100853	54099	54	99	Wayne County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54099	19.75	142.125	5986.375
+100854	54099	54	99	Wayne County, West Virginia	55	Management of companies and enterprises	55	0500000US54099	4.25	68.75	3442.125
+100855	54099	54	99	Wayne County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54099	18.5	54.375	1869.5
+100856	54099	54	99	Wayne County, West Virginia	61	Educational services	61	0500000US54099	2.0	9.0	245.0
+100857	54099	54	99	Wayne County, West Virginia	62	Health care and social assistance	62	0500000US54099	64.75	1538.625	91484.875
+100858	54099	54	99	Wayne County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54099	15.75	94.0	2095.125
+100859	54099	54	99	Wayne County, West Virginia	72	Accommodation and food services	72	0500000US54099	46.75	675.25	9516.0
+100860	54099	54	99	Wayne County, West Virginia	81	Other services (except public administration)	81	0500000US54099	57.75	223.375	5131.5
+100861	54099	54	99	Wayne County, West Virginia	99	Industries not classified	99	0500000US54099	1.75	0.0	10.5
+100863	54101	54	101	Webster County	11	Agriculture, forestry, fishing and hunting	11	0500000US54101	17.0	0.0	681.0
+100864	54101	54	101	Webster County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54101	2.0	0.0	0.0
+100865	54101	54	101	Webster County	22	Utilities	22	0500000US54101	2.0	0.0	0.0
+100866	54101	54	101	Webster County	23	Construction	23	0500000US54101	6.0	0.0	0.0
+100867	54101	54	101	Webster County	42	Wholesale trade	42	0500000US54101	3.0	0.0	0.0
+100868	54101	54	101	Webster County	51	Information	51	0500000US54101	5.0	0.0	0.0
+100869	54101	54	101	Webster County	52	Finance and insurance	52	0500000US54101	6.0	0.0	0.0
+100870	54101	54	101	Webster County	53	Real estate and rental and leasing	53	0500000US54101	3.0	0.0	0.0
+100871	54101	54	101	Webster County	54	Professional, scientific, and technical services	54	0500000US54101	5.0	6.0	198.0
+100872	54101	54	101	Webster County	56	Administrative and support and waste management and remediation services	56	0500000US54101	3.0	0.0	308.0
+100873	54101	54	101	Webster County	62	Health care and social assistance	62	0500000US54101	13.0	445.0	11979.0
+100874	54101	54	101	Webster County	71	Arts, entertainment, and recreation	71	0500000US54101	2.0	0.0	0.0
+100875	54101	54	101	Webster County	72	Accommodation and food services	72	0500000US54101	11.0	68.0	809.0
+100876	54101	54	101	Webster County	81	Other services (except public administration)	81	0500000US54101	12.0	23.0	241.0
+100878	54101	54	101	Webster County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54101	20.75	48.25	1103.375
+100879	54101	54	101	Webster County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54101	1.25	0.0	0.0
+100880	54101	54	101	Webster County, West Virginia	22	Utilities	22	0500000US54101	2.5	0.0	0.0
+100881	54101	54	101	Webster County, West Virginia	23	Construction	23	0500000US54101	5.75	13.875	425.875
+100882	54101	54	101	Webster County, West Virginia	42	Wholesale trade	42	0500000US54101	2.25	0.0	0.0
+100883	54101	54	101	Webster County, West Virginia	51	Information	51	0500000US54101	3.25	0.0	0.0
+100884	54101	54	101	Webster County, West Virginia	52	Finance and insurance	52	0500000US54101	5.375	20.375	618.75
+100885	54101	54	101	Webster County, West Virginia	53	Real estate and rental and leasing	53	0500000US54101	2.5	0.0	0.0
+100886	54101	54	101	Webster County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54101	4.875	6.625	133.625
+100887	54101	54	101	Webster County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54101	3.125	8.375	193.875
+100888	54101	54	101	Webster County, West Virginia	62	Health care and social assistance	62	0500000US54101	15.0	434.5	14994.25
+100889	54101	54	101	Webster County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54101	2.0	0.0	0.0
+100890	54101	54	101	Webster County, West Virginia	72	Accommodation and food services	72	0500000US54101	7.75	44.875	698.0
+100891	54101	54	101	Webster County, West Virginia	81	Other services (except public administration)	81	0500000US54101	10.0	18.125	290.25
+100893	54103	54	103	Wetzel County	11	Agriculture, forestry, fishing and hunting	11	0500000US54103	5.0	0.0	558.0
+100894	54103	54	103	Wetzel County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54103	3.0	9.0	102.0
+100895	54103	54	103	Wetzel County	23	Construction	23	0500000US54103	25.0	217.0	9525.0
+100896	54103	54	103	Wetzel County	42	Wholesale trade	42	0500000US54103	13.0	0.0	2430.0
+100897	54103	54	103	Wetzel County	51	Information	51	0500000US54103	9.0	0.0	0.0
+100898	54103	54	103	Wetzel County	52	Finance and insurance	52	0500000US54103	27.0	0.0	3644.0
+100899	54103	54	103	Wetzel County	53	Real estate and rental and leasing	53	0500000US54103	13.0	34.0	962.0
+100900	54103	54	103	Wetzel County	54	Professional, scientific, and technical services	54	0500000US54103	20.0	127.0	3779.0
+100901	54103	54	103	Wetzel County	55	Management of companies and enterprises	55	0500000US54103	4.0	0.0	0.0
+100902	54103	54	103	Wetzel County	56	Administrative and support and waste management and remediation services	56	0500000US54103	11.0	0.0	861.0
+100903	54103	54	103	Wetzel County	61	Educational services	61	0500000US54103	2.0	0.0	0.0
+100904	54103	54	103	Wetzel County	62	Health care and social assistance	62	0500000US54103	42.0	733.0	21094.0
+100905	54103	54	103	Wetzel County	71	Arts, entertainment, and recreation	71	0500000US54103	2.0	0.0	0.0
+100906	54103	54	103	Wetzel County	72	Accommodation and food services	72	0500000US54103	41.0	621.0	6372.0
+100907	54103	54	103	Wetzel County	81	Other services (except public administration)	81	0500000US54103	52.0	246.0	3314.0
+100909	54103	54	103	Wetzel County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54103	3.5	13.625	760.75
+100910	54103	54	103	Wetzel County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54103	6.0	14.125	1090.625
+100911	54103	54	103	Wetzel County, West Virginia	23	Construction	23	0500000US54103	20.625	206.125	10095.0
+100912	54103	54	103	Wetzel County, West Virginia	42	Wholesale trade	42	0500000US54103	10.375	76.0	2631.0
+100913	54103	54	103	Wetzel County, West Virginia	51	Information	51	0500000US54103	8.5	37.375	1578.375
+100914	54103	54	103	Wetzel County, West Virginia	52	Finance and insurance	52	0500000US54103	22.5	105.375	3651.375
+100915	54103	54	103	Wetzel County, West Virginia	53	Real estate and rental and leasing	53	0500000US54103	10.625	28.375	729.0
+100916	54103	54	103	Wetzel County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54103	16.125	143.0	5385.125
+100917	54103	54	103	Wetzel County, West Virginia	55	Management of companies and enterprises	55	0500000US54103	2.5	0.0	0.0
+100918	54103	54	103	Wetzel County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54103	8.375	33.375	1138.625
+100919	54103	54	103	Wetzel County, West Virginia	61	Educational services	61	0500000US54103	1.75	0.0	0.0
+100920	54103	54	103	Wetzel County, West Virginia	62	Health care and social assistance	62	0500000US54103	43.625	760.875	25253.0
+100921	54103	54	103	Wetzel County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54103	3.142857142857143	7.571428571428571	104.42857142857143
+100922	54103	54	103	Wetzel County, West Virginia	72	Accommodation and food services	72	0500000US54103	36.125	579.0	7376.25
+100923	54103	54	103	Wetzel County, West Virginia	81	Other services (except public administration)	81	0500000US54103	53.125	231.125	3698.75
+100925	54105	54	105	Wirt County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54105	3.0	0.0	456.0
+100926	54105	54	105	Wirt County	22	Utilities	22	0500000US54105	1.0	0.0	0.0
+100927	54105	54	105	Wirt County	23	Construction	23	0500000US54105	7.0	0.0	0.0
+100928	54105	54	105	Wirt County	42	Wholesale trade	42	0500000US54105	1.0	0.0	0.0
+100929	54105	54	105	Wirt County	51	Information	51	0500000US54105	1.0	0.0	0.0
+100930	54105	54	105	Wirt County	52	Finance and insurance	52	0500000US54105	4.0	17.0	537.0
+100931	54105	54	105	Wirt County	53	Real estate and rental and leasing	53	0500000US54105	1.0	0.0	0.0
+100932	54105	54	105	Wirt County	54	Professional, scientific, and technical services	54	0500000US54105	4.0	0.0	0.0
+100933	54105	54	105	Wirt County	56	Administrative and support and waste management and remediation services	56	0500000US54105	1.0	0.0	0.0
+100934	54105	54	105	Wirt County	62	Health care and social assistance	62	0500000US54105	5.0	0.0	0.0
+100935	54105	54	105	Wirt County	71	Arts, entertainment, and recreation	71	0500000US54105	2.0	0.0	0.0
+100936	54105	54	105	Wirt County	72	Accommodation and food services	72	0500000US54105	7.0	0.0	289.0
+100937	54105	54	105	Wirt County	81	Other services (except public administration)	81	0500000US54105	8.0	0.0	81.0
+100939	54105	54	105	Wirt County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54105	1.5	0.75	43.0
+100940	54105	54	105	Wirt County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54105	3.375	12.375	350.125
+100941	54105	54	105	Wirt County, West Virginia	22	Utilities	22	0500000US54105	1.0	0.0	0.0
+100942	54105	54	105	Wirt County, West Virginia	23	Construction	23	0500000US54105	4.25	10.875	613.0
+100943	54105	54	105	Wirt County, West Virginia	42	Wholesale trade	42	0500000US54105	1.25	0.0	0.0
+100944	54105	54	105	Wirt County, West Virginia	51	Information	51	0500000US54105	1.0	0.0	0.0
+100945	54105	54	105	Wirt County, West Virginia	52	Finance and insurance	52	0500000US54105	3.0	10.625	531.0
+100946	54105	54	105	Wirt County, West Virginia	53	Real estate and rental and leasing	53	0500000US54105	1.0	0.0	0.0
+100947	54105	54	105	Wirt County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54105	5.0	5.125	144.25
+100948	54105	54	105	Wirt County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54105	1.0	0.0	0.0
+100949	54105	54	105	Wirt County, West Virginia	62	Health care and social assistance	62	0500000US54105	5.25	37.125	1080.625
+100950	54105	54	105	Wirt County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54105	1.0	0.0	0.0
+100951	54105	54	105	Wirt County, West Virginia	72	Accommodation and food services	72	0500000US54105	3.6666666666666665	8.0	157.0
+100952	54105	54	105	Wirt County, West Virginia	81	Other services (except public administration)	81	0500000US54105	6.5	8.0	136.625
+100954	54107	54	107	Wood County	11	Agriculture, forestry, fishing and hunting	11	0500000US54107	2.0	0.0	0.0
+100955	54107	54	107	Wood County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54107	15.0	437.0	28258.0
+100956	54107	54	107	Wood County	22	Utilities	22	0500000US54107	3.0	0.0	0.0
+100957	54107	54	107	Wood County	23	Construction	23	0500000US54107	153.0	1225.0	75515.0
+100958	54107	54	107	Wood County	42	Wholesale trade	42	0500000US54107	89.0	738.0	28886.0
+100959	54107	54	107	Wood County	51	Information	51	0500000US54107	32.0	1032.0	41451.0
+100960	54107	54	107	Wood County	52	Finance and insurance	52	0500000US54107	120.0	958.0	43823.0
+100961	54107	54	107	Wood County	53	Real estate and rental and leasing	53	0500000US54107	82.0	337.0	10325.0
+100962	54107	54	107	Wood County	54	Professional, scientific, and technical services	54	0500000US54107	158.0	1000.0	41259.0
+100963	54107	54	107	Wood County	55	Management of companies and enterprises	55	0500000US54107	12.0	0.0	35706.0
+100964	54107	54	107	Wood County	56	Administrative and support and waste management and remediation services	56	0500000US54107	94.0	1979.0	54047.0
+100965	54107	54	107	Wood County	61	Educational services	61	0500000US54107	21.0	0.0	10989.0
+100966	54107	54	107	Wood County	62	Health care and social assistance	62	0500000US54107	283.0	7392.0	253522.0
+100967	54107	54	107	Wood County	71	Arts, entertainment, and recreation	71	0500000US54107	48.0	554.0	7174.0
+100968	54107	54	107	Wood County	72	Accommodation and food services	72	0500000US54107	209.0	3997.0	50395.0
+100969	54107	54	107	Wood County	81	Other services (except public administration)	81	0500000US54107	269.0	1585.0	31438.0
+100970	54107	54	107	Wood County	99	Industries not classified	99	0500000US54107	2.0	0.0	0.0
+100972	54107	54	107	Wood County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54107	1.5	0.0	0.0
+100973	54107	54	107	Wood County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54107	17.0	388.125	28629.375
+100974	54107	54	107	Wood County, West Virginia	22	Utilities	22	0500000US54107	3.625	40.375	4076.125
+100975	54107	54	107	Wood County, West Virginia	23	Construction	23	0500000US54107	141.125	1110.875	55017.5
+100976	54107	54	107	Wood County, West Virginia	42	Wholesale trade	42	0500000US54107	81.5	839.625	35402.375
+100977	54107	54	107	Wood County, West Virginia	51	Information	51	0500000US54107	30.5	601.375	28381.0
+100978	54107	54	107	Wood County, West Virginia	52	Finance and insurance	52	0500000US54107	116.125	942.5	49972.875
+100979	54107	54	107	Wood County, West Virginia	53	Real estate and rental and leasing	53	0500000US54107	80.125	330.25	11872.875
+100980	54107	54	107	Wood County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54107	142.25	955.375	45703.75
+100981	54107	54	107	Wood County, West Virginia	55	Management of companies and enterprises	55	0500000US54107	15.375	673.625	46329.875
+100982	54107	54	107	Wood County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54107	86.75	1907.5	48923.375
+100983	54107	54	107	Wood County, West Virginia	61	Educational services	61	0500000US54107	20.375	502.5	10046.625
+100984	54107	54	107	Wood County, West Virginia	62	Health care and social assistance	62	0500000US54107	276.0	7018.625	264549.0
+100985	54107	54	107	Wood County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54107	47.5	491.625	7407.375
+100986	54107	54	107	Wood County, West Virginia	72	Accommodation and food services	72	0500000US54107	209.375	4131.75	56767.125
+100987	54107	54	107	Wood County, West Virginia	81	Other services (except public administration)	81	0500000US54107	259.25	1538.375	34170.75
+100988	54107	54	107	Wood County, West Virginia	99	Industries not classified	99	0500000US54107	4.142857142857143	2.4285714285714284	47.714285714285715
+100990	54109	54	109	Wyoming County	11	Agriculture, forestry, fishing and hunting	11	0500000US54109	7.0	26.0	455.0
+100991	54109	54	109	Wyoming County	21	Mining, quarrying, and oil and gas extraction	21	0500000US54109	22.0	1302.0	98636.0
+100992	54109	54	109	Wyoming County	22	Utilities	22	0500000US54109	5.0	0.0	0.0
+100993	54109	54	109	Wyoming County	23	Construction	23	0500000US54109	20.0	117.0	4132.0
+100994	54109	54	109	Wyoming County	42	Wholesale trade	42	0500000US54109	7.0	100.0	5656.0
+100995	54109	54	109	Wyoming County	51	Information	51	0500000US54109	8.0	0.0	0.0
+100996	54109	54	109	Wyoming County	52	Finance and insurance	52	0500000US54109	12.0	88.0	2008.0
+100997	54109	54	109	Wyoming County	53	Real estate and rental and leasing	53	0500000US54109	9.0	0.0	709.0
+100998	54109	54	109	Wyoming County	54	Professional, scientific, and technical services	54	0500000US54109	19.0	0.0	1440.0
+100999	54109	54	109	Wyoming County	56	Administrative and support and waste management and remediation services	56	0500000US54109	11.0	91.0	4029.0
+101000	54109	54	109	Wyoming County	61	Educational services	61	0500000US54109	4.0	0.0	125.0
+101001	54109	54	109	Wyoming County	62	Health care and social assistance	62	0500000US54109	27.0	826.0	17945.0
+101002	54109	54	109	Wyoming County	71	Arts, entertainment, and recreation	71	0500000US54109	3.0	0.0	0.0
+101003	54109	54	109	Wyoming County	72	Accommodation and food services	72	0500000US54109	21.0	230.0	2824.0
+101004	54109	54	109	Wyoming County	81	Other services (except public administration)	81	0500000US54109	27.0	114.0	2073.0
+101006	54109	54	109	Wyoming County, West Virginia	11	Agriculture, forestry, fishing and hunting	11	0500000US54109	12.375	24.0	771.5
+101007	54109	54	109	Wyoming County, West Virginia	21	Mining, quarrying, and oil and gas extraction	21	0500000US54109	12.75	510.5	37655.0
+101008	54109	54	109	Wyoming County, West Virginia	22	Utilities	22	0500000US54109	5.125	51.0	3589.125
+101009	54109	54	109	Wyoming County, West Virginia	23	Construction	23	0500000US54109	19.375	93.25	3501.875
+101010	54109	54	109	Wyoming County, West Virginia	42	Wholesale trade	42	0500000US54109	6.125	55.25	2562.5
+101011	54109	54	109	Wyoming County, West Virginia	51	Information	51	0500000US54109	6.875	19.5	918.625
+101012	54109	54	109	Wyoming County, West Virginia	52	Finance and insurance	52	0500000US54109	10.5	66.0	1621.125
+101013	54109	54	109	Wyoming County, West Virginia	53	Real estate and rental and leasing	53	0500000US54109	9.375	18.75	697.875
+101014	54109	54	109	Wyoming County, West Virginia	54	Professional, scientific, and technical services	54	0500000US54109	17.375	73.75	3075.0
+101015	54109	54	109	Wyoming County, West Virginia	55	Management of companies and enterprises	55	0500000US54109	1.0	0.0	0.0
+101016	54109	54	109	Wyoming County, West Virginia	56	Administrative and support and waste management and remediation services	56	0500000US54109	9.0	39.375	1580.625
+101017	54109	54	109	Wyoming County, West Virginia	61	Educational services	61	0500000US54109	3.2857142857142856	9.428571428571429	105.42857142857143
+101018	54109	54	109	Wyoming County, West Virginia	62	Health care and social assistance	62	0500000US54109	27.625	766.0	20522.625
+101019	54109	54	109	Wyoming County, West Virginia	71	Arts, entertainment, and recreation	71	0500000US54109	3.0	10.375	173.0
+101020	54109	54	109	Wyoming County, West Virginia	72	Accommodation and food services	72	0500000US54109	20.0	231.75	3357.625
+101021	54109	54	109	Wyoming County, West Virginia	81	Other services (except public administration)	81	0500000US54109	26.0	81.375	1423.875

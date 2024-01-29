@@ -1,0 +1,528 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+39064	23001	23	1	Androscoggin County	11	Agriculture, forestry, fishing and hunting	11	0500000US23001	16.0	58.0	1982.0
+39065	23001	23	1	Androscoggin County	22	Utilities	22	0500000US23001	4.0	105.0	7395.0
+39066	23001	23	1	Androscoggin County	23	Construction	23	0500000US23001	337.0	2557.0	108536.0
+39067	23001	23	1	Androscoggin County	42	Wholesale trade	42	0500000US23001	113.0	1297.0	59176.0
+39068	23001	23	1	Androscoggin County	51	Information	51	0500000US23001	37.0	1189.0	49781.0
+39069	23001	23	1	Androscoggin County	52	Finance and insurance	52	0500000US23001	137.0	3204.0	138209.0
+39070	23001	23	1	Androscoggin County	53	Real estate and rental and leasing	53	0500000US23001	109.0	384.0	11782.0
+39071	23001	23	1	Androscoggin County	54	Professional, scientific, and technical services	54	0500000US23001	183.0	1932.0	84168.0
+39072	23001	23	1	Androscoggin County	55	Management of companies and enterprises	55	0500000US23001	13.0	518.0	86233.0
+39073	23001	23	1	Androscoggin County	56	Administrative and support and waste management and remediation services	56	0500000US23001	150.0	3218.0	73367.0
+39074	23001	23	1	Androscoggin County	61	Educational services	61	0500000US23001	18.0	0.0	0.0
+39075	23001	23	1	Androscoggin County	62	Health care and social assistance	62	0500000US23001	387.0	9773.0	418322.0
+39076	23001	23	1	Androscoggin County	71	Arts, entertainment, and recreation	71	0500000US23001	39.0	322.0	4992.0
+39077	23001	23	1	Androscoggin County	72	Accommodation and food services	72	0500000US23001	210.0	3038.0	45986.0
+39078	23001	23	1	Androscoggin County	81	Other services (except public administration)	81	0500000US23001	262.0	1402.0	30195.0
+39079	23001	23	1	Androscoggin County	99	Industries not classified	99	0500000US23001	2.0	0.0	0.0
+39081	23001	23	1	Androscoggin County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23001	14.0	48.25	2010.625
+39082	23001	23	1	Androscoggin County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23001	2.0	0.0	0.0
+39083	23001	23	1	Androscoggin County, Maine	22	Utilities	22	0500000US23001	8.875	117.25	11397.125
+39084	23001	23	1	Androscoggin County, Maine	23	Construction	23	0500000US23001	365.25	2293.5	120059.125
+39085	23001	23	1	Androscoggin County, Maine	42	Wholesale trade	42	0500000US23001	119.375	1473.75	70951.625
+39086	23001	23	1	Androscoggin County, Maine	51	Information	51	0500000US23001	33.75	1115.75	44196.0
+39087	23001	23	1	Androscoggin County, Maine	52	Finance and insurance	52	0500000US23001	131.875	3264.375	173981.375
+39088	23001	23	1	Androscoggin County, Maine	53	Real estate and rental and leasing	53	0500000US23001	119.0	448.5	16214.125
+39089	23001	23	1	Androscoggin County, Maine	54	Professional, scientific, and technical services	54	0500000US23001	186.875	1804.75	95317.625
+39090	23001	23	1	Androscoggin County, Maine	55	Management of companies and enterprises	55	0500000US23001	12.25	657.625	38447.625
+39091	23001	23	1	Androscoggin County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23001	160.625	2996.625	75641.5
+39092	23001	23	1	Androscoggin County, Maine	61	Educational services	61	0500000US23001	20.5	1001.25	30271.875
+39093	23001	23	1	Androscoggin County, Maine	62	Health care and social assistance	62	0500000US23001	383.625	9808.125	475774.625
+39094	23001	23	1	Androscoggin County, Maine	71	Arts, entertainment, and recreation	71	0500000US23001	38.125	341.125	5298.5
+39095	23001	23	1	Androscoggin County, Maine	72	Accommodation and food services	72	0500000US23001	228.875	3382.0	59883.0
+39096	23001	23	1	Androscoggin County, Maine	81	Other services (except public administration)	81	0500000US23001	253.125	1254.25	35510.5
+39097	23001	23	1	Androscoggin County, Maine	99	Industries not classified	99	0500000US23001	4.142857142857143	3.0	105.71428571428571
+39099	23003	23	3	Aroostook County	11	Agriculture, forestry, fishing and hunting	11	0500000US23003	129.0	671.0	23901.0
+39100	23003	23	3	Aroostook County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23003	1.0	0.0	0.0
+39101	23003	23	3	Aroostook County	22	Utilities	22	0500000US23003	6.0	0.0	0.0
+39102	23003	23	3	Aroostook County	23	Construction	23	0500000US23003	191.0	587.0	27443.0
+39103	23003	23	3	Aroostook County	42	Wholesale trade	42	0500000US23003	76.0	488.0	23118.0
+39104	23003	23	3	Aroostook County	51	Information	51	0500000US23003	41.0	415.0	12820.0
+39105	23003	23	3	Aroostook County	52	Finance and insurance	52	0500000US23003	85.0	744.0	32378.0
+39106	23003	23	3	Aroostook County	53	Real estate and rental and leasing	53	0500000US23003	78.0	255.0	6588.0
+39107	23003	23	3	Aroostook County	54	Professional, scientific, and technical services	54	0500000US23003	99.0	382.0	12676.0
+39108	23003	23	3	Aroostook County	55	Management of companies and enterprises	55	0500000US23003	8.0	168.0	4641.0
+39109	23003	23	3	Aroostook County	56	Administrative and support and waste management and remediation services	56	0500000US23003	69.0	427.0	10462.0
+39110	23003	23	3	Aroostook County	61	Educational services	61	0500000US23003	13.0	81.0	1776.0
+39111	23003	23	3	Aroostook County	62	Health care and social assistance	62	0500000US23003	232.0	5890.0	201335.0
+39112	23003	23	3	Aroostook County	71	Arts, entertainment, and recreation	71	0500000US23003	28.0	117.0	1666.0
+39113	23003	23	3	Aroostook County	72	Accommodation and food services	72	0500000US23003	159.0	1907.0	24536.0
+39114	23003	23	3	Aroostook County	81	Other services (except public administration)	81	0500000US23003	175.0	601.0	11491.0
+39115	23003	23	3	Aroostook County	99	Industries not classified	99	0500000US23003	1.0	0.0	0.0
+39117	23003	23	3	Aroostook County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23003	138.75	591.875	24353.0
+39118	23003	23	3	Aroostook County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23003	1.0	0.0	0.0
+39119	23003	23	3	Aroostook County, Maine	22	Utilities	22	0500000US23003	4.285714285714286	10.142857142857142	762.7142857142857
+39120	23003	23	3	Aroostook County, Maine	23	Construction	23	0500000US23003	194.625	667.0	31925.0
+39121	23003	23	3	Aroostook County, Maine	42	Wholesale trade	42	0500000US23003	75.875	552.375	28017.375
+39122	23003	23	3	Aroostook County, Maine	51	Information	51	0500000US23003	37.125	402.25	16163.5
+39123	23003	23	3	Aroostook County, Maine	52	Finance and insurance	52	0500000US23003	84.125	800.875	39962.5
+39124	23003	23	3	Aroostook County, Maine	53	Real estate and rental and leasing	53	0500000US23003	72.875	281.5	7534.625
+39125	23003	23	3	Aroostook County, Maine	54	Professional, scientific, and technical services	54	0500000US23003	89.25	340.625	13600.875
+39126	23003	23	3	Aroostook County, Maine	55	Management of companies and enterprises	55	0500000US23003	7.375	88.5	4193.125
+39127	23003	23	3	Aroostook County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23003	81.625	514.25	13555.75
+39128	23003	23	3	Aroostook County, Maine	61	Educational services	61	0500000US23003	11.125	82.125	1988.875
+39129	23003	23	3	Aroostook County, Maine	62	Health care and social assistance	62	0500000US23003	229.25	5873.0	233541.75
+39130	23003	23	3	Aroostook County, Maine	71	Arts, entertainment, and recreation	71	0500000US23003	28.125	119.5	1597.0
+39131	23003	23	3	Aroostook County, Maine	72	Accommodation and food services	72	0500000US23003	145.875	1943.0	28495.625
+39132	23003	23	3	Aroostook County, Maine	81	Other services (except public administration)	81	0500000US23003	173.25	619.0	14927.875
+39133	23003	23	3	Aroostook County, Maine	99	Industries not classified	99	0500000US23003	4.8	4.0	62.0
+39135	23005	23	5	Cumberland County	11	Agriculture, forestry, fishing and hunting	11	0500000US23005	80.0	110.0	3435.0
+39136	23005	23	5	Cumberland County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23005	5.0	0.0	0.0
+39137	23005	23	5	Cumberland County	22	Utilities	22	0500000US23005	16.0	498.0	38662.0
+39138	23005	23	5	Cumberland County	23	Construction	23	0500000US23005	1081.0	7147.0	356937.0
+39139	23005	23	5	Cumberland County	42	Wholesale trade	42	0500000US23005	508.0	6910.0	386358.0
+39140	23005	23	5	Cumberland County	51	Information	51	0500000US23005	271.0	4607.0	257466.0
+39141	23005	23	5	Cumberland County	52	Finance and insurance	52	0500000US23005	615.0	13202.0	1012776.0
+39142	23005	23	5	Cumberland County	53	Real estate and rental and leasing	53	0500000US23005	519.0	2705.0	109976.0
+39143	23005	23	5	Cumberland County	54	Professional, scientific, and technical services	54	0500000US23005	1387.0	10076.0	618262.0
+39144	23005	23	5	Cumberland County	55	Management of companies and enterprises	55	0500000US23005	79.0	4397.0	398661.0
+39145	23005	23	5	Cumberland County	56	Administrative and support and waste management and remediation services	56	0500000US23005	609.0	10623.0	415873.0
+39146	23005	23	5	Cumberland County	61	Educational services	61	0500000US23005	164.0	5880.0	167585.0
+39147	23005	23	5	Cumberland County	62	Health care and social assistance	62	0500000US23005	1332.0	31810.0	1388516.0
+39148	23005	23	5	Cumberland County	71	Arts, entertainment, and recreation	71	0500000US23005	226.0	2461.0	51311.0
+39149	23005	23	5	Cumberland County	72	Accommodation and food services	72	0500000US23005	980.0	14945.0	269902.0
+39150	23005	23	5	Cumberland County	81	Other services (except public administration)	81	0500000US23005	938.0	6395.0	171197.0
+39151	23005	23	5	Cumberland County	99	Industries not classified	99	0500000US23005	7.0	0.0	62.0
+39153	23005	23	5	Cumberland County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23005	88.0	105.625	4173.75
+39154	23005	23	5	Cumberland County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23005	4.5	4.5	369.375
+39155	23005	23	5	Cumberland County, Maine	22	Utilities	22	0500000US23005	19.125	499.625	44171.875
+39156	23005	23	5	Cumberland County, Maine	23	Construction	23	0500000US23005	1158.5	8016.0	464711.875
+39157	23005	23	5	Cumberland County, Maine	42	Wholesale trade	42	0500000US23005	490.625	7419.75	480775.0
+39158	23005	23	5	Cumberland County, Maine	51	Information	51	0500000US23005	256.875	4316.5	262443.125
+39159	23005	23	5	Cumberland County, Maine	52	Finance and insurance	52	0500000US23005	633.5	13621.75	1151115.75
+39160	23005	23	5	Cumberland County, Maine	53	Real estate and rental and leasing	53	0500000US23005	618.875	3069.75	144049.125
+39161	23005	23	5	Cumberland County, Maine	54	Professional, scientific, and technical services	54	0500000US23005	1442.0	10642.0	793881.0
+39162	23005	23	5	Cumberland County, Maine	55	Management of companies and enterprises	55	0500000US23005	80.875	5763.0	561345.5
+39163	23005	23	5	Cumberland County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23005	680.625	9687.25	348923.75
+39164	23005	23	5	Cumberland County, Maine	61	Educational services	61	0500000US23005	166.375	6562.375	209240.375
+39165	23005	23	5	Cumberland County, Maine	62	Health care and social assistance	62	0500000US23005	1362.5	34090.875	1752852.5
+39166	23005	23	5	Cumberland County, Maine	71	Arts, entertainment, and recreation	71	0500000US23005	237.0	2761.25	62892.0
+39167	23005	23	5	Cumberland County, Maine	72	Accommodation and food services	72	0500000US23005	1067.375	16888.75	365533.5
+39168	23005	23	5	Cumberland County, Maine	81	Other services (except public administration)	81	0500000US23005	980.375	6656.25	204761.0
+39169	23005	23	5	Cumberland County, Maine	99	Industries not classified	99	0500000US23005	17.75	13.125	427.375
+39171	23007	23	7	Franklin County	11	Agriculture, forestry, fishing and hunting	11	0500000US23007	22.0	184.0	7408.0
+39172	23007	23	7	Franklin County	22	Utilities	22	0500000US23007	4.0	0.0	3598.0
+39173	23007	23	7	Franklin County	23	Construction	23	0500000US23007	101.0	350.0	12866.0
+39174	23007	23	7	Franklin County	42	Wholesale trade	42	0500000US23007	16.0	81.0	2819.0
+39175	23007	23	7	Franklin County	51	Information	51	0500000US23007	23.0	124.0	3026.0
+39176	23007	23	7	Franklin County	52	Finance and insurance	52	0500000US23007	34.0	0.0	10447.0
+39177	23007	23	7	Franklin County	53	Real estate and rental and leasing	53	0500000US23007	27.0	61.0	1622.0
+39178	23007	23	7	Franklin County	54	Professional, scientific, and technical services	54	0500000US23007	43.0	0.0	3557.0
+39179	23007	23	7	Franklin County	55	Management of companies and enterprises	55	0500000US23007	1.0	0.0	0.0
+39180	23007	23	7	Franklin County	56	Administrative and support and waste management and remediation services	56	0500000US23007	33.0	267.0	5870.0
+39181	23007	23	7	Franklin County	61	Educational services	61	0500000US23007	9.0	0.0	0.0
+39182	23007	23	7	Franklin County	62	Health care and social assistance	62	0500000US23007	106.0	1903.0	69525.0
+39183	23007	23	7	Franklin County	71	Arts, entertainment, and recreation	71	0500000US23007	22.0	1052.0	10212.0
+39184	23007	23	7	Franklin County	72	Accommodation and food services	72	0500000US23007	91.0	1073.0	13586.0
+39185	23007	23	7	Franklin County	81	Other services (except public administration)	81	0500000US23007	62.0	269.0	5661.0
+39186	23007	23	7	Franklin County	99	Industries not classified	99	0500000US23007	1.0	0.0	0.0
+39188	23007	23	7	Franklin County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23007	26.875	176.125	7330.125
+39189	23007	23	7	Franklin County, Maine	22	Utilities	22	0500000US23007	5.875	44.5	4410.5
+39190	23007	23	7	Franklin County, Maine	23	Construction	23	0500000US23007	106.5	352.875	15110.625
+39191	23007	23	7	Franklin County, Maine	42	Wholesale trade	42	0500000US23007	20.0	80.625	3772.375
+39192	23007	23	7	Franklin County, Maine	51	Information	51	0500000US23007	22.125	97.625	2844.375
+39193	23007	23	7	Franklin County, Maine	52	Finance and insurance	52	0500000US23007	31.125	490.75	19007.875
+39194	23007	23	7	Franklin County, Maine	53	Real estate and rental and leasing	53	0500000US23007	29.25	115.125	2953.875
+39195	23007	23	7	Franklin County, Maine	54	Professional, scientific, and technical services	54	0500000US23007	35.625	123.625	4075.5
+39196	23007	23	7	Franklin County, Maine	55	Management of companies and enterprises	55	0500000US23007	1.0	0.0	0.0
+39197	23007	23	7	Franklin County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23007	35.25	210.875	5263.875
+39198	23007	23	7	Franklin County, Maine	61	Educational services	61	0500000US23007	6.25	62.5	1514.625
+39199	23007	23	7	Franklin County, Maine	62	Health care and social assistance	62	0500000US23007	105.625	1771.0	71411.125
+39200	23007	23	7	Franklin County, Maine	71	Arts, entertainment, and recreation	71	0500000US23007	24.5	686.0	8326.375
+39201	23007	23	7	Franklin County, Maine	72	Accommodation and food services	72	0500000US23007	102.625	1419.125	20882.375
+39202	23007	23	7	Franklin County, Maine	81	Other services (except public administration)	81	0500000US23007	65.875	264.125	6073.875
+39203	23007	23	7	Franklin County, Maine	99	Industries not classified	99	0500000US23007	2.25	0.75	79.5
+39205	23009	23	9	Hancock County	11	Agriculture, forestry, fishing and hunting	11	0500000US23009	66.0	98.0	4091.0
+39206	23009	23	9	Hancock County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23009	3.0	0.0	0.0
+39207	23009	23	9	Hancock County	22	Utilities	22	0500000US23009	4.0	0.0	0.0
+39208	23009	23	9	Hancock County	23	Construction	23	0500000US23009	309.0	1400.0	51492.0
+39209	23009	23	9	Hancock County	42	Wholesale trade	42	0500000US23009	62.0	467.0	15379.0
+39210	23009	23	9	Hancock County	51	Information	51	0500000US23009	45.0	297.0	11561.0
+39211	23009	23	9	Hancock County	52	Finance and insurance	52	0500000US23009	79.0	571.0	26886.0
+39212	23009	23	9	Hancock County	53	Real estate and rental and leasing	53	0500000US23009	81.0	167.0	5410.0
+39213	23009	23	9	Hancock County	54	Professional, scientific, and technical services	54	0500000US23009	140.0	1672.0	94781.0
+39214	23009	23	9	Hancock County	55	Management of companies and enterprises	55	0500000US23009	5.0	0.0	1743.0
+39215	23009	23	9	Hancock County	56	Administrative and support and waste management and remediation services	56	0500000US23009	92.0	226.0	8501.0
+39216	23009	23	9	Hancock County	61	Educational services	61	0500000US23009	28.0	0.0	12333.0
+39217	23009	23	9	Hancock County	62	Health care and social assistance	62	0500000US23009	162.0	3332.0	134097.0
+39218	23009	23	9	Hancock County	71	Arts, entertainment, and recreation	71	0500000US23009	76.0	273.0	8446.0
+39219	23009	23	9	Hancock County	72	Accommodation and food services	72	0500000US23009	302.0	1641.0	58308.0
+39220	23009	23	9	Hancock County	81	Other services (except public administration)	81	0500000US23009	182.0	880.0	24637.0
+39221	23009	23	9	Hancock County	99	Industries not classified	99	0500000US23009	1.0	0.0	0.0
+39223	23009	23	9	Hancock County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23009	114.5	114.375	6884.125
+39224	23009	23	9	Hancock County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23009	2.4	2.8	90.2
+39225	23009	23	9	Hancock County, Maine	22	Utilities	22	0500000US23009	3.75	16.125	1303.375
+39226	23009	23	9	Hancock County, Maine	23	Construction	23	0500000US23009	311.5	1404.375	59725.875
+39227	23009	23	9	Hancock County, Maine	42	Wholesale trade	42	0500000US23009	62.25	367.0	16930.875
+39228	23009	23	9	Hancock County, Maine	51	Information	51	0500000US23009	47.875	323.625	12564.5
+39229	23009	23	9	Hancock County, Maine	52	Finance and insurance	52	0500000US23009	74.5	529.875	31035.75
+39230	23009	23	9	Hancock County, Maine	53	Real estate and rental and leasing	53	0500000US23009	93.875	233.5	8983.75
+39231	23009	23	9	Hancock County, Maine	54	Professional, scientific, and technical services	54	0500000US23009	138.375	1826.125	111735.625
+39232	23009	23	9	Hancock County, Maine	55	Management of companies and enterprises	55	0500000US23009	4.428571428571429	8.714285714285714	612.8571428571429
+39233	23009	23	9	Hancock County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23009	111.375	287.0	12561.125
+39234	23009	23	9	Hancock County, Maine	61	Educational services	61	0500000US23009	33.625	459.0	14753.75
+39235	23009	23	9	Hancock County, Maine	62	Health care and social assistance	62	0500000US23009	166.5	3087.0	134787.0
+39236	23009	23	9	Hancock County, Maine	71	Arts, entertainment, and recreation	71	0500000US23009	82.25	335.5	11378.125
+39237	23009	23	9	Hancock County, Maine	72	Accommodation and food services	72	0500000US23009	327.125	1848.0	76320.25
+39238	23009	23	9	Hancock County, Maine	81	Other services (except public administration)	81	0500000US23009	186.0	944.375	30969.75
+39239	23009	23	9	Hancock County, Maine	99	Industries not classified	99	0500000US23009	4.571428571428571	5.571428571428571	210.85714285714286
+39241	23011	23	11	Kennebec County	11	Agriculture, forestry, fishing and hunting	11	0500000US23011	22.0	78.0	2500.0
+39242	23011	23	11	Kennebec County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23011	2.0	0.0	0.0
+39243	23011	23	11	Kennebec County	22	Utilities	22	0500000US23011	8.0	0.0	0.0
+39244	23011	23	11	Kennebec County	23	Construction	23	0500000US23011	329.0	1454.0	61597.0
+39245	23011	23	11	Kennebec County	42	Wholesale trade	42	0500000US23011	110.0	2189.0	101603.0
+39246	23011	23	11	Kennebec County	51	Information	51	0500000US23011	78.0	1328.0	54032.0
+39247	23011	23	11	Kennebec County	52	Finance and insurance	52	0500000US23011	166.0	1383.0	64973.0
+39248	23011	23	11	Kennebec County	53	Real estate and rental and leasing	53	0500000US23011	100.0	430.0	14238.0
+39249	23011	23	11	Kennebec County	54	Professional, scientific, and technical services	54	0500000US23011	307.0	1738.0	83519.0
+39250	23011	23	11	Kennebec County	55	Management of companies and enterprises	55	0500000US23011	19.0	363.0	17059.0
+39251	23011	23	11	Kennebec County	56	Administrative and support and waste management and remediation services	56	0500000US23011	154.0	1512.0	52769.0
+39252	23011	23	11	Kennebec County	61	Educational services	61	0500000US23011	46.0	1508.0	74121.0
+39253	23011	23	11	Kennebec County	62	Health care and social assistance	62	0500000US23011	465.0	13463.0	552551.0
+39254	23011	23	11	Kennebec County	71	Arts, entertainment, and recreation	71	0500000US23011	55.0	556.0	8881.0
+39255	23011	23	11	Kennebec County	72	Accommodation and food services	72	0500000US23011	302.0	4153.0	69437.0
+39256	23011	23	11	Kennebec County	81	Other services (except public administration)	81	0500000US23011	370.0	1705.0	53791.0
+39257	23011	23	11	Kennebec County	99	Industries not classified	99	0500000US23011	2.0	0.0	0.0
+39259	23011	23	11	Kennebec County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23011	21.875	67.375	2832.875
+39260	23011	23	11	Kennebec County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23011	2.5	2.0	239.83333333333334
+39261	23011	23	11	Kennebec County, Maine	22	Utilities	22	0500000US23011	7.5	181.25	20435.875
+39262	23011	23	11	Kennebec County, Maine	23	Construction	23	0500000US23011	353.875	1777.875	84660.0
+39263	23011	23	11	Kennebec County, Maine	42	Wholesale trade	42	0500000US23011	109.0	2534.75	130506.875
+39264	23011	23	11	Kennebec County, Maine	51	Information	51	0500000US23011	68.875	1552.625	78250.625
+39265	23011	23	11	Kennebec County, Maine	52	Finance and insurance	52	0500000US23011	151.375	1254.25	71120.25
+39266	23011	23	11	Kennebec County, Maine	53	Real estate and rental and leasing	53	0500000US23011	106.25	462.875	18136.375
+39267	23011	23	11	Kennebec County, Maine	54	Professional, scientific, and technical services	54	0500000US23011	278.0	1571.75	84609.375
+39268	23011	23	11	Kennebec County, Maine	55	Management of companies and enterprises	55	0500000US23011	18.25	331.375	17292.125
+39269	23011	23	11	Kennebec County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23011	167.875	1770.5	55593.875
+39270	23011	23	11	Kennebec County, Maine	61	Educational services	61	0500000US23011	50.5	3013.0	107176.375
+39271	23011	23	11	Kennebec County, Maine	62	Health care and social assistance	62	0500000US23011	459.25	13342.375	609960.625
+39272	23011	23	11	Kennebec County, Maine	71	Arts, entertainment, and recreation	71	0500000US23011	58.25	523.0	10769.5
+39273	23011	23	11	Kennebec County, Maine	72	Accommodation and food services	72	0500000US23011	295.0	4851.75	90678.25
+39274	23011	23	11	Kennebec County, Maine	81	Other services (except public administration)	81	0500000US23011	370.0	1827.875	64335.75
+39275	23011	23	11	Kennebec County, Maine	99	Industries not classified	99	0500000US23011	6.0	5.5	123.75
+39277	23013	23	13	Knox County	11	Agriculture, forestry, fishing and hunting	11	0500000US23013	103.0	0.0	0.0
+39278	23013	23	13	Knox County	22	Utilities	22	0500000US23013	9.0	100.0	5212.0
+39279	23013	23	13	Knox County	23	Construction	23	0500000US23013	191.0	816.0	30346.0
+39280	23013	23	13	Knox County	42	Wholesale trade	42	0500000US23013	50.0	232.0	9528.0
+39281	23013	23	13	Knox County	51	Information	51	0500000US23013	42.0	352.0	11086.0
+39282	23013	23	13	Knox County	52	Finance and insurance	52	0500000US23013	58.0	712.0	35546.0
+39283	23013	23	13	Knox County	53	Real estate and rental and leasing	53	0500000US23013	66.0	136.0	5333.0
+39284	23013	23	13	Knox County	54	Professional, scientific, and technical services	54	0500000US23013	131.0	406.0	19596.0
+39285	23013	23	13	Knox County	55	Management of companies and enterprises	55	0500000US23013	6.0	56.0	3535.0
+39286	23013	23	13	Knox County	56	Administrative and support and waste management and remediation services	56	0500000US23013	69.0	310.0	12910.0
+39287	23013	23	13	Knox County	61	Educational services	61	0500000US23013	27.0	255.0	6808.0
+39288	23013	23	13	Knox County	62	Health care and social assistance	62	0500000US23013	158.0	2988.0	102512.0
+39289	23013	23	13	Knox County	71	Arts, entertainment, and recreation	71	0500000US23013	58.0	0.0	10277.0
+39290	23013	23	13	Knox County	72	Accommodation and food services	72	0500000US23013	167.0	1488.0	31126.0
+39291	23013	23	13	Knox County	81	Other services (except public administration)	81	0500000US23013	155.0	709.0	21001.0
+39292	23013	23	13	Knox County	99	Industries not classified	99	0500000US23013	1.0	0.0	0.0
+39294	23013	23	13	Knox County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23013	137.5	323.5	28010.375
+39295	23013	23	13	Knox County, Maine	22	Utilities	22	0500000US23013	7.75	69.5	4464.75
+39296	23013	23	13	Knox County, Maine	23	Construction	23	0500000US23013	203.375	841.625	35455.0
+39297	23013	23	13	Knox County, Maine	42	Wholesale trade	42	0500000US23013	54.0	274.25	12815.75
+39298	23013	23	13	Knox County, Maine	51	Information	51	0500000US23013	35.0	302.875	12074.375
+39299	23013	23	13	Knox County, Maine	52	Finance and insurance	52	0500000US23013	56.25	695.875	40650.25
+39300	23013	23	13	Knox County, Maine	53	Real estate and rental and leasing	53	0500000US23013	67.0	174.375	7435.5
+39301	23013	23	13	Knox County, Maine	54	Professional, scientific, and technical services	54	0500000US23013	126.875	485.375	25217.0
+39302	23013	23	13	Knox County, Maine	55	Management of companies and enterprises	55	0500000US23013	4.5	38.375	2315.25
+39303	23013	23	13	Knox County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23013	70.5	400.875	14315.25
+39304	23013	23	13	Knox County, Maine	61	Educational services	61	0500000US23013	29.875	261.5	8158.875
+39305	23013	23	13	Knox County, Maine	62	Health care and social assistance	62	0500000US23013	170.25	3048.75	121489.875
+39306	23013	23	13	Knox County, Maine	71	Arts, entertainment, and recreation	71	0500000US23013	54.5	285.75	10864.625
+39307	23013	23	13	Knox County, Maine	72	Accommodation and food services	72	0500000US23013	170.5	1590.375	39834.5
+39308	23013	23	13	Knox County, Maine	81	Other services (except public administration)	81	0500000US23013	169.875	742.25	24596.75
+39309	23013	23	13	Knox County, Maine	99	Industries not classified	99	0500000US23013	4.571428571428571	4.714285714285714	122.0
+39311	23015	23	15	Lincoln County	11	Agriculture, forestry, fishing and hunting	11	0500000US23015	69.0	53.0	1798.0
+39312	23015	23	15	Lincoln County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23015	1.0	0.0	0.0
+39313	23015	23	15	Lincoln County	22	Utilities	22	0500000US23015	2.0	0.0	0.0
+39314	23015	23	15	Lincoln County	23	Construction	23	0500000US23015	226.0	572.0	20530.0
+39315	23015	23	15	Lincoln County	42	Wholesale trade	42	0500000US23015	35.0	0.0	7029.0
+39316	23015	23	15	Lincoln County	51	Information	51	0500000US23015	26.0	192.0	7394.0
+39317	23015	23	15	Lincoln County	52	Finance and insurance	52	0500000US23015	41.0	309.0	15040.0
+39318	23015	23	15	Lincoln County	53	Real estate and rental and leasing	53	0500000US23015	50.0	112.0	3358.0
+39319	23015	23	15	Lincoln County	54	Professional, scientific, and technical services	54	0500000US23015	107.0	290.0	11614.0
+39320	23015	23	15	Lincoln County	55	Management of companies and enterprises	55	0500000US23015	2.0	0.0	0.0
+39321	23015	23	15	Lincoln County	56	Administrative and support and waste management and remediation services	56	0500000US23015	53.0	353.0	11553.0
+39322	23015	23	15	Lincoln County	61	Educational services	61	0500000US23015	18.0	337.0	11096.0
+39323	23015	23	15	Lincoln County	62	Health care and social assistance	62	0500000US23015	114.0	1872.0	53815.0
+39324	23015	23	15	Lincoln County	71	Arts, entertainment, and recreation	71	0500000US23015	53.0	195.0	6004.0
+39325	23015	23	15	Lincoln County	72	Accommodation and food services	72	0500000US23015	148.0	708.0	23224.0
+39326	23015	23	15	Lincoln County	81	Other services (except public administration)	81	0500000US23015	104.0	520.0	16772.0
+39327	23015	23	15	Lincoln County	99	Industries not classified	99	0500000US23015	3.0	1.0	27.0
+39329	23015	23	15	Lincoln County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23015	78.125	79.125	3228.125
+39330	23015	23	15	Lincoln County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23015	1.0	0.0	0.0
+39331	23015	23	15	Lincoln County, Maine	22	Utilities	22	0500000US23015	2.5	5.875	755.0
+39332	23015	23	15	Lincoln County, Maine	23	Construction	23	0500000US23015	223.375	660.25	27362.625
+39333	23015	23	15	Lincoln County, Maine	42	Wholesale trade	42	0500000US23015	34.875	218.25	8838.25
+39334	23015	23	15	Lincoln County, Maine	51	Information	51	0500000US23015	27.625	166.25	6982.0
+39335	23015	23	15	Lincoln County, Maine	52	Finance and insurance	52	0500000US23015	42.625	306.375	15781.75
+39336	23015	23	15	Lincoln County, Maine	53	Real estate and rental and leasing	53	0500000US23015	49.75	98.375	3413.125
+39337	23015	23	15	Lincoln County, Maine	54	Professional, scientific, and technical services	54	0500000US23015	98.5	309.25	13322.625
+39338	23015	23	15	Lincoln County, Maine	55	Management of companies and enterprises	55	0500000US23015	3.625	56.875	4035.375
+39339	23015	23	15	Lincoln County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23015	65.25	386.25	15321.5
+39340	23015	23	15	Lincoln County, Maine	61	Educational services	61	0500000US23015	17.375	306.875	10625.625
+39341	23015	23	15	Lincoln County, Maine	62	Health care and social assistance	62	0500000US23015	105.625	1853.375	68767.875
+39342	23015	23	15	Lincoln County, Maine	71	Arts, entertainment, and recreation	71	0500000US23015	51.125	262.5	10280.25
+39343	23015	23	15	Lincoln County, Maine	72	Accommodation and food services	72	0500000US23015	161.375	880.125	33568.625
+39344	23015	23	15	Lincoln County, Maine	81	Other services (except public administration)	81	0500000US23015	113.0	483.375	16255.5
+39345	23015	23	15	Lincoln County, Maine	99	Industries not classified	99	0500000US23015	4.714285714285714	3.142857142857143	106.85714285714286
+39347	23017	23	17	Oxford County	11	Agriculture, forestry, fishing and hunting	11	0500000US23017	46.0	168.0	6363.0
+39348	23017	23	17	Oxford County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23017	3.0	0.0	0.0
+39349	23017	23	17	Oxford County	22	Utilities	22	0500000US23017	4.0	0.0	1156.0
+39350	23017	23	17	Oxford County	23	Construction	23	0500000US23017	182.0	582.0	24796.0
+39351	23017	23	17	Oxford County	42	Wholesale trade	42	0500000US23017	39.0	0.0	15310.0
+39352	23017	23	17	Oxford County	51	Information	51	0500000US23017	31.0	0.0	4464.0
+39353	23017	23	17	Oxford County	52	Finance and insurance	52	0500000US23017	43.0	331.0	14190.0
+39354	23017	23	17	Oxford County	53	Real estate and rental and leasing	53	0500000US23017	37.0	133.0	3942.0
+39355	23017	23	17	Oxford County	54	Professional, scientific, and technical services	54	0500000US23017	75.0	300.0	9142.0
+39356	23017	23	17	Oxford County	55	Management of companies and enterprises	55	0500000US23017	2.0	0.0	0.0
+39357	23017	23	17	Oxford County	56	Administrative and support and waste management and remediation services	56	0500000US23017	49.0	146.0	3951.0
+39358	23017	23	17	Oxford County	61	Educational services	61	0500000US23017	13.0	485.0	37228.0
+39359	23017	23	17	Oxford County	62	Health care and social assistance	62	0500000US23017	124.0	2820.0	86443.0
+39360	23017	23	17	Oxford County	71	Arts, entertainment, and recreation	71	0500000US23017	41.0	280.0	12060.0
+39361	23017	23	17	Oxford County	72	Accommodation and food services	72	0500000US23017	135.0	2524.0	30645.0
+39362	23017	23	17	Oxford County	81	Other services (except public administration)	81	0500000US23017	132.0	465.0	9830.0
+39363	23017	23	17	Oxford County	99	Industries not classified	99	0500000US23017	1.0	0.0	0.0
+39365	23017	23	17	Oxford County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23017	45.5	172.75	7753.125
+39366	23017	23	17	Oxford County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23017	2.0	0.0	0.0
+39367	23017	23	17	Oxford County, Maine	22	Utilities	22	0500000US23017	5.0	26.875	3075.625
+39368	23017	23	17	Oxford County, Maine	23	Construction	23	0500000US23017	189.75	740.75	35135.125
+39369	23017	23	17	Oxford County, Maine	42	Wholesale trade	42	0500000US23017	38.75	220.125	10012.5
+39370	23017	23	17	Oxford County, Maine	51	Information	51	0500000US23017	30.25	133.375	6563.125
+39371	23017	23	17	Oxford County, Maine	52	Finance and insurance	52	0500000US23017	41.375	324.875	16429.25
+39372	23017	23	17	Oxford County, Maine	53	Real estate and rental and leasing	53	0500000US23017	44.75	157.25	5664.625
+39373	23017	23	17	Oxford County, Maine	54	Professional, scientific, and technical services	54	0500000US23017	75.25	330.375	13853.375
+39374	23017	23	17	Oxford County, Maine	55	Management of companies and enterprises	55	0500000US23017	3.0	0.0	0.0
+39375	23017	23	17	Oxford County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23017	58.5	192.875	7333.625
+39376	23017	23	17	Oxford County, Maine	61	Educational services	61	0500000US23017	13.375	419.5	15884.375
+39377	23017	23	17	Oxford County, Maine	62	Health care and social assistance	62	0500000US23017	131.0	2857.625	104092.125
+39378	23017	23	17	Oxford County, Maine	71	Arts, entertainment, and recreation	71	0500000US23017	33.125	433.125	11122.375
+39379	23017	23	17	Oxford County, Maine	72	Accommodation and food services	72	0500000US23017	143.625	2708.25	45712.75
+39380	23017	23	17	Oxford County, Maine	81	Other services (except public administration)	81	0500000US23017	133.75	486.25	10697.125
+39381	23017	23	17	Oxford County, Maine	99	Industries not classified	99	0500000US23017	2.5	0.6666666666666666	24.666666666666668
+39383	23019	23	19	Penobscot County	11	Agriculture, forestry, fishing and hunting	11	0500000US23019	92.0	826.0	35726.0
+39384	23019	23	19	Penobscot County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23019	2.0	0.0	0.0
+39385	23019	23	19	Penobscot County	22	Utilities	22	0500000US23019	11.0	474.0	36000.0
+39386	23019	23	19	Penobscot County	23	Construction	23	0500000US23019	413.0	2295.0	106182.0
+39387	23019	23	19	Penobscot County	42	Wholesale trade	42	0500000US23019	178.0	1955.0	88611.0
+39388	23019	23	19	Penobscot County	51	Information	51	0500000US23019	63.0	1385.0	62016.0
+39389	23019	23	19	Penobscot County	52	Finance and insurance	52	0500000US23019	214.0	1944.0	94760.0
+39390	23019	23	19	Penobscot County	53	Real estate and rental and leasing	53	0500000US23019	167.0	703.0	23329.0
+39391	23019	23	19	Penobscot County	54	Professional, scientific, and technical services	54	0500000US23019	329.0	1840.0	85241.0
+39392	23019	23	19	Penobscot County	55	Management of companies and enterprises	55	0500000US23019	28.0	1208.0	69889.0
+39393	23019	23	19	Penobscot County	56	Administrative and support and waste management and remediation services	56	0500000US23019	206.0	3255.0	73199.0
+39394	23019	23	19	Penobscot County	61	Educational services	61	0500000US23019	42.0	1633.0	36904.0
+39395	23019	23	19	Penobscot County	62	Health care and social assistance	62	0500000US23019	548.0	14423.0	614246.0
+39396	23019	23	19	Penobscot County	71	Arts, entertainment, and recreation	71	0500000US23019	60.0	927.0	20206.0
+39397	23019	23	19	Penobscot County	72	Accommodation and food services	72	0500000US23019	314.0	5153.0	76219.0
+39398	23019	23	19	Penobscot County	81	Other services (except public administration)	81	0500000US23019	379.0	2566.0	51998.0
+39400	23019	23	19	Penobscot County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23019	75.75	721.5	32991.75
+39401	23019	23	19	Penobscot County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23019	1.25	0.0	0.0
+39402	23019	23	19	Penobscot County, Maine	22	Utilities	22	0500000US23019	12.875	583.375	47204.0
+39403	23019	23	19	Penobscot County, Maine	23	Construction	23	0500000US23019	437.375	2765.375	149936.375
+39404	23019	23	19	Penobscot County, Maine	42	Wholesale trade	42	0500000US23019	177.25	2162.0	109115.875
+39405	23019	23	19	Penobscot County, Maine	51	Information	51	0500000US23019	63.5	1123.375	52529.625
+39406	23019	23	19	Penobscot County, Maine	52	Finance and insurance	52	0500000US23019	206.25	1962.375	123399.5
+39407	23019	23	19	Penobscot County, Maine	53	Real estate and rental and leasing	53	0500000US23019	183.375	820.0	27694.875
+39408	23019	23	19	Penobscot County, Maine	54	Professional, scientific, and technical services	54	0500000US23019	309.25	1774.625	93030.75
+39409	23019	23	19	Penobscot County, Maine	55	Management of companies and enterprises	55	0500000US23019	28.625	1400.5	95563.625
+39410	23019	23	19	Penobscot County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23019	212.75	2835.125	71731.5
+39411	23019	23	19	Penobscot County, Maine	61	Educational services	61	0500000US23019	41.875	1664.25	41319.375
+39412	23019	23	19	Penobscot County, Maine	62	Health care and social assistance	62	0500000US23019	563.25	14609.5	726587.0
+39413	23019	23	19	Penobscot County, Maine	71	Arts, entertainment, and recreation	71	0500000US23019	65.875	637.25	11436.375
+39414	23019	23	19	Penobscot County, Maine	72	Accommodation and food services	72	0500000US23019	330.375	5920.0	100295.0
+39415	23019	23	19	Penobscot County, Maine	81	Other services (except public administration)	81	0500000US23019	376.875	1868.25	53016.875
+39416	23019	23	19	Penobscot County, Maine	99	Industries not classified	99	0500000US23019	6.0	5.333333333333333	95.83333333333333
+39418	23021	23	21	Piscataquis County	11	Agriculture, forestry, fishing and hunting	11	0500000US23021	17.0	62.0	2576.0
+39419	23021	23	21	Piscataquis County	22	Utilities	22	0500000US23021	3.0	0.0	0.0
+39420	23021	23	21	Piscataquis County	23	Construction	23	0500000US23021	64.0	165.0	5833.0
+39421	23021	23	21	Piscataquis County	42	Wholesale trade	42	0500000US23021	10.0	0.0	320.0
+39422	23021	23	21	Piscataquis County	51	Information	51	0500000US23021	9.0	0.0	0.0
+39423	23021	23	21	Piscataquis County	52	Finance and insurance	52	0500000US23021	16.0	67.0	2592.0
+39424	23021	23	21	Piscataquis County	53	Real estate and rental and leasing	53	0500000US23021	11.0	29.0	512.0
+39425	23021	23	21	Piscataquis County	54	Professional, scientific, and technical services	54	0500000US23021	14.0	66.0	1887.0
+39426	23021	23	21	Piscataquis County	55	Management of companies and enterprises	55	0500000US23021	2.0	0.0	0.0
+39427	23021	23	21	Piscataquis County	56	Administrative and support and waste management and remediation services	56	0500000US23021	19.0	0.0	1491.0
+39428	23021	23	21	Piscataquis County	61	Educational services	61	0500000US23021	5.0	0.0	3489.0
+39429	23021	23	21	Piscataquis County	62	Health care and social assistance	62	0500000US23021	36.0	0.0	0.0
+39430	23021	23	21	Piscataquis County	71	Arts, entertainment, and recreation	71	0500000US23021	11.0	0.0	564.0
+39431	23021	23	21	Piscataquis County	72	Accommodation and food services	72	0500000US23021	46.0	240.0	3580.0
+39432	23021	23	21	Piscataquis County	81	Other services (except public administration)	81	0500000US23021	39.0	138.0	2363.0
+39434	23021	23	21	Piscataquis County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23021	16.625	53.875	2806.125
+39435	23021	23	21	Piscataquis County, Maine	22	Utilities	22	0500000US23021	3.0	9.2	776.6
+39436	23021	23	21	Piscataquis County, Maine	23	Construction	23	0500000US23021	58.5	170.25	7534.875
+39437	23021	23	21	Piscataquis County, Maine	42	Wholesale trade	42	0500000US23021	6.75	6.375	172.125
+39438	23021	23	21	Piscataquis County, Maine	51	Information	51	0500000US23021	6.125	13.375	760.375
+39439	23021	23	21	Piscataquis County, Maine	52	Finance and insurance	52	0500000US23021	17.0	71.625	2701.75
+39440	23021	23	21	Piscataquis County, Maine	53	Real estate and rental and leasing	53	0500000US23021	15.375	24.75	801.25
+39441	23021	23	21	Piscataquis County, Maine	54	Professional, scientific, and technical services	54	0500000US23021	12.125	51.875	1618.125
+39442	23021	23	21	Piscataquis County, Maine	55	Management of companies and enterprises	55	0500000US23021	2.0	0.0	0.0
+39443	23021	23	21	Piscataquis County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23021	21.875	157.375	2964.5
+39444	23021	23	21	Piscataquis County, Maine	61	Educational services	61	0500000US23021	4.75	65.5	2290.875
+39445	23021	23	21	Piscataquis County, Maine	62	Health care and social assistance	62	0500000US23021	42.5	1113.375	44106.5
+39446	23021	23	21	Piscataquis County, Maine	71	Arts, entertainment, and recreation	71	0500000US23021	11.75	41.25	792.5
+39447	23021	23	21	Piscataquis County, Maine	72	Accommodation and food services	72	0500000US23021	54.5	309.25	5336.875
+39448	23021	23	21	Piscataquis County, Maine	81	Other services (except public administration)	81	0500000US23021	37.5	78.625	2368.125
+39449	23021	23	21	Piscataquis County, Maine	99	Industries not classified	99	0500000US23021	1.5	0.0	0.0
+39451	23023	23	23	Sagadahoc County	11	Agriculture, forestry, fishing and hunting	11	0500000US23023	8.0	0.0	0.0
+39452	23023	23	23	Sagadahoc County	22	Utilities	22	0500000US23023	1.0	0.0	0.0
+39453	23023	23	23	Sagadahoc County	23	Construction	23	0500000US23023	151.0	782.0	38907.0
+39454	23023	23	23	Sagadahoc County	42	Wholesale trade	42	0500000US23023	25.0	233.0	7372.0
+39455	23023	23	23	Sagadahoc County	51	Information	51	0500000US23023	16.0	0.0	2510.0
+39456	23023	23	23	Sagadahoc County	52	Finance and insurance	52	0500000US23023	43.0	0.0	15227.0
+39457	23023	23	23	Sagadahoc County	53	Real estate and rental and leasing	53	0500000US23023	33.0	0.0	2057.0
+39458	23023	23	23	Sagadahoc County	54	Professional, scientific, and technical services	54	0500000US23023	99.0	890.0	50582.0
+39459	23023	23	23	Sagadahoc County	55	Management of companies and enterprises	55	0500000US23023	4.0	27.0	948.0
+39460	23023	23	23	Sagadahoc County	56	Administrative and support and waste management and remediation services	56	0500000US23023	48.0	290.0	8482.0
+39461	23023	23	23	Sagadahoc County	61	Educational services	61	0500000US23023	11.0	190.0	5706.0
+39462	23023	23	23	Sagadahoc County	62	Health care and social assistance	62	0500000US23023	118.0	1475.0	36030.0
+39463	23023	23	23	Sagadahoc County	71	Arts, entertainment, and recreation	71	0500000US23023	20.0	90.0	2949.0
+39464	23023	23	23	Sagadahoc County	72	Accommodation and food services	72	0500000US23023	81.0	986.0	17546.0
+39465	23023	23	23	Sagadahoc County	81	Other services (except public administration)	81	0500000US23023	80.0	400.0	8871.0
+39467	23023	23	23	Sagadahoc County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23023	7.75	9.25	168.75
+39468	23023	23	23	Sagadahoc County, Maine	22	Utilities	22	0500000US23023	1.8	2.4	214.6
+39469	23023	23	23	Sagadahoc County, Maine	23	Construction	23	0500000US23023	170.875	920.75	51004.125
+39470	23023	23	23	Sagadahoc County, Maine	42	Wholesale trade	42	0500000US23023	22.25	163.375	5635.125
+39471	23023	23	23	Sagadahoc County, Maine	51	Information	51	0500000US23023	16.25	120.625	4303.875
+39472	23023	23	23	Sagadahoc County, Maine	52	Finance and insurance	52	0500000US23023	30.875	301.125	16190.875
+39473	23023	23	23	Sagadahoc County, Maine	53	Real estate and rental and leasing	53	0500000US23023	32.75	57.125	2626.5
+39474	23023	23	23	Sagadahoc County, Maine	54	Professional, scientific, and technical services	54	0500000US23023	100.25	782.625	51487.375
+39475	23023	23	23	Sagadahoc County, Maine	55	Management of companies and enterprises	55	0500000US23023	3.875	22.125	888.375
+39476	23023	23	23	Sagadahoc County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23023	47.75	315.125	10296.875
+39477	23023	23	23	Sagadahoc County, Maine	61	Educational services	61	0500000US23023	8.875	139.5	4909.5
+39478	23023	23	23	Sagadahoc County, Maine	62	Health care and social assistance	62	0500000US23023	119.75	1251.625	33885.0
+39479	23023	23	23	Sagadahoc County, Maine	71	Arts, entertainment, and recreation	71	0500000US23023	17.625	244.5	4476.875
+39480	23023	23	23	Sagadahoc County, Maine	72	Accommodation and food services	72	0500000US23023	83.125	1082.875	21700.75
+39481	23023	23	23	Sagadahoc County, Maine	81	Other services (except public administration)	81	0500000US23023	88.5	459.25	14724.25
+39482	23023	23	23	Sagadahoc County, Maine	99	Industries not classified	99	0500000US23023	2.6	1.8	26.0
+39484	23025	23	25	Somerset County	11	Agriculture, forestry, fishing and hunting	11	0500000US23025	46.0	361.0	13824.0
+39485	23025	23	25	Somerset County	22	Utilities	22	0500000US23025	6.0	0.0	0.0
+39486	23025	23	25	Somerset County	23	Construction	23	0500000US23025	147.0	818.0	41219.0
+39487	23025	23	25	Somerset County	42	Wholesale trade	42	0500000US23025	34.0	204.0	6881.0
+39488	23025	23	25	Somerset County	51	Information	51	0500000US23025	17.0	158.0	8570.0
+39489	23025	23	25	Somerset County	52	Finance and insurance	52	0500000US23025	36.0	260.0	9889.0
+39490	23025	23	25	Somerset County	53	Real estate and rental and leasing	53	0500000US23025	31.0	226.0	10234.0
+39491	23025	23	25	Somerset County	54	Professional, scientific, and technical services	54	0500000US23025	59.0	294.0	13738.0
+39492	23025	23	25	Somerset County	55	Management of companies and enterprises	55	0500000US23025	6.0	200.0	15149.0
+39493	23025	23	25	Somerset County	56	Administrative and support and waste management and remediation services	56	0500000US23025	39.0	403.0	11361.0
+39494	23025	23	25	Somerset County	61	Educational services	61	0500000US23025	18.0	0.0	0.0
+39495	23025	23	25	Somerset County	62	Health care and social assistance	62	0500000US23025	144.0	2659.0	91627.0
+39496	23025	23	25	Somerset County	71	Arts, entertainment, and recreation	71	0500000US23025	27.0	153.0	3976.0
+39497	23025	23	25	Somerset County	72	Accommodation and food services	72	0500000US23025	92.0	816.0	12669.0
+39498	23025	23	25	Somerset County	81	Other services (except public administration)	81	0500000US23025	123.0	442.0	8269.0
+39500	23025	23	25	Somerset County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23025	47.75	338.875	15316.625
+39501	23025	23	25	Somerset County, Maine	22	Utilities	22	0500000US23025	8.25	73.0	5787.125
+39502	23025	23	25	Somerset County, Maine	23	Construction	23	0500000US23025	155.375	940.5	52736.125
+39503	23025	23	25	Somerset County, Maine	42	Wholesale trade	42	0500000US23025	33.375	212.125	8650.5
+39504	23025	23	25	Somerset County, Maine	51	Information	51	0500000US23025	22.75	131.75	6946.875
+39505	23025	23	25	Somerset County, Maine	52	Finance and insurance	52	0500000US23025	32.875	262.0	11317.25
+39506	23025	23	25	Somerset County, Maine	53	Real estate and rental and leasing	53	0500000US23025	33.625	206.5	9536.25
+39507	23025	23	25	Somerset County, Maine	54	Professional, scientific, and technical services	54	0500000US23025	54.375	350.0	16280.875
+39508	23025	23	25	Somerset County, Maine	55	Management of companies and enterprises	55	0500000US23025	5.75	139.375	11233.0
+39509	23025	23	25	Somerset County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23025	51.875	647.875	19020.0
+39510	23025	23	25	Somerset County, Maine	61	Educational services	61	0500000US23025	16.5	279.5	10395.375
+39511	23025	23	25	Somerset County, Maine	62	Health care and social assistance	62	0500000US23025	135.875	2662.25	104094.375
+39512	23025	23	25	Somerset County, Maine	71	Arts, entertainment, and recreation	71	0500000US23025	31.875	139.25	3966.875
+39513	23025	23	25	Somerset County, Maine	72	Accommodation and food services	72	0500000US23025	95.5	880.75	15724.0
+39514	23025	23	25	Somerset County, Maine	81	Other services (except public administration)	81	0500000US23025	115.875	412.0	8628.625
+39515	23025	23	25	Somerset County, Maine	99	Industries not classified	99	0500000US23025	3.25	0.25	44.25
+39517	23027	23	27	Waldo County	11	Agriculture, forestry, fishing and hunting	11	0500000US23027	8.0	0.0	299.0
+39518	23027	23	27	Waldo County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23027	1.0	0.0	0.0
+39519	23027	23	27	Waldo County	22	Utilities	22	0500000US23027	2.0	0.0	0.0
+39520	23027	23	27	Waldo County	23	Construction	23	0500000US23027	140.0	453.0	16663.0
+39521	23027	23	27	Waldo County	42	Wholesale trade	42	0500000US23027	27.0	233.0	10224.0
+39522	23027	23	27	Waldo County	51	Information	51	0500000US23027	16.0	96.0	3698.0
+39523	23027	23	27	Waldo County	52	Finance and insurance	52	0500000US23027	46.0	0.0	0.0
+39524	23027	23	27	Waldo County	53	Real estate and rental and leasing	53	0500000US23027	29.0	0.0	2107.0
+39525	23027	23	27	Waldo County	54	Professional, scientific, and technical services	54	0500000US23027	60.0	194.0	7470.0
+39526	23027	23	27	Waldo County	55	Management of companies and enterprises	55	0500000US23027	6.0	52.0	2166.0
+39527	23027	23	27	Waldo County	56	Administrative and support and waste management and remediation services	56	0500000US23027	41.0	272.0	6780.0
+39528	23027	23	27	Waldo County	61	Educational services	61	0500000US23027	12.0	0.0	0.0
+39529	23027	23	27	Waldo County	62	Health care and social assistance	62	0500000US23027	111.0	1652.0	67375.0
+39530	23027	23	27	Waldo County	71	Arts, entertainment, and recreation	71	0500000US23027	25.0	112.0	2968.0
+39531	23027	23	27	Waldo County	72	Accommodation and food services	72	0500000US23027	93.0	705.0	13739.0
+39532	23027	23	27	Waldo County	81	Other services (except public administration)	81	0500000US23027	101.0	313.0	7048.0
+39534	23027	23	27	Waldo County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23027	10.625	20.875	795.25
+39535	23027	23	27	Waldo County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23027	1.0	0.0	0.0
+39536	23027	23	27	Waldo County, Maine	22	Utilities	22	0500000US23027	2.0	0.0	0.0
+39537	23027	23	27	Waldo County, Maine	23	Construction	23	0500000US23027	141.375	490.375	21686.5
+39538	23027	23	27	Waldo County, Maine	42	Wholesale trade	42	0500000US23027	26.625	318.625	14890.75
+39539	23027	23	27	Waldo County, Maine	51	Information	51	0500000US23027	18.875	336.5	34428.625
+39540	23027	23	27	Waldo County, Maine	52	Finance and insurance	52	0500000US23027	34.5	499.25	33035.625
+39541	23027	23	27	Waldo County, Maine	53	Real estate and rental and leasing	53	0500000US23027	29.625	51.0	2430.125
+39542	23027	23	27	Waldo County, Maine	54	Professional, scientific, and technical services	54	0500000US23027	61.375	218.0	9803.75
+39543	23027	23	27	Waldo County, Maine	55	Management of companies and enterprises	55	0500000US23027	5.75	31.0	2742.5
+39544	23027	23	27	Waldo County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23027	50.875	311.125	10684.875
+39545	23027	23	27	Waldo County, Maine	61	Educational services	61	0500000US23027	15.625	349.25	7204.375
+39546	23027	23	27	Waldo County, Maine	62	Health care and social assistance	62	0500000US23027	113.125	1728.0	78669.75
+39547	23027	23	27	Waldo County, Maine	71	Arts, entertainment, and recreation	71	0500000US23027	23.875	101.875	3247.625
+39548	23027	23	27	Waldo County, Maine	72	Accommodation and food services	72	0500000US23027	93.375	769.5	17054.25
+39549	23027	23	27	Waldo County, Maine	81	Other services (except public administration)	81	0500000US23027	103.375	409.25	11944.5
+39550	23027	23	27	Waldo County, Maine	99	Industries not classified	99	0500000US23027	2.5	0.0	0.0
+39552	23029	23	29	Washington County	11	Agriculture, forestry, fishing and hunting	11	0500000US23029	49.0	273.0	10823.0
+39553	23029	23	29	Washington County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23029	2.0	0.0	0.0
+39554	23029	23	29	Washington County	22	Utilities	22	0500000US23029	3.0	0.0	0.0
+39555	23029	23	29	Washington County	23	Construction	23	0500000US23029	91.0	205.0	7134.0
+39556	23029	23	29	Washington County	42	Wholesale trade	42	0500000US23029	48.0	206.0	5522.0
+39557	23029	23	29	Washington County	51	Information	51	0500000US23029	27.0	93.0	3475.0
+39558	23029	23	29	Washington County	52	Finance and insurance	52	0500000US23029	32.0	278.0	10810.0
+39559	23029	23	29	Washington County	53	Real estate and rental and leasing	53	0500000US23029	20.0	0.0	1110.0
+39560	23029	23	29	Washington County	54	Professional, scientific, and technical services	54	0500000US23029	31.0	112.0	6111.0
+39561	23029	23	29	Washington County	55	Management of companies and enterprises	55	0500000US23029	2.0	0.0	0.0
+39562	23029	23	29	Washington County	56	Administrative and support and waste management and remediation services	56	0500000US23029	26.0	113.0	2275.0
+39563	23029	23	29	Washington County	61	Educational services	61	0500000US23029	13.0	250.0	6633.0
+39564	23029	23	29	Washington County	62	Health care and social assistance	62	0500000US23029	109.0	2023.0	64801.0
+39565	23029	23	29	Washington County	71	Arts, entertainment, and recreation	71	0500000US23029	12.0	0.0	372.0
+39566	23029	23	29	Washington County	72	Accommodation and food services	72	0500000US23029	80.0	555.0	7979.0
+39567	23029	23	29	Washington County	81	Other services (except public administration)	81	0500000US23029	63.0	251.0	4574.0
+39569	23029	23	29	Washington County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23029	57.75	256.25	10165.875
+39570	23029	23	29	Washington County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23029	1.25	0.0	0.0
+39571	23029	23	29	Washington County, Maine	22	Utilities	22	0500000US23029	4.0	29.25	1757.75
+39572	23029	23	29	Washington County, Maine	23	Construction	23	0500000US23029	90.0	244.875	9454.875
+39573	23029	23	29	Washington County, Maine	42	Wholesale trade	42	0500000US23029	49.125	215.125	8459.875
+39574	23029	23	29	Washington County, Maine	51	Information	51	0500000US23029	21.625	81.875	3527.375
+39575	23029	23	29	Washington County, Maine	52	Finance and insurance	52	0500000US23029	31.25	293.375	15482.0
+39576	23029	23	29	Washington County, Maine	53	Real estate and rental and leasing	53	0500000US23029	14.375	36.125	958.25
+39577	23029	23	29	Washington County, Maine	54	Professional, scientific, and technical services	54	0500000US23029	30.75	131.375	6957.75
+39578	23029	23	29	Washington County, Maine	55	Management of companies and enterprises	55	0500000US23029	2.0	0.0	0.0
+39579	23029	23	29	Washington County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23029	27.0	80.75	2677.75
+39580	23029	23	29	Washington County, Maine	61	Educational services	61	0500000US23029	14.375	246.125	7396.5
+39581	23029	23	29	Washington County, Maine	62	Health care and social assistance	62	0500000US23029	99.75	1716.75	65600.625
+39582	23029	23	29	Washington County, Maine	71	Arts, entertainment, and recreation	71	0500000US23029	11.125	18.875	400.125
+39583	23029	23	29	Washington County, Maine	72	Accommodation and food services	72	0500000US23029	78.875	546.25	9135.125
+39584	23029	23	29	Washington County, Maine	81	Other services (except public administration)	81	0500000US23029	65.125	225.75	5985.375
+39585	23029	23	29	Washington County, Maine	99	Industries not classified	99	0500000US23029	3.8	4.4	78.2
+39587	23031	23	31	York County	11	Agriculture, forestry, fishing and hunting	11	0500000US23031	24.0	91.0	3864.0
+39588	23031	23	31	York County	21	Mining, quarrying, and oil and gas extraction	21	0500000US23031	5.0	17.0	1248.0
+39589	23031	23	31	York County	22	Utilities	22	0500000US23031	15.0	203.0	13531.0
+39590	23031	23	31	York County	23	Construction	23	0500000US23031	796.0	2461.0	101577.0
+39591	23031	23	31	York County	42	Wholesale trade	42	0500000US23031	164.0	1441.0	70281.0
+39592	23031	23	31	York County	51	Information	51	0500000US23031	70.0	816.0	29745.0
+39593	23031	23	31	York County	52	Finance and insurance	52	0500000US23031	223.0	1587.0	72398.0
+39594	23031	23	31	York County	53	Real estate and rental and leasing	53	0500000US23031	224.0	589.0	21250.0
+39595	23031	23	31	York County	54	Professional, scientific, and technical services	54	0500000US23031	414.0	1983.0	104734.0
+39596	23031	23	31	York County	55	Management of companies and enterprises	55	0500000US23031	24.0	359.0	24357.0
+39597	23031	23	31	York County	56	Administrative and support and waste management and remediation services	56	0500000US23031	288.0	1538.0	44258.0
+39598	23031	23	31	York County	61	Educational services	61	0500000US23031	45.0	2410.0	64244.0
+39599	23031	23	31	York County	62	Health care and social assistance	62	0500000US23031	590.0	10253.0	396853.0
+39600	23031	23	31	York County	71	Arts, entertainment, and recreation	71	0500000US23031	109.0	754.0	23942.0
+39601	23031	23	31	York County	72	Accommodation and food services	72	0500000US23031	765.0	7256.0	175183.0
+39602	23031	23	31	York County	81	Other services (except public administration)	81	0500000US23031	459.0	1955.0	50580.0
+39603	23031	23	31	York County	99	Industries not classified	99	0500000US23031	5.0	0.0	0.0
+39605	23031	23	31	York County, Maine	11	Agriculture, forestry, fishing and hunting	11	0500000US23031	27.875	119.5	5505.75
+39606	23031	23	31	York County, Maine	21	Mining, quarrying, and oil and gas extraction	21	0500000US23031	4.75	11.75	1354.5
+39607	23031	23	31	York County, Maine	22	Utilities	22	0500000US23031	12.375	97.875	7557.125
+39608	23031	23	31	York County, Maine	23	Construction	23	0500000US23031	834.125	3063.25	150202.375
+39609	23031	23	31	York County, Maine	42	Wholesale trade	42	0500000US23031	162.5	1480.625	72697.75
+39610	23031	23	31	York County, Maine	51	Information	51	0500000US23031	64.25	661.125	25359.75
+39611	23031	23	31	York County, Maine	52	Finance and insurance	52	0500000US23031	213.625	1674.5	93614.75
+39612	23031	23	31	York County, Maine	53	Real estate and rental and leasing	53	0500000US23031	243.25	610.0	26369.5
+39613	23031	23	31	York County, Maine	54	Professional, scientific, and technical services	54	0500000US23031	422.75	1855.375	105457.875
+39614	23031	23	31	York County, Maine	55	Management of companies and enterprises	55	0500000US23031	20.875	467.625	48987.0
+39615	23031	23	31	York County, Maine	56	Administrative and support and waste management and remediation services	56	0500000US23031	320.125	1613.5	59824.0
+39616	23031	23	31	York County, Maine	61	Educational services	61	0500000US23031	47.125	2197.5	75550.5
+39617	23031	23	31	York County, Maine	62	Health care and social assistance	62	0500000US23031	597.125	11382.125	481002.25
+39618	23031	23	31	York County, Maine	71	Arts, entertainment, and recreation	71	0500000US23031	116.5	749.625	29712.5
+39619	23031	23	31	York County, Maine	72	Accommodation and food services	72	0500000US23031	800.125	8090.5	225465.375
+39620	23031	23	31	York County, Maine	81	Other services (except public administration)	81	0500000US23031	471.75	2065.75	59402.875
+39621	23031	23	31	York County, Maine	99	Industries not classified	99	0500000US23031	11.75	19.125	358.875

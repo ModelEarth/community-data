@@ -1,0 +1,504 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+3212	04001	4	1	Apache County	11	Agriculture, forestry, fishing and hunting	11	0500000US04001	7.0	26.0	794.0
+3213	04001	4	1	Apache County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04001	8.0	161.0	7619.0
+3214	04001	4	1	Apache County	22	Utilities	22	0500000US04001	6.0	0.0	0.0
+3215	04001	4	1	Apache County	23	Construction	23	0500000US04001	34.0	111.0	3226.0
+3216	04001	4	1	Apache County	42	Wholesale trade	42	0500000US04001	17.0	94.0	1996.0
+3217	04001	4	1	Apache County	51	Information	51	0500000US04001	11.0	0.0	0.0
+3218	04001	4	1	Apache County	52	Finance and insurance	52	0500000US04001	14.0	77.0	2028.0
+3219	04001	4	1	Apache County	53	Real estate and rental and leasing	53	0500000US04001	12.0	0.0	775.0
+3220	04001	4	1	Apache County	54	Professional, scientific, and technical services	54	0500000US04001	27.0	107.0	4520.0
+3221	04001	4	1	Apache County	55	Management of companies and enterprises	55	0500000US04001	2.0	0.0	0.0
+3222	04001	4	1	Apache County	56	Administrative and support and waste management and remediation services	56	0500000US04001	15.0	145.0	5915.0
+3223	04001	4	1	Apache County	61	Educational services	61	0500000US04001	10.0	340.0	8114.0
+3224	04001	4	1	Apache County	62	Health care and social assistance	62	0500000US04001	62.0	2875.0	122127.0
+3225	04001	4	1	Apache County	71	Arts, entertainment, and recreation	71	0500000US04001	3.0	0.0	0.0
+3226	04001	4	1	Apache County	72	Accommodation and food services	72	0500000US04001	73.0	975.0	18230.0
+3227	04001	4	1	Apache County	81	Other services (except public administration)	81	0500000US04001	39.0	0.0	2515.0
+3228	04001	4	1	Apache County	99	Industries not classified	99	0500000US04001	2.0	0.0	0.0
+3230	04001	4	1	Apache County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04001	6.25	13.125	947.125
+3231	04001	4	1	Apache County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04001	5.875	94.5	5717.125
+3232	04001	4	1	Apache County, Arizona	22	Utilities	22	0500000US04001	6.625	166.875	16227.375
+3233	04001	4	1	Apache County, Arizona	23	Construction	23	0500000US04001	28.625	142.125	4378.75
+3234	04001	4	1	Apache County, Arizona	42	Wholesale trade	42	0500000US04001	13.875	56.375	1948.625
+3235	04001	4	1	Apache County, Arizona	51	Information	51	0500000US04001	10.0	48.625	2323.375
+3236	04001	4	1	Apache County, Arizona	52	Finance and insurance	52	0500000US04001	14.125	64.875	2867.625
+3237	04001	4	1	Apache County, Arizona	53	Real estate and rental and leasing	53	0500000US04001	13.0	32.75	744.125
+3238	04001	4	1	Apache County, Arizona	54	Professional, scientific, and technical services	54	0500000US04001	27.125	103.5	4120.875
+3239	04001	4	1	Apache County, Arizona	55	Management of companies and enterprises	55	0500000US04001	2.5	0.0	0.0
+3240	04001	4	1	Apache County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04001	14.75	138.875	5024.5
+3241	04001	4	1	Apache County, Arizona	61	Educational services	61	0500000US04001	8.5	308.25	9179.875
+3242	04001	4	1	Apache County, Arizona	62	Health care and social assistance	62	0500000US04001	71.625	2579.125	122740.5
+3243	04001	4	1	Apache County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04001	3.375	2.625	97.5
+3244	04001	4	1	Apache County, Arizona	72	Accommodation and food services	72	0500000US04001	58.25	854.625	13474.125
+3245	04001	4	1	Apache County, Arizona	81	Other services (except public administration)	81	0500000US04001	40.125	171.875	3651.125
+3246	04001	4	1	Apache County, Arizona	99	Industries not classified	99	0500000US04001	2.25	4.75	34.0
+3248	04003	4	3	Cochise County	11	Agriculture, forestry, fishing and hunting	11	0500000US04003	6.0	0.0	368.0
+3249	04003	4	3	Cochise County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04003	11.0	0.0	0.0
+3250	04003	4	3	Cochise County	22	Utilities	22	0500000US04003	22.0	472.0	36998.0
+3251	04003	4	3	Cochise County	23	Construction	23	0500000US04003	199.0	1348.0	43697.0
+3252	04003	4	3	Cochise County	42	Wholesale trade	42	0500000US04003	56.0	358.0	12802.0
+3253	04003	4	3	Cochise County	51	Information	51	0500000US04003	34.0	365.0	14465.0
+3254	04003	4	3	Cochise County	52	Finance and insurance	52	0500000US04003	110.0	587.0	21771.0
+3255	04003	4	3	Cochise County	53	Real estate and rental and leasing	53	0500000US04003	113.0	420.0	10720.0
+3256	04003	4	3	Cochise County	54	Professional, scientific, and technical services	54	0500000US04003	213.0	4676.0	271748.0
+3257	04003	4	3	Cochise County	55	Management of companies and enterprises	55	0500000US04003	10.0	0.0	0.0
+3258	04003	4	3	Cochise County	56	Administrative and support and waste management and remediation services	56	0500000US04003	107.0	1897.0	51960.0
+3259	04003	4	3	Cochise County	61	Educational services	61	0500000US04003	36.0	502.0	12257.0
+3260	04003	4	3	Cochise County	62	Health care and social assistance	62	0500000US04003	271.0	4821.0	163882.0
+3261	04003	4	3	Cochise County	71	Arts, entertainment, and recreation	71	0500000US04003	33.0	278.0	4136.0
+3262	04003	4	3	Cochise County	72	Accommodation and food services	72	0500000US04003	278.0	4100.0	53167.0
+3263	04003	4	3	Cochise County	81	Other services (except public administration)	81	0500000US04003	234.0	1031.0	21396.0
+3264	04003	4	3	Cochise County	99	Industries not classified	99	0500000US04003	2.0	0.0	0.0
+3266	04003	4	3	Cochise County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04003	6.125	53.75	1348.875
+3267	04003	4	3	Cochise County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04003	7.75	41.0	2044.125
+3268	04003	4	3	Cochise County, Arizona	22	Utilities	22	0500000US04003	21.5	601.25	48469.125
+3269	04003	4	3	Cochise County, Arizona	23	Construction	23	0500000US04003	183.5	1257.5	52402.25
+3270	04003	4	3	Cochise County, Arizona	42	Wholesale trade	42	0500000US04003	49.75	428.625	16369.125
+3271	04003	4	3	Cochise County, Arizona	51	Information	51	0500000US04003	38.0	338.0	14503.125
+3272	04003	4	3	Cochise County, Arizona	52	Finance and insurance	52	0500000US04003	106.375	512.75	23317.625
+3273	04003	4	3	Cochise County, Arizona	53	Real estate and rental and leasing	53	0500000US04003	107.0	410.75	13530.125
+3274	04003	4	3	Cochise County, Arizona	54	Professional, scientific, and technical services	54	0500000US04003	220.5	3435.25	236583.125
+3275	04003	4	3	Cochise County, Arizona	55	Management of companies and enterprises	55	0500000US04003	7.25	91.0	5564.125
+3276	04003	4	3	Cochise County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04003	92.0	1314.5	38500.375
+3277	04003	4	3	Cochise County, Arizona	61	Educational services	61	0500000US04003	33.625	645.5	26903.0
+3278	04003	4	3	Cochise County, Arizona	62	Health care and social assistance	62	0500000US04003	278.625	4826.375	185828.625
+3279	04003	4	3	Cochise County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04003	32.875	242.25	4247.625
+3280	04003	4	3	Cochise County, Arizona	72	Accommodation and food services	72	0500000US04003	258.875	3863.0	59448.125
+3281	04003	4	3	Cochise County, Arizona	81	Other services (except public administration)	81	0500000US04003	232.125	1046.75	22649.0
+3282	04003	4	3	Cochise County, Arizona	99	Industries not classified	99	0500000US04003	4.0	3.8	73.2
+3284	04005	4	5	Coconino County	11	Agriculture, forestry, fishing and hunting	11	0500000US04005	10.0	0.0	825.0
+3285	04005	4	5	Coconino County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04005	7.0	21.0	1184.0
+3286	04005	4	5	Coconino County	22	Utilities	22	0500000US04005	12.0	0.0	0.0
+3287	04005	4	5	Coconino County	23	Construction	23	0500000US04005	339.0	1833.0	73478.0
+3288	04005	4	5	Coconino County	42	Wholesale trade	42	0500000US04005	110.0	840.0	40762.0
+3289	04005	4	5	Coconino County	51	Information	51	0500000US04005	44.0	649.0	29456.0
+3290	04005	4	5	Coconino County	52	Finance and insurance	52	0500000US04005	154.0	784.0	40375.0
+3291	04005	4	5	Coconino County	53	Real estate and rental and leasing	53	0500000US04005	183.0	685.0	28944.0
+3292	04005	4	5	Coconino County	54	Professional, scientific, and technical services	54	0500000US04005	333.0	1593.0	67362.0
+3293	04005	4	5	Coconino County	55	Management of companies and enterprises	55	0500000US04005	13.0	381.0	20218.0
+3294	04005	4	5	Coconino County	56	Administrative and support and waste management and remediation services	56	0500000US04005	148.0	1207.0	28391.0
+3295	04005	4	5	Coconino County	61	Educational services	61	0500000US04005	27.0	594.0	17923.0
+3296	04005	4	5	Coconino County	62	Health care and social assistance	62	0500000US04005	381.0	6993.0	360212.0
+3297	04005	4	5	Coconino County	71	Arts, entertainment, and recreation	71	0500000US04005	84.0	1495.0	34384.0
+3298	04005	4	5	Coconino County	72	Accommodation and food services	72	0500000US04005	547.0	11293.0	197273.0
+3299	04005	4	5	Coconino County	81	Other services (except public administration)	81	0500000US04005	316.0	1780.0	41770.0
+3300	04005	4	5	Coconino County	99	Industries not classified	99	0500000US04005	2.0	0.0	0.0
+3302	04005	4	5	Coconino County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04005	8.625	16.625	893.0
+3303	04005	4	5	Coconino County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04005	6.125	18.125	2251.5
+3304	04005	4	5	Coconino County, Arizona	22	Utilities	22	0500000US04005	15.375	169.375	14318.375
+3305	04005	4	5	Coconino County, Arizona	23	Construction	23	0500000US04005	347.5	2363.625	101160.5
+3306	04005	4	5	Coconino County, Arizona	42	Wholesale trade	42	0500000US04005	100.375	901.0	43138.0
+3307	04005	4	5	Coconino County, Arizona	51	Information	51	0500000US04005	50.75	776.25	38981.0
+3308	04005	4	5	Coconino County, Arizona	52	Finance and insurance	52	0500000US04005	156.375	869.0	55633.125
+3309	04005	4	5	Coconino County, Arizona	53	Real estate and rental and leasing	53	0500000US04005	219.375	738.5	32387.75
+3310	04005	4	5	Coconino County, Arizona	54	Professional, scientific, and technical services	54	0500000US04005	344.875	1699.625	80814.125
+3311	04005	4	5	Coconino County, Arizona	55	Management of companies and enterprises	55	0500000US04005	11.75	510.875	36995.125
+3312	04005	4	5	Coconino County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04005	163.75	1515.75	43587.875
+3313	04005	4	5	Coconino County, Arizona	61	Educational services	61	0500000US04005	36.125	696.125	21446.125
+3314	04005	4	5	Coconino County, Arizona	62	Health care and social assistance	62	0500000US04005	406.875	8718.125	472131.875
+3315	04005	4	5	Coconino County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04005	103.0	1761.625	45562.375
+3316	04005	4	5	Coconino County, Arizona	72	Accommodation and food services	72	0500000US04005	580.5	14151.125	299611.625
+3317	04005	4	5	Coconino County, Arizona	81	Other services (except public administration)	81	0500000US04005	327.625	1898.875	52862.625
+3318	04005	4	5	Coconino County, Arizona	99	Industries not classified	99	0500000US04005	8.142857142857142	8.428571428571429	150.57142857142858
+3320	04007	4	7	Gila County	11	Agriculture, forestry, fishing and hunting	11	0500000US04007	4.0	0.0	0.0
+3321	04007	4	7	Gila County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04007	14.0	1352.0	161254.0
+3322	04007	4	7	Gila County	22	Utilities	22	0500000US04007	5.0	0.0	0.0
+3323	04007	4	7	Gila County	23	Construction	23	0500000US04007	125.0	629.0	20787.0
+3324	04007	4	7	Gila County	42	Wholesale trade	42	0500000US04007	24.0	173.0	9044.0
+3325	04007	4	7	Gila County	51	Information	51	0500000US04007	16.0	157.0	5272.0
+3326	04007	4	7	Gila County	52	Finance and insurance	52	0500000US04007	49.0	216.0	8809.0
+3327	04007	4	7	Gila County	53	Real estate and rental and leasing	53	0500000US04007	64.0	155.0	4113.0
+3328	04007	4	7	Gila County	54	Professional, scientific, and technical services	54	0500000US04007	79.0	347.0	19548.0
+3329	04007	4	7	Gila County	55	Management of companies and enterprises	55	0500000US04007	2.0	0.0	0.0
+3330	04007	4	7	Gila County	56	Administrative and support and waste management and remediation services	56	0500000US04007	40.0	306.0	8077.0
+3331	04007	4	7	Gila County	61	Educational services	61	0500000US04007	13.0	116.0	2607.0
+3332	04007	4	7	Gila County	62	Health care and social assistance	62	0500000US04007	132.0	2310.0	92803.0
+3333	04007	4	7	Gila County	71	Arts, entertainment, and recreation	71	0500000US04007	13.0	0.0	0.0
+3334	04007	4	7	Gila County	72	Accommodation and food services	72	0500000US04007	131.0	1681.0	27524.0
+3335	04007	4	7	Gila County	81	Other services (except public administration)	81	0500000US04007	89.0	338.0	6628.0
+3336	04007	4	7	Gila County	99	Industries not classified	99	0500000US04007	1.0	0.0	0.0
+3338	04007	4	7	Gila County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04007	1.0	0.0	0.0
+3339	04007	4	7	Gila County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04007	11.5	1610.0	139104.625
+3340	04007	4	7	Gila County, Arizona	22	Utilities	22	0500000US04007	5.875	54.125	5429.75
+3341	04007	4	7	Gila County, Arizona	23	Construction	23	0500000US04007	126.5	734.25	32840.625
+3342	04007	4	7	Gila County, Arizona	42	Wholesale trade	42	0500000US04007	20.5	165.0	8963.25
+3343	04007	4	7	Gila County, Arizona	51	Information	51	0500000US04007	19.875	124.25	3670.625
+3344	04007	4	7	Gila County, Arizona	52	Finance and insurance	52	0500000US04007	46.875	184.125	8493.25
+3345	04007	4	7	Gila County, Arizona	53	Real estate and rental and leasing	53	0500000US04007	67.0	144.5	5414.875
+3346	04007	4	7	Gila County, Arizona	54	Professional, scientific, and technical services	54	0500000US04007	81.125	219.375	10511.0
+3347	04007	4	7	Gila County, Arizona	55	Management of companies and enterprises	55	0500000US04007	2.5	0.0	0.0
+3348	04007	4	7	Gila County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04007	34.625	219.375	6216.75
+3349	04007	4	7	Gila County, Arizona	61	Educational services	61	0500000US04007	11.0	122.125	3193.375
+3350	04007	4	7	Gila County, Arizona	62	Health care and social assistance	62	0500000US04007	141.625	2165.0	101393.5
+3351	04007	4	7	Gila County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04007	14.875	491.125	12643.875
+3352	04007	4	7	Gila County, Arizona	72	Accommodation and food services	72	0500000US04007	136.0	1925.75	34685.625
+3353	04007	4	7	Gila County, Arizona	81	Other services (except public administration)	81	0500000US04007	88.375	325.5	7075.375
+3354	04007	4	7	Gila County, Arizona	99	Industries not classified	99	0500000US04007	2.5	0.75	5.75
+3356	04009	4	9	Graham County	11	Agriculture, forestry, fishing and hunting	11	0500000US04009	4.0	0.0	0.0
+3357	04009	4	9	Graham County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04009	2.0	0.0	0.0
+3358	04009	4	9	Graham County	22	Utilities	22	0500000US04009	5.0	0.0	0.0
+3359	04009	4	9	Graham County	23	Construction	23	0500000US04009	49.0	360.0	14841.0
+3360	04009	4	9	Graham County	42	Wholesale trade	42	0500000US04009	17.0	179.0	7406.0
+3361	04009	4	9	Graham County	51	Information	51	0500000US04009	11.0	98.0	2950.0
+3362	04009	4	9	Graham County	52	Finance and insurance	52	0500000US04009	24.0	119.0	4418.0
+3363	04009	4	9	Graham County	53	Real estate and rental and leasing	53	0500000US04009	25.0	79.0	2429.0
+3364	04009	4	9	Graham County	54	Professional, scientific, and technical services	54	0500000US04009	24.0	0.0	0.0
+3365	04009	4	9	Graham County	55	Management of companies and enterprises	55	0500000US04009	1.0	0.0	0.0
+3366	04009	4	9	Graham County	56	Administrative and support and waste management and remediation services	56	0500000US04009	14.0	81.0	2543.0
+3367	04009	4	9	Graham County	61	Educational services	61	0500000US04009	7.0	71.0	1084.0
+3368	04009	4	9	Graham County	62	Health care and social assistance	62	0500000US04009	79.0	1311.0	46445.0
+3369	04009	4	9	Graham County	71	Arts, entertainment, and recreation	71	0500000US04009	5.0	0.0	323.0
+3370	04009	4	9	Graham County	72	Accommodation and food services	72	0500000US04009	56.0	819.0	8769.0
+3371	04009	4	9	Graham County	81	Other services (except public administration)	81	0500000US04009	46.0	319.0	9825.0
+3372	04009	4	9	Graham County	99	Industries not classified	99	0500000US04009	1.0	0.0	0.0
+3374	04009	4	9	Graham County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04009	4.125	62.25	349.125
+3375	04009	4	9	Graham County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04009	2.0	0.0	0.0
+3376	04009	4	9	Graham County, Arizona	22	Utilities	22	0500000US04009	4.625	18.5	1416.0
+3377	04009	4	9	Graham County, Arizona	23	Construction	23	0500000US04009	53.75	392.125	15980.5
+3378	04009	4	9	Graham County, Arizona	42	Wholesale trade	42	0500000US04009	17.875	213.375	10356.875
+3379	04009	4	9	Graham County, Arizona	51	Information	51	0500000US04009	9.75	80.375	3010.25
+3380	04009	4	9	Graham County, Arizona	52	Finance and insurance	52	0500000US04009	24.125	113.625	5053.75
+3381	04009	4	9	Graham County, Arizona	53	Real estate and rental and leasing	53	0500000US04009	23.375	76.875	2542.125
+3382	04009	4	9	Graham County, Arizona	54	Professional, scientific, and technical services	54	0500000US04009	26.75	358.75	12662.25
+3383	04009	4	9	Graham County, Arizona	55	Management of companies and enterprises	55	0500000US04009	1.0	0.0	0.0
+3384	04009	4	9	Graham County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04009	16.0	113.125	3076.375
+3385	04009	4	9	Graham County, Arizona	61	Educational services	61	0500000US04009	7.0	59.5	1151.125
+3386	04009	4	9	Graham County, Arizona	62	Health care and social assistance	62	0500000US04009	76.875	1827.5	83175.625
+3387	04009	4	9	Graham County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04009	6.875	37.0	541.125
+3388	04009	4	9	Graham County, Arizona	72	Accommodation and food services	72	0500000US04009	53.125	933.625	12186.5
+3389	04009	4	9	Graham County, Arizona	81	Other services (except public administration)	81	0500000US04009	43.625	303.125	11354.375
+3390	04009	4	9	Graham County, Arizona	99	Industries not classified	99	0500000US04009	1.6666666666666667	0.0	0.0
+3392	04011	4	11	Greenlee County	11	Agriculture, forestry, fishing and hunting	11	0500000US04011	1.0	0.0	0.0
+3393	04011	4	11	Greenlee County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04011	2.0	0.0	0.0
+3394	04011	4	11	Greenlee County	22	Utilities	22	0500000US04011	4.0	35.0	2205.0
+3395	04011	4	11	Greenlee County	23	Construction	23	0500000US04011	6.0	0.0	1845.0
+3396	04011	4	11	Greenlee County	42	Wholesale trade	42	0500000US04011	3.0	0.0	0.0
+3397	04011	4	11	Greenlee County	51	Information	51	0500000US04011	5.0	0.0	0.0
+3398	04011	4	11	Greenlee County	52	Finance and insurance	52	0500000US04011	4.0	0.0	0.0
+3399	04011	4	11	Greenlee County	53	Real estate and rental and leasing	53	0500000US04011	2.0	0.0	0.0
+3400	04011	4	11	Greenlee County	54	Professional, scientific, and technical services	54	0500000US04011	3.0	0.0	0.0
+3401	04011	4	11	Greenlee County	55	Management of companies and enterprises	55	0500000US04011	1.0	0.0	0.0
+3402	04011	4	11	Greenlee County	56	Administrative and support and waste management and remediation services	56	0500000US04011	2.0	0.0	0.0
+3403	04011	4	11	Greenlee County	62	Health care and social assistance	62	0500000US04011	8.0	0.0	5469.0
+3404	04011	4	11	Greenlee County	71	Arts, entertainment, and recreation	71	0500000US04011	2.0	0.0	0.0
+3405	04011	4	11	Greenlee County	72	Accommodation and food services	72	0500000US04011	15.0	62.0	1014.0
+3406	04011	4	11	Greenlee County	81	Other services (except public administration)	81	0500000US04011	7.0	17.0	180.0
+3408	04011	4	11	Greenlee County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04011	1.0	0.0	0.0
+3409	04011	4	11	Greenlee County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04011	2.3333333333333335	956.5	71912.5
+3410	04011	4	11	Greenlee County, Arizona	22	Utilities	22	0500000US04011	3.0	36.125	2513.25
+3411	04011	4	11	Greenlee County, Arizona	23	Construction	23	0500000US04011	5.25	29.125	1666.125
+3412	04011	4	11	Greenlee County, Arizona	42	Wholesale trade	42	0500000US04011	3.5714285714285716	15.428571428571429	907.8571428571429
+3413	04011	4	11	Greenlee County, Arizona	51	Information	51	0500000US04011	4.625	7.75	323.375
+3414	04011	4	11	Greenlee County, Arizona	52	Finance and insurance	52	0500000US04011	3.6666666666666665	5.666666666666667	109.16666666666667
+3415	04011	4	11	Greenlee County, Arizona	53	Real estate and rental and leasing	53	0500000US04011	3.625	6.125	235.125
+3416	04011	4	11	Greenlee County, Arizona	54	Professional, scientific, and technical services	54	0500000US04011	4.375	25.0	1243.75
+3417	04011	4	11	Greenlee County, Arizona	55	Management of companies and enterprises	55	0500000US04011	1.0	0.0	0.0
+3418	04011	4	11	Greenlee County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04011	3.125	98.75	2286.5
+3419	04011	4	11	Greenlee County, Arizona	62	Health care and social assistance	62	0500000US04011	9.875	94.0	5167.375
+3420	04011	4	11	Greenlee County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04011	2.0	0.0	0.0
+3421	04011	4	11	Greenlee County, Arizona	72	Accommodation and food services	72	0500000US04011	11.875	104.875	2158.25
+3422	04011	4	11	Greenlee County, Arizona	81	Other services (except public administration)	81	0500000US04011	6.375	12.75	269.25
+3423	04011	4	11	Greenlee County, Arizona	99	Industries not classified	99	0500000US04011	1.0	0.0	0.0
+3425	04012	4	12	La Paz County	11	Agriculture, forestry, fishing and hunting	11	0500000US04012	1.0	0.0	0.0
+3426	04012	4	12	La Paz County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04012	6.0	0.0	1453.0
+3427	04012	4	12	La Paz County	22	Utilities	22	0500000US04012	7.0	0.0	0.0
+3428	04012	4	12	La Paz County	23	Construction	23	0500000US04012	17.0	0.0	2021.0
+3429	04012	4	12	La Paz County	42	Wholesale trade	42	0500000US04012	13.0	159.0	4508.0
+3430	04012	4	12	La Paz County	51	Information	51	0500000US04012	8.0	19.0	1044.0
+3431	04012	4	12	La Paz County	52	Finance and insurance	52	0500000US04012	16.0	74.0	2349.0
+3432	04012	4	12	La Paz County	53	Real estate and rental and leasing	53	0500000US04012	21.0	71.0	1446.0
+3433	04012	4	12	La Paz County	54	Professional, scientific, and technical services	54	0500000US04012	11.0	0.0	679.0
+3434	04012	4	12	La Paz County	56	Administrative and support and waste management and remediation services	56	0500000US04012	6.0	0.0	0.0
+3435	04012	4	12	La Paz County	61	Educational services	61	0500000US04012	2.0	0.0	0.0
+3436	04012	4	12	La Paz County	62	Health care and social assistance	62	0500000US04012	21.0	556.0	28290.0
+3437	04012	4	12	La Paz County	71	Arts, entertainment, and recreation	71	0500000US04012	4.0	0.0	0.0
+3438	04012	4	12	La Paz County	72	Accommodation and food services	72	0500000US04012	82.0	841.0	11006.0
+3439	04012	4	12	La Paz County	81	Other services (except public administration)	81	0500000US04012	22.0	0.0	1553.0
+3441	04012	4	12	La Paz County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04012	3.0	13.0	475.25
+3442	04012	4	12	La Paz County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04012	4.625	21.875	1622.125
+3443	04012	4	12	La Paz County, Arizona	22	Utilities	22	0500000US04012	5.875	28.625	2070.75
+3444	04012	4	12	La Paz County, Arizona	23	Construction	23	0500000US04012	18.25	60.0	2794.875
+3445	04012	4	12	La Paz County, Arizona	42	Wholesale trade	42	0500000US04012	14.125	102.875	5148.375
+3446	04012	4	12	La Paz County, Arizona	51	Information	51	0500000US04012	8.875	23.375	1369.5
+3447	04012	4	12	La Paz County, Arizona	52	Finance and insurance	52	0500000US04012	13.125	53.625	2029.25
+3448	04012	4	12	La Paz County, Arizona	53	Real estate and rental and leasing	53	0500000US04012	18.25	63.75	1529.25
+3449	04012	4	12	La Paz County, Arizona	54	Professional, scientific, and technical services	54	0500000US04012	12.125	19.875	1556.625
+3450	04012	4	12	La Paz County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04012	5.125	27.125	850.375
+3451	04012	4	12	La Paz County, Arizona	61	Educational services	61	0500000US04012	1.5	0.0	0.0
+3452	04012	4	12	La Paz County, Arizona	62	Health care and social assistance	62	0500000US04012	24.75	495.125	25328.25
+3453	04012	4	12	La Paz County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04012	3.5	8.875	185.0
+3454	04012	4	12	La Paz County, Arizona	72	Accommodation and food services	72	0500000US04012	79.5	1213.875	21065.125
+3455	04012	4	12	La Paz County, Arizona	81	Other services (except public administration)	81	0500000US04012	23.875	71.5	1961.0
+3456	04012	4	12	La Paz County, Arizona	99	Industries not classified	99	0500000US04012	1.6666666666666667	1.6666666666666667	21.0
+3458	04013	4	13	Maricopa County	11	Agriculture, forestry, fishing and hunting	11	0500000US04013	80.0	337.0	9663.0
+3459	04013	4	13	Maricopa County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04013	77.0	554.0	36703.0
+3460	04013	4	13	Maricopa County	22	Utilities	22	0500000US04013	81.0	7889.0	798868.0
+3461	04013	4	13	Maricopa County	23	Construction	23	0500000US04013	6742.0	87619.0	4388916.0
+3462	04013	4	13	Maricopa County	42	Wholesale trade	42	0500000US04013	4721.0	72289.0	4689666.0
+3463	04013	4	13	Maricopa County	51	Information	51	0500000US04013	1339.0	33510.0	2323692.0
+3464	04013	4	13	Maricopa County	52	Finance and insurance	52	0500000US04013	6612.0	108033.0	6823001.0
+3465	04013	4	13	Maricopa County	53	Real estate and rental and leasing	53	0500000US04013	5375.0	31794.0	1508918.0
+3466	04013	4	13	Maricopa County	54	Professional, scientific, and technical services	54	0500000US04013	11621.0	91185.0	6006942.0
+3467	04013	4	13	Maricopa County	55	Management of companies and enterprises	55	0500000US04013	694.0	40807.0	3992087.0
+3468	04013	4	13	Maricopa County	56	Administrative and support and waste management and remediation services	56	0500000US04013	5487.0	131918.0	4944783.0
+3469	04013	4	13	Maricopa County	61	Educational services	61	0500000US04013	1406.0	64936.0	1838107.0
+3470	04013	4	13	Maricopa County	62	Health care and social assistance	62	0500000US04013	10803.0	202249.0	10337270.0
+3471	04013	4	13	Maricopa County	71	Arts, entertainment, and recreation	71	0500000US04013	1061.0	27359.0	1001287.0
+3472	04013	4	13	Maricopa County	72	Accommodation and food services	72	0500000US04013	6787.0	160675.0	2765124.0
+3473	04013	4	13	Maricopa County	81	Other services (except public administration)	81	0500000US04013	6523.0	56921.0	1833124.0
+3474	04013	4	13	Maricopa County	99	Industries not classified	99	0500000US04013	66.0	68.0	1634.0
+3476	04013	4	13	Maricopa County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04013	91.25	437.875	16154.0
+3477	04013	4	13	Maricopa County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04013	68.625	796.25	55613.25
+3478	04013	4	13	Maricopa County, Arizona	22	Utilities	22	0500000US04013	82.875	7318.125	815815.5
+3479	04013	4	13	Maricopa County, Arizona	23	Construction	23	0500000US04013	7582.0	110340.125	6137765.125
+3480	04013	4	13	Maricopa County, Arizona	42	Wholesale trade	42	0500000US04013	4614.375	74362.625	5037250.625
+3481	04013	4	13	Maricopa County, Arizona	51	Information	51	0500000US04013	1589.75	39743.25	2878969.5
+3482	04013	4	13	Maricopa County, Arizona	52	Finance and insurance	52	0500000US04013	6860.25	131180.25	9839567.875
+3483	04013	4	13	Maricopa County, Arizona	53	Real estate and rental and leasing	53	0500000US04013	6659.0	37452.5	2069405.0
+3484	04013	4	13	Maricopa County, Arizona	54	Professional, scientific, and technical services	54	0500000US04013	12990.875	114579.25	8848047.375
+3485	04013	4	13	Maricopa County, Arizona	55	Management of companies and enterprises	55	0500000US04013	744.125	49440.75	4168903.875
+3486	04013	4	13	Maricopa County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04013	5880.0	136623.5	5032555.375
+3487	04013	4	13	Maricopa County, Arizona	61	Educational services	61	0500000US04013	1514.75	49001.75	1943735.125
+3488	04013	4	13	Maricopa County, Arizona	62	Health care and social assistance	62	0500000US04013	12134.875	234126.75	11970180.25
+3489	04013	4	13	Maricopa County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04013	1290.0	34718.375	1336408.875
+3490	04013	4	13	Maricopa County, Arizona	72	Accommodation and food services	72	0500000US04013	7766.25	190865.0	3690347.875
+3491	04013	4	13	Maricopa County, Arizona	81	Other services (except public administration)	81	0500000US04013	7064.875	62387.0	2092667.625
+3492	04013	4	13	Maricopa County, Arizona	99	Industries not classified	99	0500000US04013	144.0	157.875	6337.625
+3494	04015	4	15	Mohave County	11	Agriculture, forestry, fishing and hunting	11	0500000US04015	1.0	0.0	0.0
+3495	04015	4	15	Mohave County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04015	15.0	624.0	35032.0
+3496	04015	4	15	Mohave County	22	Utilities	22	0500000US04015	30.0	399.0	24484.0
+3497	04015	4	15	Mohave County	23	Construction	23	0500000US04015	416.0	1743.0	54021.0
+3498	04015	4	15	Mohave County	42	Wholesale trade	42	0500000US04015	121.0	902.0	34609.0
+3499	04015	4	15	Mohave County	51	Information	51	0500000US04015	50.0	593.0	21411.0
+3500	04015	4	15	Mohave County	52	Finance and insurance	52	0500000US04015	189.0	983.0	39281.0
+3501	04015	4	15	Mohave County	53	Real estate and rental and leasing	53	0500000US04015	204.0	752.0	17214.0
+3502	04015	4	15	Mohave County	54	Professional, scientific, and technical services	54	0500000US04015	239.0	929.0	32195.0
+3503	04015	4	15	Mohave County	55	Management of companies and enterprises	55	0500000US04015	6.0	46.0	1912.0
+3504	04015	4	15	Mohave County	56	Administrative and support and waste management and remediation services	56	0500000US04015	207.0	2086.0	63483.0
+3505	04015	4	15	Mohave County	61	Educational services	61	0500000US04015	24.0	453.0	11570.0
+3506	04015	4	15	Mohave County	62	Health care and social assistance	62	0500000US04015	474.0	8190.0	370898.0
+3507	04015	4	15	Mohave County	71	Arts, entertainment, and recreation	71	0500000US04015	44.0	687.0	12796.0
+3508	04015	4	15	Mohave County	72	Accommodation and food services	72	0500000US04015	381.0	5690.0	74994.0
+3509	04015	4	15	Mohave County	81	Other services (except public administration)	81	0500000US04015	364.0	1766.0	35854.0
+3510	04015	4	15	Mohave County	99	Industries not classified	99	0500000US04015	2.0	0.0	0.0
+3512	04015	4	15	Mohave County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04015	1.0	0.0	0.0
+3513	04015	4	15	Mohave County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04015	11.0	224.875	13374.875
+3514	04015	4	15	Mohave County, Arizona	22	Utilities	22	0500000US04015	26.625	356.25	25390.625
+3515	04015	4	15	Mohave County, Arizona	23	Construction	23	0500000US04015	492.75	2905.75	107762.25
+3516	04015	4	15	Mohave County, Arizona	42	Wholesale trade	42	0500000US04015	117.875	1151.5	51368.375
+3517	04015	4	15	Mohave County, Arizona	51	Information	51	0500000US04015	56.75	659.375	24101.625
+3518	04015	4	15	Mohave County, Arizona	52	Finance and insurance	52	0500000US04015	185.75	1043.375	54205.375
+3519	04015	4	15	Mohave County, Arizona	53	Real estate and rental and leasing	53	0500000US04015	234.625	679.125	20013.5
+3520	04015	4	15	Mohave County, Arizona	54	Professional, scientific, and technical services	54	0500000US04015	234.375	1059.625	42847.625
+3521	04015	4	15	Mohave County, Arizona	55	Management of companies and enterprises	55	0500000US04015	5.875	161.375	8085.75
+3522	04015	4	15	Mohave County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04015	206.5	1975.875	56295.75
+3523	04015	4	15	Mohave County, Arizona	61	Educational services	61	0500000US04015	23.75	528.875	16426.0
+3524	04015	4	15	Mohave County, Arizona	62	Health care and social assistance	62	0500000US04015	488.125	8705.75	417009.125
+3525	04015	4	15	Mohave County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04015	41.125	565.875	11791.125
+3526	04015	4	15	Mohave County, Arizona	72	Accommodation and food services	72	0500000US04015	396.875	6598.375	106716.375
+3527	04015	4	15	Mohave County, Arizona	81	Other services (except public administration)	81	0500000US04015	367.0	1830.5	44159.0
+3528	04015	4	15	Mohave County, Arizona	99	Industries not classified	99	0500000US04015	4.142857142857143	5.714285714285714	144.28571428571428
+3530	04017	4	17	Navajo County	11	Agriculture, forestry, fishing and hunting	11	0500000US04017	6.0	34.0	1720.0
+3531	04017	4	17	Navajo County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04017	8.0	0.0	0.0
+3532	04017	4	17	Navajo County	22	Utilities	22	0500000US04017	13.0	0.0	0.0
+3533	04017	4	17	Navajo County	23	Construction	23	0500000US04017	201.0	830.0	27898.0
+3534	04017	4	17	Navajo County	42	Wholesale trade	42	0500000US04017	41.0	346.0	13365.0
+3535	04017	4	17	Navajo County	51	Information	51	0500000US04017	30.0	0.0	0.0
+3536	04017	4	17	Navajo County	52	Finance and insurance	52	0500000US04017	76.0	388.0	14333.0
+3537	04017	4	17	Navajo County	53	Real estate and rental and leasing	53	0500000US04017	91.0	199.0	6166.0
+3538	04017	4	17	Navajo County	54	Professional, scientific, and technical services	54	0500000US04017	114.0	372.0	10433.0
+3539	04017	4	17	Navajo County	55	Management of companies and enterprises	55	0500000US04017	4.0	0.0	0.0
+3540	04017	4	17	Navajo County	56	Administrative and support and waste management and remediation services	56	0500000US04017	81.0	486.0	16980.0
+3541	04017	4	17	Navajo County	61	Educational services	61	0500000US04017	21.0	467.0	13907.0
+3542	04017	4	17	Navajo County	62	Health care and social assistance	62	0500000US04017	242.0	3746.0	175411.0
+3543	04017	4	17	Navajo County	71	Arts, entertainment, and recreation	71	0500000US04017	16.0	130.0	5380.0
+3544	04017	4	17	Navajo County	72	Accommodation and food services	72	0500000US04017	224.0	3157.0	50448.0
+3545	04017	4	17	Navajo County	81	Other services (except public administration)	81	0500000US04017	173.0	727.0	14496.0
+3546	04017	4	17	Navajo County	99	Industries not classified	99	0500000US04017	4.0	5.0	98.0
+3548	04017	4	17	Navajo County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04017	8.5	66.125	3059.375
+3549	04017	4	17	Navajo County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04017	9.375	306.25	25428.625
+3550	04017	4	17	Navajo County, Arizona	22	Utilities	22	0500000US04017	18.75	332.5	32448.375
+3551	04017	4	17	Navajo County, Arizona	23	Construction	23	0500000US04017	196.75	1007.875	39798.5
+3552	04017	4	17	Navajo County, Arizona	42	Wholesale trade	42	0500000US04017	40.0	316.5	14290.125
+3553	04017	4	17	Navajo County, Arizona	51	Information	51	0500000US04017	28.125	277.375	13027.0
+3554	04017	4	17	Navajo County, Arizona	52	Finance and insurance	52	0500000US04017	74.0	349.125	14351.5
+3555	04017	4	17	Navajo County, Arizona	53	Real estate and rental and leasing	53	0500000US04017	100.5	237.375	7510.25
+3556	04017	4	17	Navajo County, Arizona	54	Professional, scientific, and technical services	54	0500000US04017	119.875	366.25	13383.875
+3557	04017	4	17	Navajo County, Arizona	55	Management of companies and enterprises	55	0500000US04017	3.3333333333333335	7.5	728.6666666666666
+3558	04017	4	17	Navajo County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04017	78.125	518.75	18595.75
+3559	04017	4	17	Navajo County, Arizona	61	Educational services	61	0500000US04017	17.875	461.5	14838.0
+3560	04017	4	17	Navajo County, Arizona	62	Health care and social assistance	62	0500000US04017	250.75	4455.125	220343.125
+3561	04017	4	17	Navajo County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04017	20.5	192.5	8492.0
+3562	04017	4	17	Navajo County, Arizona	72	Accommodation and food services	72	0500000US04017	228.375	3872.25	71679.0
+3563	04017	4	17	Navajo County, Arizona	81	Other services (except public administration)	81	0500000US04017	163.5	753.875	17202.125
+3564	04017	4	17	Navajo County, Arizona	99	Industries not classified	99	0500000US04017	7.0	5.875	262.25
+3566	04019	4	19	Pima County	11	Agriculture, forestry, fishing and hunting	11	0500000US04019	21.0	0.0	4361.0
+3567	04019	4	19	Pima County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04019	36.0	0.0	147029.0
+3568	04019	4	19	Pima County	22	Utilities	22	0500000US04019	25.0	0.0	0.0
+3569	04019	4	19	Pima County	23	Construction	23	0500000US04019	1614.0	15829.0	655950.0
+3570	04019	4	19	Pima County	42	Wholesale trade	42	0500000US04019	786.0	7203.0	334613.0
+3571	04019	4	19	Pima County	51	Information	51	0500000US04019	285.0	5717.0	319071.0
+3572	04019	4	19	Pima County	52	Finance and insurance	52	0500000US04019	1231.0	11623.0	579409.0
+3573	04019	4	19	Pima County	53	Real estate and rental and leasing	53	0500000US04019	1239.0	5907.0	205226.0
+3574	04019	4	19	Pima County	54	Professional, scientific, and technical services	54	0500000US04019	2538.0	16435.0	942952.0
+3575	04019	4	19	Pima County	55	Management of companies and enterprises	55	0500000US04019	133.0	4682.0	324690.0
+3576	04019	4	19	Pima County	56	Administrative and support and waste management and remediation services	56	0500000US04019	1185.0	27186.0	645520.0
+3577	04019	4	19	Pima County	61	Educational services	61	0500000US04019	361.0	6592.0	195314.0
+3578	04019	4	19	Pima County	62	Health care and social assistance	62	0500000US04019	2791.0	57246.0	2462440.0
+3579	04019	4	19	Pima County	71	Arts, entertainment, and recreation	71	0500000US04019	298.0	6397.0	111521.0
+3580	04019	4	19	Pima County	72	Accommodation and food services	72	0500000US04019	1777.0	43778.0	663931.0
+3581	04019	4	19	Pima County	81	Other services (except public administration)	81	0500000US04019	1863.0	14822.0	353309.0
+3582	04019	4	19	Pima County	99	Industries not classified	99	0500000US04019	13.0	15.0	282.0
+3584	04019	4	19	Pima County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04019	22.375	204.75	6127.125
+3585	04019	4	19	Pima County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04019	35.75	2140.125	160223.875
+3586	04019	4	19	Pima County, Arizona	22	Utilities	22	0500000US04019	26.125	1490.375	137200.75
+3587	04019	4	19	Pima County, Arizona	23	Construction	23	0500000US04019	1667.0	19127.375	909626.25
+3588	04019	4	19	Pima County, Arizona	42	Wholesale trade	42	0500000US04019	752.625	7417.25	379610.5
+3589	04019	4	19	Pima County, Arizona	51	Information	51	0500000US04019	308.125	7092.75	434602.625
+3590	04019	4	19	Pima County, Arizona	52	Finance and insurance	52	0500000US04019	1246.5	12745.25	751753.75
+3591	04019	4	19	Pima County, Arizona	53	Real estate and rental and leasing	53	0500000US04019	1317.125	6323.75	238455.125
+3592	04019	4	19	Pima County, Arizona	54	Professional, scientific, and technical services	54	0500000US04019	2567.875	17297.375	1057648.25
+3593	04019	4	19	Pima County, Arizona	55	Management of companies and enterprises	55	0500000US04019	138.25	4241.375	286391.5
+3594	04019	4	19	Pima County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04019	1181.0	26623.25	719507.5
+3595	04019	4	19	Pima County, Arizona	61	Educational services	61	0500000US04019	357.25	6452.125	219012.0
+3596	04019	4	19	Pima County, Arizona	62	Health care and social assistance	62	0500000US04019	2836.0	60895.0	2880937.5
+3597	04019	4	19	Pima County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04019	323.875	6878.375	134089.375
+3598	04019	4	19	Pima County, Arizona	72	Accommodation and food services	72	0500000US04019	1824.625	44799.25	802496.125
+3599	04019	4	19	Pima County, Arizona	81	Other services (except public administration)	81	0500000US04019	1848.75	14497.25	383827.375
+3600	04019	4	19	Pima County, Arizona	99	Industries not classified	99	0500000US04019	26.0	30.5	903.625
+3602	04021	4	21	Pinal County	11	Agriculture, forestry, fishing and hunting	11	0500000US04021	13.0	86.0	5992.0
+3603	04021	4	21	Pinal County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04021	25.0	1243.0	98887.0
+3604	04021	4	21	Pinal County	22	Utilities	22	0500000US04021	16.0	0.0	17367.0
+3605	04021	4	21	Pinal County	23	Construction	23	0500000US04021	328.0	2197.0	87220.0
+3606	04021	4	21	Pinal County	42	Wholesale trade	42	0500000US04021	116.0	1171.0	56046.0
+3607	04021	4	21	Pinal County	51	Information	51	0500000US04021	44.0	1358.0	45130.0
+3608	04021	4	21	Pinal County	52	Finance and insurance	52	0500000US04021	210.0	1025.0	38788.0
+3609	04021	4	21	Pinal County	53	Real estate and rental and leasing	53	0500000US04021	181.0	584.0	15966.0
+3610	04021	4	21	Pinal County	54	Professional, scientific, and technical services	54	0500000US04021	254.0	1046.0	36618.0
+3611	04021	4	21	Pinal County	55	Management of companies and enterprises	55	0500000US04021	8.0	104.0	4306.0
+3612	04021	4	21	Pinal County	56	Administrative and support and waste management and remediation services	56	0500000US04021	214.0	0.0	0.0
+3613	04021	4	21	Pinal County	61	Educational services	61	0500000US04021	40.0	787.0	25182.0
+3614	04021	4	21	Pinal County	62	Health care and social assistance	62	0500000US04021	415.0	8163.0	312677.0
+3615	04021	4	21	Pinal County	71	Arts, entertainment, and recreation	71	0500000US04021	50.0	1270.0	14937.0
+3616	04021	4	21	Pinal County	72	Accommodation and food services	72	0500000US04021	343.0	6156.0	89669.0
+3617	04021	4	21	Pinal County	81	Other services (except public administration)	81	0500000US04021	326.0	1717.0	42259.0
+3618	04021	4	21	Pinal County	99	Industries not classified	99	0500000US04021	1.0	0.0	0.0
+3620	04021	4	21	Pinal County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04021	12.625	181.625	6417.0
+3621	04021	4	21	Pinal County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04021	22.125	970.375	72270.125
+3622	04021	4	21	Pinal County, Arizona	22	Utilities	22	0500000US04021	19.125	225.5	17645.875
+3623	04021	4	21	Pinal County, Arizona	23	Construction	23	0500000US04021	381.125	2687.75	124372.125
+3624	04021	4	21	Pinal County, Arizona	42	Wholesale trade	42	0500000US04021	126.375	1365.625	68740.5
+3625	04021	4	21	Pinal County, Arizona	51	Information	51	0500000US04021	53.125	718.5	31129.5
+3626	04021	4	21	Pinal County, Arizona	52	Finance and insurance	52	0500000US04021	204.625	1037.5	44298.25
+3627	04021	4	21	Pinal County, Arizona	53	Real estate and rental and leasing	53	0500000US04021	215.25	943.25	30531.875
+3628	04021	4	21	Pinal County, Arizona	54	Professional, scientific, and technical services	54	0500000US04021	293.25	1131.375	50727.25
+3629	04021	4	21	Pinal County, Arizona	55	Management of companies and enterprises	55	0500000US04021	11.125	151.5	6258.375
+3630	04021	4	21	Pinal County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04021	227.375	5103.875	217117.625
+3631	04021	4	21	Pinal County, Arizona	61	Educational services	61	0500000US04021	41.875	1009.375	35443.5
+3632	04021	4	21	Pinal County, Arizona	62	Health care and social assistance	62	0500000US04021	475.5	8688.375	387297.125
+3633	04021	4	21	Pinal County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04021	60.75	1407.5	20720.875
+3634	04021	4	21	Pinal County, Arizona	72	Accommodation and food services	72	0500000US04021	355.5	7099.875	119682.875
+3635	04021	4	21	Pinal County, Arizona	81	Other services (except public administration)	81	0500000US04021	335.5	1986.25	50674.25
+3636	04021	4	21	Pinal County, Arizona	99	Industries not classified	99	0500000US04021	5.875	8.5	297.0
+3638	04023	4	23	Santa Cruz County	11	Agriculture, forestry, fishing and hunting	11	0500000US04023	6.0	102.0	610.0
+3639	04023	4	23	Santa Cruz County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04023	3.0	0.0	0.0
+3640	04023	4	23	Santa Cruz County	22	Utilities	22	0500000US04023	4.0	0.0	0.0
+3641	04023	4	23	Santa Cruz County	23	Construction	23	0500000US04023	53.0	317.0	11760.0
+3642	04023	4	23	Santa Cruz County	42	Wholesale trade	42	0500000US04023	217.0	2156.0	94559.0
+3643	04023	4	23	Santa Cruz County	51	Information	51	0500000US04023	11.0	70.0	2636.0
+3644	04023	4	23	Santa Cruz County	52	Finance and insurance	52	0500000US04023	48.0	247.0	10004.0
+3645	04023	4	23	Santa Cruz County	53	Real estate and rental and leasing	53	0500000US04023	44.0	200.0	3773.0
+3646	04023	4	23	Santa Cruz County	54	Professional, scientific, and technical services	54	0500000US04023	66.0	184.0	6963.0
+3647	04023	4	23	Santa Cruz County	55	Management of companies and enterprises	55	0500000US04023	3.0	0.0	0.0
+3648	04023	4	23	Santa Cruz County	56	Administrative and support and waste management and remediation services	56	0500000US04023	32.0	418.0	6116.0
+3649	04023	4	23	Santa Cruz County	61	Educational services	61	0500000US04023	11.0	100.0	2674.0
+3650	04023	4	23	Santa Cruz County	62	Health care and social assistance	62	0500000US04023	69.0	0.0	0.0
+3651	04023	4	23	Santa Cruz County	71	Arts, entertainment, and recreation	71	0500000US04023	12.0	44.0	871.0
+3652	04023	4	23	Santa Cruz County	72	Accommodation and food services	72	0500000US04023	103.0	1409.0	17612.0
+3653	04023	4	23	Santa Cruz County	81	Other services (except public administration)	81	0500000US04023	62.0	268.0	5439.0
+3654	04023	4	23	Santa Cruz County	99	Industries not classified	99	0500000US04023	1.0	0.0	0.0
+3656	04023	4	23	Santa Cruz County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04023	8.625	126.625	1545.5
+3657	04023	4	23	Santa Cruz County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04023	1.6	15.8	1771.8
+3658	04023	4	23	Santa Cruz County, Arizona	22	Utilities	22	0500000US04023	6.25	70.125	4869.625
+3659	04023	4	23	Santa Cruz County, Arizona	23	Construction	23	0500000US04023	55.25	278.5	10268.125
+3660	04023	4	23	Santa Cruz County, Arizona	42	Wholesale trade	42	0500000US04023	212.875	2331.5	116128.625
+3661	04023	4	23	Santa Cruz County, Arizona	51	Information	51	0500000US04023	12.125	60.5	2098.75
+3662	04023	4	23	Santa Cruz County, Arizona	52	Finance and insurance	52	0500000US04023	39.875	200.875	8382.125
+3663	04023	4	23	Santa Cruz County, Arizona	53	Real estate and rental and leasing	53	0500000US04023	45.25	138.125	3836.625
+3664	04023	4	23	Santa Cruz County, Arizona	54	Professional, scientific, and technical services	54	0500000US04023	61.875	192.125	8063.0
+3665	04023	4	23	Santa Cruz County, Arizona	55	Management of companies and enterprises	55	0500000US04023	2.5	0.75	243.5
+3666	04023	4	23	Santa Cruz County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04023	26.5	289.0	6770.125
+3667	04023	4	23	Santa Cruz County, Arizona	61	Educational services	61	0500000US04023	10.25	94.875	2451.875
+3668	04023	4	23	Santa Cruz County, Arizona	62	Health care and social assistance	62	0500000US04023	71.75	1427.875	67647.375
+3669	04023	4	23	Santa Cruz County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04023	13.625	54.5	959.625
+3670	04023	4	23	Santa Cruz County, Arizona	72	Accommodation and food services	72	0500000US04023	97.5	1418.75	22734.0
+3671	04023	4	23	Santa Cruz County, Arizona	81	Other services (except public administration)	81	0500000US04023	67.0	297.75	7027.5
+3672	04023	4	23	Santa Cruz County, Arizona	99	Industries not classified	99	0500000US04023	3.0	1.4	34.6
+3674	04025	4	25	Yavapai County	11	Agriculture, forestry, fishing and hunting	11	0500000US04025	10.0	69.0	1283.0
+3675	04025	4	25	Yavapai County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04025	15.0	0.0	0.0
+3676	04025	4	25	Yavapai County	22	Utilities	22	0500000US04025	29.0	0.0	0.0
+3677	04025	4	25	Yavapai County	23	Construction	23	0500000US04025	690.0	3413.0	113542.0
+3678	04025	4	25	Yavapai County	42	Wholesale trade	42	0500000US04025	178.0	1387.0	60613.0
+3679	04025	4	25	Yavapai County	51	Information	51	0500000US04025	75.0	759.0	27412.0
+3680	04025	4	25	Yavapai County	52	Finance and insurance	52	0500000US04025	300.0	1343.0	59843.0
+3681	04025	4	25	Yavapai County	53	Real estate and rental and leasing	53	0500000US04025	335.0	890.0	27048.0
+3682	04025	4	25	Yavapai County	54	Professional, scientific, and technical services	54	0500000US04025	522.0	1520.0	58590.0
+3683	04025	4	25	Yavapai County	55	Management of companies and enterprises	55	0500000US04025	12.0	54.0	1987.0
+3684	04025	4	25	Yavapai County	56	Administrative and support and waste management and remediation services	56	0500000US04025	314.0	2635.0	88327.0
+3685	04025	4	25	Yavapai County	61	Educational services	61	0500000US04025	76.0	2300.0	75179.0
+3686	04025	4	25	Yavapai County	62	Health care and social assistance	62	0500000US04025	757.0	11452.0	510851.0
+3687	04025	4	25	Yavapai County	71	Arts, entertainment, and recreation	71	0500000US04025	89.0	994.0	17163.0
+3688	04025	4	25	Yavapai County	72	Accommodation and food services	72	0500000US04025	546.0	8571.0	147350.0
+3689	04025	4	25	Yavapai County	81	Other services (except public administration)	81	0500000US04025	489.0	2558.0	56536.0
+3690	04025	4	25	Yavapai County	99	Industries not classified	99	0500000US04025	2.0	0.0	0.0
+3692	04025	4	25	Yavapai County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04025	9.5	71.125	1627.75
+3693	04025	4	25	Yavapai County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04025	19.125	724.5	44341.75
+3694	04025	4	25	Yavapai County, Arizona	22	Utilities	22	0500000US04025	27.875	276.625	21056.25
+3695	04025	4	25	Yavapai County, Arizona	23	Construction	23	0500000US04025	780.25	4592.875	193098.375
+3696	04025	4	25	Yavapai County, Arizona	42	Wholesale trade	42	0500000US04025	167.375	1541.0	74698.0
+3697	04025	4	25	Yavapai County, Arizona	51	Information	51	0500000US04025	79.875	777.5	29598.0
+3698	04025	4	25	Yavapai County, Arizona	52	Finance and insurance	52	0500000US04025	299.875	1208.75	66615.125
+3699	04025	4	25	Yavapai County, Arizona	53	Real estate and rental and leasing	53	0500000US04025	406.0	1041.625	40719.125
+3700	04025	4	25	Yavapai County, Arizona	54	Professional, scientific, and technical services	54	0500000US04025	550.875	1844.375	85012.875
+3701	04025	4	25	Yavapai County, Arizona	55	Management of companies and enterprises	55	0500000US04025	18.625	214.875	10484.875
+3702	04025	4	25	Yavapai County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04025	329.5	2214.75	65364.375
+3703	04025	4	25	Yavapai County, Arizona	61	Educational services	61	0500000US04025	87.125	2654.5	85045.0
+3704	04025	4	25	Yavapai County, Arizona	62	Health care and social assistance	62	0500000US04025	782.75	13247.5	585653.75
+3705	04025	4	25	Yavapai County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04025	95.625	1064.25	20011.75
+3706	04025	4	25	Yavapai County, Arizona	72	Accommodation and food services	72	0500000US04025	562.75	9537.625	186242.5
+3707	04025	4	25	Yavapai County, Arizona	81	Other services (except public administration)	81	0500000US04025	512.875	2645.5	71099.75
+3708	04025	4	25	Yavapai County, Arizona	99	Industries not classified	99	0500000US04025	9.0	8.625	220.75
+3710	04027	4	27	Yuma County	11	Agriculture, forestry, fishing and hunting	11	0500000US04027	25.0	412.0	13535.0
+3711	04027	4	27	Yuma County	21	Mining, quarrying, and oil and gas extraction	21	0500000US04027	6.0	33.0	1570.0
+3712	04027	4	27	Yuma County	22	Utilities	22	0500000US04027	9.0	0.0	0.0
+3713	04027	4	27	Yuma County	23	Construction	23	0500000US04027	302.0	2328.0	76262.0
+3714	04027	4	27	Yuma County	42	Wholesale trade	42	0500000US04027	143.0	2437.0	110118.0
+3715	04027	4	27	Yuma County	51	Information	51	0500000US04027	39.0	575.0	21458.0
+3716	04027	4	27	Yuma County	52	Finance and insurance	52	0500000US04027	148.0	1291.0	47871.0
+3717	04027	4	27	Yuma County	53	Real estate and rental and leasing	53	0500000US04027	158.0	636.0	17408.0
+3718	04027	4	27	Yuma County	54	Professional, scientific, and technical services	54	0500000US04027	217.0	1352.0	57085.0
+3719	04027	4	27	Yuma County	55	Management of companies and enterprises	55	0500000US04027	12.0	399.0	14033.0
+3720	04027	4	27	Yuma County	56	Administrative and support and waste management and remediation services	56	0500000US04027	153.0	3944.0	115896.0
+3721	04027	4	27	Yuma County	61	Educational services	61	0500000US04027	26.0	555.0	15791.0
+3722	04027	4	27	Yuma County	62	Health care and social assistance	62	0500000US04027	356.0	6579.0	267085.0
+3723	04027	4	27	Yuma County	71	Arts, entertainment, and recreation	71	0500000US04027	29.0	628.0	12201.0
+3724	04027	4	27	Yuma County	72	Accommodation and food services	72	0500000US04027	330.0	5815.0	76520.0
+3725	04027	4	27	Yuma County	81	Other services (except public administration)	81	0500000US04027	254.0	1524.0	33169.0
+3727	04027	4	27	Yuma County, Arizona	11	Agriculture, forestry, fishing and hunting	11	0500000US04027	31.25	565.0	23923.0
+3728	04027	4	27	Yuma County, Arizona	21	Mining, quarrying, and oil and gas extraction	21	0500000US04027	7.25	41.5	1839.125
+3729	04027	4	27	Yuma County, Arizona	22	Utilities	22	0500000US04027	9.375	154.25	13797.5
+3730	04027	4	27	Yuma County, Arizona	23	Construction	23	0500000US04027	312.125	2628.5	100606.5
+3731	04027	4	27	Yuma County, Arizona	42	Wholesale trade	42	0500000US04027	143.625	2125.25	120842.625
+3732	04027	4	27	Yuma County, Arizona	51	Information	51	0500000US04027	40.125	588.75	20651.625
+3733	04027	4	27	Yuma County, Arizona	52	Finance and insurance	52	0500000US04027	149.375	1196.25	55841.25
+3734	04027	4	27	Yuma County, Arizona	53	Real estate and rental and leasing	53	0500000US04027	169.0	748.5	22682.375
+3735	04027	4	27	Yuma County, Arizona	54	Professional, scientific, and technical services	54	0500000US04027	236.5	1283.625	75697.125
+3736	04027	4	27	Yuma County, Arizona	55	Management of companies and enterprises	55	0500000US04027	12.0	371.0	12349.375
+3737	04027	4	27	Yuma County, Arizona	56	Administrative and support and waste management and remediation services	56	0500000US04027	151.625	4106.75	137621.375
+3738	04027	4	27	Yuma County, Arizona	61	Educational services	61	0500000US04027	21.875	498.875	14592.75
+3739	04027	4	27	Yuma County, Arizona	62	Health care and social assistance	62	0500000US04027	409.0	7515.375	337256.75
+3740	04027	4	27	Yuma County, Arizona	71	Arts, entertainment, and recreation	71	0500000US04027	28.0	583.5	12090.625
+3741	04027	4	27	Yuma County, Arizona	72	Accommodation and food services	72	0500000US04027	335.375	6425.125	99054.25
+3742	04027	4	27	Yuma County, Arizona	81	Other services (except public administration)	81	0500000US04027	261.25	1539.625	38988.375
+3743	04027	4	27	Yuma County, Arizona	99	Industries not classified	99	0500000US04027	4.857142857142857	9.857142857142858	312.7142857142857

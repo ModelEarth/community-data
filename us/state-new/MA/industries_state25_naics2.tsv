@@ -1,0 +1,473 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+40473	25001	25	1	Barnstable County	11	Agriculture, forestry, fishing and hunting	11	0500000US25001	43.0	65.0	2638.0
+40474	25001	25	1	Barnstable County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25001	5.0	0.0	0.0
+40475	25001	25	1	Barnstable County	22	Utilities	22	0500000US25001	10.0	272.0	30442.0
+40476	25001	25	1	Barnstable County	23	Construction	23	0500000US25001	1006.0	4190.0	211934.0
+40477	25001	25	1	Barnstable County	42	Wholesale trade	42	0500000US25001	208.0	1231.0	65191.0
+40478	25001	25	1	Barnstable County	51	Information	51	0500000US25001	138.0	1794.0	75739.0
+40479	25001	25	1	Barnstable County	52	Finance and insurance	52	0500000US25001	314.0	2139.0	146811.0
+40480	25001	25	1	Barnstable County	53	Real estate and rental and leasing	53	0500000US25001	328.0	1264.0	53055.0
+40481	25001	25	1	Barnstable County	54	Professional, scientific, and technical services	54	0500000US25001	733.0	4663.0	301906.0
+40482	25001	25	1	Barnstable County	55	Management of companies and enterprises	55	0500000US25001	24.0	614.0	44508.0
+40483	25001	25	1	Barnstable County	56	Administrative and support and waste management and remediation services	56	0500000US25001	606.0	2705.0	128593.0
+40484	25001	25	1	Barnstable County	61	Educational services	61	0500000US25001	97.0	1345.0	41522.0
+40485	25001	25	1	Barnstable County	62	Health care and social assistance	62	0500000US25001	808.0	15537.0	706969.0
+40486	25001	25	1	Barnstable County	71	Arts, entertainment, and recreation	71	0500000US25001	229.0	1753.0	61797.0
+40487	25001	25	1	Barnstable County	72	Accommodation and food services	72	0500000US25001	1139.0	10653.0	314606.0
+40488	25001	25	1	Barnstable County	81	Other services (except public administration)	81	0500000US25001	722.0	3625.0	111159.0
+40489	25001	25	1	Barnstable County	99	Industries not classified	99	0500000US25001	10.0	0.0	551.0
+40491	25001	25	1	Barnstable County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25001	48.375	91.375	4924.875
+40492	25001	25	1	Barnstable County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25001	5.25	18.875	1322.375
+40493	25001	25	1	Barnstable County, Massachusetts	22	Utilities	22	0500000US25001	9.375	250.5	28389.25
+40494	25001	25	1	Barnstable County, Massachusetts	23	Construction	23	0500000US25001	1217.375	5416.125	322606.375
+40495	25001	25	1	Barnstable County, Massachusetts	42	Wholesale trade	42	0500000US25001	192.75	1420.625	83172.375
+40496	25001	25	1	Barnstable County, Massachusetts	51	Information	51	0500000US25001	141.75	1308.0	61971.25
+40497	25001	25	1	Barnstable County, Massachusetts	52	Finance and insurance	52	0500000US25001	305.125	2132.125	165883.25
+40498	25001	25	1	Barnstable County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25001	372.125	1418.0	69395.25
+40499	25001	25	1	Barnstable County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25001	755.75	4766.625	320379.0
+40500	25001	25	1	Barnstable County, Massachusetts	55	Management of companies and enterprises	55	0500000US25001	27.75	896.5	53495.625
+40501	25001	25	1	Barnstable County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25001	675.125	3101.75	162648.25
+40502	25001	25	1	Barnstable County, Massachusetts	61	Educational services	61	0500000US25001	107.5	1521.875	50096.25
+40503	25001	25	1	Barnstable County, Massachusetts	62	Health care and social assistance	62	0500000US25001	793.375	16252.75	814978.875
+40504	25001	25	1	Barnstable County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25001	240.875	1825.875	71957.75
+40505	25001	25	1	Barnstable County, Massachusetts	72	Accommodation and food services	72	0500000US25001	1112.625	11793.625	388566.25
+40506	25001	25	1	Barnstable County, Massachusetts	81	Other services (except public administration)	81	0500000US25001	743.75	3872.5	133916.875
+40507	25001	25	1	Barnstable County, Massachusetts	99	Industries not classified	99	0500000US25001	24.25	49.5	1709.375
+40509	25003	25	3	Berkshire County	11	Agriculture, forestry, fishing and hunting	11	0500000US25003	12.0	59.0	1241.0
+40510	25003	25	3	Berkshire County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25003	5.0	79.0	3676.0
+40511	25003	25	3	Berkshire County	22	Utilities	22	0500000US25003	13.0	0.0	0.0
+40512	25003	25	3	Berkshire County	23	Construction	23	0500000US25003	486.0	2115.0	108510.0
+40513	25003	25	3	Berkshire County	42	Wholesale trade	42	0500000US25003	113.0	1283.0	61604.0
+40514	25003	25	3	Berkshire County	51	Information	51	0500000US25003	77.0	958.0	44487.0
+40515	25003	25	3	Berkshire County	52	Finance and insurance	52	0500000US25003	180.0	2343.0	141992.0
+40516	25003	25	3	Berkshire County	53	Real estate and rental and leasing	53	0500000US25003	107.0	706.0	23017.0
+40517	25003	25	3	Berkshire County	54	Professional, scientific, and technical services	54	0500000US25003	341.0	0.0	0.0
+40518	25003	25	3	Berkshire County	55	Management of companies and enterprises	55	0500000US25003	18.0	897.0	86907.0
+40519	25003	25	3	Berkshire County	56	Administrative and support and waste management and remediation services	56	0500000US25003	217.0	1666.0	58966.0
+40520	25003	25	3	Berkshire County	61	Educational services	61	0500000US25003	60.0	3634.0	151798.0
+40521	25003	25	3	Berkshire County	62	Health care and social assistance	62	0500000US25003	441.0	11600.0	504501.0
+40522	25003	25	3	Berkshire County	71	Arts, entertainment, and recreation	71	0500000US25003	113.0	1914.0	42758.0
+40523	25003	25	3	Berkshire County	72	Accommodation and food services	72	0500000US25003	522.0	7089.0	129269.0
+40524	25003	25	3	Berkshire County	81	Other services (except public administration)	81	0500000US25003	352.0	2122.0	49715.0
+40525	25003	25	3	Berkshire County	99	Industries not classified	99	0500000US25003	5.0	0.0	119.0
+40527	25003	25	3	Berkshire County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25003	9.5	45.0	1123.0
+40528	25003	25	3	Berkshire County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25003	4.625	65.125	3434.0
+40529	25003	25	3	Berkshire County, Massachusetts	22	Utilities	22	0500000US25003	11.375	154.5	15115.0
+40530	25003	25	3	Berkshire County, Massachusetts	23	Construction	23	0500000US25003	490.25	2331.375	133705.75
+40531	25003	25	3	Berkshire County, Massachusetts	42	Wholesale trade	42	0500000US25003	105.625	1311.5	66064.875
+40532	25003	25	3	Berkshire County, Massachusetts	51	Information	51	0500000US25003	67.875	805.25	38922.5
+40533	25003	25	3	Berkshire County, Massachusetts	52	Finance and insurance	52	0500000US25003	162.375	1911.0	134627.0
+40534	25003	25	3	Berkshire County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25003	114.875	663.125	24647.5
+40535	25003	25	3	Berkshire County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25003	317.0	2036.375	165802.875
+40536	25003	25	3	Berkshire County, Massachusetts	55	Management of companies and enterprises	55	0500000US25003	14.125	793.375	73691.125
+40537	25003	25	3	Berkshire County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25003	230.875	1594.875	77407.0
+40538	25003	25	3	Berkshire County, Massachusetts	61	Educational services	61	0500000US25003	60.75	3771.375	171404.0
+40539	25003	25	3	Berkshire County, Massachusetts	62	Health care and social assistance	62	0500000US25003	422.375	11572.75	567967.625
+40540	25003	25	3	Berkshire County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25003	110.75	1852.75	50599.0
+40541	25003	25	3	Berkshire County, Massachusetts	72	Accommodation and food services	72	0500000US25003	513.75	7095.75	148357.25
+40542	25003	25	3	Berkshire County, Massachusetts	81	Other services (except public administration)	81	0500000US25003	348.0	2188.375	63662.0
+40543	25003	25	3	Berkshire County, Massachusetts	99	Industries not classified	99	0500000US25003	7.75	8.5	223.0
+40545	25005	25	5	Bristol County	11	Agriculture, forestry, fishing and hunting	11	0500000US25005	100.0	248.0	5509.0
+40546	25005	25	5	Bristol County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25005	6.0	0.0	0.0
+40547	25005	25	5	Bristol County	22	Utilities	22	0500000US25005	22.0	607.0	48525.0
+40548	25005	25	5	Bristol County	23	Construction	23	0500000US25005	1445.0	7354.0	415547.0
+40549	25005	25	5	Bristol County	42	Wholesale trade	42	0500000US25005	611.0	12457.0	901315.0
+40550	25005	25	5	Bristol County	51	Information	51	0500000US25005	148.0	3048.0	156679.0
+40551	25005	25	5	Bristol County	52	Finance and insurance	52	0500000US25005	559.0	6091.0	316338.0
+40552	25005	25	5	Bristol County	53	Real estate and rental and leasing	53	0500000US25005	405.0	1603.0	61911.0
+40553	25005	25	5	Bristol County	54	Professional, scientific, and technical services	54	0500000US25005	1051.0	5927.0	302715.0
+40554	25005	25	5	Bristol County	55	Management of companies and enterprises	55	0500000US25005	69.0	5193.0	636532.0
+40555	25005	25	5	Bristol County	56	Administrative and support and waste management and remediation services	56	0500000US25005	671.0	9781.0	286609.0
+40556	25005	25	5	Bristol County	61	Educational services	61	0500000US25005	166.0	4751.0	116962.0
+40557	25005	25	5	Bristol County	62	Health care and social assistance	62	0500000US25005	1412.0	39943.0	1649624.0
+40558	25005	25	5	Bristol County	71	Arts, entertainment, and recreation	71	0500000US25005	216.0	3572.0	65613.0
+40559	25005	25	5	Bristol County	72	Accommodation and food services	72	0500000US25005	1238.0	19769.0	285111.0
+40560	25005	25	5	Bristol County	81	Other services (except public administration)	81	0500000US25005	1345.0	7841.0	190984.0
+40561	25005	25	5	Bristol County	99	Industries not classified	99	0500000US25005	13.0	0.0	194.0
+40563	25005	25	5	Bristol County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25005	88.0	168.5	6245.125
+40564	25005	25	5	Bristol County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25005	5.75	46.75	3090.75
+40565	25005	25	5	Bristol County, Massachusetts	22	Utilities	22	0500000US25005	19.625	640.125	64050.625
+40566	25005	25	5	Bristol County, Massachusetts	23	Construction	23	0500000US25005	1577.0	9457.75	618608.375
+40567	25005	25	5	Bristol County, Massachusetts	42	Wholesale trade	42	0500000US25005	596.375	13921.75	1073896.875
+40568	25005	25	5	Bristol County, Massachusetts	51	Information	51	0500000US25005	167.875	2866.5	198447.625
+40569	25005	25	5	Bristol County, Massachusetts	52	Finance and insurance	52	0500000US25005	542.625	4507.625	277236.75
+40570	25005	25	5	Bristol County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25005	447.875	1826.0	78652.75
+40571	25005	25	5	Bristol County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25005	1035.25	5932.375	338391.0
+40572	25005	25	5	Bristol County, Massachusetts	55	Management of companies and enterprises	55	0500000US25005	71.125	5004.75	484855.5
+40573	25005	25	5	Bristol County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25005	713.625	9655.625	355878.625
+40574	25005	25	5	Bristol County, Massachusetts	61	Educational services	61	0500000US25005	156.0	4974.5	135841.625
+40575	25005	25	5	Bristol County, Massachusetts	62	Health care and social assistance	62	0500000US25005	1439.125	41838.75	1909431.375
+40576	25005	25	5	Bristol County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25005	218.875	3607.125	73243.5
+40577	25005	25	5	Bristol County, Massachusetts	72	Accommodation and food services	72	0500000US25005	1253.25	20981.5	354443.125
+40578	25005	25	5	Bristol County, Massachusetts	81	Other services (except public administration)	81	0500000US25005	1357.75	7805.0	215603.125
+40579	25005	25	5	Bristol County, Massachusetts	99	Industries not classified	99	0500000US25005	27.75	46.5	1566.5
+40581	25007	25	7	Dukes County	11	Agriculture, forestry, fishing and hunting	11	0500000US25007	3.0	0.0	103.0
+40582	25007	25	7	Dukes County	22	Utilities	22	0500000US25007	3.0	0.0	0.0
+40583	25007	25	7	Dukes County	23	Construction	23	0500000US25007	191.0	660.0	38873.0
+40584	25007	25	7	Dukes County	42	Wholesale trade	42	0500000US25007	17.0	40.0	1798.0
+40585	25007	25	7	Dukes County	51	Information	51	0500000US25007	18.0	148.0	6529.0
+40586	25007	25	7	Dukes County	52	Finance and insurance	52	0500000US25007	27.0	0.0	0.0
+40587	25007	25	7	Dukes County	53	Real estate and rental and leasing	53	0500000US25007	64.0	129.0	7935.0
+40588	25007	25	7	Dukes County	54	Professional, scientific, and technical services	54	0500000US25007	62.0	228.0	13671.0
+40589	25007	25	7	Dukes County	55	Management of companies and enterprises	55	0500000US25007	1.0	0.0	0.0
+40590	25007	25	7	Dukes County	56	Administrative and support and waste management and remediation services	56	0500000US25007	73.0	314.0	18311.0
+40591	25007	25	7	Dukes County	61	Educational services	61	0500000US25007	12.0	0.0	1263.0
+40592	25007	25	7	Dukes County	62	Health care and social assistance	62	0500000US25007	59.0	0.0	0.0
+40593	25007	25	7	Dukes County	71	Arts, entertainment, and recreation	71	0500000US25007	37.0	305.0	15589.0
+40594	25007	25	7	Dukes County	72	Accommodation and food services	72	0500000US25007	138.0	660.0	38683.0
+40595	25007	25	7	Dukes County	81	Other services (except public administration)	81	0500000US25007	69.0	246.0	8834.0
+40596	25007	25	7	Dukes County	99	Industries not classified	99	0500000US25007	3.0	1.0	113.0
+40598	25007	25	7	Dukes County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25007	1.5	0.0	0.0
+40599	25007	25	7	Dukes County, Massachusetts	22	Utilities	22	0500000US25007	3.0	6.0	634.375
+40600	25007	25	7	Dukes County, Massachusetts	23	Construction	23	0500000US25007	211.0	748.875	51387.375
+40601	25007	25	7	Dukes County, Massachusetts	42	Wholesale trade	42	0500000US25007	16.5	55.25	2746.5
+40602	25007	25	7	Dukes County, Massachusetts	51	Information	51	0500000US25007	16.5	151.5	6899.875
+40603	25007	25	7	Dukes County, Massachusetts	52	Finance and insurance	52	0500000US25007	29.875	166.25	11325.625
+40604	25007	25	7	Dukes County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25007	73.375	135.125	10759.5
+40605	25007	25	7	Dukes County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25007	65.25	238.25	15153.25
+40606	25007	25	7	Dukes County, Massachusetts	55	Management of companies and enterprises	55	0500000US25007	1.0	0.0	0.0
+40607	25007	25	7	Dukes County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25007	87.5	379.75	26338.375
+40608	25007	25	7	Dukes County, Massachusetts	61	Educational services	61	0500000US25007	12.25	43.875	2142.875
+40609	25007	25	7	Dukes County, Massachusetts	62	Health care and social assistance	62	0500000US25007	55.625	637.5	42014.5
+40610	25007	25	7	Dukes County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25007	39.375	329.25	17519.75
+40611	25007	25	7	Dukes County, Massachusetts	72	Accommodation and food services	72	0500000US25007	143.25	673.5	45746.625
+40612	25007	25	7	Dukes County, Massachusetts	81	Other services (except public administration)	81	0500000US25007	83.25	293.75	12952.875
+40613	25007	25	7	Dukes County, Massachusetts	99	Industries not classified	99	0500000US25007	7.166666666666667	8.166666666666666	360.3333333333333
+40615	25009	25	9	Essex County	11	Agriculture, forestry, fishing and hunting	11	0500000US25009	73.0	270.0	11757.0
+40616	25009	25	9	Essex County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25009	5.0	41.0	2726.0
+40617	25009	25	9	Essex County	22	Utilities	22	0500000US25009	24.0	677.0	61476.0
+40618	25009	25	9	Essex County	23	Construction	23	0500000US25009	1786.0	9492.0	591275.0
+40619	25009	25	9	Essex County	42	Wholesale trade	42	0500000US25009	878.0	12694.0	1002627.0
+40620	25009	25	9	Essex County	51	Information	51	0500000US25009	318.0	6524.0	493486.0
+40621	25009	25	9	Essex County	52	Finance and insurance	52	0500000US25009	940.0	11303.0	1016796.0
+40622	25009	25	9	Essex County	53	Real estate and rental and leasing	53	0500000US25009	585.0	2690.0	117236.0
+40623	25009	25	9	Essex County	54	Professional, scientific, and technical services	54	0500000US25009	2150.0	15244.0	1104305.0
+40624	25009	25	9	Essex County	55	Management of companies and enterprises	55	0500000US25009	92.0	4887.0	439727.0
+40625	25009	25	9	Essex County	56	Administrative and support and waste management and remediation services	56	0500000US25009	1059.0	15135.0	608715.0
+40626	25009	25	9	Essex County	61	Educational services	61	0500000US25009	294.0	9483.0	304335.0
+40627	25009	25	9	Essex County	62	Health care and social assistance	62	0500000US25009	2072.0	61066.0	2502697.0
+40628	25009	25	9	Essex County	71	Arts, entertainment, and recreation	71	0500000US25009	381.0	7086.0	148244.0
+40629	25009	25	9	Essex County	72	Accommodation and food services	72	0500000US25009	1803.0	25456.0	450712.0
+40630	25009	25	9	Essex County	81	Other services (except public administration)	81	0500000US25009	1828.0	10995.0	286486.0
+40631	25009	25	9	Essex County	99	Industries not classified	99	0500000US25009	20.0	23.0	773.0
+40633	25009	25	9	Essex County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25009	66.625	240.75	11244.5
+40634	25009	25	9	Essex County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25009	4.0	34.75	2771.25
+40635	25009	25	9	Essex County, Massachusetts	22	Utilities	22	0500000US25009	29.0	722.75	74326.875
+40636	25009	25	9	Essex County, Massachusetts	23	Construction	23	0500000US25009	2071.625	12476.125	905999.125
+40637	25009	25	9	Essex County, Massachusetts	42	Wholesale trade	42	0500000US25009	807.5	12324.125	1113756.75
+40638	25009	25	9	Essex County, Massachusetts	51	Information	51	0500000US25009	326.5	6196.0	544899.25
+40639	25009	25	9	Essex County, Massachusetts	52	Finance and insurance	52	0500000US25009	928.25	11205.375	1070980.125
+40640	25009	25	9	Essex County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25009	661.0	2954.5	149174.25
+40641	25009	25	9	Essex County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25009	2076.0	14577.75	1252827.375
+40642	25009	25	9	Essex County, Massachusetts	55	Management of companies and enterprises	55	0500000US25009	89.75	4277.625	422844.375
+40643	25009	25	9	Essex County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25009	1180.875	16306.25	818178.875
+40644	25009	25	9	Essex County, Massachusetts	61	Educational services	61	0500000US25009	298.875	10500.75	371902.0
+40645	25009	25	9	Essex County, Massachusetts	62	Health care and social assistance	62	0500000US25009	2129.375	66169.625	2841754.375
+40646	25009	25	9	Essex County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25009	410.25	6794.0	155120.0
+40647	25009	25	9	Essex County, Massachusetts	72	Accommodation and food services	72	0500000US25009	1841.125	28661.125	585258.875
+40648	25009	25	9	Essex County, Massachusetts	81	Other services (except public administration)	81	0500000US25009	1979.5	11708.375	337271.875
+40649	25009	25	9	Essex County, Massachusetts	99	Industries not classified	99	0500000US25009	47.875	98.875	3257.25
+40651	25011	25	11	Franklin County	11	Agriculture, forestry, fishing and hunting	11	0500000US25011	4.0	0.0	0.0
+40652	25011	25	11	Franklin County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25011	2.0	0.0	0.0
+40653	25011	25	11	Franklin County	22	Utilities	22	0500000US25011	5.0	134.0	13710.0
+40654	25011	25	11	Franklin County	23	Construction	23	0500000US25011	174.0	611.0	27535.0
+40655	25011	25	11	Franklin County	42	Wholesale trade	42	0500000US25011	74.0	1040.0	48745.0
+40656	25011	25	11	Franklin County	51	Information	51	0500000US25011	27.0	426.0	20972.0
+40657	25011	25	11	Franklin County	52	Finance and insurance	52	0500000US25011	65.0	598.0	28262.0
+40658	25011	25	11	Franklin County	53	Real estate and rental and leasing	53	0500000US25011	36.0	102.0	2908.0
+40659	25011	25	11	Franklin County	54	Professional, scientific, and technical services	54	0500000US25011	135.0	575.0	27722.0
+40660	25011	25	11	Franklin County	55	Management of companies and enterprises	55	0500000US25011	10.0	397.0	34394.0
+40661	25011	25	11	Franklin County	56	Administrative and support and waste management and remediation services	56	0500000US25011	73.0	606.0	18745.0
+40662	25011	25	11	Franklin County	61	Educational services	61	0500000US25011	30.0	1296.0	54703.0
+40663	25011	25	11	Franklin County	62	Health care and social assistance	62	0500000US25011	190.0	3526.0	118342.0
+40664	25011	25	11	Franklin County	71	Arts, entertainment, and recreation	71	0500000US25011	42.0	605.0	9989.0
+40665	25011	25	11	Franklin County	72	Accommodation and food services	72	0500000US25011	151.0	1771.0	27015.0
+40666	25011	25	11	Franklin County	81	Other services (except public administration)	81	0500000US25011	182.0	721.0	17219.0
+40668	25011	25	11	Franklin County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25011	4.875	26.5	677.375
+40669	25011	25	11	Franklin County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25011	2.25	9.25	528.75
+40670	25011	25	11	Franklin County, Massachusetts	22	Utilities	22	0500000US25011	7.625	139.25	16791.875
+40671	25011	25	11	Franklin County, Massachusetts	23	Construction	23	0500000US25011	166.625	667.375	36061.75
+40672	25011	25	11	Franklin County, Massachusetts	42	Wholesale trade	42	0500000US25011	61.0	1065.5	57070.125
+40673	25011	25	11	Franklin County, Massachusetts	51	Information	51	0500000US25011	27.0	296.625	14939.25
+40674	25011	25	11	Franklin County, Massachusetts	52	Finance and insurance	52	0500000US25011	60.25	481.375	24971.0
+40675	25011	25	11	Franklin County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25011	40.125	115.625	3261.5
+40676	25011	25	11	Franklin County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25011	128.625	589.5	31586.625
+40677	25011	25	11	Franklin County, Massachusetts	55	Management of companies and enterprises	55	0500000US25011	7.375	349.375	28644.625
+40678	25011	25	11	Franklin County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25011	79.0	620.375	27636.125
+40679	25011	25	11	Franklin County, Massachusetts	61	Educational services	61	0500000US25011	31.25	1424.5	65675.0
+40680	25011	25	11	Franklin County, Massachusetts	62	Health care and social assistance	62	0500000US25011	180.0	3587.125	132159.625
+40681	25011	25	11	Franklin County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25011	42.0	663.875	11362.875
+40682	25011	25	11	Franklin County, Massachusetts	72	Accommodation and food services	72	0500000US25011	154.75	1928.625	31849.125
+40683	25011	25	11	Franklin County, Massachusetts	81	Other services (except public administration)	81	0500000US25011	184.375	683.125	17260.0
+40684	25011	25	11	Franklin County, Massachusetts	99	Industries not classified	99	0500000US25011	4.333333333333333	2.6666666666666665	142.33333333333334
+40686	25013	25	13	Hampden County	11	Agriculture, forestry, fishing and hunting	11	0500000US25013	11.0	27.0	1323.0
+40687	25013	25	13	Hampden County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25013	3.0	0.0	0.0
+40688	25013	25	13	Hampden County	22	Utilities	22	0500000US25013	19.0	1275.0	132288.0
+40689	25013	25	13	Hampden County	23	Construction	23	0500000US25013	936.0	5782.0	363410.0
+40690	25013	25	13	Hampden County	42	Wholesale trade	42	0500000US25013	446.0	6710.0	366063.0
+40691	25013	25	13	Hampden County	51	Information	51	0500000US25013	117.0	2809.0	147763.0
+40692	25013	25	13	Hampden County	52	Finance and insurance	52	0500000US25013	527.0	9843.0	792142.0
+40693	25013	25	13	Hampden County	53	Real estate and rental and leasing	53	0500000US25013	351.0	1837.0	66005.0
+40694	25013	25	13	Hampden County	54	Professional, scientific, and technical services	54	0500000US25013	843.0	6157.0	345199.0
+40695	25013	25	13	Hampden County	55	Management of companies and enterprises	55	0500000US25013	55.0	3503.0	258353.0
+40696	25013	25	13	Hampden County	56	Administrative and support and waste management and remediation services	56	0500000US25013	537.0	7137.0	219212.0
+40697	25013	25	13	Hampden County	61	Educational services	61	0500000US25013	152.0	9059.0	224534.0
+40698	25013	25	13	Hampden County	62	Health care and social assistance	62	0500000US25013	1156.0	36727.0	1614146.0
+40699	25013	25	13	Hampden County	71	Arts, entertainment, and recreation	71	0500000US25013	131.0	2983.0	52966.0
+40700	25013	25	13	Hampden County	72	Accommodation and food services	72	0500000US25013	934.0	14307.0	207910.0
+40701	25013	25	13	Hampden County	81	Other services (except public administration)	81	0500000US25013	1048.0	7613.0	180682.0
+40702	25013	25	13	Hampden County	99	Industries not classified	99	0500000US25013	10.0	0.0	124.0
+40704	25013	25	13	Hampden County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25013	11.625	31.625	1455.875
+40705	25013	25	13	Hampden County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25013	2.6	0.0	0.0
+40706	25013	25	13	Hampden County, Massachusetts	22	Utilities	22	0500000US25013	21.875	1331.25	158575.875
+40707	25013	25	13	Hampden County, Massachusetts	23	Construction	23	0500000US25013	944.875	6705.0	491162.5
+40708	25013	25	13	Hampden County, Massachusetts	42	Wholesale trade	42	0500000US25013	410.75	6973.5	407169.25
+40709	25013	25	13	Hampden County, Massachusetts	51	Information	51	0500000US25013	129.375	2539.5	138979.75
+40710	25013	25	13	Hampden County, Massachusetts	52	Finance and insurance	52	0500000US25013	495.25	8922.25	830953.375
+40711	25013	25	13	Hampden County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25013	383.625	2408.25	97737.25
+40712	25013	25	13	Hampden County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25013	785.25	6718.5	418477.25
+40713	25013	25	13	Hampden County, Massachusetts	55	Management of companies and enterprises	55	0500000US25013	54.125	3018.25	215409.0
+40714	25013	25	13	Hampden County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25013	536.625	6793.125	238159.625
+40715	25013	25	13	Hampden County, Massachusetts	61	Educational services	61	0500000US25013	152.25	9227.0	250346.625
+40716	25013	25	13	Hampden County, Massachusetts	62	Health care and social assistance	62	0500000US25013	1194.25	41093.375	1956096.75
+40717	25013	25	13	Hampden County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25013	132.375	3395.5	61210.125
+40718	25013	25	13	Hampden County, Massachusetts	72	Accommodation and food services	72	0500000US25013	917.125	15382.75	261534.75
+40719	25013	25	13	Hampden County, Massachusetts	81	Other services (except public administration)	81	0500000US25013	1023.5	8078.25	221146.125
+40720	25013	25	13	Hampden County, Massachusetts	99	Industries not classified	99	0500000US25013	15.625	16.5	466.875
+40722	25015	25	15	Hampshire County	11	Agriculture, forestry, fishing and hunting	11	0500000US25015	10.0	45.0	962.0
+40723	25015	25	15	Hampshire County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25015	6.0	0.0	1896.0
+40724	25015	25	15	Hampshire County	22	Utilities	22	0500000US25015	8.0	0.0	10884.0
+40725	25015	25	15	Hampshire County	23	Construction	23	0500000US25015	357.0	1578.0	75874.0
+40726	25015	25	15	Hampshire County	42	Wholesale trade	42	0500000US25015	106.0	1849.0	90189.0
+40727	25015	25	15	Hampshire County	51	Information	51	0500000US25015	77.0	698.0	34883.0
+40728	25015	25	15	Hampshire County	52	Finance and insurance	52	0500000US25015	156.0	1433.0	77149.0
+40729	25015	25	15	Hampshire County	53	Real estate and rental and leasing	53	0500000US25015	112.0	458.0	16036.0
+40730	25015	25	15	Hampshire County	54	Professional, scientific, and technical services	54	0500000US25015	358.0	1866.0	88592.0
+40731	25015	25	15	Hampshire County	55	Management of companies and enterprises	55	0500000US25015	13.0	220.0	8401.0
+40732	25015	25	15	Hampshire County	56	Administrative and support and waste management and remediation services	56	0500000US25015	192.0	1182.0	47701.0
+40733	25015	25	15	Hampshire County	61	Educational services	61	0500000US25015	101.0	9028.0	280332.0
+40734	25015	25	15	Hampshire County	62	Health care and social assistance	62	0500000US25015	435.0	18032.0	519620.0
+40735	25015	25	15	Hampshire County	71	Arts, entertainment, and recreation	71	0500000US25015	74.0	637.0	11500.0
+40736	25015	25	15	Hampshire County	72	Accommodation and food services	72	0500000US25015	384.0	5609.0	81352.0
+40737	25015	25	15	Hampshire County	81	Other services (except public administration)	81	0500000US25015	380.0	2070.0	58052.0
+40738	25015	25	15	Hampshire County	99	Industries not classified	99	0500000US25015	5.0	0.0	62.0
+40740	25015	25	15	Hampshire County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25015	9.25	25.875	798.875
+40741	25015	25	15	Hampshire County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25015	6.0	28.625	1639.125
+40742	25015	25	15	Hampshire County, Massachusetts	22	Utilities	22	0500000US25015	9.0	120.0	12364.75
+40743	25015	25	15	Hampshire County, Massachusetts	23	Construction	23	0500000US25015	364.75	1792.375	98397.25
+40744	25015	25	15	Hampshire County, Massachusetts	42	Wholesale trade	42	0500000US25015	102.875	1672.25	91310.75
+40745	25015	25	15	Hampshire County, Massachusetts	51	Information	51	0500000US25015	78.625	732.25	39660.625
+40746	25015	25	15	Hampshire County, Massachusetts	52	Finance and insurance	52	0500000US25015	156.25	1614.625	98530.625
+40747	25015	25	15	Hampshire County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25015	114.25	437.375	17092.125
+40748	25015	25	15	Hampshire County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25015	366.0	1859.25	104872.5
+40749	25015	25	15	Hampshire County, Massachusetts	55	Management of companies and enterprises	55	0500000US25015	16.125	286.375	13904.5
+40750	25015	25	15	Hampshire County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25015	201.0	1322.25	46456.125
+40751	25015	25	15	Hampshire County, Massachusetts	61	Educational services	61	0500000US25015	109.125	9734.5	324198.0
+40752	25015	25	15	Hampshire County, Massachusetts	62	Health care and social assistance	62	0500000US25015	441.75	15147.375	546476.5
+40753	25015	25	15	Hampshire County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25015	82.75	680.125	13569.0
+40754	25015	25	15	Hampshire County, Massachusetts	72	Accommodation and food services	72	0500000US25015	392.875	5995.25	102853.0
+40755	25015	25	15	Hampshire County, Massachusetts	81	Other services (except public administration)	81	0500000US25015	402.25	2242.75	72051.375
+40756	25015	25	15	Hampshire County, Massachusetts	99	Industries not classified	99	0500000US25015	11.625	9.75	246.75
+40758	25017	25	17	Middlesex County	11	Agriculture, forestry, fishing and hunting	11	0500000US25017	28.0	140.0	4331.0
+40759	25017	25	17	Middlesex County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25017	12.0	96.0	5426.0
+40760	25017	25	17	Middlesex County	22	Utilities	22	0500000US25017	49.0	0.0	345069.0
+40761	25017	25	17	Middlesex County	23	Construction	23	0500000US25017	3922.0	29184.0	1989527.0
+40762	25017	25	17	Middlesex County	42	Wholesale trade	42	0500000US25017	2169.0	41976.0	4195012.0
+40763	25017	25	17	Middlesex County	51	Information	51	0500000US25017	1261.0	48646.0	5669162.0
+40764	25017	25	17	Middlesex County	52	Finance and insurance	52	0500000US25017	2122.0	28073.0	2454628.0
+40765	25017	25	17	Middlesex County	53	Real estate and rental and leasing	53	0500000US25017	1521.0	11894.0	748467.0
+40766	25017	25	17	Middlesex County	54	Professional, scientific, and technical services	54	0500000US25017	6824.0	113085.0	12576420.0
+40767	25017	25	17	Middlesex County	55	Management of companies and enterprises	55	0500000US25017	426.0	42033.0	5429997.0
+40768	25017	25	17	Middlesex County	56	Administrative and support and waste management and remediation services	56	0500000US25017	2558.0	55090.0	2602524.0
+40769	25017	25	17	Middlesex County	61	Educational services	61	0500000US25017	802.0	80823.0	4045907.0
+40770	25017	25	17	Middlesex County	62	Health care and social assistance	62	0500000US25017	4563.0	110280.0	5780444.0
+40771	25017	25	17	Middlesex County	71	Arts, entertainment, and recreation	71	0500000US25017	710.0	9989.0	239921.0
+40772	25017	25	17	Middlesex County	72	Accommodation and food services	72	0500000US25017	3634.0	59371.0	1179339.0
+40773	25017	25	17	Middlesex County	81	Other services (except public administration)	81	0500000US25017	4190.0	30154.0	1040155.0
+40774	25017	25	17	Middlesex County	99	Industries not classified	99	0500000US25017	64.0	142.0	4088.0
+40776	25017	25	17	Middlesex County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25017	30.125	129.875	5149.25
+40777	25017	25	17	Middlesex County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25017	9.375	85.375	5869.875
+40778	25017	25	17	Middlesex County, Massachusetts	22	Utilities	22	0500000US25017	49.0	2372.0	311068.125
+40779	25017	25	17	Middlesex County, Massachusetts	23	Construction	23	0500000US25017	4419.375	37055.125	2844893.125
+40780	25017	25	17	Middlesex County, Massachusetts	42	Wholesale trade	42	0500000US25017	2049.625	46028.125	5136767.75
+40781	25017	25	17	Middlesex County, Massachusetts	51	Information	51	0500000US25017	1292.375	59078.625	8337898.0
+40782	25017	25	17	Middlesex County, Massachusetts	52	Finance and insurance	52	0500000US25017	2128.125	30025.375	2960515.625
+40783	25017	25	17	Middlesex County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25017	1764.5	13275.375	911644.375
+40784	25017	25	17	Middlesex County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25017	6881.625	124572.375	16344647.625
+40785	25017	25	17	Middlesex County, Massachusetts	55	Management of companies and enterprises	55	0500000US25017	409.625	42971.875	6747562.625
+40786	25017	25	17	Middlesex County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25017	2683.875	52763.75	2967617.125
+40787	25017	25	17	Middlesex County, Massachusetts	61	Educational services	61	0500000US25017	903.75	84956.125	4625311.875
+40788	25017	25	17	Middlesex County, Massachusetts	62	Health care and social assistance	62	0500000US25017	4831.25	126185.875	6836770.5
+40789	25017	25	17	Middlesex County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25017	795.125	12377.25	325723.375
+40790	25017	25	17	Middlesex County, Massachusetts	72	Accommodation and food services	72	0500000US25017	3904.25	67894.0	1519672.0
+40791	25017	25	17	Middlesex County, Massachusetts	81	Other services (except public administration)	81	0500000US25017	4342.75	30961.375	1249854.375
+40792	25017	25	17	Middlesex County, Massachusetts	99	Industries not classified	99	0500000US25017	149.125	233.75	11275.75
+40794	25019	25	19	Nantucket County	11	Agriculture, forestry, fishing and hunting	11	0500000US25019	1.0	0.0	0.0
+40795	25019	25	19	Nantucket County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25019	1.0	0.0	0.0
+40796	25019	25	19	Nantucket County	22	Utilities	22	0500000US25019	1.0	0.0	0.0
+40797	25019	25	19	Nantucket County	23	Construction	23	0500000US25019	231.0	582.0	32269.0
+40798	25019	25	19	Nantucket County	42	Wholesale trade	42	0500000US25019	9.0	37.0	2938.0
+40799	25019	25	19	Nantucket County	51	Information	51	0500000US25019	16.0	84.0	4581.0
+40800	25019	25	19	Nantucket County	52	Finance and insurance	52	0500000US25019	18.0	121.0	8697.0
+40801	25019	25	19	Nantucket County	53	Real estate and rental and leasing	53	0500000US25019	54.0	114.0	8971.0
+40802	25019	25	19	Nantucket County	54	Professional, scientific, and technical services	54	0500000US25019	56.0	169.0	12164.0
+40803	25019	25	19	Nantucket County	55	Management of companies and enterprises	55	0500000US25019	3.0	0.0	0.0
+40804	25019	25	19	Nantucket County	56	Administrative and support and waste management and remediation services	56	0500000US25019	114.0	346.0	25621.0
+40805	25019	25	19	Nantucket County	61	Educational services	61	0500000US25019	6.0	0.0	2715.0
+40806	25019	25	19	Nantucket County	62	Health care and social assistance	62	0500000US25019	35.0	0.0	0.0
+40807	25019	25	19	Nantucket County	71	Arts, entertainment, and recreation	71	0500000US25019	28.0	168.0	15362.0
+40808	25019	25	19	Nantucket County	72	Accommodation and food services	72	0500000US25019	111.0	626.0	36355.0
+40809	25019	25	19	Nantucket County	81	Other services (except public administration)	81	0500000US25019	50.0	196.0	9217.0
+40811	25019	25	19	Nantucket County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25019	1.0	0.0	0.0
+40812	25019	25	19	Nantucket County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25019	1.0	0.0	0.0
+40813	25019	25	19	Nantucket County, Massachusetts	22	Utilities	22	0500000US25019	1.6	2.2	421.4
+40814	25019	25	19	Nantucket County, Massachusetts	23	Construction	23	0500000US25019	298.625	847.375	58455.5
+40815	25019	25	19	Nantucket County, Massachusetts	42	Wholesale trade	42	0500000US25019	7.875	25.0	2190.125
+40816	25019	25	19	Nantucket County, Massachusetts	51	Information	51	0500000US25019	14.375	85.5	5268.125
+40817	25019	25	19	Nantucket County, Massachusetts	52	Finance and insurance	52	0500000US25019	18.0	104.875	7867.875
+40818	25019	25	19	Nantucket County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25019	66.625	117.875	11847.25
+40819	25019	25	19	Nantucket County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25019	63.375	204.0	14952.875
+40820	25019	25	19	Nantucket County, Massachusetts	55	Management of companies and enterprises	55	0500000US25019	3.625	16.625	2098.25
+40821	25019	25	19	Nantucket County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25019	127.5	428.875	40753.0
+40822	25019	25	19	Nantucket County, Massachusetts	61	Educational services	61	0500000US25019	12.125	69.875	3558.5
+40823	25019	25	19	Nantucket County, Massachusetts	62	Health care and social assistance	62	0500000US25019	33.75	395.75	25492.75
+40824	25019	25	19	Nantucket County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25019	31.0	219.375	20253.5
+40825	25019	25	19	Nantucket County, Massachusetts	72	Accommodation and food services	72	0500000US25019	123.375	715.875	52822.25
+40826	25019	25	19	Nantucket County, Massachusetts	81	Other services (except public administration)	81	0500000US25019	54.625	234.875	12660.875
+40827	25019	25	19	Nantucket County, Massachusetts	99	Industries not classified	99	0500000US25019	3.0	1.25	115.5
+40829	25021	25	21	Norfolk County	11	Agriculture, forestry, fishing and hunting	11	0500000US25021	9.0	35.0	1255.0
+40830	25021	25	21	Norfolk County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25021	10.0	128.0	8254.0
+40831	25021	25	21	Norfolk County	22	Utilities	22	0500000US25021	21.0	0.0	0.0
+40832	25021	25	21	Norfolk County	23	Construction	23	0500000US25021	1933.0	13600.0	1032122.0
+40833	25021	25	21	Norfolk County	42	Wholesale trade	42	0500000US25021	1110.0	18337.0	1264962.0
+40834	25021	25	21	Norfolk County	51	Information	51	0500000US25021	392.0	11754.0	897775.0
+40835	25021	25	21	Norfolk County	52	Finance and insurance	52	0500000US25021	1220.0	26830.0	2507718.0
+40836	25021	25	21	Norfolk County	53	Real estate and rental and leasing	53	0500000US25021	772.0	6669.0	485302.0
+40837	25021	25	21	Norfolk County	54	Professional, scientific, and technical services	54	0500000US25021	2646.0	19287.0	1770887.0
+40838	25021	25	21	Norfolk County	55	Management of companies and enterprises	55	0500000US25021	139.0	8487.0	783378.0
+40839	25021	25	21	Norfolk County	56	Administrative and support and waste management and remediation services	56	0500000US25021	1148.0	21062.0	918986.0
+40840	25021	25	21	Norfolk County	61	Educational services	61	0500000US25021	322.0	12787.0	490574.0
+40841	25021	25	21	Norfolk County	62	Health care and social assistance	62	0500000US25021	2233.0	62795.0	2424404.0
+40842	25021	25	21	Norfolk County	71	Arts, entertainment, and recreation	71	0500000US25021	318.0	6423.0	283639.0
+40843	25021	25	21	Norfolk County	72	Accommodation and food services	72	0500000US25021	1586.0	27282.0	481775.0
+40844	25021	25	21	Norfolk County	81	Other services (except public administration)	81	0500000US25021	1945.0	14282.0	447835.0
+40845	25021	25	21	Norfolk County	99	Industries not classified	99	0500000US25021	24.0	56.0	1197.0
+40847	25021	25	21	Norfolk County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25021	11.5	37.375	1795.875
+40848	25021	25	21	Norfolk County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25021	9.25	127.375	9122.0
+40849	25021	25	21	Norfolk County, Massachusetts	22	Utilities	22	0500000US25021	23.375	865.0	104914.5
+40850	25021	25	21	Norfolk County, Massachusetts	23	Construction	23	0500000US25021	2143.0	18465.25	1541880.375
+40851	25021	25	21	Norfolk County, Massachusetts	42	Wholesale trade	42	0500000US25021	1023.625	20028.875	1463041.75
+40852	25021	25	21	Norfolk County, Massachusetts	51	Information	51	0500000US25021	390.0	12942.375	1063064.625
+40853	25021	25	21	Norfolk County, Massachusetts	52	Finance and insurance	52	0500000US25021	1217.625	26380.0	2827068.0
+40854	25021	25	21	Norfolk County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25021	884.375	6996.125	566794.75
+40855	25021	25	21	Norfolk County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25021	2669.75	22476.0	2255185.0
+40856	25021	25	21	Norfolk County, Massachusetts	55	Management of companies and enterprises	55	0500000US25021	140.875	10684.875	1031596.625
+40857	25021	25	21	Norfolk County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25021	1204.25	19755.125	994338.0
+40858	25021	25	21	Norfolk County, Massachusetts	61	Educational services	61	0500000US25021	390.75	13825.125	561083.125
+40859	25021	25	21	Norfolk County, Massachusetts	62	Health care and social assistance	62	0500000US25021	2393.375	63550.625	2629354.125
+40860	25021	25	21	Norfolk County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25021	363.75	7349.125	376990.375
+40861	25021	25	21	Norfolk County, Massachusetts	72	Accommodation and food services	72	0500000US25021	1664.5	29258.0	591199.75
+40862	25021	25	21	Norfolk County, Massachusetts	81	Other services (except public administration)	81	0500000US25021	2001.5	15288.875	541955.0
+40863	25021	25	21	Norfolk County, Massachusetts	99	Industries not classified	99	0500000US25021	53.5	51.375	2703.625
+40865	25023	25	23	Plymouth County	11	Agriculture, forestry, fishing and hunting	11	0500000US25023	18.0	0.0	1870.0
+40866	25023	25	23	Plymouth County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25023	7.0	79.0	4358.0
+40867	25023	25	23	Plymouth County	22	Utilities	22	0500000US25023	28.0	1434.0	141912.0
+40868	25023	25	23	Plymouth County	23	Construction	23	0500000US25023	1465.0	8199.0	515807.0
+40869	25023	25	23	Plymouth County	42	Wholesale trade	42	0500000US25023	597.0	5957.0	396261.0
+40870	25023	25	23	Plymouth County	51	Information	51	0500000US25023	155.0	2277.0	155084.0
+40871	25023	25	23	Plymouth County	52	Finance and insurance	52	0500000US25023	638.0	7000.0	461390.0
+40872	25023	25	23	Plymouth County	53	Real estate and rental and leasing	53	0500000US25023	361.0	1458.0	68526.0
+40873	25023	25	23	Plymouth County	54	Professional, scientific, and technical services	54	0500000US25023	1252.0	6805.0	434754.0
+40874	25023	25	23	Plymouth County	55	Management of companies and enterprises	55	0500000US25023	69.0	4788.0	473822.0
+40875	25023	25	23	Plymouth County	56	Administrative and support and waste management and remediation services	56	0500000US25023	739.0	10401.0	511807.0
+40876	25023	25	23	Plymouth County	61	Educational services	61	0500000US25023	172.0	3046.0	93588.0
+40877	25023	25	23	Plymouth County	62	Health care and social assistance	62	0500000US25023	1206.0	30058.0	1297920.0
+40878	25023	25	23	Plymouth County	71	Arts, entertainment, and recreation	71	0500000US25023	237.0	3232.0	72159.0
+40879	25023	25	23	Plymouth County	72	Accommodation and food services	72	0500000US25023	1037.0	17900.0	284381.0
+40880	25023	25	23	Plymouth County	81	Other services (except public administration)	81	0500000US25023	1183.0	7337.0	204624.0
+40881	25023	25	23	Plymouth County	99	Industries not classified	99	0500000US25023	11.0	13.0	468.0
+40883	25023	25	23	Plymouth County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25023	16.125	49.25	2302.125
+40884	25023	25	23	Plymouth County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25023	6.375	56.125	3477.75
+40885	25023	25	23	Plymouth County, Massachusetts	22	Utilities	22	0500000US25023	26.75	1295.75	161614.75
+40886	25023	25	23	Plymouth County, Massachusetts	23	Construction	23	0500000US25023	1705.375	11414.75	842130.5
+40887	25023	25	23	Plymouth County, Massachusetts	42	Wholesale trade	42	0500000US25023	557.25	7281.0	516991.25
+40888	25023	25	23	Plymouth County, Massachusetts	51	Information	51	0500000US25023	158.5	2185.375	140039.125
+40889	25023	25	23	Plymouth County, Massachusetts	52	Finance and insurance	52	0500000US25023	649.5	7317.25	602680.875
+40890	25023	25	23	Plymouth County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25023	416.125	1653.5	89309.375
+40891	25023	25	23	Plymouth County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25023	1245.125	10388.375	603872.125
+40892	25023	25	23	Plymouth County, Massachusetts	55	Management of companies and enterprises	55	0500000US25023	105.75	5231.25	512395.875
+40893	25023	25	23	Plymouth County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25023	830.0	8864.25	467666.375
+40894	25023	25	23	Plymouth County, Massachusetts	61	Educational services	61	0500000US25023	176.875	3178.75	101375.125
+40895	25023	25	23	Plymouth County, Massachusetts	62	Health care and social assistance	62	0500000US25023	1271.0	34393.0	1550329.0
+40896	25023	25	23	Plymouth County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25023	270.375	4129.875	96688.125
+40897	25023	25	23	Plymouth County, Massachusetts	72	Accommodation and food services	72	0500000US25023	1106.25	19885.0	376775.0
+40898	25023	25	23	Plymouth County, Massachusetts	81	Other services (except public administration)	81	0500000US25023	1261.5	7703.125	228392.0
+40899	25023	25	23	Plymouth County, Massachusetts	99	Industries not classified	99	0500000US25023	32.75	40.75	1588.875
+40901	25025	25	25	Suffolk County	11	Agriculture, forestry, fishing and hunting	11	0500000US25025	5.0	36.0	3074.0
+40902	25025	25	25	Suffolk County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25025	3.0	0.0	0.0
+40903	25025	25	25	Suffolk County	22	Utilities	22	0500000US25025	26.0	1719.0	210969.0
+40904	25025	25	25	Suffolk County	23	Construction	23	0500000US25025	827.0	9238.0	808178.0
+40905	25025	25	25	Suffolk County	42	Wholesale trade	42	0500000US25025	675.0	9594.0	655768.0
+40906	25025	25	25	Suffolk County	51	Information	51	0500000US25025	533.0	19348.0	1696762.0
+40907	25025	25	25	Suffolk County	52	Finance and insurance	52	0500000US25025	1720.0	89728.0	13988287.0
+40908	25025	25	25	Suffolk County	53	Real estate and rental and leasing	53	0500000US25025	1067.0	11500.0	896152.0
+40909	25025	25	25	Suffolk County	54	Professional, scientific, and technical services	54	0500000US25025	3146.0	61755.0	6901362.0
+40910	25025	25	25	Suffolk County	55	Management of companies and enterprises	55	0500000US25025	166.0	14626.0	1370585.0
+40911	25025	25	25	Suffolk County	56	Administrative and support and waste management and remediation services	56	0500000US25025	1013.0	37240.0	1596068.0
+40912	25025	25	25	Suffolk County	61	Educational services	61	0500000US25025	375.0	54224.0	2037966.0
+40913	25025	25	25	Suffolk County	62	Health care and social assistance	62	0500000US25025	1820.0	129183.0	8234671.0
+40914	25025	25	25	Suffolk County	71	Arts, entertainment, and recreation	71	0500000US25025	343.0	11397.0	687708.0
+40915	25025	25	25	Suffolk County	72	Accommodation and food services	72	0500000US25025	2451.0	54479.0	1350130.0
+40916	25025	25	25	Suffolk County	81	Other services (except public administration)	81	0500000US25025	2350.0	21263.0	836710.0
+40917	25025	25	25	Suffolk County	99	Industries not classified	99	0500000US25025	32.0	28.0	2260.0
+40919	25025	25	25	Suffolk County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25025	6.75	29.375	2629.25
+40920	25025	25	25	Suffolk County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25025	2.0	8.4	578.2
+40921	25025	25	25	Suffolk County, Massachusetts	22	Utilities	22	0500000US25025	37.0	1664.25	206228.75
+40922	25025	25	25	Suffolk County, Massachusetts	23	Construction	23	0500000US25025	965.5	12551.0	1201710.75
+40923	25025	25	25	Suffolk County, Massachusetts	42	Wholesale trade	42	0500000US25025	667.375	13435.75	1616136.5
+40924	25025	25	25	Suffolk County, Massachusetts	51	Information	51	0500000US25025	621.375	23183.25	2706724.375
+40925	25025	25	25	Suffolk County, Massachusetts	52	Finance and insurance	52	0500000US25025	1880.75	75609.375	16078796.0
+40926	25025	25	25	Suffolk County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25025	1303.375	13444.625	1143956.625
+40927	25025	25	25	Suffolk County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25025	3374.375	74063.625	9123976.875
+40928	25025	25	25	Suffolk County, Massachusetts	55	Management of companies and enterprises	55	0500000US25025	181.0	20369.25	2283234.5
+40929	25025	25	25	Suffolk County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25025	1112.0	31036.125	1484317.875
+40930	25025	25	25	Suffolk County, Massachusetts	61	Educational services	61	0500000US25025	414.75	59714.5	2511560.5
+40931	25025	25	25	Suffolk County, Massachusetts	62	Health care and social assistance	62	0500000US25025	1932.0	130994.375	9224539.75
+40932	25025	25	25	Suffolk County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25025	387.0	12588.5	840232.375
+40933	25025	25	25	Suffolk County, Massachusetts	72	Accommodation and food services	72	0500000US25025	2632.375	63012.125	1706025.5
+40934	25025	25	25	Suffolk County, Massachusetts	81	Other services (except public administration)	81	0500000US25025	2391.625	22700.0	1013357.75
+40935	25025	25	25	Suffolk County, Massachusetts	99	Industries not classified	99	0500000US25025	70.5	71.625	4375.75
+40937	25027	25	27	Worcester County	11	Agriculture, forestry, fishing and hunting	11	0500000US25027	33.0	0.0	3114.0
+40938	25027	25	27	Worcester County	21	Mining, quarrying, and oil and gas extraction	21	0500000US25027	13.0	114.0	7791.0
+40939	25027	25	27	Worcester County	22	Utilities	22	0500000US25027	43.0	0.0	160784.0
+40940	25027	25	27	Worcester County	23	Construction	23	0500000US25027	1925.0	11169.0	651576.0
+40941	25027	25	27	Worcester County	42	Wholesale trade	42	0500000US25027	940.0	13595.0	822062.0
+40942	25027	25	27	Worcester County	51	Information	51	0500000US25027	259.0	4936.0	309047.0
+40943	25027	25	27	Worcester County	52	Finance and insurance	52	0500000US25027	898.0	14084.0	870007.0
+40944	25027	25	27	Worcester County	53	Real estate and rental and leasing	53	0500000US25027	584.0	2635.0	115819.0
+40945	25027	25	27	Worcester County	54	Professional, scientific, and technical services	54	0500000US25027	1825.0	16283.0	1218034.0
+40946	25027	25	27	Worcester County	55	Management of companies and enterprises	55	0500000US25027	96.0	4718.0	379848.0
+40947	25027	25	27	Worcester County	56	Administrative and support and waste management and remediation services	56	0500000US25027	1002.0	12402.0	408692.0
+40948	25027	25	27	Worcester County	61	Educational services	61	0500000US25027	283.0	15285.0	524537.0
+40949	25027	25	27	Worcester County	62	Health care and social assistance	62	0500000US25027	2013.0	60837.0	2908655.0
+40950	25027	25	27	Worcester County	71	Arts, entertainment, and recreation	71	0500000US25027	255.0	4470.0	84286.0
+40951	25027	25	27	Worcester County	72	Accommodation and food services	72	0500000US25027	1732.0	24691.0	372374.0
+40952	25027	25	27	Worcester County	81	Other services (except public administration)	81	0500000US25027	1753.0	10594.0	276219.0
+40953	25027	25	27	Worcester County	99	Industries not classified	99	0500000US25027	21.0	51.0	687.0
+40955	25027	25	27	Worcester County, Massachusetts	11	Agriculture, forestry, fishing and hunting	11	0500000US25027	34.5	132.875	4227.875
+40956	25027	25	27	Worcester County, Massachusetts	21	Mining, quarrying, and oil and gas extraction	21	0500000US25027	9.625	116.375	9264.5
+40957	25027	25	27	Worcester County, Massachusetts	22	Utilities	22	0500000US25027	41.375	1343.5	173960.375
+40958	25027	25	27	Worcester County, Massachusetts	23	Construction	23	0500000US25027	2158.0	13515.625	926351.125
+40959	25027	25	27	Worcester County, Massachusetts	42	Wholesale trade	42	0500000US25027	870.75	14008.5	917762.625
+40960	25027	25	27	Worcester County, Massachusetts	51	Information	51	0500000US25027	269.25	4157.125	282382.75
+40961	25027	25	27	Worcester County, Massachusetts	52	Finance and insurance	52	0500000US25027	879.5	15236.125	1150388.0
+40962	25027	25	27	Worcester County, Massachusetts	53	Real estate and rental and leasing	53	0500000US25027	663.375	3320.0	159716.5
+40963	25027	25	27	Worcester County, Massachusetts	54	Professional, scientific, and technical services	54	0500000US25027	1831.0	18685.25	1654385.75
+40964	25027	25	27	Worcester County, Massachusetts	55	Management of companies and enterprises	55	0500000US25027	107.5	5622.0	498617.125
+40965	25027	25	27	Worcester County, Massachusetts	56	Administrative and support and waste management and remediation services	56	0500000US25027	1060.375	13065.625	496960.625
+40966	25027	25	27	Worcester County, Massachusetts	61	Educational services	61	0500000US25027	305.375	17880.875	605109.0
+40967	25027	25	27	Worcester County, Massachusetts	62	Health care and social assistance	62	0500000US25027	2092.625	66509.875	3288184.0
+40968	25027	25	27	Worcester County, Massachusetts	71	Arts, entertainment, and recreation	71	0500000US25027	266.375	4715.125	98046.375
+40969	25027	25	27	Worcester County, Massachusetts	72	Accommodation and food services	72	0500000US25027	1765.875	26055.5	463063.75
+40970	25027	25	27	Worcester County, Massachusetts	81	Other services (except public administration)	81	0500000US25027	1863.0	11366.375	332234.875
+40971	25027	25	27	Worcester County, Massachusetts	99	Industries not classified	99	0500000US25027	36.625	41.625	1213.375

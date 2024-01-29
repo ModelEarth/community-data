@@ -1,0 +1,1027 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+59443	35001	35	1	Bernalillo County	11	Agriculture, forestry, fishing and hunting	11	0500000US35001	10.0	20.0	3063.0
+59444	35001	35	1	Bernalillo County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35001	19.0	202.0	12067.0
+59445	35001	35	1	Bernalillo County	22	Utilities	22	0500000US35001	18.0	0.0	0.0
+59446	35001	35	1	Bernalillo County	23	Construction	23	0500000US35001	1354.0	15799.0	708829.0
+59447	35001	35	1	Bernalillo County	42	Wholesale trade	42	0500000US35001	914.0	12065.0	564122.0
+59448	35001	35	1	Bernalillo County	51	Information	51	0500000US35001	274.0	6715.0	304596.0
+59449	35001	35	1	Bernalillo County	52	Finance and insurance	52	0500000US35001	1008.0	10701.0	616830.0
+59450	35001	35	1	Bernalillo County	53	Real estate and rental and leasing	53	0500000US35001	917.0	4188.0	148482.0
+59451	35001	35	1	Bernalillo County	54	Professional, scientific, and technical services	54	0500000US35001	2221.0	18898.0	1109957.0
+59452	35001	35	1	Bernalillo County	55	Management of companies and enterprises	55	0500000US35001	125.0	4611.0	265791.0
+59453	35001	35	1	Bernalillo County	56	Administrative and support and waste management and remediation services	56	0500000US35001	739.0	15772.0	444269.0
+59454	35001	35	1	Bernalillo County	61	Educational services	61	0500000US35001	276.0	4345.0	124215.0
+59455	35001	35	1	Bernalillo County	62	Health care and social assistance	62	0500000US35001	1899.0	47017.0	2107502.0
+59456	35001	35	1	Bernalillo County	71	Arts, entertainment, and recreation	71	0500000US35001	209.0	4519.0	95753.0
+59457	35001	35	1	Bernalillo County	72	Accommodation and food services	72	0500000US35001	1383.0	31189.0	487387.0
+59458	35001	35	1	Bernalillo County	81	Other services (except public administration)	81	0500000US35001	1432.0	11232.0	300976.0
+59459	35001	35	1	Bernalillo County	99	Industries not classified	99	0500000US35001	11.0	0.0	251.0
+59461	35001	35	1	Bernalillo County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35001	9.125	11.5	797.5
+59462	35001	35	1	Bernalillo County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35001	17.25	109.625	8893.625
+59463	35001	35	1	Bernalillo County, New Mexico	22	Utilities	22	0500000US35001	15.375	529.25	58302.875
+59464	35001	35	1	Bernalillo County, New Mexico	23	Construction	23	0500000US35001	1394.0	17902.0	897341.0
+59465	35001	35	1	Bernalillo County, New Mexico	42	Wholesale trade	42	0500000US35001	815.625	11261.125	602864.125
+59466	35001	35	1	Bernalillo County, New Mexico	51	Information	51	0500000US35001	280.5	7179.375	342929.75
+59467	35001	35	1	Bernalillo County, New Mexico	52	Finance and insurance	52	0500000US35001	986.75	11509.75	719428.5
+59468	35001	35	1	Bernalillo County, New Mexico	53	Real estate and rental and leasing	53	0500000US35001	969.5	4254.25	167862.0
+59469	35001	35	1	Bernalillo County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35001	2235.0	24978.5	1787518.0
+59470	35001	35	1	Bernalillo County, New Mexico	55	Management of companies and enterprises	55	0500000US35001	105.625	4835.0	294721.125
+59471	35001	35	1	Bernalillo County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35001	744.75	16274.625	473193.625
+59472	35001	35	1	Bernalillo County, New Mexico	61	Educational services	61	0500000US35001	251.125	3796.875	115101.75
+59473	35001	35	1	Bernalillo County, New Mexico	62	Health care and social assistance	62	0500000US35001	1949.875	50924.25	2443415.75
+59474	35001	35	1	Bernalillo County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35001	231.875	4720.0	96866.125
+59475	35001	35	1	Bernalillo County, New Mexico	72	Accommodation and food services	72	0500000US35001	1470.625	34725.75	616172.0
+59476	35001	35	1	Bernalillo County, New Mexico	81	Other services (except public administration)	81	0500000US35001	1425.5	10896.625	326300.0
+59477	35001	35	1	Bernalillo County, New Mexico	99	Industries not classified	99	0500000US35001	16.0	11.375	274.875
+59479	35003	35	3	Catron County	11	Agriculture, forestry, fishing and hunting	11	0500000US35003	1.0	0.0	0.0
+59480	35003	35	3	Catron County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35003	3.0	0.0	0.0
+59481	35003	35	3	Catron County	22	Utilities	22	0500000US35003	3.0	0.0	0.0
+59482	35003	35	3	Catron County	23	Construction	23	0500000US35003	3.0	0.0	238.0
+59483	35003	35	3	Catron County	42	Wholesale trade	42	0500000US35003	1.0	0.0	0.0
+59484	35003	35	3	Catron County	52	Finance and insurance	52	0500000US35003	2.0	0.0	0.0
+59485	35003	35	3	Catron County	54	Professional, scientific, and technical services	54	0500000US35003	4.0	0.0	0.0
+59486	35003	35	3	Catron County	56	Administrative and support and waste management and remediation services	56	0500000US35003	2.0	0.0	0.0
+59487	35003	35	3	Catron County	61	Educational services	61	0500000US35003	1.0	0.0	0.0
+59488	35003	35	3	Catron County	62	Health care and social assistance	62	0500000US35003	7.0	126.0	1674.0
+59489	35003	35	3	Catron County	71	Arts, entertainment, and recreation	71	0500000US35003	2.0	0.0	0.0
+59490	35003	35	3	Catron County	72	Accommodation and food services	72	0500000US35003	12.0	39.0	348.0
+59491	35003	35	3	Catron County	81	Other services (except public administration)	81	0500000US35003	5.0	0.0	195.0
+59493	35003	35	3	Catron County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35003	1.5	0.0	0.0
+59494	35003	35	3	Catron County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35003	2.0	0.0	0.0
+59495	35003	35	3	Catron County, New Mexico	22	Utilities	22	0500000US35003	2.8	5.4	192.0
+59496	35003	35	3	Catron County, New Mexico	23	Construction	23	0500000US35003	6.0	15.125	491.25
+59497	35003	35	3	Catron County, New Mexico	42	Wholesale trade	42	0500000US35003	1.0	0.0	0.0
+59498	35003	35	3	Catron County, New Mexico	52	Finance and insurance	52	0500000US35003	1.0	0.0	0.0
+59499	35003	35	3	Catron County, New Mexico	53	Real estate and rental and leasing	53	0500000US35003	1.25	0.0	0.0
+59500	35003	35	3	Catron County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35003	4.0	28.75	1406.875
+59501	35003	35	3	Catron County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35003	2.2	0.4	4.8
+59502	35003	35	3	Catron County, New Mexico	61	Educational services	61	0500000US35003	1.0	0.0	0.0
+59503	35003	35	3	Catron County, New Mexico	62	Health care and social assistance	62	0500000US35003	5.0	123.375	1889.625
+59504	35003	35	3	Catron County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35003	2.0	0.6	20.0
+59505	35003	35	3	Catron County, New Mexico	72	Accommodation and food services	72	0500000US35003	7.875	24.875	281.75
+59506	35003	35	3	Catron County, New Mexico	81	Other services (except public administration)	81	0500000US35003	6.0	16.0	416.75
+59508	35005	35	5	Chaves County	11	Agriculture, forestry, fishing and hunting	11	0500000US35005	8.0	59.0	2154.0
+59509	35005	35	5	Chaves County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35005	52.0	263.0	15470.0
+59510	35005	35	5	Chaves County	22	Utilities	22	0500000US35005	7.0	0.0	0.0
+59511	35005	35	5	Chaves County	23	Construction	23	0500000US35005	126.0	1114.0	35269.0
+59512	35005	35	5	Chaves County	42	Wholesale trade	42	0500000US35005	53.0	484.0	19980.0
+59513	35005	35	5	Chaves County	51	Information	51	0500000US35005	24.0	207.0	6759.0
+59514	35005	35	5	Chaves County	52	Finance and insurance	52	0500000US35005	110.0	671.0	27398.0
+59515	35005	35	5	Chaves County	53	Real estate and rental and leasing	53	0500000US35005	76.0	263.0	10152.0
+59516	35005	35	5	Chaves County	54	Professional, scientific, and technical services	54	0500000US35005	108.0	957.0	62179.0
+59517	35005	35	5	Chaves County	55	Management of companies and enterprises	55	0500000US35005	12.0	0.0	0.0
+59518	35005	35	5	Chaves County	56	Administrative and support and waste management and remediation services	56	0500000US35005	57.0	363.0	7726.0
+59519	35005	35	5	Chaves County	61	Educational services	61	0500000US35005	9.0	82.0	1928.0
+59520	35005	35	5	Chaves County	62	Health care and social assistance	62	0500000US35005	176.0	4150.0	153383.0
+59521	35005	35	5	Chaves County	71	Arts, entertainment, and recreation	71	0500000US35005	17.0	155.0	1766.0
+59522	35005	35	5	Chaves County	72	Accommodation and food services	72	0500000US35005	128.0	2286.0	29343.0
+59523	35005	35	5	Chaves County	81	Other services (except public administration)	81	0500000US35005	125.0	794.0	15610.0
+59525	35005	35	5	Chaves County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35005	4.5	31.333333333333332	1342.3333333333333
+59526	35005	35	5	Chaves County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35005	51.375	306.625	20005.125
+59527	35005	35	5	Chaves County, New Mexico	22	Utilities	22	0500000US35005	8.875	84.875	5781.125
+59528	35005	35	5	Chaves County, New Mexico	23	Construction	23	0500000US35005	120.75	1135.5	40879.75
+59529	35005	35	5	Chaves County, New Mexico	42	Wholesale trade	42	0500000US35005	53.25	614.625	26282.75
+59530	35005	35	5	Chaves County, New Mexico	51	Information	51	0500000US35005	20.125	205.875	6743.625
+59531	35005	35	5	Chaves County, New Mexico	52	Finance and insurance	52	0500000US35005	107.625	613.875	27961.375
+59532	35005	35	5	Chaves County, New Mexico	53	Real estate and rental and leasing	53	0500000US35005	68.0	227.625	8381.125
+59533	35005	35	5	Chaves County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35005	104.375	829.125	58030.5
+59534	35005	35	5	Chaves County, New Mexico	55	Management of companies and enterprises	55	0500000US35005	10.875	94.5	5865.125
+59535	35005	35	5	Chaves County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35005	54.25	339.75	8330.125
+59536	35005	35	5	Chaves County, New Mexico	61	Educational services	61	0500000US35005	7.125	76.625	1484.125
+59537	35005	35	5	Chaves County, New Mexico	62	Health care and social assistance	62	0500000US35005	182.75	3748.875	159483.625
+59538	35005	35	5	Chaves County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35005	20.5	161.125	2083.5
+59539	35005	35	5	Chaves County, New Mexico	72	Accommodation and food services	72	0500000US35005	130.25	2492.75	35794.75
+59540	35005	35	5	Chaves County, New Mexico	81	Other services (except public administration)	81	0500000US35005	123.75	867.0	18536.375
+59541	35005	35	5	Chaves County, New Mexico	99	Industries not classified	99	0500000US35005	2.3333333333333335	1.3333333333333333	49.833333333333336
+59543	35006	35	6	Cibola County	11	Agriculture, forestry, fishing and hunting	11	0500000US35006	1.0	0.0	0.0
+59544	35006	35	6	Cibola County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35006	2.0	0.0	0.0
+59545	35006	35	6	Cibola County	22	Utilities	22	0500000US35006	4.0	64.0	3914.0
+59546	35006	35	6	Cibola County	23	Construction	23	0500000US35006	21.0	228.0	8882.0
+59547	35006	35	6	Cibola County	42	Wholesale trade	42	0500000US35006	9.0	0.0	0.0
+59548	35006	35	6	Cibola County	51	Information	51	0500000US35006	6.0	0.0	1225.0
+59549	35006	35	6	Cibola County	52	Finance and insurance	52	0500000US35006	23.0	103.0	3086.0
+59550	35006	35	6	Cibola County	53	Real estate and rental and leasing	53	0500000US35006	12.0	0.0	1089.0
+59551	35006	35	6	Cibola County	54	Professional, scientific, and technical services	54	0500000US35006	17.0	103.0	4048.0
+59552	35006	35	6	Cibola County	55	Management of companies and enterprises	55	0500000US35006	1.0	0.0	0.0
+59553	35006	35	6	Cibola County	56	Administrative and support and waste management and remediation services	56	0500000US35006	16.0	0.0	0.0
+59554	35006	35	6	Cibola County	61	Educational services	61	0500000US35006	4.0	0.0	0.0
+59555	35006	35	6	Cibola County	62	Health care and social assistance	62	0500000US35006	49.0	1437.0	49993.0
+59556	35006	35	6	Cibola County	71	Arts, entertainment, and recreation	71	0500000US35006	8.0	161.0	3645.0
+59557	35006	35	6	Cibola County	72	Accommodation and food services	72	0500000US35006	36.0	641.0	7729.0
+59558	35006	35	6	Cibola County	81	Other services (except public administration)	81	0500000US35006	36.0	118.0	2449.0
+59560	35006	35	6	Cibola County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35006	2.0	0.0	0.0
+59561	35006	35	6	Cibola County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35006	2.0	0.0	0.0
+59562	35006	35	6	Cibola County, New Mexico	22	Utilities	22	0500000US35006	4.375	53.125	4627.125
+59563	35006	35	6	Cibola County, New Mexico	23	Construction	23	0500000US35006	19.25	180.625	7064.375
+59564	35006	35	6	Cibola County, New Mexico	42	Wholesale trade	42	0500000US35006	7.875	54.625	2362.25
+59565	35006	35	6	Cibola County, New Mexico	51	Information	51	0500000US35006	5.875	15.625	686.0
+59566	35006	35	6	Cibola County, New Mexico	52	Finance and insurance	52	0500000US35006	25.125	103.375	3450.375
+59567	35006	35	6	Cibola County, New Mexico	53	Real estate and rental and leasing	53	0500000US35006	10.5	18.25	801.5
+59568	35006	35	6	Cibola County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35006	11.75	40.625	1194.375
+59569	35006	35	6	Cibola County, New Mexico	55	Management of companies and enterprises	55	0500000US35006	1.0	0.0	0.0
+59570	35006	35	6	Cibola County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35006	11.125	299.375	13039.0
+59571	35006	35	6	Cibola County, New Mexico	61	Educational services	61	0500000US35006	3.625	96.5	4007.5
+59572	35006	35	6	Cibola County, New Mexico	62	Health care and social assistance	62	0500000US35006	49.875	1538.75	58726.125
+59573	35006	35	6	Cibola County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35006	5.5	109.375	2506.5
+59574	35006	35	6	Cibola County, New Mexico	72	Accommodation and food services	72	0500000US35006	39.75	842.125	14519.25
+59575	35006	35	6	Cibola County, New Mexico	81	Other services (except public administration)	81	0500000US35006	29.75	89.75	2426.5
+59576	35006	35	6	Cibola County, New Mexico	99	Industries not classified	99	0500000US35006	1.5	0.0	0.0
+59578	35007	35	7	Colfax County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35007	4.0	0.0	490.0
+59579	35007	35	7	Colfax County	22	Utilities	22	0500000US35007	6.0	0.0	1726.0
+59580	35007	35	7	Colfax County	23	Construction	23	0500000US35007	66.0	176.0	6351.0
+59581	35007	35	7	Colfax County	42	Wholesale trade	42	0500000US35007	9.0	29.0	939.0
+59582	35007	35	7	Colfax County	51	Information	51	0500000US35007	8.0	49.0	1451.0
+59583	35007	35	7	Colfax County	52	Finance and insurance	52	0500000US35007	27.0	166.0	6476.0
+59584	35007	35	7	Colfax County	53	Real estate and rental and leasing	53	0500000US35007	27.0	108.0	1433.0
+59585	35007	35	7	Colfax County	54	Professional, scientific, and technical services	54	0500000US35007	23.0	103.0	2009.0
+59586	35007	35	7	Colfax County	55	Management of companies and enterprises	55	0500000US35007	2.0	0.0	0.0
+59587	35007	35	7	Colfax County	56	Administrative and support and waste management and remediation services	56	0500000US35007	13.0	0.0	0.0
+59588	35007	35	7	Colfax County	61	Educational services	61	0500000US35007	2.0	0.0	0.0
+59589	35007	35	7	Colfax County	62	Health care and social assistance	62	0500000US35007	36.0	563.0	24979.0
+59590	35007	35	7	Colfax County	71	Arts, entertainment, and recreation	71	0500000US35007	5.0	0.0	140.0
+59591	35007	35	7	Colfax County	72	Accommodation and food services	72	0500000US35007	63.0	1051.0	22122.0
+59592	35007	35	7	Colfax County	81	Other services (except public administration)	81	0500000US35007	40.0	129.0	2710.0
+59594	35007	35	7	Colfax County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35007	1.0	0.0	0.0
+59595	35007	35	7	Colfax County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35007	3.375	39.25	2527.875
+59596	35007	35	7	Colfax County, New Mexico	22	Utilities	22	0500000US35007	6.75	27.375	2137.75
+59597	35007	35	7	Colfax County, New Mexico	23	Construction	23	0500000US35007	56.375	157.625	5774.125
+59598	35007	35	7	Colfax County, New Mexico	42	Wholesale trade	42	0500000US35007	6.375	11.375	655.375
+59599	35007	35	7	Colfax County, New Mexico	51	Information	51	0500000US35007	7.75	33.0	955.875
+59600	35007	35	7	Colfax County, New Mexico	52	Finance and insurance	52	0500000US35007	28.0	124.625	6203.625
+59601	35007	35	7	Colfax County, New Mexico	53	Real estate and rental and leasing	53	0500000US35007	21.375	62.375	1584.375
+59602	35007	35	7	Colfax County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35007	22.5	75.125	2017.0
+59603	35007	35	7	Colfax County, New Mexico	55	Management of companies and enterprises	55	0500000US35007	1.0	0.0	0.0
+59604	35007	35	7	Colfax County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35007	14.75	63.375	1890.875
+59605	35007	35	7	Colfax County, New Mexico	61	Educational services	61	0500000US35007	1.75	0.0	0.0
+59606	35007	35	7	Colfax County, New Mexico	62	Health care and social assistance	62	0500000US35007	29.125	474.5	21620.625
+59607	35007	35	7	Colfax County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35007	4.125	7.0	127.375
+59608	35007	35	7	Colfax County, New Mexico	72	Accommodation and food services	72	0500000US35007	61.625	1203.75	23865.25
+59609	35007	35	7	Colfax County, New Mexico	81	Other services (except public administration)	81	0500000US35007	38.75	134.0	2774.0
+59610	35007	35	7	Colfax County, New Mexico	99	Industries not classified	99	0500000US35007	1.3333333333333333	0.0	0.0
+59612	35009	35	9	Curry County	11	Agriculture, forestry, fishing and hunting	11	0500000US35009	6.0	28.0	1495.0
+59613	35009	35	9	Curry County	22	Utilities	22	0500000US35009	6.0	0.0	6547.0
+59614	35009	35	9	Curry County	23	Construction	23	0500000US35009	103.0	851.0	32723.0
+59615	35009	35	9	Curry County	42	Wholesale trade	42	0500000US35009	50.0	500.0	17037.0
+59616	35009	35	9	Curry County	51	Information	51	0500000US35009	15.0	0.0	0.0
+59617	35009	35	9	Curry County	52	Finance and insurance	52	0500000US35009	85.0	474.0	18876.0
+59618	35009	35	9	Curry County	53	Real estate and rental and leasing	53	0500000US35009	62.0	222.0	5799.0
+59619	35009	35	9	Curry County	54	Professional, scientific, and technical services	54	0500000US35009	89.0	563.0	20923.0
+59620	35009	35	9	Curry County	55	Management of companies and enterprises	55	0500000US35009	6.0	0.0	0.0
+59621	35009	35	9	Curry County	56	Administrative and support and waste management and remediation services	56	0500000US35009	41.0	914.0	14266.0
+59622	35009	35	9	Curry County	61	Educational services	61	0500000US35009	7.0	67.0	1729.0
+59623	35009	35	9	Curry County	62	Health care and social assistance	62	0500000US35009	120.0	2699.0	84555.0
+59624	35009	35	9	Curry County	71	Arts, entertainment, and recreation	71	0500000US35009	10.0	0.0	525.0
+59625	35009	35	9	Curry County	72	Accommodation and food services	72	0500000US35009	83.0	1901.0	22732.0
+59626	35009	35	9	Curry County	81	Other services (except public administration)	81	0500000US35009	121.0	744.0	13676.0
+59628	35009	35	9	Curry County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35009	7.375	27.5	1748.875
+59629	35009	35	9	Curry County, New Mexico	22	Utilities	22	0500000US35009	6.0	92.625	7436.75
+59630	35009	35	9	Curry County, New Mexico	23	Construction	23	0500000US35009	99.625	720.5	28895.5
+59631	35009	35	9	Curry County, New Mexico	42	Wholesale trade	42	0500000US35009	44.0	477.875	18389.5
+59632	35009	35	9	Curry County, New Mexico	51	Information	51	0500000US35009	14.125	185.875	9369.75
+59633	35009	35	9	Curry County, New Mexico	52	Finance and insurance	52	0500000US35009	78.375	447.25	20833.875
+59634	35009	35	9	Curry County, New Mexico	53	Real estate and rental and leasing	53	0500000US35009	57.875	203.75	5985.875
+59635	35009	35	9	Curry County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35009	84.5	551.25	28462.5
+59636	35009	35	9	Curry County, New Mexico	55	Management of companies and enterprises	55	0500000US35009	4.75	21.125	1654.875
+59637	35009	35	9	Curry County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35009	41.625	463.75	11428.25
+59638	35009	35	9	Curry County, New Mexico	61	Educational services	61	0500000US35009	8.625	94.125	3107.25
+59639	35009	35	9	Curry County, New Mexico	62	Health care and social assistance	62	0500000US35009	117.625	2920.5	97283.0
+59640	35009	35	9	Curry County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35009	13.5	57.875	733.125
+59641	35009	35	9	Curry County, New Mexico	72	Accommodation and food services	72	0500000US35009	85.75	1901.75	26310.25
+59642	35009	35	9	Curry County, New Mexico	81	Other services (except public administration)	81	0500000US35009	118.5	766.5	15592.25
+59643	35009	35	9	Curry County, New Mexico	99	Industries not classified	99	0500000US35009	2.3333333333333335	0.3333333333333333	8.333333333333334
+59645	35011	35	11	De Baca County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35011	1.0	0.0	0.0
+59646	35011	35	11	De Baca County	22	Utilities	22	0500000US35011	3.0	15.0	596.0
+59647	35011	35	11	De Baca County	23	Construction	23	0500000US35011	6.0	26.0	442.0
+59648	35011	35	11	De Baca County	42	Wholesale trade	42	0500000US35011	1.0	0.0	0.0
+59649	35011	35	11	De Baca County	51	Information	51	0500000US35011	3.0	0.0	0.0
+59650	35011	35	11	De Baca County	52	Finance and insurance	52	0500000US35011	2.0	0.0	0.0
+59651	35011	35	11	De Baca County	53	Real estate and rental and leasing	53	0500000US35011	1.0	0.0	0.0
+59652	35011	35	11	De Baca County	54	Professional, scientific, and technical services	54	0500000US35011	1.0	0.0	0.0
+59653	35011	35	11	De Baca County	62	Health care and social assistance	62	0500000US35011	5.0	0.0	0.0
+59654	35011	35	11	De Baca County	71	Arts, entertainment, and recreation	71	0500000US35011	1.0	0.0	0.0
+59655	35011	35	11	De Baca County	72	Accommodation and food services	72	0500000US35011	5.0	0.0	518.0
+59656	35011	35	11	De Baca County	81	Other services (except public administration)	81	0500000US35011	7.0	22.0	248.0
+59658	35011	35	11	De Baca County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35011	1.0	0.0	0.0
+59659	35011	35	11	De Baca County, New Mexico	22	Utilities	22	0500000US35011	1.5	0.0	0.0
+59660	35011	35	11	De Baca County, New Mexico	23	Construction	23	0500000US35011	7.0	23.0	474.625
+59661	35011	35	11	De Baca County, New Mexico	42	Wholesale trade	42	0500000US35011	1.0	0.0	0.0
+59662	35011	35	11	De Baca County, New Mexico	51	Information	51	0500000US35011	3.0	10.25	382.875
+59663	35011	35	11	De Baca County, New Mexico	52	Finance and insurance	52	0500000US35011	2.0	0.0	0.0
+59664	35011	35	11	De Baca County, New Mexico	53	Real estate and rental and leasing	53	0500000US35011	1.0	0.0	0.0
+59665	35011	35	11	De Baca County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35011	1.0	0.0	0.0
+59666	35011	35	11	De Baca County, New Mexico	62	Health care and social assistance	62	0500000US35011	3.25	17.625	732.0
+59667	35011	35	11	De Baca County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35011	1.0	0.0	0.0
+59668	35011	35	11	De Baca County, New Mexico	72	Accommodation and food services	72	0500000US35011	5.0	21.875	506.25
+59669	35011	35	11	De Baca County, New Mexico	81	Other services (except public administration)	81	0500000US35011	6.375	22.125	322.5
+59671	35013	35	13	Do?a Ana County	11	Agriculture, forestry, fishing and hunting	11	0500000US35013	9.0	57.0	1919.0
+59672	35013	35	13	Do?a Ana County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35013	5.0	34.0	1297.0
+59673	35013	35	13	Do?a Ana County	22	Utilities	22	0500000US35013	25.0	268.0	18900.0
+59674	35013	35	13	Do?a Ana County	23	Construction	23	0500000US35013	441.0	3323.0	108351.0
+59675	35013	35	13	Do?a Ana County	42	Wholesale trade	42	0500000US35013	115.0	1049.0	47123.0
+59676	35013	35	13	Do?a Ana County	51	Information	51	0500000US35013	46.0	490.0	18389.0
+59677	35013	35	13	Do?a Ana County	52	Finance and insurance	52	0500000US35013	240.0	1821.0	61024.0
+59678	35013	35	13	Do?a Ana County	53	Real estate and rental and leasing	53	0500000US35013	204.0	675.0	17771.0
+59679	35013	35	13	Do?a Ana County	54	Professional, scientific, and technical services	54	0500000US35013	337.0	3678.0	192126.0
+59680	35013	35	13	Do?a Ana County	55	Management of companies and enterprises	55	0500000US35013	10.0	171.0	8435.0
+59681	35013	35	13	Do?a Ana County	56	Administrative and support and waste management and remediation services	56	0500000US35013	168.0	2910.0	65498.0
+59682	35013	35	13	Do?a Ana County	61	Educational services	61	0500000US35013	40.0	621.0	10306.0
+59683	35013	35	13	Do?a Ana County	62	Health care and social assistance	62	0500000US35013	493.0	12268.0	425568.0
+59684	35013	35	13	Do?a Ana County	71	Arts, entertainment, and recreation	71	0500000US35013	41.0	1228.0	20240.0
+59685	35013	35	13	Do?a Ana County	72	Accommodation and food services	72	0500000US35013	321.0	6932.0	86893.0
+59686	35013	35	13	Do?a Ana County	81	Other services (except public administration)	81	0500000US35013	323.0	1850.0	37299.0
+59687	35013	35	13	Do?a Ana County	99	Industries not classified	99	0500000US35013	4.0	0.0	0.0
+59689	35013	35	13	Do?a Ana County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35013	10.25	36.0	2246.25
+59690	35013	35	13	Do?a Ana County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35013	5.25	27.5	1055.75
+59691	35013	35	13	Do?a Ana County, New Mexico	22	Utilities	22	0500000US35013	22.25	271.25	19268.5
+59692	35013	35	13	Do?a Ana County, New Mexico	23	Construction	23	0500000US35013	430.5	3264.75	113595.25
+59693	35013	35	13	Do?a Ana County, New Mexico	42	Wholesale trade	42	0500000US35013	113.5	1169.5	51185.5
+59694	35013	35	13	Do?a Ana County, New Mexico	51	Information	51	0500000US35013	44.5	481.25	19895.0
+59695	35013	35	13	Do?a Ana County, New Mexico	52	Finance and insurance	52	0500000US35013	240.5	1656.75	69290.75
+59696	35013	35	13	Do?a Ana County, New Mexico	53	Real estate and rental and leasing	53	0500000US35013	211.75	705.5	19929.25
+59697	35013	35	13	Do?a Ana County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35013	328.5	4086.0	222887.0
+59698	35013	35	13	Do?a Ana County, New Mexico	55	Management of companies and enterprises	55	0500000US35013	9.0	129.25	5808.25
+59699	35013	35	13	Do?a Ana County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35013	162.0	2913.5	71596.5
+59700	35013	35	13	Do?a Ana County, New Mexico	61	Educational services	61	0500000US35013	39.75	533.25	17068.0
+59701	35013	35	13	Do?a Ana County, New Mexico	62	Health care and social assistance	62	0500000US35013	518.25	13483.5	456994.0
+59702	35013	35	13	Do?a Ana County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35013	41.0	1051.75	18763.25
+59703	35013	35	13	Do?a Ana County, New Mexico	72	Accommodation and food services	72	0500000US35013	325.25	6794.5	92858.5
+59704	35013	35	13	Do?a Ana County, New Mexico	81	Other services (except public administration)	81	0500000US35013	321.0	1819.75	37747.75
+59705	35013	35	13	Do?a Ana County, New Mexico	99	Industries not classified	99	0500000US35013	5.75	5.75	201.75
+59707	35013	35	13	Do\u00F1a Ana County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35013	12.25	51.5	2658.0
+59708	35013	35	13	Do\u00F1a Ana County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35013	3.25	20.0	977.75
+59709	35013	35	13	Do\u00F1a Ana County, New Mexico	22	Utilities	22	0500000US35013	19.5	259.5	20890.5
+59710	35013	35	13	Do\u00F1a Ana County, New Mexico	23	Construction	23	0500000US35013	441.25	3348.0	131211.0
+59711	35013	35	13	Do\u00F1a Ana County, New Mexico	42	Wholesale trade	42	0500000US35013	121.5	1253.0	77764.5
+59712	35013	35	13	Do\u00F1a Ana County, New Mexico	51	Information	51	0500000US35013	54.5	438.0	17926.75
+59713	35013	35	13	Do\u00F1a Ana County, New Mexico	52	Finance and insurance	52	0500000US35013	262.5	1827.25	87265.25
+59714	35013	35	13	Do\u00F1a Ana County, New Mexico	53	Real estate and rental and leasing	53	0500000US35013	211.75	720.25	22229.25
+59715	35013	35	13	Do\u00F1a Ana County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35013	316.25	3887.5	215627.0
+59716	35013	35	13	Do\u00F1a Ana County, New Mexico	55	Management of companies and enterprises	55	0500000US35013	10.0	273.75	14270.75
+59717	35013	35	13	Do\u00F1a Ana County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35013	183.0	3291.5	110634.5
+59718	35013	35	13	Do\u00F1a Ana County, New Mexico	61	Educational services	61	0500000US35013	39.25	572.25	23561.5
+59719	35013	35	13	Do\u00F1a Ana County, New Mexico	62	Health care and social assistance	62	0500000US35013	557.5	15072.0	562965.5
+59720	35013	35	13	Do\u00F1a Ana County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35013	42.5	1080.0	16082.5
+59721	35013	35	13	Do\u00F1a Ana County, New Mexico	72	Accommodation and food services	72	0500000US35013	338.75	7308.25	113141.75
+59722	35013	35	13	Do\u00F1a Ana County, New Mexico	81	Other services (except public administration)	81	0500000US35013	326.75	1826.0	42557.5
+59723	35013	35	13	Do\u00F1a Ana County, New Mexico	99	Industries not classified	99	0500000US35013	5.0	14.0	180.66666666666666
+59725	35015	35	15	Eddy County	11	Agriculture, forestry, fishing and hunting	11	0500000US35015	7.0	21.0	778.0
+59726	35015	35	15	Eddy County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35015	138.0	4505.0	320138.0
+59727	35015	35	15	Eddy County	22	Utilities	22	0500000US35015	17.0	160.0	9664.0
+59728	35015	35	15	Eddy County	23	Construction	23	0500000US35015	131.0	1547.0	67803.0
+59729	35015	35	15	Eddy County	42	Wholesale trade	42	0500000US35015	62.0	544.0	25972.0
+59730	35015	35	15	Eddy County	51	Information	51	0500000US35015	22.0	270.0	12070.0
+59731	35015	35	15	Eddy County	52	Finance and insurance	52	0500000US35015	67.0	534.0	21637.0
+59732	35015	35	15	Eddy County	53	Real estate and rental and leasing	53	0500000US35015	56.0	334.0	17873.0
+59733	35015	35	15	Eddy County	54	Professional, scientific, and technical services	54	0500000US35015	79.0	602.0	38292.0
+59734	35015	35	15	Eddy County	55	Management of companies and enterprises	55	0500000US35015	1.0	0.0	0.0
+59735	35015	35	15	Eddy County	56	Administrative and support and waste management and remediation services	56	0500000US35015	46.0	1050.0	70672.0
+59736	35015	35	15	Eddy County	61	Educational services	61	0500000US35015	10.0	0.0	3292.0
+59737	35015	35	15	Eddy County	62	Health care and social assistance	62	0500000US35015	115.0	2951.0	115429.0
+59738	35015	35	15	Eddy County	71	Arts, entertainment, and recreation	71	0500000US35015	11.0	75.0	1405.0
+59739	35015	35	15	Eddy County	72	Accommodation and food services	72	0500000US35015	110.0	2049.0	30490.0
+59740	35015	35	15	Eddy County	81	Other services (except public administration)	81	0500000US35015	132.0	856.0	17963.0
+59741	35015	35	15	Eddy County	99	Industries not classified	99	0500000US35015	2.0	0.0	0.0
+59743	35015	35	15	Eddy County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35015	7.75	23.625	1237.5
+59744	35015	35	15	Eddy County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35015	161.875	5291.875	418437.75
+59745	35015	35	15	Eddy County, New Mexico	22	Utilities	22	0500000US35015	14.875	172.75	12047.75
+59746	35015	35	15	Eddy County, New Mexico	23	Construction	23	0500000US35015	143.0	2214.0	121589.875
+59747	35015	35	15	Eddy County, New Mexico	42	Wholesale trade	42	0500000US35015	67.625	611.5	37834.0
+59748	35015	35	15	Eddy County, New Mexico	51	Information	51	0500000US35015	25.0	254.0	12114.875
+59749	35015	35	15	Eddy County, New Mexico	52	Finance and insurance	52	0500000US35015	72.625	546.25	28750.375
+59750	35015	35	15	Eddy County, New Mexico	53	Real estate and rental and leasing	53	0500000US35015	69.75	419.125	25323.25
+59751	35015	35	15	Eddy County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35015	85.5	771.875	47383.25
+59752	35015	35	15	Eddy County, New Mexico	55	Management of companies and enterprises	55	0500000US35015	5.625	44.5	2519.5
+59753	35015	35	15	Eddy County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35015	54.25	1154.375	80527.625
+59754	35015	35	15	Eddy County, New Mexico	61	Educational services	61	0500000US35015	15.875	106.0	3095.375
+59755	35015	35	15	Eddy County, New Mexico	62	Health care and social assistance	62	0500000US35015	116.5	2874.25	124805.5
+59756	35015	35	15	Eddy County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35015	11.125	91.0	2102.875
+59757	35015	35	15	Eddy County, New Mexico	72	Accommodation and food services	72	0500000US35015	130.0	2460.875	42336.25
+59758	35015	35	15	Eddy County, New Mexico	81	Other services (except public administration)	81	0500000US35015	135.125	957.5	31458.25
+59759	35015	35	15	Eddy County, New Mexico	99	Industries not classified	99	0500000US35015	3.1666666666666665	2.3333333333333335	74.83333333333333
+59761	35017	35	17	Grant County	11	Agriculture, forestry, fishing and hunting	11	0500000US35017	3.0	0.0	56.0
+59762	35017	35	17	Grant County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35017	6.0	0.0	0.0
+59763	35017	35	17	Grant County	22	Utilities	22	0500000US35017	5.0	0.0	0.0
+59764	35017	35	17	Grant County	23	Construction	23	0500000US35017	77.0	0.0	0.0
+59765	35017	35	17	Grant County	42	Wholesale trade	42	0500000US35017	14.0	0.0	4469.0
+59766	35017	35	17	Grant County	51	Information	51	0500000US35017	17.0	0.0	0.0
+59767	35017	35	17	Grant County	52	Finance and insurance	52	0500000US35017	31.0	204.0	6587.0
+59768	35017	35	17	Grant County	53	Real estate and rental and leasing	53	0500000US35017	41.0	129.0	2789.0
+59769	35017	35	17	Grant County	54	Professional, scientific, and technical services	54	0500000US35017	47.0	199.0	5046.0
+59770	35017	35	17	Grant County	55	Management of companies and enterprises	55	0500000US35017	4.0	105.0	7163.0
+59771	35017	35	17	Grant County	56	Administrative and support and waste management and remediation services	56	0500000US35017	18.0	0.0	0.0
+59772	35017	35	17	Grant County	61	Educational services	61	0500000US35017	8.0	114.0	1283.0
+59773	35017	35	17	Grant County	62	Health care and social assistance	62	0500000US35017	80.0	1623.0	58679.0
+59774	35017	35	17	Grant County	71	Arts, entertainment, and recreation	71	0500000US35017	7.0	32.0	571.0
+59775	35017	35	17	Grant County	72	Accommodation and food services	72	0500000US35017	77.0	860.0	9611.0
+59776	35017	35	17	Grant County	81	Other services (except public administration)	81	0500000US35017	66.0	267.0	3997.0
+59778	35017	35	17	Grant County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35017	2.0	0.0	13.25
+59779	35017	35	17	Grant County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35017	5.75	465.375	34538.375
+59780	35017	35	17	Grant County, New Mexico	22	Utilities	22	0500000US35017	4.875	20.375	1550.875
+59781	35017	35	17	Grant County, New Mexico	23	Construction	23	0500000US35017	70.125	488.375	18717.875
+59782	35017	35	17	Grant County, New Mexico	42	Wholesale trade	42	0500000US35017	16.875	95.875	3601.125
+59783	35017	35	17	Grant County, New Mexico	51	Information	51	0500000US35017	15.875	56.375	2580.625
+59784	35017	35	17	Grant County, New Mexico	52	Finance and insurance	52	0500000US35017	34.125	182.625	6763.5
+59785	35017	35	17	Grant County, New Mexico	53	Real estate and rental and leasing	53	0500000US35017	33.125	84.375	2163.875
+59786	35017	35	17	Grant County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35017	41.375	144.0	4520.375
+59787	35017	35	17	Grant County, New Mexico	55	Management of companies and enterprises	55	0500000US35017	4.5	144.375	7984.75
+59788	35017	35	17	Grant County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35017	17.75	34.5	902.75
+59789	35017	35	17	Grant County, New Mexico	61	Educational services	61	0500000US35017	5.0	120.625	1713.5
+59790	35017	35	17	Grant County, New Mexico	62	Health care and social assistance	62	0500000US35017	74.625	1557.625	61908.0
+59791	35017	35	17	Grant County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35017	6.875	23.0	413.0
+59792	35017	35	17	Grant County, New Mexico	72	Accommodation and food services	72	0500000US35017	70.0	912.5	10498.5
+59793	35017	35	17	Grant County, New Mexico	81	Other services (except public administration)	81	0500000US35017	64.875	261.25	4866.75
+59794	35017	35	17	Grant County, New Mexico	99	Industries not classified	99	0500000US35017	2.0	0.0	0.0
+59796	35019	35	19	Guadalupe County	22	Utilities	22	0500000US35019	2.0	0.0	0.0
+59797	35019	35	19	Guadalupe County	23	Construction	23	0500000US35019	10.0	50.0	1419.0
+59798	35019	35	19	Guadalupe County	42	Wholesale trade	42	0500000US35019	1.0	0.0	0.0
+59799	35019	35	19	Guadalupe County	51	Information	51	0500000US35019	4.0	0.0	0.0
+59800	35019	35	19	Guadalupe County	52	Finance and insurance	52	0500000US35019	8.0	0.0	654.0
+59801	35019	35	19	Guadalupe County	53	Real estate and rental and leasing	53	0500000US35019	2.0	0.0	0.0
+59802	35019	35	19	Guadalupe County	54	Professional, scientific, and technical services	54	0500000US35019	2.0	0.0	0.0
+59803	35019	35	19	Guadalupe County	56	Administrative and support and waste management and remediation services	56	0500000US35019	2.0	0.0	0.0
+59804	35019	35	19	Guadalupe County	61	Educational services	61	0500000US35019	1.0	0.0	0.0
+59805	35019	35	19	Guadalupe County	62	Health care and social assistance	62	0500000US35019	9.0	77.0	3542.0
+59806	35019	35	19	Guadalupe County	72	Accommodation and food services	72	0500000US35019	23.0	302.0	4307.0
+59807	35019	35	19	Guadalupe County	81	Other services (except public administration)	81	0500000US35019	12.0	37.0	1159.0
+59809	35019	35	19	Guadalupe County, New Mexico	22	Utilities	22	0500000US35019	2.0	0.0	0.0
+59810	35019	35	19	Guadalupe County, New Mexico	23	Construction	23	0500000US35019	8.125	31.375	872.5
+59811	35019	35	19	Guadalupe County, New Mexico	42	Wholesale trade	42	0500000US35019	1.0	0.0	0.0
+59812	35019	35	19	Guadalupe County, New Mexico	51	Information	51	0500000US35019	4.125	8.375	376.875
+59813	35019	35	19	Guadalupe County, New Mexico	52	Finance and insurance	52	0500000US35019	6.5	18.5	620.0
+59814	35019	35	19	Guadalupe County, New Mexico	53	Real estate and rental and leasing	53	0500000US35019	2.0	0.0	0.0
+59815	35019	35	19	Guadalupe County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35019	2.0	1.25	12.75
+59816	35019	35	19	Guadalupe County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35019	1.25	0.0	0.0
+59817	35019	35	19	Guadalupe County, New Mexico	61	Educational services	61	0500000US35019	1.0	0.0	0.0
+59818	35019	35	19	Guadalupe County, New Mexico	62	Health care and social assistance	62	0500000US35019	8.125	88.125	3982.875
+59819	35019	35	19	Guadalupe County, New Mexico	72	Accommodation and food services	72	0500000US35019	21.625	341.875	4804.75
+59820	35019	35	19	Guadalupe County, New Mexico	81	Other services (except public administration)	81	0500000US35019	9.5	31.375	1430.625
+59822	35021	35	21	Harding County	11	Agriculture, forestry, fishing and hunting	11	0500000US35021	1.0	0.0	0.0
+59823	35021	35	21	Harding County	23	Construction	23	0500000US35021	1.0	0.0	0.0
+59824	35021	35	21	Harding County	52	Finance and insurance	52	0500000US35021	1.0	0.0	0.0
+59825	35021	35	21	Harding County	56	Administrative and support and waste management and remediation services	56	0500000US35021	1.0	0.0	0.0
+59826	35021	35	21	Harding County	62	Health care and social assistance	62	0500000US35021	1.0	0.0	0.0
+59827	35021	35	21	Harding County	72	Accommodation and food services	72	0500000US35021	1.0	0.0	0.0
+59828	35021	35	21	Harding County	81	Other services (except public administration)	81	0500000US35021	1.0	0.0	0.0
+59830	35021	35	21	Harding County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35021	1.0	0.0	0.0
+59831	35021	35	21	Harding County, New Mexico	23	Construction	23	0500000US35021	2.4	7.2	296.2
+59832	35021	35	21	Harding County, New Mexico	52	Finance and insurance	52	0500000US35021	1.0	0.0	0.0
+59833	35021	35	21	Harding County, New Mexico	53	Real estate and rental and leasing	53	0500000US35021	2.0	0.0	0.0
+59834	35021	35	21	Harding County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35021	1.0	0.0	0.0
+59835	35021	35	21	Harding County, New Mexico	62	Health care and social assistance	62	0500000US35021	1.5	0.0	0.0
+59836	35021	35	21	Harding County, New Mexico	72	Accommodation and food services	72	0500000US35021	1.0	0.0	0.0
+59837	35021	35	21	Harding County, New Mexico	81	Other services (except public administration)	81	0500000US35021	1.5	0.0	0.0
+59839	35023	35	23	Hidalgo County	11	Agriculture, forestry, fishing and hunting	11	0500000US35023	1.0	0.0	0.0
+59840	35023	35	23	Hidalgo County	22	Utilities	22	0500000US35023	3.0	0.0	929.0
+59841	35023	35	23	Hidalgo County	23	Construction	23	0500000US35023	3.0	0.0	112.0
+59842	35023	35	23	Hidalgo County	42	Wholesale trade	42	0500000US35023	2.0	0.0	0.0
+59843	35023	35	23	Hidalgo County	51	Information	51	0500000US35023	3.0	0.0	0.0
+59844	35023	35	23	Hidalgo County	52	Finance and insurance	52	0500000US35023	2.0	0.0	0.0
+59845	35023	35	23	Hidalgo County	53	Real estate and rental and leasing	53	0500000US35023	1.0	0.0	0.0
+59846	35023	35	23	Hidalgo County	54	Professional, scientific, and technical services	54	0500000US35023	4.0	0.0	0.0
+59847	35023	35	23	Hidalgo County	55	Management of companies and enterprises	55	0500000US35023	1.0	0.0	0.0
+59848	35023	35	23	Hidalgo County	61	Educational services	61	0500000US35023	1.0	0.0	0.0
+59849	35023	35	23	Hidalgo County	62	Health care and social assistance	62	0500000US35023	10.0	148.0	3631.0
+59850	35023	35	23	Hidalgo County	72	Accommodation and food services	72	0500000US35023	16.0	218.0	2869.0
+59851	35023	35	23	Hidalgo County	81	Other services (except public administration)	81	0500000US35023	5.0	0.0	0.0
+59853	35023	35	23	Hidalgo County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35023	1.0	0.0	0.0
+59854	35023	35	23	Hidalgo County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35023	1.0	0.0	0.0
+59855	35023	35	23	Hidalgo County, New Mexico	22	Utilities	22	0500000US35023	3.2857142857142856	6.857142857142857	710.0
+59856	35023	35	23	Hidalgo County, New Mexico	23	Construction	23	0500000US35023	5.5	9.125	209.875
+59857	35023	35	23	Hidalgo County, New Mexico	42	Wholesale trade	42	0500000US35023	2.0	0.0	0.0
+59858	35023	35	23	Hidalgo County, New Mexico	51	Information	51	0500000US35023	3.5	3.75	165.75
+59859	35023	35	23	Hidalgo County, New Mexico	52	Finance and insurance	52	0500000US35023	2.0	0.0	0.0
+59860	35023	35	23	Hidalgo County, New Mexico	53	Real estate and rental and leasing	53	0500000US35023	1.5	0.0	0.0
+59861	35023	35	23	Hidalgo County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35023	4.75	19.125	711.625
+59862	35023	35	23	Hidalgo County, New Mexico	55	Management of companies and enterprises	55	0500000US35023	1.0	0.0	0.0
+59863	35023	35	23	Hidalgo County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35023	2.5	0.0	0.0
+59864	35023	35	23	Hidalgo County, New Mexico	61	Educational services	61	0500000US35023	1.0	0.0	0.0
+59865	35023	35	23	Hidalgo County, New Mexico	62	Health care and social assistance	62	0500000US35023	12.375	180.875	5415.625
+59866	35023	35	23	Hidalgo County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35023	1.0	0.0	0.0
+59867	35023	35	23	Hidalgo County, New Mexico	72	Accommodation and food services	72	0500000US35023	16.25	234.5	3091.0
+59868	35023	35	23	Hidalgo County, New Mexico	81	Other services (except public administration)	81	0500000US35023	5.75	4.75	79.125
+59870	35025	35	25	Lea County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35025	215.0	4675.0	335686.0
+59871	35025	35	25	Lea County	22	Utilities	22	0500000US35025	8.0	0.0	0.0
+59872	35025	35	25	Lea County	23	Construction	23	0500000US35025	127.0	2235.0	122117.0
+59873	35025	35	25	Lea County	42	Wholesale trade	42	0500000US35025	106.0	1423.0	87126.0
+59874	35025	35	25	Lea County	51	Information	51	0500000US35025	26.0	269.0	10451.0
+59875	35025	35	25	Lea County	52	Finance and insurance	52	0500000US35025	84.0	446.0	16224.0
+59876	35025	35	25	Lea County	53	Real estate and rental and leasing	53	0500000US35025	91.0	771.0	56685.0
+59877	35025	35	25	Lea County	54	Professional, scientific, and technical services	54	0500000US35025	83.0	595.0	31944.0
+59878	35025	35	25	Lea County	55	Management of companies and enterprises	55	0500000US35025	9.0	71.0	6753.0
+59879	35025	35	25	Lea County	56	Administrative and support and waste management and remediation services	56	0500000US35025	79.0	1182.0	54893.0
+59880	35025	35	25	Lea County	61	Educational services	61	0500000US35025	8.0	0.0	0.0
+59881	35025	35	25	Lea County	62	Health care and social assistance	62	0500000US35025	115.0	2362.0	80161.0
+59882	35025	35	25	Lea County	71	Arts, entertainment, and recreation	71	0500000US35025	12.0	0.0	0.0
+59883	35025	35	25	Lea County	72	Accommodation and food services	72	0500000US35025	141.0	2310.0	30803.0
+59884	35025	35	25	Lea County	81	Other services (except public administration)	81	0500000US35025	160.0	1172.0	38005.0
+59886	35025	35	25	Lea County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35025	1.0	0.0	0.0
+59887	35025	35	25	Lea County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35025	243.0	4931.5	359224.25
+59888	35025	35	25	Lea County, New Mexico	22	Utilities	22	0500000US35025	9.875	154.375	12550.25
+59889	35025	35	25	Lea County, New Mexico	23	Construction	23	0500000US35025	125.375	2630.125	154501.5
+59890	35025	35	25	Lea County, New Mexico	42	Wholesale trade	42	0500000US35025	98.625	1432.75	83363.125
+59891	35025	35	25	Lea County, New Mexico	51	Information	51	0500000US35025	27.375	227.25	10704.25
+59892	35025	35	25	Lea County, New Mexico	52	Finance and insurance	52	0500000US35025	82.0	463.625	18844.625
+59893	35025	35	25	Lea County, New Mexico	53	Real estate and rental and leasing	53	0500000US35025	88.125	848.0	56239.875
+59894	35025	35	25	Lea County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35025	79.5	530.25	25663.5
+59895	35025	35	25	Lea County, New Mexico	55	Management of companies and enterprises	55	0500000US35025	9.75	176.25	15381.125
+59896	35025	35	25	Lea County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35025	72.0	1339.125	70617.625
+59897	35025	35	25	Lea County, New Mexico	61	Educational services	61	0500000US35025	8.5	145.125	4588.25
+59898	35025	35	25	Lea County, New Mexico	62	Health care and social assistance	62	0500000US35025	111.625	2325.875	94728.875
+59899	35025	35	25	Lea County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35025	12.625	136.75	3508.625
+59900	35025	35	25	Lea County, New Mexico	72	Accommodation and food services	72	0500000US35025	151.625	2724.125	44468.625
+59901	35025	35	25	Lea County, New Mexico	81	Other services (except public administration)	81	0500000US35025	153.5	1058.75	38401.375
+59902	35025	35	25	Lea County, New Mexico	99	Industries not classified	99	0500000US35025	2.1666666666666665	1.3333333333333333	20.166666666666668
+59904	35027	35	27	Lincoln County	11	Agriculture, forestry, fishing and hunting	11	0500000US35027	7.0	0.0	0.0
+59905	35027	35	27	Lincoln County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35027	1.0	0.0	0.0
+59906	35027	35	27	Lincoln County	22	Utilities	22	0500000US35027	6.0	0.0	0.0
+59907	35027	35	27	Lincoln County	23	Construction	23	0500000US35027	101.0	282.0	7687.0
+59908	35027	35	27	Lincoln County	42	Wholesale trade	42	0500000US35027	11.0	30.0	1107.0
+59909	35027	35	27	Lincoln County	51	Information	51	0500000US35027	10.0	0.0	2398.0
+59910	35027	35	27	Lincoln County	52	Finance and insurance	52	0500000US35027	40.0	320.0	11371.0
+59911	35027	35	27	Lincoln County	53	Real estate and rental and leasing	53	0500000US35027	59.0	147.0	3318.0
+59912	35027	35	27	Lincoln County	54	Professional, scientific, and technical services	54	0500000US35027	53.0	136.0	5630.0
+59913	35027	35	27	Lincoln County	55	Management of companies and enterprises	55	0500000US35027	2.0	0.0	0.0
+59914	35027	35	27	Lincoln County	56	Administrative and support and waste management and remediation services	56	0500000US35027	19.0	139.0	3932.0
+59915	35027	35	27	Lincoln County	61	Educational services	61	0500000US35027	4.0	28.0	283.0
+59916	35027	35	27	Lincoln County	62	Health care and social assistance	62	0500000US35027	46.0	585.0	24340.0
+59917	35027	35	27	Lincoln County	71	Arts, entertainment, and recreation	71	0500000US35027	20.0	417.0	11542.0
+59918	35027	35	27	Lincoln County	72	Accommodation and food services	72	0500000US35027	99.0	1253.0	18030.0
+59919	35027	35	27	Lincoln County	81	Other services (except public administration)	81	0500000US35027	64.0	317.0	6523.0
+59921	35027	35	27	Lincoln County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35027	4.75	10.0	596.875
+59922	35027	35	27	Lincoln County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35027	1.8333333333333333	0.8333333333333334	49.0
+59923	35027	35	27	Lincoln County, New Mexico	22	Utilities	22	0500000US35027	5.125	77.125	5036.625
+59924	35027	35	27	Lincoln County, New Mexico	23	Construction	23	0500000US35027	96.25	302.625	9155.5
+59925	35027	35	27	Lincoln County, New Mexico	42	Wholesale trade	42	0500000US35027	8.875	31.0	1096.5
+59926	35027	35	27	Lincoln County, New Mexico	51	Information	51	0500000US35027	12.875	64.5	2479.75
+59927	35027	35	27	Lincoln County, New Mexico	52	Finance and insurance	52	0500000US35027	39.5	272.125	11357.0
+59928	35027	35	27	Lincoln County, New Mexico	53	Real estate and rental and leasing	53	0500000US35027	57.5	147.375	4325.0
+59929	35027	35	27	Lincoln County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35027	47.75	142.25	5984.75
+59930	35027	35	27	Lincoln County, New Mexico	55	Management of companies and enterprises	55	0500000US35027	2.0	0.0	0.0
+59931	35027	35	27	Lincoln County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35027	22.125	145.75	4833.25
+59932	35027	35	27	Lincoln County, New Mexico	61	Educational services	61	0500000US35027	4.75	18.25	208.375
+59933	35027	35	27	Lincoln County, New Mexico	62	Health care and social assistance	62	0500000US35027	42.125	547.125	25327.25
+59934	35027	35	27	Lincoln County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35027	22.375	449.375	13209.5
+59935	35027	35	27	Lincoln County, New Mexico	72	Accommodation and food services	72	0500000US35027	91.375	1202.75	20005.5
+59936	35027	35	27	Lincoln County, New Mexico	81	Other services (except public administration)	81	0500000US35027	61.875	312.25	6916.375
+59937	35027	35	27	Lincoln County, New Mexico	99	Industries not classified	99	0500000US35027	2.4	1.6	52.0
+59939	35028	35	28	Los Alamos County	22	Utilities	22	0500000US35028	1.0	0.0	0.0
+59940	35028	35	28	Los Alamos County	23	Construction	23	0500000US35028	32.0	213.0	10313.0
+59941	35028	35	28	Los Alamos County	42	Wholesale trade	42	0500000US35028	3.0	0.0	0.0
+59942	35028	35	28	Los Alamos County	51	Information	51	0500000US35028	12.0	60.0	2055.0
+59943	35028	35	28	Los Alamos County	52	Finance and insurance	52	0500000US35028	20.0	0.0	0.0
+59944	35028	35	28	Los Alamos County	53	Real estate and rental and leasing	53	0500000US35028	23.0	55.0	2488.0
+59945	35028	35	28	Los Alamos County	54	Professional, scientific, and technical services	54	0500000US35028	66.0	0.0	0.0
+59946	35028	35	28	Los Alamos County	56	Administrative and support and waste management and remediation services	56	0500000US35028	24.0	607.0	40983.0
+59947	35028	35	28	Los Alamos County	61	Educational services	61	0500000US35028	5.0	0.0	564.0
+59948	35028	35	28	Los Alamos County	62	Health care and social assistance	62	0500000US35028	67.0	1084.0	42120.0
+59949	35028	35	28	Los Alamos County	71	Arts, entertainment, and recreation	71	0500000US35028	11.0	121.0	1116.0
+59950	35028	35	28	Los Alamos County	72	Accommodation and food services	72	0500000US35028	36.0	456.0	6336.0
+59951	35028	35	28	Los Alamos County	81	Other services (except public administration)	81	0500000US35028	40.0	342.0	5372.0
+59953	35028	35	28	Los Alamos County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35028	1.0	0.0	0.0
+59954	35028	35	28	Los Alamos County, New Mexico	22	Utilities	22	0500000US35028	1.0	0.0	0.0
+59955	35028	35	28	Los Alamos County, New Mexico	23	Construction	23	0500000US35028	28.5	187.25	9619.125
+59956	35028	35	28	Los Alamos County, New Mexico	42	Wholesale trade	42	0500000US35028	3.2857142857142856	27.0	1883.7142857142858
+59957	35028	35	28	Los Alamos County, New Mexico	51	Information	51	0500000US35028	9.875	56.375	1640.25
+59958	35028	35	28	Los Alamos County, New Mexico	52	Finance and insurance	52	0500000US35028	20.5	221.375	13648.125
+59959	35028	35	28	Los Alamos County, New Mexico	53	Real estate and rental and leasing	53	0500000US35028	21.0	99.375	3281.75
+59960	35028	35	28	Los Alamos County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35028	55.625	7943.75	824888.875
+59961	35028	35	28	Los Alamos County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35028	20.125	479.875	37447.875
+59962	35028	35	28	Los Alamos County, New Mexico	61	Educational services	61	0500000US35028	4.375	33.5	837.625
+59963	35028	35	28	Los Alamos County, New Mexico	62	Health care and social assistance	62	0500000US35028	69.875	977.125	43166.125
+59964	35028	35	28	Los Alamos County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35028	10.375	102.75	1301.5
+59965	35028	35	28	Los Alamos County, New Mexico	72	Accommodation and food services	72	0500000US35028	33.875	464.5	8049.125
+59966	35028	35	28	Los Alamos County, New Mexico	81	Other services (except public administration)	81	0500000US35028	48.25	356.375	6171.625
+59967	35028	35	28	Los Alamos County, New Mexico	99	Industries not classified	99	0500000US35028	2.0	2.0	93.0
+59969	35029	35	29	Luna County	11	Agriculture, forestry, fishing and hunting	11	0500000US35029	1.0	0.0	0.0
+59970	35029	35	29	Luna County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35029	2.0	0.0	0.0
+59971	35029	35	29	Luna County	22	Utilities	22	0500000US35029	2.0	0.0	0.0
+59972	35029	35	29	Luna County	23	Construction	23	0500000US35029	34.0	155.0	5291.0
+59973	35029	35	29	Luna County	42	Wholesale trade	42	0500000US35029	15.0	0.0	0.0
+59974	35029	35	29	Luna County	51	Information	51	0500000US35029	6.0	0.0	0.0
+59975	35029	35	29	Luna County	52	Finance and insurance	52	0500000US35029	21.0	0.0	3289.0
+59976	35029	35	29	Luna County	53	Real estate and rental and leasing	53	0500000US35029	23.0	45.0	1291.0
+59977	35029	35	29	Luna County	54	Professional, scientific, and technical services	54	0500000US35029	21.0	89.0	2618.0
+59978	35029	35	29	Luna County	55	Management of companies and enterprises	55	0500000US35029	1.0	0.0	0.0
+59979	35029	35	29	Luna County	56	Administrative and support and waste management and remediation services	56	0500000US35029	13.0	0.0	0.0
+59980	35029	35	29	Luna County	61	Educational services	61	0500000US35029	1.0	0.0	0.0
+59981	35029	35	29	Luna County	62	Health care and social assistance	62	0500000US35029	51.0	881.0	31392.0
+59982	35029	35	29	Luna County	71	Arts, entertainment, and recreation	71	0500000US35029	5.0	0.0	0.0
+59983	35029	35	29	Luna County	72	Accommodation and food services	72	0500000US35029	54.0	721.0	8074.0
+59984	35029	35	29	Luna County	81	Other services (except public administration)	81	0500000US35029	40.0	0.0	2289.0
+59986	35029	35	29	Luna County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35029	1.0	0.0	0.0
+59987	35029	35	29	Luna County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35029	1.75	0.0	0.0
+59988	35029	35	29	Luna County, New Mexico	22	Utilities	22	0500000US35029	2.4285714285714284	16.857142857142858	1249.142857142857
+59989	35029	35	29	Luna County, New Mexico	23	Construction	23	0500000US35029	30.875	140.0	6018.625
+59990	35029	35	29	Luna County, New Mexico	42	Wholesale trade	42	0500000US35029	10.125	106.5	4145.625
+59991	35029	35	29	Luna County, New Mexico	51	Information	51	0500000US35029	7.875	20.0	780.75
+59992	35029	35	29	Luna County, New Mexico	52	Finance and insurance	52	0500000US35029	24.375	89.0	4069.75
+59993	35029	35	29	Luna County, New Mexico	53	Real estate and rental and leasing	53	0500000US35029	19.625	46.125	1240.875
+59994	35029	35	29	Luna County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35029	18.75	84.5	2737.75
+59995	35029	35	29	Luna County, New Mexico	55	Management of companies and enterprises	55	0500000US35029	1.75	0.0	0.0
+59996	35029	35	29	Luna County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35029	14.0	35.875	977.5
+59997	35029	35	29	Luna County, New Mexico	61	Educational services	61	0500000US35029	1.0	0.0	0.0
+59998	35029	35	29	Luna County, New Mexico	62	Health care and social assistance	62	0500000US35029	50.0	1033.75	37126.375
+59999	35029	35	29	Luna County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35029	5.0	58.0	623.0
+60000	35029	35	29	Luna County, New Mexico	72	Accommodation and food services	72	0500000US35029	62.375	849.375	10026.0
+60001	35029	35	29	Luna County, New Mexico	81	Other services (except public administration)	81	0500000US35029	37.875	135.125	2368.75
+60002	35029	35	29	Luna County, New Mexico	99	Industries not classified	99	0500000US35029	2.3333333333333335	0.3333333333333333	9.333333333333334
+60004	35031	35	31	McKinley County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35031	3.0	0.0	0.0
+60005	35031	35	31	McKinley County	22	Utilities	22	0500000US35031	7.0	0.0	0.0
+60006	35031	35	31	McKinley County	23	Construction	23	0500000US35031	52.0	433.0	16293.0
+60007	35031	35	31	McKinley County	42	Wholesale trade	42	0500000US35031	52.0	682.0	20891.0
+60008	35031	35	31	McKinley County	51	Information	51	0500000US35031	20.0	184.0	5968.0
+60009	35031	35	31	McKinley County	52	Finance and insurance	52	0500000US35031	77.0	417.0	12823.0
+60010	35031	35	31	McKinley County	53	Real estate and rental and leasing	53	0500000US35031	41.0	145.0	4883.0
+60011	35031	35	31	McKinley County	54	Professional, scientific, and technical services	54	0500000US35031	43.0	215.0	7730.0
+60012	35031	35	31	McKinley County	55	Management of companies and enterprises	55	0500000US35031	1.0	0.0	0.0
+60013	35031	35	31	McKinley County	56	Administrative and support and waste management and remediation services	56	0500000US35031	22.0	119.0	3007.0
+60014	35031	35	31	McKinley County	61	Educational services	61	0500000US35031	12.0	614.0	18128.0
+60015	35031	35	31	McKinley County	62	Health care and social assistance	62	0500000US35031	105.0	4794.0	184529.0
+60016	35031	35	31	McKinley County	71	Arts, entertainment, and recreation	71	0500000US35031	7.0	0.0	0.0
+60017	35031	35	31	McKinley County	72	Accommodation and food services	72	0500000US35031	140.0	2293.0	30316.0
+60018	35031	35	31	McKinley County	81	Other services (except public administration)	81	0500000US35031	113.0	774.0	16741.0
+60019	35031	35	31	McKinley County	99	Industries not classified	99	0500000US35031	1.0	0.0	0.0
+60021	35031	35	31	McKinley County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35031	2.0	0.0	0.0
+60022	35031	35	31	McKinley County, New Mexico	22	Utilities	22	0500000US35031	6.25	130.875	13246.0
+60023	35031	35	31	McKinley County, New Mexico	23	Construction	23	0500000US35031	52.875	438.875	17053.25
+60024	35031	35	31	McKinley County, New Mexico	42	Wholesale trade	42	0500000US35031	47.0	621.75	18739.0
+60025	35031	35	31	McKinley County, New Mexico	51	Information	51	0500000US35031	20.375	186.5	5969.5
+60026	35031	35	31	McKinley County, New Mexico	52	Finance and insurance	52	0500000US35031	77.375	454.375	14672.5
+60027	35031	35	31	McKinley County, New Mexico	53	Real estate and rental and leasing	53	0500000US35031	41.5	204.625	6429.0
+60028	35031	35	31	McKinley County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35031	43.625	223.5	7981.25
+60029	35031	35	31	McKinley County, New Mexico	55	Management of companies and enterprises	55	0500000US35031	2.625	9.75	298.5
+60030	35031	35	31	McKinley County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35031	18.75	161.125	3320.0
+60031	35031	35	31	McKinley County, New Mexico	61	Educational services	61	0500000US35031	8.75	553.125	18142.25
+60032	35031	35	31	McKinley County, New Mexico	62	Health care and social assistance	62	0500000US35031	117.875	4622.5	201270.875
+60033	35031	35	31	McKinley County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35031	8.875	178.5	5208.625
+60034	35031	35	31	McKinley County, New Mexico	72	Accommodation and food services	72	0500000US35031	143.125	2692.625	37752.125
+60035	35031	35	31	McKinley County, New Mexico	81	Other services (except public administration)	81	0500000US35031	102.5	685.5	15716.625
+60036	35031	35	31	McKinley County, New Mexico	99	Industries not classified	99	0500000US35031	3.0	2.0	44.0
+60038	35033	35	33	Mora County	11	Agriculture, forestry, fishing and hunting	11	0500000US35033	1.0	0.0	0.0
+60039	35033	35	33	Mora County	22	Utilities	22	0500000US35033	3.0	0.0	0.0
+60040	35033	35	33	Mora County	23	Construction	23	0500000US35033	7.0	21.0	722.0
+60041	35033	35	33	Mora County	51	Information	51	0500000US35033	1.0	0.0	0.0
+60042	35033	35	33	Mora County	52	Finance and insurance	52	0500000US35033	5.0	0.0	269.0
+60043	35033	35	33	Mora County	53	Real estate and rental and leasing	53	0500000US35033	1.0	0.0	0.0
+60044	35033	35	33	Mora County	55	Management of companies and enterprises	55	0500000US35033	1.0	0.0	0.0
+60045	35033	35	33	Mora County	61	Educational services	61	0500000US35033	1.0	0.0	0.0
+60046	35033	35	33	Mora County	62	Health care and social assistance	62	0500000US35033	5.0	111.0	2147.0
+60047	35033	35	33	Mora County	71	Arts, entertainment, and recreation	71	0500000US35033	1.0	0.0	0.0
+60048	35033	35	33	Mora County	72	Accommodation and food services	72	0500000US35033	3.0	0.0	0.0
+60049	35033	35	33	Mora County	81	Other services (except public administration)	81	0500000US35033	6.0	0.0	0.0
+60051	35033	35	33	Mora County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35033	1.25	0.0	0.0
+60052	35033	35	33	Mora County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35033	1.0	0.0	0.0
+60053	35033	35	33	Mora County, New Mexico	22	Utilities	22	0500000US35033	2.5	0.0	0.0
+60054	35033	35	33	Mora County, New Mexico	23	Construction	23	0500000US35033	6.375	11.25	449.75
+60055	35033	35	33	Mora County, New Mexico	51	Information	51	0500000US35033	1.25	0.0	0.0
+60056	35033	35	33	Mora County, New Mexico	52	Finance and insurance	52	0500000US35033	4.0	5.5	208.25
+60057	35033	35	33	Mora County, New Mexico	55	Management of companies and enterprises	55	0500000US35033	1.0	0.0	0.0
+60058	35033	35	33	Mora County, New Mexico	61	Educational services	61	0500000US35033	1.0	0.0	0.0
+60059	35033	35	33	Mora County, New Mexico	62	Health care and social assistance	62	0500000US35033	5.75	137.0	3028.0
+60060	35033	35	33	Mora County, New Mexico	72	Accommodation and food services	72	0500000US35033	2.625	6.5	58.25
+60061	35033	35	33	Mora County, New Mexico	81	Other services (except public administration)	81	0500000US35033	4.5	12.75	244.125
+60063	35035	35	35	Otero County	11	Agriculture, forestry, fishing and hunting	11	0500000US35035	1.0	0.0	0.0
+60064	35035	35	35	Otero County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35035	5.0	0.0	1970.0
+60065	35035	35	35	Otero County	22	Utilities	22	0500000US35035	11.0	119.0	6428.0
+60066	35035	35	35	Otero County	23	Construction	23	0500000US35035	121.0	956.0	31125.0
+60067	35035	35	35	Otero County	42	Wholesale trade	42	0500000US35035	25.0	161.0	6057.0
+60068	35035	35	35	Otero County	51	Information	51	0500000US35035	14.0	181.0	7222.0
+60069	35035	35	35	Otero County	52	Finance and insurance	52	0500000US35035	51.0	330.0	11431.0
+60070	35035	35	35	Otero County	53	Real estate and rental and leasing	53	0500000US35035	52.0	150.0	3484.0
+60071	35035	35	35	Otero County	54	Professional, scientific, and technical services	54	0500000US35035	73.0	596.0	21883.0
+60072	35035	35	35	Otero County	55	Management of companies and enterprises	55	0500000US35035	3.0	0.0	0.0
+60073	35035	35	35	Otero County	56	Administrative and support and waste management and remediation services	56	0500000US35035	44.0	0.0	0.0
+60074	35035	35	35	Otero County	61	Educational services	61	0500000US35035	10.0	223.0	12277.0
+60075	35035	35	35	Otero County	62	Health care and social assistance	62	0500000US35035	101.0	2270.0	84005.0
+60076	35035	35	35	Otero County	71	Arts, entertainment, and recreation	71	0500000US35035	17.0	0.0	0.0
+60077	35035	35	35	Otero County	72	Accommodation and food services	72	0500000US35035	107.0	2349.0	43947.0
+60078	35035	35	35	Otero County	81	Other services (except public administration)	81	0500000US35035	111.0	669.0	10709.0
+60079	35035	35	35	Otero County	99	Industries not classified	99	0500000US35035	2.0	0.0	0.0
+60081	35035	35	35	Otero County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35035	2.5714285714285716	2.4285714285714284	195.0
+60082	35035	35	35	Otero County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35035	4.5	64.375	2374.125
+60083	35035	35	35	Otero County, New Mexico	22	Utilities	22	0500000US35035	11.875	107.5	6343.125
+60084	35035	35	35	Otero County, New Mexico	23	Construction	23	0500000US35035	110.5	884.5	33208.75
+60085	35035	35	35	Otero County, New Mexico	42	Wholesale trade	42	0500000US35035	18.625	87.375	2860.5
+60086	35035	35	35	Otero County, New Mexico	51	Information	51	0500000US35035	24.625	374.375	11306.25
+60087	35035	35	35	Otero County, New Mexico	52	Finance and insurance	52	0500000US35035	53.625	310.25	12091.375
+60088	35035	35	35	Otero County, New Mexico	53	Real estate and rental and leasing	53	0500000US35035	46.375	134.875	4280.5
+60089	35035	35	35	Otero County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35035	67.875	477.125	21574.875
+60090	35035	35	35	Otero County, New Mexico	55	Management of companies and enterprises	55	0500000US35035	3.75	21.0	1734.75
+60091	35035	35	35	Otero County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35035	43.75	398.125	11327.5
+60092	35035	35	35	Otero County, New Mexico	61	Educational services	61	0500000US35035	10.25	106.0	6964.5
+60093	35035	35	35	Otero County, New Mexico	62	Health care and social assistance	62	0500000US35035	107.0	2632.0	113676.875
+60094	35035	35	35	Otero County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35035	14.875	389.125	5207.875
+60095	35035	35	35	Otero County, New Mexico	72	Accommodation and food services	72	0500000US35035	98.25	2320.5	47120.875
+60096	35035	35	35	Otero County, New Mexico	81	Other services (except public administration)	81	0500000US35035	108.875	628.25	11153.125
+60097	35035	35	35	Otero County, New Mexico	99	Industries not classified	99	0500000US35035	2.0	0.0	0.0
+60099	35037	35	37	Quay County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35037	1.0	0.0	0.0
+60100	35037	35	37	Quay County	22	Utilities	22	0500000US35037	9.0	0.0	0.0
+60101	35037	35	37	Quay County	23	Construction	23	0500000US35037	18.0	113.0	3116.0
+60102	35037	35	37	Quay County	42	Wholesale trade	42	0500000US35037	4.0	0.0	634.0
+60103	35037	35	37	Quay County	51	Information	51	0500000US35037	7.0	36.0	1515.0
+60104	35037	35	37	Quay County	52	Finance and insurance	52	0500000US35037	16.0	107.0	3758.0
+60105	35037	35	37	Quay County	53	Real estate and rental and leasing	53	0500000US35037	8.0	0.0	0.0
+60106	35037	35	37	Quay County	54	Professional, scientific, and technical services	54	0500000US35037	13.0	0.0	1176.0
+60107	35037	35	37	Quay County	56	Administrative and support and waste management and remediation services	56	0500000US35037	6.0	10.0	235.0
+60108	35037	35	37	Quay County	62	Health care and social assistance	62	0500000US35037	27.0	0.0	11417.0
+60109	35037	35	37	Quay County	71	Arts, entertainment, and recreation	71	0500000US35037	3.0	6.0	71.0
+60110	35037	35	37	Quay County	72	Accommodation and food services	72	0500000US35037	33.0	436.0	6043.0
+60111	35037	35	37	Quay County	81	Other services (except public administration)	81	0500000US35037	32.0	143.0	3031.0
+60112	35037	35	37	Quay County	99	Industries not classified	99	0500000US35037	1.0	0.0	0.0
+60114	35037	35	37	Quay County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35037	1.0	0.0	0.0
+60115	35037	35	37	Quay County, New Mexico	22	Utilities	22	0500000US35037	8.5	25.375	1911.125
+60116	35037	35	37	Quay County, New Mexico	23	Construction	23	0500000US35037	15.625	92.0	3122.0
+60117	35037	35	37	Quay County, New Mexico	42	Wholesale trade	42	0500000US35037	3.3333333333333335	6.0	278.0
+60118	35037	35	37	Quay County, New Mexico	51	Information	51	0500000US35037	6.25	19.25	1070.875
+60119	35037	35	37	Quay County, New Mexico	52	Finance and insurance	52	0500000US35037	15.625	96.25	4150.375
+60120	35037	35	37	Quay County, New Mexico	53	Real estate and rental and leasing	53	0500000US35037	9.75	9.125	234.375
+60121	35037	35	37	Quay County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35037	12.125	50.875	1376.375
+60122	35037	35	37	Quay County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35037	5.5	11.875	234.25
+60123	35037	35	37	Quay County, New Mexico	62	Health care and social assistance	62	0500000US35037	21.375	315.5	11524.625
+60124	35037	35	37	Quay County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35037	3.25	8.0	103.125
+60125	35037	35	37	Quay County, New Mexico	72	Accommodation and food services	72	0500000US35037	35.25	496.125	6989.625
+60126	35037	35	37	Quay County, New Mexico	81	Other services (except public administration)	81	0500000US35037	30.5	131.75	3191.25
+60128	35039	35	39	Rio Arriba County	11	Agriculture, forestry, fishing and hunting	11	0500000US35039	11.0	0.0	731.0
+60129	35039	35	39	Rio Arriba County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35039	5.0	44.0	2360.0
+60130	35039	35	39	Rio Arriba County	22	Utilities	22	0500000US35039	10.0	0.0	0.0
+60131	35039	35	39	Rio Arriba County	23	Construction	23	0500000US35039	77.0	281.0	8283.0
+60132	35039	35	39	Rio Arriba County	42	Wholesale trade	42	0500000US35039	11.0	0.0	1011.0
+60133	35039	35	39	Rio Arriba County	51	Information	51	0500000US35039	13.0	0.0	0.0
+60134	35039	35	39	Rio Arriba County	52	Finance and insurance	52	0500000US35039	28.0	226.0	8084.0
+60135	35039	35	39	Rio Arriba County	53	Real estate and rental and leasing	53	0500000US35039	24.0	64.0	1383.0
+60136	35039	35	39	Rio Arriba County	54	Professional, scientific, and technical services	54	0500000US35039	35.0	87.0	2934.0
+60137	35039	35	39	Rio Arriba County	55	Management of companies and enterprises	55	0500000US35039	4.0	49.0	2266.0
+60138	35039	35	39	Rio Arriba County	56	Administrative and support and waste management and remediation services	56	0500000US35039	12.0	310.0	8352.0
+60139	35039	35	39	Rio Arriba County	61	Educational services	61	0500000US35039	7.0	0.0	459.0
+60140	35039	35	39	Rio Arriba County	62	Health care and social assistance	62	0500000US35039	84.0	1743.0	58157.0
+60141	35039	35	39	Rio Arriba County	71	Arts, entertainment, and recreation	71	0500000US35039	16.0	0.0	0.0
+60142	35039	35	39	Rio Arriba County	72	Accommodation and food services	72	0500000US35039	64.0	867.0	14166.0
+60143	35039	35	39	Rio Arriba County	81	Other services (except public administration)	81	0500000US35039	50.0	223.0	5100.0
+60145	35039	35	39	Rio Arriba County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35039	10.75	25.625	802.875
+60146	35039	35	39	Rio Arriba County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35039	4.0	16.333333333333332	847.3333333333334
+60147	35039	35	39	Rio Arriba County, New Mexico	22	Utilities	22	0500000US35039	7.0	49.875	3132.375
+60148	35039	35	39	Rio Arriba County, New Mexico	23	Construction	23	0500000US35039	73.125	269.625	9589.875
+60149	35039	35	39	Rio Arriba County, New Mexico	42	Wholesale trade	42	0500000US35039	6.75	12.5	524.375
+60150	35039	35	39	Rio Arriba County, New Mexico	51	Information	51	0500000US35039	11.625	56.5	2447.625
+60151	35039	35	39	Rio Arriba County, New Mexico	52	Finance and insurance	52	0500000US35039	31.75	178.125	7137.75
+60152	35039	35	39	Rio Arriba County, New Mexico	53	Real estate and rental and leasing	53	0500000US35039	18.75	40.875	1336.75
+60153	35039	35	39	Rio Arriba County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35039	35.125	62.375	3201.875
+60154	35039	35	39	Rio Arriba County, New Mexico	55	Management of companies and enterprises	55	0500000US35039	2.625	29.0	1643.125
+60155	35039	35	39	Rio Arriba County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35039	14.25	93.25	2634.5
+60156	35039	35	39	Rio Arriba County, New Mexico	61	Educational services	61	0500000US35039	6.875	27.375	545.0
+60157	35039	35	39	Rio Arriba County, New Mexico	62	Health care and social assistance	62	0500000US35039	79.5	1787.25	70181.125
+60158	35039	35	39	Rio Arriba County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35039	14.625	110.5	3433.25
+60159	35039	35	39	Rio Arriba County, New Mexico	72	Accommodation and food services	72	0500000US35039	68.25	1311.625	25927.5
+60160	35039	35	39	Rio Arriba County, New Mexico	81	Other services (except public administration)	81	0500000US35039	48.5	255.375	6834.375
+60161	35039	35	39	Rio Arriba County, New Mexico	99	Industries not classified	99	0500000US35039	2.0	0.5	12.25
+60163	35041	35	41	Roosevelt County	11	Agriculture, forestry, fishing and hunting	11	0500000US35041	3.0	0.0	0.0
+60164	35041	35	41	Roosevelt County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35041	1.0	0.0	0.0
+60165	35041	35	41	Roosevelt County	22	Utilities	22	0500000US35041	5.0	0.0	0.0
+60166	35041	35	41	Roosevelt County	23	Construction	23	0500000US35041	55.0	229.0	5653.0
+60167	35041	35	41	Roosevelt County	42	Wholesale trade	42	0500000US35041	12.0	98.0	2947.0
+60168	35041	35	41	Roosevelt County	51	Information	51	0500000US35041	4.0	0.0	0.0
+60169	35041	35	41	Roosevelt County	52	Finance and insurance	52	0500000US35041	24.0	143.0	4458.0
+60170	35041	35	41	Roosevelt County	53	Real estate and rental and leasing	53	0500000US35041	11.0	27.0	637.0
+60171	35041	35	41	Roosevelt County	54	Professional, scientific, and technical services	54	0500000US35041	16.0	83.0	2201.0
+60172	35041	35	41	Roosevelt County	56	Administrative and support and waste management and remediation services	56	0500000US35041	6.0	0.0	0.0
+60173	35041	35	41	Roosevelt County	61	Educational services	61	0500000US35041	1.0	0.0	0.0
+60174	35041	35	41	Roosevelt County	62	Health care and social assistance	62	0500000US35041	32.0	634.0	22047.0
+60175	35041	35	41	Roosevelt County	71	Arts, entertainment, and recreation	71	0500000US35041	4.0	0.0	373.0
+60176	35041	35	41	Roosevelt County	72	Accommodation and food services	72	0500000US35041	29.0	592.0	6141.0
+60177	35041	35	41	Roosevelt County	81	Other services (except public administration)	81	0500000US35041	40.0	192.0	2961.0
+60179	35041	35	41	Roosevelt County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35041	2.3333333333333335	4.666666666666667	187.0
+60180	35041	35	41	Roosevelt County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35041	1.0	0.0	0.0
+60181	35041	35	41	Roosevelt County, New Mexico	22	Utilities	22	0500000US35041	5.375	44.5	2952.625
+60182	35041	35	41	Roosevelt County, New Mexico	23	Construction	23	0500000US35041	44.875	198.125	5612.375
+60183	35041	35	41	Roosevelt County, New Mexico	42	Wholesale trade	42	0500000US35041	13.375	89.5	2852.875
+60184	35041	35	41	Roosevelt County, New Mexico	51	Information	51	0500000US35041	6.625	60.875	2321.0
+60185	35041	35	41	Roosevelt County, New Mexico	52	Finance and insurance	52	0500000US35041	24.25	121.125	4969.25
+60186	35041	35	41	Roosevelt County, New Mexico	53	Real estate and rental and leasing	53	0500000US35041	14.0	37.75	1023.125
+60187	35041	35	41	Roosevelt County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35041	14.25	66.0	2474.625
+60188	35041	35	41	Roosevelt County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35041	7.625	46.25	687.75
+60189	35041	35	41	Roosevelt County, New Mexico	61	Educational services	61	0500000US35041	1.3333333333333333	0.0	0.0
+60190	35041	35	41	Roosevelt County, New Mexico	62	Health care and social assistance	62	0500000US35041	33.375	655.125	25202.125
+60191	35041	35	41	Roosevelt County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35041	3.5	21.75	437.625
+60192	35041	35	41	Roosevelt County, New Mexico	72	Accommodation and food services	72	0500000US35041	31.75	559.875	6989.875
+60193	35041	35	41	Roosevelt County, New Mexico	81	Other services (except public administration)	81	0500000US35041	41.125	179.25	3953.0
+60194	35041	35	41	Roosevelt County, New Mexico	99	Industries not classified	99	0500000US35041	1.0	0.0	0.0
+60196	35043	35	43	Sandoval County	11	Agriculture, forestry, fishing and hunting	11	0500000US35043	3.0	0.0	0.0
+60197	35043	35	43	Sandoval County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35043	8.0	49.0	1198.0
+60198	35043	35	43	Sandoval County	22	Utilities	22	0500000US35043	14.0	110.0	7853.0
+60199	35043	35	43	Sandoval County	23	Construction	23	0500000US35043	232.0	1443.0	57809.0
+60200	35043	35	43	Sandoval County	42	Wholesale trade	42	0500000US35043	49.0	393.0	22034.0
+60201	35043	35	43	Sandoval County	51	Information	51	0500000US35043	38.0	0.0	0.0
+60202	35043	35	43	Sandoval County	52	Finance and insurance	52	0500000US35043	100.0	837.0	32822.0
+60203	35043	35	43	Sandoval County	53	Real estate and rental and leasing	53	0500000US35043	72.0	196.0	7828.0
+60204	35043	35	43	Sandoval County	54	Professional, scientific, and technical services	54	0500000US35043	173.0	746.0	40052.0
+60205	35043	35	43	Sandoval County	55	Management of companies and enterprises	55	0500000US35043	7.0	0.0	0.0
+60206	35043	35	43	Sandoval County	56	Administrative and support and waste management and remediation services	56	0500000US35043	94.0	1535.0	47596.0
+60207	35043	35	43	Sandoval County	61	Educational services	61	0500000US35043	38.0	262.0	6317.0
+60208	35043	35	43	Sandoval County	62	Health care and social assistance	62	0500000US35043	201.0	3039.0	125013.0
+60209	35043	35	43	Sandoval County	71	Arts, entertainment, and recreation	71	0500000US35043	24.0	1192.0	30858.0
+60210	35043	35	43	Sandoval County	72	Accommodation and food services	72	0500000US35043	155.0	3560.0	50727.0
+60211	35043	35	43	Sandoval County	81	Other services (except public administration)	81	0500000US35043	149.0	1090.0	26129.0
+60212	35043	35	43	Sandoval County	99	Industries not classified	99	0500000US35043	1.0	0.0	0.0
+60214	35043	35	43	Sandoval County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35043	2.0	0.4	10.2
+60215	35043	35	43	Sandoval County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35043	6.5	44.875	2560.125
+60216	35043	35	43	Sandoval County, New Mexico	22	Utilities	22	0500000US35043	11.5	129.375	10605.625
+60217	35043	35	43	Sandoval County, New Mexico	23	Construction	23	0500000US35043	232.125	1694.75	79657.125
+60218	35043	35	43	Sandoval County, New Mexico	42	Wholesale trade	42	0500000US35043	48.25	302.75	21631.375
+60219	35043	35	43	Sandoval County, New Mexico	51	Information	51	0500000US35043	33.375	255.5	10668.75
+60220	35043	35	43	Sandoval County, New Mexico	52	Finance and insurance	52	0500000US35043	117.125	1002.75	41568.875
+60221	35043	35	43	Sandoval County, New Mexico	53	Real estate and rental and leasing	53	0500000US35043	83.5	266.375	11732.25
+60222	35043	35	43	Sandoval County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35043	184.375	811.125	50500.5
+60223	35043	35	43	Sandoval County, New Mexico	55	Management of companies and enterprises	55	0500000US35043	4.25	26.25	1209.0
+60224	35043	35	43	Sandoval County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35043	104.0	2953.5	147813.125
+60225	35043	35	43	Sandoval County, New Mexico	61	Educational services	61	0500000US35043	27.875	223.0	5813.625
+60226	35043	35	43	Sandoval County, New Mexico	62	Health care and social assistance	62	0500000US35043	229.875	4048.25	169263.625
+60227	35043	35	43	Sandoval County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35043	28.125	886.875	22667.5
+60228	35043	35	43	Sandoval County, New Mexico	72	Accommodation and food services	72	0500000US35043	163.0	4192.375	70623.5
+60229	35043	35	43	Sandoval County, New Mexico	81	Other services (except public administration)	81	0500000US35043	159.125	1150.25	28976.625
+60230	35043	35	43	Sandoval County, New Mexico	99	Industries not classified	99	0500000US35043	3.0	0.5	10.25
+60232	35045	35	45	San Juan County	11	Agriculture, forestry, fishing and hunting	11	0500000US35045	4.0	0.0	0.0
+60233	35045	35	45	San Juan County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35045	186.0	4333.0	348649.0
+60234	35045	35	45	San Juan County	22	Utilities	22	0500000US35045	13.0	0.0	0.0
+60235	35045	35	45	San Juan County	23	Construction	23	0500000US35045	274.0	2793.0	121595.0
+60236	35045	35	45	San Juan County	42	Wholesale trade	42	0500000US35045	187.0	1743.0	100284.0
+60237	35045	35	45	San Juan County	51	Information	51	0500000US35045	35.0	410.0	13333.0
+60238	35045	35	45	San Juan County	52	Finance and insurance	52	0500000US35045	163.0	943.0	33695.0
+60239	35045	35	45	San Juan County	53	Real estate and rental and leasing	53	0500000US35045	107.0	797.0	38782.0
+60240	35045	35	45	San Juan County	54	Professional, scientific, and technical services	54	0500000US35045	257.0	1211.0	64111.0
+60241	35045	35	45	San Juan County	55	Management of companies and enterprises	55	0500000US35045	21.0	550.0	42742.0
+60242	35045	35	45	San Juan County	56	Administrative and support and waste management and remediation services	56	0500000US35045	106.0	1084.0	39710.0
+60243	35045	35	45	San Juan County	61	Educational services	61	0500000US35045	18.0	311.0	8167.0
+60244	35045	35	45	San Juan County	62	Health care and social assistance	62	0500000US35045	274.0	6633.0	287305.0
+60245	35045	35	45	San Juan County	71	Arts, entertainment, and recreation	71	0500000US35045	27.0	824.0	19563.0
+60246	35045	35	45	San Juan County	72	Accommodation and food services	72	0500000US35045	203.0	4363.0	58711.0
+60247	35045	35	45	San Juan County	81	Other services (except public administration)	81	0500000US35045	303.0	2141.0	65001.0
+60248	35045	35	45	San Juan County	99	Industries not classified	99	0500000US35045	1.0	0.0	0.0
+60250	35045	35	45	San Juan County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35045	2.0	0.0	0.0
+60251	35045	35	45	San Juan County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35045	154.625	4036.0	330968.25
+60252	35045	35	45	San Juan County, New Mexico	22	Utilities	22	0500000US35045	15.625	405.875	43261.0
+60253	35045	35	45	San Juan County, New Mexico	23	Construction	23	0500000US35045	236.25	2367.0	119331.625
+60254	35045	35	45	San Juan County, New Mexico	42	Wholesale trade	42	0500000US35045	160.0	1503.875	87258.0
+60255	35045	35	45	San Juan County, New Mexico	51	Information	51	0500000US35045	32.0	368.375	11398.75
+60256	35045	35	45	San Juan County, New Mexico	52	Finance and insurance	52	0500000US35045	150.5	918.75	37697.375
+60257	35045	35	45	San Juan County, New Mexico	53	Real estate and rental and leasing	53	0500000US35045	102.125	689.5	35843.75
+60258	35045	35	45	San Juan County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35045	229.625	1243.375	63681.75
+60259	35045	35	45	San Juan County, New Mexico	55	Management of companies and enterprises	55	0500000US35045	16.875	557.625	43678.875
+60260	35045	35	45	San Juan County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35045	108.75	1088.375	42148.75
+60261	35045	35	45	San Juan County, New Mexico	61	Educational services	61	0500000US35045	21.375	317.375	10522.75
+60262	35045	35	45	San Juan County, New Mexico	62	Health care and social assistance	62	0500000US35045	279.125	7084.125	328590.0
+60263	35045	35	45	San Juan County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35045	30.0	754.5	18349.875
+60264	35045	35	45	San Juan County, New Mexico	72	Accommodation and food services	72	0500000US35045	225.25	4687.125	68258.375
+60265	35045	35	45	San Juan County, New Mexico	81	Other services (except public administration)	81	0500000US35045	270.5	2017.875	63981.375
+60266	35045	35	45	San Juan County, New Mexico	99	Industries not classified	99	0500000US35045	2.6666666666666665	1.1666666666666667	35.166666666666664
+60268	35047	35	47	San Miguel County	11	Agriculture, forestry, fishing and hunting	11	0500000US35047	1.0	0.0	0.0
+60269	35047	35	47	San Miguel County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35047	3.0	0.0	385.0
+60270	35047	35	47	San Miguel County	22	Utilities	22	0500000US35047	7.0	0.0	0.0
+60271	35047	35	47	San Miguel County	23	Construction	23	0500000US35047	41.0	184.0	6755.0
+60272	35047	35	47	San Miguel County	42	Wholesale trade	42	0500000US35047	8.0	0.0	0.0
+60273	35047	35	47	San Miguel County	51	Information	51	0500000US35047	9.0	53.0	1795.0
+60274	35047	35	47	San Miguel County	52	Finance and insurance	52	0500000US35047	30.0	179.0	5791.0
+60275	35047	35	47	San Miguel County	53	Real estate and rental and leasing	53	0500000US35047	18.0	0.0	1178.0
+60276	35047	35	47	San Miguel County	54	Professional, scientific, and technical services	54	0500000US35047	35.0	126.0	4989.0
+60277	35047	35	47	San Miguel County	55	Management of companies and enterprises	55	0500000US35047	2.0	0.0	0.0
+60278	35047	35	47	San Miguel County	56	Administrative and support and waste management and remediation services	56	0500000US35047	11.0	0.0	614.0
+60279	35047	35	47	San Miguel County	61	Educational services	61	0500000US35047	1.0	0.0	0.0
+60280	35047	35	47	San Miguel County	62	Health care and social assistance	62	0500000US35047	74.0	2957.0	82607.0
+60281	35047	35	47	San Miguel County	71	Arts, entertainment, and recreation	71	0500000US35047	2.0	0.0	0.0
+60282	35047	35	47	San Miguel County	72	Accommodation and food services	72	0500000US35047	58.0	709.0	8888.0
+60283	35047	35	47	San Miguel County	81	Other services (except public administration)	81	0500000US35047	40.0	163.0	2895.0
+60285	35047	35	47	San Miguel County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35047	1.0	0.0	0.0
+60286	35047	35	47	San Miguel County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35047	2.5	0.0	0.0
+60287	35047	35	47	San Miguel County, New Mexico	22	Utilities	22	0500000US35047	7.375	102.75	10044.75
+60288	35047	35	47	San Miguel County, New Mexico	23	Construction	23	0500000US35047	47.375	224.875	7847.625
+60289	35047	35	47	San Miguel County, New Mexico	42	Wholesale trade	42	0500000US35047	6.625	22.375	870.25
+60290	35047	35	47	San Miguel County, New Mexico	51	Information	51	0500000US35047	9.75	39.0	1496.0
+60291	35047	35	47	San Miguel County, New Mexico	52	Finance and insurance	52	0500000US35047	32.75	177.25	6777.75
+60292	35047	35	47	San Miguel County, New Mexico	53	Real estate and rental and leasing	53	0500000US35047	17.125	31.5	1225.375
+60293	35047	35	47	San Miguel County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35047	27.25	101.25	3373.75
+60294	35047	35	47	San Miguel County, New Mexico	55	Management of companies and enterprises	55	0500000US35047	2.0	0.0	0.0
+60295	35047	35	47	San Miguel County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35047	10.875	17.125	382.5
+60296	35047	35	47	San Miguel County, New Mexico	61	Educational services	61	0500000US35047	1.5	0.0	0.0
+60297	35047	35	47	San Miguel County, New Mexico	62	Health care and social assistance	62	0500000US35047	71.875	3105.875	91502.25
+60298	35047	35	47	San Miguel County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35047	2.25	0.0	0.0
+60299	35047	35	47	San Miguel County, New Mexico	72	Accommodation and food services	72	0500000US35047	63.875	870.0	11961.125
+60300	35047	35	47	San Miguel County, New Mexico	81	Other services (except public administration)	81	0500000US35047	40.125	146.625	2696.625
+60302	35049	35	49	Santa Fe County	11	Agriculture, forestry, fishing and hunting	11	0500000US35049	7.0	0.0	394.0
+60303	35049	35	49	Santa Fe County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35049	9.0	40.0	1879.0
+60304	35049	35	49	Santa Fe County	22	Utilities	22	0500000US35049	15.0	0.0	0.0
+60305	35049	35	49	Santa Fe County	23	Construction	23	0500000US35049	474.0	2172.0	76043.0
+60306	35049	35	49	Santa Fe County	42	Wholesale trade	42	0500000US35049	136.0	1230.0	69390.0
+60307	35049	35	49	Santa Fe County	51	Information	51	0500000US35049	87.0	716.0	40043.0
+60308	35049	35	49	Santa Fe County	52	Finance and insurance	52	0500000US35049	230.0	1849.0	224131.0
+60309	35049	35	49	Santa Fe County	53	Real estate and rental and leasing	53	0500000US35049	266.0	819.0	34353.0
+60310	35049	35	49	Santa Fe County	54	Professional, scientific, and technical services	54	0500000US35049	628.0	2390.0	155438.0
+60311	35049	35	49	Santa Fe County	55	Management of companies and enterprises	55	0500000US35049	20.0	295.0	17768.0
+60312	35049	35	49	Santa Fe County	56	Administrative and support and waste management and remediation services	56	0500000US35049	208.0	1219.0	37821.0
+60313	35049	35	49	Santa Fe County	61	Educational services	61	0500000US35049	115.0	1808.0	57022.0
+60314	35049	35	49	Santa Fe County	62	Health care and social assistance	62	0500000US35049	517.0	8293.0	363274.0
+60315	35049	35	49	Santa Fe County	71	Arts, entertainment, and recreation	71	0500000US35049	134.0	1568.0	50371.0
+60316	35049	35	49	Santa Fe County	72	Accommodation and food services	72	0500000US35049	420.0	8972.0	190673.0
+60317	35049	35	49	Santa Fe County	81	Other services (except public administration)	81	0500000US35049	419.0	2409.0	78714.0
+60318	35049	35	49	Santa Fe County	99	Industries not classified	99	0500000US35049	1.0	0.0	0.0
+60320	35049	35	49	Santa Fe County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35049	10.75	13.375	631.5
+60321	35049	35	49	Santa Fe County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35049	8.5	65.5	5850.25
+60322	35049	35	49	Santa Fe County, New Mexico	22	Utilities	22	0500000US35049	13.875	110.625	8527.75
+60323	35049	35	49	Santa Fe County, New Mexico	23	Construction	23	0500000US35049	504.125	2481.625	98232.5
+60324	35049	35	49	Santa Fe County, New Mexico	42	Wholesale trade	42	0500000US35049	118.75	1071.0	61138.5
+60325	35049	35	49	Santa Fe County, New Mexico	51	Information	51	0500000US35049	95.0	772.75	43011.375
+60326	35049	35	49	Santa Fe County, New Mexico	52	Finance and insurance	52	0500000US35049	213.375	1636.75	221057.625
+60327	35049	35	49	Santa Fe County, New Mexico	53	Real estate and rental and leasing	53	0500000US35049	270.0	823.125	41438.75
+60328	35049	35	49	Santa Fe County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35049	656.75	2457.25	156379.625
+60329	35049	35	49	Santa Fe County, New Mexico	55	Management of companies and enterprises	55	0500000US35049	23.125	306.375	21899.625
+60330	35049	35	49	Santa Fe County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35049	211.25	1489.0	47648.25
+60331	35049	35	49	Santa Fe County, New Mexico	61	Educational services	61	0500000US35049	114.75	1754.75	60470.875
+60332	35049	35	49	Santa Fe County, New Mexico	62	Health care and social assistance	62	0500000US35049	509.25	8592.25	414538.75
+60333	35049	35	49	Santa Fe County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35049	148.25	2055.0	67522.875
+60334	35049	35	49	Santa Fe County, New Mexico	72	Accommodation and food services	72	0500000US35049	424.625	9717.625	222701.375
+60335	35049	35	49	Santa Fe County, New Mexico	81	Other services (except public administration)	81	0500000US35049	434.75	2469.125	93416.25
+60336	35049	35	49	Santa Fe County, New Mexico	99	Industries not classified	99	0500000US35049	9.625	10.25	303.5
+60338	35051	35	51	Sierra County	11	Agriculture, forestry, fishing and hunting	11	0500000US35051	1.0	0.0	0.0
+60339	35051	35	51	Sierra County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35051	1.0	0.0	0.0
+60340	35051	35	51	Sierra County	22	Utilities	22	0500000US35051	2.0	0.0	0.0
+60341	35051	35	51	Sierra County	23	Construction	23	0500000US35051	26.0	142.0	5909.0
+60342	35051	35	51	Sierra County	42	Wholesale trade	42	0500000US35051	2.0	0.0	0.0
+60343	35051	35	51	Sierra County	51	Information	51	0500000US35051	3.0	22.0	603.0
+60344	35051	35	51	Sierra County	52	Finance and insurance	52	0500000US35051	16.0	0.0	2328.0
+60345	35051	35	51	Sierra County	53	Real estate and rental and leasing	53	0500000US35051	9.0	16.0	390.0
+60346	35051	35	51	Sierra County	54	Professional, scientific, and technical services	54	0500000US35051	15.0	36.0	690.0
+60347	35051	35	51	Sierra County	56	Administrative and support and waste management and remediation services	56	0500000US35051	3.0	0.0	0.0
+60348	35051	35	51	Sierra County	62	Health care and social assistance	62	0500000US35051	20.0	725.0	19221.0
+60349	35051	35	51	Sierra County	71	Arts, entertainment, and recreation	71	0500000US35051	9.0	0.0	0.0
+60350	35051	35	51	Sierra County	72	Accommodation and food services	72	0500000US35051	39.0	396.0	4661.0
+60351	35051	35	51	Sierra County	81	Other services (except public administration)	81	0500000US35051	25.0	124.0	2364.0
+60353	35051	35	51	Sierra County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35051	1.0	0.0	0.0
+60354	35051	35	51	Sierra County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35051	1.0	0.0	0.0
+60355	35051	35	51	Sierra County, New Mexico	22	Utilities	22	0500000US35051	2.0	0.0	0.0
+60356	35051	35	51	Sierra County, New Mexico	23	Construction	23	0500000US35051	21.25	166.375	7770.0
+60357	35051	35	51	Sierra County, New Mexico	42	Wholesale trade	42	0500000US35051	3.0	0.0	0.0
+60358	35051	35	51	Sierra County, New Mexico	51	Information	51	0500000US35051	3.875	17.5	693.75
+60359	35051	35	51	Sierra County, New Mexico	52	Finance and insurance	52	0500000US35051	14.25	63.625	2073.375
+60360	35051	35	51	Sierra County, New Mexico	53	Real estate and rental and leasing	53	0500000US35051	8.875	21.375	504.0
+60361	35051	35	51	Sierra County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35051	11.75	36.625	888.625
+60362	35051	35	51	Sierra County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35051	3.5	9.125	249.375
+60363	35051	35	51	Sierra County, New Mexico	62	Health care and social assistance	62	0500000US35051	20.125	679.25	21971.75
+60364	35051	35	51	Sierra County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35051	6.625	29.875	523.375
+60365	35051	35	51	Sierra County, New Mexico	72	Accommodation and food services	72	0500000US35051	39.25	476.5	6270.0
+60366	35051	35	51	Sierra County, New Mexico	81	Other services (except public administration)	81	0500000US35051	25.625	116.625	2972.375
+60367	35051	35	51	Sierra County, New Mexico	99	Industries not classified	99	0500000US35051	1.0	0.0	0.0
+60369	35053	35	53	Socorro County	11	Agriculture, forestry, fishing and hunting	11	0500000US35053	3.0	0.0	0.0
+60370	35053	35	53	Socorro County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35053	1.0	0.0	0.0
+60371	35053	35	53	Socorro County	22	Utilities	22	0500000US35053	2.0	0.0	0.0
+60372	35053	35	53	Socorro County	23	Construction	23	0500000US35053	18.0	49.0	773.0
+60373	35053	35	53	Socorro County	42	Wholesale trade	42	0500000US35053	1.0	0.0	0.0
+60374	35053	35	53	Socorro County	51	Information	51	0500000US35053	4.0	0.0	0.0
+60375	35053	35	53	Socorro County	52	Finance and insurance	52	0500000US35053	18.0	0.0	0.0
+60376	35053	35	53	Socorro County	53	Real estate and rental and leasing	53	0500000US35053	11.0	31.0	621.0
+60377	35053	35	53	Socorro County	54	Professional, scientific, and technical services	54	0500000US35053	25.0	295.0	17795.0
+60378	35053	35	53	Socorro County	56	Administrative and support and waste management and remediation services	56	0500000US35053	7.0	0.0	4199.0
+60379	35053	35	53	Socorro County	62	Health care and social assistance	62	0500000US35053	29.0	0.0	0.0
+60380	35053	35	53	Socorro County	71	Arts, entertainment, and recreation	71	0500000US35053	1.0	0.0	0.0
+60381	35053	35	53	Socorro County	72	Accommodation and food services	72	0500000US35053	41.0	624.0	6984.0
+60382	35053	35	53	Socorro County	81	Other services (except public administration)	81	0500000US35053	18.0	67.0	1055.0
+60383	35053	35	53	Socorro County	99	Industries not classified	99	0500000US35053	1.0	0.0	0.0
+60385	35053	35	53	Socorro County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35053	2.3333333333333335	4.0	206.66666666666666
+60386	35053	35	53	Socorro County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35053	1.0	0.0	0.0
+60387	35053	35	53	Socorro County, New Mexico	22	Utilities	22	0500000US35053	2.0	0.0	0.0
+60388	35053	35	53	Socorro County, New Mexico	23	Construction	23	0500000US35053	14.375	44.5	1324.875
+60389	35053	35	53	Socorro County, New Mexico	42	Wholesale trade	42	0500000US35053	1.5	0.0	0.0
+60390	35053	35	53	Socorro County, New Mexico	51	Information	51	0500000US35053	4.5	5.125	410.5
+60391	35053	35	53	Socorro County, New Mexico	52	Finance and insurance	52	0500000US35053	16.75	65.375	2389.0
+60392	35053	35	53	Socorro County, New Mexico	53	Real estate and rental and leasing	53	0500000US35053	9.375	22.25	460.75
+60393	35053	35	53	Socorro County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35053	25.125	231.125	14274.875
+60394	35053	35	53	Socorro County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35053	3.75	34.375	1857.625
+60395	35053	35	53	Socorro County, New Mexico	61	Educational services	61	0500000US35053	2.2	59.4	2116.6
+60396	35053	35	53	Socorro County, New Mexico	62	Health care and social assistance	62	0500000US35053	34.125	702.125	21144.75
+60397	35053	35	53	Socorro County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35053	1.0	0.0	0.0
+60398	35053	35	53	Socorro County, New Mexico	72	Accommodation and food services	72	0500000US35053	38.625	568.875	7611.0
+60399	35053	35	53	Socorro County, New Mexico	81	Other services (except public administration)	81	0500000US35053	21.625	97.375	1563.25
+60400	35053	35	53	Socorro County, New Mexico	99	Industries not classified	99	0500000US35053	1.25	0.0	0.0
+60402	35055	35	55	Taos County	11	Agriculture, forestry, fishing and hunting	11	0500000US35055	4.0	0.0	0.0
+60403	35055	35	55	Taos County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35055	3.0	0.0	0.0
+60404	35055	35	55	Taos County	22	Utilities	22	0500000US35055	7.0	0.0	0.0
+60405	35055	35	55	Taos County	23	Construction	23	0500000US35055	139.0	333.0	12727.0
+60406	35055	35	55	Taos County	42	Wholesale trade	42	0500000US35055	21.0	0.0	2584.0
+60407	35055	35	55	Taos County	51	Information	51	0500000US35055	16.0	0.0	0.0
+60408	35055	35	55	Taos County	52	Finance and insurance	52	0500000US35055	41.0	235.0	9384.0
+60409	35055	35	55	Taos County	53	Real estate and rental and leasing	53	0500000US35055	62.0	187.0	4088.0
+60410	35055	35	55	Taos County	54	Professional, scientific, and technical services	54	0500000US35055	99.0	258.0	8363.0
+60411	35055	35	55	Taos County	55	Management of companies and enterprises	55	0500000US35055	1.0	0.0	0.0
+60412	35055	35	55	Taos County	56	Administrative and support and waste management and remediation services	56	0500000US35055	44.0	392.0	10235.0
+60413	35055	35	55	Taos County	61	Educational services	61	0500000US35055	21.0	94.0	2131.0
+60414	35055	35	55	Taos County	62	Health care and social assistance	62	0500000US35055	101.0	1492.0	54307.0
+60415	35055	35	55	Taos County	71	Arts, entertainment, and recreation	71	0500000US35055	35.0	0.0	9148.0
+60416	35055	35	55	Taos County	72	Accommodation and food services	72	0500000US35055	152.0	1975.0	33212.0
+60417	35055	35	55	Taos County	81	Other services (except public administration)	81	0500000US35055	82.0	305.0	6747.0
+60419	35055	35	55	Taos County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35055	2.0	0.0	0.0
+60420	35055	35	55	Taos County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35055	2.5	0.0	0.0
+60421	35055	35	55	Taos County, New Mexico	22	Utilities	22	0500000US35055	7.25	46.375	2440.625
+60422	35055	35	55	Taos County, New Mexico	23	Construction	23	0500000US35055	139.0	408.75	16018.75
+60423	35055	35	55	Taos County, New Mexico	42	Wholesale trade	42	0500000US35055	16.75	50.25	2508.25
+60424	35055	35	55	Taos County, New Mexico	51	Information	51	0500000US35055	15.875	105.125	5027.875
+60425	35055	35	55	Taos County, New Mexico	52	Finance and insurance	52	0500000US35055	38.375	187.0	7100.875
+60426	35055	35	55	Taos County, New Mexico	53	Real estate and rental and leasing	53	0500000US35055	59.5	216.75	5503.0
+60427	35055	35	55	Taos County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35055	93.0	307.375	13997.375
+60428	35055	35	55	Taos County, New Mexico	55	Management of companies and enterprises	55	0500000US35055	2.5714285714285716	10.857142857142858	831.1428571428571
+60429	35055	35	55	Taos County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35055	44.375	190.125	9423.0
+60430	35055	35	55	Taos County, New Mexico	61	Educational services	61	0500000US35055	18.0	77.5	1607.875
+60431	35055	35	55	Taos County, New Mexico	62	Health care and social assistance	62	0500000US35055	99.5	1611.875	61872.5
+60432	35055	35	55	Taos County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35055	33.25	904.25	15436.0
+60433	35055	35	55	Taos County, New Mexico	72	Accommodation and food services	72	0500000US35055	153.875	2251.375	39557.125
+60434	35055	35	55	Taos County, New Mexico	81	Other services (except public administration)	81	0500000US35055	85.0	361.25	8557.0
+60435	35055	35	55	Taos County, New Mexico	99	Industries not classified	99	0500000US35055	2.0	0.3333333333333333	13.333333333333334
+60437	35057	35	57	Torrance County	11	Agriculture, forestry, fishing and hunting	11	0500000US35057	3.0	0.0	0.0
+60438	35057	35	57	Torrance County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35057	2.0	0.0	0.0
+60439	35057	35	57	Torrance County	22	Utilities	22	0500000US35057	4.0	0.0	0.0
+60440	35057	35	57	Torrance County	23	Construction	23	0500000US35057	38.0	142.0	4063.0
+60441	35057	35	57	Torrance County	42	Wholesale trade	42	0500000US35057	9.0	0.0	924.0
+60442	35057	35	57	Torrance County	51	Information	51	0500000US35057	1.0	0.0	0.0
+60443	35057	35	57	Torrance County	52	Finance and insurance	52	0500000US35057	13.0	0.0	1424.0
+60444	35057	35	57	Torrance County	53	Real estate and rental and leasing	53	0500000US35057	2.0	0.0	0.0
+60445	35057	35	57	Torrance County	54	Professional, scientific, and technical services	54	0500000US35057	13.0	0.0	827.0
+60446	35057	35	57	Torrance County	56	Administrative and support and waste management and remediation services	56	0500000US35057	5.0	0.0	0.0
+60447	35057	35	57	Torrance County	61	Educational services	61	0500000US35057	1.0	0.0	0.0
+60448	35057	35	57	Torrance County	62	Health care and social assistance	62	0500000US35057	22.0	0.0	0.0
+60449	35057	35	57	Torrance County	71	Arts, entertainment, and recreation	71	0500000US35057	2.0	0.0	0.0
+60450	35057	35	57	Torrance County	72	Accommodation and food services	72	0500000US35057	26.0	212.0	2475.0
+60451	35057	35	57	Torrance County	81	Other services (except public administration)	81	0500000US35057	18.0	0.0	1031.0
+60453	35057	35	57	Torrance County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35057	3.25	21.25	501.375
+60454	35057	35	57	Torrance County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35057	1.75	0.0	0.0
+60455	35057	35	57	Torrance County, New Mexico	22	Utilities	22	0500000US35057	5.0	65.125	4031.625
+60456	35057	35	57	Torrance County, New Mexico	23	Construction	23	0500000US35057	29.875	118.0	4533.0
+60457	35057	35	57	Torrance County, New Mexico	42	Wholesale trade	42	0500000US35057	9.125	47.5	1470.75
+60458	35057	35	57	Torrance County, New Mexico	51	Information	51	0500000US35057	2.4	0.0	0.0
+60459	35057	35	57	Torrance County, New Mexico	52	Finance and insurance	52	0500000US35057	9.5	30.875	1415.5
+60460	35057	35	57	Torrance County, New Mexico	53	Real estate and rental and leasing	53	0500000US35057	2.4285714285714284	2.0	74.28571428571429
+60461	35057	35	57	Torrance County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35057	13.5	46.125	1046.375
+60462	35057	35	57	Torrance County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35057	5.125	75.25	2907.75
+60463	35057	35	57	Torrance County, New Mexico	61	Educational services	61	0500000US35057	1.0	0.0	0.0
+60464	35057	35	57	Torrance County, New Mexico	62	Health care and social assistance	62	0500000US35057	16.0	123.625	3054.0
+60465	35057	35	57	Torrance County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35057	3.0	15.625	317.75
+60466	35057	35	57	Torrance County, New Mexico	72	Accommodation and food services	72	0500000US35057	21.5	178.0	2291.0
+60467	35057	35	57	Torrance County, New Mexico	81	Other services (except public administration)	81	0500000US35057	17.875	56.5	1162.0
+60468	35057	35	57	Torrance County, New Mexico	99	Industries not classified	99	0500000US35057	1.0	0.0	0.0
+60470	35059	35	59	Union County	11	Agriculture, forestry, fishing and hunting	11	0500000US35059	1.0	0.0	0.0
+60471	35059	35	59	Union County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35059	1.0	0.0	0.0
+60472	35059	35	59	Union County	22	Utilities	22	0500000US35059	3.0	0.0	0.0
+60473	35059	35	59	Union County	23	Construction	23	0500000US35059	15.0	36.0	828.0
+60474	35059	35	59	Union County	42	Wholesale trade	42	0500000US35059	1.0	0.0	0.0
+60475	35059	35	59	Union County	51	Information	51	0500000US35059	4.0	0.0	1967.0
+60476	35059	35	59	Union County	52	Finance and insurance	52	0500000US35059	2.0	0.0	0.0
+60477	35059	35	59	Union County	53	Real estate and rental and leasing	53	0500000US35059	1.0	0.0	0.0
+60478	35059	35	59	Union County	54	Professional, scientific, and technical services	54	0500000US35059	7.0	22.0	430.0
+60479	35059	35	59	Union County	56	Administrative and support and waste management and remediation services	56	0500000US35059	3.0	0.0	0.0
+60480	35059	35	59	Union County	62	Health care and social assistance	62	0500000US35059	13.0	0.0	0.0
+60481	35059	35	59	Union County	71	Arts, entertainment, and recreation	71	0500000US35059	4.0	6.0	127.0
+60482	35059	35	59	Union County	72	Accommodation and food services	72	0500000US35059	14.0	0.0	1822.0
+60483	35059	35	59	Union County	81	Other services (except public administration)	81	0500000US35059	14.0	47.0	828.0
+60485	35059	35	59	Union County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35059	1.25	0.0	0.0
+60486	35059	35	59	Union County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35059	1.0	0.0	0.0
+60487	35059	35	59	Union County, New Mexico	22	Utilities	22	0500000US35059	3.0	19.625	1191.875
+60488	35059	35	59	Union County, New Mexico	23	Construction	23	0500000US35059	13.5	22.0	710.25
+60489	35059	35	59	Union County, New Mexico	42	Wholesale trade	42	0500000US35059	1.0	0.0	0.0
+60490	35059	35	59	Union County, New Mexico	51	Information	51	0500000US35059	3.875	43.75	1950.0
+60491	35059	35	59	Union County, New Mexico	52	Finance and insurance	52	0500000US35059	3.25	45.875	2475.125
+60492	35059	35	59	Union County, New Mexico	53	Real estate and rental and leasing	53	0500000US35059	1.0	0.0	0.0
+60493	35059	35	59	Union County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35059	5.875	10.125	360.375
+60494	35059	35	59	Union County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35059	1.0	0.0	0.0
+60495	35059	35	59	Union County, New Mexico	61	Educational services	61	0500000US35059	1.0	0.0	0.0
+60496	35059	35	59	Union County, New Mexico	62	Health care and social assistance	62	0500000US35059	7.0	114.0	4095.375
+60497	35059	35	59	Union County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35059	3.2857142857142856	3.2857142857142856	111.85714285714286
+60498	35059	35	59	Union County, New Mexico	72	Accommodation and food services	72	0500000US35059	14.875	130.5	1889.875
+60499	35059	35	59	Union County, New Mexico	81	Other services (except public administration)	81	0500000US35059	15.625	48.25	786.0
+60501	35061	35	61	Valencia County	11	Agriculture, forestry, fishing and hunting	11	0500000US35061	1.0	0.0	0.0
+60502	35061	35	61	Valencia County	21	Mining, quarrying, and oil and gas extraction	21	0500000US35061	4.0	0.0	0.0
+60503	35061	35	61	Valencia County	22	Utilities	22	0500000US35061	6.0	0.0	0.0
+60504	35061	35	61	Valencia County	23	Construction	23	0500000US35061	126.0	649.0	20438.0
+60505	35061	35	61	Valencia County	42	Wholesale trade	42	0500000US35061	21.0	112.0	3636.0
+60506	35061	35	61	Valencia County	51	Information	51	0500000US35061	10.0	0.0	0.0
+60507	35061	35	61	Valencia County	52	Finance and insurance	52	0500000US35061	78.0	0.0	9902.0
+60508	35061	35	61	Valencia County	53	Real estate and rental and leasing	53	0500000US35061	42.0	0.0	3122.0
+60509	35061	35	61	Valencia County	54	Professional, scientific, and technical services	54	0500000US35061	76.0	282.0	8624.0
+60510	35061	35	61	Valencia County	55	Management of companies and enterprises	55	0500000US35061	2.0	0.0	0.0
+60511	35061	35	61	Valencia County	56	Administrative and support and waste management and remediation services	56	0500000US35061	31.0	226.0	6245.0
+60512	35061	35	61	Valencia County	61	Educational services	61	0500000US35061	5.0	0.0	0.0
+60513	35061	35	61	Valencia County	62	Health care and social assistance	62	0500000US35061	91.0	2601.0	55464.0
+60514	35061	35	61	Valencia County	71	Arts, entertainment, and recreation	71	0500000US35061	10.0	0.0	0.0
+60515	35061	35	61	Valencia County	72	Accommodation and food services	72	0500000US35061	92.0	1904.0	29173.0
+60516	35061	35	61	Valencia County	81	Other services (except public administration)	81	0500000US35061	95.0	415.0	7999.0
+60518	35061	35	61	Valencia County, New Mexico	11	Agriculture, forestry, fishing and hunting	11	0500000US35061	2.6666666666666665	1.8333333333333333	33.0
+60519	35061	35	61	Valencia County, New Mexico	21	Mining, quarrying, and oil and gas extraction	21	0500000US35061	2.25	0.0	0.0
+60520	35061	35	61	Valencia County, New Mexico	22	Utilities	22	0500000US35061	6.0	31.0	2635.25
+60521	35061	35	61	Valencia County, New Mexico	23	Construction	23	0500000US35061	142.125	870.875	35259.75
+60522	35061	35	61	Valencia County, New Mexico	42	Wholesale trade	42	0500000US35061	18.375	110.875	5767.25
+60523	35061	35	61	Valencia County, New Mexico	51	Information	51	0500000US35061	7.875	61.625	7141.625
+60524	35061	35	61	Valencia County, New Mexico	52	Finance and insurance	52	0500000US35061	67.0	304.625	10576.875
+60525	35061	35	61	Valencia County, New Mexico	53	Real estate and rental and leasing	53	0500000US35061	44.0	72.5	2681.375
+60526	35061	35	61	Valencia County, New Mexico	54	Professional, scientific, and technical services	54	0500000US35061	71.375	313.375	11297.125
+60527	35061	35	61	Valencia County, New Mexico	55	Management of companies and enterprises	55	0500000US35061	2.75	34.25	1890.625
+60528	35061	35	61	Valencia County, New Mexico	56	Administrative and support and waste management and remediation services	56	0500000US35061	32.75	202.25	6623.5
+60529	35061	35	61	Valencia County, New Mexico	61	Educational services	61	0500000US35061	6.5	63.75	1459.5
+60530	35061	35	61	Valencia County, New Mexico	62	Health care and social assistance	62	0500000US35061	97.75	1807.75	43939.0
+60531	35061	35	61	Valencia County, New Mexico	71	Arts, entertainment, and recreation	71	0500000US35061	11.0	68.0	946.0
+60532	35061	35	61	Valencia County, New Mexico	72	Accommodation and food services	72	0500000US35061	92.5	1923.5	28405.0
+60533	35061	35	61	Valencia County, New Mexico	81	Other services (except public administration)	81	0500000US35061	91.375	448.25	9221.625
+60534	35061	35	61	Valencia County, New Mexico	99	Industries not classified	99	0500000US35061	1.5	1.25	24.5

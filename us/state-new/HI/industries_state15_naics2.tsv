@@ -1,0 +1,134 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+18156	15001	15	1	Hawaii County	11	Agriculture, forestry, fishing and hunting	11	0500000US15001	10.0	113.0	3055.0
+18157	15001	15	1	Hawaii County	21	Mining, quarrying, and oil and gas extraction	21	0500000US15001	1.0	0.0	0.0
+18158	15001	15	1	Hawaii County	22	Utilities	22	0500000US15001	11.0	0.0	44109.0
+18159	15001	15	1	Hawaii County	23	Construction	23	0500000US15001	365.0	2140.0	106890.0
+18160	15001	15	1	Hawaii County	42	Wholesale trade	42	0500000US15001	189.0	1601.0	62377.0
+18161	15001	15	1	Hawaii County	51	Information	51	0500000US15001	66.0	643.0	28818.0
+18162	15001	15	1	Hawaii County	52	Finance and insurance	52	0500000US15001	160.0	1306.0	59322.0
+18163	15001	15	1	Hawaii County	53	Real estate and rental and leasing	53	0500000US15001	249.0	1297.0	46661.0
+18164	15001	15	1	Hawaii County	54	Professional, scientific, and technical services	54	0500000US15001	296.0	1518.0	73009.0
+18165	15001	15	1	Hawaii County	55	Management of companies and enterprises	55	0500000US15001	13.0	249.0	10941.0
+18166	15001	15	1	Hawaii County	56	Administrative and support and waste management and remediation services	56	0500000US15001	233.0	3411.0	85758.0
+18167	15001	15	1	Hawaii County	61	Educational services	61	0500000US15001	58.0	1202.0	32914.0
+18168	15001	15	1	Hawaii County	62	Health care and social assistance	62	0500000US15001	469.0	7855.0	333585.0
+18169	15001	15	1	Hawaii County	71	Arts, entertainment, and recreation	71	0500000US15001	68.0	1137.0	29647.0
+18170	15001	15	1	Hawaii County	72	Accommodation and food services	72	0500000US15001	430.0	11329.0	305749.0
+18171	15001	15	1	Hawaii County	81	Other services (except public administration)	81	0500000US15001	373.0	1776.0	50433.0
+18172	15001	15	1	Hawaii County	99	Industries not classified	99	0500000US15001	3.0	0.0	0.0
+18174	15001	15	1	Hawaii County, Hawaii	11	Agriculture, forestry, fishing and hunting	11	0500000US15001	11.375	111.25	3453.125
+18175	15001	15	1	Hawaii County, Hawaii	21	Mining, quarrying, and oil and gas extraction	21	0500000US15001	2.0	0.0	0.0
+18176	15001	15	1	Hawaii County, Hawaii	22	Utilities	22	0500000US15001	14.75	362.125	50410.625
+18177	15001	15	1	Hawaii County, Hawaii	23	Construction	23	0500000US15001	400.5	2739.0	160070.375
+18178	15001	15	1	Hawaii County, Hawaii	42	Wholesale trade	42	0500000US15001	179.125	1772.0	78849.75
+18179	15001	15	1	Hawaii County, Hawaii	51	Information	51	0500000US15001	61.5	652.0	35975.125
+18180	15001	15	1	Hawaii County, Hawaii	52	Finance and insurance	52	0500000US15001	175.0	1164.75	59326.625
+18181	15001	15	1	Hawaii County, Hawaii	53	Real estate and rental and leasing	53	0500000US15001	257.5	1336.875	56598.125
+18182	15001	15	1	Hawaii County, Hawaii	54	Professional, scientific, and technical services	54	0500000US15001	318.625	1470.125	82858.25
+18183	15001	15	1	Hawaii County, Hawaii	55	Management of companies and enterprises	55	0500000US15001	16.875	431.375	20660.125
+18184	15001	15	1	Hawaii County, Hawaii	56	Administrative and support and waste management and remediation services	56	0500000US15001	260.125	4606.375	135868.0
+18185	15001	15	1	Hawaii County, Hawaii	61	Educational services	61	0500000US15001	56.5	1242.25	38963.25
+18186	15001	15	1	Hawaii County, Hawaii	62	Health care and social assistance	62	0500000US15001	478.125	8149.25	397793.375
+18187	15001	15	1	Hawaii County, Hawaii	71	Arts, entertainment, and recreation	71	0500000US15001	74.75	1106.75	34399.5
+18188	15001	15	1	Hawaii County, Hawaii	72	Accommodation and food services	72	0500000US15001	465.5	13239.75	378280.875
+18189	15001	15	1	Hawaii County, Hawaii	81	Other services (except public administration)	81	0500000US15001	387.625	1925.625	56962.625
+18190	15001	15	1	Hawaii County, Hawaii	99	Industries not classified	99	0500000US15001	6.166666666666667	7.0	136.5
+18192	15003	15	3	Honolulu County	11	Agriculture, forestry, fishing and hunting	11	0500000US15003	18.0	38.0	667.0
+18193	15003	15	3	Honolulu County	21	Mining, quarrying, and oil and gas extraction	21	0500000US15003	4.0	76.0	7302.0
+18194	15003	15	3	Honolulu County	22	Utilities	22	0500000US15003	21.0	0.0	0.0
+18195	15003	15	3	Honolulu County	23	Construction	23	0500000US15003	1632.0	19083.0	1263390.0
+18196	15003	15	3	Honolulu County	42	Wholesale trade	42	0500000US15003	1277.0	14323.0	671966.0
+18197	15003	15	3	Honolulu County	51	Information	51	0500000US15003	363.0	6536.0	397943.0
+18198	15003	15	3	Honolulu County	52	Finance and insurance	52	0500000US15003	1008.0	16638.0	1017408.0
+18199	15003	15	3	Honolulu County	53	Real estate and rental and leasing	53	0500000US15003	1223.0	7574.0	365541.0
+18200	15003	15	3	Honolulu County	54	Professional, scientific, and technical services	54	0500000US15003	2402.0	20762.0	1215396.0
+18201	15003	15	3	Honolulu County	55	Management of companies and enterprises	55	0500000US15003	207.0	4975.0	370940.0
+18202	15003	15	3	Honolulu County	56	Administrative and support and waste management and remediation services	56	0500000US15003	1161.0	23811.0	703100.0
+18203	15003	15	3	Honolulu County	61	Educational services	61	0500000US15003	349.0	15785.0	514752.0
+18204	15003	15	3	Honolulu County	62	Health care and social assistance	62	0500000US15003	2531.0	49637.0	2503417.0
+18205	15003	15	3	Honolulu County	71	Arts, entertainment, and recreation	71	0500000US15003	267.0	6438.0	145365.0
+18206	15003	15	3	Honolulu County	72	Accommodation and food services	72	0500000US15003	2377.0	57880.0	1364530.0
+18207	15003	15	3	Honolulu County	81	Other services (except public administration)	81	0500000US15003	2433.0	19475.0	542164.0
+18208	15003	15	3	Honolulu County	99	Industries not classified	99	0500000US15003	13.0	0.0	246.0
+18210	15003	15	3	Honolulu County, Hawaii	11	Agriculture, forestry, fishing and hunting	11	0500000US15003	19.125	27.625	929.25
+18211	15003	15	3	Honolulu County, Hawaii	21	Mining, quarrying, and oil and gas extraction	21	0500000US15003	3.625	126.875	9796.0
+18212	15003	15	3	Honolulu County, Hawaii	22	Utilities	22	0500000US15003	21.625	934.625	101961.25
+18213	15003	15	3	Honolulu County, Hawaii	23	Construction	23	0500000US15003	1712.375	22892.125	1680043.375
+18214	15003	15	3	Honolulu County, Hawaii	42	Wholesale trade	42	0500000US15003	1164.75	14516.875	758332.875
+18215	15003	15	3	Honolulu County, Hawaii	51	Information	51	0500000US15003	360.0	6635.0	421114.25
+18216	15003	15	3	Honolulu County, Hawaii	52	Finance and insurance	52	0500000US15003	1043.5	17303.75	1235594.125
+18217	15003	15	3	Honolulu County, Hawaii	53	Real estate and rental and leasing	53	0500000US15003	1245.375	8665.625	477194.25
+18218	15003	15	3	Honolulu County, Hawaii	54	Professional, scientific, and technical services	54	0500000US15003	2420.625	18551.625	1276728.625
+18219	15003	15	3	Honolulu County, Hawaii	55	Management of companies and enterprises	55	0500000US15003	211.75	6113.375	489185.125
+18220	15003	15	3	Honolulu County, Hawaii	56	Administrative and support and waste management and remediation services	56	0500000US15003	1120.75	23887.125	806376.5
+18221	15003	15	3	Honolulu County, Hawaii	61	Educational services	61	0500000US15003	368.625	15579.75	557984.375
+18222	15003	15	3	Honolulu County, Hawaii	62	Health care and social assistance	62	0500000US15003	2567.875	52985.625	2939151.625
+18223	15003	15	3	Honolulu County, Hawaii	71	Arts, entertainment, and recreation	71	0500000US15003	262.875	7108.75	167121.125
+18224	15003	15	3	Honolulu County, Hawaii	72	Accommodation and food services	72	0500000US15003	2492.125	63520.375	1648148.625
+18225	15003	15	3	Honolulu County, Hawaii	81	Other services (except public administration)	81	0500000US15003	2472.875	19971.375	611166.375
+18226	15003	15	3	Honolulu County, Hawaii	99	Industries not classified	99	0500000US15003	27.25	44.5	1568.75
+18228	15005	15	5	Kalawao County, Hawaii	61	Educational services	61	0500000US15005	1.0	0.0	0.0
+18230	15007	15	7	Kauai County	11	Agriculture, forestry, fishing and hunting	11	0500000US15007	2.0	0.0	0.0
+18231	15007	15	7	Kauai County	21	Mining, quarrying, and oil and gas extraction	21	0500000US15007	2.0	0.0	0.0
+18232	15007	15	7	Kauai County	22	Utilities	22	0500000US15007	10.0	0.0	0.0
+18233	15007	15	7	Kauai County	23	Construction	23	0500000US15007	209.0	1106.0	50663.0
+18234	15007	15	7	Kauai County	42	Wholesale trade	42	0500000US15007	84.0	815.0	30849.0
+18235	15007	15	7	Kauai County	51	Information	51	0500000US15007	23.0	211.0	9308.0
+18236	15007	15	7	Kauai County	52	Finance and insurance	52	0500000US15007	70.0	355.0	15955.0
+18237	15007	15	7	Kauai County	53	Real estate and rental and leasing	53	0500000US15007	149.0	959.0	33594.0
+18238	15007	15	7	Kauai County	54	Professional, scientific, and technical services	54	0500000US15007	144.0	505.0	21863.0
+18239	15007	15	7	Kauai County	55	Management of companies and enterprises	55	0500000US15007	8.0	0.0	0.0
+18240	15007	15	7	Kauai County	56	Administrative and support and waste management and remediation services	56	0500000US15007	128.0	1560.0	50749.0
+18241	15007	15	7	Kauai County	61	Educational services	61	0500000US15007	27.0	222.0	5547.0
+18242	15007	15	7	Kauai County	62	Health care and social assistance	62	0500000US15007	176.0	2919.0	149790.0
+18243	15007	15	7	Kauai County	71	Arts, entertainment, and recreation	71	0500000US15007	45.0	887.0	24922.0
+18244	15007	15	7	Kauai County	72	Accommodation and food services	72	0500000US15007	234.0	8447.0	251470.0
+18245	15007	15	7	Kauai County	81	Other services (except public administration)	81	0500000US15007	172.0	1026.0	28565.0
+18247	15007	15	7	Kauai County, Hawaii	11	Agriculture, forestry, fishing and hunting	11	0500000US15007	2.5714285714285716	3.142857142857143	67.42857142857143
+18248	15007	15	7	Kauai County, Hawaii	21	Mining, quarrying, and oil and gas extraction	21	0500000US15007	2.0	0.0	0.0
+18249	15007	15	7	Kauai County, Hawaii	22	Utilities	22	0500000US15007	13.125	178.625	17537.375
+18250	15007	15	7	Kauai County, Hawaii	23	Construction	23	0500000US15007	225.75	1239.75	73956.125
+18251	15007	15	7	Kauai County, Hawaii	42	Wholesale trade	42	0500000US15007	83.375	733.625	36326.75
+18252	15007	15	7	Kauai County, Hawaii	51	Information	51	0500000US15007	23.5	233.875	12265.25
+18253	15007	15	7	Kauai County, Hawaii	52	Finance and insurance	52	0500000US15007	68.5	392.5	19106.125
+18254	15007	15	7	Kauai County, Hawaii	53	Real estate and rental and leasing	53	0500000US15007	153.625	981.875	42735.5
+18255	15007	15	7	Kauai County, Hawaii	54	Professional, scientific, and technical services	54	0500000US15007	151.5	822.625	48016.25
+18256	15007	15	7	Kauai County, Hawaii	55	Management of companies and enterprises	55	0500000US15007	6.875	65.375	2613.375
+18257	15007	15	7	Kauai County, Hawaii	56	Administrative and support and waste management and remediation services	56	0500000US15007	142.125	2005.375	68196.25
+18258	15007	15	7	Kauai County, Hawaii	61	Educational services	61	0500000US15007	31.125	238.25	6754.625
+18259	15007	15	7	Kauai County, Hawaii	62	Health care and social assistance	62	0500000US15007	186.0	3173.5	173672.75
+18260	15007	15	7	Kauai County, Hawaii	71	Arts, entertainment, and recreation	71	0500000US15007	55.875	1133.25	31727.875
+18261	15007	15	7	Kauai County, Hawaii	72	Accommodation and food services	72	0500000US15007	269.5	8940.75	284865.625
+18262	15007	15	7	Kauai County, Hawaii	81	Other services (except public administration)	81	0500000US15007	187.5	999.25	30394.375
+18263	15007	15	7	Kauai County, Hawaii	99	Industries not classified	99	0500000US15007	2.6	1.8	41.6
+18265	15009	15	9	Maui County	11	Agriculture, forestry, fishing and hunting	11	0500000US15009	4.0	0.0	0.0
+18266	15009	15	9	Maui County	22	Utilities	22	0500000US15009	13.0	473.0	39722.0
+18267	15009	15	9	Maui County	23	Construction	23	0500000US15009	428.0	2444.0	139543.0
+18268	15009	15	9	Maui County	42	Wholesale trade	42	0500000US15009	155.0	1235.0	55420.0
+18269	15009	15	9	Maui County	51	Information	51	0500000US15009	67.0	620.0	26784.0
+18270	15009	15	9	Maui County	52	Finance and insurance	52	0500000US15009	153.0	796.0	36240.0
+18271	15009	15	9	Maui County	53	Real estate and rental and leasing	53	0500000US15009	301.0	1940.0	72411.0
+18272	15009	15	9	Maui County	54	Professional, scientific, and technical services	54	0500000US15009	395.0	1523.0	76250.0
+18273	15009	15	9	Maui County	55	Management of companies and enterprises	55	0500000US15009	13.0	0.0	0.0
+18274	15009	15	9	Maui County	56	Administrative and support and waste management and remediation services	56	0500000US15009	272.0	3840.0	106967.0
+18275	15009	15	9	Maui County	61	Educational services	61	0500000US15009	74.0	818.0	23455.0
+18276	15009	15	9	Maui County	62	Health care and social assistance	62	0500000US15009	396.0	6023.0	298373.0
+18277	15009	15	9	Maui County	71	Arts, entertainment, and recreation	71	0500000US15009	119.0	1961.0	48831.0
+18278	15009	15	9	Maui County	72	Accommodation and food services	72	0500000US15009	503.0	21112.0	663888.0
+18279	15009	15	9	Maui County	81	Other services (except public administration)	81	0500000US15009	454.0	2703.0	72951.0
+18281	15009	15	9	Maui County, Hawaii	11	Agriculture, forestry, fishing and hunting	11	0500000US15009	2.3333333333333335	3.1666666666666665	38.666666666666664
+18282	15009	15	9	Maui County, Hawaii	22	Utilities	22	0500000US15009	15.25	470.125	45535.0
+18283	15009	15	9	Maui County, Hawaii	23	Construction	23	0500000US15009	486.375	3500.75	224241.625
+18284	15009	15	9	Maui County, Hawaii	42	Wholesale trade	42	0500000US15009	160.625	1436.0	68292.625
+18285	15009	15	9	Maui County, Hawaii	51	Information	51	0500000US15009	71.0	619.875	31177.625
+18286	15009	15	9	Maui County, Hawaii	52	Finance and insurance	52	0500000US15009	154.375	882.625	46523.0
+18287	15009	15	9	Maui County, Hawaii	53	Real estate and rental and leasing	53	0500000US15009	327.75	2067.125	85795.25
+18288	15009	15	9	Maui County, Hawaii	54	Professional, scientific, and technical services	54	0500000US15009	416.0	1641.75	91840.75
+18289	15009	15	9	Maui County, Hawaii	55	Management of companies and enterprises	55	0500000US15009	11.5	102.75	5770.25
+18290	15009	15	9	Maui County, Hawaii	56	Administrative and support and waste management and remediation services	56	0500000US15009	297.5	4511.0	146465.375
+18291	15009	15	9	Maui County, Hawaii	61	Educational services	61	0500000US15009	75.25	856.0	26868.125
+18292	15009	15	9	Maui County, Hawaii	62	Health care and social assistance	62	0500000US15009	431.125	6694.875	377220.375
+18293	15009	15	9	Maui County, Hawaii	71	Arts, entertainment, and recreation	71	0500000US15009	131.5	2205.75	57876.125
+18294	15009	15	9	Maui County, Hawaii	72	Accommodation and food services	72	0500000US15009	530.5	22629.5	777244.375
+18295	15009	15	9	Maui County, Hawaii	81	Other services (except public administration)	81	0500000US15009	474.75	2822.625	86577.625
+18296	15009	15	9	Maui County, Hawaii	99	Industries not classified	99	0500000US15009	4.75	5.5	139.5

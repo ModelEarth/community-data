@@ -1,0 +1,1397 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+92046	10001	10	1	Kent County	1133	Logging	11	0500000US10001	1.0	0.0	0.0
+92047	10001	10	1	Kent County	1141	Fishing	11	0500000US10001	2.0	0.0	0.0
+92048	10001	10	1	Kent County	1142	Hunting and trapping	11	0500000US10001	1.0	0.0	0.0
+92049	10001	10	1	Kent County	1151	Support activities for crop production	11	0500000US10001	4.0	21.0	834.0
+92050	10001	10	1	Kent County	1152	Support activities for animal production	11	0500000US10001	4.0	0.0	195.0
+92051	10001	10	1	Kent County	2123	Nonmetallic mineral mining and quarrying	21	0500000US10001	4.0	0.0	0.0
+92052	10001	10	1	Kent County	2131	Support activities for mining	21	0500000US10001	1.0	0.0	0.0
+92053	10001	10	1	Kent County	2211	Electric power generation, transmission and distribution	22	0500000US10001	1.0	0.0	0.0
+92054	10001	10	1	Kent County	2212	Natural gas distribution	22	0500000US10001	3.0	0.0	0.0
+92055	10001	10	1	Kent County	2213	Water, sewage and other systems	22	0500000US10001	3.0	0.0	0.0
+92056	10001	10	1	Kent County	2361	Residential building construction	23	0500000US10001	71.0	184.0	6936.0
+92057	10001	10	1	Kent County	2362	Nonresidential building construction	23	0500000US10001	14.0	104.0	4259.0
+92058	10001	10	1	Kent County	2371	Utility system construction	23	0500000US10001	11.0	190.0	9418.0
+92059	10001	10	1	Kent County	2372	Land subdivision	23	0500000US10001	1.0	0.0	0.0
+92060	10001	10	1	Kent County	2373	Highway, street, and bridge construction	23	0500000US10001	6.0	297.0	15272.0
+92061	10001	10	1	Kent County	2381	Foundation, structure, and building exterior contractors	23	0500000US10001	54.0	259.0	8070.0
+92062	10001	10	1	Kent County	2382	Building equipment contractors	23	0500000US10001	89.0	670.0	31392.0
+92063	10001	10	1	Kent County	2383	Building finishing contractors	23	0500000US10001	38.0	169.0	7284.0
+92064	10001	10	1	Kent County	2389	Other specialty trade contractors	23	0500000US10001	36.0	148.0	5584.0
+92065	10001	10	1	Kent County	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10001	1.0	0.0	0.0
+92066	10001	10	1	Kent County	3115	Dairy product manufacturing	31	0500000US10001	2.0	0.0	0.0
+92067	10001	10	1	Kent County	3116	Animal slaughtering and processing	31	0500000US10001	3.0	0.0	0.0
+92068	10001	10	1	Kent County	3118	Bakeries and tortilla manufacturing	31	0500000US10001	2.0	0.0	0.0
+92069	10001	10	1	Kent County	3119	Other food manufacturing	31	0500000US10001	1.0	0.0	0.0
+92070	10001	10	1	Kent County	3121	Beverage manufacturing	31	0500000US10001	3.0	0.0	54.0
+92071	10001	10	1	Kent County	3133	Textile and fabric finishing and fabric coating mills	31	0500000US10001	1.0	0.0	0.0
+92072	10001	10	1	Kent County	3149	Other textile product mills	31	0500000US10001	2.0	0.0	0.0
+92073	10001	10	1	Kent County	3151	Apparel knitting mills	31	0500000US10001	1.0	0.0	0.0
+92074	10001	10	1	Kent County	3159	Apparel accessories and other apparel manufacturing	31	0500000US10001	1.0	0.0	0.0
+92075	10001	10	1	Kent County	3169	Other leather and allied product manufacturing	31	0500000US10001	1.0	0.0	0.0
+92076	10001	10	1	Kent County	3219	Other wood product manufacturing	32	0500000US10001	2.0	0.0	0.0
+92077	10001	10	1	Kent County	3222	Converted paper product manufacturing	32	0500000US10001	4.0	280.0	20898.0
+92078	10001	10	1	Kent County	3231	Printing and related support activities	32	0500000US10001	6.0	0.0	1830.0
+92079	10001	10	1	Kent County	3241	Petroleum and coal products manufacturing	32	0500000US10001	1.0	0.0	0.0
+92080	10001	10	1	Kent County	3251	Basic chemical manufacturing	32	0500000US10001	1.0	0.0	0.0
+92081	10001	10	1	Kent County	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10001	3.0	0.0	0.0
+92082	10001	10	1	Kent County	3254	Pharmaceutical and medicine manufacturing	32	0500000US10001	1.0	0.0	0.0
+92083	10001	10	1	Kent County	3255	Paint, coating, and adhesive manufacturing	32	0500000US10001	1.0	0.0	0.0
+92084	10001	10	1	Kent County	3256	Soap, cleaning compound, and toilet preparation manufacturing	32	0500000US10001	1.0	0.0	0.0
+92085	10001	10	1	Kent County	3261	Plastics product manufacturing	32	0500000US10001	3.0	0.0	0.0
+92086	10001	10	1	Kent County	3272	Glass and glass product manufacturing	32	0500000US10001	1.0	0.0	0.0
+92087	10001	10	1	Kent County	3273	Cement and concrete product manufacturing	32	0500000US10001	3.0	0.0	0.0
+92088	10001	10	1	Kent County	3312	Steel product manufacturing from purchased steel	33	0500000US10001	1.0	0.0	0.0
+92089	10001	10	1	Kent County	3323	Architectural and structural metals manufacturing	33	0500000US10001	3.0	0.0	0.0
+92090	10001	10	1	Kent County	3325	Hardware manufacturing	33	0500000US10001	1.0	0.0	0.0
+92091	10001	10	1	Kent County	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10001	8.0	0.0	0.0
+92092	10001	10	1	Kent County	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10001	2.0	0.0	0.0
+92093	10001	10	1	Kent County	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	33	0500000US10001	1.0	0.0	0.0
+92094	10001	10	1	Kent County	3335	Metalworking machinery manufacturing	33	0500000US10001	1.0	0.0	0.0
+92095	10001	10	1	Kent County	3339	Other general purpose machinery manufacturing	33	0500000US10001	1.0	0.0	0.0
+92096	10001	10	1	Kent County	3372	Office furniture (including fixtures) manufacturing	33	0500000US10001	1.0	0.0	0.0
+92097	10001	10	1	Kent County	3391	Medical equipment and supplies manufacturing	33	0500000US10001	5.0	0.0	0.0
+92098	10001	10	1	Kent County	3399	Other miscellaneous manufacturing	33	0500000US10001	4.0	0.0	0.0
+92099	10001	10	1	Kent County	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10001	9.0	0.0	2722.0
+92100	10001	10	1	Kent County	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10001	5.0	0.0	605.0
+92101	10001	10	1	Kent County	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10001	1.0	0.0	0.0
+92102	10001	10	1	Kent County	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10001	5.0	0.0	0.0
+92103	10001	10	1	Kent County	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10001	2.0	0.0	0.0
+92104	10001	10	1	Kent County	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10001	5.0	67.0	3173.0
+92105	10001	10	1	Kent County	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10001	8.0	0.0	1437.0
+92106	10001	10	1	Kent County	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10001	20.0	0.0	7445.0
+92107	10001	10	1	Kent County	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10001	9.0	63.0	2952.0
+92108	10001	10	1	Kent County	4241	Paper and paper product merchant wholesalers	42	0500000US10001	1.0	0.0	0.0
+92109	10001	10	1	Kent County	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10001	5.0	0.0	299.0
+92110	10001	10	1	Kent County	4244	Grocery and related product merchant wholesalers	42	0500000US10001	11.0	204.0	7523.0
+92111	10001	10	1	Kent County	4246	Chemical and allied products merchant wholesalers	42	0500000US10001	3.0	0.0	0.0
+92112	10001	10	1	Kent County	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10001	4.0	0.0	0.0
+92113	10001	10	1	Kent County	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10001	3.0	0.0	0.0
+92114	10001	10	1	Kent County	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10001	7.0	66.0	2797.0
+92115	10001	10	1	Kent County	4251	Wholesale electronic markets and agents and brokers	42	0500000US10001	14.0	27.0	1084.0
+92116	10001	10	1	Kent County	4411	Automobile dealers	44	0500000US10001	36.0	1288.0	52337.0
+92117	10001	10	1	Kent County	4412	Other motor vehicle dealers	44	0500000US10001	9.0	136.0	4054.0
+92118	10001	10	1	Kent County	4413	Automotive parts, accessories, and tire stores	44	0500000US10001	32.0	282.0	7808.0
+92119	10001	10	1	Kent County	4421	Furniture stores	44	0500000US10001	11.0	0.0	2557.0
+92120	10001	10	1	Kent County	4422	Home furnishings stores	44	0500000US10001	6.0	0.0	0.0
+92121	10001	10	1	Kent County	4431	Electronics and appliance stores	44	0500000US10001	26.0	0.0	5153.0
+92122	10001	10	1	Kent County	4441	Building material and supplies dealers	44	0500000US10001	31.0	638.0	20154.0
+92123	10001	10	1	Kent County	4442	Lawn and garden equipment and supplies stores	44	0500000US10001	14.0	173.0	6384.0
+92124	10001	10	1	Kent County	4451	Grocery stores	44	0500000US10001	35.0	931.0	17910.0
+92125	10001	10	1	Kent County	4452	Specialty food stores	44	0500000US10001	9.0	44.0	1119.0
+92126	10001	10	1	Kent County	4453	Beer, wine, and liquor stores	44	0500000US10001	39.0	122.0	2013.0
+92127	10001	10	1	Kent County	4461	Health and personal care stores	44	0500000US10001	48.0	536.0	20747.0
+92128	10001	10	1	Kent County	4471	Gasoline stations	44	0500000US10001	49.0	527.0	9529.0
+92129	10001	10	1	Kent County	4481	Clothing stores	44	0500000US10001	40.0	437.0	14840.0
+92130	10001	10	1	Kent County	4482	Shoe stores	44	0500000US10001	10.0	92.0	1129.0
+92131	10001	10	1	Kent County	4483	Jewelry, luggage, and leather goods stores	44	0500000US10001	11.0	65.0	1580.0
+92132	10001	10	1	Kent County	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10001	16.0	188.0	3017.0
+92133	10001	10	1	Kent County	4512	Book stores and news dealers	45	0500000US10001	4.0	0.0	0.0
+92134	10001	10	1	Kent County	4521	Department stores	45	0500000US10001	7.0	899.0	13947.0
+92135	10001	10	1	Kent County	4529	Other general merchandise stores	45	0500000US10001	25.0	0.0	0.0
+92136	10001	10	1	Kent County	4531	Florists	45	0500000US10001	6.0	44.0	675.0
+92137	10001	10	1	Kent County	4532	Office supplies, stationery, and gift stores	45	0500000US10001	15.0	142.0	1931.0
+92138	10001	10	1	Kent County	4533	Used merchandise stores	45	0500000US10001	13.0	75.0	1460.0
+92139	10001	10	1	Kent County	4539	Other miscellaneous store retailers	45	0500000US10001	30.0	191.0	4979.0
+92140	10001	10	1	Kent County	4541	Electronic shopping and mail-order houses	45	0500000US10001	16.0	0.0	1956.0
+92141	10001	10	1	Kent County	4542	Vending machine operators	45	0500000US10001	2.0	0.0	0.0
+92142	10001	10	1	Kent County	4543	Direct selling establishments	45	0500000US10001	24.0	0.0	5636.0
+92143	10001	10	1	Kent County	4811	Scheduled air transportation	48	0500000US10001	1.0	0.0	0.0
+92144	10001	10	1	Kent County	4831	Deep sea, coastal, and great lakes water transportation	48	0500000US10001	1.0	0.0	0.0
+92145	10001	10	1	Kent County	4841	General freight trucking	48	0500000US10001	14.0	0.0	0.0
+92146	10001	10	1	Kent County	4842	Specialized freight trucking	48	0500000US10001	19.0	0.0	0.0
+92147	10001	10	1	Kent County	4853	Taxi and limousine service	48	0500000US10001	3.0	0.0	254.0
+92148	10001	10	1	Kent County	4854	School and employee bus transportation	48	0500000US10001	23.0	465.0	6003.0
+92149	10001	10	1	Kent County	4859	Other transit and ground passenger transportation	48	0500000US10001	6.0	21.0	377.0
+92150	10001	10	1	Kent County	4872	Scenic and sightseeing transportation, water	48	0500000US10001	1.0	0.0	0.0
+92151	10001	10	1	Kent County	4881	Support activities for air transportation	48	0500000US10001	3.0	0.0	0.0
+92152	10001	10	1	Kent County	4882	Support activities for rail transportation	48	0500000US10001	1.0	0.0	0.0
+92153	10001	10	1	Kent County	4884	Support activities for road transportation	48	0500000US10001	7.0	0.0	2914.0
+92154	10001	10	1	Kent County	4885	Freight transportation arrangement	48	0500000US10001	3.0	3.0	85.0
+92155	10001	10	1	Kent County	4921	Couriers and express delivery services	49	0500000US10001	4.0	0.0	0.0
+92156	10001	10	1	Kent County	4922	Local messengers and local delivery	49	0500000US10001	4.0	0.0	0.0
+92157	10001	10	1	Kent County	4931	Warehousing and storage	49	0500000US10001	6.0	873.0	35845.0
+92158	10001	10	1	Kent County	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10001	6.0	173.0	6542.0
+92159	10001	10	1	Kent County	5112	Software publishers	51	0500000US10001	2.0	0.0	0.0
+92160	10001	10	1	Kent County	5121	Motion picture and video industries	51	0500000US10001	8.0	93.0	3896.0
+92161	10001	10	1	Kent County	5151	Radio and television broadcasting	51	0500000US10001	8.0	51.0	1936.0
+92162	10001	10	1	Kent County	5171	Wired telecommunications carriers	51	0500000US10001	19.0	0.0	0.0
+92163	10001	10	1	Kent County	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10001	6.0	0.0	0.0
+92164	10001	10	1	Kent County	5179	Other telecommunications	51	0500000US10001	2.0	0.0	0.0
+92165	10001	10	1	Kent County	5182	Data processing, hosting, and related services	51	0500000US10001	7.0	0.0	1621.0
+92166	10001	10	1	Kent County	5191	Other information services	51	0500000US10001	7.0	72.0	2947.0
+92167	10001	10	1	Kent County	5221	Depository credit intermediation	52	0500000US10001	49.0	497.0	22352.0
+92168	10001	10	1	Kent County	5222	Nondepository credit intermediation	52	0500000US10001	22.0	124.0	6219.0
+92169	10001	10	1	Kent County	5223	Activities related to credit intermediation	52	0500000US10001	16.0	42.0	1221.0
+92170	10001	10	1	Kent County	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10001	13.0	128.0	9862.0
+92171	10001	10	1	Kent County	5239	Other financial investment activities	52	0500000US10001	16.0	77.0	4672.0
+92172	10001	10	1	Kent County	5241	Insurance carriers	52	0500000US10001	11.0	96.0	4506.0
+92173	10001	10	1	Kent County	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10001	53.0	266.0	14670.0
+92174	10001	10	1	Kent County	5311	Lessors of real estate	53	0500000US10001	47.0	125.0	3459.0
+92175	10001	10	1	Kent County	5312	Offices of real estate agents and brokers	53	0500000US10001	25.0	0.0	1968.0
+92176	10001	10	1	Kent County	5313	Activities related to real estate	53	0500000US10001	22.0	98.0	3966.0
+92177	10001	10	1	Kent County	5321	Automotive equipment rental and leasing	53	0500000US10001	6.0	62.0	1522.0
+92178	10001	10	1	Kent County	5322	Consumer goods rental	53	0500000US10001	13.0	70.0	2520.0
+92179	10001	10	1	Kent County	5323	General rental centers	53	0500000US10001	2.0	0.0	0.0
+92180	10001	10	1	Kent County	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10001	3.0	0.0	0.0
+92181	10001	10	1	Kent County	5411	Legal services	54	0500000US10001	52.0	373.0	28126.0
+92182	10001	10	1	Kent County	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10001	37.0	310.0	8997.0
+92183	10001	10	1	Kent County	5413	Architectural, engineering, and related services	54	0500000US10001	29.0	0.0	0.0
+92184	10001	10	1	Kent County	5414	Specialized design services	54	0500000US10001	5.0	0.0	0.0
+92185	10001	10	1	Kent County	5415	Computer systems design and related services	54	0500000US10001	66.0	0.0	0.0
+92186	10001	10	1	Kent County	5416	Management, scientific, and technical consulting services	54	0500000US10001	45.0	118.0	7937.0
+92187	10001	10	1	Kent County	5417	Scientific research and development services	54	0500000US10001	4.0	0.0	0.0
+92188	10001	10	1	Kent County	5418	Advertising, public relations, and related services	54	0500000US10001	12.0	0.0	2447.0
+92189	10001	10	1	Kent County	5419	Other professional, scientific, and technical services	54	0500000US10001	29.0	203.0	8235.0
+92190	10001	10	1	Kent County	5511	Management of companies and enterprises	55	0500000US10001	27.0	109.0	5211.0
+92191	10001	10	1	Kent County	5611	Office administrative services	56	0500000US10001	9.0	0.0	0.0
+92192	10001	10	1	Kent County	5612	Facilities support services	56	0500000US10001	2.0	0.0	0.0
+92193	10001	10	1	Kent County	5613	Employment services	56	0500000US10001	19.0	890.0	16629.0
+92194	10001	10	1	Kent County	5614	Business support services	56	0500000US10001	18.0	190.0	6875.0
+92195	10001	10	1	Kent County	5615	Travel arrangement and reservation services	56	0500000US10001	8.0	26.0	1074.0
+92196	10001	10	1	Kent County	5616	Investigation and security services	56	0500000US10001	10.0	154.0	6345.0
+92197	10001	10	1	Kent County	5617	Services to buildings and dwellings	56	0500000US10001	91.0	0.0	0.0
+92198	10001	10	1	Kent County	5619	Other support services	56	0500000US10001	4.0	37.0	793.0
+92199	10001	10	1	Kent County	5621	Waste collection	56	0500000US10001	5.0	0.0	4029.0
+92200	10001	10	1	Kent County	5629	Remediation and other waste management services	56	0500000US10001	5.0	24.0	661.0
+92201	10001	10	1	Kent County	6111	Elementary and secondary schools	61	0500000US10001	11.0	237.0	4318.0
+92202	10001	10	1	Kent County	6113	Colleges, universities, and professional schools	61	0500000US10001	1.0	0.0	0.0
+92203	10001	10	1	Kent County	6114	Business schools and computer and management training	61	0500000US10001	2.0	0.0	0.0
+92204	10001	10	1	Kent County	6115	Technical and trade schools	61	0500000US10001	5.0	19.0	1657.0
+92205	10001	10	1	Kent County	6116	Other schools and instruction	61	0500000US10001	14.0	68.0	956.0
+92206	10001	10	1	Kent County	6117	Educational support services	61	0500000US10001	7.0	16.0	1893.0
+92207	10001	10	1	Kent County	6211	Offices of physicians	62	0500000US10001	99.0	1160.0	65673.0
+92208	10001	10	1	Kent County	6212	Offices of dentists	62	0500000US10001	43.0	350.0	19701.0
+92209	10001	10	1	Kent County	6213	Offices of other health practitioners	62	0500000US10001	74.0	486.0	19395.0
+92210	10001	10	1	Kent County	6214	Outpatient care centers	62	0500000US10001	22.0	399.0	14562.0
+92211	10001	10	1	Kent County	6215	Medical and diagnostic laboratories	62	0500000US10001	6.0	0.0	0.0
+92212	10001	10	1	Kent County	6216	Home health care services	62	0500000US10001	7.0	713.0	23602.0
+92213	10001	10	1	Kent County	6219	Other ambulatory health care services	62	0500000US10001	6.0	148.0	4609.0
+92214	10001	10	1	Kent County	6221	General medical and surgical hospitals	62	0500000US10001	1.0	0.0	0.0
+92215	10001	10	1	Kent County	6222	Psychiatric and substance abuse hospitals	62	0500000US10001	1.0	0.0	0.0
+92216	10001	10	1	Kent County	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10001	5.0	670.0	19981.0
+92217	10001	10	1	Kent County	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10001	15.0	422.0	9829.0
+92218	10001	10	1	Kent County	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10001	5.0	0.0	0.0
+92219	10001	10	1	Kent County	6239	Other residential care facilities	62	0500000US10001	4.0	67.0	2208.0
+92220	10001	10	1	Kent County	6241	Individual and family services	62	0500000US10001	50.0	654.0	13536.0
+92221	10001	10	1	Kent County	6242	Community food and housing, and emergency and other relief services	62	0500000US10001	9.0	0.0	1036.0
+92222	10001	10	1	Kent County	6243	Vocational rehabilitation services	62	0500000US10001	6.0	444.0	7467.0
+92223	10001	10	1	Kent County	6244	Child day care services	62	0500000US10001	43.0	648.0	10881.0
+92224	10001	10	1	Kent County	7111	Performing arts companies	71	0500000US10001	1.0	0.0	0.0
+92225	10001	10	1	Kent County	7112	Spectator sports	71	0500000US10001	10.0	141.0	9563.0
+92226	10001	10	1	Kent County	7113	Promoters of performing arts, sports, and similar events	71	0500000US10001	4.0	0.0	0.0
+92227	10001	10	1	Kent County	7114	Agents and managers for artists, athletes, entertainers, and other public figures	71	0500000US10001	2.0	0.0	0.0
+92228	10001	10	1	Kent County	7115	Independent artists, writers, and performers	71	0500000US10001	7.0	0.0	0.0
+92229	10001	10	1	Kent County	7121	Museums, historical sites, and similar institutions	71	0500000US10001	4.0	0.0	380.0
+92230	10001	10	1	Kent County	7131	Amusement parks and arcades	71	0500000US10001	2.0	0.0	0.0
+92231	10001	10	1	Kent County	7132	Gambling industries	71	0500000US10001	4.0	0.0	0.0
+92232	10001	10	1	Kent County	7139	Other amusement and recreation industries	71	0500000US10001	23.0	431.0	5088.0
+92233	10001	10	1	Kent County	7211	Traveler accommodation	72	0500000US10001	41.0	2064.0	46785.0
+92234	10001	10	1	Kent County	7223	Special food services	72	0500000US10001	17.0	265.0	4957.0
+92235	10001	10	1	Kent County	7224	Drinking places (alcoholic beverages)	72	0500000US10001	10.0	0.0	1408.0
+92236	10001	10	1	Kent County	7225	Restaurants and other eating places	72	0500000US10001	203.0	3741.0	45735.0
+92237	10001	10	1	Kent County	8111	Automotive repair and maintenance	81	0500000US10001	67.0	389.0	11794.0
+92238	10001	10	1	Kent County	8112	Electronic and precision equipment repair and maintenance	81	0500000US10001	5.0	0.0	0.0
+92239	10001	10	1	Kent County	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10001	9.0	38.0	1295.0
+92240	10001	10	1	Kent County	8114	Personal and household goods repair and maintenance	81	0500000US10001	6.0	0.0	209.0
+92241	10001	10	1	Kent County	8121	Personal care services	81	0500000US10001	62.0	341.0	6057.0
+92242	10001	10	1	Kent County	8122	Death care services	81	0500000US10001	13.0	96.0	2707.0
+92243	10001	10	1	Kent County	8123	Drycleaning and laundry services	81	0500000US10001	16.0	152.0	3115.0
+92244	10001	10	1	Kent County	8129	Other personal services	81	0500000US10001	12.0	0.0	414.0
+92245	10001	10	1	Kent County	8131	Religious organizations	81	0500000US10001	72.0	404.0	7736.0
+92246	10001	10	1	Kent County	8132	Grantmaking and giving services	81	0500000US10001	6.0	23.0	1057.0
+92247	10001	10	1	Kent County	8133	Social advocacy organizations	81	0500000US10001	3.0	0.0	0.0
+92248	10001	10	1	Kent County	8134	Civic and social organizations	81	0500000US10001	17.0	0.0	0.0
+92249	10001	10	1	Kent County	8139	Business, professional, labor, political, and similar organizations	81	0500000US10001	33.0	139.0	4607.0
+92250	10001	10	1	Kent County, Delaware	1133	Logging	11	0500000US10001	1.0	0.0	0.0
+92251	10001	10	1	Kent County, Delaware	1141	Fishing	11	0500000US10001	2.0	0.0	0.0
+92252	10001	10	1	Kent County, Delaware	1142	Hunting and trapping	11	0500000US10001	1.0	0.0	0.0
+92253	10001	10	1	Kent County, Delaware	1151	Support activities for crop production	11	0500000US10001	3.0	15.0	871.7142857142857
+92254	10001	10	1	Kent County, Delaware	1152	Support activities for animal production	11	0500000US10001	3.5	8.0	173.625
+92255	10001	10	1	Kent County, Delaware	2123	Nonmetallic mineral mining and quarrying	21	0500000US10001	4.2	3.0	231.0
+92256	10001	10	1	Kent County, Delaware	2131	Support activities for mining	21	0500000US10001	2.0	16.2	1747.0
+92257	10001	10	1	Kent County, Delaware	2211	Electric power generation, transmission and distribution	22	0500000US10001	5.375	44.375	5113.375
+92258	10001	10	1	Kent County, Delaware	2212	Natural gas distribution	22	0500000US10001	4.125	124.75	16790.875
+92259	10001	10	1	Kent County, Delaware	2213	Water, sewage and other systems	22	0500000US10001	2.0	0.0	0.0
+92260	10001	10	1	Kent County, Delaware	2361	Residential building construction	23	0500000US10001	79.625	254.75	13405.75
+92261	10001	10	1	Kent County, Delaware	2362	Nonresidential building construction	23	0500000US10001	13.75	96.5	4671.625
+92262	10001	10	1	Kent County, Delaware	2371	Utility system construction	23	0500000US10001	10.125	161.5	12356.25
+92263	10001	10	1	Kent County, Delaware	2373	Highway, street, and bridge construction	23	0500000US10001	5.0	276.0	16217.0
+92264	10001	10	1	Kent County, Delaware	2379	Other heavy and civil engineering construction	23	0500000US10001	1.0	0.0	0.0
+92265	10001	10	1	Kent County, Delaware	2381	Foundation, structure, and building exterior contractors	23	0500000US10001	46.125	302.875	14229.875
+92266	10001	10	1	Kent County, Delaware	2382	Building equipment contractors	23	0500000US10001	95.5	710.125	38348.0
+92267	10001	10	1	Kent County, Delaware	2383	Building finishing contractors	23	0500000US10001	43.875	236.75	10876.375
+92268	10001	10	1	Kent County, Delaware	2389	Other specialty trade contractors	23	0500000US10001	34.125	206.125	10437.625
+92269	10001	10	1	Kent County, Delaware	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10001	1.25	0.0	0.0
+92270	10001	10	1	Kent County, Delaware	3115	Dairy product manufacturing	31	0500000US10001	1.5	0.0	0.0
+92271	10001	10	1	Kent County, Delaware	3116	Animal slaughtering and processing	31	0500000US10001	3.125	519.875	17516.125
+92272	10001	10	1	Kent County, Delaware	3118	Bakeries and tortilla manufacturing	31	0500000US10001	2.8	3.0	281.0
+92273	10001	10	1	Kent County, Delaware	3119	Other food manufacturing	31	0500000US10001	2.5	0.0	0.0
+92274	10001	10	1	Kent County, Delaware	3121	Beverage manufacturing	31	0500000US10001	7.125	58.125	1312.75
+92275	10001	10	1	Kent County, Delaware	3133	Textile and fabric finishing and fabric coating mills	31	0500000US10001	1.25	0.0	0.0
+92276	10001	10	1	Kent County, Delaware	3141	Textile furnishings mills	31	0500000US10001	1.0	0.0	0.0
+92277	10001	10	1	Kent County, Delaware	3149	Other textile product mills	31	0500000US10001	2.0	0.0	0.0
+92278	10001	10	1	Kent County, Delaware	3151	Apparel knitting mills	31	0500000US10001	1.0	0.0	0.0
+92279	10001	10	1	Kent County, Delaware	3152	Cut and sew apparel manufacturing	31	0500000US10001	1.0	0.0	0.0
+92280	10001	10	1	Kent County, Delaware	3159	Apparel accessories and other apparel manufacturing	31	0500000US10001	1.0	0.0	0.0
+92281	10001	10	1	Kent County, Delaware	3169	Other leather and allied product manufacturing	31	0500000US10001	1.0	0.0	0.0
+92282	10001	10	1	Kent County, Delaware	3219	Other wood product manufacturing	32	0500000US10001	2.5	0.0	0.0
+92283	10001	10	1	Kent County, Delaware	3222	Converted paper product manufacturing	32	0500000US10001	2.25	0.0	0.0
+92284	10001	10	1	Kent County, Delaware	3231	Printing and related support activities	32	0500000US10001	5.0	47.4	1336.8
+92285	10001	10	1	Kent County, Delaware	3241	Petroleum and coal products manufacturing	32	0500000US10001	1.0	0.0	0.0
+92286	10001	10	1	Kent County, Delaware	3251	Basic chemical manufacturing	32	0500000US10001	1.0	0.0	0.0
+92287	10001	10	1	Kent County, Delaware	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10001	3.875	49.125	3571.75
+92288	10001	10	1	Kent County, Delaware	3254	Pharmaceutical and medicine manufacturing	32	0500000US10001	2.5	2.1666666666666665	156.33333333333334
+92289	10001	10	1	Kent County, Delaware	3255	Paint, coating, and adhesive manufacturing	32	0500000US10001	1.0	0.0	0.0
+92290	10001	10	1	Kent County, Delaware	3256	Soap, cleaning compound, and toilet preparation manufacturing	32	0500000US10001	2.142857142857143	258.14285714285717	19113.0
+92291	10001	10	1	Kent County, Delaware	3261	Plastics product manufacturing	32	0500000US10001	2.0	0.0	0.0
+92292	10001	10	1	Kent County, Delaware	3271	Clay product and refractory manufacturing	32	0500000US10001	1.0	0.0	0.0
+92293	10001	10	1	Kent County, Delaware	3272	Glass and glass product manufacturing	32	0500000US10001	1.3333333333333333	0.0	0.0
+92294	10001	10	1	Kent County, Delaware	3273	Cement and concrete product manufacturing	32	0500000US10001	3.375	19.5	745.125
+92295	10001	10	1	Kent County, Delaware	3312	Steel product manufacturing from purchased steel	33	0500000US10001	1.0	0.0	0.0
+92296	10001	10	1	Kent County, Delaware	3323	Architectural and structural metals manufacturing	33	0500000US10001	3.0	157.625	7618.125
+92297	10001	10	1	Kent County, Delaware	3324	Boiler, tank, and shipping container manufacturing	33	0500000US10001	1.0	0.0	0.0
+92298	10001	10	1	Kent County, Delaware	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10001	6.75	18.75	635.625
+92299	10001	10	1	Kent County, Delaware	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10001	1.75	0.0	0.0
+92300	10001	10	1	Kent County, Delaware	3333	Commercial and service industry machinery manufacturing	33	0500000US10001	1.0	0.0	0.0
+92301	10001	10	1	Kent County, Delaware	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	33	0500000US10001	1.0	0.0	0.0
+92302	10001	10	1	Kent County, Delaware	3335	Metalworking machinery manufacturing	33	0500000US10001	1.0	0.0	0.0
+92303	10001	10	1	Kent County, Delaware	3341	Computer and peripheral equipment manufacturing	33	0500000US10001	1.0	0.0	0.0
+92304	10001	10	1	Kent County, Delaware	3342	Communications equipment manufacturing	33	0500000US10001	1.0	0.0	0.0
+92305	10001	10	1	Kent County, Delaware	3345	Navigational, measuring, electromedical, and control instruments manufacturing	33	0500000US10001	3.0	8.0	744.0
+92306	10001	10	1	Kent County, Delaware	3351	Electric lighting equipment manufacturing	33	0500000US10001	1.0	0.0	0.0
+92307	10001	10	1	Kent County, Delaware	3359	Other electrical equipment and component manufacturing	33	0500000US10001	2.5	3.5	294.0
+92308	10001	10	1	Kent County, Delaware	3371	Household and institutional furniture and kitchen cabinet manufacturing	33	0500000US10001	1.0	0.0	0.0
+92309	10001	10	1	Kent County, Delaware	3372	Office furniture (including fixtures) manufacturing	33	0500000US10001	2.0	0.0	0.0
+92310	10001	10	1	Kent County, Delaware	3391	Medical equipment and supplies manufacturing	33	0500000US10001	3.375	134.625	9611.875
+92311	10001	10	1	Kent County, Delaware	3399	Other miscellaneous manufacturing	33	0500000US10001	3.25	11.375	437.5
+92312	10001	10	1	Kent County, Delaware	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10001	10.0	85.125	4320.875
+92313	10001	10	1	Kent County, Delaware	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10001	4.625	27.0	1561.75
+92314	10001	10	1	Kent County, Delaware	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10001	4.75	24.25	1396.75
+92315	10001	10	1	Kent County, Delaware	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10001	7.625	43.625	4152.125
+92316	10001	10	1	Kent County, Delaware	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10001	2.25	0.0	0.0
+92317	10001	10	1	Kent County, Delaware	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10001	6.125	69.375	3633.75
+92318	10001	10	1	Kent County, Delaware	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10001	9.625	30.25	1866.75
+92319	10001	10	1	Kent County, Delaware	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10001	22.125	145.5	11461.25
+92320	10001	10	1	Kent County, Delaware	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10001	9.375	41.375	2537.875
+92321	10001	10	1	Kent County, Delaware	4241	Paper and paper product merchant wholesalers	42	0500000US10001	1.5	0.0	0.0
+92322	10001	10	1	Kent County, Delaware	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10001	8.375	53.0	3314.875
+92323	10001	10	1	Kent County, Delaware	4243	Apparel, piece goods, and notions merchant wholesalers	42	0500000US10001	2.4285714285714284	6.0	1107.857142857143
+92324	10001	10	1	Kent County, Delaware	4244	Grocery and related product merchant wholesalers	42	0500000US10001	14.625	227.5	12401.625
+92325	10001	10	1	Kent County, Delaware	4245	Farm product raw material merchant wholesalers	42	0500000US10001	1.0	0.0	0.0
+92326	10001	10	1	Kent County, Delaware	4246	Chemical and allied products merchant wholesalers	42	0500000US10001	4.0	8.25	980.75
+92327	10001	10	1	Kent County, Delaware	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10001	3.3333333333333335	12.833333333333334	771.0
+92328	10001	10	1	Kent County, Delaware	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10001	2.5	0.0	0.0
+92329	10001	10	1	Kent County, Delaware	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10001	10.75	112.875	5405.5
+92330	10001	10	1	Kent County, Delaware	4251	Wholesale electronic markets and agents and brokers	42	0500000US10001	15.25	25.25	1897.25
+92331	10001	10	1	Kent County, Delaware	4411	Automobile dealers	44	0500000US10001	41.125	1385.75	70352.25
+92332	10001	10	1	Kent County, Delaware	4412	Other motor vehicle dealers	44	0500000US10001	8.25	98.625	4318.5
+92333	10001	10	1	Kent County, Delaware	4413	Automotive parts, accessories, and tire stores	44	0500000US10001	31.5	312.0	9290.375
+92334	10001	10	1	Kent County, Delaware	4421	Furniture stores	44	0500000US10001	11.25	89.125	3257.0
+92335	10001	10	1	Kent County, Delaware	4422	Home furnishings stores	44	0500000US10001	5.625	43.375	1276.0
+92336	10001	10	1	Kent County, Delaware	4431	Electronics and appliance stores	44	0500000US10001	20.0	137.25	4286.875
+92337	10001	10	1	Kent County, Delaware	4441	Building material and supplies dealers	44	0500000US10001	32.125	715.125	24254.75
+92338	10001	10	1	Kent County, Delaware	4442	Lawn and garden equipment and supplies stores	44	0500000US10001	13.75	172.25	7220.25
+92339	10001	10	1	Kent County, Delaware	4451	Grocery stores	44	0500000US10001	38.75	1107.5	21450.375
+92340	10001	10	1	Kent County, Delaware	4452	Specialty food stores	44	0500000US10001	6.875	57.375	1199.0
+92341	10001	10	1	Kent County, Delaware	4453	Beer, wine, and liquor stores	44	0500000US10001	43.25	133.5	2317.375
+92342	10001	10	1	Kent County, Delaware	4461	Health and personal care stores	44	0500000US10001	51.375	569.0	18015.875
+92343	10001	10	1	Kent County, Delaware	4471	Gasoline stations	44	0500000US10001	48.125	475.25	9103.0
+92344	10001	10	1	Kent County, Delaware	4481	Clothing stores	44	0500000US10001	41.375	483.125	6431.125
+92345	10001	10	1	Kent County, Delaware	4482	Shoe stores	44	0500000US10001	10.0	69.625	1242.125
+92346	10001	10	1	Kent County, Delaware	4483	Jewelry, luggage, and leather goods stores	44	0500000US10001	11.25	69.375	1734.5
+92347	10001	10	1	Kent County, Delaware	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10001	13.25	187.75	3128.75
+92348	10001	10	1	Kent County, Delaware	4512	Book stores and news dealers	45	0500000US10001	3.875	23.375	324.875
+92349	10001	10	1	Kent County, Delaware	4521	Department stores	45	0500000US10001	7.0	819.25	13274.5
+92350	10001	10	1	Kent County, Delaware	4522	Department stores	45	0500000US10001	5.0	509.0	8726.75
+92351	10001	10	1	Kent County, Delaware	4523	General merchandise stores, including warehouse clubs and supercenters	45	0500000US10001	31.0	1424.25	33139.75
+92352	10001	10	1	Kent County, Delaware	4529	Other general merchandise stores	45	0500000US10001	25.75	669.25	26551.75
+92353	10001	10	1	Kent County, Delaware	4531	Florists	45	0500000US10001	4.0	34.0	613.75
+92354	10001	10	1	Kent County, Delaware	4532	Office supplies, stationery, and gift stores	45	0500000US10001	10.0	128.25	2025.75
+92355	10001	10	1	Kent County, Delaware	4533	Used merchandise stores	45	0500000US10001	12.25	103.625	2003.625
+92356	10001	10	1	Kent County, Delaware	4539	Other miscellaneous store retailers	45	0500000US10001	37.375	214.5	6384.625
+92357	10001	10	1	Kent County, Delaware	4541	Electronic shopping and mail-order houses	45	0500000US10001	27.25	133.5	5152.0
+92358	10001	10	1	Kent County, Delaware	4542	Vending machine operators	45	0500000US10001	2.875	18.125	960.875
+92359	10001	10	1	Kent County, Delaware	4543	Direct selling establishments	45	0500000US10001	26.25	174.125	7855.625
+92360	10001	10	1	Kent County, Delaware	4811	Scheduled air transportation	48	0500000US10001	1.0	0.0	0.0
+92361	10001	10	1	Kent County, Delaware	4812	Nonscheduled air transportation	48	0500000US10001	1.0	0.0	0.0
+92362	10001	10	1	Kent County, Delaware	4831	Deep sea, coastal, and great lakes water transportation	48	0500000US10001	1.75	0.0	0.0
+92363	10001	10	1	Kent County, Delaware	4841	General freight trucking	48	0500000US10001	21.625	936.5	38645.125
+92364	10001	10	1	Kent County, Delaware	4842	Specialized freight trucking	48	0500000US10001	21.0	95.875	4809.125
+92365	10001	10	1	Kent County, Delaware	4853	Taxi and limousine service	48	0500000US10001	4.0	8.857142857142858	160.28571428571428
+92366	10001	10	1	Kent County, Delaware	4854	School and employee bus transportation	48	0500000US10001	23.125	405.125	5280.125
+92367	10001	10	1	Kent County, Delaware	4859	Other transit and ground passenger transportation	48	0500000US10001	8.5	36.375	815.625
+92368	10001	10	1	Kent County, Delaware	4872	Scenic and sightseeing transportation, water	48	0500000US10001	1.5	0.0	0.0
+92369	10001	10	1	Kent County, Delaware	4881	Support activities for air transportation	48	0500000US10001	3.0	4.166666666666667	216.66666666666666
+92370	10001	10	1	Kent County, Delaware	4882	Support activities for rail transportation	48	0500000US10001	1.0	0.0	0.0
+92371	10001	10	1	Kent County, Delaware	4884	Support activities for road transportation	48	0500000US10001	8.125	92.875	3507.125
+92372	10001	10	1	Kent County, Delaware	4885	Freight transportation arrangement	48	0500000US10001	2.375	3.0	173.875
+92373	10001	10	1	Kent County, Delaware	4889	Other support activities for transportation	48	0500000US10001	1.0	0.0	0.0
+92374	10001	10	1	Kent County, Delaware	4921	Couriers and express delivery services	49	0500000US10001	4.0	96.25	4814.375
+92375	10001	10	1	Kent County, Delaware	4922	Local messengers and local delivery	49	0500000US10001	4.5	19.25	885.375
+92376	10001	10	1	Kent County, Delaware	4931	Warehousing and storage	49	0500000US10001	5.125	437.75	21248.0
+92377	10001	10	1	Kent County, Delaware	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10001	8.0	163.875	6293.875
+92378	10001	10	1	Kent County, Delaware	5112	Software publishers	51	0500000US10001	17.125	89.5	10311.5
+92379	10001	10	1	Kent County, Delaware	5121	Motion picture and video industries	51	0500000US10001	12.0	72.375	3915.125
+92380	10001	10	1	Kent County, Delaware	5122	Sound recording industries	51	0500000US10001	2.857142857142857	9.571428571428571	777.0
+92381	10001	10	1	Kent County, Delaware	5151	Radio and television broadcasting	51	0500000US10001	5.625	53.25	2042.375
+92382	10001	10	1	Kent County, Delaware	5171	Wired telecommunications carriers	51	0500000US10001	25.75	227.25	14331.25
+92383	10001	10	1	Kent County, Delaware	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10001	6.75	23.25	1429.25
+92384	10001	10	1	Kent County, Delaware	5173	Wired and wireless telecommunications carriers	51	0500000US10001	37.75	363.0	21813.75
+92385	10001	10	1	Kent County, Delaware	5179	Other telecommunications	51	0500000US10001	5.5	12.375	771.625
+92386	10001	10	1	Kent County, Delaware	5182	Data processing, hosting, and related services	51	0500000US10001	12.125	35.875	3247.875
+92387	10001	10	1	Kent County, Delaware	5191	Other information services	51	0500000US10001	16.5	103.0	8573.875
+92388	10001	10	1	Kent County, Delaware	5221	Depository credit intermediation	52	0500000US10001	47.25	534.875	27598.75
+92389	10001	10	1	Kent County, Delaware	5222	Nondepository credit intermediation	52	0500000US10001	27.0	154.5	11086.625
+92390	10001	10	1	Kent County, Delaware	5223	Activities related to credit intermediation	52	0500000US10001	21.125	59.25	3406.875
+92391	10001	10	1	Kent County, Delaware	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10001	12.5	86.0	9224.625
+92392	10001	10	1	Kent County, Delaware	5239	Other financial investment activities	52	0500000US10001	30.875	65.75	9349.0
+92393	10001	10	1	Kent County, Delaware	5241	Insurance carriers	52	0500000US10001	12.5	73.75	4064.75
+92394	10001	10	1	Kent County, Delaware	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10001	53.25	491.375	32050.125
+92395	10001	10	1	Kent County, Delaware	5259	Other investment pools and funds	52	0500000US10001	1.75	0.0	0.0
+92396	10001	10	1	Kent County, Delaware	5311	Lessors of real estate	53	0500000US10001	63.75	209.625	7641.0
+92397	10001	10	1	Kent County, Delaware	5312	Offices of real estate agents and brokers	53	0500000US10001	35.875	62.125	2890.75
+92398	10001	10	1	Kent County, Delaware	5313	Activities related to real estate	53	0500000US10001	32.375	122.25	6764.75
+92399	10001	10	1	Kent County, Delaware	5321	Automotive equipment rental and leasing	53	0500000US10001	6.875	86.0	2377.875
+92400	10001	10	1	Kent County, Delaware	5322	Consumer goods rental	53	0500000US10001	10.125	68.875	2574.375
+92401	10001	10	1	Kent County, Delaware	5323	General rental centers	53	0500000US10001	1.3333333333333333	0.0	0.0
+92402	10001	10	1	Kent County, Delaware	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10001	4.625	53.875	2689.375
+92403	10001	10	1	Kent County, Delaware	5411	Legal services	54	0500000US10001	51.25	431.375	27069.875
+92404	10001	10	1	Kent County, Delaware	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10001	40.875	357.5	13272.375
+92405	10001	10	1	Kent County, Delaware	5413	Architectural, engineering, and related services	54	0500000US10001	37.0	481.875	46849.625
+92406	10001	10	1	Kent County, Delaware	5414	Specialized design services	54	0500000US10001	3.857142857142857	4.857142857142857	195.14285714285714
+92407	10001	10	1	Kent County, Delaware	5415	Computer systems design and related services	54	0500000US10001	99.625	447.0	46838.0
+92408	10001	10	1	Kent County, Delaware	5416	Management, scientific, and technical consulting services	54	0500000US10001	78.5	213.625	19629.0
+92409	10001	10	1	Kent County, Delaware	5417	Scientific research and development services	54	0500000US10001	11.375	58.875	5831.125
+92410	10001	10	1	Kent County, Delaware	5418	Advertising, public relations, and related services	54	0500000US10001	15.875	63.625	4809.25
+92411	10001	10	1	Kent County, Delaware	5419	Other professional, scientific, and technical services	54	0500000US10001	31.25	234.0	10444.75
+92412	10001	10	1	Kent County, Delaware	5511	Management of companies and enterprises	55	0500000US10001	22.125	95.875	7440.625
+92413	10001	10	1	Kent County, Delaware	5611	Office administrative services	56	0500000US10001	11.5	51.625	1931.375
+92414	10001	10	1	Kent County, Delaware	5612	Facilities support services	56	0500000US10001	5.25	60.25	2206.0
+92415	10001	10	1	Kent County, Delaware	5613	Employment services	56	0500000US10001	19.25	643.25	14227.875
+92416	10001	10	1	Kent County, Delaware	5614	Business support services	56	0500000US10001	18.875	178.625	6204.875
+92417	10001	10	1	Kent County, Delaware	5615	Travel arrangement and reservation services	56	0500000US10001	10.0	177.5	21683.625
+92418	10001	10	1	Kent County, Delaware	5616	Investigation and security services	56	0500000US10001	12.875	175.25	8012.75
+92419	10001	10	1	Kent County, Delaware	5617	Services to buildings and dwellings	56	0500000US10001	98.375	1099.875	45479.625
+92420	10001	10	1	Kent County, Delaware	5619	Other support services	56	0500000US10001	6.875	123.125	4591.75
+92421	10001	10	1	Kent County, Delaware	5621	Waste collection	56	0500000US10001	3.142857142857143	66.85714285714286	3459.1428571428573
+92422	10001	10	1	Kent County, Delaware	5622	Waste treatment and disposal	56	0500000US10001	1.0	0.0	0.0
+92423	10001	10	1	Kent County, Delaware	5629	Remediation and other waste management services	56	0500000US10001	5.75	25.75	1039.0
+92424	10001	10	1	Kent County, Delaware	6111	Elementary and secondary schools	61	0500000US10001	9.5	231.25	5306.125
+92425	10001	10	1	Kent County, Delaware	6113	Colleges, universities, and professional schools	61	0500000US10001	1.4	97.0	2023.0
+92426	10001	10	1	Kent County, Delaware	6114	Business schools and computer and management training	61	0500000US10001	3.5	17.166666666666668	764.6666666666666
+92427	10001	10	1	Kent County, Delaware	6115	Technical and trade schools	61	0500000US10001	4.142857142857143	21.0	1176.142857142857
+92428	10001	10	1	Kent County, Delaware	6116	Other schools and instruction	61	0500000US10001	19.875	116.5	1936.375
+92429	10001	10	1	Kent County, Delaware	6117	Educational support services	61	0500000US10001	6.0	17.75	888.25
+92430	10001	10	1	Kent County, Delaware	6211	Offices of physicians	62	0500000US10001	104.25	1077.625	75237.0
+92431	10001	10	1	Kent County, Delaware	6212	Offices of dentists	62	0500000US10001	39.625	402.625	24014.375
+92432	10001	10	1	Kent County, Delaware	6213	Offices of other health practitioners	62	0500000US10001	74.125	566.0	22441.875
+92433	10001	10	1	Kent County, Delaware	6214	Outpatient care centers	62	0500000US10001	28.25	866.75	40018.375
+92434	10001	10	1	Kent County, Delaware	6215	Medical and diagnostic laboratories	62	0500000US10001	9.875	61.75	4092.5
+92435	10001	10	1	Kent County, Delaware	6216	Home health care services	62	0500000US10001	18.875	1087.875	37500.0
+92436	10001	10	1	Kent County, Delaware	6219	Other ambulatory health care services	62	0500000US10001	6.5	173.875	5005.625
+92437	10001	10	1	Kent County, Delaware	6221	General medical and surgical hospitals	62	0500000US10001	1.0	0.0	0.0
+92438	10001	10	1	Kent County, Delaware	6222	Psychiatric and substance abuse hospitals	62	0500000US10001	1.0	0.0	0.0
+92439	10001	10	1	Kent County, Delaware	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10001	6.25	652.0	21543.375
+92440	10001	10	1	Kent County, Delaware	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10001	22.25	495.5	14072.625
+92441	10001	10	1	Kent County, Delaware	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10001	3.75	267.25	7189.125
+92442	10001	10	1	Kent County, Delaware	6239	Other residential care facilities	62	0500000US10001	5.125	84.25	2742.75
+92443	10001	10	1	Kent County, Delaware	6241	Individual and family services	62	0500000US10001	55.875	822.375	18188.625
+92444	10001	10	1	Kent County, Delaware	6242	Community food and housing, and emergency and other relief services	62	0500000US10001	10.5	113.875	3136.0
+92445	10001	10	1	Kent County, Delaware	6243	Vocational rehabilitation services	62	0500000US10001	3.75	346.75	6824.5
+92446	10001	10	1	Kent County, Delaware	6244	Child day care services	62	0500000US10001	53.625	788.375	13508.125
+92447	10001	10	1	Kent County, Delaware	7111	Performing arts companies	71	0500000US10001	8.5	12.666666666666666	1254.0
+92448	10001	10	1	Kent County, Delaware	7112	Spectator sports	71	0500000US10001	9.375	74.375	4877.375
+92449	10001	10	1	Kent County, Delaware	7113	Promoters of performing arts, sports, and similar events	71	0500000US10001	3.625	25.875	819.25
+92450	10001	10	1	Kent County, Delaware	7114	Agents and managers for artists, athletes, entertainers, and other public figures	71	0500000US10001	3.5	5.333333333333333	382.5
+92451	10001	10	1	Kent County, Delaware	7115	Independent artists, writers, and performers	71	0500000US10001	17.0	15.375	2607.75
+92452	10001	10	1	Kent County, Delaware	7121	Museums, historical sites, and similar institutions	71	0500000US10001	4.375	23.375	602.5
+92453	10001	10	1	Kent County, Delaware	7131	Amusement parks and arcades	71	0500000US10001	3.25	0.0	0.0
+92454	10001	10	1	Kent County, Delaware	7132	Gambling industries	71	0500000US10001	5.125	274.25	7409.25
+92455	10001	10	1	Kent County, Delaware	7139	Other amusement and recreation industries	71	0500000US10001	28.875	491.0	6640.25
+92456	10001	10	1	Kent County, Delaware	7211	Traveler accommodation	72	0500000US10001	56.25	2340.875	50492.25
+92457	10001	10	1	Kent County, Delaware	7223	Special food services	72	0500000US10001	13.625	204.375	4553.5
+92458	10001	10	1	Kent County, Delaware	7224	Drinking places (alcoholic beverages)	72	0500000US10001	5.875	30.75	861.75
+92459	10001	10	1	Kent County, Delaware	7225	Restaurants and other eating places	72	0500000US10001	224.25	4557.5	66647.75
+92460	10001	10	1	Kent County, Delaware	8111	Automotive repair and maintenance	81	0500000US10001	66.0	398.875	14622.625
+92461	10001	10	1	Kent County, Delaware	8112	Electronic and precision equipment repair and maintenance	81	0500000US10001	7.0	8.5	280.5
+92462	10001	10	1	Kent County, Delaware	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10001	9.875	30.0	1177.75
+92463	10001	10	1	Kent County, Delaware	8114	Personal and household goods repair and maintenance	81	0500000US10001	6.875	7.375	261.5
+92464	10001	10	1	Kent County, Delaware	8121	Personal care services	81	0500000US10001	65.375	344.25	6722.125
+92465	10001	10	1	Kent County, Delaware	8122	Death care services	81	0500000US10001	13.5	112.375	3275.625
+92466	10001	10	1	Kent County, Delaware	8123	Drycleaning and laundry services	81	0500000US10001	13.5	90.5	2271.625
+92467	10001	10	1	Kent County, Delaware	8129	Other personal services	81	0500000US10001	17.75	51.625	1390.25
+92468	10001	10	1	Kent County, Delaware	8131	Religious organizations	81	0500000US10001	79.25	417.625	9378.5
+92469	10001	10	1	Kent County, Delaware	8132	Grantmaking and giving services	81	0500000US10001	7.25	19.5	1185.875
+92470	10001	10	1	Kent County, Delaware	8133	Social advocacy organizations	81	0500000US10001	6.0	41.875	2470.875
+92471	10001	10	1	Kent County, Delaware	8134	Civic and social organizations	81	0500000US10001	15.5	83.75	1053.25
+92472	10001	10	1	Kent County, Delaware	8139	Business, professional, labor, political, and similar organizations	81	0500000US10001	37.875	110.875	6138.875
+92473	10003	10	3	New Castle County	1141	Fishing	11	0500000US10003	1.0	0.0	0.0
+92474	10003	10	3	New Castle County	1151	Support activities for crop production	11	0500000US10003	4.0	8.0	213.0
+92475	10003	10	3	New Castle County	1152	Support activities for animal production	11	0500000US10003	8.0	29.0	869.0
+92476	10003	10	3	New Castle County	1153	Support activities for forestry	11	0500000US10003	1.0	0.0	0.0
+92477	10003	10	3	New Castle County	2111	Oil and gas extraction	21	0500000US10003	3.0	0.0	0.0
+92478	10003	10	3	New Castle County	2123	Nonmetallic mineral mining and quarrying	21	0500000US10003	2.0	0.0	0.0
+92479	10003	10	3	New Castle County	2131	Support activities for mining	21	0500000US10003	3.0	0.0	0.0
+92480	10003	10	3	New Castle County	2211	Electric power generation, transmission and distribution	22	0500000US10003	21.0	0.0	0.0
+92481	10003	10	3	New Castle County	2213	Water, sewage and other systems	22	0500000US10003	6.0	326.0	23569.0
+92482	10003	10	3	New Castle County	2361	Residential building construction	23	0500000US10003	240.0	926.0	33982.0
+92483	10003	10	3	New Castle County	2362	Nonresidential building construction	23	0500000US10003	69.0	989.0	57534.0
+92484	10003	10	3	New Castle County	2371	Utility system construction	23	0500000US10003	27.0	600.0	32715.0
+92485	10003	10	3	New Castle County	2372	Land subdivision	23	0500000US10003	7.0	166.0	15042.0
+92486	10003	10	3	New Castle County	2373	Highway, street, and bridge construction	23	0500000US10003	24.0	691.0	41416.0
+92487	10003	10	3	New Castle County	2379	Other heavy and civil engineering construction	23	0500000US10003	1.0	0.0	0.0
+92488	10003	10	3	New Castle County	2381	Foundation, structure, and building exterior contractors	23	0500000US10003	155.0	1313.0	73776.0
+92489	10003	10	3	New Castle County	2382	Building equipment contractors	23	0500000US10003	321.0	4245.0	255798.0
+92490	10003	10	3	New Castle County	2383	Building finishing contractors	23	0500000US10003	213.0	1706.0	77405.0
+92491	10003	10	3	New Castle County	2389	Other specialty trade contractors	23	0500000US10003	108.0	912.0	49640.0
+92492	10003	10	3	New Castle County	3111	Animal food manufacturing	31	0500000US10003	1.0	0.0	0.0
+92493	10003	10	3	New Castle County	3112	Grain and oilseed milling	31	0500000US10003	1.0	0.0	0.0
+92494	10003	10	3	New Castle County	3113	Sugar and confectionery product manufacturing	31	0500000US10003	4.0	0.0	1732.0
+92495	10003	10	3	New Castle County	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10003	1.0	0.0	0.0
+92496	10003	10	3	New Castle County	3115	Dairy product manufacturing	31	0500000US10003	1.0	0.0	0.0
+92497	10003	10	3	New Castle County	3116	Animal slaughtering and processing	31	0500000US10003	1.0	0.0	0.0
+92498	10003	10	3	New Castle County	3118	Bakeries and tortilla manufacturing	31	0500000US10003	14.0	140.0	2238.0
+92499	10003	10	3	New Castle County	3121	Beverage manufacturing	31	0500000US10003	3.0	0.0	0.0
+92500	10003	10	3	New Castle County	3133	Textile and fabric finishing and fabric coating mills	31	0500000US10003	1.0	0.0	0.0
+92501	10003	10	3	New Castle County	3141	Textile furnishings mills	31	0500000US10003	3.0	0.0	0.0
+92502	10003	10	3	New Castle County	3149	Other textile product mills	31	0500000US10003	8.0	28.0	1148.0
+92503	10003	10	3	New Castle County	3152	Cut and sew apparel manufacturing	31	0500000US10003	2.0	0.0	0.0
+92504	10003	10	3	New Castle County	3159	Apparel accessories and other apparel manufacturing	31	0500000US10003	2.0	0.0	0.0
+92505	10003	10	3	New Castle County	3169	Other leather and allied product manufacturing	31	0500000US10003	3.0	0.0	163.0
+92506	10003	10	3	New Castle County	3212	Veneer, plywood, and engineered wood product manufacturing	32	0500000US10003	3.0	22.0	786.0
+92507	10003	10	3	New Castle County	3219	Other wood product manufacturing	32	0500000US10003	3.0	0.0	0.0
+92508	10003	10	3	New Castle County	3222	Converted paper product manufacturing	32	0500000US10003	1.0	0.0	0.0
+92509	10003	10	3	New Castle County	3231	Printing and related support activities	32	0500000US10003	43.0	355.0	15781.0
+92510	10003	10	3	New Castle County	3241	Petroleum and coal products manufacturing	32	0500000US10003	6.0	594.0	64026.0
+92511	10003	10	3	New Castle County	3251	Basic chemical manufacturing	32	0500000US10003	7.0	0.0	0.0
+92512	10003	10	3	New Castle County	3252	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	32	0500000US10003	4.0	313.0	27084.0
+92513	10003	10	3	New Castle County	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10003	1.0	0.0	0.0
+92514	10003	10	3	New Castle County	3254	Pharmaceutical and medicine manufacturing	32	0500000US10003	10.0	0.0	0.0
+92515	10003	10	3	New Castle County	3255	Paint, coating, and adhesive manufacturing	32	0500000US10003	3.0	0.0	623.0
+92516	10003	10	3	New Castle County	3256	Soap, cleaning compound, and toilet preparation manufacturing	32	0500000US10003	4.0	0.0	0.0
+92517	10003	10	3	New Castle County	3259	Other chemical product and preparation manufacturing	32	0500000US10003	5.0	128.0	9694.0
+92518	10003	10	3	New Castle County	3261	Plastics product manufacturing	32	0500000US10003	24.0	1097.0	55323.0
+92519	10003	10	3	New Castle County	3262	Rubber product manufacturing	32	0500000US10003	4.0	0.0	0.0
+92520	10003	10	3	New Castle County	3271	Clay product and refractory manufacturing	32	0500000US10003	6.0	0.0	6245.0
+92521	10003	10	3	New Castle County	3272	Glass and glass product manufacturing	32	0500000US10003	4.0	30.0	1387.0
+92522	10003	10	3	New Castle County	3273	Cement and concrete product manufacturing	32	0500000US10003	13.0	162.0	6070.0
+92523	10003	10	3	New Castle County	3274	Lime and gypsum product manufacturing	32	0500000US10003	1.0	0.0	0.0
+92524	10003	10	3	New Castle County	3279	Other nonmetallic mineral product manufacturing	32	0500000US10003	5.0	0.0	0.0
+92525	10003	10	3	New Castle County	3311	Iron and steel mills and ferroalloy manufacturing	33	0500000US10003	1.0	0.0	0.0
+92526	10003	10	3	New Castle County	3312	Steel product manufacturing from purchased steel	33	0500000US10003	1.0	0.0	0.0
+92527	10003	10	3	New Castle County	3314	Nonferrous metal (except aluminum) production and processing	33	0500000US10003	1.0	0.0	0.0
+92528	10003	10	3	New Castle County	3322	Cutlery and handtool manufacturing	33	0500000US10003	1.0	0.0	0.0
+92529	10003	10	3	New Castle County	3323	Architectural and structural metals manufacturing	33	0500000US10003	15.0	410.0	21929.0
+92530	10003	10	3	New Castle County	3324	Boiler, tank, and shipping container manufacturing	33	0500000US10003	2.0	0.0	0.0
+92531	10003	10	3	New Castle County	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10003	24.0	257.0	14814.0
+92532	10003	10	3	New Castle County	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10003	8.0	124.0	6146.0
+92533	10003	10	3	New Castle County	3329	Other fabricated metal product manufacturing	33	0500000US10003	6.0	233.0	13887.0
+92534	10003	10	3	New Castle County	3332	Industrial machinery manufacturing	33	0500000US10003	4.0	0.0	3848.0
+92535	10003	10	3	New Castle County	3333	Commercial and service industry machinery manufacturing	33	0500000US10003	1.0	0.0	0.0
+92536	10003	10	3	New Castle County	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	33	0500000US10003	3.0	47.0	2086.0
+92537	10003	10	3	New Castle County	3335	Metalworking machinery manufacturing	33	0500000US10003	1.0	0.0	0.0
+92538	10003	10	3	New Castle County	3336	Engine, turbine, and power transmission equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92539	10003	10	3	New Castle County	3339	Other general purpose machinery manufacturing	33	0500000US10003	5.0	0.0	0.0
+92540	10003	10	3	New Castle County	3341	Computer and peripheral equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92541	10003	10	3	New Castle County	3342	Communications equipment manufacturing	33	0500000US10003	2.0	0.0	0.0
+92542	10003	10	3	New Castle County	3343	Audio and video equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92543	10003	10	3	New Castle County	3344	Semiconductor and other electronic component manufacturing	33	0500000US10003	4.0	0.0	0.0
+92544	10003	10	3	New Castle County	3345	Navigational, measuring, electromedical, and control instruments manufacturing	33	0500000US10003	21.0	1480.0	125695.0
+92545	10003	10	3	New Castle County	3346	Manufacturing and reproducing magnetic and optical media	33	0500000US10003	1.0	0.0	0.0
+92546	10003	10	3	New Castle County	3351	Electric lighting equipment manufacturing	33	0500000US10003	2.0	0.0	0.0
+92547	10003	10	3	New Castle County	3353	Electrical equipment manufacturing	33	0500000US10003	6.0	0.0	0.0
+92548	10003	10	3	New Castle County	3359	Other electrical equipment and component manufacturing	33	0500000US10003	3.0	728.0	45573.0
+92549	10003	10	3	New Castle County	3361	Motor vehicle manufacturing	33	0500000US10003	1.0	0.0	0.0
+92550	10003	10	3	New Castle County	3363	Motor vehicle parts manufacturing	33	0500000US10003	4.0	0.0	0.0
+92551	10003	10	3	New Castle County	3364	Aerospace product and parts manufacturing	33	0500000US10003	1.0	0.0	0.0
+92552	10003	10	3	New Castle County	3366	Ship and boat building	33	0500000US10003	2.0	0.0	0.0
+92553	10003	10	3	New Castle County	3369	Other transportation equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92554	10003	10	3	New Castle County	3371	Household and institutional furniture and kitchen cabinet manufacturing	33	0500000US10003	10.0	31.0	1008.0
+92555	10003	10	3	New Castle County	3372	Office furniture (including fixtures) manufacturing	33	0500000US10003	7.0	0.0	0.0
+92556	10003	10	3	New Castle County	3379	Other furniture related product manufacturing	33	0500000US10003	3.0	0.0	0.0
+92557	10003	10	3	New Castle County	3391	Medical equipment and supplies manufacturing	33	0500000US10003	14.0	163.0	9417.0
+92558	10003	10	3	New Castle County	3399	Other miscellaneous manufacturing	33	0500000US10003	17.0	286.0	19534.0
+92559	10003	10	3	New Castle County	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10003	47.0	590.0	23849.0
+92560	10003	10	3	New Castle County	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10003	24.0	310.0	15484.0
+92561	10003	10	3	New Castle County	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10003	26.0	266.0	13931.0
+92562	10003	10	3	New Castle County	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10003	77.0	662.0	37249.0
+92563	10003	10	3	New Castle County	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10003	23.0	233.0	12594.0
+92564	10003	10	3	New Castle County	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10003	35.0	361.0	23437.0
+92565	10003	10	3	New Castle County	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10003	48.0	492.0	25361.0
+92566	10003	10	3	New Castle County	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10003	80.0	786.0	41968.0
+92567	10003	10	3	New Castle County	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10003	42.0	236.0	11872.0
+92568	10003	10	3	New Castle County	4241	Paper and paper product merchant wholesalers	42	0500000US10003	14.0	135.0	7299.0
+92569	10003	10	3	New Castle County	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10003	19.0	0.0	0.0
+92570	10003	10	3	New Castle County	4243	Apparel, piece goods, and notions merchant wholesalers	42	0500000US10003	20.0	146.0	10144.0
+92571	10003	10	3	New Castle County	4244	Grocery and related product merchant wholesalers	42	0500000US10003	56.0	608.0	28059.0
+92572	10003	10	3	New Castle County	4245	Farm product raw material merchant wholesalers	42	0500000US10003	1.0	0.0	0.0
+92573	10003	10	3	New Castle County	4246	Chemical and allied products merchant wholesalers	42	0500000US10003	51.0	2652.0	287897.0
+92574	10003	10	3	New Castle County	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10003	7.0	0.0	0.0
+92575	10003	10	3	New Castle County	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10003	18.0	666.0	31860.0
+92576	10003	10	3	New Castle County	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10003	30.0	221.0	10635.0
+92577	10003	10	3	New Castle County	4251	Wholesale electronic markets and agents and brokers	42	0500000US10003	87.0	0.0	21257.0
+92578	10003	10	3	New Castle County	4411	Automobile dealers	44	0500000US10003	79.0	2601.0	118831.0
+92579	10003	10	3	New Castle County	4412	Other motor vehicle dealers	44	0500000US10003	20.0	285.0	10976.0
+92580	10003	10	3	New Castle County	4413	Automotive parts, accessories, and tire stores	44	0500000US10003	83.0	885.0	24818.0
+92581	10003	10	3	New Castle County	4421	Furniture stores	44	0500000US10003	51.0	378.0	13510.0
+92582	10003	10	3	New Castle County	4422	Home furnishings stores	44	0500000US10003	54.0	637.0	15878.0
+92583	10003	10	3	New Castle County	4431	Electronics and appliance stores	44	0500000US10003	123.0	1286.0	31768.0
+92584	10003	10	3	New Castle County	4441	Building material and supplies dealers	44	0500000US10003	95.0	2486.0	78620.0
+92585	10003	10	3	New Castle County	4442	Lawn and garden equipment and supplies stores	44	0500000US10003	33.0	277.0	7921.0
+92586	10003	10	3	New Castle County	4451	Grocery stores	44	0500000US10003	150.0	4870.0	114327.0
+92587	10003	10	3	New Castle County	4452	Specialty food stores	44	0500000US10003	44.0	269.0	4771.0
+92588	10003	10	3	New Castle County	4453	Beer, wine, and liquor stores	44	0500000US10003	138.0	671.0	14927.0
+92589	10003	10	3	New Castle County	4461	Health and personal care stores	44	0500000US10003	164.0	2245.0	67122.0
+92590	10003	10	3	New Castle County	4471	Gasoline stations	44	0500000US10003	128.0	956.0	19000.0
+92591	10003	10	3	New Castle County	4481	Clothing stores	44	0500000US10003	181.0	2804.0	41827.0
+92592	10003	10	3	New Castle County	4482	Shoe stores	44	0500000US10003	40.0	359.0	5547.0
+92593	10003	10	3	New Castle County	4483	Jewelry, luggage, and leather goods stores	44	0500000US10003	56.0	346.0	11638.0
+92594	10003	10	3	New Castle County	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10003	74.0	882.0	15586.0
+92595	10003	10	3	New Castle County	4512	Book stores and news dealers	45	0500000US10003	22.0	0.0	3157.0
+92596	10003	10	3	New Castle County	4521	Department stores	45	0500000US10003	20.0	3790.0	65931.0
+92597	10003	10	3	New Castle County	4529	Other general merchandise stores	45	0500000US10003	53.0	1833.0	37264.0
+92598	10003	10	3	New Castle County	4531	Florists	45	0500000US10003	21.0	127.0	1783.0
+92599	10003	10	3	New Castle County	4532	Office supplies, stationery, and gift stores	45	0500000US10003	52.0	588.0	9026.0
+92600	10003	10	3	New Castle County	4533	Used merchandise stores	45	0500000US10003	19.0	259.0	5111.0
+92601	10003	10	3	New Castle County	4539	Other miscellaneous store retailers	45	0500000US10003	108.0	575.0	11427.0
+92602	10003	10	3	New Castle County	4541	Electronic shopping and mail-order houses	45	0500000US10003	78.0	427.0	14958.0
+92603	10003	10	3	New Castle County	4542	Vending machine operators	45	0500000US10003	5.0	0.0	0.0
+92604	10003	10	3	New Castle County	4543	Direct selling establishments	45	0500000US10003	57.0	423.0	20865.0
+92605	10003	10	3	New Castle County	4811	Scheduled air transportation	48	0500000US10003	1.0	0.0	0.0
+92606	10003	10	3	New Castle County	4812	Nonscheduled air transportation	48	0500000US10003	18.0	86.0	6704.0
+92607	10003	10	3	New Castle County	4831	Deep sea, coastal, and great lakes water transportation	48	0500000US10003	2.0	0.0	0.0
+92608	10003	10	3	New Castle County	4832	Inland water transportation	48	0500000US10003	5.0	56.0	3505.0
+92609	10003	10	3	New Castle County	4841	General freight trucking	48	0500000US10003	55.0	587.0	31957.0
+92610	10003	10	3	New Castle County	4842	Specialized freight trucking	48	0500000US10003	74.0	737.0	31855.0
+92611	10003	10	3	New Castle County	4851	Urban transit systems	48	0500000US10003	2.0	0.0	0.0
+92612	10003	10	3	New Castle County	4853	Taxi and limousine service	48	0500000US10003	12.0	0.0	0.0
+92613	10003	10	3	New Castle County	4854	School and employee bus transportation	48	0500000US10003	12.0	763.0	12340.0
+92614	10003	10	3	New Castle County	4855	Charter bus industry	48	0500000US10003	3.0	53.0	1340.0
+92615	10003	10	3	New Castle County	4859	Other transit and ground passenger transportation	48	0500000US10003	4.0	0.0	0.0
+92616	10003	10	3	New Castle County	4862	Pipeline transportation of natural gas	48	0500000US10003	1.0	0.0	0.0
+92617	10003	10	3	New Castle County	4872	Scenic and sightseeing transportation, water	48	0500000US10003	4.0	0.0	344.0
+92618	10003	10	3	New Castle County	4881	Support activities for air transportation	48	0500000US10003	15.0	496.0	35703.0
+92619	10003	10	3	New Castle County	4882	Support activities for rail transportation	48	0500000US10003	4.0	0.0	0.0
+92620	10003	10	3	New Castle County	4883	Support activities for water transportation	48	0500000US10003	10.0	591.0	21137.0
+92621	10003	10	3	New Castle County	4884	Support activities for road transportation	48	0500000US10003	29.0	221.0	8696.0
+92622	10003	10	3	New Castle County	4885	Freight transportation arrangement	48	0500000US10003	29.0	575.0	24136.0
+92623	10003	10	3	New Castle County	4889	Other support activities for transportation	48	0500000US10003	3.0	31.0	953.0
+92624	10003	10	3	New Castle County	4921	Couriers and express delivery services	49	0500000US10003	11.0	695.0	31492.0
+92625	10003	10	3	New Castle County	4922	Local messengers and local delivery	49	0500000US10003	7.0	0.0	0.0
+92626	10003	10	3	New Castle County	4931	Warehousing and storage	49	0500000US10003	36.0	0.0	49653.0
+92627	10003	10	3	New Castle County	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10003	20.0	0.0	0.0
+92628	10003	10	3	New Castle County	5112	Software publishers	51	0500000US10003	16.0	0.0	0.0
+92629	10003	10	3	New Castle County	5121	Motion picture and video industries	51	0500000US10003	26.0	0.0	5913.0
+92630	10003	10	3	New Castle County	5122	Sound recording industries	51	0500000US10003	2.0	0.0	0.0
+92631	10003	10	3	New Castle County	5151	Radio and television broadcasting	51	0500000US10003	13.0	166.0	7422.0
+92632	10003	10	3	New Castle County	5152	Cable and other subscription programming	51	0500000US10003	1.0	0.0	0.0
+92633	10003	10	3	New Castle County	5171	Wired telecommunications carriers	51	0500000US10003	70.0	2567.0	115337.0
+92634	10003	10	3	New Castle County	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10003	24.0	0.0	0.0
+92635	10003	10	3	New Castle County	5174	Satellite telecommunications	51	0500000US10003	1.0	0.0	0.0
+92636	10003	10	3	New Castle County	5179	Other telecommunications	51	0500000US10003	8.0	47.0	3447.0
+92637	10003	10	3	New Castle County	5182	Data processing, hosting, and related services	51	0500000US10003	38.0	859.0	62735.0
+92638	10003	10	3	New Castle County	5191	Other information services	51	0500000US10003	26.0	238.0	11373.0
+92639	10003	10	3	New Castle County	5221	Depository credit intermediation	52	0500000US10003	319.0	9202.0	776192.0
+92640	10003	10	3	New Castle County	5222	Nondepository credit intermediation	52	0500000US10003	173.0	13729.0	1203142.0
+92641	10003	10	3	New Castle County	5223	Activities related to credit intermediation	52	0500000US10003	83.0	692.0	51429.0
+92642	10003	10	3	New Castle County	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10003	145.0	969.0	109481.0
+92643	10003	10	3	New Castle County	5239	Other financial investment activities	52	0500000US10003	438.0	3338.0	395622.0
+92644	10003	10	3	New Castle County	5241	Insurance carriers	52	0500000US10003	93.0	4239.0	348273.0
+92645	10003	10	3	New Castle County	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10003	228.0	1309.0	75459.0
+92646	10003	10	3	New Castle County	5259	Other investment pools and funds	52	0500000US10003	30.0	0.0	1265.0
+92647	10003	10	3	New Castle County	5311	Lessors of real estate	53	0500000US10003	212.0	767.0	28927.0
+92648	10003	10	3	New Castle County	5312	Offices of real estate agents and brokers	53	0500000US10003	145.0	546.0	42414.0
+92649	10003	10	3	New Castle County	5313	Activities related to real estate	53	0500000US10003	174.0	1291.0	59145.0
+92650	10003	10	3	New Castle County	5321	Automotive equipment rental and leasing	53	0500000US10003	12.0	217.0	8157.0
+92651	10003	10	3	New Castle County	5322	Consumer goods rental	53	0500000US10003	27.0	214.0	8136.0
+92652	10003	10	3	New Castle County	5323	General rental centers	53	0500000US10003	8.0	53.0	2127.0
+92653	10003	10	3	New Castle County	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10003	29.0	533.0	32428.0
+92654	10003	10	3	New Castle County	5331	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0500000US10003	85.0	0.0	4757.0
+92655	10003	10	3	New Castle County	5411	Legal services	54	0500000US10003	372.0	4347.0	482545.0
+92656	10003	10	3	New Castle County	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10003	224.0	3240.0	125148.0
+92657	10003	10	3	New Castle County	5413	Architectural, engineering, and related services	54	0500000US10003	214.0	1806.0	137443.0
+92658	10003	10	3	New Castle County	5414	Specialized design services	54	0500000US10003	64.0	193.0	8167.0
+92659	10003	10	3	New Castle County	5415	Computer systems design and related services	54	0500000US10003	458.0	4355.0	371348.0
+92660	10003	10	3	New Castle County	5416	Management, scientific, and technical consulting services	54	0500000US10003	345.0	3018.0	249693.0
+92661	10003	10	3	New Castle County	5417	Scientific research and development services	54	0500000US10003	53.0	3618.0	622441.0
+92662	10003	10	3	New Castle County	5418	Advertising, public relations, and related services	54	0500000US10003	70.0	658.0	38202.0
+92663	10003	10	3	New Castle County	5419	Other professional, scientific, and technical services	54	0500000US10003	100.0	824.0	33669.0
+92664	10003	10	3	New Castle County	5511	Management of companies and enterprises	55	0500000US10003	948.0	10314.0	1089721.0
+92665	10003	10	3	New Castle County	5611	Office administrative services	56	0500000US10003	106.0	2333.0	164858.0
+92666	10003	10	3	New Castle County	5612	Facilities support services	56	0500000US10003	10.0	126.0	5228.0
+92667	10003	10	3	New Castle County	5613	Employment services	56	0500000US10003	109.0	5138.0	141891.0
+92668	10003	10	3	New Castle County	5614	Business support services	56	0500000US10003	84.0	3871.0	358370.0
+92669	10003	10	3	New Castle County	5615	Travel arrangement and reservation services	56	0500000US10003	49.0	0.0	20394.0
+92670	10003	10	3	New Castle County	5616	Investigation and security services	56	0500000US10003	48.0	2715.0	74041.0
+92671	10003	10	3	New Castle County	5617	Services to buildings and dwellings	56	0500000US10003	417.0	4204.0	96627.0
+92672	10003	10	3	New Castle County	5619	Other support services	56	0500000US10003	40.0	385.0	16689.0
+92673	10003	10	3	New Castle County	5621	Waste collection	56	0500000US10003	28.0	510.0	27646.0
+92674	10003	10	3	New Castle County	5622	Waste treatment and disposal	56	0500000US10003	6.0	47.0	1989.0
+92675	10003	10	3	New Castle County	5629	Remediation and other waste management services	56	0500000US10003	20.0	283.0	16320.0
+92676	10003	10	3	New Castle County	6111	Elementary and secondary schools	61	0500000US10003	45.0	2879.0	97341.0
+92677	10003	10	3	New Castle County	6112	Junior colleges	61	0500000US10003	2.0	0.0	0.0
+92678	10003	10	3	New Castle County	6113	Colleges, universities, and professional schools	61	0500000US10003	7.0	1017.0	60301.0
+92679	10003	10	3	New Castle County	6114	Business schools and computer and management training	61	0500000US10003	23.0	145.0	9611.0
+92680	10003	10	3	New Castle County	6115	Technical and trade schools	61	0500000US10003	17.0	492.0	22788.0
+92681	10003	10	3	New Castle County	6116	Other schools and instruction	61	0500000US10003	95.0	776.0	15546.0
+92682	10003	10	3	New Castle County	6117	Educational support services	61	0500000US10003	19.0	0.0	0.0
+92683	10003	10	3	New Castle County	6211	Offices of physicians	62	0500000US10003	442.0	6107.0	525254.0
+92684	10003	10	3	New Castle County	6212	Offices of dentists	62	0500000US10003	180.0	1772.0	113537.0
+92685	10003	10	3	New Castle County	6213	Offices of other health practitioners	62	0500000US10003	264.0	1743.0	69219.0
+92686	10003	10	3	New Castle County	6214	Outpatient care centers	62	0500000US10003	88.0	1496.0	58943.0
+92687	10003	10	3	New Castle County	6215	Medical and diagnostic laboratories	62	0500000US10003	44.0	343.0	26328.0
+92688	10003	10	3	New Castle County	6216	Home health care services	62	0500000US10003	35.0	2131.0	122047.0
+92689	10003	10	3	New Castle County	6219	Other ambulatory health care services	62	0500000US10003	12.0	371.0	12655.0
+92690	10003	10	3	New Castle County	6221	General medical and surgical hospitals	62	0500000US10003	6.0	12462.0	778839.0
+92691	10003	10	3	New Castle County	6222	Psychiatric and substance abuse hospitals	62	0500000US10003	4.0	1018.0	44153.0
+92692	10003	10	3	New Castle County	6223	Specialty (except psychiatric and substance abuse) hospitals	62	0500000US10003	1.0	0.0	0.0
+92693	10003	10	3	New Castle County	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10003	21.0	2623.0	89440.0
+92694	10003	10	3	New Castle County	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10003	100.0	1554.0	44894.0
+92695	10003	10	3	New Castle County	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10003	22.0	2171.0	56112.0
+92696	10003	10	3	New Castle County	6239	Other residential care facilities	62	0500000US10003	4.0	63.0	1517.0
+92697	10003	10	3	New Castle County	6241	Individual and family services	62	0500000US10003	138.0	2676.0	61654.0
+92698	10003	10	3	New Castle County	6242	Community food and housing, and emergency and other relief services	62	0500000US10003	26.0	328.0	9006.0
+92699	10003	10	3	New Castle County	6243	Vocational rehabilitation services	62	0500000US10003	12.0	451.0	9513.0
+92700	10003	10	3	New Castle County	6244	Child day care services	62	0500000US10003	198.0	2886.0	56101.0
+92701	10003	10	3	New Castle County	7111	Performing arts companies	71	0500000US10003	13.0	120.0	3751.0
+92702	10003	10	3	New Castle County	7112	Spectator sports	71	0500000US10003	18.0	0.0	0.0
+92703	10003	10	3	New Castle County	7113	Promoters of performing arts, sports, and similar events	71	0500000US10003	6.0	0.0	0.0
+92704	10003	10	3	New Castle County	7114	Agents and managers for artists, athletes, entertainers, and other public figures	71	0500000US10003	3.0	0.0	0.0
+92705	10003	10	3	New Castle County	7115	Independent artists, writers, and performers	71	0500000US10003	26.0	0.0	13044.0
+92706	10003	10	3	New Castle County	7121	Museums, historical sites, and similar institutions	71	0500000US10003	23.0	755.0	21723.0
+92707	10003	10	3	New Castle County	7131	Amusement parks and arcades	71	0500000US10003	4.0	39.0	479.0
+92708	10003	10	3	New Castle County	7132	Gambling industries	71	0500000US10003	6.0	22.0	558.0
+92709	10003	10	3	New Castle County	7139	Other amusement and recreation industries	71	0500000US10003	147.0	3067.0	51789.0
+92710	10003	10	3	New Castle County	7211	Traveler accommodation	72	0500000US10003	60.0	1726.0	40240.0
+92711	10003	10	3	New Castle County	7212	RV (recreational vehicle) parks and recreational camps	72	0500000US10003	2.0	0.0	0.0
+92712	10003	10	3	New Castle County	7213	Rooming and boarding houses	72	0500000US10003	1.0	0.0	0.0
+92713	10003	10	3	New Castle County	7223	Special food services	72	0500000US10003	130.0	0.0	0.0
+92714	10003	10	3	New Castle County	7224	Drinking places (alcoholic beverages)	72	0500000US10003	48.0	455.0	6137.0
+92715	10003	10	3	New Castle County	7225	Restaurants and other eating places	72	0500000US10003	874.0	17128.0	253603.0
+92716	10003	10	3	New Castle County	8111	Automotive repair and maintenance	81	0500000US10003	246.0	1511.0	49770.0
+92717	10003	10	3	New Castle County	8112	Electronic and precision equipment repair and maintenance	81	0500000US10003	24.0	121.0	5715.0
+92718	10003	10	3	New Castle County	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10003	24.0	189.0	7885.0
+92719	10003	10	3	New Castle County	8114	Personal and household goods repair and maintenance	81	0500000US10003	27.0	65.0	2193.0
+92720	10003	10	3	New Castle County	8121	Personal care services	81	0500000US10003	249.0	1818.0	35224.0
+92721	10003	10	3	New Castle County	8122	Death care services	81	0500000US10003	31.0	320.0	12458.0
+92722	10003	10	3	New Castle County	8123	Drycleaning and laundry services	81	0500000US10003	73.0	0.0	0.0
+92723	10003	10	3	New Castle County	8129	Other personal services	81	0500000US10003	57.0	365.0	6074.0
+92724	10003	10	3	New Castle County	8131	Religious organizations	81	0500000US10003	310.0	3463.0	72908.0
+92725	10003	10	3	New Castle County	8132	Grantmaking and giving services	81	0500000US10003	47.0	226.0	13512.0
+92726	10003	10	3	New Castle County	8133	Social advocacy organizations	81	0500000US10003	35.0	241.0	10395.0
+92727	10003	10	3	New Castle County	8134	Civic and social organizations	81	0500000US10003	53.0	0.0	12045.0
+92728	10003	10	3	New Castle County	8139	Business, professional, labor, political, and similar organizations	81	0500000US10003	122.0	788.0	31509.0
+92729	10003	10	3	New Castle County, Delaware	1141	Fishing	11	0500000US10003	1.0	0.0	0.0
+92730	10003	10	3	New Castle County, Delaware	1151	Support activities for crop production	11	0500000US10003	3.2	0.0	0.0
+92731	10003	10	3	New Castle County, Delaware	1152	Support activities for animal production	11	0500000US10003	6.875	34.0	1213.125
+92732	10003	10	3	New Castle County, Delaware	1153	Support activities for forestry	11	0500000US10003	1.0	0.0	0.0
+92733	10003	10	3	New Castle County, Delaware	2111	Oil and gas extraction	21	0500000US10003	4.166666666666667	12.5	2310.5
+92734	10003	10	3	New Castle County, Delaware	2123	Nonmetallic mineral mining and quarrying	21	0500000US10003	2.2	8.2	580.6
+92735	10003	10	3	New Castle County, Delaware	2131	Support activities for mining	21	0500000US10003	4.0	38.25	3395.625
+92736	10003	10	3	New Castle County, Delaware	2211	Electric power generation, transmission and distribution	22	0500000US10003	24.125	606.625	78995.875
+92737	10003	10	3	New Castle County, Delaware	2212	Natural gas distribution	22	0500000US10003	2.0	0.0	0.0
+92738	10003	10	3	New Castle County, Delaware	2213	Water, sewage and other systems	22	0500000US10003	8.375	351.375	29307.0
+92739	10003	10	3	New Castle County, Delaware	2361	Residential building construction	23	0500000US10003	281.25	1137.75	58581.625
+92740	10003	10	3	New Castle County, Delaware	2362	Nonresidential building construction	23	0500000US10003	66.75	1080.375	72725.875
+92741	10003	10	3	New Castle County, Delaware	2371	Utility system construction	23	0500000US10003	24.625	448.875	29191.0
+92742	10003	10	3	New Castle County, Delaware	2372	Land subdivision	23	0500000US10003	2.875	4.0	292.625
+92743	10003	10	3	New Castle County, Delaware	2373	Highway, street, and bridge construction	23	0500000US10003	21.125	866.625	65782.25
+92744	10003	10	3	New Castle County, Delaware	2379	Other heavy and civil engineering construction	23	0500000US10003	1.8	1.8	57.2
+92745	10003	10	3	New Castle County, Delaware	2381	Foundation, structure, and building exterior contractors	23	0500000US10003	160.625	1581.625	89636.75
+92746	10003	10	3	New Castle County, Delaware	2382	Building equipment contractors	23	0500000US10003	325.625	5598.75	357498.5
+92747	10003	10	3	New Castle County, Delaware	2383	Building finishing contractors	23	0500000US10003	234.25	1865.0	92311.125
+92748	10003	10	3	New Castle County, Delaware	2389	Other specialty trade contractors	23	0500000US10003	113.25	1172.625	65330.375
+92749	10003	10	3	New Castle County, Delaware	3111	Animal food manufacturing	31	0500000US10003	2.0	18.8	603.0
+92750	10003	10	3	New Castle County, Delaware	3112	Grain and oilseed milling	31	0500000US10003	1.0	0.0	0.0
+92751	10003	10	3	New Castle County, Delaware	3113	Sugar and confectionery product manufacturing	31	0500000US10003	4.125	81.625	4264.625
+92752	10003	10	3	New Castle County, Delaware	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10003	2.0	0.75	401.5
+92753	10003	10	3	New Castle County, Delaware	3115	Dairy product manufacturing	31	0500000US10003	1.25	0.0	0.0
+92754	10003	10	3	New Castle County, Delaware	3116	Animal slaughtering and processing	31	0500000US10003	1.3333333333333333	0.0	0.0
+92755	10003	10	3	New Castle County, Delaware	3117	Seafood product preparation and packaging	31	0500000US10003	1.0	0.0	0.0
+92756	10003	10	3	New Castle County, Delaware	3118	Bakeries and tortilla manufacturing	31	0500000US10003	13.875	121.875	3214.75
+92757	10003	10	3	New Castle County, Delaware	3119	Other food manufacturing	31	0500000US10003	2.6	87.2	9113.6
+92758	10003	10	3	New Castle County, Delaware	3121	Beverage manufacturing	31	0500000US10003	6.75	26.625	577.75
+92759	10003	10	3	New Castle County, Delaware	3131	Fiber, yarn, and thread mills	31	0500000US10003	1.0	0.0	0.0
+92760	10003	10	3	New Castle County, Delaware	3132	Fabric mills	31	0500000US10003	1.0	0.0	0.0
+92761	10003	10	3	New Castle County, Delaware	3133	Textile and fabric finishing and fabric coating mills	31	0500000US10003	1.6666666666666667	0.0	0.0
+92762	10003	10	3	New Castle County, Delaware	3141	Textile furnishings mills	31	0500000US10003	1.5	0.0	0.0
+92763	10003	10	3	New Castle County, Delaware	3149	Other textile product mills	31	0500000US10003	7.125	19.875	1054.0
+92764	10003	10	3	New Castle County, Delaware	3152	Cut and sew apparel manufacturing	31	0500000US10003	2.375	3.125	84.375
+92765	10003	10	3	New Castle County, Delaware	3159	Apparel accessories and other apparel manufacturing	31	0500000US10003	1.5	0.0	0.0
+92766	10003	10	3	New Castle County, Delaware	3169	Other leather and allied product manufacturing	31	0500000US10003	2.75	2.0	50.0
+92767	10003	10	3	New Castle County, Delaware	3212	Veneer, plywood, and engineered wood product manufacturing	32	0500000US10003	3.0	34.75	1047.75
+92768	10003	10	3	New Castle County, Delaware	3219	Other wood product manufacturing	32	0500000US10003	3.375	5.625	84.125
+92769	10003	10	3	New Castle County, Delaware	3222	Converted paper product manufacturing	32	0500000US10003	2.0	37.0	1773.8
+92770	10003	10	3	New Castle County, Delaware	3231	Printing and related support activities	32	0500000US10003	40.5	318.75	15565.0
+92771	10003	10	3	New Castle County, Delaware	3241	Petroleum and coal products manufacturing	32	0500000US10003	5.625	497.0	58875.0
+92772	10003	10	3	New Castle County, Delaware	3251	Basic chemical manufacturing	32	0500000US10003	7.0	362.125	44658.625
+92773	10003	10	3	New Castle County, Delaware	3252	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	32	0500000US10003	5.125	224.125	18849.25
+92774	10003	10	3	New Castle County, Delaware	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10003	1.0	0.0	0.0
+92775	10003	10	3	New Castle County, Delaware	3254	Pharmaceutical and medicine manufacturing	32	0500000US10003	7.125	1452.875	142571.375
+92776	10003	10	3	New Castle County, Delaware	3255	Paint, coating, and adhesive manufacturing	32	0500000US10003	2.75	8.5	544.5
+92777	10003	10	3	New Castle County, Delaware	3256	Soap, cleaning compound, and toilet preparation manufacturing	32	0500000US10003	5.125	400.625	35783.625
+92778	10003	10	3	New Castle County, Delaware	3259	Other chemical product and preparation manufacturing	32	0500000US10003	7.75	185.25	14146.625
+92779	10003	10	3	New Castle County, Delaware	3261	Plastics product manufacturing	32	0500000US10003	20.125	1097.375	64899.75
+92780	10003	10	3	New Castle County, Delaware	3262	Rubber product manufacturing	32	0500000US10003	3.625	97.75	5624.125
+92781	10003	10	3	New Castle County, Delaware	3271	Clay product and refractory manufacturing	32	0500000US10003	3.75	33.875	2708.25
+92782	10003	10	3	New Castle County, Delaware	3272	Glass and glass product manufacturing	32	0500000US10003	3.1666666666666665	20.166666666666668	866.0
+92783	10003	10	3	New Castle County, Delaware	3273	Cement and concrete product manufacturing	32	0500000US10003	10.75	148.125	7579.125
+92784	10003	10	3	New Castle County, Delaware	3274	Lime and gypsum product manufacturing	32	0500000US10003	1.0	0.0	0.0
+92785	10003	10	3	New Castle County, Delaware	3279	Other nonmetallic mineral product manufacturing	32	0500000US10003	4.25	73.5	4136.5
+92786	10003	10	3	New Castle County, Delaware	3311	Iron and steel mills and ferroalloy manufacturing	33	0500000US10003	1.0	0.0	0.0
+92787	10003	10	3	New Castle County, Delaware	3312	Steel product manufacturing from purchased steel	33	0500000US10003	1.0	0.0	0.0
+92788	10003	10	3	New Castle County, Delaware	3314	Nonferrous metal (except aluminum) production and processing	33	0500000US10003	1.0	0.0	0.0
+92789	10003	10	3	New Castle County, Delaware	3315	Foundries	33	0500000US10003	1.0	0.0	0.0
+92790	10003	10	3	New Castle County, Delaware	3322	Cutlery and handtool manufacturing	33	0500000US10003	1.0	0.0	0.0
+92791	10003	10	3	New Castle County, Delaware	3323	Architectural and structural metals manufacturing	33	0500000US10003	14.75	316.625	17015.25
+92792	10003	10	3	New Castle County, Delaware	3324	Boiler, tank, and shipping container manufacturing	33	0500000US10003	2.7142857142857144	42.714285714285715	2655.1428571428573
+92793	10003	10	3	New Castle County, Delaware	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10003	22.375	224.125	13317.25
+92794	10003	10	3	New Castle County, Delaware	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10003	8.25	124.625	6276.875
+92795	10003	10	3	New Castle County, Delaware	3329	Other fabricated metal product manufacturing	33	0500000US10003	4.625	174.875	13162.375
+92796	10003	10	3	New Castle County, Delaware	3331	Agriculture, construction, and mining machinery manufacturing	33	0500000US10003	1.0	0.0	0.0
+92797	10003	10	3	New Castle County, Delaware	3332	Industrial machinery manufacturing	33	0500000US10003	5.875	90.125	6161.625
+92798	10003	10	3	New Castle County, Delaware	3333	Commercial and service industry machinery manufacturing	33	0500000US10003	1.3333333333333333	0.0	0.0
+92799	10003	10	3	New Castle County, Delaware	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	33	0500000US10003	3.25	21.875	2240.125
+92800	10003	10	3	New Castle County, Delaware	3335	Metalworking machinery manufacturing	33	0500000US10003	1.0	0.0	0.0
+92801	10003	10	3	New Castle County, Delaware	3336	Engine, turbine, and power transmission equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92802	10003	10	3	New Castle County, Delaware	3339	Other general purpose machinery manufacturing	33	0500000US10003	7.625	105.125	7418.875
+92803	10003	10	3	New Castle County, Delaware	3341	Computer and peripheral equipment manufacturing	33	0500000US10003	3.0	0.0	0.0
+92804	10003	10	3	New Castle County, Delaware	3342	Communications equipment manufacturing	33	0500000US10003	4.0	14.833333333333334	1915.6666666666667
+92805	10003	10	3	New Castle County, Delaware	3343	Audio and video equipment manufacturing	33	0500000US10003	1.0	0.0	0.0
+92806	10003	10	3	New Castle County, Delaware	3344	Semiconductor and other electronic component manufacturing	33	0500000US10003	3.5714285714285716	18.428571428571427	1510.857142857143
+92807	10003	10	3	New Castle County, Delaware	3345	Navigational, measuring, electromedical, and control instruments manufacturing	33	0500000US10003	26.5	2015.125	228199.625
+92808	10003	10	3	New Castle County, Delaware	3346	Manufacturing and reproducing magnetic and optical media	33	0500000US10003	1.0	0.0	0.0
+92809	10003	10	3	New Castle County, Delaware	3351	Electric lighting equipment manufacturing	33	0500000US10003	2.7142857142857144	14.571428571428571	776.1428571428571
+92810	10003	10	3	New Castle County, Delaware	3353	Electrical equipment manufacturing	33	0500000US10003	4.375	77.125	10274.875
+92811	10003	10	3	New Castle County, Delaware	3359	Other electrical equipment and component manufacturing	33	0500000US10003	5.0	715.5	51666.875
+92812	10003	10	3	New Castle County, Delaware	3361	Motor vehicle manufacturing	33	0500000US10003	1.0	0.0	0.0
+92813	10003	10	3	New Castle County, Delaware	3363	Motor vehicle parts manufacturing	33	0500000US10003	4.25	38.375	2138.375
+92814	10003	10	3	New Castle County, Delaware	3364	Aerospace product and parts manufacturing	33	0500000US10003	2.6	216.8	15285.6
+92815	10003	10	3	New Castle County, Delaware	3366	Ship and boat building	33	0500000US10003	2.5	0.0	0.0
+92816	10003	10	3	New Castle County, Delaware	3369	Other transportation equipment manufacturing	33	0500000US10003	1.6666666666666667	0.0	0.0
+92817	10003	10	3	New Castle County, Delaware	3371	Household and institutional furniture and kitchen cabinet manufacturing	33	0500000US10003	5.625	24.0	814.375
+92818	10003	10	3	New Castle County, Delaware	3372	Office furniture (including fixtures) manufacturing	33	0500000US10003	5.0	73.2	10756.2
+92819	10003	10	3	New Castle County, Delaware	3379	Other furniture related product manufacturing	33	0500000US10003	3.125	5.25	230.125
+92820	10003	10	3	New Castle County, Delaware	3391	Medical equipment and supplies manufacturing	33	0500000US10003	14.5	130.0	6345.25
+92821	10003	10	3	New Castle County, Delaware	3399	Other miscellaneous manufacturing	33	0500000US10003	16.0	212.75	16476.5
+92822	10003	10	3	New Castle County, Delaware	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10003	46.75	564.125	25446.75
+92823	10003	10	3	New Castle County, Delaware	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10003	25.625	380.875	21437.25
+92824	10003	10	3	New Castle County, Delaware	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10003	32.0	350.625	21931.25
+92825	10003	10	3	New Castle County, Delaware	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10003	92.875	523.0	35974.75
+92826	10003	10	3	New Castle County, Delaware	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10003	24.75	217.0	12421.125
+92827	10003	10	3	New Castle County, Delaware	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10003	43.0	383.125	28292.125
+92828	10003	10	3	New Castle County, Delaware	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10003	47.75	468.25	30856.75
+92829	10003	10	3	New Castle County, Delaware	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10003	87.5	988.875	63441.75
+92830	10003	10	3	New Castle County, Delaware	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10003	46.625	341.75	17012.625
+92831	10003	10	3	New Castle County, Delaware	4241	Paper and paper product merchant wholesalers	42	0500000US10003	15.75	158.625	8540.0
+92832	10003	10	3	New Castle County, Delaware	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10003	22.75	2190.75	389035.75
+92833	10003	10	3	New Castle County, Delaware	4243	Apparel, piece goods, and notions merchant wholesalers	42	0500000US10003	20.5	179.375	11729.75
+92834	10003	10	3	New Castle County, Delaware	4244	Grocery and related product merchant wholesalers	42	0500000US10003	54.625	754.5	42173.875
+92835	10003	10	3	New Castle County, Delaware	4245	Farm product raw material merchant wholesalers	42	0500000US10003	2.857142857142857	44.42857142857143	2228.4285714285716
+92836	10003	10	3	New Castle County, Delaware	4246	Chemical and allied products merchant wholesalers	42	0500000US10003	46.25	909.75	95004.875
+92837	10003	10	3	New Castle County, Delaware	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10003	5.625	38.75	4090.625
+92838	10003	10	3	New Castle County, Delaware	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10003	19.625	606.125	38268.25
+92839	10003	10	3	New Castle County, Delaware	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10003	37.375	304.0	14600.25
+92840	10003	10	3	New Castle County, Delaware	4251	Wholesale electronic markets and agents and brokers	42	0500000US10003	94.25	408.625	35919.375
+92841	10003	10	3	New Castle County, Delaware	4411	Automobile dealers	44	0500000US10003	75.875	3015.5	152216.625
+92842	10003	10	3	New Castle County, Delaware	4412	Other motor vehicle dealers	44	0500000US10003	19.5	220.25	8774.125
+92843	10003	10	3	New Castle County, Delaware	4413	Automotive parts, accessories, and tire stores	44	0500000US10003	84.625	935.875	28972.125
+92844	10003	10	3	New Castle County, Delaware	4421	Furniture stores	44	0500000US10003	50.5	466.75	17103.75
+92845	10003	10	3	New Castle County, Delaware	4422	Home furnishings stores	44	0500000US10003	53.625	759.25	16716.5
+92846	10003	10	3	New Castle County, Delaware	4431	Electronics and appliance stores	44	0500000US10003	83.875	1005.375	31203.625
+92847	10003	10	3	New Castle County, Delaware	4441	Building material and supplies dealers	44	0500000US10003	91.625	2655.5	81950.75
+92848	10003	10	3	New Castle County, Delaware	4442	Lawn and garden equipment and supplies stores	44	0500000US10003	27.625	233.375	8862.875
+92849	10003	10	3	New Castle County, Delaware	4451	Grocery stores	44	0500000US10003	159.375	5147.375	118069.625
+92850	10003	10	3	New Castle County, Delaware	4452	Specialty food stores	44	0500000US10003	41.375	262.875	5202.75
+92851	10003	10	3	New Castle County, Delaware	4453	Beer, wine, and liquor stores	44	0500000US10003	145.25	703.625	16816.75
+92852	10003	10	3	New Castle County, Delaware	4461	Health and personal care stores	44	0500000US10003	187.0	2468.125	70881.0
+92853	10003	10	3	New Castle County, Delaware	4471	Gasoline stations	44	0500000US10003	125.5	1165.0	26707.0
+92854	10003	10	3	New Castle County, Delaware	4481	Clothing stores	44	0500000US10003	168.375	3080.625	50059.75
+92855	10003	10	3	New Castle County, Delaware	4482	Shoe stores	44	0500000US10003	45.75	422.875	6222.75
+92856	10003	10	3	New Castle County, Delaware	4483	Jewelry, luggage, and leather goods stores	44	0500000US10003	56.125	321.75	10813.125
+92857	10003	10	3	New Castle County, Delaware	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10003	70.375	1061.25	19365.5
+92858	10003	10	3	New Castle County, Delaware	4512	Book stores and news dealers	45	0500000US10003	17.625	153.5	2446.625
+92859	10003	10	3	New Castle County, Delaware	4521	Department stores	45	0500000US10003	20.0	3582.25	65926.25
+92860	10003	10	3	New Castle County, Delaware	4522	Department stores	45	0500000US10003	12.0	1746.0	31344.5
+92861	10003	10	3	New Castle County, Delaware	4523	General merchandise stores, including warehouse clubs and supercenters	45	0500000US10003	66.5	3207.0	71981.5
+92862	10003	10	3	New Castle County, Delaware	4529	Other general merchandise stores	45	0500000US10003	56.5	1997.75	40947.0
+92863	10003	10	3	New Castle County, Delaware	4531	Florists	45	0500000US10003	22.125	154.625	2728.875
+92864	10003	10	3	New Castle County, Delaware	4532	Office supplies, stationery, and gift stores	45	0500000US10003	42.875	467.125	9023.5
+92865	10003	10	3	New Castle County, Delaware	4533	Used merchandise stores	45	0500000US10003	24.375	284.25	6203.375
+92866	10003	10	3	New Castle County, Delaware	4539	Other miscellaneous store retailers	45	0500000US10003	122.0	748.125	18835.875
+92867	10003	10	3	New Castle County, Delaware	4541	Electronic shopping and mail-order houses	45	0500000US10003	124.375	1667.375	58954.875
+92868	10003	10	3	New Castle County, Delaware	4542	Vending machine operators	45	0500000US10003	4.875	24.375	771.875
+92869	10003	10	3	New Castle County, Delaware	4543	Direct selling establishments	45	0500000US10003	53.5	397.375	19563.25
+92870	10003	10	3	New Castle County, Delaware	4811	Scheduled air transportation	48	0500000US10003	2.0	2.0	208.25
+92871	10003	10	3	New Castle County, Delaware	4812	Nonscheduled air transportation	48	0500000US10003	17.5	115.5	8266.5
+92872	10003	10	3	New Castle County, Delaware	4831	Deep sea, coastal, and great lakes water transportation	48	0500000US10003	5.375	52.5	5203.125
+92873	10003	10	3	New Castle County, Delaware	4832	Inland water transportation	48	0500000US10003	1.5	0.0	0.0
+92874	10003	10	3	New Castle County, Delaware	4841	General freight trucking	48	0500000US10003	72.5	820.125	43433.625
+92875	10003	10	3	New Castle County, Delaware	4842	Specialized freight trucking	48	0500000US10003	75.75	690.375	36282.75
+92876	10003	10	3	New Castle County, Delaware	4851	Urban transit systems	48	0500000US10003	3.0	0.0	0.0
+92877	10003	10	3	New Castle County, Delaware	4853	Taxi and limousine service	48	0500000US10003	10.5	30.875	465.875
+92878	10003	10	3	New Castle County, Delaware	4854	School and employee bus transportation	48	0500000US10003	12.0	681.75	13309.75
+92879	10003	10	3	New Castle County, Delaware	4855	Charter bus industry	48	0500000US10003	3.0	38.0	641.0
+92880	10003	10	3	New Castle County, Delaware	4859	Other transit and ground passenger transportation	48	0500000US10003	9.75	93.875	3584.875
+92881	10003	10	3	New Castle County, Delaware	4861	Pipeline transportation of crude oil	48	0500000US10003	1.0	0.0	0.0
+92882	10003	10	3	New Castle County, Delaware	4862	Pipeline transportation of natural gas	48	0500000US10003	1.0	0.0	0.0
+92883	10003	10	3	New Castle County, Delaware	4869	Other pipeline transportation	48	0500000US10003	1.0	0.0	0.0
+92884	10003	10	3	New Castle County, Delaware	4871	Scenic and sightseeing transportation, land	48	0500000US10003	1.0	0.0	0.0
+92885	10003	10	3	New Castle County, Delaware	4872	Scenic and sightseeing transportation, water	48	0500000US10003	9.625	16.0	1275.0
+92886	10003	10	3	New Castle County, Delaware	4881	Support activities for air transportation	48	0500000US10003	16.625	658.625	49229.625
+92887	10003	10	3	New Castle County, Delaware	4882	Support activities for rail transportation	48	0500000US10003	5.0	305.625	20637.625
+92888	10003	10	3	New Castle County, Delaware	4883	Support activities for water transportation	48	0500000US10003	14.0	771.375	35215.5
+92889	10003	10	3	New Castle County, Delaware	4884	Support activities for road transportation	48	0500000US10003	22.375	129.25	5597.25
+92890	10003	10	3	New Castle County, Delaware	4885	Freight transportation arrangement	48	0500000US10003	31.875	381.875	19919.125
+92891	10003	10	3	New Castle County, Delaware	4889	Other support activities for transportation	48	0500000US10003	3.625	22.5	1407.75
+92892	10003	10	3	New Castle County, Delaware	4921	Couriers and express delivery services	49	0500000US10003	24.75	1023.375	43690.875
+92893	10003	10	3	New Castle County, Delaware	4922	Local messengers and local delivery	49	0500000US10003	11.625	99.5	3967.875
+92894	10003	10	3	New Castle County, Delaware	4931	Warehousing and storage	49	0500000US10003	56.5	1689.25	63239.75
+92895	10003	10	3	New Castle County, Delaware	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10003	15.875	275.375	14012.0
+92896	10003	10	3	New Castle County, Delaware	5112	Software publishers	51	0500000US10003	47.75	526.125	62373.625
+92897	10003	10	3	New Castle County, Delaware	5121	Motion picture and video industries	51	0500000US10003	30.5	286.125	5078.625
+92898	10003	10	3	New Castle County, Delaware	5122	Sound recording industries	51	0500000US10003	4.75	8.25	302.5
+92899	10003	10	3	New Castle County, Delaware	5151	Radio and television broadcasting	51	0500000US10003	9.5	146.375	7775.375
+92900	10003	10	3	New Castle County, Delaware	5152	Cable and other subscription programming	51	0500000US10003	1.0	0.0	0.0
+92901	10003	10	3	New Castle County, Delaware	5171	Wired telecommunications carriers	51	0500000US10003	84.0	2257.5	120389.0
+92902	10003	10	3	New Castle County, Delaware	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10003	26.0	121.25	8198.25
+92903	10003	10	3	New Castle County, Delaware	5173	Wired and wireless telecommunications carriers	51	0500000US10003	129.25	2051.0	145798.0
+92904	10003	10	3	New Castle County, Delaware	5174	Satellite telecommunications	51	0500000US10003	1.75	0.0	0.0
+92905	10003	10	3	New Castle County, Delaware	5179	Other telecommunications	51	0500000US10003	15.875	49.0	4049.5
+92906	10003	10	3	New Castle County, Delaware	5182	Data processing, hosting, and related services	51	0500000US10003	55.5	1026.625	87144.0
+92907	10003	10	3	New Castle County, Delaware	5191	Other information services	51	0500000US10003	41.75	326.5	17780.75
+92908	10003	10	3	New Castle County, Delaware	5221	Depository credit intermediation	52	0500000US10003	273.25	15990.25	1579546.875
+92909	10003	10	3	New Castle County, Delaware	5222	Nondepository credit intermediation	52	0500000US10003	164.0	9195.125	806103.375
+92910	10003	10	3	New Castle County, Delaware	5223	Activities related to credit intermediation	52	0500000US10003	86.25	1254.625	141604.375
+92911	10003	10	3	New Castle County, Delaware	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10003	124.75	2150.0	300983.25
+92912	10003	10	3	New Castle County, Delaware	5239	Other financial investment activities	52	0500000US10003	445.0	3112.5	407592.25
+92913	10003	10	3	New Castle County, Delaware	5241	Insurance carriers	52	0500000US10003	87.5	3103.125	302373.5
+92914	10003	10	3	New Castle County, Delaware	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10003	230.25	1607.125	111478.625
+92915	10003	10	3	New Castle County, Delaware	5259	Other investment pools and funds	52	0500000US10003	53.5	57.375	3312.5
+92916	10003	10	3	New Castle County, Delaware	5311	Lessors of real estate	53	0500000US10003	238.0	1016.125	55684.5
+92917	10003	10	3	New Castle County, Delaware	5312	Offices of real estate agents and brokers	53	0500000US10003	187.375	551.25	34717.125
+92918	10003	10	3	New Castle County, Delaware	5313	Activities related to real estate	53	0500000US10003	194.0	1476.0	80420.125
+92919	10003	10	3	New Castle County, Delaware	5321	Automotive equipment rental and leasing	53	0500000US10003	20.25	196.5	8673.375
+92920	10003	10	3	New Castle County, Delaware	5322	Consumer goods rental	53	0500000US10003	33.5	203.5	8811.75
+92921	10003	10	3	New Castle County, Delaware	5323	General rental centers	53	0500000US10003	5.125	25.625	1601.125
+92922	10003	10	3	New Castle County, Delaware	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10003	29.25	317.5	22096.375
+92923	10003	10	3	New Castle County, Delaware	5331	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0500000US10003	66.0	186.125	12514.125
+92924	10003	10	3	New Castle County, Delaware	5411	Legal services	54	0500000US10003	373.5	4789.0	609292.375
+92925	10003	10	3	New Castle County, Delaware	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10003	230.5	2215.75	113843.375
+92926	10003	10	3	New Castle County, Delaware	5413	Architectural, engineering, and related services	54	0500000US10003	204.875	2264.25	187529.0
+92927	10003	10	3	New Castle County, Delaware	5414	Specialized design services	54	0500000US10003	60.0	185.25	9129.125
+92928	10003	10	3	New Castle County, Delaware	5415	Computer systems design and related services	54	0500000US10003	559.375	5519.875	524347.125
+92929	10003	10	3	New Castle County, Delaware	5416	Management, scientific, and technical consulting services	54	0500000US10003	423.625	3766.5	311220.625
+92930	10003	10	3	New Castle County, Delaware	5417	Scientific research and development services	54	0500000US10003	82.625	4809.625	890883.5
+92931	10003	10	3	New Castle County, Delaware	5418	Advertising, public relations, and related services	54	0500000US10003	83.0	598.875	34248.75
+92932	10003	10	3	New Castle County, Delaware	5419	Other professional, scientific, and technical services	54	0500000US10003	134.5	1121.75	53083.125
+92933	10003	10	3	New Castle County, Delaware	5511	Management of companies and enterprises	55	0500000US10003	694.75	9209.875	939872.875
+92934	10003	10	3	New Castle County, Delaware	5611	Office administrative services	56	0500000US10003	123.0	1520.625	152595.625
+92935	10003	10	3	New Castle County, Delaware	5612	Facilities support services	56	0500000US10003	18.5	306.75	11129.0
+92936	10003	10	3	New Castle County, Delaware	5613	Employment services	56	0500000US10003	122.625	6379.75	197950.625
+92937	10003	10	3	New Castle County, Delaware	5614	Business support services	56	0500000US10003	77.375	1470.375	71130.75
+92938	10003	10	3	New Castle County, Delaware	5615	Travel arrangement and reservation services	56	0500000US10003	48.375	1257.25	26186.875
+92939	10003	10	3	New Castle County, Delaware	5616	Investigation and security services	56	0500000US10003	49.5	2752.625	76689.0
+92940	10003	10	3	New Castle County, Delaware	5617	Services to buildings and dwellings	56	0500000US10003	416.875	4044.25	108199.625
+92941	10003	10	3	New Castle County, Delaware	5619	Other support services	56	0500000US10003	42.0	474.0	18192.75
+92942	10003	10	3	New Castle County, Delaware	5621	Waste collection	56	0500000US10003	27.75	559.125	33666.0
+92943	10003	10	3	New Castle County, Delaware	5622	Waste treatment and disposal	56	0500000US10003	5.375	56.125	3161.0
+92944	10003	10	3	New Castle County, Delaware	5629	Remediation and other waste management services	56	0500000US10003	19.75	350.25	18744.75
+92945	10003	10	3	New Castle County, Delaware	6111	Elementary and secondary schools	61	0500000US10003	48.25	2967.0	109571.25
+92946	10003	10	3	New Castle County, Delaware	6112	Junior colleges	61	0500000US10003	2.0	0.0	0.0
+92947	10003	10	3	New Castle County, Delaware	6113	Colleges, universities, and professional schools	61	0500000US10003	7.125	433.875	31822.125
+92948	10003	10	3	New Castle County, Delaware	6114	Business schools and computer and management training	61	0500000US10003	21.375	76.625	6406.25
+92949	10003	10	3	New Castle County, Delaware	6115	Technical and trade schools	61	0500000US10003	17.125	416.0	22581.375
+92950	10003	10	3	New Castle County, Delaware	6116	Other schools and instruction	61	0500000US10003	118.125	864.0	14167.875
+92951	10003	10	3	New Castle County, Delaware	6117	Educational support services	61	0500000US10003	23.125	208.0	8204.0
+92952	10003	10	3	New Castle County, Delaware	6211	Offices of physicians	62	0500000US10003	413.125	6259.25	610654.0
+92953	10003	10	3	New Castle County, Delaware	6212	Offices of dentists	62	0500000US10003	187.125	1849.0	120327.375
+92954	10003	10	3	New Castle County, Delaware	6213	Offices of other health practitioners	62	0500000US10003	284.25	1931.25	83566.0
+92955	10003	10	3	New Castle County, Delaware	6214	Outpatient care centers	62	0500000US10003	82.875	1904.0	94158.875
+92956	10003	10	3	New Castle County, Delaware	6215	Medical and diagnostic laboratories	62	0500000US10003	58.75	416.625	17766.5
+92957	10003	10	3	New Castle County, Delaware	6216	Home health care services	62	0500000US10003	50.875	2632.5	95153.625
+92958	10003	10	3	New Castle County, Delaware	6219	Other ambulatory health care services	62	0500000US10003	14.625	568.25	33575.375
+92959	10003	10	3	New Castle County, Delaware	6221	General medical and surgical hospitals	62	0500000US10003	5.875	13798.5	1025334.5
+92960	10003	10	3	New Castle County, Delaware	6222	Psychiatric and substance abuse hospitals	62	0500000US10003	3.875	1085.875	55714.875
+92961	10003	10	3	New Castle County, Delaware	6223	Specialty (except psychiatric and substance abuse) hospitals	62	0500000US10003	1.75	0.0	0.0
+92962	10003	10	3	New Castle County, Delaware	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10003	23.625	2983.875	109205.0
+92963	10003	10	3	New Castle County, Delaware	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10003	108.5	1807.25	56630.375
+92964	10003	10	3	New Castle County, Delaware	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10003	23.75	2370.75	68953.0
+92965	10003	10	3	New Castle County, Delaware	6239	Other residential care facilities	62	0500000US10003	6.0	31.428571428571427	1174.7142857142858
+92966	10003	10	3	New Castle County, Delaware	6241	Individual and family services	62	0500000US10003	188.0	3465.875	91835.625
+92967	10003	10	3	New Castle County, Delaware	6242	Community food and housing, and emergency and other relief services	62	0500000US10003	21.625	234.875	8425.5
+92968	10003	10	3	New Castle County, Delaware	6243	Vocational rehabilitation services	62	0500000US10003	16.625	665.75	15489.625
+92969	10003	10	3	New Castle County, Delaware	6244	Child day care services	62	0500000US10003	205.25	3119.875	63720.125
+92970	10003	10	3	New Castle County, Delaware	7111	Performing arts companies	71	0500000US10003	16.25	156.25	3342.75
+92971	10003	10	3	New Castle County, Delaware	7112	Spectator sports	71	0500000US10003	13.75	46.0	1824.25
+92972	10003	10	3	New Castle County, Delaware	7113	Promoters of performing arts, sports, and similar events	71	0500000US10003	13.0	144.625	3460.875
+92973	10003	10	3	New Castle County, Delaware	7114	Agents and managers for artists, athletes, entertainers, and other public figures	71	0500000US10003	4.75	10.125	416.125
+92974	10003	10	3	New Castle County, Delaware	7115	Independent artists, writers, and performers	71	0500000US10003	33.375	55.5	6900.125
+92975	10003	10	3	New Castle County, Delaware	7121	Museums, historical sites, and similar institutions	71	0500000US10003	21.75	882.0	25180.0
+92976	10003	10	3	New Castle County, Delaware	7131	Amusement parks and arcades	71	0500000US10003	3.8	33.6	817.0
+92977	10003	10	3	New Castle County, Delaware	7132	Gambling industries	71	0500000US10003	5.0	431.5	14859.25
+92978	10003	10	3	New Castle County, Delaware	7139	Other amusement and recreation industries	71	0500000US10003	162.75	3111.125	58583.5
+92979	10003	10	3	New Castle County, Delaware	7211	Traveler accommodation	72	0500000US10003	66.875	1895.125	49832.625
+92980	10003	10	3	New Castle County, Delaware	7212	RV (recreational vehicle) parks and recreational camps	72	0500000US10003	2.0	0.0	0.0
+92981	10003	10	3	New Castle County, Delaware	7213	Rooming and boarding houses	72	0500000US10003	1.25	0.0	0.0
+92982	10003	10	3	New Castle County, Delaware	7223	Special food services	72	0500000US10003	124.5	1443.875	40144.0
+92983	10003	10	3	New Castle County, Delaware	7224	Drinking places (alcoholic beverages)	72	0500000US10003	47.375	377.0	5492.5
+92984	10003	10	3	New Castle County, Delaware	7225	Restaurants and other eating places	72	0500000US10003	958.375	19310.0	312312.25
+92985	10003	10	3	New Castle County, Delaware	8111	Automotive repair and maintenance	81	0500000US10003	253.625	1566.375	60922.0
+92986	10003	10	3	New Castle County, Delaware	8112	Electronic and precision equipment repair and maintenance	81	0500000US10003	20.625	88.25	4596.25
+92987	10003	10	3	New Castle County, Delaware	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10003	21.875	198.375	9631.5
+92988	10003	10	3	New Castle County, Delaware	8114	Personal and household goods repair and maintenance	81	0500000US10003	21.5	70.125	1889.125
+92989	10003	10	3	New Castle County, Delaware	8121	Personal care services	81	0500000US10003	301.375	2132.75	45969.0
+92990	10003	10	3	New Castle County, Delaware	8122	Death care services	81	0500000US10003	30.25	310.375	12726.25
+92991	10003	10	3	New Castle County, Delaware	8123	Drycleaning and laundry services	81	0500000US10003	64.625	525.125	17792.125
+92992	10003	10	3	New Castle County, Delaware	8129	Other personal services	81	0500000US10003	69.375	432.75	9306.25
+92993	10003	10	3	New Castle County, Delaware	8131	Religious organizations	81	0500000US10003	309.375	2975.5	70752.625
+92994	10003	10	3	New Castle County, Delaware	8132	Grantmaking and giving services	81	0500000US10003	64.625	265.5	16477.125
+92995	10003	10	3	New Castle County, Delaware	8133	Social advocacy organizations	81	0500000US10003	39.25	385.125	16310.625
+92996	10003	10	3	New Castle County, Delaware	8134	Civic and social organizations	81	0500000US10003	52.75	546.125	16740.875
+92997	10003	10	3	New Castle County, Delaware	8139	Business, professional, labor, political, and similar organizations	81	0500000US10003	122.0	828.75	37634.0
+92998	10005	10	5	Sussex County	1133	Logging	11	0500000US10005	4.0	0.0	562.0
+92999	10005	10	5	Sussex County	1141	Fishing	11	0500000US10005	5.0	0.0	99.0
+93000	10005	10	5	Sussex County	1151	Support activities for crop production	11	0500000US10005	4.0	0.0	0.0
+93001	10005	10	5	Sussex County	1152	Support activities for animal production	11	0500000US10005	5.0	0.0	0.0
+93002	10005	10	5	Sussex County	2123	Nonmetallic mineral mining and quarrying	21	0500000US10005	1.0	0.0	0.0
+93003	10005	10	5	Sussex County	2211	Electric power generation, transmission and distribution	22	0500000US10005	5.0	323.0	30045.0
+93004	10005	10	5	Sussex County	2213	Water, sewage and other systems	22	0500000US10005	6.0	21.0	1257.0
+93005	10005	10	5	Sussex County	2361	Residential building construction	23	0500000US10005	212.0	879.0	34535.0
+93006	10005	10	5	Sussex County	2362	Nonresidential building construction	23	0500000US10005	21.0	145.0	5473.0
+93007	10005	10	5	Sussex County	2371	Utility system construction	23	0500000US10005	17.0	0.0	3377.0
+93008	10005	10	5	Sussex County	2372	Land subdivision	23	0500000US10005	4.0	0.0	2125.0
+93009	10005	10	5	Sussex County	2373	Highway, street, and bridge construction	23	0500000US10005	3.0	82.0	3487.0
+93010	10005	10	5	Sussex County	2379	Other heavy and civil engineering construction	23	0500000US10005	4.0	0.0	0.0
+93011	10005	10	5	Sussex County	2381	Foundation, structure, and building exterior contractors	23	0500000US10005	77.0	345.0	11465.0
+93012	10005	10	5	Sussex County	2382	Building equipment contractors	23	0500000US10005	166.0	983.0	39924.0
+93013	10005	10	5	Sussex County	2383	Building finishing contractors	23	0500000US10005	86.0	377.0	14411.0
+93014	10005	10	5	Sussex County	2389	Other specialty trade contractors	23	0500000US10005	66.0	471.0	18549.0
+93015	10005	10	5	Sussex County	3111	Animal food manufacturing	31	0500000US10005	5.0	136.0	5580.0
+93016	10005	10	5	Sussex County	3113	Sugar and confectionery product manufacturing	31	0500000US10005	4.0	0.0	1218.0
+93017	10005	10	5	Sussex County	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10005	4.0	201.0	9393.0
+93018	10005	10	5	Sussex County	3115	Dairy product manufacturing	31	0500000US10005	1.0	0.0	0.0
+93019	10005	10	5	Sussex County	3116	Animal slaughtering and processing	31	0500000US10005	9.0	6305.0	165604.0
+93020	10005	10	5	Sussex County	3117	Seafood product preparation and packaging	31	0500000US10005	1.0	0.0	0.0
+93021	10005	10	5	Sussex County	3118	Bakeries and tortilla manufacturing	31	0500000US10005	5.0	0.0	0.0
+93022	10005	10	5	Sussex County	3121	Beverage manufacturing	31	0500000US10005	3.0	0.0	0.0
+93023	10005	10	5	Sussex County	3132	Fabric mills	31	0500000US10005	1.0	0.0	0.0
+93024	10005	10	5	Sussex County	3141	Textile furnishings mills	31	0500000US10005	3.0	26.0	626.0
+93025	10005	10	5	Sussex County	3211	Sawmills and wood preservation	32	0500000US10005	1.0	0.0	0.0
+93026	10005	10	5	Sussex County	3212	Veneer, plywood, and engineered wood product manufacturing	32	0500000US10005	2.0	0.0	0.0
+93027	10005	10	5	Sussex County	3219	Other wood product manufacturing	32	0500000US10005	7.0	86.0	2471.0
+93028	10005	10	5	Sussex County	3231	Printing and related support activities	32	0500000US10005	7.0	0.0	469.0
+93029	10005	10	5	Sussex County	3241	Petroleum and coal products manufacturing	32	0500000US10005	2.0	0.0	0.0
+93030	10005	10	5	Sussex County	3251	Basic chemical manufacturing	32	0500000US10005	1.0	0.0	0.0
+93031	10005	10	5	Sussex County	3252	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	32	0500000US10005	3.0	0.0	0.0
+93032	10005	10	5	Sussex County	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10005	3.0	0.0	0.0
+93033	10005	10	5	Sussex County	3254	Pharmaceutical and medicine manufacturing	32	0500000US10005	1.0	0.0	0.0
+93034	10005	10	5	Sussex County	3261	Plastics product manufacturing	32	0500000US10005	6.0	175.0	6912.0
+93035	10005	10	5	Sussex County	3262	Rubber product manufacturing	32	0500000US10005	2.0	0.0	0.0
+93036	10005	10	5	Sussex County	3272	Glass and glass product manufacturing	32	0500000US10005	2.0	0.0	0.0
+93037	10005	10	5	Sussex County	3273	Cement and concrete product manufacturing	32	0500000US10005	7.0	0.0	7353.0
+93038	10005	10	5	Sussex County	3279	Other nonmetallic mineral product manufacturing	32	0500000US10005	2.0	0.0	0.0
+93039	10005	10	5	Sussex County	3321	Forging and stamping	33	0500000US10005	2.0	0.0	0.0
+93040	10005	10	5	Sussex County	3323	Architectural and structural metals manufacturing	33	0500000US10005	8.0	141.0	6658.0
+93041	10005	10	5	Sussex County	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10005	4.0	0.0	1018.0
+93042	10005	10	5	Sussex County	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10005	1.0	0.0	0.0
+93043	10005	10	5	Sussex County	3329	Other fabricated metal product manufacturing	33	0500000US10005	4.0	0.0	0.0
+93044	10005	10	5	Sussex County	3331	Agriculture, construction, and mining machinery manufacturing	33	0500000US10005	1.0	0.0	0.0
+93045	10005	10	5	Sussex County	3332	Industrial machinery manufacturing	33	0500000US10005	1.0	0.0	0.0
+93046	10005	10	5	Sussex County	3335	Metalworking machinery manufacturing	33	0500000US10005	1.0	0.0	0.0
+93047	10005	10	5	Sussex County	3339	Other general purpose machinery manufacturing	33	0500000US10005	2.0	0.0	0.0
+93048	10005	10	5	Sussex County	3342	Communications equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93049	10005	10	5	Sussex County	3344	Semiconductor and other electronic component manufacturing	33	0500000US10005	2.0	0.0	0.0
+93050	10005	10	5	Sussex County	3345	Navigational, measuring, electromedical, and control instruments manufacturing	33	0500000US10005	1.0	0.0	0.0
+93051	10005	10	5	Sussex County	3351	Electric lighting equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93052	10005	10	5	Sussex County	3359	Other electrical equipment and component manufacturing	33	0500000US10005	2.0	0.0	0.0
+93053	10005	10	5	Sussex County	3362	Motor vehicle body and trailer manufacturing	33	0500000US10005	1.0	0.0	0.0
+93054	10005	10	5	Sussex County	3363	Motor vehicle parts manufacturing	33	0500000US10005	1.0	0.0	0.0
+93055	10005	10	5	Sussex County	3364	Aerospace product and parts manufacturing	33	0500000US10005	1.0	0.0	0.0
+93056	10005	10	5	Sussex County	3366	Ship and boat building	33	0500000US10005	2.0	0.0	0.0
+93057	10005	10	5	Sussex County	3369	Other transportation equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93058	10005	10	5	Sussex County	3371	Household and institutional furniture and kitchen cabinet manufacturing	33	0500000US10005	7.0	53.0	1666.0
+93059	10005	10	5	Sussex County	3391	Medical equipment and supplies manufacturing	33	0500000US10005	1.0	0.0	0.0
+93060	10005	10	5	Sussex County	3399	Other miscellaneous manufacturing	33	0500000US10005	8.0	0.0	0.0
+93061	10005	10	5	Sussex County	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10005	7.0	96.0	3907.0
+93062	10005	10	5	Sussex County	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10005	2.0	0.0	0.0
+93063	10005	10	5	Sussex County	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10005	9.0	0.0	0.0
+93064	10005	10	5	Sussex County	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10005	7.0	0.0	0.0
+93065	10005	10	5	Sussex County	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10005	5.0	36.0	1390.0
+93066	10005	10	5	Sussex County	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10005	9.0	0.0	1418.0
+93067	10005	10	5	Sussex County	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10005	15.0	93.0	4723.0
+93068	10005	10	5	Sussex County	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10005	32.0	297.0	13095.0
+93069	10005	10	5	Sussex County	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10005	7.0	119.0	3875.0
+93070	10005	10	5	Sussex County	4241	Paper and paper product merchant wholesalers	42	0500000US10005	4.0	18.0	701.0
+93071	10005	10	5	Sussex County	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10005	5.0	68.0	2803.0
+93072	10005	10	5	Sussex County	4243	Apparel, piece goods, and notions merchant wholesalers	42	0500000US10005	3.0	0.0	0.0
+93073	10005	10	5	Sussex County	4244	Grocery and related product merchant wholesalers	42	0500000US10005	23.0	173.0	7747.0
+93074	10005	10	5	Sussex County	4245	Farm product raw material merchant wholesalers	42	0500000US10005	9.0	0.0	1218.0
+93075	10005	10	5	Sussex County	4246	Chemical and allied products merchant wholesalers	42	0500000US10005	6.0	26.0	1368.0
+93076	10005	10	5	Sussex County	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10005	2.0	0.0	0.0
+93077	10005	10	5	Sussex County	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10005	2.0	0.0	0.0
+93078	10005	10	5	Sussex County	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10005	14.0	102.0	6993.0
+93079	10005	10	5	Sussex County	4251	Wholesale electronic markets and agents and brokers	42	0500000US10005	13.0	0.0	0.0
+93080	10005	10	5	Sussex County	4411	Automobile dealers	44	0500000US10005	47.0	649.0	31257.0
+93081	10005	10	5	Sussex County	4412	Other motor vehicle dealers	44	0500000US10005	26.0	214.0	8081.0
+93082	10005	10	5	Sussex County	4413	Automotive parts, accessories, and tire stores	44	0500000US10005	36.0	236.0	6435.0
+93083	10005	10	5	Sussex County	4421	Furniture stores	44	0500000US10005	39.0	447.0	15513.0
+93084	10005	10	5	Sussex County	4422	Home furnishings stores	44	0500000US10005	45.0	310.0	5561.0
+93085	10005	10	5	Sussex County	4431	Electronics and appliance stores	44	0500000US10005	41.0	207.0	4553.0
+93086	10005	10	5	Sussex County	4441	Building material and supplies dealers	44	0500000US10005	69.0	1136.0	34439.0
+93087	10005	10	5	Sussex County	4442	Lawn and garden equipment and supplies stores	44	0500000US10005	18.0	125.0	3398.0
+93088	10005	10	5	Sussex County	4451	Grocery stores	44	0500000US10005	67.0	1774.0	38397.0
+93089	10005	10	5	Sussex County	4452	Specialty food stores	44	0500000US10005	32.0	134.0	3352.0
+93090	10005	10	5	Sussex County	4453	Beer, wine, and liquor stores	44	0500000US10005	59.0	310.0	5983.0
+93091	10005	10	5	Sussex County	4461	Health and personal care stores	44	0500000US10005	72.0	912.0	30174.0
+93092	10005	10	5	Sussex County	4471	Gasoline stations	44	0500000US10005	72.0	733.0	13935.0
+93093	10005	10	5	Sussex County	4481	Clothing stores	44	0500000US10005	151.0	1578.0	22796.0
+93094	10005	10	5	Sussex County	4482	Shoe stores	44	0500000US10005	32.0	328.0	5394.0
+93095	10005	10	5	Sussex County	4483	Jewelry, luggage, and leather goods stores	44	0500000US10005	24.0	112.0	2557.0
+93096	10005	10	5	Sussex County	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10005	48.0	148.0	3297.0
+93097	10005	10	5	Sussex County	4512	Book stores and news dealers	45	0500000US10005	3.0	36.0	849.0
+93098	10005	10	5	Sussex County	4521	Department stores	45	0500000US10005	3.0	0.0	0.0
+93099	10005	10	5	Sussex County	4529	Other general merchandise stores	45	0500000US10005	49.0	0.0	0.0
+93100	10005	10	5	Sussex County	4531	Florists	45	0500000US10005	14.0	52.0	621.0
+93101	10005	10	5	Sussex County	4532	Office supplies, stationery, and gift stores	45	0500000US10005	32.0	157.0	3699.0
+93102	10005	10	5	Sussex County	4533	Used merchandise stores	45	0500000US10005	19.0	0.0	1844.0
+93103	10005	10	5	Sussex County	4539	Other miscellaneous store retailers	45	0500000US10005	60.0	219.0	5039.0
+93104	10005	10	5	Sussex County	4541	Electronic shopping and mail-order houses	45	0500000US10005	18.0	149.0	4559.0
+93105	10005	10	5	Sussex County	4543	Direct selling establishments	45	0500000US10005	31.0	284.0	9623.0
+93106	10005	10	5	Sussex County	4812	Nonscheduled air transportation	48	0500000US10005	3.0	3.0	39.0
+93107	10005	10	5	Sussex County	4832	Inland water transportation	48	0500000US10005	1.0	0.0	0.0
+93108	10005	10	5	Sussex County	4841	General freight trucking	48	0500000US10005	31.0	205.0	9915.0
+93109	10005	10	5	Sussex County	4842	Specialized freight trucking	48	0500000US10005	38.0	135.0	4206.0
+93110	10005	10	5	Sussex County	4851	Urban transit systems	48	0500000US10005	5.0	0.0	939.0
+93111	10005	10	5	Sussex County	4853	Taxi and limousine service	48	0500000US10005	3.0	0.0	244.0
+93112	10005	10	5	Sussex County	4854	School and employee bus transportation	48	0500000US10005	56.0	283.0	3398.0
+93113	10005	10	5	Sussex County	4855	Charter bus industry	48	0500000US10005	2.0	0.0	0.0
+93114	10005	10	5	Sussex County	4859	Other transit and ground passenger transportation	48	0500000US10005	3.0	0.0	0.0
+93115	10005	10	5	Sussex County	4872	Scenic and sightseeing transportation, water	48	0500000US10005	6.0	0.0	317.0
+93116	10005	10	5	Sussex County	4881	Support activities for air transportation	48	0500000US10005	3.0	0.0	0.0
+93117	10005	10	5	Sussex County	4882	Support activities for rail transportation	48	0500000US10005	1.0	0.0	0.0
+93118	10005	10	5	Sussex County	4883	Support activities for water transportation	48	0500000US10005	4.0	46.0	2866.0
+93119	10005	10	5	Sussex County	4884	Support activities for road transportation	48	0500000US10005	10.0	61.0	1383.0
+93120	10005	10	5	Sussex County	4885	Freight transportation arrangement	48	0500000US10005	12.0	271.0	13785.0
+93121	10005	10	5	Sussex County	4921	Couriers and express delivery services	49	0500000US10005	5.0	90.0	1673.0
+93122	10005	10	5	Sussex County	4922	Local messengers and local delivery	49	0500000US10005	3.0	4.0	101.0
+93123	10005	10	5	Sussex County	4931	Warehousing and storage	49	0500000US10005	9.0	0.0	0.0
+93124	10005	10	5	Sussex County	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10005	14.0	144.0	4917.0
+93125	10005	10	5	Sussex County	5121	Motion picture and video industries	51	0500000US10005	8.0	47.0	1278.0
+93126	10005	10	5	Sussex County	5122	Sound recording industries	51	0500000US10005	1.0	0.0	0.0
+93127	10005	10	5	Sussex County	5151	Radio and television broadcasting	51	0500000US10005	3.0	0.0	0.0
+93128	10005	10	5	Sussex County	5171	Wired telecommunications carriers	51	0500000US10005	26.0	217.0	12537.0
+93129	10005	10	5	Sussex County	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10005	3.0	32.0	1381.0
+93130	10005	10	5	Sussex County	5179	Other telecommunications	51	0500000US10005	1.0	0.0	0.0
+93131	10005	10	5	Sussex County	5182	Data processing, hosting, and related services	51	0500000US10005	3.0	0.0	1162.0
+93132	10005	10	5	Sussex County	5191	Other information services	51	0500000US10005	9.0	0.0	759.0
+93133	10005	10	5	Sussex County	5221	Depository credit intermediation	52	0500000US10005	98.0	1311.0	52987.0
+93134	10005	10	5	Sussex County	5222	Nondepository credit intermediation	52	0500000US10005	22.0	101.0	5218.0
+93135	10005	10	5	Sussex County	5223	Activities related to credit intermediation	52	0500000US10005	31.0	89.0	2922.0
+93136	10005	10	5	Sussex County	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10005	24.0	0.0	8491.0
+93137	10005	10	5	Sussex County	5239	Other financial investment activities	52	0500000US10005	8.0	0.0	772.0
+93138	10005	10	5	Sussex County	5241	Insurance carriers	52	0500000US10005	6.0	0.0	0.0
+93139	10005	10	5	Sussex County	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10005	59.0	267.0	11393.0
+93140	10005	10	5	Sussex County	5259	Other investment pools and funds	52	0500000US10005	2.0	0.0	0.0
+93141	10005	10	5	Sussex County	5311	Lessors of real estate	53	0500000US10005	84.0	469.0	17452.0
+93142	10005	10	5	Sussex County	5312	Offices of real estate agents and brokers	53	0500000US10005	87.0	216.0	8928.0
+93143	10005	10	5	Sussex County	5313	Activities related to real estate	53	0500000US10005	52.0	418.0	13645.0
+93144	10005	10	5	Sussex County	5321	Automotive equipment rental and leasing	53	0500000US10005	3.0	0.0	0.0
+93145	10005	10	5	Sussex County	5322	Consumer goods rental	53	0500000US10005	19.0	0.0	2158.0
+93146	10005	10	5	Sussex County	5323	General rental centers	53	0500000US10005	5.0	30.0	1249.0
+93147	10005	10	5	Sussex County	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10005	6.0	40.0	2080.0
+93148	10005	10	5	Sussex County	5411	Legal services	54	0500000US10005	64.0	359.0	24726.0
+93149	10005	10	5	Sussex County	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10005	55.0	342.0	11494.0
+93150	10005	10	5	Sussex County	5413	Architectural, engineering, and related services	54	0500000US10005	62.0	241.0	12095.0
+93151	10005	10	5	Sussex County	5414	Specialized design services	54	0500000US10005	10.0	40.0	1498.0
+93152	10005	10	5	Sussex County	5415	Computer systems design and related services	54	0500000US10005	49.0	0.0	6728.0
+93153	10005	10	5	Sussex County	5416	Management, scientific, and technical consulting services	54	0500000US10005	67.0	164.0	14448.0
+93154	10005	10	5	Sussex County	5417	Scientific research and development services	54	0500000US10005	4.0	0.0	204.0
+93155	10005	10	5	Sussex County	5418	Advertising, public relations, and related services	54	0500000US10005	12.0	0.0	669.0
+93156	10005	10	5	Sussex County	5419	Other professional, scientific, and technical services	54	0500000US10005	32.0	205.0	7594.0
+93157	10005	10	5	Sussex County	5511	Management of companies and enterprises	55	0500000US10005	16.0	0.0	0.0
+93158	10005	10	5	Sussex County	5611	Office administrative services	56	0500000US10005	9.0	118.0	4347.0
+93159	10005	10	5	Sussex County	5612	Facilities support services	56	0500000US10005	1.0	0.0	0.0
+93160	10005	10	5	Sussex County	5613	Employment services	56	0500000US10005	9.0	832.0	16267.0
+93161	10005	10	5	Sussex County	5614	Business support services	56	0500000US10005	27.0	0.0	0.0
+93162	10005	10	5	Sussex County	5615	Travel arrangement and reservation services	56	0500000US10005	9.0	0.0	967.0
+93163	10005	10	5	Sussex County	5616	Investigation and security services	56	0500000US10005	9.0	46.0	1846.0
+93164	10005	10	5	Sussex County	5617	Services to buildings and dwellings	56	0500000US10005	187.0	1283.0	34831.0
+93165	10005	10	5	Sussex County	5619	Other support services	56	0500000US10005	17.0	88.0	2339.0
+93166	10005	10	5	Sussex County	5621	Waste collection	56	0500000US10005	11.0	120.0	3513.0
+93167	10005	10	5	Sussex County	5629	Remediation and other waste management services	56	0500000US10005	7.0	40.0	1361.0
+93168	10005	10	5	Sussex County	6111	Elementary and secondary schools	61	0500000US10005	11.0	177.0	3410.0
+93169	10005	10	5	Sussex County	6114	Business schools and computer and management training	61	0500000US10005	2.0	0.0	0.0
+93170	10005	10	5	Sussex County	6115	Technical and trade schools	61	0500000US10005	3.0	0.0	0.0
+93171	10005	10	5	Sussex County	6116	Other schools and instruction	61	0500000US10005	13.0	97.0	926.0
+93172	10005	10	5	Sussex County	6117	Educational support services	61	0500000US10005	1.0	0.0	0.0
+93173	10005	10	5	Sussex County	6211	Offices of physicians	62	0500000US10005	196.0	1667.0	106969.0
+93174	10005	10	5	Sussex County	6212	Offices of dentists	62	0500000US10005	30.0	299.0	17851.0
+93175	10005	10	5	Sussex County	6213	Offices of other health practitioners	62	0500000US10005	85.0	516.0	21225.0
+93176	10005	10	5	Sussex County	6214	Outpatient care centers	62	0500000US10005	21.0	0.0	13672.0
+93177	10005	10	5	Sussex County	6215	Medical and diagnostic laboratories	62	0500000US10005	22.0	309.0	17288.0
+93178	10005	10	5	Sussex County	6216	Home health care services	62	0500000US10005	8.0	346.0	14484.0
+93179	10005	10	5	Sussex County	6219	Other ambulatory health care services	62	0500000US10005	7.0	73.0	2360.0
+93180	10005	10	5	Sussex County	6221	General medical and surgical hospitals	62	0500000US10005	3.0	0.0	0.0
+93181	10005	10	5	Sussex County	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10005	14.0	1716.0	54318.0
+93182	10005	10	5	Sussex County	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10005	12.0	117.0	4416.0
+93183	10005	10	5	Sussex County	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10005	5.0	527.0	14086.0
+93184	10005	10	5	Sussex County	6239	Other residential care facilities	62	0500000US10005	2.0	0.0	0.0
+93185	10005	10	5	Sussex County	6241	Individual and family services	62	0500000US10005	52.0	597.0	14896.0
+93186	10005	10	5	Sussex County	6242	Community food and housing, and emergency and other relief services	62	0500000US10005	7.0	0.0	0.0
+93187	10005	10	5	Sussex County	6243	Vocational rehabilitation services	62	0500000US10005	1.0	0.0	0.0
+93188	10005	10	5	Sussex County	6244	Child day care services	62	0500000US10005	58.0	516.0	8956.0
+93189	10005	10	5	Sussex County	7111	Performing arts companies	71	0500000US10005	5.0	23.0	561.0
+93190	10005	10	5	Sussex County	7112	Spectator sports	71	0500000US10005	7.0	0.0	402.0
+93191	10005	10	5	Sussex County	7113	Promoters of performing arts, sports, and similar events	71	0500000US10005	4.0	0.0	0.0
+93192	10005	10	5	Sussex County	7115	Independent artists, writers, and performers	71	0500000US10005	5.0	0.0	0.0
+93193	10005	10	5	Sussex County	7121	Museums, historical sites, and similar institutions	71	0500000US10005	6.0	0.0	270.0
+93194	10005	10	5	Sussex County	7131	Amusement parks and arcades	71	0500000US10005	10.0	39.0	4180.0
+93195	10005	10	5	Sussex County	7139	Other amusement and recreation industries	71	0500000US10005	65.0	709.0	16539.0
+93196	10005	10	5	Sussex County	7211	Traveler accommodation	72	0500000US10005	80.0	1006.0	26132.0
+93197	10005	10	5	Sussex County	7212	RV (recreational vehicle) parks and recreational camps	72	0500000US10005	11.0	83.0	4070.0
+93198	10005	10	5	Sussex County	7213	Rooming and boarding houses	72	0500000US10005	2.0	0.0	0.0
+93199	10005	10	5	Sussex County	7223	Special food services	72	0500000US10005	14.0	106.0	2319.0
+93200	10005	10	5	Sussex County	7224	Drinking places (alcoholic beverages)	72	0500000US10005	16.0	0.0	0.0
+93201	10005	10	5	Sussex County	7225	Restaurants and other eating places	72	0500000US10005	507.0	7037.0	129658.0
+93202	10005	10	5	Sussex County	8111	Automotive repair and maintenance	81	0500000US10005	89.0	433.0	13561.0
+93203	10005	10	5	Sussex County	8112	Electronic and precision equipment repair and maintenance	81	0500000US10005	6.0	0.0	773.0
+93204	10005	10	5	Sussex County	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10005	19.0	0.0	5834.0
+93205	10005	10	5	Sussex County	8114	Personal and household goods repair and maintenance	81	0500000US10005	20.0	45.0	1597.0
+93206	10005	10	5	Sussex County	8121	Personal care services	81	0500000US10005	93.0	493.0	10430.0
+93207	10005	10	5	Sussex County	8122	Death care services	81	0500000US10005	20.0	97.0	2806.0
+93208	10005	10	5	Sussex County	8123	Drycleaning and laundry services	81	0500000US10005	13.0	154.0	5682.0
+93209	10005	10	5	Sussex County	8129	Other personal services	81	0500000US10005	16.0	47.0	893.0
+93210	10005	10	5	Sussex County	8131	Religious organizations	81	0500000US10005	134.0	766.0	12749.0
+93211	10005	10	5	Sussex County	8132	Grantmaking and giving services	81	0500000US10005	5.0	0.0	0.0
+93212	10005	10	5	Sussex County	8133	Social advocacy organizations	81	0500000US10005	5.0	0.0	991.0
+93213	10005	10	5	Sussex County	8134	Civic and social organizations	81	0500000US10005	25.0	0.0	2009.0
+93214	10005	10	5	Sussex County	8139	Business, professional, labor, political, and similar organizations	81	0500000US10005	48.0	226.0	7934.0
+93215	10005	10	5	Sussex County, Delaware	1131	Timber tract operations	11	0500000US10005	1.0	0.0	0.0
+93216	10005	10	5	Sussex County, Delaware	1133	Logging	11	0500000US10005	3.1666666666666665	1.8333333333333333	174.83333333333334
+93217	10005	10	5	Sussex County, Delaware	1141	Fishing	11	0500000US10005	4.625	4.0	118.25
+93218	10005	10	5	Sussex County, Delaware	1151	Support activities for crop production	11	0500000US10005	3.75	6.25	312.625
+93219	10005	10	5	Sussex County, Delaware	1152	Support activities for animal production	11	0500000US10005	4.625	16.875	616.25
+93220	10005	10	5	Sussex County, Delaware	2123	Nonmetallic mineral mining and quarrying	21	0500000US10005	3.125	53.375	4945.625
+93221	10005	10	5	Sussex County, Delaware	2211	Electric power generation, transmission and distribution	22	0500000US10005	5.375	348.25	31690.875
+93222	10005	10	5	Sussex County, Delaware	2213	Water, sewage and other systems	22	0500000US10005	5.875	13.0	1057.625
+93223	10005	10	5	Sussex County, Delaware	2361	Residential building construction	23	0500000US10005	232.625	1032.375	56734.5
+93224	10005	10	5	Sussex County, Delaware	2362	Nonresidential building construction	23	0500000US10005	20.75	121.625	6785.875
+93225	10005	10	5	Sussex County, Delaware	2371	Utility system construction	23	0500000US10005	17.875	270.375	16535.0
+93226	10005	10	5	Sussex County, Delaware	2372	Land subdivision	23	0500000US10005	3.25	10.25	798.5
+93227	10005	10	5	Sussex County, Delaware	2373	Highway, street, and bridge construction	23	0500000US10005	4.875	117.625	5520.375
+93228	10005	10	5	Sussex County, Delaware	2379	Other heavy and civil engineering construction	23	0500000US10005	5.625	16.25	586.875
+93229	10005	10	5	Sussex County, Delaware	2381	Foundation, structure, and building exterior contractors	23	0500000US10005	72.875	425.0	17154.125
+93230	10005	10	5	Sussex County, Delaware	2382	Building equipment contractors	23	0500000US10005	171.125	1432.375	67853.5
+93231	10005	10	5	Sussex County, Delaware	2383	Building finishing contractors	23	0500000US10005	91.875	486.25	22044.875
+93232	10005	10	5	Sussex County, Delaware	2389	Other specialty trade contractors	23	0500000US10005	69.5	631.875	28049.625
+93233	10005	10	5	Sussex County, Delaware	3111	Animal food manufacturing	31	0500000US10005	4.375	111.875	7357.25
+93234	10005	10	5	Sussex County, Delaware	3113	Sugar and confectionery product manufacturing	31	0500000US10005	3.0	13.0	712.25
+93235	10005	10	5	Sussex County, Delaware	3114	Fruit and vegetable preserving and specialty food manufacturing	31	0500000US10005	3.142857142857143	13.714285714285714	671.5714285714286
+93236	10005	10	5	Sussex County, Delaware	3116	Animal slaughtering and processing	31	0500000US10005	9.375	6944.5	234236.875
+93237	10005	10	5	Sussex County, Delaware	3117	Seafood product preparation and packaging	31	0500000US10005	1.0	0.0	0.0
+93238	10005	10	5	Sussex County, Delaware	3118	Bakeries and tortilla manufacturing	31	0500000US10005	6.625	63.375	1405.0
+93239	10005	10	5	Sussex County, Delaware	3121	Beverage manufacturing	31	0500000US10005	5.125	155.625	7640.375
+93240	10005	10	5	Sussex County, Delaware	3132	Fabric mills	31	0500000US10005	1.0	0.0	0.0
+93241	10005	10	5	Sussex County, Delaware	3141	Textile furnishings mills	31	0500000US10005	3.0	21.4	631.2
+93242	10005	10	5	Sussex County, Delaware	3211	Sawmills and wood preservation	32	0500000US10005	1.5	0.0	0.0
+93243	10005	10	5	Sussex County, Delaware	3212	Veneer, plywood, and engineered wood product manufacturing	32	0500000US10005	2.0	0.0	0.0
+93244	10005	10	5	Sussex County, Delaware	3219	Other wood product manufacturing	32	0500000US10005	6.5	88.25	2797.75
+93245	10005	10	5	Sussex County, Delaware	3231	Printing and related support activities	32	0500000US10005	7.875	44.75	1462.125
+93246	10005	10	5	Sussex County, Delaware	3241	Petroleum and coal products manufacturing	32	0500000US10005	1.5	0.0	0.0
+93247	10005	10	5	Sussex County, Delaware	3251	Basic chemical manufacturing	32	0500000US10005	1.5	0.0	0.0
+93248	10005	10	5	Sussex County, Delaware	3252	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	32	0500000US10005	1.5	0.0	0.0
+93249	10005	10	5	Sussex County, Delaware	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	32	0500000US10005	4.0	18.25	1059.375
+93250	10005	10	5	Sussex County, Delaware	3254	Pharmaceutical and medicine manufacturing	32	0500000US10005	1.0	0.0	0.0
+93251	10005	10	5	Sussex County, Delaware	3259	Other chemical product and preparation manufacturing	32	0500000US10005	1.0	0.0	0.0
+93252	10005	10	5	Sussex County, Delaware	3261	Plastics product manufacturing	32	0500000US10005	9.0	230.25	9259.0
+93253	10005	10	5	Sussex County, Delaware	3262	Rubber product manufacturing	32	0500000US10005	1.5	0.0	0.0
+93254	10005	10	5	Sussex County, Delaware	3272	Glass and glass product manufacturing	32	0500000US10005	3.0	3.1666666666666665	98.16666666666667
+93255	10005	10	5	Sussex County, Delaware	3273	Cement and concrete product manufacturing	32	0500000US10005	4.875	84.75	5866.125
+93256	10005	10	5	Sussex County, Delaware	3279	Other nonmetallic mineral product manufacturing	32	0500000US10005	1.0	0.0	0.0
+93257	10005	10	5	Sussex County, Delaware	3321	Forging and stamping	33	0500000US10005	2.0	0.0	0.0
+93258	10005	10	5	Sussex County, Delaware	3323	Architectural and structural metals manufacturing	33	0500000US10005	7.375	188.25	9789.75
+93259	10005	10	5	Sussex County, Delaware	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	33	0500000US10005	4.625	76.5	3622.5
+93260	10005	10	5	Sussex County, Delaware	3328	Coating, engraving, heat treating, and allied activities	33	0500000US10005	1.0	0.0	0.0
+93261	10005	10	5	Sussex County, Delaware	3329	Other fabricated metal product manufacturing	33	0500000US10005	3.5	90.375	3791.5
+93262	10005	10	5	Sussex County, Delaware	3331	Agriculture, construction, and mining machinery manufacturing	33	0500000US10005	1.0	0.0	0.0
+93263	10005	10	5	Sussex County, Delaware	3332	Industrial machinery manufacturing	33	0500000US10005	1.0	0.0	0.0
+93264	10005	10	5	Sussex County, Delaware	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	33	0500000US10005	3.0	11.0	205.0
+93265	10005	10	5	Sussex County, Delaware	3339	Other general purpose machinery manufacturing	33	0500000US10005	2.6	0.0	0.0
+93266	10005	10	5	Sussex County, Delaware	3342	Communications equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93267	10005	10	5	Sussex County, Delaware	3344	Semiconductor and other electronic component manufacturing	33	0500000US10005	2.5	35.5	1950.3333333333333
+93268	10005	10	5	Sussex County, Delaware	3345	Navigational, measuring, electromedical, and control instruments manufacturing	33	0500000US10005	1.25	0.0	0.0
+93269	10005	10	5	Sussex County, Delaware	3351	Electric lighting equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93270	10005	10	5	Sussex County, Delaware	3359	Other electrical equipment and component manufacturing	33	0500000US10005	2.2	2.6	122.4
+93271	10005	10	5	Sussex County, Delaware	3362	Motor vehicle body and trailer manufacturing	33	0500000US10005	1.0	0.0	0.0
+93272	10005	10	5	Sussex County, Delaware	3363	Motor vehicle parts manufacturing	33	0500000US10005	2.0	0.0	0.0
+93273	10005	10	5	Sussex County, Delaware	3364	Aerospace product and parts manufacturing	33	0500000US10005	1.5	0.0	0.0
+93274	10005	10	5	Sussex County, Delaware	3365	Railroad rolling stock manufacturing	33	0500000US10005	1.0	0.0	0.0
+93275	10005	10	5	Sussex County, Delaware	3366	Ship and boat building	33	0500000US10005	2.75	0.0	0.0
+93276	10005	10	5	Sussex County, Delaware	3369	Other transportation equipment manufacturing	33	0500000US10005	1.0	0.0	0.0
+93277	10005	10	5	Sussex County, Delaware	3371	Household and institutional furniture and kitchen cabinet manufacturing	33	0500000US10005	7.375	54.75	2150.125
+93278	10005	10	5	Sussex County, Delaware	3391	Medical equipment and supplies manufacturing	33	0500000US10005	1.25	0.0	0.0
+93279	10005	10	5	Sussex County, Delaware	3399	Other miscellaneous manufacturing	33	0500000US10005	6.375	34.125	1242.875
+93280	10005	10	5	Sussex County, Delaware	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	42	0500000US10005	7.75	82.5	4962.75
+93281	10005	10	5	Sussex County, Delaware	4232	Furniture and home furnishing merchant wholesalers	42	0500000US10005	3.0	6.375	319.125
+93282	10005	10	5	Sussex County, Delaware	4233	Lumber and other construction materials merchant wholesalers	42	0500000US10005	10.25	127.75	7366.0
+93283	10005	10	5	Sussex County, Delaware	4234	Professional and commercial equipment and supplies merchant wholesalers	42	0500000US10005	11.125	72.75	5389.875
+93284	10005	10	5	Sussex County, Delaware	4235	Metal and mineral (except petroleum) merchant wholesalers	42	0500000US10005	3.25	36.875	1444.375
+93285	10005	10	5	Sussex County, Delaware	4236	Household appliances and electrical and electronic goods merchant wholesalers	42	0500000US10005	13.875	34.875	2307.125
+93286	10005	10	5	Sussex County, Delaware	4237	Hardware, plumbing and heating equipment and supplies merchant wholesalers	42	0500000US10005	14.625	93.875	6257.875
+93287	10005	10	5	Sussex County, Delaware	4238	Machinery, equipment, and supplies merchant wholesalers	42	0500000US10005	33.75	351.625	16683.25
+93288	10005	10	5	Sussex County, Delaware	4239	Miscellaneous durable goods merchant wholesalers	42	0500000US10005	9.75	83.375	3203.375
+93289	10005	10	5	Sussex County, Delaware	4241	Paper and paper product merchant wholesalers	42	0500000US10005	3.0	8.2	336.4
+93290	10005	10	5	Sussex County, Delaware	4242	Drugs and druggists' sundries merchant wholesalers	42	0500000US10005	4.375	26.0	2286.75
+93291	10005	10	5	Sussex County, Delaware	4243	Apparel, piece goods, and notions merchant wholesalers	42	0500000US10005	2.625	6.75	263.125
+93292	10005	10	5	Sussex County, Delaware	4244	Grocery and related product merchant wholesalers	42	0500000US10005	26.125	223.625	9870.125
+93293	10005	10	5	Sussex County, Delaware	4245	Farm product raw material merchant wholesalers	42	0500000US10005	6.625	29.375	1725.125
+93294	10005	10	5	Sussex County, Delaware	4246	Chemical and allied products merchant wholesalers	42	0500000US10005	5.75	36.75	2514.25
+93295	10005	10	5	Sussex County, Delaware	4247	Petroleum and petroleum products merchant wholesalers	42	0500000US10005	3.25	28.375	1370.25
+93296	10005	10	5	Sussex County, Delaware	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	42	0500000US10005	2.0	0.0	0.0
+93297	10005	10	5	Sussex County, Delaware	4249	Miscellaneous nondurable goods merchant wholesalers	42	0500000US10005	14.5	76.375	4729.5
+93298	10005	10	5	Sussex County, Delaware	4251	Wholesale electronic markets and agents and brokers	42	0500000US10005	15.0	26.0	1750.125
+93299	10005	10	5	Sussex County, Delaware	4411	Automobile dealers	44	0500000US10005	43.625	637.625	34222.75
+93300	10005	10	5	Sussex County, Delaware	4412	Other motor vehicle dealers	44	0500000US10005	23.0	232.25	9234.0
+93301	10005	10	5	Sussex County, Delaware	4413	Automotive parts, accessories, and tire stores	44	0500000US10005	43.0	342.875	9322.875
+93302	10005	10	5	Sussex County, Delaware	4421	Furniture stores	44	0500000US10005	39.375	525.0	19573.75
+93303	10005	10	5	Sussex County, Delaware	4422	Home furnishings stores	44	0500000US10005	43.0	330.75	8480.25
+93304	10005	10	5	Sussex County, Delaware	4431	Electronics and appliance stores	44	0500000US10005	26.875	151.25	4303.625
+93305	10005	10	5	Sussex County, Delaware	4441	Building material and supplies dealers	44	0500000US10005	57.125	1334.0	42415.75
+93306	10005	10	5	Sussex County, Delaware	4442	Lawn and garden equipment and supplies stores	44	0500000US10005	19.125	135.875	4512.125
+93307	10005	10	5	Sussex County, Delaware	4451	Grocery stores	44	0500000US10005	63.25	2090.25	48361.0
+93308	10005	10	5	Sussex County, Delaware	4452	Specialty food stores	44	0500000US10005	30.625	74.0	2711.875
+93309	10005	10	5	Sussex County, Delaware	4453	Beer, wine, and liquor stores	44	0500000US10005	65.75	359.5	7562.75
+93310	10005	10	5	Sussex County, Delaware	4461	Health and personal care stores	44	0500000US10005	71.875	807.75	25835.25
+93311	10005	10	5	Sussex County, Delaware	4471	Gasoline stations	44	0500000US10005	72.875	906.125	18025.875
+93312	10005	10	5	Sussex County, Delaware	4481	Clothing stores	44	0500000US10005	146.5	1591.75	25498.375
+93313	10005	10	5	Sussex County, Delaware	4482	Shoe stores	44	0500000US10005	33.0	329.25	5755.25
+93314	10005	10	5	Sussex County, Delaware	4483	Jewelry, luggage, and leather goods stores	44	0500000US10005	21.125	109.375	2748.75
+93315	10005	10	5	Sussex County, Delaware	4511	Sporting goods, hobby, and musical instrument stores	45	0500000US10005	47.625	221.875	5333.625
+93316	10005	10	5	Sussex County, Delaware	4512	Book stores and news dealers	45	0500000US10005	4.125	28.75	934.0
+93317	10005	10	5	Sussex County, Delaware	4521	Department stores	45	0500000US10005	3.0	0.0	0.0
+93318	10005	10	5	Sussex County, Delaware	4523	General merchandise stores, including warehouse clubs and supercenters	45	0500000US10005	49.0	1833.25	41569.25
+93319	10005	10	5	Sussex County, Delaware	4529	Other general merchandise stores	45	0500000US10005	49.5	784.0	18121.5
+93320	10005	10	5	Sussex County, Delaware	4531	Florists	45	0500000US10005	13.5	43.25	617.0
+93321	10005	10	5	Sussex County, Delaware	4532	Office supplies, stationery, and gift stores	45	0500000US10005	29.625	147.125	3349.125
+93322	10005	10	5	Sussex County, Delaware	4533	Used merchandise stores	45	0500000US10005	18.875	131.125	2131.0
+93323	10005	10	5	Sussex County, Delaware	4539	Other miscellaneous store retailers	45	0500000US10005	67.0	309.875	7498.75
+93324	10005	10	5	Sussex County, Delaware	4541	Electronic shopping and mail-order houses	45	0500000US10005	24.375	149.125	5946.125
+93325	10005	10	5	Sussex County, Delaware	4542	Vending machine operators	45	0500000US10005	2.3333333333333335	0.0	0.0
+93326	10005	10	5	Sussex County, Delaware	4543	Direct selling establishments	45	0500000US10005	30.125	300.25	14218.125
+93327	10005	10	5	Sussex County, Delaware	4812	Nonscheduled air transportation	48	0500000US10005	2.8333333333333335	5.0	183.83333333333334
+93328	10005	10	5	Sussex County, Delaware	4832	Inland water transportation	48	0500000US10005	1.75	0.0	0.0
+93329	10005	10	5	Sussex County, Delaware	4841	General freight trucking	48	0500000US10005	37.625	292.75	16081.0
+93330	10005	10	5	Sussex County, Delaware	4842	Specialized freight trucking	48	0500000US10005	38.875	159.875	6626.25
+93331	10005	10	5	Sussex County, Delaware	4851	Urban transit systems	48	0500000US10005	2.5	18.5	285.25
+93332	10005	10	5	Sussex County, Delaware	4853	Taxi and limousine service	48	0500000US10005	2.5	0.0	0.0
+93333	10005	10	5	Sussex County, Delaware	4854	School and employee bus transportation	48	0500000US10005	51.375	388.5	4949.375
+93334	10005	10	5	Sussex County, Delaware	4855	Charter bus industry	48	0500000US10005	2.0	0.0	0.0
+93335	10005	10	5	Sussex County, Delaware	4859	Other transit and ground passenger transportation	48	0500000US10005	3.375	38.5	877.75
+93336	10005	10	5	Sussex County, Delaware	4872	Scenic and sightseeing transportation, water	48	0500000US10005	6.25	5.25	375.375
+93337	10005	10	5	Sussex County, Delaware	4879	Scenic and sightseeing transportation, other	48	0500000US10005	1.0	0.0	0.0
+93338	10005	10	5	Sussex County, Delaware	4881	Support activities for air transportation	48	0500000US10005	3.0	10.5	819.125
+93339	10005	10	5	Sussex County, Delaware	4882	Support activities for rail transportation	48	0500000US10005	1.0	0.0	0.0
+93340	10005	10	5	Sussex County, Delaware	4883	Support activities for water transportation	48	0500000US10005	3.125	22.5	1737.75
+93341	10005	10	5	Sussex County, Delaware	4884	Support activities for road transportation	48	0500000US10005	8.875	77.875	2045.25
+93342	10005	10	5	Sussex County, Delaware	4885	Freight transportation arrangement	48	0500000US10005	10.875	278.0	18420.75
+93343	10005	10	5	Sussex County, Delaware	4889	Other support activities for transportation	48	0500000US10005	3.0	3.0	107.0
+93344	10005	10	5	Sussex County, Delaware	4921	Couriers and express delivery services	49	0500000US10005	4.25	65.125	1899.125
+93345	10005	10	5	Sussex County, Delaware	4922	Local messengers and local delivery	49	0500000US10005	2.875	8.25	397.75
+93346	10005	10	5	Sussex County, Delaware	4931	Warehousing and storage	49	0500000US10005	11.375	529.125	18305.75
+93347	10005	10	5	Sussex County, Delaware	5111	Newspaper, periodical, book, and directory publishers	51	0500000US10005	10.0	129.0	4745.0
+93348	10005	10	5	Sussex County, Delaware	5112	Software publishers	51	0500000US10005	4.875	5.75	649.25
+93349	10005	10	5	Sussex County, Delaware	5121	Motion picture and video industries	51	0500000US10005	6.5	50.75	1912.875
+93350	10005	10	5	Sussex County, Delaware	5122	Sound recording industries	51	0500000US10005	1.0	0.0	0.0
+93351	10005	10	5	Sussex County, Delaware	5151	Radio and television broadcasting	51	0500000US10005	3.5714285714285716	41.142857142857146	1276.4285714285713
+93352	10005	10	5	Sussex County, Delaware	5171	Wired telecommunications carriers	51	0500000US10005	35.5	211.75	14671.25
+93353	10005	10	5	Sussex County, Delaware	5172	Wireless telecommunications carriers (except satellite)	51	0500000US10005	5.25	36.0	1365.75
+93354	10005	10	5	Sussex County, Delaware	5173	Wired and wireless telecommunications carriers	51	0500000US10005	45.75	245.25	16166.5
+93355	10005	10	5	Sussex County, Delaware	5179	Other telecommunications	51	0500000US10005	3.1666666666666665	8.666666666666666	251.33333333333334
+93356	10005	10	5	Sussex County, Delaware	5182	Data processing, hosting, and related services	51	0500000US10005	6.25	31.875	2733.625
+93357	10005	10	5	Sussex County, Delaware	5191	Other information services	51	0500000US10005	8.5	39.875	1055.0
+93358	10005	10	5	Sussex County, Delaware	5221	Depository credit intermediation	52	0500000US10005	91.625	1284.875	59465.0
+93359	10005	10	5	Sussex County, Delaware	5222	Nondepository credit intermediation	52	0500000US10005	31.5	115.125	12425.625
+93360	10005	10	5	Sussex County, Delaware	5223	Activities related to credit intermediation	52	0500000US10005	25.25	70.375	3506.25
+93361	10005	10	5	Sussex County, Delaware	5231	Securities and commodity contracts intermediation and brokerage	52	0500000US10005	19.25	55.125	7066.375
+93362	10005	10	5	Sussex County, Delaware	5239	Other financial investment activities	52	0500000US10005	24.875	41.75	3826.375
+93363	10005	10	5	Sussex County, Delaware	5241	Insurance carriers	52	0500000US10005	7.5	22.5	1918.5
+93364	10005	10	5	Sussex County, Delaware	5242	Agencies, brokerages, and other insurance related activities	52	0500000US10005	55.25	302.25	15391.875
+93365	10005	10	5	Sussex County, Delaware	5259	Other investment pools and funds	52	0500000US10005	1.0	0.0	0.0
+93366	10005	10	5	Sussex County, Delaware	5311	Lessors of real estate	53	0500000US10005	87.75	476.875	17582.0
+93367	10005	10	5	Sussex County, Delaware	5312	Offices of real estate agents and brokers	53	0500000US10005	104.25	304.5	14278.125
+93368	10005	10	5	Sussex County, Delaware	5313	Activities related to real estate	53	0500000US10005	62.375	384.125	13274.75
+93369	10005	10	5	Sussex County, Delaware	5321	Automotive equipment rental and leasing	53	0500000US10005	5.375	14.875	769.875
+93370	10005	10	5	Sussex County, Delaware	5322	Consumer goods rental	53	0500000US10005	21.0	84.375	3200.875
+93371	10005	10	5	Sussex County, Delaware	5323	General rental centers	53	0500000US10005	4.0	32.285714285714285	1528.0
+93372	10005	10	5	Sussex County, Delaware	5324	Commercial and industrial machinery and equipment rental and leasing	53	0500000US10005	7.75	61.125	3342.25
+93373	10005	10	5	Sussex County, Delaware	5331	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0500000US10005	1.0	0.0	0.0
+93374	10005	10	5	Sussex County, Delaware	5411	Legal services	54	0500000US10005	58.5	361.375	23889.375
+93375	10005	10	5	Sussex County, Delaware	5412	Accounting, tax preparation, bookkeeping, and payroll services	54	0500000US10005	58.0	320.375	12853.375
+93376	10005	10	5	Sussex County, Delaware	5413	Architectural, engineering, and related services	54	0500000US10005	67.75	324.25	18021.875
+93377	10005	10	5	Sussex County, Delaware	5414	Specialized design services	54	0500000US10005	11.125	43.25	1827.125
+93378	10005	10	5	Sussex County, Delaware	5415	Computer systems design and related services	54	0500000US10005	78.25	258.625	24363.625
+93379	10005	10	5	Sussex County, Delaware	5416	Management, scientific, and technical consulting services	54	0500000US10005	92.5	253.25	20546.0
+93380	10005	10	5	Sussex County, Delaware	5417	Scientific research and development services	54	0500000US10005	5.25	31.75	2071.25
+93381	10005	10	5	Sussex County, Delaware	5418	Advertising, public relations, and related services	54	0500000US10005	16.5	59.125	3347.0
+93382	10005	10	5	Sussex County, Delaware	5419	Other professional, scientific, and technical services	54	0500000US10005	37.875	343.625	15514.5
+93383	10005	10	5	Sussex County, Delaware	5511	Management of companies and enterprises	55	0500000US10005	24.625	342.25	32959.75
+93384	10005	10	5	Sussex County, Delaware	5611	Office administrative services	56	0500000US10005	17.5	158.125	6839.625
+93385	10005	10	5	Sussex County, Delaware	5612	Facilities support services	56	0500000US10005	2.0	0.0	0.0
+93386	10005	10	5	Sussex County, Delaware	5613	Employment services	56	0500000US10005	10.25	693.375	15434.0
+93387	10005	10	5	Sussex County, Delaware	5614	Business support services	56	0500000US10005	17.125	176.625	9043.625
+93388	10005	10	5	Sussex County, Delaware	5615	Travel arrangement and reservation services	56	0500000US10005	11.5	37.25	1695.0
+93389	10005	10	5	Sussex County, Delaware	5616	Investigation and security services	56	0500000US10005	10.75	75.375	2656.875
+93390	10005	10	5	Sussex County, Delaware	5617	Services to buildings and dwellings	56	0500000US10005	206.5	2043.875	65232.625
+93391	10005	10	5	Sussex County, Delaware	5619	Other support services	56	0500000US10005	16.75	100.25	3229.0
+93392	10005	10	5	Sussex County, Delaware	5621	Waste collection	56	0500000US10005	11.0	181.5	10196.5
+93393	10005	10	5	Sussex County, Delaware	5622	Waste treatment and disposal	56	0500000US10005	1.0	0.0	0.0
+93394	10005	10	5	Sussex County, Delaware	5629	Remediation and other waste management services	56	0500000US10005	7.5	44.5	1921.125
+93395	10005	10	5	Sussex County, Delaware	6111	Elementary and secondary schools	61	0500000US10005	9.25	212.5	4633.75
+93396	10005	10	5	Sussex County, Delaware	6114	Business schools and computer and management training	61	0500000US10005	3.5714285714285716	5.571428571428571	205.85714285714286
+93397	10005	10	5	Sussex County, Delaware	6115	Technical and trade schools	61	0500000US10005	2.5	11.166666666666666	662.6666666666666
+93398	10005	10	5	Sussex County, Delaware	6116	Other schools and instruction	61	0500000US10005	15.5	121.5	1048.125
+93399	10005	10	5	Sussex County, Delaware	6117	Educational support services	61	0500000US10005	1.0	0.0	0.0
+93400	10005	10	5	Sussex County, Delaware	6211	Offices of physicians	62	0500000US10005	173.5	1773.75	141286.25
+93401	10005	10	5	Sussex County, Delaware	6212	Offices of dentists	62	0500000US10005	32.75	375.5	24438.125
+93402	10005	10	5	Sussex County, Delaware	6213	Offices of other health practitioners	62	0500000US10005	100.625	573.75	22645.5
+93403	10005	10	5	Sussex County, Delaware	6214	Outpatient care centers	62	0500000US10005	34.125	1279.875	58137.625
+93404	10005	10	5	Sussex County, Delaware	6215	Medical and diagnostic laboratories	62	0500000US10005	21.375	118.25	7146.0
+93405	10005	10	5	Sussex County, Delaware	6216	Home health care services	62	0500000US10005	9.125	249.25	11968.625
+93406	10005	10	5	Sussex County, Delaware	6219	Other ambulatory health care services	62	0500000US10005	7.25	125.875	3842.75
+93407	10005	10	5	Sussex County, Delaware	6221	General medical and surgical hospitals	62	0500000US10005	3.0	2364.625	149884.375
+93408	10005	10	5	Sussex County, Delaware	6223	Specialty (except psychiatric and substance abuse) hospitals	62	0500000US10005	1.0	0.0	0.0
+93409	10005	10	5	Sussex County, Delaware	6231	Nursing care facilities (skilled nursing facilities)	62	0500000US10005	13.0	1430.5	47109.875
+93410	10005	10	5	Sussex County, Delaware	6232	Residential intellectual and developmental disability, mental health, and substance abuse facilities	62	0500000US10005	49.0	332.0	7964.125
+93411	10005	10	5	Sussex County, Delaware	6233	Continuing care retirement communities and assisted living facilities for the elderly	62	0500000US10005	5.875	683.625	19286.625
+93412	10005	10	5	Sussex County, Delaware	6239	Other residential care facilities	62	0500000US10005	2.0	0.0	0.0
+93413	10005	10	5	Sussex County, Delaware	6241	Individual and family services	62	0500000US10005	55.75	649.875	17346.5
+93414	10005	10	5	Sussex County, Delaware	6242	Community food and housing, and emergency and other relief services	62	0500000US10005	15.375	149.375	4181.75
+93415	10005	10	5	Sussex County, Delaware	6243	Vocational rehabilitation services	62	0500000US10005	1.25	0.0	0.0
+93416	10005	10	5	Sussex County, Delaware	6244	Child day care services	62	0500000US10005	63.5	676.25	12611.0
+93417	10005	10	5	Sussex County, Delaware	7111	Performing arts companies	71	0500000US10005	3.5	9.375	321.75
+93418	10005	10	5	Sussex County, Delaware	7112	Spectator sports	71	0500000US10005	4.0	7.6	213.2
+93419	10005	10	5	Sussex County, Delaware	7113	Promoters of performing arts, sports, and similar events	71	0500000US10005	2.25	0.0	0.0
+93420	10005	10	5	Sussex County, Delaware	7115	Independent artists, writers, and performers	71	0500000US10005	6.375	7.25	603.125
+93421	10005	10	5	Sussex County, Delaware	7121	Museums, historical sites, and similar institutions	71	0500000US10005	6.625	29.375	479.0
+93422	10005	10	5	Sussex County, Delaware	7131	Amusement parks and arcades	71	0500000US10005	9.875	48.75	4484.125
+93423	10005	10	5	Sussex County, Delaware	7139	Other amusement and recreation industries	71	0500000US10005	68.625	1043.125	25334.25
+93424	10005	10	5	Sussex County, Delaware	7211	Traveler accommodation	72	0500000US10005	76.25	895.5	25106.875
+93425	10005	10	5	Sussex County, Delaware	7212	RV (recreational vehicle) parks and recreational camps	72	0500000US10005	11.625	60.875	4107.0
+93426	10005	10	5	Sussex County, Delaware	7223	Special food services	72	0500000US10005	15.75	104.875	3011.125
+93427	10005	10	5	Sussex County, Delaware	7224	Drinking places (alcoholic beverages)	72	0500000US10005	18.375	186.875	5428.125
+93428	10005	10	5	Sussex County, Delaware	7225	Restaurants and other eating places	72	0500000US10005	532.625	8636.125	180065.0
+93429	10005	10	5	Sussex County, Delaware	8111	Automotive repair and maintenance	81	0500000US10005	90.0	543.25	17970.125
+93430	10005	10	5	Sussex County, Delaware	8112	Electronic and precision equipment repair and maintenance	81	0500000US10005	5.142857142857143	3.4285714285714284	253.14285714285714
+93431	10005	10	5	Sussex County, Delaware	8113	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0500000US10005	16.0	84.875	5555.75
+93432	10005	10	5	Sussex County, Delaware	8114	Personal and household goods repair and maintenance	81	0500000US10005	19.625	35.875	1253.375
+93433	10005	10	5	Sussex County, Delaware	8121	Personal care services	81	0500000US10005	97.0	511.625	13089.375
+93434	10005	10	5	Sussex County, Delaware	8122	Death care services	81	0500000US10005	19.0	79.375	3396.375
+93435	10005	10	5	Sussex County, Delaware	8123	Drycleaning and laundry services	81	0500000US10005	12.375	70.375	2430.875
+93436	10005	10	5	Sussex County, Delaware	8129	Other personal services	81	0500000US10005	17.25	75.375	1419.875
+93437	10005	10	5	Sussex County, Delaware	8131	Religious organizations	81	0500000US10005	147.375	760.375	14461.375
+93438	10005	10	5	Sussex County, Delaware	8132	Grantmaking and giving services	81	0500000US10005	7.125	20.625	864.75
+93439	10005	10	5	Sussex County, Delaware	8133	Social advocacy organizations	81	0500000US10005	6.0	33.75	909.25
+93440	10005	10	5	Sussex County, Delaware	8134	Civic and social organizations	81	0500000US10005	22.5	167.25	1942.0
+93441	10005	10	5	Sussex County, Delaware	8139	Business, professional, labor, political, and similar organizations	81	0500000US10005	40.0	125.875	4835.75

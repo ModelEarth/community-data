@@ -1,0 +1,103 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+10623	10001	10	1	Kent County	11	Agriculture, forestry, fishing and hunting	11	0500000US10001	12.0	0.0	1250.0
+10624	10001	10	1	Kent County	21	Mining, quarrying, and oil and gas extraction	21	0500000US10001	5.0	0.0	0.0
+10625	10001	10	1	Kent County	22	Utilities	22	0500000US10001	7.0	288.0	24750.0
+10626	10001	10	1	Kent County	23	Construction	23	0500000US10001	320.0	2028.0	88709.0
+10627	10001	10	1	Kent County	42	Wholesale trade	42	0500000US10001	112.0	840.0	37561.0
+10628	10001	10	1	Kent County	51	Information	51	0500000US10001	65.0	830.0	39499.0
+10629	10001	10	1	Kent County	52	Finance and insurance	52	0500000US10001	180.0	1230.0	63502.0
+10630	10001	10	1	Kent County	53	Real estate and rental and leasing	53	0500000US10001	118.0	458.0	15262.0
+10631	10001	10	1	Kent County	54	Professional, scientific, and technical services	54	0500000US10001	279.0	2198.0	154825.0
+10632	10001	10	1	Kent County	55	Management of companies and enterprises	55	0500000US10001	27.0	109.0	5211.0
+10633	10001	10	1	Kent County	56	Administrative and support and waste management and remediation services	56	0500000US10001	171.0	3425.0	107873.0
+10634	10001	10	1	Kent County	61	Educational services	61	0500000US10001	40.0	460.0	20660.0
+10635	10001	10	1	Kent County	62	Health care and social assistance	62	0500000US10001	396.0	9317.0	383321.0
+10636	10001	10	1	Kent County	71	Arts, entertainment, and recreation	71	0500000US10001	57.0	1517.0	40974.0
+10637	10001	10	1	Kent County	72	Accommodation and food services	72	0500000US10001	271.0	6130.0	98885.0
+10638	10001	10	1	Kent County	81	Other services (except public administration)	81	0500000US10001	321.0	1844.0	42940.0
+10639	10001	10	1	Kent County	99	Industries not classified	99	0500000US10001	5.0	17.0	431.0
+10641	10001	10	1	Kent County, Delaware	11	Agriculture, forestry, fishing and hunting	11	0500000US10001	8.625	24.625	1324.625
+10642	10001	10	1	Kent County, Delaware	21	Mining, quarrying, and oil and gas extraction	21	0500000US10001	5.125	35.0	2748.25
+10643	10001	10	1	Kent County, Delaware	22	Utilities	22	0500000US10001	11.5	410.625	45276.75
+10644	10001	10	1	Kent County, Delaware	23	Construction	23	0500000US10001	328.5	2294.625	120600.375
+10645	10001	10	1	Kent County, Delaware	42	Wholesale trade	42	0500000US10001	137.75	1162.75	63882.25
+10646	10001	10	1	Kent County, Delaware	51	Information	51	0500000US10001	115.0	918.5	58091.875
+10647	10001	10	1	Kent County, Delaware	52	Finance and insurance	52	0500000US10001	205.75	1501.375	99348.5
+10648	10001	10	1	Kent County, Delaware	53	Real estate and rental and leasing	53	0500000US10001	155.0	651.75	26363.5
+10649	10001	10	1	Kent County, Delaware	54	Professional, scientific, and technical services	54	0500000US10001	369.375	2417.25	185407.125
+10650	10001	10	1	Kent County, Delaware	55	Management of companies and enterprises	55	0500000US10001	22.125	95.875	7440.625
+10651	10001	10	1	Kent County, Delaware	56	Administrative and support and waste management and remediation services	56	0500000US10001	192.25	3110.75	125256.75
+10652	10001	10	1	Kent County, Delaware	61	Educational services	61	0500000US10001	44.0	930.625	23825.25
+10653	10001	10	1	Kent County, Delaware	62	Health care and social assistance	62	0500000US10001	444.625	10960.125	500553.375
+10654	10001	10	1	Kent County, Delaware	71	Arts, entertainment, and recreation	71	0500000US10001	80.0	1520.625	40931.625
+10655	10001	10	1	Kent County, Delaware	72	Accommodation and food services	72	0500000US10001	300.0	7185.125	122719.375
+10656	10001	10	1	Kent County, Delaware	81	Other services (except public administration)	81	0500000US10001	345.75	1814.5	52054.5
+10657	10001	10	1	Kent County, Delaware	99	Industries not classified	99	0500000US10001	13.0	20.25	448.5
+10659	10003	10	3	New Castle County	11	Agriculture, forestry, fishing and hunting	11	0500000US10003	14.0	38.0	1119.0
+10660	10003	10	3	New Castle County	21	Mining, quarrying, and oil and gas extraction	21	0500000US10003	8.0	0.0	4433.0
+10661	10003	10	3	New Castle County	22	Utilities	22	0500000US10003	27.0	0.0	0.0
+10662	10003	10	3	New Castle County	23	Construction	23	0500000US10003	1165.0	11571.0	638790.0
+10663	10003	10	3	New Castle County	42	Wholesale trade	42	0500000US10003	705.0	13509.0	1149632.0
+10664	10003	10	3	New Castle County	51	Information	51	0500000US10003	245.0	5195.0	304257.0
+10665	10003	10	3	New Castle County	52	Finance and insurance	52	0500000US10003	1509.0	33519.0	2960863.0
+10666	10003	10	3	New Castle County	53	Real estate and rental and leasing	53	0500000US10003	692.0	3793.0	186091.0
+10667	10003	10	3	New Castle County	54	Professional, scientific, and technical services	54	0500000US10003	1900.0	22059.0	2068656.0
+10668	10003	10	3	New Castle County	55	Management of companies and enterprises	55	0500000US10003	948.0	10314.0	1089721.0
+10669	10003	10	3	New Castle County	56	Administrative and support and waste management and remediation services	56	0500000US10003	917.0	20163.0	924053.0
+10670	10003	10	3	New Castle County	61	Educational services	61	0500000US10003	208.0	5644.0	214846.0
+10671	10003	10	3	New Castle County	62	Health care and social assistance	62	0500000US10003	1597.0	40362.0	2085057.0
+10672	10003	10	3	New Castle County	71	Arts, entertainment, and recreation	71	0500000US10003	246.0	4542.0	152629.0
+10673	10003	10	3	New Castle County	72	Accommodation and food services	72	0500000US10003	1115.0	21362.0	346790.0
+10674	10003	10	3	New Castle County	81	Other services (except public administration)	81	0500000US10003	1298.0	10271.0	281112.0
+10675	10003	10	3	New Castle County	99	Industries not classified	99	0500000US10003	16.0	0.0	389.0
+10677	10003	10	3	New Castle County, Delaware	11	Agriculture, forestry, fishing and hunting	11	0500000US10003	10.75	49.5	2193.75
+10678	10003	10	3	New Castle County, Delaware	21	Mining, quarrying, and oil and gas extraction	21	0500000US10003	9.75	68.375	8075.625
+10679	10003	10	3	New Castle County, Delaware	22	Utilities	22	0500000US10003	33.375	1303.125	152969.5
+10680	10003	10	3	New Castle County, Delaware	23	Construction	23	0500000US10003	1232.0	13798.25	834524.75
+10681	10003	10	3	New Castle County, Delaware	42	Wholesale trade	42	0500000US10003	766.375	13423.5	1381463.25
+10682	10003	10	3	New Castle County, Delaware	51	Information	51	0500000US10003	344.0	5155.5	350582.25
+10683	10003	10	3	New Castle County, Delaware	52	Finance and insurance	52	0500000US10003	1464.5	36961.875	3652994.75
+10684	10003	10	3	New Castle County, Delaware	53	Real estate and rental and leasing	53	0500000US10003	773.5	4011.625	224518.5
+10685	10003	10	3	New Castle County, Delaware	54	Professional, scientific, and technical services	54	0500000US10003	2152.0	25270.875	2733577.0
+10686	10003	10	3	New Castle County, Delaware	55	Management of companies and enterprises	55	0500000US10003	694.75	9209.875	939872.875
+10687	10003	10	3	New Castle County, Delaware	56	Administrative and support and waste management and remediation services	56	0500000US10003	951.125	19171.125	717646.0
+10688	10003	10	3	New Castle County, Delaware	61	Educational services	61	0500000US10003	236.75	5619.375	231312.625
+10689	10003	10	3	New Castle County, Delaware	62	Health care and social assistance	62	0500000US10003	1695.625	45405.5	2564584.5
+10690	10003	10	3	New Castle County, Delaware	71	Arts, entertainment, and recreation	71	0500000US10003	273.75	5850.5	183800.375
+10691	10003	10	3	New Castle County, Delaware	72	Accommodation and food services	72	0500000US10003	1199.75	23545.5	413337.5
+10692	10003	10	3	New Castle County, Delaware	81	Other services (except public administration)	81	0500000US10003	1371.25	10644.375	326685.875
+10693	10003	10	3	New Castle County, Delaware	99	Industries not classified	99	0500000US10003	41.125	41.75	1828.0
+10695	10005	10	5	Sussex County	11	Agriculture, forestry, fishing and hunting	11	0500000US10005	18.0	43.0	1957.0
+10696	10005	10	5	Sussex County	21	Mining, quarrying, and oil and gas extraction	21	0500000US10005	1.0	0.0	0.0
+10697	10005	10	5	Sussex County	22	Utilities	22	0500000US10005	11.0	344.0	31302.0
+10698	10005	10	5	Sussex County	23	Construction	23	0500000US10005	656.0	3405.0	133701.0
+10699	10005	10	5	Sussex County	42	Wholesale trade	42	0500000US10005	174.0	1375.0	65648.0
+10700	10005	10	5	Sussex County	51	Information	51	0500000US10005	68.0	539.0	23618.0
+10701	10005	10	5	Sussex County	52	Finance and insurance	52	0500000US10005	250.0	1905.0	83195.0
+10702	10005	10	5	Sussex County	53	Real estate and rental and leasing	53	0500000US10005	256.0	1233.0	45692.0
+10703	10005	10	5	Sussex County	54	Professional, scientific, and technical services	54	0500000US10005	355.0	1486.0	79456.0
+10704	10005	10	5	Sussex County	55	Management of companies and enterprises	55	0500000US10005	16.0	0.0	0.0
+10705	10005	10	5	Sussex County	56	Administrative and support and waste management and remediation services	56	0500000US10005	286.0	3303.0	87319.0
+10706	10005	10	5	Sussex County	61	Educational services	61	0500000US10005	30.0	313.0	6249.0
+10707	10005	10	5	Sussex County	62	Health care and social assistance	62	0500000US10005	523.0	10022.0	450285.0
+10708	10005	10	5	Sussex County	71	Arts, entertainment, and recreation	71	0500000US10005	102.0	853.0	22813.0
+10709	10005	10	5	Sussex County	72	Accommodation and food services	72	0500000US10005	630.0	8508.0	169108.0
+10710	10005	10	5	Sussex County	81	Other services (except public administration)	81	0500000US10005	493.0	2663.0	66485.0
+10711	10005	10	5	Sussex County	99	Industries not classified	99	0500000US10005	5.0	2.0	43.0
+10713	10005	10	5	Sussex County, Delaware	11	Agriculture, forestry, fishing and hunting	11	0500000US10005	16.5	40.375	1702.75
+10714	10005	10	5	Sussex County, Delaware	21	Mining, quarrying, and oil and gas extraction	21	0500000US10005	3.125	53.375	4945.625
+10715	10005	10	5	Sussex County, Delaware	22	Utilities	22	0500000US10005	11.5	366.125	32755.875
+10716	10005	10	5	Sussex County, Delaware	23	Construction	23	0500000US10005	690.375	4548.5	222177.25
+10717	10005	10	5	Sussex County, Delaware	42	Wholesale trade	42	0500000US10005	190.0	1603.0	82974.25
+10718	10005	10	5	Sussex County, Delaware	51	Information	51	0500000US10005	86.625	577.25	30041.625
+10719	10005	10	5	Sussex County, Delaware	52	Finance and insurance	52	0500000US10005	256.125	1935.0	105162.75
+10720	10005	10	5	Sussex County, Delaware	53	Real estate and rental and leasing	53	0500000US10005	292.875	1358.125	53824.25
+10721	10005	10	5	Sussex County, Delaware	54	Professional, scientific, and technical services	54	0500000US10005	425.75	2036.125	122434.125
+10722	10005	10	5	Sussex County, Delaware	55	Management of companies and enterprises	55	0500000US10005	24.625	342.25	32959.75
+10723	10005	10	5	Sussex County, Delaware	56	Administrative and support and waste management and remediation services	56	0500000US10005	311.0	3527.875	116787.5
+10724	10005	10	5	Sussex County, Delaware	61	Educational services	61	0500000US10005	31.375	373.625	7852.625
+10725	10005	10	5	Sussex County, Delaware	62	Health care and social assistance	62	0500000US10005	587.625	11692.5	573453.0
+10726	10005	10	5	Sussex County, Delaware	71	Arts, entertainment, and recreation	71	0500000US10005	101.0	1194.75	32087.0
+10727	10005	10	5	Sussex County, Delaware	72	Accommodation and food services	72	0500000US10005	654.625	9972.0	219457.0
+10728	10005	10	5	Sussex County, Delaware	81	Other services (except public administration)	81	0500000US10005	499.0	2578.0	68671.5
+10729	10005	10	5	Sussex County, Delaware	99	Industries not classified	99	0500000US10005	15.75	15.375	412.75
