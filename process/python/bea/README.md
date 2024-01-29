@@ -30,6 +30,14 @@ TO DO: Columns of final output should be something like:
 
 FIPS, NAICS, Establishments, Employees, Payroll
 
+TO DO: Recent years
+
+USEPA has these 2 crosswalks. (There are no naics industry titles in these.)
+
+- [2017 NAICS to 2017 BEA](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_to_BEA_Crosswalk_2017.csv)
+- [Timeseries of NAICS codes for 2002, 2007, 2012, 2017](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_Crosswalk_TimeSeries.csv)
+
+Titles might need to be pulled from separate files (2017 and 2022) using the XLSX files downloadable from the following census page. Click "downloadable files" at [census.gov/naics/?48967](https://www.census.gov/naics/?48967)
 
 TO DO: Generate folders quarterly with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
 
