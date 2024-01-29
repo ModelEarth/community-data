@@ -1,0 +1,931 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+5527	09	9	0	Connecticut	113110	Timber tract operations	11	0400000US09	1.5	0.0	0.0
+5528	09	9	0	Connecticut	113210	Forest nurseries and gathering of forest products	11	0400000US09	1.0	0.0	0.0
+5529	09	9	0	Connecticut	113310	Logging	11	0400000US09	8.777777777777779	17.444444444444443	612.8888888888889
+5530	09	9	0	Connecticut	114111	Finfish fishing	11	0400000US09	1.5	0.0	0.0
+5531	09	9	0	Connecticut	114112	Shellfish fishing	11	0400000US09	6.0	12.11111111111111	1338.6666666666667
+5532	09	9	0	Connecticut	114119	Other marine fishing	11	0400000US09	1.0	0.0	0.0
+5533	09	9	0	Connecticut	114210	Hunting and trapping	11	0400000US09	2.0	0.0	0.0
+5534	09	9	0	Connecticut	115112	Soil preparation, planting, and cultivating	11	0400000US09	2.888888888888889	8.88888888888889	231.11111111111111
+5535	09	9	0	Connecticut	115114	Postharvest crop activities (except cotton ginning)	11	0400000US09	1.3333333333333333	0.0	0.0
+5536	09	9	0	Connecticut	115115	Farm labor contractors and crew leaders	11	0400000US09	1.6	0.0	116.0
+5537	09	9	0	Connecticut	115116	Farm management services	11	0400000US09	1.0	0.0	0.0
+5538	09	9	0	Connecticut	115210	Support activities for animal production	11	0400000US09	49.666666666666664	206.44444444444446	7284.333333333333
+5539	09	9	0	Connecticut	115310	Support activities for forestry	11	0400000US09	2.2	0.8	34.0
+5540	09	9	0	Connecticut	211111	Crude petroleum and natural gas extraction	21	0400000US09	4.0	5.8	587.0
+5541	09	9	0	Connecticut	211112	Natural gas liquid extraction	21	0400000US09	1.0	0.0	0.0
+5542	09	9	0	Connecticut	211120	Crude petroleum extraction	21	0400000US09	5.0	32.0	3137.0
+5543	09	9	0	Connecticut	212221	Gold ore mining	21	0400000US09	1.0	0.0	0.0
+5544	09	9	0	Connecticut	212311	Dimension stone mining and quarrying	21	0400000US09	1.75	0.0	0.0
+5545	09	9	0	Connecticut	212312	Crushed and broken limestone mining and quarrying	21	0400000US09	5.555555555555555	75.22222222222223	5589.222222222223
+5546	09	9	0	Connecticut	212313	Crushed and broken granite mining and quarrying	21	0400000US09	6.8	26.8	3799.8
+5547	09	9	0	Connecticut	212319	Other crushed and broken stone mining and quarrying	21	0400000US09	7.0	121.22222222222223	9794.888888888889
+5548	09	9	0	Connecticut	212321	Construction sand and gravel mining	21	0400000US09	35.666666666666664	253.88888888888889	22548.222222222223
+5549	09	9	0	Connecticut	212399	All other nonmetallic mineral mining	21	0400000US09	1.0	0.0	0.0
+5550	09	9	0	Connecticut	213111	Drilling oil and gas wells	21	0400000US09	2.6666666666666665	4.777777777777778	139.44444444444446
+5551	09	9	0	Connecticut	213112	Support activities for oil and gas operations	21	0400000US09	4.888888888888889	6.555555555555555	771.3333333333334
+5552	09	9	0	Connecticut	213113	Support activities for coal mining	21	0400000US09	1.0	0.0	0.0
+5553	09	9	0	Connecticut	213114	Support activities for metal mining	21	0400000US09	1.0	0.0	0.0
+5554	09	9	0	Connecticut	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US09	1.0	0.0	0.0
+5555	09	9	0	Connecticut	221111	Hydroelectric power generation	22	0400000US09	9.88888888888889	40.77777777777778	5326.0
+5556	09	9	0	Connecticut	221112	Fossil fuel electric power generation	22	0400000US09	12.444444444444445	468.77777777777777	59215.22222222222
+5557	09	9	0	Connecticut	221113	Nuclear electric power generation	22	0400000US09	3.5555555555555554	0.0	0.0
+5558	09	9	0	Connecticut	221114	Solar electric power generation	22	0400000US09	1.8	0.0	0.0
+5559	09	9	0	Connecticut	221115	Wind electric power generation	22	0400000US09	1.0	0.0	0.0
+5560	09	9	0	Connecticut	221117	Biomass electric power generation	22	0400000US09	2.125	0.0	0.0
+5561	09	9	0	Connecticut	221118	Other electric power generation	22	0400000US09	2.6	22.8	1413.4
+5562	09	9	0	Connecticut	221121	Electric bulk power transmission and control	22	0400000US09	1.0	0.0	0.0
+5563	09	9	0	Connecticut	221122	Electric power distribution	22	0400000US09	47.22222222222222	2863.6666666666665	407215.1111111111
+5564	09	9	0	Connecticut	221210	Natural gas distribution	22	0400000US09	19.22222222222222	532.3333333333334	53087.333333333336
+5565	09	9	0	Connecticut	221310	Water supply and irrigation systems	22	0400000US09	27.666666666666668	564.3333333333334	48377.0
+5566	09	9	0	Connecticut	221320	Sewage treatment facilities	22	0400000US09	10.444444444444445	121.88888888888889	8348.666666666666
+5567	09	9	0	Connecticut	221330	Steam and air-conditioning supply	22	0400000US09	1.2	0.0	0.0
+5568	09	9	0	Connecticut	236115	New single-family housing construction (except for-sale builders)	23	0400000US09	375.77777777777777	1230.5555555555557	81493.44444444444
+5569	09	9	0	Connecticut	236116	New multifamily housing construction (except for-sale builders)	23	0400000US09	16.77777777777778	158.55555555555554	13227.555555555555
+5570	09	9	0	Connecticut	236117	New housing for-sale builders	23	0400000US09	165.44444444444446	627.6666666666666	45097.77777777778
+5571	09	9	0	Connecticut	236118	Residential remodelers	23	0400000US09	1093.888888888889	3322.0	160216.33333333334
+5572	09	9	0	Connecticut	236210	Industrial building construction	23	0400000US09	13.333333333333334	161.77777777777777	11069.0
+5573	09	9	0	Connecticut	236220	Commercial and institutional building construction	23	0400000US09	357.0	4965.777777777777	421760.77777777775
+5574	09	9	0	Connecticut	237110	Water and sewer line and related structures construction	23	0400000US09	104.33333333333333	1212.7777777777778	97279.88888888889
+5575	09	9	0	Connecticut	237120	Oil and gas pipeline and related structures construction	23	0400000US09	7.0	206.66666666666666	15024.444444444445
+5576	09	9	0	Connecticut	237130	Power and communication line and related structures construction	23	0400000US09	50.888888888888886	2054.8888888888887	161616.55555555556
+5577	09	9	0	Connecticut	237210	Land subdivision	23	0400000US09	37.111111111111114	102.55555555555556	7904.333333333333
+5578	09	9	0	Connecticut	237310	Highway, street, and bridge construction	23	0400000US09	113.44444444444444	1482.0	186270.55555555556
+5579	09	9	0	Connecticut	237990	Other heavy and civil engineering construction	23	0400000US09	37.44444444444444	268.3333333333333	19458.88888888889
+5580	09	9	0	Connecticut	238110	Poured concrete foundation and structure contractors	23	0400000US09	195.0	1186.7777777777778	80944.55555555556
+5581	09	9	0	Connecticut	238120	Structural steel and precast concrete contractors	23	0400000US09	32.333333333333336	484.22222222222223	33493.333333333336
+5582	09	9	0	Connecticut	238130	Framing contractors	23	0400000US09	88.66666666666667	404.55555555555554	17458.555555555555
+5583	09	9	0	Connecticut	238140	Masonry contractors	23	0400000US09	253.88888888888889	1187.0	68535.55555555556
+5584	09	9	0	Connecticut	238150	Glass and glazing contractors	23	0400000US09	68.77777777777777	716.1111111111111	49147.77777777778
+5585	09	9	0	Connecticut	238160	Roofing contractors	23	0400000US09	154.22222222222223	998.0	78189.0
+5586	09	9	0	Connecticut	238170	Siding contractors	23	0400000US09	82.55555555555556	290.3333333333333	16452.222222222223
+5587	09	9	0	Connecticut	238190	Other foundation, structure, and building exterior contractors	23	0400000US09	57.0	425.8888888888889	28600.0
+5588	09	9	0	Connecticut	238210	Electrical contractors and other wiring installation contractors	23	0400000US09	1134.2222222222222	7952.0	514553.0
+5589	09	9	0	Connecticut	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US09	1261.3333333333333	9694.666666666666	621489.6666666666
+5590	09	9	0	Connecticut	238290	Other building equipment contractors	23	0400000US09	75.77777777777777	1080.5555555555557	94786.66666666667
+5591	09	9	0	Connecticut	238310	Drywall and insulation contractors	23	0400000US09	169.0	2210.5555555555557	125081.88888888889
+5592	09	9	0	Connecticut	238320	Painting and wall covering contractors	23	0400000US09	452.0	1433.888888888889	69956.77777777778
+5593	09	9	0	Connecticut	238330	Flooring contractors	23	0400000US09	153.55555555555554	748.3333333333334	37507.555555555555
+5594	09	9	0	Connecticut	238340	Tile and terrazzo contractors	23	0400000US09	70.44444444444444	275.77777777777777	14994.111111111111
+5595	09	9	0	Connecticut	238350	Finish carpentry contractors	23	0400000US09	323.1111111111111	1551.4444444444443	73332.33333333333
+5596	09	9	0	Connecticut	238390	Other building finishing contractors	23	0400000US09	76.66666666666667	575.6666666666666	30569.11111111111
+5597	09	9	0	Connecticut	238910	Site preparation contractors	23	0400000US09	515.0	4070.4444444444443	283838.77777777775
+5598	09	9	0	Connecticut	238990	All other specialty trade contractors	23	0400000US09	368.8888888888889	1410.2222222222222	131187.55555555556
+5599	09	9	0	Connecticut	311111	Dog and cat food manufacturing	31	0400000US09	3.2222222222222223	18.666666666666668	864.4444444444445
+5600	09	9	0	Connecticut	311119	Other animal food manufacturing	31	0400000US09	2.2	0.0	0.0
+5601	09	9	0	Connecticut	311211	Flour milling	31	0400000US09	1.0	0.0	0.0
+5602	09	9	0	Connecticut	311230	Breakfast cereal manufacturing	31	0400000US09	1.0	0.0	0.0
+5603	09	9	0	Connecticut	311314	Cane sugar manufacturing	31	0400000US09	1.0	0.0	0.0
+5604	09	9	0	Connecticut	311340	Nonchocolate confectionery manufacturing	31	0400000US09	2.3333333333333335	0.0	0.0
+5605	09	9	0	Connecticut	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US09	1.4	0.0	0.0
+5606	09	9	0	Connecticut	311352	Confectionery manufacturing from purchased chocolate	31	0400000US09	8.666666666666666	178.66666666666666	4326.222222222223
+5607	09	9	0	Connecticut	311411	Frozen fruit, juice, and vegetable manufacturing	31	0400000US09	1.0	0.0	0.0
+5608	09	9	0	Connecticut	311412	Frozen specialty food manufacturing	31	0400000US09	3.2222222222222223	185.22222222222223	12432.444444444445
+5609	09	9	0	Connecticut	311421	Fruit and vegetable canning	31	0400000US09	3.888888888888889	111.33333333333333	5598.222222222223
+5610	09	9	0	Connecticut	311422	Specialty canning	31	0400000US09	1.4	0.0	0.0
+5611	09	9	0	Connecticut	311423	Dried and dehydrated food manufacturing	31	0400000US09	2.2	17.2	1213.4
+5612	09	9	0	Connecticut	311511	Fluid milk manufacturing	31	0400000US09	3.5555555555555554	154.11111111111111	9856.0
+5613	09	9	0	Connecticut	311512	Creamery butter manufacturing	31	0400000US09	1.0	0.0	0.0
+5614	09	9	0	Connecticut	311513	Cheese manufacturing	31	0400000US09	4.888888888888889	153.88888888888889	7169.444444444444
+5615	09	9	0	Connecticut	311514	Dry, condensed, and evaporated dairy product manufacturing	31	0400000US09	1.0	0.0	0.0
+5616	09	9	0	Connecticut	311520	Ice cream and frozen dessert manufacturing	31	0400000US09	9.11111111111111	161.88888888888889	6412.666666666667
+5617	09	9	0	Connecticut	311611	Animal (except poultry) slaughtering	31	0400000US09	3.4	0.0	0.0
+5618	09	9	0	Connecticut	311612	Meat processed from carcasses	31	0400000US09	12.666666666666666	320.8888888888889	10876.666666666666
+5619	09	9	0	Connecticut	311615	Poultry processing	31	0400000US09	1.8	0.0	0.0
+5620	09	9	0	Connecticut	311710	Seafood product preparation and packaging	31	0400000US09	1.0	0.0	0.0
+5621	09	9	0	Connecticut	311811	Retail bakeries	31	0400000US09	148.33333333333334	1218.2222222222222	21748.222222222223
+5622	09	9	0	Connecticut	311812	Commercial bakeries	31	0400000US09	40.0	1759.4444444444443	77384.0
+5623	09	9	0	Connecticut	311813	Frozen cakes, pies, and other pastries manufacturing	31	0400000US09	1.6	0.0	0.0
+5624	09	9	0	Connecticut	311821	Cookie and cracker manufacturing	31	0400000US09	1.6	0.0	0.0
+5625	09	9	0	Connecticut	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US09	2.5555555555555554	0.0	0.0
+5626	09	9	0	Connecticut	311911	Roasted nuts and peanut butter manufacturing	31	0400000US09	1.0	0.0	0.0
+5627	09	9	0	Connecticut	311919	Other snack food manufacturing	31	0400000US09	5.111111111111111	0.0	0.0
+5628	09	9	0	Connecticut	311920	Coffee and tea manufacturing	31	0400000US09	10.777777777777779	202.66666666666666	13066.888888888889
+5629	09	9	0	Connecticut	311930	Flavoring syrup and concentrate manufacturing	31	0400000US09	3.6666666666666665	0.0	297.3333333333333
+5630	09	9	0	Connecticut	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US09	3.111111111111111	0.0	0.0
+5631	09	9	0	Connecticut	311942	Spice and extract manufacturing	31	0400000US09	3.7777777777777777	0.0	0.0
+5632	09	9	0	Connecticut	311991	Perishable prepared food manufacturing	31	0400000US09	5.666666666666667	80.55555555555556	2288.8888888888887
+5633	09	9	0	Connecticut	311999	All other miscellaneous food manufacturing	31	0400000US09	3.4444444444444446	5.555555555555555	271.8888888888889
+5634	09	9	0	Connecticut	312111	Soft drink manufacturing	31	0400000US09	7.666666666666667	188.77777777777777	9450.888888888889
+5635	09	9	0	Connecticut	312112	Bottled water manufacturing	31	0400000US09	1.4	0.0	0.0
+5636	09	9	0	Connecticut	312113	Ice manufacturing	31	0400000US09	4.333333333333333	9.11111111111111	535.4444444444445
+5637	09	9	0	Connecticut	312120	Breweries	31	0400000US09	27.11111111111111	250.55555555555554	8954.777777777777
+5638	09	9	0	Connecticut	312130	Wineries	31	0400000US09	19.77777777777778	125.55555555555556	3394.3333333333335
+5639	09	9	0	Connecticut	312140	Distilleries	31	0400000US09	2.888888888888889	6.888888888888889	141.88888888888889
+5640	09	9	0	Connecticut	312230	Tobacco manufacturing	31	0400000US09	2.0	0.0	0.0
+5641	09	9	0	Connecticut	313110	Fiber, yarn, and thread mills	31	0400000US09	3.0	2.4	478.6
+5642	09	9	0	Connecticut	313210	Broadwoven fabric mills	31	0400000US09	4.111111111111111	0.0	0.0
+5643	09	9	0	Connecticut	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US09	3.5555555555555554	18.11111111111111	538.2222222222222
+5644	09	9	0	Connecticut	313230	Nonwoven fabric mills	31	0400000US09	2.2	26.2	2026.4
+5645	09	9	0	Connecticut	313240	Knit fabric mills	31	0400000US09	1.4	0.0	0.0
+5646	09	9	0	Connecticut	313310	Textile and fabric finishing mills	31	0400000US09	4.2	9.8	863.0
+5647	09	9	0	Connecticut	313320	Fabric coating mills	31	0400000US09	5.222222222222222	185.55555555555554	9756.888888888889
+5648	09	9	0	Connecticut	314110	Carpet and rug mills	31	0400000US09	2.0	0.0	0.0
+5649	09	9	0	Connecticut	314120	Curtain and linen mills	31	0400000US09	24.444444444444443	185.33333333333334	6296.777777777777
+5650	09	9	0	Connecticut	314910	Textile bag and canvas mills	31	0400000US09	27.88888888888889	435.0	21586.555555555555
+5651	09	9	0	Connecticut	314994	Rope, cordage, twine, tire cord, and tire fabric mills	31	0400000US09	2.888888888888889	2.3333333333333335	80.0
+5652	09	9	0	Connecticut	314999	All other miscellaneous textile product mills	31	0400000US09	23.77777777777778	304.6666666666667	12751.888888888889
+5653	09	9	0	Connecticut	315190	Other apparel knitting mills	31	0400000US09	1.0	0.0	0.0
+5654	09	9	0	Connecticut	315210	Cut and sew apparel contractors	31	0400000US09	3.111111111111111	4.222222222222222	114.0
+5655	09	9	0	Connecticut	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US09	4.444444444444445	32.333333333333336	704.4444444444445
+5656	09	9	0	Connecticut	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US09	3.2222222222222223	0.0	0.0
+5657	09	9	0	Connecticut	315280	Other cut and sew apparel manufacturing	31	0400000US09	1.2	0.0	0.0
+5658	09	9	0	Connecticut	315990	Apparel accessories and other apparel manufacturing	31	0400000US09	7.444444444444445	103.66666666666667	3111.222222222222
+5659	09	9	0	Connecticut	316210	Footwear manufacturing	31	0400000US09	2.0	1.6666666666666667	20.0
+5660	09	9	0	Connecticut	316992	Women's handbag and purse manufacturing	31	0400000US09	2.7777777777777777	0.0	0.0
+5661	09	9	0	Connecticut	316998	All other leather good and allied product manufacturing	31	0400000US09	2.6666666666666665	0.0	0.0
+5662	09	9	0	Connecticut	321113	Sawmills	32	0400000US09	12.222222222222221	151.77777777777777	5894.333333333333
+5663	09	9	0	Connecticut	321114	Wood preservation	32	0400000US09	2.2	8.8	301.8
+5664	09	9	0	Connecticut	321211	Hardwood veneer and plywood manufacturing	32	0400000US09	1.0	0.0	0.0
+5665	09	9	0	Connecticut	321214	Truss manufacturing	32	0400000US09	2.0	0.0	0.0
+5666	09	9	0	Connecticut	321219	Reconstituted wood product manufacturing	32	0400000US09	1.0	0.0	0.0
+5667	09	9	0	Connecticut	321911	Wood window and door manufacturing	32	0400000US09	13.777777777777779	94.33333333333333	4637.111111111111
+5668	09	9	0	Connecticut	321912	Cut stock, resawing lumber, and planing	32	0400000US09	7.0	17.0	937.2222222222222
+5669	09	9	0	Connecticut	321918	Other millwork (including flooring)	32	0400000US09	24.22222222222222	219.33333333333334	11681.888888888889
+5670	09	9	0	Connecticut	321920	Wood container and pallet manufacturing	32	0400000US09	15.555555555555555	171.11111111111111	8041.555555555556
+5671	09	9	0	Connecticut	321992	Prefabricated wood building manufacturing	32	0400000US09	8.11111111111111	38.77777777777778	2707.0
+5672	09	9	0	Connecticut	321999	All other miscellaneous wood product manufacturing	32	0400000US09	19.77777777777778	139.77777777777777	6723.0
+5673	09	9	0	Connecticut	322121	Paper (except newsprint) mills	32	0400000US09	3.2222222222222223	920.3333333333334	66454.0
+5674	09	9	0	Connecticut	322130	Paperboard mills	32	0400000US09	3.0	300.6	21652.0
+5675	09	9	0	Connecticut	322211	Corrugated and solid fiber box manufacturing	32	0400000US09	11.11111111111111	464.0	30060.777777777777
+5676	09	9	0	Connecticut	322212	Folding paperboard box manufacturing	32	0400000US09	9.555555555555555	484.1111111111111	25909.777777777777
+5677	09	9	0	Connecticut	322219	Other paperboard container manufacturing	32	0400000US09	1.6	0.0	0.0
+5678	09	9	0	Connecticut	322220	Paper bag and coated and treated paper manufacturing	32	0400000US09	10.666666666666666	392.0	27504.777777777777
+5679	09	9	0	Connecticut	322230	Stationery product manufacturing	32	0400000US09	3.2222222222222223	85.66666666666667	3260.222222222222
+5680	09	9	0	Connecticut	322291	Sanitary paper product manufacturing	32	0400000US09	1.0	0.0	0.0
+5681	09	9	0	Connecticut	322299	All other converted paper product manufacturing	32	0400000US09	5.777777777777778	99.55555555555556	4842.777777777777
+5682	09	9	0	Connecticut	323111	Commercial printing (except screen and books)	32	0400000US09	261.0	4560.555555555556	224646.0
+5683	09	9	0	Connecticut	323113	Commercial screen printing	32	0400000US09	62.0	1151.7777777777778	41502.333333333336
+5684	09	9	0	Connecticut	323117	Books printing	32	0400000US09	3.7777777777777777	2.7777777777777777	127.55555555555556
+5685	09	9	0	Connecticut	323120	Support activities for printing	32	0400000US09	14.0	223.44444444444446	11336.111111111111
+5686	09	9	0	Connecticut	324121	Asphalt paving mixture and block manufacturing	32	0400000US09	21.666666666666668	135.77777777777777	13088.111111111111
+5687	09	9	0	Connecticut	324122	Asphalt shingle and coating materials manufacturing	32	0400000US09	1.0	0.0	0.0
+5688	09	9	0	Connecticut	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US09	5.666666666666667	37.333333333333336	3551.222222222222
+5689	09	9	0	Connecticut	324199	All other petroleum and coal products manufacturing	32	0400000US09	1.4	0.0	0.0
+5690	09	9	0	Connecticut	325110	Petrochemical manufacturing	32	0400000US09	2.2	1.6	128.8
+5691	09	9	0	Connecticut	325120	Industrial gas manufacturing	32	0400000US09	4.111111111111111	59.77777777777778	4205.333333333333
+5692	09	9	0	Connecticut	325130	Synthetic dye and pigment manufacturing	32	0400000US09	1.0	0.0	0.0
+5693	09	9	0	Connecticut	325180	Other basic inorganic chemical manufacturing	32	0400000US09	5.666666666666667	260.1111111111111	30018.11111111111
+5694	09	9	0	Connecticut	325193	Ethyl alcohol manufacturing	32	0400000US09	1.0	0.0	0.0
+5695	09	9	0	Connecticut	325199	All other basic organic chemical manufacturing	32	0400000US09	11.222222222222221	357.1111111111111	36730.444444444445
+5696	09	9	0	Connecticut	325211	Plastics material and resin manufacturing	32	0400000US09	21.0	759.3333333333334	62767.0
+5697	09	9	0	Connecticut	325212	Synthetic rubber manufacturing	32	0400000US09	1.6	0.0	0.0
+5698	09	9	0	Connecticut	325220	Artificial and synthetic fibers and filaments manufacturing	32	0400000US09	1.75	0.0	0.0
+5699	09	9	0	Connecticut	325311	Nitrogenous fertilizer manufacturing	32	0400000US09	1.0	0.0	0.0
+5700	09	9	0	Connecticut	325314	Fertilizer (mixing only) manufacturing	32	0400000US09	6.555555555555555	144.11111111111111	6581.111111111111
+5701	09	9	0	Connecticut	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US09	3.6666666666666665	20.0	2428.6666666666665
+5702	09	9	0	Connecticut	325411	Medicinal and botanical manufacturing	32	0400000US09	3.8	6.8	358.4
+5703	09	9	0	Connecticut	325412	Pharmaceutical preparation manufacturing	32	0400000US09	12.666666666666666	402.0	68991.0
+5704	09	9	0	Connecticut	325413	In-vitro diagnostic substance manufacturing	32	0400000US09	2.0	0.0	0.0
+5705	09	9	0	Connecticut	325414	Biological product (except diagnostic) manufacturing	32	0400000US09	1.0	0.0	0.0
+5706	09	9	0	Connecticut	325510	Paint and coating manufacturing	32	0400000US09	6.666666666666667	88.88888888888889	5778.777777777777
+5707	09	9	0	Connecticut	325520	Adhesive manufacturing	32	0400000US09	8.777777777777779	187.22222222222223	16084.0
+5708	09	9	0	Connecticut	325611	Soap and other detergent manufacturing	32	0400000US09	6.111111111111111	189.88888888888889	13480.222222222223
+5709	09	9	0	Connecticut	325612	Polish and other sanitation good manufacturing	32	0400000US09	4.0	33.0	2584.3333333333335
+5710	09	9	0	Connecticut	325613	Surface active agent manufacturing	32	0400000US09	2.4444444444444446	0.0	0.0
+5711	09	9	0	Connecticut	325620	Toilet preparation manufacturing	32	0400000US09	17.0	672.6666666666666	44508.666666666664
+5712	09	9	0	Connecticut	325910	Printing ink manufacturing	32	0400000US09	3.7777777777777777	44.0	2280.5555555555557
+5713	09	9	0	Connecticut	325920	Explosives manufacturing	32	0400000US09	4.0	256.22222222222223	20721.333333333332
+5714	09	9	0	Connecticut	325991	Custom compounding of purchased resins	32	0400000US09	7.444444444444445	410.6666666666667	27739.222222222223
+5715	09	9	0	Connecticut	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US09	1.0	0.0	0.0
+5716	09	9	0	Connecticut	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US09	17.444444444444443	657.7777777777778	70959.77777777778
+5717	09	9	0	Connecticut	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US09	2.8	44.6	1639.2
+5718	09	9	0	Connecticut	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US09	13.88888888888889	661.4444444444445	51800.22222222222
+5719	09	9	0	Connecticut	326121	Unlaminated plastics profile shape manufacturing	32	0400000US09	7.111111111111111	293.8888888888889	16314.222222222223
+5720	09	9	0	Connecticut	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US09	2.4	0.0	0.0
+5721	09	9	0	Connecticut	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	32	0400000US09	6.111111111111111	125.44444444444444	4826.0
+5722	09	9	0	Connecticut	326140	Polystyrene foam product manufacturing	32	0400000US09	4.666666666666667	143.55555555555554	9562.444444444445
+5723	09	9	0	Connecticut	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US09	7.555555555555555	268.55555555555554	17273.444444444445
+5724	09	9	0	Connecticut	326160	Plastics bottle manufacturing	32	0400000US09	3.6666666666666665	250.66666666666666	10955.333333333334
+5725	09	9	0	Connecticut	326191	Plastics plumbing fixture manufacturing	32	0400000US09	3.2222222222222223	30.77777777777778	1424.111111111111
+5726	09	9	0	Connecticut	326199	All other plastics product manufacturing	32	0400000US09	83.11111111111111	3132.1111111111113	159704.88888888888
+5727	09	9	0	Connecticut	326212	Tire retreading	32	0400000US09	4.333333333333333	43.333333333333336	1798.7777777777778
+5728	09	9	0	Connecticut	326220	Rubber and plastics hoses and belting manufacturing	32	0400000US09	3.0	34.55555555555556	1145.5555555555557
+5729	09	9	0	Connecticut	326291	Rubber product manufacturing for mechanical use	32	0400000US09	1.8	0.0	0.0
+5730	09	9	0	Connecticut	326299	All other rubber product manufacturing	32	0400000US09	8.222222222222221	296.0	21724.333333333332
+5731	09	9	0	Connecticut	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US09	2.4	0.8	7.6
+5732	09	9	0	Connecticut	327120	Clay building material and refractories manufacturing	32	0400000US09	4.0	32.44444444444444	2196.5555555555557
+5733	09	9	0	Connecticut	327211	Flat glass manufacturing	32	0400000US09	1.0	0.0	0.0
+5734	09	9	0	Connecticut	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US09	3.4444444444444446	0.0	0.0
+5735	09	9	0	Connecticut	327215	Glass product manufacturing made of purchased glass	32	0400000US09	10.333333333333334	470.22222222222223	28955.555555555555
+5736	09	9	0	Connecticut	327320	Ready-mix concrete manufacturing	32	0400000US09	30.11111111111111	477.0	30101.777777777777
+5737	09	9	0	Connecticut	327331	Concrete block and brick manufacturing	32	0400000US09	6.0	81.88888888888889	5297.777777777777
+5738	09	9	0	Connecticut	327390	Other concrete product manufacturing	32	0400000US09	22.444444444444443	595.0	38060.666666666664
+5739	09	9	0	Connecticut	327910	Abrasive product manufacturing	32	0400000US09	6.111111111111111	153.0	11313.444444444445
+5740	09	9	0	Connecticut	327991	Cut stone and stone product manufacturing	32	0400000US09	39.55555555555556	377.1111111111111	15707.333333333334
+5741	09	9	0	Connecticut	327993	Mineral wool manufacturing	32	0400000US09	6.555555555555555	95.44444444444444	5090.444444444444
+5742	09	9	0	Connecticut	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US09	3.4	37.2	2341.2
+5743	09	9	0	Connecticut	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US09	5.666666666666667	59.55555555555556	4819.222222222223
+5744	09	9	0	Connecticut	331221	Rolled steel shape manufacturing	33	0400000US09	4.444444444444445	456.8888888888889	29981.666666666668
+5745	09	9	0	Connecticut	331222	Steel wire drawing	33	0400000US09	4.777777777777778	358.44444444444446	18060.222222222223
+5746	09	9	0	Connecticut	331315	Aluminum sheet, plate, and foil manufacturing	33	0400000US09	2.888888888888889	114.11111111111111	11618.333333333334
+5747	09	9	0	Connecticut	331318	Other aluminum rolling, drawing, and extruding	33	0400000US09	3.3333333333333335	26.22222222222222	1164.2222222222222
+5748	09	9	0	Connecticut	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US09	2.8	2.8	207.2
+5749	09	9	0	Connecticut	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US09	11.333333333333334	552.1111111111111	35164.0
+5750	09	9	0	Connecticut	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US09	11.666666666666666	659.0	45268.11111111111
+5751	09	9	0	Connecticut	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US09	4.0	43.888888888888886	2955.5555555555557
+5752	09	9	0	Connecticut	331511	Iron foundries	33	0400000US09	2.0	0.0	0.0
+5753	09	9	0	Connecticut	331512	Steel investment foundries	33	0400000US09	2.0	0.0	0.0
+5754	09	9	0	Connecticut	331523	Nonferrous metal die-casting foundries	33	0400000US09	3.6666666666666665	39.666666666666664	1576.2222222222222
+5755	09	9	0	Connecticut	331524	Aluminum foundries (except die-casting)	33	0400000US09	4.333333333333333	28.88888888888889	1364.7777777777778
+5756	09	9	0	Connecticut	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US09	1.0	0.0	0.0
+5757	09	9	0	Connecticut	332111	Iron and steel forging	33	0400000US09	4.2	132.6	7942.0
+5758	09	9	0	Connecticut	332112	Nonferrous forging	33	0400000US09	2.0	0.0	0.0
+5759	09	9	0	Connecticut	332114	Custom roll forming	33	0400000US09	5.666666666666667	123.0	7445.555555555556
+5760	09	9	0	Connecticut	332117	Powder metallurgy part manufacturing	33	0400000US09	8.555555555555555	262.44444444444446	11478.111111111111
+5761	09	9	0	Connecticut	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US09	71.55555555555556	2799.6666666666665	169497.77777777778
+5762	09	9	0	Connecticut	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US09	5.333333333333333	0.0	0.0
+5763	09	9	0	Connecticut	332216	Saw blade and handtool manufacturing	33	0400000US09	27.22222222222222	849.3333333333334	54083.77777777778
+5764	09	9	0	Connecticut	332311	Prefabricated metal building and component manufacturing	33	0400000US09	4.333333333333333	14.222222222222221	812.6666666666666
+5765	09	9	0	Connecticut	332312	Fabricated structural metal manufacturing	33	0400000US09	29.444444444444443	580.7777777777778	40859.666666666664
+5766	09	9	0	Connecticut	332313	Plate work manufacturing	33	0400000US09	20.77777777777778	286.44444444444446	13475.0
+5767	09	9	0	Connecticut	332321	Metal window and door manufacturing	33	0400000US09	12.444444444444445	315.22222222222223	20633.88888888889
+5768	09	9	0	Connecticut	332322	Sheet metal work manufacturing	33	0400000US09	56.55555555555556	790.6666666666666	42117.555555555555
+5769	09	9	0	Connecticut	332323	Ornamental and architectural metal work manufacturing	33	0400000US09	41.111111111111114	487.77777777777777	31595.11111111111
+5770	09	9	0	Connecticut	332410	Power boiler and heat exchanger manufacturing	33	0400000US09	3.0	0.0	0.0
+5771	09	9	0	Connecticut	332420	Metal tank (heavy gauge) manufacturing	33	0400000US09	3.888888888888889	37.44444444444444	2538.8888888888887
+5772	09	9	0	Connecticut	332431	Metal can manufacturing	33	0400000US09	1.0	0.0	0.0
+5773	09	9	0	Connecticut	332439	Other metal container manufacturing	33	0400000US09	5.777777777777778	161.77777777777777	6122.0
+5774	09	9	0	Connecticut	332510	Hardware manufacturing	33	0400000US09	29.444444444444443	1459.4444444444443	95527.11111111111
+5775	09	9	0	Connecticut	332613	Spring manufacturing	33	0400000US09	21.22222222222222	752.0	48027.22222222222
+5776	09	9	0	Connecticut	332618	Other fabricated wire product manufacturing	33	0400000US09	11.333333333333334	234.88888888888889	11924.888888888889
+5777	09	9	0	Connecticut	332710	Machine shops	33	0400000US09	324.55555555555554	4004.3333333333335	231693.44444444444
+5778	09	9	0	Connecticut	332721	Precision turned product manufacturing	33	0400000US09	144.55555555555554	4024.0	242729.33333333334
+5779	09	9	0	Connecticut	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US09	32.44444444444444	995.5555555555555	59094.11111111111
+5780	09	9	0	Connecticut	332811	Metal heat treating	33	0400000US09	27.0	479.8888888888889	26900.666666666668
+5781	09	9	0	Connecticut	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US09	53.888888888888886	1757.3333333333333	95199.33333333333
+5782	09	9	0	Connecticut	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US09	69.44444444444444	1708.3333333333333	79496.77777777778
+5783	09	9	0	Connecticut	332911	Industrial valve manufacturing	33	0400000US09	5.666666666666667	496.3333333333333	30492.11111111111
+5784	09	9	0	Connecticut	332912	Fluid power valve and hose fitting manufacturing	33	0400000US09	12.666666666666666	1544.111111111111	131547.44444444444
+5785	09	9	0	Connecticut	332913	Plumbing fixture fitting and trim manufacturing	33	0400000US09	3.0	158.0	9383.777777777777
+5786	09	9	0	Connecticut	332919	Other metal valve and pipe fitting manufacturing	33	0400000US09	3.3333333333333335	0.0	0.0
+5787	09	9	0	Connecticut	332991	Ball and roller bearing manufacturing	33	0400000US09	11.333333333333334	947.7777777777778	54225.88888888889
+5788	09	9	0	Connecticut	332992	Small arms ammunition manufacturing	33	0400000US09	1.6	0.0	0.0
+5789	09	9	0	Connecticut	332993	Ammunition (except small arms) manufacturing	33	0400000US09	1.0	0.0	0.0
+5790	09	9	0	Connecticut	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US09	11.0	1148.4444444444443	73799.88888888889
+5791	09	9	0	Connecticut	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US09	8.222222222222221	120.0	7972.333333333333
+5792	09	9	0	Connecticut	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US09	38.77777777777778	608.8888888888889	32544.88888888889
+5793	09	9	0	Connecticut	333111	Farm machinery and equipment manufacturing	33	0400000US09	1.4	0.0	0.0
+5794	09	9	0	Connecticut	333112	Lawn and garden tractor and home lawn and garden equipment manufacturing	33	0400000US09	1.4	0.0	0.0
+5795	09	9	0	Connecticut	333120	Construction machinery manufacturing	33	0400000US09	2.888888888888889	30.666666666666668	1987.111111111111
+5796	09	9	0	Connecticut	333131	Mining machinery and equipment manufacturing	33	0400000US09	1.4	0.0	0.0
+5797	09	9	0	Connecticut	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US09	1.2	0.0	0.0
+5798	09	9	0	Connecticut	333241	Food product machinery manufacturing	33	0400000US09	3.6666666666666665	0.0	0.0
+5799	09	9	0	Connecticut	333242	Semiconductor machinery manufacturing	33	0400000US09	5.666666666666667	0.0	0.0
+5800	09	9	0	Connecticut	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US09	1.0	0.0	0.0
+5801	09	9	0	Connecticut	333244	Printing machinery and equipment manufacturing	33	0400000US09	9.777777777777779	276.3333333333333	18054.666666666668
+5802	09	9	0	Connecticut	333249	Other industrial machinery manufacturing	33	0400000US09	32.111111111111114	1128.3333333333333	85391.88888888889
+5803	09	9	0	Connecticut	333314	Optical instrument and lens manufacturing	33	0400000US09	8.444444444444445	155.77777777777777	8926.777777777777
+5804	09	9	0	Connecticut	333316	Photographic and photocopying equipment manufacturing	33	0400000US09	2.0	0.0	0.0
+5805	09	9	0	Connecticut	333318	Other commercial and service industry machinery manufacturing	33	0400000US09	20.0	755.2222222222222	51885.11111111111
+5806	09	9	0	Connecticut	333413	Industrial and commercial fan and blower and air purification equipment manufacturing	33	0400000US09	5.111111111111111	112.33333333333333	8633.444444444445
+5807	09	9	0	Connecticut	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US09	5.444444444444445	73.33333333333333	3210.777777777778
+5808	09	9	0	Connecticut	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US09	3.7777777777777777	12.222222222222221	638.8888888888889
+5809	09	9	0	Connecticut	333511	Industrial mold manufacturing	33	0400000US09	27.555555555555557	631.4444444444445	38854.555555555555
+5810	09	9	0	Connecticut	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US09	64.66666666666667	686.4444444444445	41740.11111111111
+5811	09	9	0	Connecticut	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US09	53.111111111111114	691.0	39335.444444444445
+5812	09	9	0	Connecticut	333517	Machine tool manufacturing	33	0400000US09	18.333333333333332	568.2222222222222	35924.666666666664
+5813	09	9	0	Connecticut	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US09	16.77777777777778	293.0	21359.0
+5814	09	9	0	Connecticut	333611	Turbine and turbine generator set units manufacturing	33	0400000US09	8.444444444444445	497.8888888888889	31053.666666666668
+5815	09	9	0	Connecticut	333612	Speed changer, industrial high-speed drive, and gear manufacturing	33	0400000US09	5.333333333333333	51.22222222222222	3989.0
+5816	09	9	0	Connecticut	333613	Mechanical power transmission equipment manufacturing	33	0400000US09	8.88888888888889	726.5555555555555	47616.77777777778
+5817	09	9	0	Connecticut	333618	Other engine equipment manufacturing	33	0400000US09	2.4444444444444446	0.0	0.0
+5818	09	9	0	Connecticut	333911	Pump and pumping equipment manufacturing	33	0400000US09	6.0	198.0	15349.8
+5819	09	9	0	Connecticut	333912	Air and gas compressor manufacturing	33	0400000US09	2.2	13.4	697.8
+5820	09	9	0	Connecticut	333914	Measuring, dispensing, and other pumping equipment manufacturing	33	0400000US09	7.0	232.0	13640.0
+5821	09	9	0	Connecticut	333921	Elevator and moving stairway manufacturing	33	0400000US09	2.2	0.0	333.2
+5822	09	9	0	Connecticut	333922	Conveyor and conveying equipment manufacturing	33	0400000US09	3.4444444444444446	96.33333333333333	7843.444444444444
+5823	09	9	0	Connecticut	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US09	1.4	0.0	0.0
+5824	09	9	0	Connecticut	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US09	2.0	0.0	0.0
+5825	09	9	0	Connecticut	333991	Power-driven handtool manufacturing	33	0400000US09	2.8	0.0	0.0
+5826	09	9	0	Connecticut	333992	Welding and soldering equipment manufacturing	33	0400000US09	7.555555555555555	209.22222222222223	13515.666666666666
+5827	09	9	0	Connecticut	333993	Packaging machinery manufacturing	33	0400000US09	7.666666666666667	204.33333333333334	14541.0
+5828	09	9	0	Connecticut	333994	Industrial process furnace and oven manufacturing	33	0400000US09	8.0	79.33333333333333	5168.222222222223
+5829	09	9	0	Connecticut	333995	Fluid power cylinder and actuator manufacturing	33	0400000US09	4.333333333333333	88.88888888888889	5750.111111111111
+5830	09	9	0	Connecticut	333996	Fluid power pump and motor manufacturing	33	0400000US09	1.2	0.0	0.0
+5831	09	9	0	Connecticut	333997	Scale and balance manufacturing	33	0400000US09	2.7777777777777777	44.111111111111114	3888.777777777778
+5832	09	9	0	Connecticut	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US09	38.333333333333336	1854.0	134170.33333333334
+5833	09	9	0	Connecticut	334111	Electronic computer manufacturing	33	0400000US09	3.6	39.2	1873.4
+5834	09	9	0	Connecticut	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US09	7.555555555555555	216.66666666666666	15794.0
+5835	09	9	0	Connecticut	334210	Telephone apparatus manufacturing	33	0400000US09	11.555555555555555	707.3333333333334	49027.88888888889
+5836	09	9	0	Connecticut	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US09	13.666666666666666	804.0	52291.0
+5837	09	9	0	Connecticut	334290	Other communications equipment manufacturing	33	0400000US09	5.888888888888889	92.77777777777777	23662.666666666668
+5838	09	9	0	Connecticut	334310	Audio and video equipment manufacturing	33	0400000US09	7.444444444444445	45.111111111111114	1920.111111111111
+5839	09	9	0	Connecticut	334412	Bare printed circuit board manufacturing	33	0400000US09	12.444444444444445	672.8888888888889	31840.333333333332
+5840	09	9	0	Connecticut	334413	Semiconductor and related device manufacturing	33	0400000US09	9.444444444444445	197.11111111111111	15607.333333333334
+5841	09	9	0	Connecticut	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	33	0400000US09	12.777777777777779	399.22222222222223	16058.222222222223
+5842	09	9	0	Connecticut	334417	Electronic connector manufacturing	33	0400000US09	5.555555555555555	291.22222222222223	21074.444444444445
+5843	09	9	0	Connecticut	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US09	16.11111111111111	846.3333333333334	40938.555555555555
+5844	09	9	0	Connecticut	334419	Other electronic component manufacturing	33	0400000US09	24.444444444444443	919.8888888888889	58531.444444444445
+5845	09	9	0	Connecticut	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US09	14.0	807.2222222222222	62681.333333333336
+5846	09	9	0	Connecticut	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US09	8.555555555555555	237.11111111111111	22061.666666666668
+5847	09	9	0	Connecticut	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US09	12.11111111111111	603.6666666666666	34379.444444444445
+5848	09	9	0	Connecticut	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US09	27.22222222222222	2419.3333333333335	175980.55555555556
+5849	09	9	0	Connecticut	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US09	7.888888888888889	440.8888888888889	25362.0
+5850	09	9	0	Connecticut	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US09	8.0	253.0	24098.222222222223
+5851	09	9	0	Connecticut	334516	Analytical laboratory instrument manufacturing	33	0400000US09	18.666666666666668	1540.3333333333333	150522.55555555556
+5852	09	9	0	Connecticut	334517	Irradiation apparatus manufacturing	33	0400000US09	4.555555555555555	419.1111111111111	44013.77777777778
+5853	09	9	0	Connecticut	334519	Other measuring and controlling device manufacturing	33	0400000US09	20.666666666666668	1142.5555555555557	91730.88888888889
+5854	09	9	0	Connecticut	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US09	1.8	0.0	0.0
+5855	09	9	0	Connecticut	335110	Electric lamp bulb and part manufacturing	33	0400000US09	3.3333333333333335	193.33333333333334	14111.111111111111
+5856	09	9	0	Connecticut	335121	Residential electric lighting fixture manufacturing	33	0400000US09	4.0	53.888888888888886	2167.0
+5857	09	9	0	Connecticut	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US09	8.555555555555555	352.22222222222223	19395.88888888889
+5858	09	9	0	Connecticut	335129	Other lighting equipment manufacturing	33	0400000US09	6.666666666666667	101.22222222222223	4438.555555555556
+5859	09	9	0	Connecticut	335210	Small electrical appliance manufacturing	33	0400000US09	2.0	0.0	0.0
+5860	09	9	0	Connecticut	335311	Power, distribution, and specialty transformer manufacturing	33	0400000US09	3.0	0.0	0.0
+5861	09	9	0	Connecticut	335312	Motor and generator manufacturing	33	0400000US09	12.333333333333334	420.77777777777777	34107.666666666664
+5862	09	9	0	Connecticut	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US09	7.666666666666667	261.8888888888889	14812.777777777777
+5863	09	9	0	Connecticut	335314	Relay and industrial control manufacturing	33	0400000US09	22.77777777777778	801.1111111111111	52848.666666666664
+5864	09	9	0	Connecticut	335911	Storage battery manufacturing	33	0400000US09	2.2	0.0	0.0
+5865	09	9	0	Connecticut	335921	Fiber optic cable manufacturing	33	0400000US09	1.2	0.0	0.0
+5866	09	9	0	Connecticut	335929	Other communication and energy wire manufacturing	33	0400000US09	16.444444444444443	1193.2222222222222	78778.0
+5867	09	9	0	Connecticut	335931	Current-carrying wiring device manufacturing	33	0400000US09	18.11111111111111	908.8888888888889	54743.11111111111
+5868	09	9	0	Connecticut	335932	Noncurrent-carrying wiring device manufacturing	33	0400000US09	4.555555555555555	475.8888888888889	28704.11111111111
+5869	09	9	0	Connecticut	335991	Carbon and graphite product manufacturing	33	0400000US09	5.888888888888889	150.77777777777777	7897.0
+5870	09	9	0	Connecticut	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US09	16.77777777777778	1070.3333333333333	90313.77777777778
+5871	09	9	0	Connecticut	336120	Heavy duty truck manufacturing	33	0400000US09	1.0	0.0	0.0
+5872	09	9	0	Connecticut	336211	Motor vehicle body manufacturing	33	0400000US09	2.6666666666666665	10.555555555555555	628.6666666666666
+5873	09	9	0	Connecticut	336214	Travel trailer and camper manufacturing	33	0400000US09	2.0	0.0	0.0
+5874	09	9	0	Connecticut	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US09	12.11111111111111	168.66666666666666	13150.444444444445
+5875	09	9	0	Connecticut	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US09	7.222222222222222	321.55555555555554	25992.11111111111
+5876	09	9	0	Connecticut	336330	Motor vehicle steering and suspension components (except spring) manufacturing	33	0400000US09	3.0	0.0	0.0
+5877	09	9	0	Connecticut	336340	Motor vehicle brake system manufacturing	33	0400000US09	5.111111111111111	67.88888888888889	4073.4444444444443
+5878	09	9	0	Connecticut	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US09	5.777777777777778	94.88888888888889	4917.222222222223
+5879	09	9	0	Connecticut	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US09	3.0	0.0	0.0
+5880	09	9	0	Connecticut	336370	Motor vehicle metal stamping	33	0400000US09	14.0	665.3333333333334	39041.333333333336
+5881	09	9	0	Connecticut	336390	Other motor vehicle parts manufacturing	33	0400000US09	11.666666666666666	451.8888888888889	22145.666666666668
+5882	09	9	0	Connecticut	336411	Aircraft manufacturing	33	0400000US09	8.555555555555555	0.0	0.0
+5883	09	9	0	Connecticut	336412	Aircraft engine and engine parts manufacturing	33	0400000US09	39.333333333333336	11422.0	1181840.6666666667
+5884	09	9	0	Connecticut	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US09	39.22222222222222	4684.777777777777	482203.77777777775
+5885	09	9	0	Connecticut	336415	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	33	0400000US09	1.2	0.0	0.0
+5886	09	9	0	Connecticut	336419	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	33	0400000US09	2.0	0.0	0.0
+5887	09	9	0	Connecticut	336510	Railroad rolling stock manufacturing	33	0400000US09	2.0	0.0	0.0
+5888	09	9	0	Connecticut	336611	Ship building and repairing	33	0400000US09	5.0	0.0	0.0
+5889	09	9	0	Connecticut	336612	Boat building	33	0400000US09	3.6666666666666665	0.0	0.0
+5890	09	9	0	Connecticut	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US09	4.333333333333333	13.555555555555555	758.1111111111111
+5891	09	9	0	Connecticut	336992	Military armored vehicle, tank, and tank component manufacturing	33	0400000US09	1.0	0.0	0.0
+5892	09	9	0	Connecticut	336999	All other transportation equipment manufacturing	33	0400000US09	2.2	0.0	0.0
+5893	09	9	0	Connecticut	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US09	87.66666666666667	625.3333333333334	27711.444444444445
+5894	09	9	0	Connecticut	337121	Upholstered household furniture manufacturing	33	0400000US09	9.555555555555555	46.888888888888886	1558.6666666666667
+5895	09	9	0	Connecticut	337122	Nonupholstered wood household furniture manufacturing	33	0400000US09	21.11111111111111	82.11111111111111	3224.3333333333335
+5896	09	9	0	Connecticut	337124	Metal household furniture manufacturing	33	0400000US09	2.0	0.0	0.0
+5897	09	9	0	Connecticut	337125	Household furniture (except wood and metal) manufacturing	33	0400000US09	1.0	0.0	0.0
+5898	09	9	0	Connecticut	337127	Institutional furniture manufacturing	33	0400000US09	5.222222222222222	39.0	1933.3333333333333
+5899	09	9	0	Connecticut	337211	Wood office furniture manufacturing	33	0400000US09	3.111111111111111	0.0	0.0
+5900	09	9	0	Connecticut	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US09	50.666666666666664	628.8888888888889	33702.11111111111
+5901	09	9	0	Connecticut	337214	Office furniture (except wood) manufacturing	33	0400000US09	1.2	0.0	0.0
+5902	09	9	0	Connecticut	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US09	8.11111111111111	23.88888888888889	822.8888888888889
+5903	09	9	0	Connecticut	337910	Mattress manufacturing	33	0400000US09	5.444444444444445	282.0	11045.555555555555
+5904	09	9	0	Connecticut	337920	Blind and shade manufacturing	33	0400000US09	4.444444444444445	41.888888888888886	2022.888888888889
+5905	09	9	0	Connecticut	339112	Surgical and medical instrument manufacturing	33	0400000US09	37.22222222222222	3208.6666666666665	187881.55555555556
+5906	09	9	0	Connecticut	339113	Surgical appliance and supplies manufacturing	33	0400000US09	27.333333333333332	606.1111111111111	38259.0
+5907	09	9	0	Connecticut	339114	Dental equipment and supplies manufacturing	33	0400000US09	10.333333333333334	337.55555555555554	16579.666666666668
+5908	09	9	0	Connecticut	339115	Ophthalmic goods manufacturing	33	0400000US09	3.4444444444444446	117.0	3883.5555555555557
+5909	09	9	0	Connecticut	339116	Dental laboratories	33	0400000US09	57.77777777777778	385.55555555555554	16330.333333333334
+5910	09	9	0	Connecticut	339910	Jewelry and silverware manufacturing	33	0400000US09	8.0	49.0	1938.111111111111
+5911	09	9	0	Connecticut	339920	Sporting and athletic goods manufacturing	33	0400000US09	20.0	215.88888888888889	8205.0
+5912	09	9	0	Connecticut	339930	Doll, toy, and game manufacturing	33	0400000US09	7.888888888888889	33.333333333333336	1764.2222222222222
+5913	09	9	0	Connecticut	339940	Office supplies (except paper) manufacturing	33	0400000US09	11.333333333333334	136.88888888888889	7486.222222222223
+5914	09	9	0	Connecticut	339950	Sign manufacturing	33	0400000US09	68.55555555555556	569.0	29655.444444444445
+5915	09	9	0	Connecticut	339991	Gasket, packing, and sealing device manufacturing	33	0400000US09	10.11111111111111	469.22222222222223	27368.88888888889
+5916	09	9	0	Connecticut	339992	Musical instrument manufacturing	33	0400000US09	8.444444444444445	83.77777777777777	2887.777777777778
+5917	09	9	0	Connecticut	339993	Fastener, button, needle, and pin manufacturing	33	0400000US09	6.555555555555555	147.11111111111111	6982.0
+5918	09	9	0	Connecticut	339995	Burial casket manufacturing	33	0400000US09	1.0	0.0	0.0
+5919	09	9	0	Connecticut	339999	All other miscellaneous manufacturing	33	0400000US09	38.44444444444444	536.7777777777778	31214.88888888889
+5920	09	9	0	Connecticut	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US09	35.44444444444444	808.5555555555555	52779.22222222222
+5921	09	9	0	Connecticut	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US09	127.66666666666667	2106.4444444444443	94792.22222222222
+5922	09	9	0	Connecticut	423130	Tire and tube merchant wholesalers	42	0400000US09	24.11111111111111	441.6666666666667	20217.222222222223
+5923	09	9	0	Connecticut	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US09	23.444444444444443	252.33333333333334	11043.444444444445
+5924	09	9	0	Connecticut	423210	Furniture merchant wholesalers	42	0400000US09	49.77777777777778	565.7777777777778	42272.444444444445
+5925	09	9	0	Connecticut	423220	Home furnishing merchant wholesalers	42	0400000US09	72.0	741.0	49691.555555555555
+5926	09	9	0	Connecticut	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US09	66.11111111111111	1216.6666666666667	66453.44444444444
+5927	09	9	0	Connecticut	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US09	55.0	450.22222222222223	26985.444444444445
+5928	09	9	0	Connecticut	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US09	39.44444444444444	433.1111111111111	27750.444444444445
+5929	09	9	0	Connecticut	423390	Other construction material merchant wholesalers	42	0400000US09	32.22222222222222	361.3333333333333	22635.11111111111
+5930	09	9	0	Connecticut	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US09	9.444444444444445	89.0	7280.0
+5931	09	9	0	Connecticut	423420	Office equipment merchant wholesalers	42	0400000US09	142.55555555555554	1907.111111111111	195766.66666666666
+5932	09	9	0	Connecticut	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US09	109.55555555555556	2500.4444444444443	264324.0
+5933	09	9	0	Connecticut	423440	Other commercial equipment merchant wholesalers	42	0400000US09	37.0	591.1111111111111	36762.444444444445
+5934	09	9	0	Connecticut	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US09	100.77777777777777	2205.5555555555557	230062.55555555556
+5935	09	9	0	Connecticut	423460	Ophthalmic goods merchant wholesalers	42	0400000US09	15.0	251.0	13071.444444444445
+5936	09	9	0	Connecticut	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US09	33.0	658.8888888888889	66618.55555555556
+5937	09	9	0	Connecticut	423510	Metal service centers and other metal merchant wholesalers	42	0400000US09	121.55555555555556	2180.3333333333335	166191.88888888888
+5938	09	9	0	Connecticut	423520	Coal and other mineral and ore merchant wholesalers	42	0400000US09	9.777777777777779	95.0	19415.777777777777
+5939	09	9	0	Connecticut	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US09	179.55555555555554	2817.777777777778	206934.55555555556
+5940	09	9	0	Connecticut	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US09	19.0	159.2	13884.0
+5941	09	9	0	Connecticut	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US09	17.0	556.0	47350.0
+5942	09	9	0	Connecticut	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US09	133.11111111111111	1839.3333333333333	168762.33333333334
+5943	09	9	0	Connecticut	423710	Hardware merchant wholesalers	42	0400000US09	77.22222222222223	1650.7777777777778	113136.77777777778
+5944	09	9	0	Connecticut	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US09	81.77777777777777	882.7777777777778	56662.666666666664
+5945	09	9	0	Connecticut	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US09	58.22222222222222	753.5555555555555	67062.55555555556
+5946	09	9	0	Connecticut	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US09	9.2	163.8	8101.6
+5947	09	9	0	Connecticut	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US09	33.111111111111114	568.6666666666666	43425.77777777778
+5948	09	9	0	Connecticut	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US09	29.555555555555557	323.8888888888889	18726.0
+5949	09	9	0	Connecticut	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US09	345.0	4026.3333333333335	308858.8888888889
+5950	09	9	0	Connecticut	423840	Industrial supplies merchant wholesalers	42	0400000US09	105.88888888888889	914.4444444444445	66051.88888888889
+5951	09	9	0	Connecticut	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US09	47.888888888888886	831.8888888888889	55029.77777777778
+5952	09	9	0	Connecticut	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US09	41.888888888888886	1029.111111111111	98336.55555555556
+5953	09	9	0	Connecticut	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US09	50.111111111111114	776.5555555555555	48081.444444444445
+5954	09	9	0	Connecticut	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US09	23.444444444444443	1226.888888888889	103184.77777777778
+5955	09	9	0	Connecticut	423930	Recyclable material merchant wholesalers	42	0400000US09	76.0	1218.6666666666667	60876.22222222222
+5956	09	9	0	Connecticut	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US09	56.666666666666664	1123.2222222222222	59024.333333333336
+5957	09	9	0	Connecticut	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US09	75.22222222222223	1090.888888888889	72046.0
+5958	09	9	0	Connecticut	424110	Printing and writing paper merchant wholesalers	42	0400000US09	22.666666666666668	230.11111111111111	25560.333333333332
+5959	09	9	0	Connecticut	424120	Stationery and office supplies merchant wholesalers	42	0400000US09	59.0	1313.5555555555557	101439.11111111111
+5960	09	9	0	Connecticut	424130	Industrial and personal service paper merchant wholesalers	42	0400000US09	66.44444444444444	845.0	73043.44444444444
+5961	09	9	0	Connecticut	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US09	122.33333333333333	5274.555555555556	785532.7777777778
+5962	09	9	0	Connecticut	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US09	31.333333333333332	225.11111111111111	15050.333333333334
+5963	09	9	0	Connecticut	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US09	26.22222222222222	251.66666666666666	8713.222222222223
+5964	09	9	0	Connecticut	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US09	32.77777777777778	443.3333333333333	25284.0
+5965	09	9	0	Connecticut	424340	Footwear merchant wholesalers	42	0400000US09	11.666666666666666	519.7777777777778	57711.22222222222
+5966	09	9	0	Connecticut	424410	General line grocery merchant wholesalers	42	0400000US09	23.11111111111111	2627.222222222222	148060.11111111112
+5967	09	9	0	Connecticut	424420	Packaged frozen food merchant wholesalers	42	0400000US09	23.0	587.6666666666666	43942.22222222222
+5968	09	9	0	Connecticut	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US09	16.0	262.1111111111111	17138.222222222223
+5969	09	9	0	Connecticut	424440	Poultry and poultry product merchant wholesalers	42	0400000US09	5.0	66.33333333333333	3149.777777777778
+5970	09	9	0	Connecticut	424450	Confectionery merchant wholesalers	42	0400000US09	24.666666666666668	253.77777777777777	15760.555555555555
+5971	09	9	0	Connecticut	424460	Fish and seafood merchant wholesalers	42	0400000US09	17.555555555555557	168.66666666666666	10106.444444444445
+5972	09	9	0	Connecticut	424470	Meat and meat product merchant wholesalers	42	0400000US09	19.22222222222222	295.77777777777777	15608.0
+5973	09	9	0	Connecticut	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US09	28.88888888888889	630.1111111111111	31983.222222222223
+5974	09	9	0	Connecticut	424490	Other grocery and related products merchant wholesalers	42	0400000US09	160.88888888888889	5699.888888888889	464152.22222222225
+5975	09	9	0	Connecticut	424510	Grain and field bean merchant wholesalers	42	0400000US09	8.11111111111111	33.666666666666664	5013.888888888889
+5976	09	9	0	Connecticut	424520	Livestock merchant wholesalers	42	0400000US09	1.2	0.0	0.0
+5977	09	9	0	Connecticut	424590	Other farm product raw material merchant wholesalers	42	0400000US09	6.777777777777778	7.777777777777778	680.4444444444445
+5978	09	9	0	Connecticut	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US09	50.55555555555556	636.0	58756.77777777778
+5979	09	9	0	Connecticut	424690	Other chemical and allied products merchant wholesalers	42	0400000US09	115.55555555555556	1456.0	139838.33333333334
+5980	09	9	0	Connecticut	424710	Petroleum bulk stations and terminals	42	0400000US09	40.2	877.4	123318.4
+5981	09	9	0	Connecticut	424710	Petroleum bulk stations and terminals 	42	0400000US09	30.0	475.0	47591.0
+5982	09	9	0	Connecticut	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US09	31.6	187.4	32140.4
+5983	09	9	0	Connecticut	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US09	32.0	524.0	45593.0
+5984	09	9	0	Connecticut	424810	Beer and ale merchant wholesalers	42	0400000US09	21.22222222222222	956.2222222222222	63289.666666666664
+5985	09	9	0	Connecticut	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US09	48.44444444444444	1469.4444444444443	116916.0
+5986	09	9	0	Connecticut	424910	Farm supplies merchant wholesalers	42	0400000US09	35.333333333333336	258.8888888888889	30077.0
+5987	09	9	0	Connecticut	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US09	19.555555555555557	274.55555555555554	18097.777777777777
+5988	09	9	0	Connecticut	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US09	34.333333333333336	421.44444444444446	19536.0
+5989	09	9	0	Connecticut	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US09	19.333333333333332	192.22222222222223	11101.666666666666
+5990	09	9	0	Connecticut	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US09	18.555555555555557	164.55555555555554	10089.0
+5991	09	9	0	Connecticut	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US09	84.88888888888889	620.2222222222222	47757.555555555555
+5992	09	9	0	Connecticut	425110	Business to business electronic markets	42	0400000US09	5.888888888888889	14.777777777777779	1105.4444444444443
+5993	09	9	0	Connecticut	425120	Wholesale trade agents and brokers	42	0400000US09	442.44444444444446	5602.888888888889	352450.44444444444
+5994	09	9	0	Connecticut	441110	New car dealers	44	0400000US09	314.44444444444446	13871.222222222223	763029.8888888889
+5995	09	9	0	Connecticut	441120	Used car dealers	44	0400000US09	251.55555555555554	1529.888888888889	65015.22222222222
+5996	09	9	0	Connecticut	441210	Recreational vehicle dealers	44	0400000US09	13.666666666666666	112.44444444444444	6409.333333333333
+5997	09	9	0	Connecticut	441222	Boat dealers	44	0400000US09	59.666666666666664	401.0	18423.11111111111
+5998	09	9	0	Connecticut	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US09	59.44444444444444	588.1111111111111	26114.444444444445
+5999	09	9	0	Connecticut	441310	Automotive parts and accessories stores	44	0400000US09	307.44444444444446	3036.4444444444443	85172.66666666667
+6000	09	9	0	Connecticut	441320	Tire dealers	44	0400000US09	161.44444444444446	1588.7777777777778	62200.333333333336
+6001	09	9	0	Connecticut	442110	Furniture stores	44	0400000US09	267.77777777777777	2311.5555555555557	95720.77777777778
+6002	09	9	0	Connecticut	442210	Floor covering stores	44	0400000US09	128.55555555555554	513.4444444444445	23281.88888888889
+6003	09	9	0	Connecticut	442291	Window treatment stores	44	0400000US09	31.11111111111111	130.22222222222223	4494.111111111111
+6004	09	9	0	Connecticut	442299	All other home furnishings stores	44	0400000US09	224.11111111111111	3181.6666666666665	64263.88888888889
+6005	09	9	0	Connecticut	443141	Household appliance stores	44	0400000US09	96.55555555555556	869.2222222222222	34996.333333333336
+6006	09	9	0	Connecticut	443142	Electronics stores	44	0400000US09	352.44444444444446	3621.222222222222	109834.44444444444
+6007	09	9	0	Connecticut	444110	Home centers	44	0400000US09	62.22222222222222	5045.444444444444	134133.55555555556
+6008	09	9	0	Connecticut	444120	Paint and wallpaper stores	44	0400000US09	84.66666666666667	249.66666666666666	14428.555555555555
+6009	09	9	0	Connecticut	444130	Hardware stores	44	0400000US09	147.77777777777777	1488.888888888889	43546.666666666664
+6010	09	9	0	Connecticut	444190	Other building material dealers	44	0400000US09	443.0	4288.888888888889	245127.44444444444
+6011	09	9	0	Connecticut	444210	Outdoor power equipment stores	44	0400000US09	64.33333333333333	450.0	17535.0
+6012	09	9	0	Connecticut	444220	Nursery, garden center, and farm supply stores	44	0400000US09	153.0	1177.4444444444443	41010.77777777778
+6013	09	9	0	Connecticut	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US09	824.2222222222222	38903.22222222222	978660.8888888889
+6014	09	9	0	Connecticut	445120	Convenience stores	44	0400000US09	355.8888888888889	933.1111111111111	15549.444444444445
+6015	09	9	0	Connecticut	445210	Meat markets	44	0400000US09	48.77777777777778	309.1111111111111	7485.444444444444
+6016	09	9	0	Connecticut	445220	Fish and seafood markets	44	0400000US09	34.0	234.0	7711.555555555556
+6017	09	9	0	Connecticut	445230	Fruit and vegetable markets	44	0400000US09	41.111111111111114	235.77777777777777	4399.111111111111
+6018	09	9	0	Connecticut	445291	Baked goods stores	44	0400000US09	33.111111111111114	273.55555555555554	5205.0
+6019	09	9	0	Connecticut	445292	Confectionery and nut stores	44	0400000US09	32.333333333333336	224.44444444444446	2958.8888888888887
+6020	09	9	0	Connecticut	445299	All other specialty food stores	44	0400000US09	89.44444444444444	573.6666666666666	11080.333333333334
+6021	09	9	0	Connecticut	445310	Beer, wine, and liquor stores	44	0400000US09	832.1111111111111	3385.8888888888887	79393.11111111111
+6022	09	9	0	Connecticut	446110	Pharmacies and drug stores	44	0400000US09	576.6666666666666	10465.444444444445	387407.1111111111
+6023	09	9	0	Connecticut	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US09	168.77777777777777	1552.5555555555557	33190.11111111111
+6024	09	9	0	Connecticut	446130	Optical goods stores	44	0400000US09	184.33333333333334	1068.3333333333333	34551.666666666664
+6025	09	9	0	Connecticut	446191	Food (health) supplement stores	44	0400000US09	98.77777777777777	355.77777777777777	9056.333333333334
+6026	09	9	0	Connecticut	446199	All other health and personal care stores	44	0400000US09	115.55555555555556	948.2222222222222	34826.22222222222
+6027	09	9	0	Connecticut	447110	Gasoline stations with convenience stores	44	0400000US09	860.8888888888889	4673.333333333333	103248.33333333333
+6028	09	9	0	Connecticut	447190	Other gasoline stations	44	0400000US09	211.22222222222223	1430.3333333333333	41479.555555555555
+6029	09	9	0	Connecticut	448110	Men's clothing stores	44	0400000US09	96.11111111111111	855.1111111111111	22675.333333333332
+6030	09	9	0	Connecticut	448120	Women's clothing stores	44	0400000US09	442.3333333333333	5236.111111111111	94597.88888888889
+6031	09	9	0	Connecticut	448130	Children's and infants' clothing stores	44	0400000US09	94.44444444444444	1082.5555555555557	15093.555555555555
+6032	09	9	0	Connecticut	448140	Family clothing stores	44	0400000US09	321.44444444444446	9442.555555555555	169486.66666666666
+6033	09	9	0	Connecticut	448150	Clothing accessories stores	44	0400000US09	97.11111111111111	774.5555555555555	13177.444444444445
+6034	09	9	0	Connecticut	448190	Other clothing stores	44	0400000US09	134.22222222222223	1378.3333333333333	28097.666666666668
+6035	09	9	0	Connecticut	448210	Shoe stores	44	0400000US09	265.22222222222223	2456.6666666666665	44532.444444444445
+6036	09	9	0	Connecticut	448310	Jewelry stores	44	0400000US09	269.3333333333333	1646.2222222222222	58725.22222222222
+6037	09	9	0	Connecticut	448320	Luggage and leather goods stores	44	0400000US09	9.88888888888889	37.22222222222222	1431.4444444444443
+6038	09	9	0	Connecticut	451110	Sporting goods stores	45	0400000US09	285.55555555555554	2824.6666666666665	63524.333333333336
+6039	09	9	0	Connecticut	451120	Hobby, toy, and game stores	45	0400000US09	128.55555555555554	1951.3333333333333	25720.444444444445
+6040	09	9	0	Connecticut	451130	Sewing, needlework, and piece goods stores	45	0400000US09	41.77777777777778	300.3333333333333	5417.888888888889
+6041	09	9	0	Connecticut	451140	Musical instrument and supplies stores	45	0400000US09	45.666666666666664	299.22222222222223	6344.555555555556
+6042	09	9	0	Connecticut	451211	Book stores	45	0400000US09	84.55555555555556	873.8888888888889	21091.777777777777
+6043	09	9	0	Connecticut	451212	News dealers and newsstands	45	0400000US09	15.222222222222221	30.11111111111111	609.8888888888889
+6044	09	9	0	Connecticut	452111	Department stores (except discount department stores)	45	0400000US09	27.2	3890.2	75990.6
+6045	09	9	0	Connecticut	452112	Discount department stores	45	0400000US09	76.2	12543.6	264347.0
+6046	09	9	0	Connecticut	452210	Department stores	45	0400000US09	44.0	4834.0	97298.0
+6047	09	9	0	Connecticut	452311	Warehouse clubs and supercenters	45	0400000US09	78.0	14269.0	386584.0
+6048	09	9	0	Connecticut	452319	All other general merchandise stores	45	0400000US09	297.0	3705.0	60397.0
+6049	09	9	0	Connecticut	452910	Warehouse clubs and supercenters	45	0400000US09	27.8	5630.2	157131.0
+6050	09	9	0	Connecticut	452990	All other general merchandise stores	45	0400000US09	272.6	2885.6	50471.2
+6051	09	9	0	Connecticut	453110	Florists	45	0400000US09	146.88888888888889	748.6666666666666	15114.555555555555
+6052	09	9	0	Connecticut	453210	Office supplies and stationery stores	45	0400000US09	63.77777777777778	716.8888888888889	20270.666666666668
+6053	09	9	0	Connecticut	453220	Gift, novelty, and souvenir stores	45	0400000US09	265.0	1917.0	28294.88888888889
+6054	09	9	0	Connecticut	453310	Used merchandise stores	45	0400000US09	216.22222222222223	2243.4444444444443	43504.22222222222
+6055	09	9	0	Connecticut	453910	Pet and pet supplies stores	45	0400000US09	154.77777777777777	1702.2222222222222	36993.666666666664
+6056	09	9	0	Connecticut	453920	Art dealers	45	0400000US09	43.77777777777778	121.0	4369.111111111111
+6057	09	9	0	Connecticut	453930	Manufactured (mobile) home dealers	45	0400000US09	2.2	0.0	0.0
+6058	09	9	0	Connecticut	453991	Tobacco stores	45	0400000US09	118.55555555555556	352.1111111111111	7322.666666666667
+6059	09	9	0	Connecticut	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US09	168.0	768.3333333333334	27376.0
+6060	09	9	0	Connecticut	454110	Electronic shopping and mail-order houses	45	0400000US09	338.0	4895.0	264378.0
+6061	09	9	0	Connecticut	454111	Electronic shopping	45	0400000US09	228.4	2035.6	89761.6
+6062	09	9	0	Connecticut	454112	Electronic auctions	45	0400000US09	4.8	6.6	414.0
+6063	09	9	0	Connecticut	454113	Mail-order houses	45	0400000US09	83.6	1787.6	109466.4
+6064	09	9	0	Connecticut	454210	Vending machine operators	45	0400000US09	27.77777777777778	214.77777777777777	6962.0
+6065	09	9	0	Connecticut	454310	Fuel dealers	45	0400000US09	335.44444444444446	4216.0	239486.66666666666
+6066	09	9	0	Connecticut	454390	Other direct selling establishments	45	0400000US09	181.22222222222223	958.5555555555555	39290.0
+6067	09	9	0	Connecticut	481111	Scheduled passenger air transportation	48	0400000US09	11.555555555555555	388.44444444444446	18984.333333333332
+6068	09	9	0	Connecticut	481112	Scheduled freight air transportation	48	0400000US09	2.2	0.0	0.0
+6069	09	9	0	Connecticut	481211	Nonscheduled chartered passenger air transportation	48	0400000US09	19.555555555555557	774.6666666666666	68492.11111111111
+6070	09	9	0	Connecticut	481212	Nonscheduled chartered freight air transportation	48	0400000US09	1.0	0.0	0.0
+6071	09	9	0	Connecticut	481219	Other nonscheduled air transportation	48	0400000US09	3.0	5.4	1055.2
+6072	09	9	0	Connecticut	483111	Deep sea freight transportation	48	0400000US09	11.0	154.55555555555554	27632.222222222223
+6073	09	9	0	Connecticut	483112	Deep sea passenger transportation	48	0400000US09	1.0	0.0	0.0
+6074	09	9	0	Connecticut	483113	Coastal and great lakes freight transportation	48	0400000US09	8.555555555555555	210.66666666666666	27365.88888888889
+6075	09	9	0	Connecticut	483114	Coastal and great lakes passenger transportation	48	0400000US09	4.0	270.8888888888889	16572.0
+6076	09	9	0	Connecticut	483211	Inland water freight transportation	48	0400000US09	2.4	0.0	2224.6
+6077	09	9	0	Connecticut	483212	Inland water passenger transportation	48	0400000US09	3.7777777777777777	0.0	0.0
+6078	09	9	0	Connecticut	484110	General freight trucking, local	48	0400000US09	147.11111111111111	1108.3333333333333	50499.0
+6079	09	9	0	Connecticut	484121	General freight trucking, long-distance, truckload	48	0400000US09	107.77777777777777	1284.4444444444443	75697.55555555556
+6080	09	9	0	Connecticut	484122	General freight trucking, long-distance, less than truckload	48	0400000US09	41.888888888888886	1476.0	82828.88888888889
+6081	09	9	0	Connecticut	484210	Used household and office goods moving	48	0400000US09	98.55555555555556	1057.7777777777778	48286.444444444445
+6082	09	9	0	Connecticut	484220	Specialized freight (except used goods) trucking, local	48	0400000US09	148.11111111111111	776.5555555555555	45890.333333333336
+6083	09	9	0	Connecticut	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US09	44.111111111111114	489.77777777777777	27343.666666666668
+6084	09	9	0	Connecticut	485111	Mixed mode transit systems	48	0400000US09	1.0	0.0	0.0
+6085	09	9	0	Connecticut	485113	Bus and other motor vehicle transit systems	48	0400000US09	9.555555555555555	698.2222222222222	43142.22222222222
+6086	09	9	0	Connecticut	485210	Interurban and rural bus transportation	48	0400000US09	10.0	114.77777777777777	4427.888888888889
+6087	09	9	0	Connecticut	485310	Taxi service	48	0400000US09	27.444444444444443	476.55555555555554	12206.888888888889
+6088	09	9	0	Connecticut	485320	Limousine service	48	0400000US09	120.11111111111111	1495.888888888889	47496.333333333336
+6089	09	9	0	Connecticut	485410	School and employee bus transportation	48	0400000US09	156.22222222222223	9189.444444444445	230946.55555555556
+6090	09	9	0	Connecticut	485510	Charter bus industry	48	0400000US09	16.555555555555557	570.8888888888889	24220.222222222223
+6091	09	9	0	Connecticut	485991	Special needs transportation	48	0400000US09	32.888888888888886	888.6666666666666	18205.444444444445
+6092	09	9	0	Connecticut	485999	All other transit and ground passenger transportation	48	0400000US09	14.666666666666666	212.33333333333334	6671.111111111111
+6093	09	9	0	Connecticut	486210	Pipeline transportation of natural gas	48	0400000US09	11.11111111111111	153.88888888888889	20342.333333333332
+6094	09	9	0	Connecticut	486910	Pipeline transportation of refined petroleum products	48	0400000US09	2.4444444444444446	0.0	0.0
+6095	09	9	0	Connecticut	487110	Scenic and sightseeing transportation, land	48	0400000US09	3.888888888888889	0.0	0.0
+6096	09	9	0	Connecticut	487210	Scenic and sightseeing transportation, water	48	0400000US09	15.0	41.666666666666664	1950.4444444444443
+6097	09	9	0	Connecticut	487990	Scenic and sightseeing transportation, other	48	0400000US09	1.6	0.0	0.0
+6098	09	9	0	Connecticut	488111	Air traffic control	48	0400000US09	6.0	0.0	0.0
+6099	09	9	0	Connecticut	488119	Other airport operations	48	0400000US09	20.0	376.55555555555554	13947.444444444445
+6100	09	9	0	Connecticut	488190	Other support activities for air transportation	48	0400000US09	30.0	851.3333333333334	54097.444444444445
+6101	09	9	0	Connecticut	488210	Support activities for rail transportation	48	0400000US09	5.0	0.0	0.0
+6102	09	9	0	Connecticut	488310	Port and harbor operations	48	0400000US09	3.888888888888889	4.555555555555555	446.77777777777777
+6103	09	9	0	Connecticut	488320	Marine cargo handling	48	0400000US09	2.625	0.0	0.0
+6104	09	9	0	Connecticut	488330	Navigational services to shipping	48	0400000US09	2.6666666666666665	2.3333333333333335	116.0
+6105	09	9	0	Connecticut	488390	Other support activities for water transportation	48	0400000US09	10.555555555555555	11.88888888888889	1071.4444444444443
+6106	09	9	0	Connecticut	488410	Motor vehicle towing	48	0400000US09	52.22222222222222	383.0	13658.777777777777
+6107	09	9	0	Connecticut	488490	Other support activities for road transportation	48	0400000US09	17.0	141.55555555555554	4924.444444444444
+6108	09	9	0	Connecticut	488510	Freight transportation arrangement	48	0400000US09	153.33333333333334	1348.0	144422.66666666666
+6109	09	9	0	Connecticut	488991	Packing and crating	48	0400000US09	18.11111111111111	239.55555555555554	10906.666666666666
+6110	09	9	0	Connecticut	488999	All other support activities for transportation	48	0400000US09	1.0	0.0	0.0
+6111	09	9	0	Connecticut	492110	Couriers and express delivery services	49	0400000US09	98.44444444444444	6024.0	267387.55555555556
+6112	09	9	0	Connecticut	492210	Local messengers and local delivery	49	0400000US09	37.111111111111114	235.11111111111111	9821.222222222223
+6113	09	9	0	Connecticut	493110	General warehousing and storage	49	0400000US09	98.77777777777777	8049.888888888889	323911.1111111111
+6114	09	9	0	Connecticut	493120	Refrigerated warehousing and storage	49	0400000US09	4.333333333333333	277.1111111111111	11278.444444444445
+6115	09	9	0	Connecticut	493130	Farm product warehousing and storage	49	0400000US09	1.0	0.0	0.0
+6116	09	9	0	Connecticut	493190	Other warehousing and storage	49	0400000US09	22.22222222222222	498.44444444444446	21580.0
+6117	09	9	0	Connecticut	511110	Newspaper publishers	51	0400000US09	70.55555555555556	2703.4444444444443	118620.44444444444
+6118	09	9	0	Connecticut	511120	Periodical publishers	51	0400000US09	94.77777777777777	1856.2222222222222	148362.11111111112
+6119	09	9	0	Connecticut	511130	Book publishers	51	0400000US09	40.333333333333336	503.1111111111111	30144.88888888889
+6120	09	9	0	Connecticut	511140	Directory and mailing list publishers	51	0400000US09	13.666666666666666	174.0	15496.888888888889
+6121	09	9	0	Connecticut	511191	Greeting card publishers	51	0400000US09	1.5	0.0	0.0
+6122	09	9	0	Connecticut	511199	All other publishers	51	0400000US09	11.88888888888889	77.33333333333333	4738.444444444444
+6123	09	9	0	Connecticut	511210	Software publishers	51	0400000US09	159.44444444444446	3707.222222222222	452026.6666666667
+6124	09	9	0	Connecticut	512110	Motion picture and video production	51	0400000US09	129.0	1046.6666666666667	109575.11111111111
+6125	09	9	0	Connecticut	512120	Motion picture and video distribution	51	0400000US09	3.6666666666666665	14.777777777777779	2446.777777777778
+6126	09	9	0	Connecticut	512131	Motion picture theaters (except drive-ins)	51	0400000US09	56.111111111111114	1260.0	16954.777777777777
+6127	09	9	0	Connecticut	512132	Drive-in motion picture theaters	51	0400000US09	1.4	0.0	0.0
+6128	09	9	0	Connecticut	512191	Teleproduction and other postproduction services	51	0400000US09	16.444444444444443	75.77777777777777	5947.222222222223
+6129	09	9	0	Connecticut	512199	Other motion picture and video industries	51	0400000US09	2.2	0.0	0.0
+6130	09	9	0	Connecticut	512210	Record production	51	0400000US09	1.0	0.0	0.0
+6131	09	9	0	Connecticut	512220	Integrated record production\/distribution	51	0400000US09	2.6	3.2	274.4
+6132	09	9	0	Connecticut	512230	Music publishers	51	0400000US09	4.333333333333333	9.11111111111111	286.6666666666667
+6133	09	9	0	Connecticut	512240	Sound recording studios	51	0400000US09	12.555555555555555	19.22222222222222	627.3333333333334
+6134	09	9	0	Connecticut	512250	Record production and distribution	51	0400000US09	3.0	3.0	251.0
+6135	09	9	0	Connecticut	512290	Other sound recording industries	51	0400000US09	5.333333333333333	10.333333333333334	716.4444444444445
+6136	09	9	0	Connecticut	515111	Radio networks	51	0400000US09	10.777777777777779	96.44444444444444	8950.333333333334
+6137	09	9	0	Connecticut	515112	Radio stations	51	0400000US09	40.22222222222222	998.3333333333334	48317.77777777778
+6138	09	9	0	Connecticut	515120	Television broadcasting	51	0400000US09	33.0	1831.3333333333333	158186.88888888888
+6139	09	9	0	Connecticut	515210	Cable and other subscription programming	51	0400000US09	23.22222222222222	2571.8888888888887	398291.0
+6140	09	9	0	Connecticut	517110	Wired telecommunications carriers	51	0400000US09	391.8	8704.0	723690.6
+6141	09	9	0	Connecticut	517210	Wireless telecommunications carriers (except satellite)	51	0400000US09	160.0	949.6	95001.6
+6142	09	9	0	Connecticut	517311	Wired telecommunications carriers	51	0400000US09	375.0	8595.0	712646.0
+6143	09	9	0	Connecticut	517312	Wireless telecommunications carriers (except satellite)	51	0400000US09	224.0	2322.0	139309.0
+6144	09	9	0	Connecticut	517410	Satellite telecommunications	51	0400000US09	5.888888888888889	18.11111111111111	2437.6666666666665
+6145	09	9	0	Connecticut	517911	Telecommunications resellers	51	0400000US09	35.666666666666664	126.66666666666667	8092.666666666667
+6146	09	9	0	Connecticut	517919	All other telecommunications	51	0400000US09	20.555555555555557	178.66666666666666	14758.666666666666
+6147	09	9	0	Connecticut	518210	Data processing, hosting, and related services	51	0400000US09	187.44444444444446	5242.444444444444	543810.1111111111
+6148	09	9	0	Connecticut	519110	News syndicates	51	0400000US09	4.777777777777778	14.333333333333334	1643.3333333333333
+6149	09	9	0	Connecticut	519120	Libraries and archives	51	0400000US09	84.33333333333333	1366.0	36810.555555555555
+6150	09	9	0	Connecticut	519130	Internet publishing and broadcasting and web search portals	51	0400000US09	96.44444444444444	2735.4444444444443	334624.22222222225
+6151	09	9	0	Connecticut	519190	All other information services	51	0400000US09	6.888888888888889	140.22222222222223	7009.777777777777
+6152	09	9	0	Connecticut	522110	Commercial banking	52	0400000US09	958.3333333333334	13330.111111111111	1102429.111111111
+6153	09	9	0	Connecticut	522120	Savings institutions	52	0400000US09	428.6666666666667	5637.444444444444	402056.1111111111
+6154	09	9	0	Connecticut	522130	Credit unions	52	0400000US09	227.88888888888889	2185.5555555555557	113716.22222222222
+6155	09	9	0	Connecticut	522190	Other depository credit intermediation	52	0400000US09	1.5	0.0	0.0
+6156	09	9	0	Connecticut	522210	Credit card issuing	52	0400000US09	12.222222222222221	0.0	0.0
+6157	09	9	0	Connecticut	522220	Sales financing	52	0400000US09	88.55555555555556	3672.8888888888887	725524.8888888889
+6158	09	9	0	Connecticut	522291	Consumer lending	52	0400000US09	18.0	61.77777777777778	9114.444444444445
+6159	09	9	0	Connecticut	522292	Real estate credit	52	0400000US09	140.55555555555554	1723.888888888889	172096.33333333334
+6160	09	9	0	Connecticut	522293	International trade financing	52	0400000US09	4.111111111111111	31.11111111111111	4680.777777777777
+6161	09	9	0	Connecticut	522294	Secondary market financing	52	0400000US09	2.8	1.4	41.4
+6162	09	9	0	Connecticut	522298	All other nondepository credit intermediation	52	0400000US09	57.888888888888886	832.6666666666666	39489.0
+6163	09	9	0	Connecticut	522310	Mortgage and nonmortgage loan brokers	52	0400000US09	78.77777777777777	245.11111111111111	23701.555555555555
+6164	09	9	0	Connecticut	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US09	47.55555555555556	554.0	43693.0
+6165	09	9	0	Connecticut	522390	Other activities related to credit intermediation	52	0400000US09	75.22222222222223	250.55555555555554	16901.333333333332
+6166	09	9	0	Connecticut	523110	Investment banking and securities dealing	52	0400000US09	81.0	2061.4444444444443	610852.4444444445
+6167	09	9	0	Connecticut	523120	Securities brokerage	52	0400000US09	417.22222222222223	4365.555555555556	910993.2222222222
+6168	09	9	0	Connecticut	523130	Commodity contracts dealing	52	0400000US09	13.555555555555555	220.33333333333334	99026.44444444444
+6169	09	9	0	Connecticut	523140	Commodity contracts brokerage	52	0400000US09	18.444444444444443	158.88888888888889	48724.0
+6170	09	9	0	Connecticut	523210	Securities and commodity exchanges	52	0400000US09	1.0	0.0	0.0
+6171	09	9	0	Connecticut	523910	Miscellaneous intermediation	52	0400000US09	135.77777777777777	1070.2222222222222	217587.88888888888
+6172	09	9	0	Connecticut	523920	Portfolio management	52	0400000US09	764.7777777777778	10850.666666666666	4134300.3333333335
+6173	09	9	0	Connecticut	523930	Investment advice	52	0400000US09	354.3333333333333	2145.0	348263.3333333333
+6174	09	9	0	Connecticut	523991	Trust, fiduciary, and custody activities	52	0400000US09	26.555555555555557	113.44444444444444	17712.222222222223
+6175	09	9	0	Connecticut	523999	Miscellaneous financial investment activities	52	0400000US09	5.222222222222222	31.22222222222222	7939.333333333333
+6176	09	9	0	Connecticut	524113	Direct life insurance carriers	52	0400000US09	198.66666666666666	21164.777777777777	2479808.6666666665
+6177	09	9	0	Connecticut	524114	Direct health and medical insurance carriers	52	0400000US09	59.22222222222222	13000.555555555555	1645657.7777777778
+6178	09	9	0	Connecticut	524126	Direct property and casualty insurance carriers	52	0400000US09	197.55555555555554	12072.666666666666	1685075.3333333333
+6179	09	9	0	Connecticut	524127	Direct title insurance carriers	52	0400000US09	13.11111111111111	107.66666666666667	12375.666666666666
+6180	09	9	0	Connecticut	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US09	4.111111111111111	0.0	823.6666666666666
+6181	09	9	0	Connecticut	524130	Reinsurance carriers	52	0400000US09	35.77777777777778	1548.4444444444443	346110.55555555556
+6182	09	9	0	Connecticut	524210	Insurance agencies and brokerages	52	0400000US09	1385.888888888889	9091.555555555555	761926.2222222222
+6183	09	9	0	Connecticut	524291	Claims adjusting	52	0400000US09	59.111111111111114	614.6666666666666	22770.444444444445
+6184	09	9	0	Connecticut	524292	Third party administration of insurance and pension funds	52	0400000US09	62.77777777777778	2617.5555555555557	177795.11111111112
+6185	09	9	0	Connecticut	524298	All other insurance related activities	52	0400000US09	37.22222222222222	971.8888888888889	67032.88888888889
+6186	09	9	0	Connecticut	525910	Open-end investment funds	52	0400000US09	1.25	0.0	0.0
+6187	09	9	0	Connecticut	525990	Other financial vehicles	52	0400000US09	8.88888888888889	6.333333333333333	1686.888888888889
+6188	09	9	0	Connecticut	531110	Lessors of residential buildings and dwellings	53	0400000US09	581.0	2914.4444444444443	115146.0
+6189	09	9	0	Connecticut	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US09	425.3333333333333	1608.6666666666667	102978.22222222222
+6190	09	9	0	Connecticut	531130	Lessors of miniwarehouses and self-storage units	53	0400000US09	152.11111111111111	421.1111111111111	12225.666666666666
+6191	09	9	0	Connecticut	531190	Lessors of other real estate property	53	0400000US09	47.44444444444444	109.11111111111111	6815.0
+6192	09	9	0	Connecticut	531210	Offices of real estate agents and brokers	53	0400000US09	682.3333333333334	2777.5555555555557	207098.55555555556
+6193	09	9	0	Connecticut	531311	Residential property managers	53	0400000US09	448.3333333333333	4009.222222222222	181832.66666666666
+6194	09	9	0	Connecticut	531312	Nonresidential property managers	53	0400000US09	242.55555555555554	2353.0	114875.33333333333
+6195	09	9	0	Connecticut	531320	Offices of real estate appraisers	53	0400000US09	103.88888888888889	181.33333333333334	9786.666666666666
+6196	09	9	0	Connecticut	531390	Other activities related to real estate	53	0400000US09	84.77777777777777	793.6666666666666	75279.22222222222
+6197	09	9	0	Connecticut	532111	Passenger car rental	53	0400000US09	131.22222222222223	550.3333333333334	20825.222222222223
+6198	09	9	0	Connecticut	532112	Passenger car leasing	53	0400000US09	4.555555555555555	43.666666666666664	3973.5555555555557
+6199	09	9	0	Connecticut	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US09	51.333333333333336	573.4444444444445	28389.11111111111
+6200	09	9	0	Connecticut	532210	Consumer electronics and appliances rental	53	0400000US09	53.55555555555556	0.0	0.0
+6201	09	9	0	Connecticut	532220	Formal wear and costume rental	53	0400000US09	10.6	14.8	648.6
+6202	09	9	0	Connecticut	532230	Video tape and disc rental	53	0400000US09	7.4	7.4	365.4
+6203	09	9	0	Connecticut	532281	Formal wear and costume rental	53	0400000US09	12.0	26.0	631.0
+6204	09	9	0	Connecticut	532282	Video tape and disc rental	53	0400000US09	3.0	0.0	0.0
+6205	09	9	0	Connecticut	532283	Home health equipment rental	53	0400000US09	19.0	490.0	20163.0
+6206	09	9	0	Connecticut	532284	Recreational goods rental	53	0400000US09	7.0	16.0	866.0
+6207	09	9	0	Connecticut	532289	All other consumer goods rental	53	0400000US09	53.0	490.0	27796.0
+6208	09	9	0	Connecticut	532291	Home health equipment rental	53	0400000US09	19.6	393.6	17458.8
+6209	09	9	0	Connecticut	532292	Recreational goods rental	53	0400000US09	7.0	10.8	701.2
+6210	09	9	0	Connecticut	532299	All other consumer goods rental	53	0400000US09	62.2	389.4	19470.2
+6211	09	9	0	Connecticut	532310	General rental centers	53	0400000US09	26.333333333333332	67.11111111111111	3999.6666666666665
+6212	09	9	0	Connecticut	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US09	5.888888888888889	13.777777777777779	4295.333333333333
+6213	09	9	0	Connecticut	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US09	20.666666666666668	161.0	16675.222222222223
+6214	09	9	0	Connecticut	532420	Office machinery and equipment rental and leasing	53	0400000US09	13.666666666666666	161.22222222222223	14965.666666666666
+6215	09	9	0	Connecticut	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US09	67.55555555555556	509.44444444444446	30996.666666666668
+6216	09	9	0	Connecticut	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US09	29.77777777777778	328.44444444444446	31272.222222222223
+6217	09	9	0	Connecticut	541110	Offices of lawyers	54	0400000US09	2231.3333333333335	12948.444444444445	1029766.1111111111
+6218	09	9	0	Connecticut	541191	Title abstract and settlement offices	54	0400000US09	31.0	95.88888888888889	6137.444444444444
+6219	09	9	0	Connecticut	541199	All other legal services	54	0400000US09	29.333333333333332	82.88888888888889	4981.555555555556
+6220	09	9	0	Connecticut	541211	Offices of certified public accountants	54	0400000US09	711.1111111111111	7353.555555555556	651328.7777777778
+6221	09	9	0	Connecticut	541213	Tax preparation services	54	0400000US09	295.44444444444446	2003.4444444444443	21688.666666666668
+6222	09	9	0	Connecticut	541214	Payroll services	54	0400000US09	65.33333333333333	2149.3333333333335	107783.22222222222
+6223	09	9	0	Connecticut	541219	Other accounting services	54	0400000US09	287.6666666666667	2157.1111111111113	143983.66666666666
+6224	09	9	0	Connecticut	541310	Architectural services	54	0400000US09	257.6666666666667	1886.0	156692.88888888888
+6225	09	9	0	Connecticut	541320	Landscape architectural services	54	0400000US09	72.88888888888889	200.66666666666666	14214.444444444445
+6226	09	9	0	Connecticut	541330	Engineering services	54	0400000US09	536.3333333333334	9329.777777777777	799658.5555555555
+6227	09	9	0	Connecticut	541340	Drafting services	54	0400000US09	7.555555555555555	28.0	2007.0
+6228	09	9	0	Connecticut	541350	Building inspection services	54	0400000US09	53.333333333333336	275.44444444444446	13242.111111111111
+6229	09	9	0	Connecticut	541360	Geophysical surveying and mapping services	54	0400000US09	8.333333333333334	92.44444444444444	6725.0
+6230	09	9	0	Connecticut	541370	Surveying and mapping (except geophysical) services	54	0400000US09	85.66666666666667	338.6666666666667	20819.88888888889
+6231	09	9	0	Connecticut	541380	Testing laboratories	54	0400000US09	82.0	1926.888888888889	116196.66666666667
+6232	09	9	0	Connecticut	541410	Interior design services	54	0400000US09	148.11111111111111	306.0	18712.0
+6233	09	9	0	Connecticut	541420	Industrial design services	54	0400000US09	20.77777777777778	143.55555555555554	13241.111111111111
+6234	09	9	0	Connecticut	541430	Graphic design services	54	0400000US09	133.22222222222223	425.77777777777777	27529.444444444445
+6235	09	9	0	Connecticut	541490	Other specialized design services	54	0400000US09	17.444444444444443	18.88888888888889	1628.7777777777778
+6236	09	9	0	Connecticut	541511	Custom computer programming services	54	0400000US09	584.8888888888889	10610.777777777777	949552.7777777778
+6237	09	9	0	Connecticut	541512	Computer systems design services	54	0400000US09	596.5555555555555	8288.888888888889	942572.6666666666
+6238	09	9	0	Connecticut	541513	Computer facilities management services	54	0400000US09	61.77777777777778	515.4444444444445	42390.555555555555
+6239	09	9	0	Connecticut	541519	Other computer related services	54	0400000US09	73.22222222222223	945.1111111111111	81439.66666666667
+6240	09	9	0	Connecticut	541611	Administrative management and general management consulting services	54	0400000US09	612.6666666666666	4823.777777777777	696002.2222222222
+6241	09	9	0	Connecticut	541612	Human resources consulting services	54	0400000US09	103.77777777777777	2036.888888888889	212745.33333333334
+6242	09	9	0	Connecticut	541613	Marketing consulting services	54	0400000US09	393.3333333333333	2403.3333333333335	236551.22222222222
+6243	09	9	0	Connecticut	541614	Process, physical distribution, and logistics consulting services	54	0400000US09	72.11111111111111	890.7777777777778	68331.88888888889
+6244	09	9	0	Connecticut	541618	Other management consulting services	54	0400000US09	36.77777777777778	126.66666666666667	17953.444444444445
+6245	09	9	0	Connecticut	541620	Environmental consulting services	54	0400000US09	107.55555555555556	930.5555555555555	65923.55555555556
+6246	09	9	0	Connecticut	541690	Other scientific and technical consulting services	54	0400000US09	152.33333333333334	765.8888888888889	64231.88888888889
+6247	09	9	0	Connecticut	541711	Research and development in biotechnology	54	0400000US09	46.0	1056.4	153672.0
+6248	09	9	0	Connecticut	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US09	145.0	11478.0	1694425.4
+6249	09	9	0	Connecticut	541713	Research and development in nanotechnology	54	0400000US09	34.0	1127.0	141967.0
+6250	09	9	0	Connecticut	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US09	48.0	1515.0	242232.0
+6251	09	9	0	Connecticut	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US09	122.0	9636.0	1563448.0
+6252	09	9	0	Connecticut	541720	Research and development in the social sciences and humanities	54	0400000US09	19.333333333333332	248.88888888888889	16684.444444444445
+6253	09	9	0	Connecticut	541810	Advertising agencies	54	0400000US09	162.66666666666666	2034.6666666666667	170857.55555555556
+6254	09	9	0	Connecticut	541820	Public relations agencies	54	0400000US09	75.33333333333333	398.8888888888889	49404.77777777778
+6255	09	9	0	Connecticut	541830	Media buying agencies	54	0400000US09	16.333333333333332	454.77777777777777	53037.555555555555
+6256	09	9	0	Connecticut	541840	Media representatives	54	0400000US09	21.333333333333332	210.88888888888889	23144.0
+6257	09	9	0	Connecticut	541850	Outdoor advertising	54	0400000US09	25.77777777777778	145.55555555555554	11983.555555555555
+6258	09	9	0	Connecticut	541860	Direct mail advertising	54	0400000US09	47.55555555555556	1233.6666666666667	67441.11111111111
+6259	09	9	0	Connecticut	541870	Advertising material distribution services	54	0400000US09	7.555555555555555	25.11111111111111	1589.0
+6260	09	9	0	Connecticut	541890	Other services related to advertising	54	0400000US09	93.88888888888889	2069.4444444444443	54814.333333333336
+6261	09	9	0	Connecticut	541910	Marketing research and public opinion polling	54	0400000US09	100.88888888888889	1889.2222222222222	231364.44444444444
+6262	09	9	0	Connecticut	541921	Photography studios, portrait	54	0400000US09	98.66666666666667	423.1111111111111	10984.111111111111
+6263	09	9	0	Connecticut	541922	Commercial photography	54	0400000US09	22.333333333333332	48.0	2090.6666666666665
+6264	09	9	0	Connecticut	541930	Translation and interpretation services	54	0400000US09	13.333333333333334	118.33333333333333	7859.888888888889
+6265	09	9	0	Connecticut	541940	Veterinary services	54	0400000US09	364.6666666666667	4373.666666666667	178796.22222222222
+6266	09	9	0	Connecticut	541990	All other professional, scientific, and technical services	54	0400000US09	87.55555555555556	543.1111111111111	86246.22222222222
+6267	09	9	0	Connecticut	551111	Offices of bank holding companies	55	0400000US09	4.222222222222222	26.11111111111111	2662.222222222222
+6268	09	9	0	Connecticut	551112	Offices of other holding companies	55	0400000US09	112.33333333333333	2096.777777777778	291332.77777777775
+6269	09	9	0	Connecticut	551114	Corporate, subsidiary, and regional managing offices	55	0400000US09	594.2222222222222	31603.555555555555	4225754.555555556
+6270	09	9	0	Connecticut	561110	Office administrative services	56	0400000US09	253.44444444444446	4235.111111111111	414259.8888888889
+6271	09	9	0	Connecticut	561210	Facilities support services	56	0400000US09	78.44444444444444	3243.222222222222	111922.22222222222
+6272	09	9	0	Connecticut	561311	Employment placement agencies	56	0400000US09	83.55555555555556	2170.4444444444443	60958.88888888889
+6273	09	9	0	Connecticut	561312	Executive search services	56	0400000US09	126.77777777777777	709.0	133892.55555555556
+6274	09	9	0	Connecticut	561320	Temporary help services	56	0400000US09	439.55555555555554	27843.444444444445	840940.5555555555
+6275	09	9	0	Connecticut	561330	Professional employer organizations	56	0400000US09	16.77777777777778	2224.8888888888887	125813.11111111111
+6276	09	9	0	Connecticut	561410	Document preparation services	56	0400000US09	33.888888888888886	196.22222222222223	7403.111111111111
+6277	09	9	0	Connecticut	561421	Telephone answering services	56	0400000US09	22.22222222222222	457.0	16170.0
+6278	09	9	0	Connecticut	561422	Telemarketing bureaus and other contact centers	56	0400000US09	38.111111111111114	1513.5555555555557	61591.22222222222
+6279	09	9	0	Connecticut	561431	Private mail centers	56	0400000US09	49.111111111111114	194.88888888888889	5657.0
+6280	09	9	0	Connecticut	561439	Other business service centers (including copy shops)	56	0400000US09	41.55555555555556	193.11111111111111	7229.777777777777
+6281	09	9	0	Connecticut	561440	Collection agencies	56	0400000US09	35.77777777777778	454.55555555555554	21736.555555555555
+6282	09	9	0	Connecticut	561450	Credit bureaus	56	0400000US09	10.11111111111111	179.88888888888889	17035.666666666668
+6283	09	9	0	Connecticut	561491	Repossession services	56	0400000US09	5.111111111111111	25.77777777777778	675.4444444444445
+6284	09	9	0	Connecticut	561492	Court reporting and stenotype services	56	0400000US09	12.555555555555555	29.333333333333332	1511.888888888889
+6285	09	9	0	Connecticut	561499	All other business support services	56	0400000US09	37.111111111111114	491.22222222222223	28345.333333333332
+6286	09	9	0	Connecticut	561510	Travel agencies	56	0400000US09	223.11111111111111	1112.7777777777778	162438.44444444444
+6287	09	9	0	Connecticut	561520	Tour operators	56	0400000US09	27.22222222222222	425.1111111111111	37485.11111111111
+6288	09	9	0	Connecticut	561591	Convention and visitors bureaus	56	0400000US09	3.6666666666666665	3.111111111111111	129.66666666666666
+6289	09	9	0	Connecticut	561599	All other travel arrangement and reservation services	56	0400000US09	42.44444444444444	773.5555555555555	40447.444444444445
+6290	09	9	0	Connecticut	561611	Investigation services	56	0400000US09	40.111111111111114	309.22222222222223	13276.777777777777
+6291	09	9	0	Connecticut	561612	Security guards and patrol services	56	0400000US09	70.55555555555556	6280.444444444444	163308.44444444444
+6292	09	9	0	Connecticut	561613	Armored car services	56	0400000US09	4.666666666666667	31.11111111111111	957.5555555555555
+6293	09	9	0	Connecticut	561621	Security systems services (except locksmiths)	56	0400000US09	90.55555555555556	1428.7777777777778	78241.0
+6294	09	9	0	Connecticut	561622	Locksmiths	56	0400000US09	35.55555555555556	134.44444444444446	7385.777777777777
+6295	09	9	0	Connecticut	561710	Exterminating and pest control services	56	0400000US09	99.55555555555556	693.6666666666666	32851.444444444445
+6296	09	9	0	Connecticut	561720	Janitorial services	56	0400000US09	642.8888888888889	14314.888888888889	303288.0
+6297	09	9	0	Connecticut	561730	Landscaping services	56	0400000US09	2027.6666666666667	7773.555555555556	388400.3333333333
+6298	09	9	0	Connecticut	561740	Carpet and upholstery cleaning services	56	0400000US09	42.0	274.55555555555554	10298.444444444445
+6299	09	9	0	Connecticut	561790	Other services to buildings and dwellings	56	0400000US09	177.11111111111111	645.4444444444445	42537.444444444445
+6300	09	9	0	Connecticut	561910	Packaging and labeling services	56	0400000US09	14.555555555555555	125.33333333333333	4184.888888888889
+6301	09	9	0	Connecticut	561920	Convention and trade show organizers	56	0400000US09	56.44444444444444	1113.4444444444443	85857.11111111111
+6302	09	9	0	Connecticut	561990	All other support services	56	0400000US09	104.0	1235.2222222222222	80634.77777777778
+6303	09	9	0	Connecticut	562111	Solid waste collection	56	0400000US09	155.44444444444446	2327.3333333333335	132545.88888888888
+6304	09	9	0	Connecticut	562112	Hazardous waste collection	56	0400000US09	5.333333333333333	18.11111111111111	1266.888888888889
+6305	09	9	0	Connecticut	562119	Other waste collection	56	0400000US09	6.444444444444445	0.0	0.0
+6306	09	9	0	Connecticut	562211	Hazardous waste treatment and disposal	56	0400000US09	11.777777777777779	203.88888888888889	12639.444444444445
+6307	09	9	0	Connecticut	562212	Solid waste landfill	56	0400000US09	5.333333333333333	81.22222222222223	5286.444444444444
+6308	09	9	0	Connecticut	562213	Solid waste combustors and incinerators	56	0400000US09	6.333333333333333	254.0	23720.777777777777
+6309	09	9	0	Connecticut	562219	Other nonhazardous waste treatment and disposal	56	0400000US09	3.7777777777777777	4.777777777777778	330.3333333333333
+6310	09	9	0	Connecticut	562910	Remediation services	56	0400000US09	83.22222222222223	1222.888888888889	71643.44444444444
+6311	09	9	0	Connecticut	562920	Materials recovery facilities	56	0400000US09	17.666666666666668	216.66666666666666	10145.888888888889
+6312	09	9	0	Connecticut	562991	Septic tank and related services	56	0400000US09	69.66666666666667	364.3333333333333	20204.777777777777
+6313	09	9	0	Connecticut	562998	All other miscellaneous waste management services	56	0400000US09	15.555555555555555	91.22222222222223	7530.777777777777
+6314	09	9	0	Connecticut	611110	Elementary and secondary schools	61	0400000US09	270.1111111111111	18810.444444444445	887694.3333333334
+6315	09	9	0	Connecticut	611210	Junior colleges	61	0400000US09	8.88888888888889	559.1111111111111	19500.222222222223
+6316	09	9	0	Connecticut	611310	Colleges, universities, and professional schools	61	0400000US09	30.444444444444443	46071.444444444445	2274580.4444444445
+6317	09	9	0	Connecticut	611410	Business and secretarial schools	61	0400000US09	3.8	0.0	0.0
+6318	09	9	0	Connecticut	611420	Computer training	61	0400000US09	13.666666666666666	26.77777777777778	2556.6666666666665
+6319	09	9	0	Connecticut	611430	Professional and management development training	61	0400000US09	101.33333333333333	752.0	68740.22222222222
+6320	09	9	0	Connecticut	611511	Cosmetology and barber schools	61	0400000US09	21.666666666666668	213.33333333333334	5202.555555555556
+6321	09	9	0	Connecticut	611512	Flight training	61	0400000US09	10.11111111111111	99.11111111111111	7702.333333333333
+6322	09	9	0	Connecticut	611513	Apprenticeship training	61	0400000US09	14.222222222222221	152.44444444444446	4075.3333333333335
+6323	09	9	0	Connecticut	611519	Other technical and trade schools	61	0400000US09	62.44444444444444	1451.111111111111	50905.333333333336
+6324	09	9	0	Connecticut	611610	Fine arts schools	61	0400000US09	245.66666666666666	1665.0	26086.555555555555
+6325	09	9	0	Connecticut	611620	Sports and recreation instruction	61	0400000US09	287.3333333333333	1678.5555555555557	30991.444444444445
+6326	09	9	0	Connecticut	611630	Language schools	61	0400000US09	20.0	203.11111111111111	2126.0
+6327	09	9	0	Connecticut	611691	Exam preparation and tutoring	61	0400000US09	121.33333333333333	1323.7777777777778	23056.88888888889
+6328	09	9	0	Connecticut	611692	Automobile driving schools	61	0400000US09	58.111111111111114	328.8888888888889	7844.444444444444
+6329	09	9	0	Connecticut	611699	All other miscellaneous schools and instruction	61	0400000US09	82.33333333333333	524.5555555555555	11801.111111111111
+6330	09	9	0	Connecticut	611710	Educational support services	61	0400000US09	82.66666666666667	911.2222222222222	37471.77777777778
+6331	09	9	0	Connecticut	621111	Offices of physicians (except mental health specialists)	62	0400000US09	2566.5555555555557	32438.777777777777	2907481.3333333335
+6332	09	9	0	Connecticut	621112	Offices of physicians, mental health specialists	62	0400000US09	160.44444444444446	671.8888888888889	40739.0
+6333	09	9	0	Connecticut	621210	Offices of dentists	62	0400000US09	1789.111111111111	12943.0	664642.2222222222
+6334	09	9	0	Connecticut	621310	Offices of chiropractors	62	0400000US09	385.3333333333333	1317.4444444444443	43902.0
+6335	09	9	0	Connecticut	621320	Offices of optometrists	62	0400000US09	240.55555555555554	1394.4444444444443	58119.22222222222
+6336	09	9	0	Connecticut	621330	Offices of mental health practitioners (except physicians)	62	0400000US09	220.44444444444446	1442.3333333333333	63397.555555555555
+6337	09	9	0	Connecticut	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US09	446.6666666666667	6039.222222222223	246728.77777777778
+6338	09	9	0	Connecticut	621391	Offices of podiatrists	62	0400000US09	140.0	560.0	27737.0
+6339	09	9	0	Connecticut	621399	Offices of all other miscellaneous health practitioners	62	0400000US09	187.11111111111111	931.1111111111111	39256.0
+6340	09	9	0	Connecticut	621410	Family planning centers	62	0400000US09	30.11111111111111	369.44444444444446	18046.555555555555
+6341	09	9	0	Connecticut	621420	Outpatient mental health and substance abuse centers	62	0400000US09	152.77777777777777	4349.111111111111	194805.22222222222
+6342	09	9	0	Connecticut	621491	HMO medical centers	62	0400000US09	2.6	0.0	0.0
+6343	09	9	0	Connecticut	621492	Kidney dialysis centers	62	0400000US09	61.111111111111114	681.6666666666666	40967.11111111111
+6344	09	9	0	Connecticut	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US09	75.44444444444444	1487.4444444444443	86483.22222222222
+6345	09	9	0	Connecticut	621498	All other outpatient care centers	62	0400000US09	141.22222222222223	4297.666666666667	254968.33333333334
+6346	09	9	0	Connecticut	621511	Medical laboratories	62	0400000US09	204.88888888888889	2128.5555555555557	120220.0
+6347	09	9	0	Connecticut	621512	Diagnostic imaging centers	62	0400000US09	104.77777777777777	1621.888888888889	140495.77777777778
+6348	09	9	0	Connecticut	621610	Home health care services	62	0400000US09	262.0	15959.444444444445	616324.3333333334
+6349	09	9	0	Connecticut	621910	Ambulance services	62	0400000US09	72.22222222222223	3086.4444444444443	116185.22222222222
+6350	09	9	0	Connecticut	621991	Blood and organ banks	62	0400000US09	8.666666666666666	45.111111111111114	1428.5555555555557
+6351	09	9	0	Connecticut	621999	All other miscellaneous ambulatory health care services	62	0400000US09	38.888888888888886	756.3333333333334	51150.77777777778
+6352	09	9	0	Connecticut	622110	General medical and surgical hospitals	62	0400000US09	38.44444444444444	61974.333333333336	3923082.3333333335
+6353	09	9	0	Connecticut	622210	Psychiatric and substance abuse hospitals	62	0400000US09	7.777777777777778	3348.5555555555557	272359.22222222225
+6354	09	9	0	Connecticut	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US09	4.333333333333333	3163.8888888888887	183863.88888888888
+6355	09	9	0	Connecticut	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US09	262.8888888888889	35705.11111111111	1217393.111111111
+6356	09	9	0	Connecticut	623210	Residential intellectual and developmental disability facilities	62	0400000US09	552.8888888888889	11348.888888888889	303297.22222222225
+6357	09	9	0	Connecticut	623220	Residential mental health and substance abuse facilities	62	0400000US09	134.0	3254.4444444444443	112682.66666666667
+6358	09	9	0	Connecticut	623311	Continuing care retirement communities	62	0400000US09	53.333333333333336	7550.666666666667	210288.0
+6359	09	9	0	Connecticut	623312	Assisted living facilities for the elderly	62	0400000US09	137.55555555555554	4869.444444444444	131500.22222222222
+6360	09	9	0	Connecticut	623990	Other residential care facilities	62	0400000US09	104.77777777777777	2536.222222222222	82807.0
+6361	09	9	0	Connecticut	624110	Child and youth services	62	0400000US09	135.22222222222223	2665.4444444444443	79716.11111111111
+6362	09	9	0	Connecticut	624120	Services for the elderly and persons with disabilities	62	0400000US09	495.0	22049.333333333332	444362.1111111111
+6363	09	9	0	Connecticut	624190	Other individual and family services	62	0400000US09	335.3333333333333	8114.555555555556	253430.0
+6364	09	9	0	Connecticut	624210	Community food services	62	0400000US09	50.55555555555556	340.22222222222223	11671.222222222223
+6365	09	9	0	Connecticut	624221	Temporary shelters	62	0400000US09	60.55555555555556	1033.2222222222222	30057.777777777777
+6366	09	9	0	Connecticut	624229	Other community housing services	62	0400000US09	81.77777777777777	743.1111111111111	26896.11111111111
+6367	09	9	0	Connecticut	624230	Emergency and other relief services	62	0400000US09	5.222222222222222	199.22222222222223	13353.111111111111
+6368	09	9	0	Connecticut	624310	Vocational rehabilitation services	62	0400000US09	118.44444444444444	5344.333333333333	133093.11111111112
+6369	09	9	0	Connecticut	624410	Child day care services	62	0400000US09	951.6666666666666	14281.777777777777	303208.55555555556
+6370	09	9	0	Connecticut	711110	Theater companies and dinner theaters	71	0400000US09	51.55555555555556	735.3333333333334	23086.444444444445
+6371	09	9	0	Connecticut	711120	Dance companies	71	0400000US09	7.444444444444445	76.33333333333333	2159.777777777778
+6372	09	9	0	Connecticut	711130	Musical groups and artists	71	0400000US09	48.77777777777778	785.4444444444445	9993.222222222223
+6373	09	9	0	Connecticut	711190	Other performing arts companies	71	0400000US09	1.2	0.0	0.0
+6374	09	9	0	Connecticut	711211	Sports teams and clubs	71	0400000US09	8.666666666666666	175.33333333333334	4323.0
+6375	09	9	0	Connecticut	711212	Racetracks	71	0400000US09	5.0	50.0	3358.5555555555557
+6376	09	9	0	Connecticut	711219	Other spectator sports	71	0400000US09	14.666666666666666	28.11111111111111	1383.3333333333333
+6377	09	9	0	Connecticut	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US09	42.44444444444444	1609.111111111111	31262.333333333332
+6378	09	9	0	Connecticut	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US09	36.888888888888886	437.55555555555554	15067.888888888889
+6379	09	9	0	Connecticut	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US09	32.333333333333336	249.0	25327.666666666668
+6380	09	9	0	Connecticut	711510	Independent artists, writers, and performers	71	0400000US09	179.0	352.1111111111111	44092.22222222222
+6381	09	9	0	Connecticut	712110	Museums	71	0400000US09	83.11111111111111	1379.3333333333333	45207.22222222222
+6382	09	9	0	Connecticut	712120	Historical sites	71	0400000US09	21.22222222222222	129.55555555555554	3705.8888888888887
+6383	09	9	0	Connecticut	712130	Zoos and botanical gardens	71	0400000US09	4.666666666666667	438.22222222222223	14743.444444444445
+6384	09	9	0	Connecticut	712190	Nature parks and other similar institutions	71	0400000US09	27.77777777777778	275.77777777777777	9866.222222222223
+6385	09	9	0	Connecticut	713110	Amusement and theme parks	71	0400000US09	3.111111111111111	0.0	0.0
+6386	09	9	0	Connecticut	713120	Amusement arcades	71	0400000US09	32.666666666666664	488.8888888888889	5429.555555555556
+6387	09	9	0	Connecticut	713290	Other gambling industries	71	0400000US09	14.11111111111111	0.0	0.0
+6388	09	9	0	Connecticut	713910	Golf courses and country clubs	71	0400000US09	147.66666666666666	3351.0	169523.66666666666
+6389	09	9	0	Connecticut	713920	Skiing facilities	71	0400000US09	4.444444444444445	937.2222222222222	4672.555555555556
+6390	09	9	0	Connecticut	713930	Marinas	71	0400000US09	122.44444444444444	1190.0	56662.88888888889
+6391	09	9	0	Connecticut	713940	Fitness and recreational sports centers	71	0400000US09	557.7777777777778	12595.666666666666	195662.66666666666
+6392	09	9	0	Connecticut	713950	Bowling centers	71	0400000US09	34.0	689.1111111111111	10144.888888888889
+6393	09	9	0	Connecticut	713990	All other amusement and recreation industries	71	0400000US09	215.66666666666666	1686.111111111111	39891.333333333336
+6394	09	9	0	Connecticut	721110	Hotels (except casino hotels) and motels	72	0400000US09	373.3333333333333	11117.0	282894.22222222225
+6395	09	9	0	Connecticut	721120	Casino hotels	72	0400000US09	2.0	0.0	0.0
+6396	09	9	0	Connecticut	721191	Bed-and-breakfast inns	72	0400000US09	30.11111111111111	218.11111111111111	4972.888888888889
+6397	09	9	0	Connecticut	721199	All other traveler accommodation	72	0400000US09	1.6	0.8	81.6
+6398	09	9	0	Connecticut	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US09	27.88888888888889	61.77777777777778	4265.444444444444
+6399	09	9	0	Connecticut	721214	Recreational and vacation camps (except campgrounds)	72	0400000US09	29.333333333333332	417.6666666666667	20101.666666666668
+6400	09	9	0	Connecticut	721310	Rooming and boarding houses	72	0400000US09	4.0	10.11111111111111	197.11111111111111
+6401	09	9	0	Connecticut	722310	Food service contractors	72	0400000US09	543.3333333333334	7047.333333333333	252824.44444444444
+6402	09	9	0	Connecticut	722320	Caterers	72	0400000US09	203.77777777777777	2628.0	62500.11111111111
+6403	09	9	0	Connecticut	722330	Mobile food services	72	0400000US09	39.77777777777778	104.77777777777777	2762.8888888888887
+6404	09	9	0	Connecticut	722410	Drinking places (alcoholic beverages)	72	0400000US09	318.0	2707.0	47368.22222222222
+6405	09	9	0	Connecticut	722511	Full-service restaurants	72	0400000US09	3370.777777777778	56637.77777777778	1178401.3333333333
+6406	09	9	0	Connecticut	722513	Limited-service restaurants	72	0400000US09	2538.4444444444443	31096.666666666668	478410.1111111111
+6407	09	9	0	Connecticut	722514	Cafeterias, grill buffets, and buffets	72	0400000US09	50.666666666666664	466.0	8418.222222222223
+6408	09	9	0	Connecticut	722515	Snack and nonalcoholic beverage bars	72	0400000US09	1060.6666666666667	14096.222222222223	217858.11111111112
+6409	09	9	0	Connecticut	811111	General automotive repair	81	0400000US09	967.8888888888889	4258.888888888889	173586.55555555556
+6410	09	9	0	Connecticut	811112	Automotive exhaust system repair	81	0400000US09	23.22222222222222	91.55555555555556	2805.5555555555557
+6411	09	9	0	Connecticut	811113	Automotive transmission repair	81	0400000US09	50.111111111111114	181.0	7621.777777777777
+6412	09	9	0	Connecticut	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US09	34.77777777777778	207.22222222222223	8435.444444444445
+6413	09	9	0	Connecticut	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US09	409.22222222222223	2621.0	124707.66666666667
+6414	09	9	0	Connecticut	811122	Automotive glass replacement shops	81	0400000US09	43.22222222222222	294.22222222222223	12869.0
+6415	09	9	0	Connecticut	811191	Automotive oil change and lubrication shops	81	0400000US09	74.44444444444444	596.7777777777778	15538.444444444445
+6416	09	9	0	Connecticut	811192	Car washes	81	0400000US09	210.0	2147.3333333333335	39042.444444444445
+6417	09	9	0	Connecticut	811198	All other automotive repair and maintenance	81	0400000US09	11.555555555555555	41.333333333333336	1812.888888888889
+6418	09	9	0	Connecticut	811211	Consumer electronics repair and maintenance	81	0400000US09	18.88888888888889	179.33333333333334	6468.555555555556
+6419	09	9	0	Connecticut	811212	Computer and office machine repair and maintenance	81	0400000US09	53.666666666666664	213.77777777777777	10314.777777777777
+6420	09	9	0	Connecticut	811213	Communication equipment repair and maintenance	81	0400000US09	16.88888888888889	117.55555555555556	7078.777777777777
+6421	09	9	0	Connecticut	811219	Other electronic and precision equipment repair and maintenance	81	0400000US09	35.333333333333336	257.55555555555554	14397.444444444445
+6422	09	9	0	Connecticut	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US09	188.77777777777777	1531.888888888889	91271.55555555556
+6423	09	9	0	Connecticut	811411	Home and garden equipment repair and maintenance	81	0400000US09	12.333333333333334	25.333333333333332	883.1111111111111
+6424	09	9	0	Connecticut	811412	Appliance repair and maintenance	81	0400000US09	34.77777777777778	131.66666666666666	5075.0
+6425	09	9	0	Connecticut	811420	Reupholstery and furniture repair	81	0400000US09	59.333333333333336	181.0	6039.666666666667
+6426	09	9	0	Connecticut	811430	Footwear and leather goods repair	81	0400000US09	9.222222222222221	9.333333333333334	320.8888888888889
+6427	09	9	0	Connecticut	811490	Other personal and household goods repair and maintenance	81	0400000US09	88.88888888888889	371.44444444444446	15793.444444444445
+6428	09	9	0	Connecticut	812111	Barber shops	81	0400000US09	80.44444444444444	235.66666666666666	5470.333333333333
+6429	09	9	0	Connecticut	812112	Beauty salons	81	0400000US09	1212.111111111111	7630.555555555556	186564.44444444444
+6430	09	9	0	Connecticut	812113	Nail salons	81	0400000US09	641.7777777777778	2451.1111111111113	38714.444444444445
+6431	09	9	0	Connecticut	812191	Diet and weight reducing centers	81	0400000US09	41.55555555555556	307.22222222222223	4582.555555555556
+6432	09	9	0	Connecticut	812199	Other personal care services	81	0400000US09	284.55555555555554	1493.4444444444443	28536.88888888889
+6433	09	9	0	Connecticut	812210	Funeral homes and funeral services	81	0400000US09	211.33333333333334	1296.4444444444443	59007.11111111111
+6434	09	9	0	Connecticut	812220	Cemeteries and crematories	81	0400000US09	87.44444444444444	438.1111111111111	18681.555555555555
+6435	09	9	0	Connecticut	812310	Coin-operated laundries and drycleaners	81	0400000US09	161.11111111111111	690.0	14203.111111111111
+6436	09	9	0	Connecticut	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US09	329.77777777777777	2215.6666666666665	51589.88888888889
+6437	09	9	0	Connecticut	812331	Linen supply	81	0400000US09	12.333333333333334	780.3333333333334	27380.555555555555
+6438	09	9	0	Connecticut	812332	Industrial launderers	81	0400000US09	7.444444444444445	300.55555555555554	15101.222222222223
+6439	09	9	0	Connecticut	812910	Pet care (except veterinary) services	81	0400000US09	251.22222222222223	1456.4444444444443	29413.88888888889
+6440	09	9	0	Connecticut	812921	Photofinishing laboratories (except one-hour)	81	0400000US09	6.444444444444445	27.555555555555557	1088.888888888889
+6441	09	9	0	Connecticut	812922	One-hour photofinishing	81	0400000US09	2.4	0.0	60.2
+6442	09	9	0	Connecticut	812930	Parking lots and garages	81	0400000US09	191.88888888888889	1131.5555555555557	26225.555555555555
+6443	09	9	0	Connecticut	812990	All other personal services	81	0400000US09	127.33333333333333	442.22222222222223	14577.0
+6444	09	9	0	Connecticut	813110	Religious organizations	81	0400000US09	1708.3333333333333	13387.777777777777	305509.77777777775
+6445	09	9	0	Connecticut	813211	Grantmaking foundations	81	0400000US09	205.22222222222223	1003.4444444444445	81110.77777777778
+6446	09	9	0	Connecticut	813212	Voluntary health organizations	81	0400000US09	75.0	545.5555555555555	33441.555555555555
+6447	09	9	0	Connecticut	813219	Other grantmaking and giving services	81	0400000US09	53.0	379.1111111111111	19746.88888888889
+6448	09	9	0	Connecticut	813311	Human rights organizations	81	0400000US09	37.44444444444444	537.1111111111111	29309.88888888889
+6449	09	9	0	Connecticut	813312	Environment, conservation and wildlife organizations	81	0400000US09	97.11111111111111	494.8888888888889	21881.666666666668
+6450	09	9	0	Connecticut	813319	Other social advocacy organizations	81	0400000US09	103.66666666666667	533.1111111111111	23435.555555555555
+6451	09	9	0	Connecticut	813410	Civic and social organizations	81	0400000US09	360.55555555555554	3052.0	65177.77777777778
+6452	09	9	0	Connecticut	813910	Business associations	81	0400000US09	163.77777777777777	1807.111111111111	133058.0
+6453	09	9	0	Connecticut	813920	Professional organizations	81	0400000US09	96.33333333333333	568.1111111111111	52485.77777777778
+6454	09	9	0	Connecticut	813930	Labor unions and similar labor organizations	81	0400000US09	272.55555555555554	2022.2222222222222	79060.44444444444
+6455	09	9	0	Connecticut	813940	Political organizations	81	0400000US09	23.444444444444443	69.55555555555556	5348.222222222223
+6456	09	9	0	Connecticut	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US09	258.3333333333333	973.7777777777778	36658.0

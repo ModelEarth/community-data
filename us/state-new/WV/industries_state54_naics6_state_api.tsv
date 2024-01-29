@@ -1,0 +1,832 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+43258	54	54	0	West Virginia	113110	Timber tract operations	11	0400000US54	4.222222222222222	6.111111111111111	218.0
+43259	54	54	0	West Virginia	113210	Forest nurseries and gathering of forest products	11	0400000US54	1.0	0.0	0.0
+43260	54	54	0	West Virginia	113310	Logging	11	0400000US54	219.55555555555554	732.0	23132.666666666668
+43261	54	54	0	West Virginia	114210	Hunting and trapping	11	0400000US54	1.0	0.0	0.0
+43262	54	54	0	West Virginia	115112	Soil preparation, planting, and cultivating	11	0400000US54	1.2	0.0	0.0
+43263	54	54	0	West Virginia	115116	Farm management services	11	0400000US54	1.0	0.0	0.0
+43264	54	54	0	West Virginia	115210	Support activities for animal production	11	0400000US54	12.666666666666666	45.333333333333336	1215.6666666666667
+43265	54	54	0	West Virginia	115310	Support activities for forestry	11	0400000US54	14.333333333333334	53.44444444444444	2705.777777777778
+43266	54	54	0	West Virginia	211111	Crude petroleum and natural gas extraction	21	0400000US54	172.4	2300.2	185780.8
+43267	54	54	0	West Virginia	211112	Natural gas liquid extraction	21	0400000US54	8.6	97.6	11055.0
+43268	54	54	0	West Virginia	211120	Crude petroleum extraction	21	0400000US54	107.0	1345.0	128885.0
+43269	54	54	0	West Virginia	211130	Natural gas extraction	21	0400000US54	48.0	867.0	75170.0
+43270	54	54	0	West Virginia	212111	Bituminous coal and lignite surface mining	21	0400000US54	73.66666666666667	4982.222222222223	355768.77777777775
+43271	54	54	0	West Virginia	212112	Bituminous coal underground mining	21	0400000US54	85.55555555555556	11076.222222222223	870405.1111111111
+43272	54	54	0	West Virginia	212113	Anthracite mining	21	0400000US54	1.25	0.0	0.0
+43273	54	54	0	West Virginia	212210	Iron ore mining	21	0400000US54	2.0	0.0	0.0
+43274	54	54	0	West Virginia	212311	Dimension stone mining and quarrying	21	0400000US54	1.0	0.0	0.0
+43275	54	54	0	West Virginia	212312	Crushed and broken limestone mining and quarrying	21	0400000US54	16.11111111111111	516.4444444444445	27709.777777777777
+43276	54	54	0	West Virginia	212319	Other crushed and broken stone mining and quarrying	21	0400000US54	5.333333333333333	28.22222222222222	1307.3333333333333
+43277	54	54	0	West Virginia	212321	Construction sand and gravel mining	21	0400000US54	2.5555555555555554	5.888888888888889	269.3333333333333
+43278	54	54	0	West Virginia	212322	Industrial sand mining	21	0400000US54	1.0	0.0	0.0
+43279	54	54	0	West Virginia	212393	Other chemical and fertilizer mineral mining	21	0400000US54	1.0	0.0	0.0
+43280	54	54	0	West Virginia	212399	All other nonmetallic mineral mining	21	0400000US54	1.8	0.0	0.0
+43281	54	54	0	West Virginia	213111	Drilling oil and gas wells	21	0400000US54	41.22222222222222	826.5555555555555	51181.666666666664
+43282	54	54	0	West Virginia	213112	Support activities for oil and gas operations	21	0400000US54	151.55555555555554	2726.777777777778	174741.77777777778
+43283	54	54	0	West Virginia	213113	Support activities for coal mining	21	0400000US54	40.333333333333336	1360.111111111111	90834.55555555556
+43284	54	54	0	West Virginia	213114	Support activities for metal mining	21	0400000US54	1.0	0.0	0.0
+43285	54	54	0	West Virginia	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US54	3.0	7.6	335.0
+43286	54	54	0	West Virginia	221111	Hydroelectric power generation	22	0400000US54	8.222222222222221	22.555555555555557	2495.777777777778
+43287	54	54	0	West Virginia	221112	Fossil fuel electric power generation	22	0400000US54	20.555555555555557	1048.0	106045.77777777778
+43288	54	54	0	West Virginia	221115	Wind electric power generation	22	0400000US54	2.0	15.5	1103.5
+43289	54	54	0	West Virginia	221117	Biomass electric power generation	22	0400000US54	1.0	0.0	0.0
+43290	54	54	0	West Virginia	221118	Other electric power generation	22	0400000US54	1.0	0.0	0.0
+43291	54	54	0	West Virginia	221121	Electric bulk power transmission and control	22	0400000US54	5.777777777777778	0.0	0.0
+43292	54	54	0	West Virginia	221122	Electric power distribution	22	0400000US54	90.0	1421.7777777777778	119025.88888888889
+43293	54	54	0	West Virginia	221210	Natural gas distribution	22	0400000US54	53.55555555555556	1196.6666666666667	147059.55555555556
+43294	54	54	0	West Virginia	221310	Water supply and irrigation systems	22	0400000US54	42.0	457.1111111111111	28729.11111111111
+43295	54	54	0	West Virginia	221320	Sewage treatment facilities	22	0400000US54	9.333333333333334	61.333333333333336	2442.5555555555557
+43296	54	54	0	West Virginia	236115	New single-family housing construction (except for-sale builders)	23	0400000US54	377.0	1177.2222222222222	33253.22222222222
+43297	54	54	0	West Virginia	236116	New multifamily housing construction (except for-sale builders)	23	0400000US54	10.88888888888889	24.666666666666668	964.5555555555555
+43298	54	54	0	West Virginia	236117	New housing for-sale builders	23	0400000US54	75.66666666666667	389.6666666666667	13149.555555555555
+43299	54	54	0	West Virginia	236118	Residential remodelers	23	0400000US54	460.44444444444446	1455.111111111111	39787.77777777778
+43300	54	54	0	West Virginia	236210	Industrial building construction	23	0400000US54	16.0	273.8888888888889	12561.444444444445
+43301	54	54	0	West Virginia	236220	Commercial and institutional building construction	23	0400000US54	172.22222222222223	1939.5555555555557	93984.44444444444
+43302	54	54	0	West Virginia	237110	Water and sewer line and related structures construction	23	0400000US54	43.77777777777778	497.44444444444446	32187.777777777777
+43303	54	54	0	West Virginia	237120	Oil and gas pipeline and related structures construction	23	0400000US54	40.111111111111114	1760.4444444444443	163393.33333333334
+43304	54	54	0	West Virginia	237130	Power and communication line and related structures construction	23	0400000US54	38.22222222222222	938.5555555555555	64321.77777777778
+43305	54	54	0	West Virginia	237210	Land subdivision	23	0400000US54	19.0	35.77777777777778	1406.888888888889
+43306	54	54	0	West Virginia	237310	Highway, street, and bridge construction	23	0400000US54	56.77777777777778	1267.888888888889	100239.66666666667
+43307	54	54	0	West Virginia	237990	Other heavy and civil engineering construction	23	0400000US54	14.333333333333334	251.0	16600.11111111111
+43308	54	54	0	West Virginia	238110	Poured concrete foundation and structure contractors	23	0400000US54	59.22222222222222	243.33333333333334	10214.111111111111
+43309	54	54	0	West Virginia	238120	Structural steel and precast concrete contractors	23	0400000US54	9.0	77.33333333333333	4249.222222222223
+43310	54	54	0	West Virginia	238130	Framing contractors	23	0400000US54	37.333333333333336	190.44444444444446	4962.333333333333
+43311	54	54	0	West Virginia	238140	Masonry contractors	23	0400000US54	112.11111111111111	521.5555555555555	17370.0
+43312	54	54	0	West Virginia	238150	Glass and glazing contractors	23	0400000US54	22.444444444444443	107.11111111111111	5921.777777777777
+43313	54	54	0	West Virginia	238160	Roofing contractors	23	0400000US54	80.11111111111111	630.1111111111111	27710.222222222223
+43314	54	54	0	West Virginia	238170	Siding contractors	23	0400000US54	45.333333333333336	140.77777777777777	5235.222222222223
+43315	54	54	0	West Virginia	238190	Other foundation, structure, and building exterior contractors	23	0400000US54	25.88888888888889	143.44444444444446	7308.222222222223
+43316	54	54	0	West Virginia	238210	Electrical contractors and other wiring installation contractors	23	0400000US54	291.1111111111111	2907.5555555555557	155704.88888888888
+43317	54	54	0	West Virginia	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US54	388.3333333333333	2865.4444444444443	129245.66666666667
+43318	54	54	0	West Virginia	238290	Other building equipment contractors	23	0400000US54	21.0	256.22222222222223	19360.0
+43319	54	54	0	West Virginia	238310	Drywall and insulation contractors	23	0400000US54	47.888888888888886	470.0	20509.555555555555
+43320	54	54	0	West Virginia	238320	Painting and wall covering contractors	23	0400000US54	69.66666666666667	323.0	14262.888888888889
+43321	54	54	0	West Virginia	238330	Flooring contractors	23	0400000US54	43.22222222222222	101.77777777777777	2798.0
+43322	54	54	0	West Virginia	238340	Tile and terrazzo contractors	23	0400000US54	10.11111111111111	34.0	1329.6666666666667
+43323	54	54	0	West Virginia	238350	Finish carpentry contractors	23	0400000US54	74.0	315.44444444444446	10804.222222222223
+43324	54	54	0	West Virginia	238390	Other building finishing contractors	23	0400000US54	9.333333333333334	53.55555555555556	1445.111111111111
+43325	54	54	0	West Virginia	238910	Site preparation contractors	23	0400000US54	361.77777777777777	3652.1111111111113	181540.33333333334
+43326	54	54	0	West Virginia	238990	All other specialty trade contractors	23	0400000US54	132.22222222222223	1071.0	50610.444444444445
+43327	54	54	0	West Virginia	311111	Dog and cat food manufacturing	31	0400000US54	1.0	0.0	0.0
+43328	54	54	0	West Virginia	311119	Other animal food manufacturing	31	0400000US54	1.0	0.0	0.0
+43329	54	54	0	West Virginia	311211	Flour milling	31	0400000US54	1.0	0.0	0.0
+43330	54	54	0	West Virginia	311340	Nonchocolate confectionery manufacturing	31	0400000US54	1.0	0.0	0.0
+43331	54	54	0	West Virginia	311352	Confectionery manufacturing from purchased chocolate	31	0400000US54	2.0	0.0	0.0
+43332	54	54	0	West Virginia	311412	Frozen specialty food manufacturing	31	0400000US54	1.0	0.0	0.0
+43333	54	54	0	West Virginia	311421	Fruit and vegetable canning	31	0400000US54	6.444444444444445	48.55555555555556	1049.888888888889
+43334	54	54	0	West Virginia	311511	Fluid milk manufacturing	31	0400000US54	1.8	0.0	0.0
+43335	54	54	0	West Virginia	311520	Ice cream and frozen dessert manufacturing	31	0400000US54	1.2	0.0	0.0
+43336	54	54	0	West Virginia	311611	Animal (except poultry) slaughtering	31	0400000US54	21.22222222222222	114.0	2348.777777777778
+43337	54	54	0	West Virginia	311612	Meat processed from carcasses	31	0400000US54	2.8	0.4	43.6
+43338	54	54	0	West Virginia	311615	Poultry processing	31	0400000US54	2.2	0.0	0.0
+43339	54	54	0	West Virginia	311710	Seafood product preparation and packaging	31	0400000US54	1.0	0.0	0.0
+43340	54	54	0	West Virginia	311811	Retail bakeries	31	0400000US54	31.77777777777778	196.11111111111111	3895.4444444444443
+43341	54	54	0	West Virginia	311812	Commercial bakeries	31	0400000US54	9.11111111111111	314.44444444444446	10257.333333333334
+43342	54	54	0	West Virginia	311821	Cookie and cracker manufacturing	31	0400000US54	1.0	0.0	0.0
+43343	54	54	0	West Virginia	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US54	1.0	0.0	0.0
+43344	54	54	0	West Virginia	311919	Other snack food manufacturing	31	0400000US54	1.0	0.0	0.0
+43345	54	54	0	West Virginia	311920	Coffee and tea manufacturing	31	0400000US54	1.3333333333333333	0.0	0.0
+43346	54	54	0	West Virginia	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US54	2.2	0.0	0.0
+43347	54	54	0	West Virginia	311942	Spice and extract manufacturing	31	0400000US54	1.0	0.0	0.0
+43348	54	54	0	West Virginia	311991	Perishable prepared food manufacturing	31	0400000US54	3.0	46.22222222222222	952.1111111111111
+43349	54	54	0	West Virginia	311999	All other miscellaneous food manufacturing	31	0400000US54	1.0	0.0	0.0
+43350	54	54	0	West Virginia	312111	Soft drink manufacturing	31	0400000US54	1.0	0.0	0.0
+43351	54	54	0	West Virginia	312112	Bottled water manufacturing	31	0400000US54	3.0	0.0	0.0
+43352	54	54	0	West Virginia	312113	Ice manufacturing	31	0400000US54	5.0	23.555555555555557	1078.3333333333333
+43353	54	54	0	West Virginia	312120	Breweries	31	0400000US54	6.666666666666667	34.44444444444444	573.8888888888889
+43354	54	54	0	West Virginia	312130	Wineries	31	0400000US54	5.333333333333333	8.11111111111111	200.44444444444446
+43355	54	54	0	West Virginia	312140	Distilleries	31	0400000US54	3.888888888888889	37.44444444444444	1016.0
+43356	54	54	0	West Virginia	312230	Tobacco manufacturing	31	0400000US54	1.6	0.0	0.0
+43357	54	54	0	West Virginia	313110	Fiber, yarn, and thread mills	31	0400000US54	1.0	0.0	0.0
+43358	54	54	0	West Virginia	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US54	1.0	0.0	0.0
+43359	54	54	0	West Virginia	313230	Nonwoven fabric mills	31	0400000US54	1.0	0.0	0.0
+43360	54	54	0	West Virginia	313310	Textile and fabric finishing mills	31	0400000US54	2.0	0.0	17.2
+43361	54	54	0	West Virginia	313320	Fabric coating mills	31	0400000US54	1.4	0.0	169.6
+43362	54	54	0	West Virginia	314120	Curtain and linen mills	31	0400000US54	3.4444444444444446	5.555555555555555	142.66666666666666
+43363	54	54	0	West Virginia	314910	Textile bag and canvas mills	31	0400000US54	2.888888888888889	28.444444444444443	639.6666666666666
+43364	54	54	0	West Virginia	314999	All other miscellaneous textile product mills	31	0400000US54	9.777777777777779	42.888888888888886	1508.2222222222222
+43365	54	54	0	West Virginia	315210	Cut and sew apparel contractors	31	0400000US54	4.0	27.11111111111111	508.55555555555554
+43366	54	54	0	West Virginia	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US54	1.0	0.0	0.0
+43367	54	54	0	West Virginia	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US54	1.0	0.0	0.0
+43368	54	54	0	West Virginia	315280	Other cut and sew apparel manufacturing	31	0400000US54	1.6	0.0	0.0
+43369	54	54	0	West Virginia	316998	All other leather good and allied product manufacturing	31	0400000US54	1.6666666666666667	0.0	0.0
+43370	54	54	0	West Virginia	321113	Sawmills	32	0400000US54	68.55555555555556	1597.4444444444443	51621.333333333336
+43371	54	54	0	West Virginia	321114	Wood preservation	32	0400000US54	7.111111111111111	188.33333333333334	7845.0
+43372	54	54	0	West Virginia	321211	Hardwood veneer and plywood manufacturing	32	0400000US54	2.0	0.0	0.0
+43373	54	54	0	West Virginia	321213	Engineered wood member (except truss) manufacturing	32	0400000US54	1.0	0.0	0.0
+43374	54	54	0	West Virginia	321214	Truss manufacturing	32	0400000US54	4.888888888888889	154.66666666666666	4503.222222222223
+43375	54	54	0	West Virginia	321219	Reconstituted wood product manufacturing	32	0400000US54	2.5555555555555554	0.0	0.0
+43376	54	54	0	West Virginia	321911	Wood window and door manufacturing	32	0400000US54	3.2222222222222223	0.0	0.0
+43377	54	54	0	West Virginia	321912	Cut stock, resawing lumber, and planing	32	0400000US54	16.666666666666668	653.1111111111111	21832.555555555555
+43378	54	54	0	West Virginia	321918	Other millwork (including flooring)	32	0400000US54	13.333333333333334	1160.4444444444443	39148.88888888889
+43379	54	54	0	West Virginia	321920	Wood container and pallet manufacturing	32	0400000US54	11.666666666666666	248.33333333333334	7750.0
+43380	54	54	0	West Virginia	321992	Prefabricated wood building manufacturing	32	0400000US54	7.333333333333333	120.0	3670.3333333333335
+43381	54	54	0	West Virginia	321999	All other miscellaneous wood product manufacturing	32	0400000US54	18.88888888888889	317.0	9672.222222222223
+43382	54	54	0	West Virginia	322110	Pulp mills	32	0400000US54	1.0	0.0	0.0
+43383	54	54	0	West Virginia	322130	Paperboard mills	32	0400000US54	1.0	0.0	0.0
+43384	54	54	0	West Virginia	322211	Corrugated and solid fiber box manufacturing	32	0400000US54	2.4	0.0	0.0
+43385	54	54	0	West Virginia	322219	Other paperboard container manufacturing	32	0400000US54	1.0	0.0	0.0
+43386	54	54	0	West Virginia	322220	Paper bag and coated and treated paper manufacturing	32	0400000US54	3.0	31.6	1052.6
+43387	54	54	0	West Virginia	322230	Stationery product manufacturing	32	0400000US54	1.0	0.0	0.0
+43388	54	54	0	West Virginia	322299	All other converted paper product manufacturing	32	0400000US54	1.0	0.0	0.0
+43389	54	54	0	West Virginia	323111	Commercial printing (except screen and books)	32	0400000US54	65.22222222222223	1074.4444444444443	43095.555555555555
+43390	54	54	0	West Virginia	323113	Commercial screen printing	32	0400000US54	19.444444444444443	119.33333333333333	3345.777777777778
+43391	54	54	0	West Virginia	323117	Books printing	32	0400000US54	3.0	0.0	0.0
+43392	54	54	0	West Virginia	323120	Support activities for printing	32	0400000US54	1.0	0.0	0.0
+43393	54	54	0	West Virginia	324110	Petroleum refineries	32	0400000US54	1.0	0.0	0.0
+43394	54	54	0	West Virginia	324121	Asphalt paving mixture and block manufacturing	32	0400000US54	11.11111111111111	48.22222222222222	3369.0
+43395	54	54	0	West Virginia	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US54	2.0	0.0	0.0
+43396	54	54	0	West Virginia	324199	All other petroleum and coal products manufacturing	32	0400000US54	1.0	0.0	0.0
+43397	54	54	0	West Virginia	325120	Industrial gas manufacturing	32	0400000US54	7.666666666666667	54.111111111111114	4473.333333333333
+43398	54	54	0	West Virginia	325130	Synthetic dye and pigment manufacturing	32	0400000US54	1.0	0.0	0.0
+43399	54	54	0	West Virginia	325180	Other basic inorganic chemical manufacturing	32	0400000US54	7.888888888888889	699.8888888888889	55200.77777777778
+43400	54	54	0	West Virginia	325194	Cyclic crude, intermediate, and gum and wood chemical manufacturing	32	0400000US54	3.2	373.0	33481.6
+43401	54	54	0	West Virginia	325199	All other basic organic chemical manufacturing	32	0400000US54	14.222222222222221	1679.5555555555557	158314.22222222222
+43402	54	54	0	West Virginia	325211	Plastics material and resin manufacturing	32	0400000US54	6.444444444444445	1347.3333333333333	146947.44444444444
+43403	54	54	0	West Virginia	325220	Artificial and synthetic fibers and filaments manufacturing	32	0400000US54	1.0	0.0	0.0
+43404	54	54	0	West Virginia	325311	Nitrogenous fertilizer manufacturing	32	0400000US54	3.8	0.0	0.0
+43405	54	54	0	West Virginia	325314	Fertilizer (mixing only) manufacturing	32	0400000US54	1.0	0.0	0.0
+43406	54	54	0	West Virginia	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US54	1.4	0.0	0.0
+43407	54	54	0	West Virginia	325411	Medicinal and botanical manufacturing	32	0400000US54	1.0	0.0	0.0
+43408	54	54	0	West Virginia	325412	Pharmaceutical preparation manufacturing	32	0400000US54	3.0	0.0	0.0
+43409	54	54	0	West Virginia	325510	Paint and coating manufacturing	32	0400000US54	2.4444444444444446	12.88888888888889	679.1111111111111
+43410	54	54	0	West Virginia	325520	Adhesive manufacturing	32	0400000US54	3.0	79.0	5357.2
+43411	54	54	0	West Virginia	325611	Soap and other detergent manufacturing	32	0400000US54	1.2	0.0	0.0
+43412	54	54	0	West Virginia	325612	Polish and other sanitation good manufacturing	32	0400000US54	2.0	0.0	0.0
+43413	54	54	0	West Virginia	325620	Toilet preparation manufacturing	32	0400000US54	2.0	0.0	0.0
+43414	54	54	0	West Virginia	325910	Printing ink manufacturing	32	0400000US54	1.0	0.0	0.0
+43415	54	54	0	West Virginia	325920	Explosives manufacturing	32	0400000US54	2.6666666666666665	0.0	0.0
+43416	54	54	0	West Virginia	325991	Custom compounding of purchased resins	32	0400000US54	5.111111111111111	153.22222222222223	6643.444444444444
+43417	54	54	0	West Virginia	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US54	2.8	47.0	2390.4
+43418	54	54	0	West Virginia	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US54	4.777777777777778	42.666666666666664	2993.4444444444443
+43419	54	54	0	West Virginia	326111	Plastics bag and pouch manufacturing	32	0400000US54	1.0	0.0	0.0
+43420	54	54	0	West Virginia	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US54	1.0	0.0	0.0
+43421	54	54	0	West Virginia	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US54	1.0	0.0	0.0
+43422	54	54	0	West Virginia	326121	Unlaminated plastics profile shape manufacturing	32	0400000US54	1.2	0.0	0.0
+43423	54	54	0	West Virginia	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US54	3.5555555555555554	205.55555555555554	8285.222222222223
+43424	54	54	0	West Virginia	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US54	4.777777777777778	130.55555555555554	5471.555555555556
+43425	54	54	0	West Virginia	326160	Plastics bottle manufacturing	32	0400000US54	1.8888888888888888	32.888888888888886	2119.1111111111113
+43426	54	54	0	West Virginia	326191	Plastics plumbing fixture manufacturing	32	0400000US54	1.0	0.0	0.0
+43427	54	54	0	West Virginia	326199	All other plastics product manufacturing	32	0400000US54	25.333333333333332	2093.777777777778	88068.22222222222
+43428	54	54	0	West Virginia	326211	Tire manufacturing (except retreading)	32	0400000US54	1.0	0.0	0.0
+43429	54	54	0	West Virginia	326212	Tire retreading	32	0400000US54	3.111111111111111	19.333333333333332	559.6666666666666
+43430	54	54	0	West Virginia	326220	Rubber and plastics hoses and belting manufacturing	32	0400000US54	1.5	0.0	0.0
+43431	54	54	0	West Virginia	326291	Rubber product manufacturing for mechanical use	32	0400000US54	2.6	0.0	0.0
+43432	54	54	0	West Virginia	326299	All other rubber product manufacturing	32	0400000US54	3.6666666666666665	212.0	12946.333333333334
+43433	54	54	0	West Virginia	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US54	6.111111111111111	0.0	0.0
+43434	54	54	0	West Virginia	327120	Clay building material and refractories manufacturing	32	0400000US54	3.3333333333333335	146.11111111111111	9335.777777777777
+43435	54	54	0	West Virginia	327211	Flat glass manufacturing	32	0400000US54	1.0	0.0	0.0
+43436	54	54	0	West Virginia	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US54	6.0	213.55555555555554	7232.888888888889
+43437	54	54	0	West Virginia	327215	Glass product manufacturing made of purchased glass	32	0400000US54	2.0	20.0	256.4
+43438	54	54	0	West Virginia	327310	Cement manufacturing	32	0400000US54	2.8	0.0	0.0
+43439	54	54	0	West Virginia	327320	Ready-mix concrete manufacturing	32	0400000US54	49.333333333333336	519.1111111111111	24272.88888888889
+43440	54	54	0	West Virginia	327331	Concrete block and brick manufacturing	32	0400000US54	8.222222222222221	106.33333333333333	4641.555555555556
+43441	54	54	0	West Virginia	327332	Concrete pipe manufacturing	32	0400000US54	1.0	0.0	0.0
+43442	54	54	0	West Virginia	327390	Other concrete product manufacturing	32	0400000US54	10.0	216.33333333333334	8126.555555555556
+43443	54	54	0	West Virginia	327410	Lime manufacturing	32	0400000US54	2.8	0.0	0.0
+43444	54	54	0	West Virginia	327420	Gypsum product manufacturing	32	0400000US54	1.4	0.0	0.0
+43445	54	54	0	West Virginia	327991	Cut stone and stone product manufacturing	32	0400000US54	4.777777777777778	63.111111111111114	2184.5555555555557
+43446	54	54	0	West Virginia	327992	Ground or treated mineral and earth manufacturing	32	0400000US54	5.0	83.11111111111111	5195.333333333333
+43447	54	54	0	West Virginia	327993	Mineral wool manufacturing	32	0400000US54	1.0	0.0	0.0
+43448	54	54	0	West Virginia	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US54	1.0	0.0	0.0
+43449	54	54	0	West Virginia	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US54	5.555555555555555	1354.111111111111	91736.11111111111
+43450	54	54	0	West Virginia	331210	Iron and steel pipe and tube manufacturing from purchased steel	33	0400000US54	3.0	0.0	0.0
+43451	54	54	0	West Virginia	331221	Rolled steel shape manufacturing	33	0400000US54	2.2	13.8	438.0
+43452	54	54	0	West Virginia	331313	Alumina refining and primary aluminum production	33	0400000US54	2.0	0.0	0.0
+43453	54	54	0	West Virginia	331314	Secondary smelting and alloying of aluminum	33	0400000US54	1.2	0.0	0.0
+43454	54	54	0	West Virginia	331315	Aluminum sheet, plate, and foil manufacturing	33	0400000US54	3.111111111111111	272.8888888888889	19007.333333333332
+43455	54	54	0	West Virginia	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US54	1.4	0.0	0.0
+43456	54	54	0	West Virginia	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US54	1.0	0.0	0.0
+43457	54	54	0	West Virginia	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US54	1.6	0.0	0.0
+43458	54	54	0	West Virginia	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US54	1.0	0.0	0.0
+43459	54	54	0	West Virginia	331511	Iron foundries	33	0400000US54	2.0	0.0	0.0
+43460	54	54	0	West Virginia	331512	Steel investment foundries	33	0400000US54	1.0	0.0	0.0
+43461	54	54	0	West Virginia	331523	Nonferrous metal die-casting foundries	33	0400000US54	1.8	0.0	0.0
+43462	54	54	0	West Virginia	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US54	2.0	0.0	0.0
+43463	54	54	0	West Virginia	332111	Iron and steel forging	33	0400000US54	2.0	0.0	0.0
+43464	54	54	0	West Virginia	332114	Custom roll forming	33	0400000US54	1.0	0.0	0.0
+43465	54	54	0	West Virginia	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US54	3.0	170.2	9519.0
+43466	54	54	0	West Virginia	332216	Saw blade and handtool manufacturing	33	0400000US54	4.444444444444445	23.77777777777778	813.2222222222222
+43467	54	54	0	West Virginia	332311	Prefabricated metal building and component manufacturing	33	0400000US54	2.2222222222222223	0.0	0.0
+43468	54	54	0	West Virginia	332312	Fabricated structural metal manufacturing	33	0400000US54	26.0	474.22222222222223	18055.88888888889
+43469	54	54	0	West Virginia	332313	Plate work manufacturing	33	0400000US54	10.11111111111111	105.77777777777777	3942.6666666666665
+43470	54	54	0	West Virginia	332321	Metal window and door manufacturing	33	0400000US54	2.2	19.2	1050.6
+43471	54	54	0	West Virginia	332322	Sheet metal work manufacturing	33	0400000US54	17.77777777777778	437.44444444444446	19217.88888888889
+43472	54	54	0	West Virginia	332323	Ornamental and architectural metal work manufacturing	33	0400000US54	6.111111111111111	7.111111111111111	339.22222222222223
+43473	54	54	0	West Virginia	332410	Power boiler and heat exchanger manufacturing	33	0400000US54	1.6	0.0	0.0
+43474	54	54	0	West Virginia	332420	Metal tank (heavy gauge) manufacturing	33	0400000US54	4.111111111111111	62.0	3920.6666666666665
+43475	54	54	0	West Virginia	332431	Metal can manufacturing	33	0400000US54	2.4444444444444446	31.11111111111111	4979.555555555556
+43476	54	54	0	West Virginia	332439	Other metal container manufacturing	33	0400000US54	2.2	0.0	0.0
+43477	54	54	0	West Virginia	332510	Hardware manufacturing	33	0400000US54	1.0	0.0	0.0
+43478	54	54	0	West Virginia	332618	Other fabricated wire product manufacturing	33	0400000US54	1.4	0.0	0.0
+43479	54	54	0	West Virginia	332710	Machine shops	33	0400000US54	98.88888888888889	1330.888888888889	62360.77777777778
+43480	54	54	0	West Virginia	332721	Precision turned product manufacturing	33	0400000US54	6.888888888888889	85.55555555555556	2776.8888888888887
+43481	54	54	0	West Virginia	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US54	3.4444444444444446	77.11111111111111	4274.0
+43482	54	54	0	West Virginia	332811	Metal heat treating	33	0400000US54	3.0	34.0	1422.2222222222222
+43483	54	54	0	West Virginia	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US54	9.666666666666666	779.6666666666666	41780.555555555555
+43484	54	54	0	West Virginia	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US54	10.555555555555555	265.44444444444446	12143.333333333334
+43485	54	54	0	West Virginia	332911	Industrial valve manufacturing	33	0400000US54	1.0	0.0	0.0
+43486	54	54	0	West Virginia	332992	Small arms ammunition manufacturing	33	0400000US54	1.0	0.0	0.0
+43487	54	54	0	West Virginia	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US54	3.4444444444444446	8.444444444444445	248.44444444444446
+43488	54	54	0	West Virginia	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US54	5.0	98.55555555555556	5815.222222222223
+43489	54	54	0	West Virginia	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US54	11.777777777777779	86.88888888888889	3265.3333333333335
+43490	54	54	0	West Virginia	333120	Construction machinery manufacturing	33	0400000US54	3.7777777777777777	74.88888888888889	2985.1111111111113
+43491	54	54	0	West Virginia	333131	Mining machinery and equipment manufacturing	33	0400000US54	33.22222222222222	1208.6666666666667	70893.66666666667
+43492	54	54	0	West Virginia	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US54	2.7777777777777777	9.777777777777779	934.1111111111111
+43493	54	54	0	West Virginia	333314	Optical instrument and lens manufacturing	33	0400000US54	3.0	15.11111111111111	603.2222222222222
+43494	54	54	0	West Virginia	333318	Other commercial and service industry machinery manufacturing	33	0400000US54	6.0	312.22222222222223	13404.444444444445
+43495	54	54	0	West Virginia	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US54	1.0	0.0	0.0
+43496	54	54	0	West Virginia	333511	Industrial mold manufacturing	33	0400000US54	2.0	0.0	0.0
+43497	54	54	0	West Virginia	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US54	2.4	7.0	268.6
+43498	54	54	0	West Virginia	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US54	3.4444444444444446	20.77777777777778	1199.0
+43499	54	54	0	West Virginia	333612	Speed changer, industrial high-speed drive, and gear manufacturing	33	0400000US54	1.0	0.0	0.0
+43500	54	54	0	West Virginia	333613	Mechanical power transmission equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43501	54	54	0	West Virginia	333618	Other engine equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43502	54	54	0	West Virginia	333911	Pump and pumping equipment manufacturing	33	0400000US54	4.0	35.8	3599.0
+43503	54	54	0	West Virginia	333914	Measuring, dispensing, and other pumping equipment manufacturing	33	0400000US54	4.0	75.0	3367.0
+43504	54	54	0	West Virginia	333922	Conveyor and conveying equipment manufacturing	33	0400000US54	3.7777777777777777	49.0	3024.3333333333335
+43505	54	54	0	West Virginia	333992	Welding and soldering equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43506	54	54	0	West Virginia	333993	Packaging machinery manufacturing	33	0400000US54	1.0	0.0	0.0
+43507	54	54	0	West Virginia	333994	Industrial process furnace and oven manufacturing	33	0400000US54	3.2222222222222223	0.0	0.0
+43508	54	54	0	West Virginia	333995	Fluid power cylinder and actuator manufacturing	33	0400000US54	2.0	0.0	0.0
+43509	54	54	0	West Virginia	333996	Fluid power pump and motor manufacturing	33	0400000US54	2.0	0.0	0.0
+43510	54	54	0	West Virginia	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US54	3.6666666666666665	21.88888888888889	1561.6666666666667
+43511	54	54	0	West Virginia	334111	Electronic computer manufacturing	33	0400000US54	1.0	0.0	0.0
+43512	54	54	0	West Virginia	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US54	2.4	0.0	0.0
+43513	54	54	0	West Virginia	334290	Other communications equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43514	54	54	0	West Virginia	334310	Audio and video equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43515	54	54	0	West Virginia	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US54	2.4	32.6	791.2
+43516	54	54	0	West Virginia	334419	Other electronic component manufacturing	33	0400000US54	2.6666666666666665	84.0	3131.5555555555557
+43517	54	54	0	West Virginia	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US54	1.0	0.0	0.0
+43518	54	54	0	West Virginia	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US54	1.0	0.0	0.0
+43519	54	54	0	West Virginia	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US54	1.8	0.0	0.0
+43520	54	54	0	West Virginia	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US54	1.0	0.0	0.0
+43521	54	54	0	West Virginia	334516	Analytical laboratory instrument manufacturing	33	0400000US54	3.0	0.0	0.0
+43522	54	54	0	West Virginia	334519	Other measuring and controlling device manufacturing	33	0400000US54	2.0	0.0	0.0
+43523	54	54	0	West Virginia	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US54	1.0	0.0	0.0
+43524	54	54	0	West Virginia	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US54	1.0	0.0	0.0
+43525	54	54	0	West Virginia	335311	Power, distribution, and specialty transformer manufacturing	33	0400000US54	3.5555555555555554	59.44444444444444	2385.0
+43526	54	54	0	West Virginia	335312	Motor and generator manufacturing	33	0400000US54	3.4444444444444446	114.55555555555556	5474.222222222223
+43527	54	54	0	West Virginia	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US54	2.2	0.0	0.0
+43528	54	54	0	West Virginia	335314	Relay and industrial control manufacturing	33	0400000US54	5.777777777777778	30.22222222222222	1566.2222222222222
+43529	54	54	0	West Virginia	335929	Other communication and energy wire manufacturing	33	0400000US54	1.0	0.0	0.0
+43530	54	54	0	West Virginia	335931	Current-carrying wiring device manufacturing	33	0400000US54	1.0	0.0	0.0
+43531	54	54	0	West Virginia	335932	Noncurrent-carrying wiring device manufacturing	33	0400000US54	1.6	0.0	0.0
+43532	54	54	0	West Virginia	335991	Carbon and graphite product manufacturing	33	0400000US54	1.4	0.0	0.0
+43533	54	54	0	West Virginia	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US54	1.8888888888888888	8.444444444444445	200.0
+43534	54	54	0	West Virginia	336120	Heavy duty truck manufacturing	33	0400000US54	1.0	0.0	0.0
+43535	54	54	0	West Virginia	336211	Motor vehicle body manufacturing	33	0400000US54	5.666666666666667	106.66666666666667	4589.333333333333
+43536	54	54	0	West Virginia	336212	Truck trailer manufacturing	33	0400000US54	1.4	0.0	0.0
+43537	54	54	0	West Virginia	336213	Motor home manufacturing	33	0400000US54	1.0	0.0	0.0
+43538	54	54	0	West Virginia	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US54	3.4444444444444446	0.0	0.0
+43539	54	54	0	West Virginia	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US54	3.7777777777777777	0.0	0.0
+43540	54	54	0	West Virginia	336340	Motor vehicle brake system manufacturing	33	0400000US54	2.4444444444444446	0.0	0.0
+43541	54	54	0	West Virginia	336370	Motor vehicle metal stamping	33	0400000US54	3.4444444444444446	0.0	0.0
+43542	54	54	0	West Virginia	336390	Other motor vehicle parts manufacturing	33	0400000US54	5.0	504.77777777777777	22064.0
+43543	54	54	0	West Virginia	336411	Aircraft manufacturing	33	0400000US54	1.0	0.0	0.0
+43544	54	54	0	West Virginia	336412	Aircraft engine and engine parts manufacturing	33	0400000US54	1.0	0.0	0.0
+43545	54	54	0	West Virginia	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US54	1.2	0.0	0.0
+43546	54	54	0	West Virginia	336415	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	33	0400000US54	1.0	0.0	0.0
+43547	54	54	0	West Virginia	336510	Railroad rolling stock manufacturing	33	0400000US54	3.0	123.0	3781.5555555555557
+43548	54	54	0	West Virginia	336612	Boat building	33	0400000US54	1.0	0.0	0.0
+43549	54	54	0	West Virginia	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US54	1.0	0.0	0.0
+43550	54	54	0	West Virginia	336992	Military armored vehicle, tank, and tank component manufacturing	33	0400000US54	1.0	0.0	0.0
+43551	54	54	0	West Virginia	336999	All other transportation equipment manufacturing	33	0400000US54	1.0	0.0	0.0
+43552	54	54	0	West Virginia	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US54	24.666666666666668	371.77777777777777	11782.666666666666
+43553	54	54	0	West Virginia	337121	Upholstered household furniture manufacturing	33	0400000US54	1.5	0.0	0.0
+43554	54	54	0	West Virginia	337122	Nonupholstered wood household furniture manufacturing	33	0400000US54	3.888888888888889	3.5555555555555554	28.0
+43555	54	54	0	West Virginia	337124	Metal household furniture manufacturing	33	0400000US54	1.0	0.0	0.0
+43556	54	54	0	West Virginia	337125	Household furniture (except wood and metal) manufacturing	33	0400000US54	1.0	0.0	0.0
+43557	54	54	0	West Virginia	337127	Institutional furniture manufacturing	33	0400000US54	2.0	0.0	0.0
+43558	54	54	0	West Virginia	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US54	3.888888888888889	53.111111111111114	2098.222222222222
+43559	54	54	0	West Virginia	337214	Office furniture (except wood) manufacturing	33	0400000US54	1.0	0.0	0.0
+43560	54	54	0	West Virginia	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US54	1.0	0.0	0.0
+43561	54	54	0	West Virginia	337910	Mattress manufacturing	33	0400000US54	1.8	0.0	0.0
+43562	54	54	0	West Virginia	337920	Blind and shade manufacturing	33	0400000US54	1.0	0.0	0.0
+43563	54	54	0	West Virginia	339112	Surgical and medical instrument manufacturing	33	0400000US54	1.0	0.0	0.0
+43564	54	54	0	West Virginia	339113	Surgical appliance and supplies manufacturing	33	0400000US54	13.444444444444445	755.0	40588.22222222222
+43565	54	54	0	West Virginia	339115	Ophthalmic goods manufacturing	33	0400000US54	1.4	0.0	0.0
+43566	54	54	0	West Virginia	339116	Dental laboratories	33	0400000US54	21.666666666666668	115.22222222222223	3741.5555555555557
+43567	54	54	0	West Virginia	339920	Sporting and athletic goods manufacturing	33	0400000US54	1.25	0.0	0.0
+43568	54	54	0	West Virginia	339930	Doll, toy, and game manufacturing	33	0400000US54	2.2	1.8	33.8
+43569	54	54	0	West Virginia	339940	Office supplies (except paper) manufacturing	33	0400000US54	1.0	0.0	0.0
+43570	54	54	0	West Virginia	339950	Sign manufacturing	33	0400000US54	17.333333333333332	235.55555555555554	10625.0
+43571	54	54	0	West Virginia	339991	Gasket, packing, and sealing device manufacturing	33	0400000US54	1.6	0.0	0.0
+43572	54	54	0	West Virginia	339992	Musical instrument manufacturing	33	0400000US54	1.2	0.0	0.0
+43573	54	54	0	West Virginia	339995	Burial casket manufacturing	33	0400000US54	1.0	0.0	0.0
+43574	54	54	0	West Virginia	339999	All other miscellaneous manufacturing	33	0400000US54	8.555555555555555	46.0	1775.111111111111
+43575	54	54	0	West Virginia	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US54	21.88888888888889	724.4444444444445	25038.0
+43576	54	54	0	West Virginia	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US54	50.22222222222222	647.8888888888889	29398.88888888889
+43577	54	54	0	West Virginia	423130	Tire and tube merchant wholesalers	42	0400000US54	18.22222222222222	266.22222222222223	15200.444444444445
+43578	54	54	0	West Virginia	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US54	8.777777777777779	27.555555555555557	855.7777777777778
+43579	54	54	0	West Virginia	423210	Furniture merchant wholesalers	42	0400000US54	8.555555555555555	92.0	4538.777777777777
+43580	54	54	0	West Virginia	423220	Home furnishing merchant wholesalers	42	0400000US54	10.555555555555555	118.88888888888889	6135.777777777777
+43581	54	54	0	West Virginia	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US54	28.666666666666668	249.0	14985.777777777777
+43582	54	54	0	West Virginia	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US54	21.333333333333332	106.66666666666667	4963.0
+43583	54	54	0	West Virginia	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US54	19.666666666666668	136.33333333333334	7102.111111111111
+43584	54	54	0	West Virginia	423390	Other construction material merchant wholesalers	42	0400000US54	22.444444444444443	304.0	14680.333333333334
+43585	54	54	0	West Virginia	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US54	2.6	0.0	0.0
+43586	54	54	0	West Virginia	423420	Office equipment merchant wholesalers	42	0400000US54	33.0	304.44444444444446	16524.444444444445
+43587	54	54	0	West Virginia	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US54	23.555555555555557	197.33333333333334	16111.444444444445
+43588	54	54	0	West Virginia	423440	Other commercial equipment merchant wholesalers	42	0400000US54	12.0	69.22222222222223	3177.3333333333335
+43589	54	54	0	West Virginia	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US54	25.444444444444443	331.1111111111111	22395.88888888889
+43590	54	54	0	West Virginia	423460	Ophthalmic goods merchant wholesalers	42	0400000US54	4.222222222222222	0.0	0.0
+43591	54	54	0	West Virginia	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US54	7.555555555555555	87.55555555555556	5102.333333333333
+43592	54	54	0	West Virginia	423510	Metal service centers and other metal merchant wholesalers	42	0400000US54	32.0	442.6666666666667	21319.444444444445
+43593	54	54	0	West Virginia	423520	Coal and other mineral and ore merchant wholesalers	42	0400000US54	12.555555555555555	72.22222222222223	7467.666666666667
+43594	54	54	0	West Virginia	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US54	60.0	489.6666666666667	41373.444444444445
+43595	54	54	0	West Virginia	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US54	6.0	29.0	1126.2
+43596	54	54	0	West Virginia	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US54	4.0	53.0	2614.0
+43597	54	54	0	West Virginia	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US54	23.0	160.11111111111111	9836.444444444445
+43598	54	54	0	West Virginia	423710	Hardware merchant wholesalers	42	0400000US54	13.222222222222221	424.1111111111111	19918.0
+43599	54	54	0	West Virginia	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US54	35.666666666666664	342.77777777777777	21007.222222222223
+43600	54	54	0	West Virginia	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US54	30.77777777777778	206.44444444444446	10921.666666666666
+43601	54	54	0	West Virginia	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US54	7.2	0.0	460.8
+43602	54	54	0	West Virginia	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US54	91.88888888888889	1622.2222222222222	89874.77777777778
+43603	54	54	0	West Virginia	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US54	23.666666666666668	238.0	8158.111111111111
+43604	54	54	0	West Virginia	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US54	156.55555555555554	1709.4444444444443	93622.22222222222
+43605	54	54	0	West Virginia	423840	Industrial supplies merchant wholesalers	42	0400000US54	59.0	542.4444444444445	29176.11111111111
+43606	54	54	0	West Virginia	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US54	24.22222222222222	224.0	9408.666666666666
+43607	54	54	0	West Virginia	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US54	1.8	0.0	0.0
+43608	54	54	0	West Virginia	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US54	11.777777777777779	33.77777777777778	1078.0
+43609	54	54	0	West Virginia	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US54	3.7777777777777777	4.777777777777778	243.0
+43610	54	54	0	West Virginia	423930	Recyclable material merchant wholesalers	42	0400000US54	67.0	576.6666666666666	19601.444444444445
+43611	54	54	0	West Virginia	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US54	5.222222222222222	6.555555555555555	143.22222222222223
+43612	54	54	0	West Virginia	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US54	27.444444444444443	221.11111111111111	10272.666666666666
+43613	54	54	0	West Virginia	424110	Printing and writing paper merchant wholesalers	42	0400000US54	1.2	0.0	0.0
+43614	54	54	0	West Virginia	424120	Stationery and office supplies merchant wholesalers	42	0400000US54	18.555555555555557	132.88888888888889	4777.111111111111
+43615	54	54	0	West Virginia	424130	Industrial and personal service paper merchant wholesalers	42	0400000US54	11.222222222222221	162.66666666666666	8197.777777777777
+43616	54	54	0	West Virginia	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US54	34.111111111111114	628.7777777777778	55662.11111111111
+43617	54	54	0	West Virginia	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US54	1.8	0.0	0.0
+43618	54	54	0	West Virginia	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US54	6.444444444444445	48.111111111111114	1319.6666666666667
+43619	54	54	0	West Virginia	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US54	3.2222222222222223	13.333333333333334	241.55555555555554
+43620	54	54	0	West Virginia	424340	Footwear merchant wholesalers	42	0400000US54	1.4	0.0	0.0
+43621	54	54	0	West Virginia	424410	General line grocery merchant wholesalers	42	0400000US54	5.555555555555555	104.0	7942.777777777777
+43622	54	54	0	West Virginia	424420	Packaged frozen food merchant wholesalers	42	0400000US54	7.888888888888889	28.666666666666668	907.4444444444445
+43623	54	54	0	West Virginia	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US54	3.8	15.6	407.0
+43624	54	54	0	West Virginia	424440	Poultry and poultry product merchant wholesalers	42	0400000US54	1.0	0.0	0.0
+43625	54	54	0	West Virginia	424450	Confectionery merchant wholesalers	42	0400000US54	18.88888888888889	190.88888888888889	9595.777777777777
+43626	54	54	0	West Virginia	424460	Fish and seafood merchant wholesalers	42	0400000US54	1.0	0.0	0.0
+43627	54	54	0	West Virginia	424470	Meat and meat product merchant wholesalers	42	0400000US54	5.888888888888889	137.55555555555554	4491.111111111111
+43628	54	54	0	West Virginia	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US54	7.888888888888889	66.88888888888889	2137.8888888888887
+43629	54	54	0	West Virginia	424490	Other grocery and related products merchant wholesalers	42	0400000US54	54.888888888888886	885.4444444444445	41032.22222222222
+43630	54	54	0	West Virginia	424510	Grain and field bean merchant wholesalers	42	0400000US54	1.0	0.0	0.0
+43631	54	54	0	West Virginia	424520	Livestock merchant wholesalers	42	0400000US54	5.444444444444445	18.666666666666668	288.8888888888889
+43632	54	54	0	West Virginia	424590	Other farm product raw material merchant wholesalers	42	0400000US54	1.0	0.0	0.0
+43633	54	54	0	West Virginia	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US54	7.777777777777778	39.333333333333336	2748.5555555555557
+43634	54	54	0	West Virginia	424690	Other chemical and allied products merchant wholesalers	42	0400000US54	59.0	657.5555555555555	36095.88888888889
+43635	54	54	0	West Virginia	424710	Petroleum bulk stations and terminals	42	0400000US54	42.0	1155.8	51137.0
+43636	54	54	0	West Virginia	424710	Petroleum bulk stations and terminals 	42	0400000US54	36.0	758.0	41300.0
+43637	54	54	0	West Virginia	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US54	12.4	106.4	4150.6
+43638	54	54	0	West Virginia	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US54	11.0	76.0	3097.0
+43639	54	54	0	West Virginia	424810	Beer and ale merchant wholesalers	42	0400000US54	29.333333333333332	745.1111111111111	37365.0
+43640	54	54	0	West Virginia	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US54	11.333333333333334	185.55555555555554	6607.0
+43641	54	54	0	West Virginia	424910	Farm supplies merchant wholesalers	42	0400000US54	9.11111111111111	28.555555555555557	984.6666666666666
+43642	54	54	0	West Virginia	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US54	1.0	0.0	0.0
+43643	54	54	0	West Virginia	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US54	13.0	74.77777777777777	2214.1111111111113
+43644	54	54	0	West Virginia	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US54	11.11111111111111	433.6666666666667	16114.777777777777
+43645	54	54	0	West Virginia	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US54	8.88888888888889	45.44444444444444	2763.6666666666665
+43646	54	54	0	West Virginia	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US54	15.11111111111111	75.77777777777777	3765.6666666666665
+43647	54	54	0	West Virginia	425110	Business to business electronic markets	42	0400000US54	1.0	0.0	0.0
+43648	54	54	0	West Virginia	425120	Wholesale trade agents and brokers	42	0400000US54	62.44444444444444	650.2222222222222	24763.333333333332
+43649	54	54	0	West Virginia	441110	New car dealers	44	0400000US54	163.66666666666666	6245.222222222223	263682.3333333333
+43650	54	54	0	West Virginia	441120	Used car dealers	44	0400000US54	159.77777777777777	653.1111111111111	21612.777777777777
+43651	54	54	0	West Virginia	441210	Recreational vehicle dealers	44	0400000US54	18.666666666666668	152.88888888888889	6686.888888888889
+43652	54	54	0	West Virginia	441222	Boat dealers	44	0400000US54	11.0	75.77777777777777	2614.777777777778
+43653	54	54	0	West Virginia	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US54	58.333333333333336	678.3333333333334	20879.777777777777
+43654	54	54	0	West Virginia	441310	Automotive parts and accessories stores	44	0400000US54	304.77777777777777	2576.4444444444443	57568.88888888889
+43655	54	54	0	West Virginia	441320	Tire dealers	44	0400000US54	143.11111111111111	1233.888888888889	40059.333333333336
+43656	54	54	0	West Virginia	442110	Furniture stores	44	0400000US54	125.77777777777777	969.4444444444445	29615.333333333332
+43657	54	54	0	West Virginia	442210	Floor covering stores	44	0400000US54	69.44444444444444	352.3333333333333	11697.888888888889
+43658	54	54	0	West Virginia	442291	Window treatment stores	44	0400000US54	2.4	4.4	89.6
+43659	54	54	0	West Virginia	442299	All other home furnishings stores	44	0400000US54	48.77777777777778	363.44444444444446	5371.222222222223
+43660	54	54	0	West Virginia	443141	Household appliance stores	44	0400000US54	37.55555555555556	228.33333333333334	5210.0
+43661	54	54	0	West Virginia	443142	Electronics stores	44	0400000US54	126.77777777777777	923.7777777777778	17540.777777777777
+43662	54	54	0	West Virginia	444110	Home centers	44	0400000US54	61.333333333333336	2646.6666666666665	67675.66666666667
+43663	54	54	0	West Virginia	444120	Paint and wallpaper stores	44	0400000US54	25.666666666666668	74.0	2219.5555555555557
+43664	54	54	0	West Virginia	444130	Hardware stores	44	0400000US54	99.88888888888889	722.4444444444445	16517.666666666668
+43665	54	54	0	West Virginia	444190	Other building material dealers	44	0400000US54	180.33333333333334	1597.3333333333333	59237.444444444445
+43666	54	54	0	West Virginia	444210	Outdoor power equipment stores	44	0400000US54	28.11111111111111	237.22222222222223	7480.111111111111
+43667	54	54	0	West Virginia	444220	Nursery, garden center, and farm supply stores	44	0400000US54	103.55555555555556	764.2222222222222	19592.333333333332
+43668	54	54	0	West Virginia	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US54	336.6666666666667	11253.111111111111	225404.44444444444
+43669	54	54	0	West Virginia	445120	Convenience stores	44	0400000US54	110.33333333333333	502.55555555555554	7509.0
+43670	54	54	0	West Virginia	445210	Meat markets	44	0400000US54	9.88888888888889	72.11111111111111	1022.8888888888889
+43671	54	54	0	West Virginia	445220	Fish and seafood markets	44	0400000US54	2.888888888888889	24.444444444444443	517.7777777777778
+43672	54	54	0	West Virginia	445230	Fruit and vegetable markets	44	0400000US54	16.77777777777778	135.66666666666666	2046.888888888889
+43673	54	54	0	West Virginia	445291	Baked goods stores	44	0400000US54	3.6666666666666665	36.333333333333336	708.5555555555555
+43674	54	54	0	West Virginia	445292	Confectionery and nut stores	44	0400000US54	7.555555555555555	31.88888888888889	447.8888888888889
+43675	54	54	0	West Virginia	445299	All other specialty food stores	44	0400000US54	16.11111111111111	49.44444444444444	834.3333333333334
+43676	54	54	0	West Virginia	445310	Beer, wine, and liquor stores	44	0400000US54	65.33333333333333	350.3333333333333	6651.888888888889
+43677	54	54	0	West Virginia	446110	Pharmacies and drug stores	44	0400000US54	404.0	5117.444444444444	186304.0
+43678	54	54	0	West Virginia	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US54	43.888888888888886	371.6666666666667	7461.222222222223
+43679	54	54	0	West Virginia	446130	Optical goods stores	44	0400000US54	53.22222222222222	308.3333333333333	7961.222222222223
+43680	54	54	0	West Virginia	446191	Food (health) supplement stores	44	0400000US54	39.55555555555556	111.44444444444444	2475.8888888888887
+43681	54	54	0	West Virginia	446199	All other health and personal care stores	44	0400000US54	77.77777777777777	468.1111111111111	17146.333333333332
+43682	54	54	0	West Virginia	447110	Gasoline stations with convenience stores	44	0400000US54	887.2222222222222	9095.333333333334	159216.22222222222
+43683	54	54	0	West Virginia	447190	Other gasoline stations	44	0400000US54	74.0	817.5555555555555	17752.0
+43684	54	54	0	West Virginia	448110	Men's clothing stores	44	0400000US54	19.88888888888889	104.88888888888889	2897.0
+43685	54	54	0	West Virginia	448120	Women's clothing stores	44	0400000US54	138.11111111111111	1127.4444444444443	12122.111111111111
+43686	54	54	0	West Virginia	448130	Children's and infants' clothing stores	44	0400000US54	24.88888888888889	182.66666666666666	2789.8888888888887
+43687	54	54	0	West Virginia	448140	Family clothing stores	44	0400000US54	92.44444444444444	2146.5555555555557	25326.666666666668
+43688	54	54	0	West Virginia	448150	Clothing accessories stores	44	0400000US54	20.444444444444443	88.44444444444444	1492.888888888889
+43689	54	54	0	West Virginia	448190	Other clothing stores	44	0400000US54	40.333333333333336	322.0	4979.555555555556
+43690	54	54	0	West Virginia	448210	Shoe stores	44	0400000US54	105.66666666666667	832.7777777777778	12797.666666666666
+43691	54	54	0	West Virginia	448310	Jewelry stores	44	0400000US54	87.33333333333333	490.8888888888889	13134.111111111111
+43692	54	54	0	West Virginia	448320	Luggage and leather goods stores	44	0400000US54	2.4	1.2	41.0
+43693	54	54	0	West Virginia	451110	Sporting goods stores	45	0400000US54	116.0	1394.888888888889	26521.444444444445
+43694	54	54	0	West Virginia	451120	Hobby, toy, and game stores	45	0400000US54	43.888888888888886	726.2222222222222	9963.333333333334
+43695	54	54	0	West Virginia	451130	Sewing, needlework, and piece goods stores	45	0400000US54	19.11111111111111	120.88888888888889	1400.111111111111
+43696	54	54	0	West Virginia	451140	Musical instrument and supplies stores	45	0400000US54	20.22222222222222	121.44444444444444	2800.5555555555557
+43697	54	54	0	West Virginia	451211	Book stores	45	0400000US54	54.77777777777778	394.6666666666667	7229.555555555556
+43698	54	54	0	West Virginia	451212	News dealers and newsstands	45	0400000US54	2.2	0.0	14.0
+43699	54	54	0	West Virginia	452111	Department stores (except discount department stores)	45	0400000US54	29.6	837.6	36546.8
+43700	54	54	0	West Virginia	452112	Discount department stores	45	0400000US54	28.4	2600.4	43406.8
+43701	54	54	0	West Virginia	452210	Department stores	45	0400000US54	33.0	2352.0	39579.0
+43702	54	54	0	West Virginia	452311	Warehouse clubs and supercenters	45	0400000US54	60.0	0.0	0.0
+43703	54	54	0	West Virginia	452319	All other general merchandise stores	45	0400000US54	464.0	3846.0	66749.0
+43704	54	54	0	West Virginia	452910	Warehouse clubs and supercenters	45	0400000US54	44.2	0.0	0.0
+43705	54	54	0	West Virginia	452990	All other general merchandise stores	45	0400000US54	427.4	3263.6	56092.0
+43706	54	54	0	West Virginia	453110	Florists	45	0400000US54	126.22222222222223	499.55555555555554	7280.666666666667
+43707	54	54	0	West Virginia	453210	Office supplies and stationery stores	45	0400000US54	24.22222222222222	284.8888888888889	5840.888888888889
+43708	54	54	0	West Virginia	453220	Gift, novelty, and souvenir stores	45	0400000US54	123.44444444444444	615.7777777777778	7498.333333333333
+43709	54	54	0	West Virginia	453310	Used merchandise stores	45	0400000US54	99.44444444444444	685.6666666666666	9390.888888888889
+43710	54	54	0	West Virginia	453910	Pet and pet supplies stores	45	0400000US54	27.666666666666668	209.66666666666666	3849.6666666666665
+43711	54	54	0	West Virginia	453920	Art dealers	45	0400000US54	10.222222222222221	12.88888888888889	264.6666666666667
+43712	54	54	0	West Virginia	453930	Manufactured (mobile) home dealers	45	0400000US54	38.22222222222222	266.0	11353.555555555555
+43713	54	54	0	West Virginia	453991	Tobacco stores	45	0400000US54	108.11111111111111	569.3333333333334	11666.888888888889
+43714	54	54	0	West Virginia	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US54	97.88888888888889	353.55555555555554	8478.333333333334
+43715	54	54	0	West Virginia	454110	Electronic shopping and mail-order houses	45	0400000US54	63.0	440.0	15586.0
+43716	54	54	0	West Virginia	454111	Electronic shopping	45	0400000US54	43.2	151.4	3618.4
+43717	54	54	0	West Virginia	454112	Electronic auctions	45	0400000US54	1.0	0.0	0.0
+43718	54	54	0	West Virginia	454113	Mail-order houses	45	0400000US54	14.4	390.4	15101.6
+43719	54	54	0	West Virginia	454210	Vending machine operators	45	0400000US54	19.0	224.44444444444446	5220.111111111111
+43720	54	54	0	West Virginia	454310	Fuel dealers	45	0400000US54	38.666666666666664	248.11111111111111	9824.888888888889
+43721	54	54	0	West Virginia	454390	Other direct selling establishments	45	0400000US54	83.33333333333333	340.77777777777777	10548.0
+43722	54	54	0	West Virginia	481111	Scheduled passenger air transportation	48	0400000US54	5.888888888888889	39.333333333333336	1412.7777777777778
+43723	54	54	0	West Virginia	481112	Scheduled freight air transportation	48	0400000US54	2.0	0.0	0.0
+43724	54	54	0	West Virginia	481211	Nonscheduled chartered passenger air transportation	48	0400000US54	1.2	0.0	0.0
+43725	54	54	0	West Virginia	481212	Nonscheduled chartered freight air transportation	48	0400000US54	1.0	0.0	0.0
+43726	54	54	0	West Virginia	481219	Other nonscheduled air transportation	48	0400000US54	1.0	0.0	0.0
+43727	54	54	0	West Virginia	483211	Inland water freight transportation	48	0400000US54	4.0	0.0	0.0
+43728	54	54	0	West Virginia	484110	General freight trucking, local	48	0400000US54	145.22222222222223	1010.7777777777778	39423.444444444445
+43729	54	54	0	West Virginia	484121	General freight trucking, long-distance, truckload	48	0400000US54	112.33333333333333	838.0	32146.88888888889
+43730	54	54	0	West Virginia	484122	General freight trucking, long-distance, less than truckload	48	0400000US54	35.0	670.5555555555555	38318.22222222222
+43731	54	54	0	West Virginia	484210	Used household and office goods moving	48	0400000US54	14.444444444444445	110.11111111111111	3601.1111111111113
+43732	54	54	0	West Virginia	484220	Specialized freight (except used goods) trucking, local	48	0400000US54	412.6666666666667	2951.4444444444443	125044.44444444444
+43733	54	54	0	West Virginia	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US54	53.55555555555556	593.5555555555555	32575.333333333332
+43734	54	54	0	West Virginia	485113	Bus and other motor vehicle transit systems	48	0400000US54	4.0	19.0	642.4
+43735	54	54	0	West Virginia	485210	Interurban and rural bus transportation	48	0400000US54	1.0	0.0	0.0
+43736	54	54	0	West Virginia	485310	Taxi service	48	0400000US54	12.0	136.33333333333334	1988.2222222222222
+43737	54	54	0	West Virginia	485320	Limousine service	48	0400000US54	8.666666666666666	30.555555555555557	402.55555555555554
+43738	54	54	0	West Virginia	485410	School and employee bus transportation	48	0400000US54	2.6	0.0	0.0
+43739	54	54	0	West Virginia	485510	Charter bus industry	48	0400000US54	3.7777777777777777	7.666666666666667	149.0
+43740	54	54	0	West Virginia	485991	Special needs transportation	48	0400000US54	5.222222222222222	52.666666666666664	1004.6666666666666
+43741	54	54	0	West Virginia	485999	All other transit and ground passenger transportation	48	0400000US54	3.3333333333333335	44.888888888888886	752.1111111111111
+43742	54	54	0	West Virginia	486110	Pipeline transportation of crude oil	48	0400000US54	6.111111111111111	30.22222222222222	2005.7777777777778
+43743	54	54	0	West Virginia	486210	Pipeline transportation of natural gas	48	0400000US54	75.66666666666667	218.22222222222223	23166.444444444445
+43744	54	54	0	West Virginia	487110	Scenic and sightseeing transportation, land	48	0400000US54	4.333333333333333	32.0	883.3333333333334
+43745	54	54	0	West Virginia	487210	Scenic and sightseeing transportation, water	48	0400000US54	1.0	0.0	0.0
+43746	54	54	0	West Virginia	487990	Scenic and sightseeing transportation, other	48	0400000US54	1.0	0.0	0.0
+43747	54	54	0	West Virginia	488111	Air traffic control	48	0400000US54	5.0	0.0	0.0
+43748	54	54	0	West Virginia	488119	Other airport operations	48	0400000US54	4.555555555555555	38.666666666666664	1657.111111111111
+43749	54	54	0	West Virginia	488190	Other support activities for air transportation	48	0400000US54	12.0	285.8888888888889	18897.0
+43750	54	54	0	West Virginia	488210	Support activities for rail transportation	48	0400000US54	11.666666666666666	144.11111111111111	6424.0
+43751	54	54	0	West Virginia	488310	Port and harbor operations	48	0400000US54	4.222222222222222	21.11111111111111	1046.888888888889
+43752	54	54	0	West Virginia	488320	Marine cargo handling	48	0400000US54	2.3333333333333335	2.3333333333333335	98.88888888888889
+43753	54	54	0	West Virginia	488330	Navigational services to shipping	48	0400000US54	1.2	0.0	0.0
+43754	54	54	0	West Virginia	488390	Other support activities for water transportation	48	0400000US54	2.5	0.0	0.0
+43755	54	54	0	West Virginia	488410	Motor vehicle towing	48	0400000US54	84.77777777777777	438.3333333333333	12100.777777777777
+43756	54	54	0	West Virginia	488490	Other support activities for road transportation	48	0400000US54	13.666666666666666	39.44444444444444	2365.222222222222
+43757	54	54	0	West Virginia	488510	Freight transportation arrangement	48	0400000US54	23.88888888888889	199.55555555555554	10284.666666666666
+43758	54	54	0	West Virginia	488991	Packing and crating	48	0400000US54	3.4444444444444446	13.11111111111111	384.77777777777777
+43759	54	54	0	West Virginia	488999	All other support activities for transportation	48	0400000US54	1.3333333333333333	0.0	0.0
+43760	54	54	0	West Virginia	492110	Couriers and express delivery services	49	0400000US54	50.44444444444444	2041.4444444444443	89670.77777777778
+43761	54	54	0	West Virginia	492210	Local messengers and local delivery	49	0400000US54	12.88888888888889	55.333333333333336	1890.888888888889
+43762	54	54	0	West Virginia	493110	General warehousing and storage	49	0400000US54	33.22222222222222	2108.4444444444443	77893.44444444444
+43763	54	54	0	West Virginia	493120	Refrigerated warehousing and storage	49	0400000US54	3.0	4.555555555555555	168.55555555555554
+43764	54	54	0	West Virginia	493130	Farm product warehousing and storage	49	0400000US54	1.0	0.0	0.0
+43765	54	54	0	West Virginia	493190	Other warehousing and storage	49	0400000US54	12.333333333333334	376.44444444444446	13565.0
+43766	54	54	0	West Virginia	511110	Newspaper publishers	51	0400000US54	56.888888888888886	1640.6666666666667	45158.22222222222
+43767	54	54	0	West Virginia	511120	Periodical publishers	51	0400000US54	22.444444444444443	181.88888888888889	4959.333333333333
+43768	54	54	0	West Virginia	511130	Book publishers	51	0400000US54	3.4444444444444446	6.222222222222222	184.22222222222223
+43769	54	54	0	West Virginia	511140	Directory and mailing list publishers	51	0400000US54	4.111111111111111	6.555555555555555	415.8888888888889
+43770	54	54	0	West Virginia	511199	All other publishers	51	0400000US54	1.0	0.0	0.0
+43771	54	54	0	West Virginia	511210	Software publishers	51	0400000US54	14.88888888888889	96.88888888888889	9503.333333333334
+43772	54	54	0	West Virginia	512110	Motion picture and video production	51	0400000US54	10.444444444444445	19.88888888888889	1248.2222222222222
+43773	54	54	0	West Virginia	512131	Motion picture theaters (except drive-ins)	51	0400000US54	27.0	503.8888888888889	5522.111111111111
+43774	54	54	0	West Virginia	512132	Drive-in motion picture theaters	51	0400000US54	3.8	0.4	8.4
+43775	54	54	0	West Virginia	512191	Teleproduction and other postproduction services	51	0400000US54	1.4	0.0	0.0
+43776	54	54	0	West Virginia	512240	Sound recording studios	51	0400000US54	1.2	0.0	0.0
+43777	54	54	0	West Virginia	515111	Radio networks	51	0400000US54	1.0	0.0	0.0
+43778	54	54	0	West Virginia	515112	Radio stations	51	0400000US54	50.55555555555556	657.2222222222222	23629.777777777777
+43779	54	54	0	West Virginia	515120	Television broadcasting	51	0400000US54	15.666666666666666	604.2222222222222	27582.88888888889
+43780	54	54	0	West Virginia	517110	Wired telecommunications carriers	51	0400000US54	287.2	4499.2	261477.4
+43781	54	54	0	West Virginia	517210	Wireless telecommunications carriers (except satellite)	51	0400000US54	80.2	379.2	41988.8
+43782	54	54	0	West Virginia	517311	Wired telecommunications carriers	51	0400000US54	289.0	4025.0	227754.0
+43783	54	54	0	West Virginia	517312	Wireless telecommunications carriers (except satellite)	51	0400000US54	110.0	1053.0	51341.0
+43784	54	54	0	West Virginia	517911	Telecommunications resellers	51	0400000US54	9.444444444444445	57.333333333333336	2027.111111111111
+43785	54	54	0	West Virginia	517919	All other telecommunications	51	0400000US54	6.888888888888889	75.66666666666667	4285.333333333333
+43786	54	54	0	West Virginia	518210	Data processing, hosting, and related services	51	0400000US54	37.333333333333336	1169.5555555555557	67978.11111111111
+43787	54	54	0	West Virginia	519110	News syndicates	51	0400000US54	1.6	0.0	0.0
+43788	54	54	0	West Virginia	519120	Libraries and archives	51	0400000US54	8.11111111111111	34.0	958.6666666666666
+43789	54	54	0	West Virginia	519130	Internet publishing and broadcasting and web search portals	51	0400000US54	8.222222222222221	10.0	527.0
+43790	54	54	0	West Virginia	519190	All other information services	51	0400000US54	3.4	1.8	78.6
+43791	54	54	0	West Virginia	522110	Commercial banking	52	0400000US54	680.7777777777778	8436.0	365339.6666666667
+43792	54	54	0	West Virginia	522120	Savings institutions	52	0400000US54	14.88888888888889	213.11111111111111	7415.333333333333
+43793	54	54	0	West Virginia	522130	Credit unions	52	0400000US54	138.44444444444446	1126.2222222222222	40075.22222222222
+43794	54	54	0	West Virginia	522190	Other depository credit intermediation	52	0400000US54	1.0	0.0	0.0
+43795	54	54	0	West Virginia	522210	Credit card issuing	52	0400000US54	1.3333333333333333	0.0	0.0
+43796	54	54	0	West Virginia	522220	Sales financing	52	0400000US54	7.666666666666667	19.333333333333332	1176.111111111111
+43797	54	54	0	West Virginia	522291	Consumer lending	52	0400000US54	31.333333333333332	138.55555555555554	6790.888888888889
+43798	54	54	0	West Virginia	522292	Real estate credit	52	0400000US54	50.55555555555556	238.77777777777777	14996.444444444445
+43799	54	54	0	West Virginia	522298	All other nondepository credit intermediation	52	0400000US54	73.11111111111111	375.1111111111111	11382.0
+43800	54	54	0	West Virginia	522310	Mortgage and nonmortgage loan brokers	52	0400000US54	8.0	20.666666666666668	809.6666666666666
+43801	54	54	0	West Virginia	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US54	7.666666666666667	35.44444444444444	2550.8888888888887
+43802	54	54	0	West Virginia	522390	Other activities related to credit intermediation	52	0400000US54	4.888888888888889	23.88888888888889	1556.5555555555557
+43803	54	54	0	West Virginia	523110	Investment banking and securities dealing	52	0400000US54	6.111111111111111	6.222222222222222	2254.4444444444443
+43804	54	54	0	West Virginia	523120	Securities brokerage	52	0400000US54	97.22222222222223	279.3333333333333	46093.666666666664
+43805	54	54	0	West Virginia	523130	Commodity contracts dealing	52	0400000US54	1.0	0.0	0.0
+43806	54	54	0	West Virginia	523140	Commodity contracts brokerage	52	0400000US54	1.2	0.0	0.0
+43807	54	54	0	West Virginia	523910	Miscellaneous intermediation	52	0400000US54	21.666666666666668	66.55555555555556	8255.777777777777
+43808	54	54	0	West Virginia	523920	Portfolio management	52	0400000US54	68.66666666666667	279.6666666666667	25660.777777777777
+43809	54	54	0	West Virginia	523930	Investment advice	52	0400000US54	31.0	115.11111111111111	9317.111111111111
+43810	54	54	0	West Virginia	523991	Trust, fiduciary, and custody activities	52	0400000US54	6.777777777777778	46.0	2350.4444444444443
+43811	54	54	0	West Virginia	523999	Miscellaneous financial investment activities	52	0400000US54	3.2	4.0	360.6
+43812	54	54	0	West Virginia	524113	Direct life insurance carriers	52	0400000US54	43.111111111111114	322.1111111111111	20813.444444444445
+43813	54	54	0	West Virginia	524114	Direct health and medical insurance carriers	52	0400000US54	29.88888888888889	956.3333333333334	55305.77777777778
+43814	54	54	0	West Virginia	524126	Direct property and casualty insurance carriers	52	0400000US54	48.44444444444444	544.5555555555555	46728.0
+43815	54	54	0	West Virginia	524127	Direct title insurance carriers	52	0400000US54	3.8	7.0	456.2
+43816	54	54	0	West Virginia	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US54	1.8	0.0	0.0
+43817	54	54	0	West Virginia	524130	Reinsurance carriers	52	0400000US54	1.0	0.0	0.0
+43818	54	54	0	West Virginia	524210	Insurance agencies and brokerages	52	0400000US54	693.6666666666666	2792.5555555555557	129930.44444444444
+43819	54	54	0	West Virginia	524291	Claims adjusting	52	0400000US54	13.666666666666666	36.888888888888886	2530.0
+43820	54	54	0	West Virginia	524292	Third party administration of insurance and pension funds	52	0400000US54	15.333333333333334	528.4444444444445	20796.777777777777
+43821	54	54	0	West Virginia	524298	All other insurance related activities	52	0400000US54	5.666666666666667	5.888888888888889	237.11111111111111
+43822	54	54	0	West Virginia	525990	Other financial vehicles	52	0400000US54	1.5	0.0	0.0
+43823	54	54	0	West Virginia	531110	Lessors of residential buildings and dwellings	53	0400000US54	382.77777777777777	1150.111111111111	29433.222222222223
+43824	54	54	0	West Virginia	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US54	184.88888888888889	701.2222222222222	24128.777777777777
+43825	54	54	0	West Virginia	531130	Lessors of miniwarehouses and self-storage units	53	0400000US54	48.55555555555556	88.33333333333333	1794.0
+43826	54	54	0	West Virginia	531190	Lessors of other real estate property	53	0400000US54	67.88888888888889	191.88888888888889	18796.222222222223
+43827	54	54	0	West Virginia	531210	Offices of real estate agents and brokers	53	0400000US54	199.22222222222223	505.44444444444446	20411.11111111111
+43828	54	54	0	West Virginia	531311	Residential property managers	53	0400000US54	90.22222222222223	585.2222222222222	16269.111111111111
+43829	54	54	0	West Virginia	531312	Nonresidential property managers	53	0400000US54	38.888888888888886	168.88888888888889	7520.444444444444
+43830	54	54	0	West Virginia	531320	Offices of real estate appraisers	53	0400000US54	52.44444444444444	101.33333333333333	4057.0
+43831	54	54	0	West Virginia	531390	Other activities related to real estate	53	0400000US54	21.555555555555557	11.88888888888889	1361.5555555555557
+43832	54	54	0	West Virginia	532111	Passenger car rental	53	0400000US54	52.55555555555556	228.55555555555554	5566.777777777777
+43833	54	54	0	West Virginia	532112	Passenger car leasing	53	0400000US54	1.0	0.0	0.0
+43834	54	54	0	West Virginia	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US54	27.0	187.0	7260.111111111111
+43835	54	54	0	West Virginia	532210	Consumer electronics and appliances rental	53	0400000US54	56.666666666666664	205.33333333333334	7463.555555555556
+43836	54	54	0	West Virginia	532220	Formal wear and costume rental	53	0400000US54	4.4	9.8	55.4
+43837	54	54	0	West Virginia	532230	Video tape and disc rental	53	0400000US54	16.4	23.6	1400.6
+43838	54	54	0	West Virginia	532282	Video tape and disc rental	53	0400000US54	4.0	0.0	0.0
+43839	54	54	0	West Virginia	532283	Home health equipment rental	53	0400000US54	45.0	326.0	11644.0
+43840	54	54	0	West Virginia	532284	Recreational goods rental	53	0400000US54	7.0	37.0	479.0
+43841	54	54	0	West Virginia	532289	All other consumer goods rental	53	0400000US54	6.0	52.0	1540.0
+43842	54	54	0	West Virginia	532291	Home health equipment rental	53	0400000US54	49.6	382.8	13470.6
+43843	54	54	0	West Virginia	532292	Recreational goods rental	53	0400000US54	5.4	7.8	206.4
+43844	54	54	0	West Virginia	532299	All other consumer goods rental	53	0400000US54	18.6	72.2	3602.2
+43845	54	54	0	West Virginia	532310	General rental centers	53	0400000US54	20.77777777777778	152.11111111111111	6050.888888888889
+43846	54	54	0	West Virginia	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US54	1.0	0.0	0.0
+43847	54	54	0	West Virginia	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US54	20.666666666666668	190.22222222222223	12262.888888888889
+43848	54	54	0	West Virginia	532420	Office machinery and equipment rental and leasing	53	0400000US54	1.0	0.0	0.0
+43849	54	54	0	West Virginia	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US54	42.22222222222222	437.8888888888889	24919.777777777777
+43850	54	54	0	West Virginia	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US54	13.11111111111111	132.88888888888889	13613.111111111111
+43851	54	54	0	West Virginia	541110	Offices of lawyers	54	0400000US54	903.1111111111111	5652.111111111111	329249.3333333333
+43852	54	54	0	West Virginia	541191	Title abstract and settlement offices	54	0400000US54	40.666666666666664	126.44444444444444	6180.888888888889
+43853	54	54	0	West Virginia	541199	All other legal services	54	0400000US54	4.333333333333333	0.0	81.0
+43854	54	54	0	West Virginia	541211	Offices of certified public accountants	54	0400000US54	247.33333333333334	1629.0	77406.77777777778
+43855	54	54	0	West Virginia	541213	Tax preparation services	54	0400000US54	123.55555555555556	1180.6666666666667	9327.0
+43856	54	54	0	West Virginia	541214	Payroll services	54	0400000US54	20.22222222222222	382.6666666666667	11471.888888888889
+43857	54	54	0	West Virginia	541219	Other accounting services	54	0400000US54	143.55555555555554	834.0	23610.0
+43858	54	54	0	West Virginia	541310	Architectural services	54	0400000US54	33.333333333333336	241.66666666666666	15204.111111111111
+43859	54	54	0	West Virginia	541320	Landscape architectural services	54	0400000US54	4.555555555555555	22.444444444444443	990.3333333333334
+43860	54	54	0	West Virginia	541330	Engineering services	54	0400000US54	212.55555555555554	2815.777777777778	197569.66666666666
+43861	54	54	0	West Virginia	541340	Drafting services	54	0400000US54	8.444444444444445	28.444444444444443	1949.4444444444443
+43862	54	54	0	West Virginia	541350	Building inspection services	54	0400000US54	14.666666666666666	36.666666666666664	2496.1111111111113
+43863	54	54	0	West Virginia	541360	Geophysical surveying and mapping services	54	0400000US54	3.6	1.0	34.6
+43864	54	54	0	West Virginia	541370	Surveying and mapping (except geophysical) services	54	0400000US54	72.33333333333333	308.0	11816.555555555555
+43865	54	54	0	West Virginia	541380	Testing laboratories	54	0400000US54	45.44444444444444	656.6666666666666	27464.555555555555
+43866	54	54	0	West Virginia	541410	Interior design services	54	0400000US54	17.77777777777778	39.666666666666664	1978.3333333333333
+43867	54	54	0	West Virginia	541420	Industrial design services	54	0400000US54	1.0	0.0	0.0
+43868	54	54	0	West Virginia	541430	Graphic design services	54	0400000US54	23.666666666666668	48.44444444444444	1147.4444444444443
+43869	54	54	0	West Virginia	541490	Other specialized design services	54	0400000US54	1.0	0.0	0.0
+43870	54	54	0	West Virginia	541511	Custom computer programming services	54	0400000US54	92.22222222222223	813.4444444444445	59680.333333333336
+43871	54	54	0	West Virginia	541512	Computer systems design services	54	0400000US54	142.33333333333334	1195.3333333333333	71358.0
+43872	54	54	0	West Virginia	541513	Computer facilities management services	54	0400000US54	30.88888888888889	305.1111111111111	20051.88888888889
+43873	54	54	0	West Virginia	541519	Other computer related services	54	0400000US54	13.444444444444445	204.44444444444446	18633.333333333332
+43874	54	54	0	West Virginia	541611	Administrative management and general management consulting services	54	0400000US54	137.0	930.0	65737.66666666667
+43875	54	54	0	West Virginia	541612	Human resources consulting services	54	0400000US54	19.444444444444443	1269.0	54735.666666666664
+43876	54	54	0	West Virginia	541613	Marketing consulting services	54	0400000US54	43.333333333333336	109.88888888888889	4037.6666666666665
+43877	54	54	0	West Virginia	541614	Process, physical distribution, and logistics consulting services	54	0400000US54	13.222222222222221	166.77777777777777	6047.0
+43878	54	54	0	West Virginia	541618	Other management consulting services	54	0400000US54	3.0	4.75	282.5
+43879	54	54	0	West Virginia	541620	Environmental consulting services	54	0400000US54	40.44444444444444	593.5555555555555	28874.11111111111
+43880	54	54	0	West Virginia	541690	Other scientific and technical consulting services	54	0400000US54	56.77777777777778	200.44444444444446	10450.666666666666
+43881	54	54	0	West Virginia	541711	Research and development in biotechnology	54	0400000US54	3.4	12.6	950.0
+43882	54	54	0	West Virginia	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US54	41.4	1263.6	76252.4
+43883	54	54	0	West Virginia	541713	Research and development in nanotechnology	54	0400000US54	7.0	171.0	8734.0
+43884	54	54	0	West Virginia	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US54	34.0	1052.0	59007.0
+43885	54	54	0	West Virginia	541720	Research and development in the social sciences and humanities	54	0400000US54	7.111111111111111	392.0	12634.444444444445
+43886	54	54	0	West Virginia	541810	Advertising agencies	54	0400000US54	30.77777777777778	136.77777777777777	5976.666666666667
+43887	54	54	0	West Virginia	541820	Public relations agencies	54	0400000US54	12.777777777777779	52.111111111111114	3394.8888888888887
+43888	54	54	0	West Virginia	541830	Media buying agencies	54	0400000US54	1.3333333333333333	0.0	0.0
+43889	54	54	0	West Virginia	541840	Media representatives	54	0400000US54	3.888888888888889	8.666666666666666	321.55555555555554
+43890	54	54	0	West Virginia	541850	Outdoor advertising	54	0400000US54	15.444444444444445	76.11111111111111	4314.555555555556
+43891	54	54	0	West Virginia	541860	Direct mail advertising	54	0400000US54	4.222222222222222	70.66666666666667	2108.4444444444443
+43892	54	54	0	West Virginia	541870	Advertising material distribution services	54	0400000US54	1.4	0.0	0.0
+43893	54	54	0	West Virginia	541890	Other services related to advertising	54	0400000US54	19.555555555555557	172.88888888888889	3526.3333333333335
+43894	54	54	0	West Virginia	541910	Marketing research and public opinion polling	54	0400000US54	2.888888888888889	17.77777777777778	528.0
+43895	54	54	0	West Virginia	541921	Photography studios, portrait	54	0400000US54	45.77777777777778	128.22222222222223	2719.1111111111113
+43896	54	54	0	West Virginia	541922	Commercial photography	54	0400000US54	5.888888888888889	7.888888888888889	422.6666666666667
+43897	54	54	0	West Virginia	541930	Translation and interpretation services	54	0400000US54	2.0	0.0	0.0
+43898	54	54	0	West Virginia	541940	Veterinary services	54	0400000US54	156.88888888888889	1710.888888888889	53236.444444444445
+43899	54	54	0	West Virginia	541990	All other professional, scientific, and technical services	54	0400000US54	22.666666666666668	258.55555555555554	23543.666666666668
+43900	54	54	0	West Virginia	551111	Offices of bank holding companies	55	0400000US54	4.222222222222222	34.111111111111114	2134.5555555555557
+43901	54	54	0	West Virginia	551112	Offices of other holding companies	55	0400000US54	22.444444444444443	279.0	26324.333333333332
+43902	54	54	0	West Virginia	551114	Corporate, subsidiary, and regional managing offices	55	0400000US54	215.77777777777777	5288.555555555556	367473.8888888889
+43903	54	54	0	West Virginia	561110	Office administrative services	56	0400000US54	104.66666666666667	1725.6666666666667	97834.88888888889
+43904	54	54	0	West Virginia	561210	Facilities support services	56	0400000US54	29.555555555555557	649.8888888888889	27720.88888888889
+43905	54	54	0	West Virginia	561311	Employment placement agencies	56	0400000US54	10.88888888888889	129.11111111111111	7757.777777777777
+43906	54	54	0	West Virginia	561312	Executive search services	56	0400000US54	3.0	11.555555555555555	400.0
+43907	54	54	0	West Virginia	561320	Temporary help services	56	0400000US54	140.44444444444446	6576.444444444444	185249.11111111112
+43908	54	54	0	West Virginia	561330	Professional employer organizations	56	0400000US54	23.555555555555557	3301.0	123511.77777777778
+43909	54	54	0	West Virginia	561410	Document preparation services	56	0400000US54	12.333333333333334	127.77777777777777	2845.4444444444443
+43910	54	54	0	West Virginia	561421	Telephone answering services	56	0400000US54	8.222222222222221	77.77777777777777	2478.5555555555557
+43911	54	54	0	West Virginia	561422	Telemarketing bureaus and other contact centers	56	0400000US54	20.88888888888889	6004.333333333333	122017.77777777778
+43912	54	54	0	West Virginia	561431	Private mail centers	56	0400000US54	11.666666666666666	29.666666666666668	805.4444444444445
+43913	54	54	0	West Virginia	561439	Other business service centers (including copy shops)	56	0400000US54	10.777777777777779	488.22222222222223	16448.777777777777
+43914	54	54	0	West Virginia	561440	Collection agencies	56	0400000US54	11.88888888888889	467.0	8923.777777777777
+43915	54	54	0	West Virginia	561450	Credit bureaus	56	0400000US54	1.0	0.0	0.0
+43916	54	54	0	West Virginia	561491	Repossession services	56	0400000US54	3.4444444444444446	32.333333333333336	984.0
+43917	54	54	0	West Virginia	561492	Court reporting and stenotype services	56	0400000US54	18.555555555555557	45.55555555555556	1423.2222222222222
+43918	54	54	0	West Virginia	561499	All other business support services	56	0400000US54	5.111111111111111	28.333333333333332	806.1111111111111
+43919	54	54	0	West Virginia	561510	Travel agencies	56	0400000US54	23.0	128.44444444444446	5884.111111111111
+43920	54	54	0	West Virginia	561520	Tour operators	56	0400000US54	5.444444444444445	14.11111111111111	540.2222222222222
+43921	54	54	0	West Virginia	561591	Convention and visitors bureaus	56	0400000US54	34.22222222222222	115.33333333333333	3615.3333333333335
+43922	54	54	0	West Virginia	561599	All other travel arrangement and reservation services	56	0400000US54	17.333333333333332	298.1111111111111	12710.444444444445
+43923	54	54	0	West Virginia	561611	Investigation services	56	0400000US54	16.22222222222222	41.888888888888886	2661.8888888888887
+43924	54	54	0	West Virginia	561612	Security guards and patrol services	56	0400000US54	48.111111111111114	3013.222222222222	70998.33333333333
+43925	54	54	0	West Virginia	561613	Armored car services	56	0400000US54	4.666666666666667	0.0	0.0
+43926	54	54	0	West Virginia	561621	Security systems services (except locksmiths)	56	0400000US54	33.111111111111114	209.77777777777777	6780.333333333333
+43927	54	54	0	West Virginia	561622	Locksmiths	56	0400000US54	8.11111111111111	21.444444444444443	649.4444444444445
+43928	54	54	0	West Virginia	561710	Exterminating and pest control services	56	0400000US54	54.111111111111114	449.44444444444446	16568.777777777777
+43929	54	54	0	West Virginia	561720	Janitorial services	56	0400000US54	180.55555555555554	2761.1111111111113	54774.77777777778
+43930	54	54	0	West Virginia	561730	Landscaping services	56	0400000US54	318.55555555555554	1623.111111111111	54938.77777777778
+43931	54	54	0	West Virginia	561740	Carpet and upholstery cleaning services	56	0400000US54	37.333333333333336	129.66666666666666	3169.4444444444443
+43932	54	54	0	West Virginia	561790	Other services to buildings and dwellings	56	0400000US54	19.555555555555557	29.88888888888889	1049.5555555555557
+43933	54	54	0	West Virginia	561910	Packaging and labeling services	56	0400000US54	2.0	0.0	0.0
+43934	54	54	0	West Virginia	561920	Convention and trade show organizers	56	0400000US54	5.222222222222222	18.555555555555557	643.2222222222222
+43935	54	54	0	West Virginia	561990	All other support services	56	0400000US54	65.77777777777777	619.5555555555555	18327.88888888889
+43936	54	54	0	West Virginia	562111	Solid waste collection	56	0400000US54	87.33333333333333	1511.2222222222222	74789.88888888889
+43937	54	54	0	West Virginia	562112	Hazardous waste collection	56	0400000US54	3.6	0.0	0.0
+43938	54	54	0	West Virginia	562119	Other waste collection	56	0400000US54	2.6	0.0	0.0
+43939	54	54	0	West Virginia	562211	Hazardous waste treatment and disposal	56	0400000US54	6.333333333333333	122.0	5080.777777777777
+43940	54	54	0	West Virginia	562212	Solid waste landfill	56	0400000US54	19.0	214.66666666666666	9122.0
+43941	54	54	0	West Virginia	562219	Other nonhazardous waste treatment and disposal	56	0400000US54	1.4	0.0	0.0
+43942	54	54	0	West Virginia	562910	Remediation services	56	0400000US54	28.77777777777778	288.8888888888889	14421.555555555555
+43943	54	54	0	West Virginia	562920	Materials recovery facilities	56	0400000US54	5.222222222222222	35.111111111111114	1270.3333333333333
+43944	54	54	0	West Virginia	562991	Septic tank and related services	56	0400000US54	25.11111111111111	109.55555555555556	3930.4444444444443
+43945	54	54	0	West Virginia	562998	All other miscellaneous waste management services	56	0400000US54	5.222222222222222	25.11111111111111	871.8888888888889
+43946	54	54	0	West Virginia	611110	Elementary and secondary schools	61	0400000US54	67.55555555555556	1549.888888888889	33352.666666666664
+43947	54	54	0	West Virginia	611210	Junior colleges	61	0400000US54	14.555555555555555	562.4444444444445	18267.0
+43948	54	54	0	West Virginia	611310	Colleges, universities, and professional schools	61	0400000US54	18.666666666666668	6093.555555555556	188794.33333333334
+43949	54	54	0	West Virginia	611410	Business and secretarial schools	61	0400000US54	1.75	0.0	0.0
+43950	54	54	0	West Virginia	611420	Computer training	61	0400000US54	3.6	0.0	0.0
+43951	54	54	0	West Virginia	611430	Professional and management development training	61	0400000US54	9.666666666666666	46.111111111111114	2111.8888888888887
+43952	54	54	0	West Virginia	611511	Cosmetology and barber schools	61	0400000US54	6.222222222222222	59.44444444444444	1746.888888888889
+43953	54	54	0	West Virginia	611512	Flight training	61	0400000US54	2.5555555555555554	5.777777777777778	383.6666666666667
+43954	54	54	0	West Virginia	611513	Apprenticeship training	61	0400000US54	18.77777777777778	105.33333333333333	3127.8888888888887
+43955	54	54	0	West Virginia	611519	Other technical and trade schools	61	0400000US54	13.333333333333334	136.77777777777777	5671.555555555556
+43956	54	54	0	West Virginia	611610	Fine arts schools	61	0400000US54	38.111111111111114	158.55555555555554	1737.7777777777778
+43957	54	54	0	West Virginia	611620	Sports and recreation instruction	61	0400000US54	33.0	159.22222222222223	3158.8888888888887
+43958	54	54	0	West Virginia	611630	Language schools	61	0400000US54	1.5	0.0	0.0
+43959	54	54	0	West Virginia	611691	Exam preparation and tutoring	61	0400000US54	15.777777777777779	118.55555555555556	1435.0
+43960	54	54	0	West Virginia	611692	Automobile driving schools	61	0400000US54	2.4444444444444446	1.7777777777777777	29.77777777777778
+43961	54	54	0	West Virginia	611699	All other miscellaneous schools and instruction	61	0400000US54	9.0	34.44444444444444	1090.6666666666667
+43962	54	54	0	West Virginia	611710	Educational support services	61	0400000US54	20.0	103.22222222222223	4286.0
+43963	54	54	0	West Virginia	621111	Offices of physicians (except mental health specialists)	62	0400000US54	1118.111111111111	11684.666666666666	940091.1111111111
+43964	54	54	0	West Virginia	621112	Offices of physicians, mental health specialists	62	0400000US54	40.333333333333336	288.55555555555554	14225.0
+43965	54	54	0	West Virginia	621210	Offices of dentists	62	0400000US54	533.3333333333334	3930.222222222222	158302.44444444444
+43966	54	54	0	West Virginia	621310	Offices of chiropractors	62	0400000US54	141.55555555555554	539.7777777777778	13934.111111111111
+43967	54	54	0	West Virginia	621320	Offices of optometrists	62	0400000US54	130.77777777777777	756.3333333333334	24071.11111111111
+43968	54	54	0	West Virginia	621330	Offices of mental health practitioners (except physicians)	62	0400000US54	97.11111111111111	1119.7777777777778	25832.0
+43969	54	54	0	West Virginia	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US54	237.55555555555554	2093.0	89783.44444444444
+43970	54	54	0	West Virginia	621391	Offices of podiatrists	62	0400000US54	37.77777777777778	143.66666666666666	5378.444444444444
+43971	54	54	0	West Virginia	621399	Offices of all other miscellaneous health practitioners	62	0400000US54	48.888888888888886	143.11111111111111	6261.111111111111
+43972	54	54	0	West Virginia	621410	Family planning centers	62	0400000US54	8.777777777777779	44.55555555555556	2171.4444444444443
+43973	54	54	0	West Virginia	621420	Outpatient mental health and substance abuse centers	62	0400000US54	91.11111111111111	3856.777777777778	99802.88888888889
+43974	54	54	0	West Virginia	621491	HMO medical centers	62	0400000US54	1.0	0.0	0.0
+43975	54	54	0	West Virginia	621492	Kidney dialysis centers	62	0400000US54	52.111111111111114	266.0	12265.0
+43976	54	54	0	West Virginia	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US54	46.333333333333336	870.0	42687.666666666664
+43977	54	54	0	West Virginia	621498	All other outpatient care centers	62	0400000US54	163.22222222222223	3805.5555555555557	253711.11111111112
+43978	54	54	0	West Virginia	621511	Medical laboratories	62	0400000US54	42.44444444444444	257.1111111111111	15804.111111111111
+43979	54	54	0	West Virginia	621512	Diagnostic imaging centers	62	0400000US54	18.555555555555557	263.1111111111111	19038.222222222223
+43980	54	54	0	West Virginia	621610	Home health care services	62	0400000US54	122.44444444444444	4230.888888888889	148372.33333333334
+43981	54	54	0	West Virginia	621910	Ambulance services	62	0400000US54	66.88888888888889	1470.888888888889	44472.11111111111
+43982	54	54	0	West Virginia	621991	Blood and organ banks	62	0400000US54	3.6666666666666665	37.0	1357.7777777777778
+43983	54	54	0	West Virginia	621999	All other miscellaneous ambulatory health care services	62	0400000US54	16.0	252.55555555555554	9431.666666666666
+43984	54	54	0	West Virginia	622110	General medical and surgical hospitals	62	0400000US54	58.22222222222222	48497.88888888889	2632042.111111111
+43985	54	54	0	West Virginia	622210	Psychiatric and substance abuse hospitals	62	0400000US54	5.888888888888889	1679.4444444444443	53528.555555555555
+43986	54	54	0	West Virginia	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US54	6.444444444444445	383.44444444444446	24994.333333333332
+43987	54	54	0	West Virginia	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US54	150.0	11752.888888888889	340863.0
+43988	54	54	0	West Virginia	623210	Residential intellectual and developmental disability facilities	62	0400000US54	373.6666666666667	5413.777777777777	107361.44444444444
+43989	54	54	0	West Virginia	623220	Residential mental health and substance abuse facilities	62	0400000US54	44.666666666666664	759.1111111111111	26938.333333333332
+43990	54	54	0	West Virginia	623311	Continuing care retirement communities	62	0400000US54	26.555555555555557	1353.7777777777778	31110.88888888889
+43991	54	54	0	West Virginia	623312	Assisted living facilities for the elderly	62	0400000US54	56.666666666666664	1124.5555555555557	21825.666666666668
+43992	54	54	0	West Virginia	623990	Other residential care facilities	62	0400000US54	39.666666666666664	1182.5555555555557	31098.555555555555
+43993	54	54	0	West Virginia	624110	Child and youth services	62	0400000US54	106.33333333333333	778.0	21051.555555555555
+43994	54	54	0	West Virginia	624120	Services for the elderly and persons with disabilities	62	0400000US54	238.88888888888889	11849.333333333334	176614.77777777778
+43995	54	54	0	West Virginia	624190	Other individual and family services	62	0400000US54	180.11111111111111	1805.6666666666667	43429.333333333336
+43996	54	54	0	West Virginia	624210	Community food services	62	0400000US54	38.55555555555556	169.44444444444446	4026.6666666666665
+43997	54	54	0	West Virginia	624221	Temporary shelters	62	0400000US54	51.333333333333336	817.6666666666666	18140.777777777777
+43998	54	54	0	West Virginia	624229	Other community housing services	62	0400000US54	29.666666666666668	255.11111111111111	7069.444444444444
+43999	54	54	0	West Virginia	624230	Emergency and other relief services	62	0400000US54	21.333333333333332	78.66666666666667	2974.777777777778
+44000	54	54	0	West Virginia	624310	Vocational rehabilitation services	62	0400000US54	104.22222222222223	2456.1111111111113	37213.77777777778
+44001	54	54	0	West Virginia	624410	Child day care services	62	0400000US54	358.22222222222223	4453.777777777777	70718.22222222222
+44002	54	54	0	West Virginia	711110	Theater companies and dinner theaters	71	0400000US54	10.88888888888889	61.111111111111114	1942.888888888889
+44003	54	54	0	West Virginia	711120	Dance companies	71	0400000US54	3.5555555555555554	9.333333333333334	184.22222222222223
+44004	54	54	0	West Virginia	711130	Musical groups and artists	71	0400000US54	9.444444444444445	152.0	2234.1111111111113
+44005	54	54	0	West Virginia	711190	Other performing arts companies	71	0400000US54	1.0	0.0	0.0
+44006	54	54	0	West Virginia	711211	Sports teams and clubs	71	0400000US54	5.222222222222222	76.88888888888889	1163.111111111111
+44007	54	54	0	West Virginia	711212	Racetracks	71	0400000US54	5.666666666666667	776.2222222222222	23040.555555555555
+44008	54	54	0	West Virginia	711219	Other spectator sports	71	0400000US54	23.22222222222222	98.55555555555556	2617.8888888888887
+44009	54	54	0	West Virginia	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US54	12.555555555555555	400.22222222222223	5268.888888888889
+44010	54	54	0	West Virginia	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US54	11.88888888888889	28.333333333333332	905.3333333333334
+44011	54	54	0	West Virginia	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US54	1.2	0.0	0.0
+44012	54	54	0	West Virginia	711510	Independent artists, writers, and performers	71	0400000US54	17.0	30.11111111111111	423.6666666666667
+44013	54	54	0	West Virginia	712110	Museums	71	0400000US54	25.0	102.55555555555556	1944.6666666666667
+44014	54	54	0	West Virginia	712120	Historical sites	71	0400000US54	9.0	26.444444444444443	579.6666666666666
+44015	54	54	0	West Virginia	712130	Zoos and botanical gardens	71	0400000US54	1.4	0.0	0.0
+44016	54	54	0	West Virginia	712190	Nature parks and other similar institutions	71	0400000US54	4.222222222222222	39.55555555555556	779.3333333333334
+44017	54	54	0	West Virginia	713110	Amusement and theme parks	71	0400000US54	1.2	0.0	0.0
+44018	54	54	0	West Virginia	713120	Amusement arcades	71	0400000US54	16.666666666666668	124.88888888888889	1546.0
+44019	54	54	0	West Virginia	713210	Casinos (except casino hotels)	71	0400000US54	2.0	0.0	0.0
+44020	54	54	0	West Virginia	713290	Other gambling industries	71	0400000US54	288.8888888888889	1749.2222222222222	31787.555555555555
+44021	54	54	0	West Virginia	713910	Golf courses and country clubs	71	0400000US54	73.22222222222223	745.7777777777778	18166.333333333332
+44022	54	54	0	West Virginia	713920	Skiing facilities	71	0400000US54	3.7777777777777777	445.22222222222223	3803.222222222222
+44023	54	54	0	West Virginia	713930	Marinas	71	0400000US54	10.777777777777779	21.666666666666668	1119.5555555555557
+44024	54	54	0	West Virginia	713940	Fitness and recreational sports centers	71	0400000US54	125.88888888888889	1715.111111111111	18461.555555555555
+44025	54	54	0	West Virginia	713950	Bowling centers	71	0400000US54	32.22222222222222	387.3333333333333	4898.222222222223
+44026	54	54	0	West Virginia	713990	All other amusement and recreation industries	71	0400000US54	65.66666666666667	336.1111111111111	11774.333333333334
+44027	54	54	0	West Virginia	721110	Hotels (except casino hotels) and motels	72	0400000US54	310.3333333333333	7112.111111111111	125304.66666666667
+44028	54	54	0	West Virginia	721120	Casino hotels	72	0400000US54	4.666666666666667	3510.5555555555557	110539.55555555556
+44029	54	54	0	West Virginia	721191	Bed-and-breakfast inns	72	0400000US54	21.77777777777778	105.55555555555556	1578.888888888889
+44030	54	54	0	West Virginia	721199	All other traveler accommodation	72	0400000US54	5.333333333333333	12.11111111111111	249.44444444444446
+44031	54	54	0	West Virginia	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US54	16.22222222222222	77.77777777777777	2738.6666666666665
+44032	54	54	0	West Virginia	721214	Recreational and vacation camps (except campgrounds)	72	0400000US54	29.555555555555557	179.33333333333334	11104.444444444445
+44033	54	54	0	West Virginia	721310	Rooming and boarding houses	72	0400000US54	13.444444444444445	37.0	748.8888888888889
+44034	54	54	0	West Virginia	722310	Food service contractors	72	0400000US54	94.0	1399.6666666666667	25980.0
+44035	54	54	0	West Virginia	722320	Caterers	72	0400000US54	25.444444444444443	163.44444444444446	1994.111111111111
+44036	54	54	0	West Virginia	722330	Mobile food services	72	0400000US54	8.333333333333334	17.666666666666668	252.33333333333334
+44037	54	54	0	West Virginia	722410	Drinking places (alcoholic beverages)	72	0400000US54	394.3333333333333	2024.7777777777778	25891.88888888889
+44038	54	54	0	West Virginia	722511	Full-service restaurants	72	0400000US54	1178.4444444444443	24177.555555555555	353271.22222222225
+44039	54	54	0	West Virginia	722513	Limited-service restaurants	72	0400000US54	1267.111111111111	24806.444444444445	316727.22222222225
+44040	54	54	0	West Virginia	722514	Cafeterias, grill buffets, and buffets	72	0400000US54	78.0	849.6666666666666	12275.555555555555
+44041	54	54	0	West Virginia	722515	Snack and nonalcoholic beverage bars	72	0400000US54	172.66666666666666	1630.0	20414.555555555555
+44042	54	54	0	West Virginia	811111	General automotive repair	81	0400000US54	414.44444444444446	1585.888888888889	43824.77777777778
+44043	54	54	0	West Virginia	811112	Automotive exhaust system repair	81	0400000US54	14.555555555555555	31.77777777777778	721.6666666666666
+44044	54	54	0	West Virginia	811113	Automotive transmission repair	81	0400000US54	21.0	48.666666666666664	1660.5555555555557
+44045	54	54	0	West Virginia	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US54	11.222222222222221	43.55555555555556	1897.6666666666667
+44046	54	54	0	West Virginia	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US54	165.66666666666666	1040.6666666666667	38104.666666666664
+44047	54	54	0	West Virginia	811122	Automotive glass replacement shops	81	0400000US54	34.666666666666664	142.55555555555554	5303.111111111111
+44048	54	54	0	West Virginia	811191	Automotive oil change and lubrication shops	81	0400000US54	39.666666666666664	198.0	4982.555555555556
+44049	54	54	0	West Virginia	811192	Car washes	81	0400000US54	65.11111111111111	315.44444444444446	5654.555555555556
+44050	54	54	0	West Virginia	811198	All other automotive repair and maintenance	81	0400000US54	5.333333333333333	7.222222222222222	155.77777777777777
+44051	54	54	0	West Virginia	811211	Consumer electronics repair and maintenance	81	0400000US54	4.222222222222222	6.888888888888889	195.77777777777777
+44052	54	54	0	West Virginia	811212	Computer and office machine repair and maintenance	81	0400000US54	23.88888888888889	140.66666666666666	6101.333333333333
+44053	54	54	0	West Virginia	811213	Communication equipment repair and maintenance	81	0400000US54	9.666666666666666	61.666666666666664	2477.5555555555557
+44054	54	54	0	West Virginia	811219	Other electronic and precision equipment repair and maintenance	81	0400000US54	9.11111111111111	70.88888888888889	3531.222222222222
+44055	54	54	0	West Virginia	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US54	196.11111111111111	2441.3333333333335	118510.44444444444
+44056	54	54	0	West Virginia	811411	Home and garden equipment repair and maintenance	81	0400000US54	5.777777777777778	8.11111111111111	206.22222222222223
+44057	54	54	0	West Virginia	811412	Appliance repair and maintenance	81	0400000US54	11.666666666666666	38.888888888888886	1115.3333333333333
+44058	54	54	0	West Virginia	811420	Reupholstery and furniture repair	81	0400000US54	9.333333333333334	38.44444444444444	958.1111111111111
+44059	54	54	0	West Virginia	811430	Footwear and leather goods repair	81	0400000US54	2.0	1.2	15.0
+44060	54	54	0	West Virginia	811490	Other personal and household goods repair and maintenance	81	0400000US54	13.333333333333334	13.444444444444445	416.3333333333333
+44061	54	54	0	West Virginia	812111	Barber shops	81	0400000US54	11.555555555555555	41.111111111111114	965.0
+44062	54	54	0	West Virginia	812112	Beauty salons	81	0400000US54	276.77777777777777	1503.111111111111	30223.333333333332
+44063	54	54	0	West Virginia	812113	Nail salons	81	0400000US54	23.77777777777778	40.888888888888886	1026.5555555555557
+44064	54	54	0	West Virginia	812191	Diet and weight reducing centers	81	0400000US54	12.11111111111111	86.66666666666667	1786.5555555555557
+44065	54	54	0	West Virginia	812199	Other personal care services	81	0400000US54	59.0	305.44444444444446	4167.666666666667
+44066	54	54	0	West Virginia	812210	Funeral homes and funeral services	81	0400000US54	215.22222222222223	1402.6666666666667	40791.88888888889
+44067	54	54	0	West Virginia	812220	Cemeteries and crematories	81	0400000US54	99.77777777777777	327.44444444444446	11035.111111111111
+44068	54	54	0	West Virginia	812310	Coin-operated laundries and drycleaners	81	0400000US54	28.444444444444443	143.22222222222223	2170.222222222222
+44069	54	54	0	West Virginia	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US54	41.22222222222222	356.3333333333333	6028.0
+44070	54	54	0	West Virginia	812331	Linen supply	81	0400000US54	4.111111111111111	30.77777777777778	901.5555555555555
+44071	54	54	0	West Virginia	812332	Industrial launderers	81	0400000US54	6.888888888888889	185.33333333333334	8892.333333333334
+44072	54	54	0	West Virginia	812910	Pet care (except veterinary) services	81	0400000US54	59.111111111111114	226.66666666666666	3957.1111111111113
+44073	54	54	0	West Virginia	812921	Photofinishing laboratories (except one-hour)	81	0400000US54	3.0	6.4	103.8
+44074	54	54	0	West Virginia	812930	Parking lots and garages	81	0400000US54	34.333333333333336	128.22222222222223	2388.1111111111113
+44075	54	54	0	West Virginia	812990	All other personal services	81	0400000US54	18.666666666666668	65.44444444444444	1320.111111111111
+44076	54	54	0	West Virginia	813110	Religious organizations	81	0400000US54	1569.111111111111	7639.888888888889	128808.66666666667
+44077	54	54	0	West Virginia	813211	Grantmaking foundations	81	0400000US54	65.11111111111111	379.1111111111111	17044.777777777777
+44078	54	54	0	West Virginia	813212	Voluntary health organizations	81	0400000US54	14.333333333333334	151.44444444444446	4021.8888888888887
+44079	54	54	0	West Virginia	813219	Other grantmaking and giving services	81	0400000US54	16.555555555555557	122.77777777777777	3297.4444444444443
+44080	54	54	0	West Virginia	813311	Human rights organizations	81	0400000US54	19.77777777777778	102.11111111111111	3609.4444444444443
+44081	54	54	0	West Virginia	813312	Environment, conservation and wildlife organizations	81	0400000US54	51.333333333333336	397.6666666666667	11977.888888888889
+44082	54	54	0	West Virginia	813319	Other social advocacy organizations	81	0400000US54	36.333333333333336	282.55555555555554	9068.444444444445
+44083	54	54	0	West Virginia	813410	Civic and social organizations	81	0400000US54	265.0	1445.5555555555557	20446.11111111111
+44084	54	54	0	West Virginia	813910	Business associations	81	0400000US54	87.11111111111111	247.0	13975.222222222223
+44085	54	54	0	West Virginia	813920	Professional organizations	81	0400000US54	30.666666666666668	294.6666666666667	18124.0
+44086	54	54	0	West Virginia	813930	Labor unions and similar labor organizations	81	0400000US54	202.66666666666666	1361.0	19750.444444444445
+44087	54	54	0	West Virginia	813940	Political organizations	81	0400000US54	11.666666666666666	19.666666666666668	1151.0
+44088	54	54	0	West Virginia	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US54	42.55555555555556	271.55555555555554	7802.777777777777

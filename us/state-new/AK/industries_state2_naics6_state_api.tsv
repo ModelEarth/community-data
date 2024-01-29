@@ -1,0 +1,731 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+956	02	2	0	Alaska	113110	Timber tract operations	11	0400000US02	1.2	0.0	0.0
+957	02	2	0	Alaska	113210	Forest nurseries and gathering of forest products	11	0400000US02	1.5	0.0	0.0
+958	02	2	0	Alaska	113310	Logging	11	0400000US02	27.11111111111111	197.22222222222223	14818.888888888889
+959	02	2	0	Alaska	114111	Finfish fishing	11	0400000US02	276.55555555555554	389.44444444444446	24347.777777777777
+960	02	2	0	Alaska	114112	Shellfish fishing	11	0400000US02	124.88888888888889	43.44444444444444	4926.444444444444
+961	02	2	0	Alaska	114119	Other marine fishing	11	0400000US02	9.0	3.7777777777777777	324.6666666666667
+962	02	2	0	Alaska	114210	Hunting and trapping	11	0400000US02	3.2	1.6	88.6
+963	02	2	0	Alaska	115112	Soil preparation, planting, and cultivating	11	0400000US02	4.222222222222222	9.444444444444445	566.6666666666666
+964	02	2	0	Alaska	115115	Farm labor contractors and crew leaders	11	0400000US02	1.25	0.0	0.0
+965	02	2	0	Alaska	115210	Support activities for animal production	11	0400000US02	3.3333333333333335	18.444444444444443	212.77777777777777
+966	02	2	0	Alaska	115310	Support activities for forestry	11	0400000US02	7.0	9.88888888888889	749.4444444444445
+967	02	2	0	Alaska	211111	Crude petroleum and natural gas extraction	21	0400000US02	23.4	1336.4	373421.4
+968	02	2	0	Alaska	211112	Natural gas liquid extraction	21	0400000US02	2.2	0.0	0.0
+969	02	2	0	Alaska	211120	Crude petroleum extraction	21	0400000US02	16.0	1658.0	314613.0
+970	02	2	0	Alaska	212111	Bituminous coal and lignite surface mining	21	0400000US02	2.0	0.0	0.0
+971	02	2	0	Alaska	212221	Gold ore mining	21	0400000US02	33.0	1522.6666666666667	179965.22222222222
+972	02	2	0	Alaska	212222	Silver ore mining	21	0400000US02	1.0	0.0	0.0
+973	02	2	0	Alaska	212230	Copper, nickel, lead, and zinc mining	21	0400000US02	3.0	0.0	0.0
+974	02	2	0	Alaska	212231	Lead ore and zinc ore mining	21	0400000US02	3.2	0.0	0.0
+975	02	2	0	Alaska	212234	Copper ore and nickel ore mining	21	0400000US02	1.0	0.0	0.0
+976	02	2	0	Alaska	212299	All other metal ore mining	21	0400000US02	1.0	0.0	0.0
+977	02	2	0	Alaska	212312	Crushed and broken limestone mining and quarrying	21	0400000US02	1.4	0.0	0.0
+978	02	2	0	Alaska	212313	Crushed and broken granite mining and quarrying	21	0400000US02	4.4	0.0	0.0
+979	02	2	0	Alaska	212319	Other crushed and broken stone mining and quarrying	21	0400000US02	1.0	0.0	0.0
+980	02	2	0	Alaska	212321	Construction sand and gravel mining	21	0400000US02	22.333333333333332	167.11111111111111	13717.111111111111
+981	02	2	0	Alaska	212399	All other nonmetallic mineral mining	21	0400000US02	1.8	0.0	0.0
+982	02	2	0	Alaska	213111	Drilling oil and gas wells	21	0400000US02	12.11111111111111	882.0	84721.44444444444
+983	02	2	0	Alaska	213112	Support activities for oil and gas operations	21	0400000US02	45.888888888888886	5114.0	481291.1111111111
+984	02	2	0	Alaska	213113	Support activities for coal mining	21	0400000US02	1.8	0.0	0.0
+985	02	2	0	Alaska	213114	Support activities for metal mining	21	0400000US02	12.333333333333334	248.33333333333334	29817.333333333332
+986	02	2	0	Alaska	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US02	5.6	0.8	46.2
+987	02	2	0	Alaska	221111	Hydroelectric power generation	22	0400000US02	8.88888888888889	54.333333333333336	4787.222222222223
+988	02	2	0	Alaska	221112	Fossil fuel electric power generation	22	0400000US02	22.88888888888889	752.1111111111111	72818.55555555556
+989	02	2	0	Alaska	221115	Wind electric power generation	22	0400000US02	1.8	0.0	0.0
+990	02	2	0	Alaska	221116	Geothermal electric power generation	22	0400000US02	1.0	0.0	0.0
+991	02	2	0	Alaska	221117	Biomass electric power generation	22	0400000US02	1.0	0.0	0.0
+992	02	2	0	Alaska	221118	Other electric power generation	22	0400000US02	2.6666666666666665	25.5	817.8333333333334
+993	02	2	0	Alaska	221121	Electric bulk power transmission and control	22	0400000US02	2.2	0.0	142.4
+994	02	2	0	Alaska	221122	Electric power distribution	22	0400000US02	40.333333333333336	726.4444444444445	67572.55555555556
+995	02	2	0	Alaska	221210	Natural gas distribution	22	0400000US02	6.333333333333333	0.0	0.0
+996	02	2	0	Alaska	221310	Water supply and irrigation systems	22	0400000US02	11.88888888888889	92.33333333333333	5950.222222222223
+997	02	2	0	Alaska	221320	Sewage treatment facilities	22	0400000US02	3.0	0.0	0.0
+998	02	2	0	Alaska	221330	Steam and air-conditioning supply	22	0400000US02	3.0	0.0	0.0
+999	02	2	0	Alaska	236115	New single-family housing construction (except for-sale builders)	23	0400000US02	185.0	445.22222222222223	23948.0
+1000	02	2	0	Alaska	236116	New multifamily housing construction (except for-sale builders)	23	0400000US02	7.666666666666667	12.777777777777779	882.5555555555555
+1001	02	2	0	Alaska	236117	New housing for-sale builders	23	0400000US02	68.0	284.44444444444446	17586.88888888889
+1002	02	2	0	Alaska	236118	Residential remodelers	23	0400000US02	258.55555555555554	704.3333333333334	35311.333333333336
+1003	02	2	0	Alaska	236210	Industrial building construction	23	0400000US02	13.777777777777779	389.0	41102.88888888889
+1004	02	2	0	Alaska	236220	Commercial and institutional building construction	23	0400000US02	246.0	3667.222222222222	305972.22222222225
+1005	02	2	0	Alaska	237110	Water and sewer line and related structures construction	23	0400000US02	53.666666666666664	170.22222222222223	15411.777777777777
+1006	02	2	0	Alaska	237120	Oil and gas pipeline and related structures construction	23	0400000US02	19.22222222222222	1867.888888888889	199354.44444444444
+1007	02	2	0	Alaska	237130	Power and communication line and related structures construction	23	0400000US02	22.555555555555557	266.0	30366.0
+1008	02	2	0	Alaska	237210	Land subdivision	23	0400000US02	13.555555555555555	35.333333333333336	3587.5555555555557
+1009	02	2	0	Alaska	237310	Highway, street, and bridge construction	23	0400000US02	94.44444444444444	1319.5555555555557	172344.0
+1010	02	2	0	Alaska	237990	Other heavy and civil engineering construction	23	0400000US02	33.111111111111114	277.6666666666667	30736.0
+1011	02	2	0	Alaska	238110	Poured concrete foundation and structure contractors	23	0400000US02	60.44444444444444	131.77777777777777	13047.777777777777
+1012	02	2	0	Alaska	238120	Structural steel and precast concrete contractors	23	0400000US02	11.555555555555555	62.333333333333336	6298.222222222223
+1013	02	2	0	Alaska	238130	Framing contractors	23	0400000US02	72.55555555555556	212.66666666666666	11109.888888888889
+1014	02	2	0	Alaska	238140	Masonry contractors	23	0400000US02	20.88888888888889	20.333333333333332	2531.4444444444443
+1015	02	2	0	Alaska	238150	Glass and glazing contractors	23	0400000US02	9.555555555555555	46.22222222222222	3307.3333333333335
+1016	02	2	0	Alaska	238160	Roofing contractors	23	0400000US02	59.111111111111114	296.6666666666667	27385.88888888889
+1017	02	2	0	Alaska	238170	Siding contractors	23	0400000US02	23.555555555555557	89.0	5482.0
+1018	02	2	0	Alaska	238190	Other foundation, structure, and building exterior contractors	23	0400000US02	14.0	57.77777777777778	5253.777777777777
+1019	02	2	0	Alaska	238210	Electrical contractors and other wiring installation contractors	23	0400000US02	219.77777777777777	1856.5555555555557	152468.66666666666
+1020	02	2	0	Alaska	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US02	259.77777777777777	2053.1111111111113	148789.77777777778
+1021	02	2	0	Alaska	238290	Other building equipment contractors	23	0400000US02	22.333333333333332	145.55555555555554	12480.888888888889
+1022	02	2	0	Alaska	238310	Drywall and insulation contractors	23	0400000US02	99.55555555555556	330.6666666666667	16051.666666666666
+1023	02	2	0	Alaska	238320	Painting and wall covering contractors	23	0400000US02	112.0	330.22222222222223	18535.444444444445
+1024	02	2	0	Alaska	238330	Flooring contractors	23	0400000US02	52.44444444444444	182.55555555555554	9169.111111111111
+1025	02	2	0	Alaska	238340	Tile and terrazzo contractors	23	0400000US02	23.77777777777778	70.33333333333333	2810.5555555555557
+1026	02	2	0	Alaska	238350	Finish carpentry contractors	23	0400000US02	93.22222222222223	310.0	16820.777777777777
+1027	02	2	0	Alaska	238390	Other building finishing contractors	23	0400000US02	12.333333333333334	28.22222222222222	1939.4444444444443
+1028	02	2	0	Alaska	238910	Site preparation contractors	23	0400000US02	216.77777777777777	1018.7777777777778	92310.0
+1029	02	2	0	Alaska	238990	All other specialty trade contractors	23	0400000US02	72.77777777777777	320.0	34329.22222222222
+1030	02	2	0	Alaska	311111	Dog and cat food manufacturing	31	0400000US02	2.0	0.0	0.0
+1031	02	2	0	Alaska	311119	Other animal food manufacturing	31	0400000US02	1.0	0.0	0.0
+1032	02	2	0	Alaska	311340	Nonchocolate confectionery manufacturing	31	0400000US02	1.0	0.0	0.0
+1033	02	2	0	Alaska	311352	Confectionery manufacturing from purchased chocolate	31	0400000US02	6.111111111111111	47.888888888888886	1463.2222222222222
+1034	02	2	0	Alaska	311422	Specialty canning	31	0400000US02	1.0	0.0	0.0
+1035	02	2	0	Alaska	311511	Fluid milk manufacturing	31	0400000US02	1.0	0.0	0.0
+1036	02	2	0	Alaska	311514	Dry, condensed, and evaporated dairy product manufacturing	31	0400000US02	1.0	0.0	0.0
+1037	02	2	0	Alaska	311520	Ice cream and frozen dessert manufacturing	31	0400000US02	2.0	0.0	0.0
+1038	02	2	0	Alaska	311611	Animal (except poultry) slaughtering	31	0400000US02	2.5555555555555554	14.666666666666666	126.66666666666667
+1039	02	2	0	Alaska	311612	Meat processed from carcasses	31	0400000US02	2.0	0.0	0.0
+1040	02	2	0	Alaska	311710	Seafood product preparation and packaging	31	0400000US02	103.11111111111111	8597.777777777777	338375.55555555556
+1041	02	2	0	Alaska	311811	Retail bakeries	31	0400000US02	11.555555555555555	114.11111111111111	2507.8888888888887
+1042	02	2	0	Alaska	311812	Commercial bakeries	31	0400000US02	3.4444444444444446	8.0	199.55555555555554
+1043	02	2	0	Alaska	311813	Frozen cakes, pies, and other pastries manufacturing	31	0400000US02	1.0	0.0	0.0
+1044	02	2	0	Alaska	311821	Cookie and cracker manufacturing	31	0400000US02	2.142857142857143	0.0	0.0
+1045	02	2	0	Alaska	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US02	1.0	0.0	0.0
+1046	02	2	0	Alaska	311830	Tortilla manufacturing	31	0400000US02	1.0	0.0	0.0
+1047	02	2	0	Alaska	311919	Other snack food manufacturing	31	0400000US02	1.0	0.0	0.0
+1048	02	2	0	Alaska	311920	Coffee and tea manufacturing	31	0400000US02	4.444444444444445	9.0	333.1111111111111
+1049	02	2	0	Alaska	311942	Spice and extract manufacturing	31	0400000US02	1.0	0.0	0.0
+1050	02	2	0	Alaska	311991	Perishable prepared food manufacturing	31	0400000US02	2.2	0.0	0.0
+1051	02	2	0	Alaska	311999	All other miscellaneous food manufacturing	31	0400000US02	1.0	0.0	0.0
+1052	02	2	0	Alaska	312111	Soft drink manufacturing	31	0400000US02	1.8	0.0	0.0
+1053	02	2	0	Alaska	312112	Bottled water manufacturing	31	0400000US02	4.333333333333333	16.666666666666668	1106.4444444444443
+1054	02	2	0	Alaska	312113	Ice manufacturing	31	0400000US02	1.0	0.0	0.0
+1055	02	2	0	Alaska	312120	Breweries	31	0400000US02	17.77777777777778	296.77777777777777	12185.222222222223
+1056	02	2	0	Alaska	312130	Wineries	31	0400000US02	4.222222222222222	7.111111111111111	342.55555555555554
+1057	02	2	0	Alaska	312140	Distilleries	31	0400000US02	3.7777777777777777	9.88888888888889	363.3333333333333
+1058	02	2	0	Alaska	312230	Tobacco manufacturing	31	0400000US02	1.0	0.0	0.0
+1059	02	2	0	Alaska	313310	Textile and fabric finishing mills	31	0400000US02	1.3333333333333333	0.0	0.0
+1060	02	2	0	Alaska	313320	Fabric coating mills	31	0400000US02	1.0	0.0	0.0
+1061	02	2	0	Alaska	314910	Textile bag and canvas mills	31	0400000US02	6.888888888888889	49.888888888888886	2230.3333333333335
+1062	02	2	0	Alaska	314999	All other miscellaneous textile product mills	31	0400000US02	2.8	4.6	143.4
+1063	02	2	0	Alaska	315210	Cut and sew apparel contractors	31	0400000US02	1.25	0.0	0.0
+1064	02	2	0	Alaska	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US02	1.0	0.0	0.0
+1065	02	2	0	Alaska	315280	Other cut and sew apparel manufacturing	31	0400000US02	1.0	0.0	0.0
+1066	02	2	0	Alaska	315990	Apparel accessories and other apparel manufacturing	31	0400000US02	1.2	0.0	0.0
+1067	02	2	0	Alaska	316110	Leather and hide tanning and finishing	31	0400000US02	2.6666666666666665	4.666666666666667	69.77777777777777
+1068	02	2	0	Alaska	316998	All other leather good and allied product manufacturing	31	0400000US02	1.8	0.0	0.0
+1069	02	2	0	Alaska	321113	Sawmills	32	0400000US02	11.222222222222221	55.0	2234.222222222222
+1070	02	2	0	Alaska	321214	Truss manufacturing	32	0400000US02	8.444444444444445	52.333333333333336	3429.222222222222
+1071	02	2	0	Alaska	321911	Wood window and door manufacturing	32	0400000US02	5.0	62.44444444444444	3025.4444444444443
+1072	02	2	0	Alaska	321912	Cut stock, resawing lumber, and planing	32	0400000US02	2.0	0.0	0.0
+1073	02	2	0	Alaska	321918	Other millwork (including flooring)	32	0400000US02	1.0	0.0	0.0
+1074	02	2	0	Alaska	321920	Wood container and pallet manufacturing	32	0400000US02	3.0	17.0	626.5
+1075	02	2	0	Alaska	321992	Prefabricated wood building manufacturing	32	0400000US02	3.2222222222222223	11.555555555555555	588.8888888888889
+1076	02	2	0	Alaska	321999	All other miscellaneous wood product manufacturing	32	0400000US02	5.777777777777778	18.77777777777778	666.5555555555555
+1077	02	2	0	Alaska	322211	Corrugated and solid fiber box manufacturing	32	0400000US02	1.0	0.0	0.0
+1078	02	2	0	Alaska	322299	All other converted paper product manufacturing	32	0400000US02	1.0	0.0	0.0
+1079	02	2	0	Alaska	323111	Commercial printing (except screen and books)	32	0400000US02	34.0	284.3333333333333	13775.111111111111
+1080	02	2	0	Alaska	323113	Commercial screen printing	32	0400000US02	6.222222222222222	28.333333333333332	811.4444444444445
+1081	02	2	0	Alaska	323117	Books printing	32	0400000US02	1.0	0.0	0.0
+1082	02	2	0	Alaska	323120	Support activities for printing	32	0400000US02	2.0	0.0	0.0
+1083	02	2	0	Alaska	324110	Petroleum refineries	32	0400000US02	4.444444444444445	116.33333333333333	14959.666666666666
+1084	02	2	0	Alaska	324121	Asphalt paving mixture and block manufacturing	32	0400000US02	20.22222222222222	73.11111111111111	3909.8888888888887
+1085	02	2	0	Alaska	324122	Asphalt shingle and coating materials manufacturing	32	0400000US02	1.0	0.0	0.0
+1086	02	2	0	Alaska	325311	Nitrogenous fertilizer manufacturing	32	0400000US02	1.0	0.0	0.0
+1087	02	2	0	Alaska	325314	Fertilizer (mixing only) manufacturing	32	0400000US02	1.0	0.0	0.0
+1088	02	2	0	Alaska	325411	Medicinal and botanical manufacturing	32	0400000US02	1.5	0.0	0.0
+1089	02	2	0	Alaska	325510	Paint and coating manufacturing	32	0400000US02	1.0	0.0	0.0
+1090	02	2	0	Alaska	325611	Soap and other detergent manufacturing	32	0400000US02	1.4	0.0	0.0
+1091	02	2	0	Alaska	325620	Toilet preparation manufacturing	32	0400000US02	1.0	0.0	0.0
+1092	02	2	0	Alaska	325920	Explosives manufacturing	32	0400000US02	2.0	0.0	0.0
+1093	02	2	0	Alaska	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US02	1.0	0.0	0.0
+1094	02	2	0	Alaska	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US02	1.0	0.0	0.0
+1095	02	2	0	Alaska	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US02	1.0	0.0	0.0
+1096	02	2	0	Alaska	326121	Unlaminated plastics profile shape manufacturing	32	0400000US02	1.0	0.0	0.0
+1097	02	2	0	Alaska	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US02	1.0	0.0	0.0
+1098	02	2	0	Alaska	326140	Polystyrene foam product manufacturing	32	0400000US02	2.0	0.0	0.0
+1099	02	2	0	Alaska	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US02	1.0	0.0	0.0
+1100	02	2	0	Alaska	326160	Plastics bottle manufacturing	32	0400000US02	1.0	0.0	0.0
+1101	02	2	0	Alaska	326199	All other plastics product manufacturing	32	0400000US02	4.444444444444445	32.666666666666664	2892.1111111111113
+1102	02	2	0	Alaska	326212	Tire retreading	32	0400000US02	2.0	0.0	0.0
+1103	02	2	0	Alaska	326299	All other rubber product manufacturing	32	0400000US02	1.0	0.0	0.0
+1104	02	2	0	Alaska	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US02	1.0	0.0	0.0
+1105	02	2	0	Alaska	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US02	1.0	0.0	0.0
+1106	02	2	0	Alaska	327215	Glass product manufacturing made of purchased glass	32	0400000US02	4.111111111111111	9.555555555555555	278.6666666666667
+1107	02	2	0	Alaska	327310	Cement manufacturing	32	0400000US02	3.0	2.2	131.0
+1108	02	2	0	Alaska	327320	Ready-mix concrete manufacturing	32	0400000US02	18.11111111111111	144.55555555555554	12297.888888888889
+1109	02	2	0	Alaska	327331	Concrete block and brick manufacturing	32	0400000US02	1.0	0.0	0.0
+1110	02	2	0	Alaska	327332	Concrete pipe manufacturing	32	0400000US02	1.0	0.0	0.0
+1111	02	2	0	Alaska	327390	Other concrete product manufacturing	32	0400000US02	4.222222222222222	27.88888888888889	2002.111111111111
+1112	02	2	0	Alaska	327991	Cut stone and stone product manufacturing	32	0400000US02	2.2	0.0	51.2
+1113	02	2	0	Alaska	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US02	1.0	0.0	0.0
+1114	02	2	0	Alaska	331210	Iron and steel pipe and tube manufacturing from purchased steel	33	0400000US02	1.0	0.0	0.0
+1115	02	2	0	Alaska	331313	Alumina refining and primary aluminum production	33	0400000US02	1.0	0.0	0.0
+1116	02	2	0	Alaska	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US02	2.0	0.0	0.0
+1117	02	2	0	Alaska	332111	Iron and steel forging	33	0400000US02	1.0	0.0	0.0
+1118	02	2	0	Alaska	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US02	2.6	0.0	0.0
+1119	02	2	0	Alaska	332312	Fabricated structural metal manufacturing	33	0400000US02	6.0	83.55555555555556	6063.777777777777
+1120	02	2	0	Alaska	332313	Plate work manufacturing	33	0400000US02	2.4444444444444446	5.777777777777778	347.55555555555554
+1121	02	2	0	Alaska	332322	Sheet metal work manufacturing	33	0400000US02	8.666666666666666	48.55555555555556	2975.6666666666665
+1122	02	2	0	Alaska	332323	Ornamental and architectural metal work manufacturing	33	0400000US02	1.2	0.0	0.0
+1123	02	2	0	Alaska	332420	Metal tank (heavy gauge) manufacturing	33	0400000US02	3.111111111111111	0.0	0.0
+1124	02	2	0	Alaska	332439	Other metal container manufacturing	33	0400000US02	1.0	0.0	0.0
+1125	02	2	0	Alaska	332710	Machine shops	33	0400000US02	17.444444444444443	98.66666666666667	6344.444444444444
+1126	02	2	0	Alaska	332721	Precision turned product manufacturing	33	0400000US02	3.3333333333333335	0.0	0.0
+1127	02	2	0	Alaska	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US02	2.888888888888889	9.88888888888889	463.8888888888889
+1128	02	2	0	Alaska	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US02	1.0	0.0	0.0
+1129	02	2	0	Alaska	332919	Other metal valve and pipe fitting manufacturing	33	0400000US02	1.0	0.0	0.0
+1130	02	2	0	Alaska	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US02	6.222222222222222	30.77777777777778	1808.6666666666667
+1131	02	2	0	Alaska	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US02	2.4	0.0	0.0
+1132	02	2	0	Alaska	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US02	1.0	0.0	0.0
+1133	02	2	0	Alaska	333316	Photographic and photocopying equipment manufacturing	33	0400000US02	1.0	0.0	0.0
+1134	02	2	0	Alaska	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US02	1.2	0.0	0.0
+1135	02	2	0	Alaska	333611	Turbine and turbine generator set units manufacturing	33	0400000US02	1.0	0.0	0.0
+1136	02	2	0	Alaska	333618	Other engine equipment manufacturing	33	0400000US02	1.3333333333333333	0.0	0.0
+1137	02	2	0	Alaska	333911	Pump and pumping equipment manufacturing	33	0400000US02	1.0	0.0	0.0
+1138	02	2	0	Alaska	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US02	1.0	0.0	0.0
+1139	02	2	0	Alaska	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US02	1.0	0.0	0.0
+1140	02	2	0	Alaska	333992	Welding and soldering equipment manufacturing	33	0400000US02	1.6	0.0	0.0
+1141	02	2	0	Alaska	333997	Scale and balance manufacturing	33	0400000US02	1.0	0.0	0.0
+1142	02	2	0	Alaska	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US02	1.0	0.0	0.0
+1143	02	2	0	Alaska	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US02	1.0	0.0	0.0
+1144	02	2	0	Alaska	334290	Other communications equipment manufacturing	33	0400000US02	1.0	0.0	0.0
+1145	02	2	0	Alaska	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US02	1.0	0.0	0.0
+1146	02	2	0	Alaska	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US02	2.0	0.0	0.0
+1147	02	2	0	Alaska	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US02	1.0	0.0	0.0
+1148	02	2	0	Alaska	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US02	1.6666666666666667	0.0	0.0
+1149	02	2	0	Alaska	335312	Motor and generator manufacturing	33	0400000US02	1.0	0.0	0.0
+1150	02	2	0	Alaska	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US02	1.0	0.0	0.0
+1151	02	2	0	Alaska	336214	Travel trailer and camper manufacturing	33	0400000US02	1.4	0.0	0.0
+1152	02	2	0	Alaska	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US02	1.0	0.0	0.0
+1153	02	2	0	Alaska	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US02	1.0	0.0	0.0
+1154	02	2	0	Alaska	336390	Other motor vehicle parts manufacturing	33	0400000US02	1.0	0.0	0.0
+1155	02	2	0	Alaska	336411	Aircraft manufacturing	33	0400000US02	1.0	0.0	0.0
+1156	02	2	0	Alaska	336412	Aircraft engine and engine parts manufacturing	33	0400000US02	1.0	0.0	0.0
+1157	02	2	0	Alaska	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US02	4.666666666666667	80.66666666666667	4393.777777777777
+1158	02	2	0	Alaska	336611	Ship building and repairing	33	0400000US02	8.555555555555555	168.33333333333334	7861.888888888889
+1159	02	2	0	Alaska	336612	Boat building	33	0400000US02	11.88888888888889	96.77777777777777	4118.0
+1160	02	2	0	Alaska	336999	All other transportation equipment manufacturing	33	0400000US02	1.0	0.0	0.0
+1161	02	2	0	Alaska	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US02	7.888888888888889	17.555555555555557	512.0
+1162	02	2	0	Alaska	337122	Nonupholstered wood household furniture manufacturing	33	0400000US02	3.4	5.0	159.0
+1163	02	2	0	Alaska	337127	Institutional furniture manufacturing	33	0400000US02	1.0	0.0	0.0
+1164	02	2	0	Alaska	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US02	4.0	28.11111111111111	1480.7777777777778
+1165	02	2	0	Alaska	337920	Blind and shade manufacturing	33	0400000US02	2.6666666666666665	11.444444444444445	583.6666666666666
+1166	02	2	0	Alaska	339113	Surgical appliance and supplies manufacturing	33	0400000US02	4.777777777777778	15.11111111111111	859.1111111111111
+1167	02	2	0	Alaska	339114	Dental equipment and supplies manufacturing	33	0400000US02	1.0	0.0	0.0
+1168	02	2	0	Alaska	339116	Dental laboratories	33	0400000US02	16.77777777777778	47.333333333333336	2954.8888888888887
+1169	02	2	0	Alaska	339910	Jewelry and silverware manufacturing	33	0400000US02	5.0	10.666666666666666	436.44444444444446
+1170	02	2	0	Alaska	339920	Sporting and athletic goods manufacturing	33	0400000US02	1.8	0.0	0.0
+1171	02	2	0	Alaska	339930	Doll, toy, and game manufacturing	33	0400000US02	1.0	0.0	0.0
+1172	02	2	0	Alaska	339950	Sign manufacturing	33	0400000US02	8.88888888888889	79.0	4983.111111111111
+1173	02	2	0	Alaska	339994	Broom, brush, and mop manufacturing	33	0400000US02	1.0	0.0	0.0
+1174	02	2	0	Alaska	339999	All other miscellaneous manufacturing	33	0400000US02	4.0	2.888888888888889	157.77777777777777
+1175	02	2	0	Alaska	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US02	6.777777777777778	123.44444444444444	6305.444444444444
+1176	02	2	0	Alaska	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US02	25.555555555555557	293.8888888888889	14301.333333333334
+1177	02	2	0	Alaska	423130	Tire and tube merchant wholesalers	42	0400000US02	2.5555555555555554	15.555555555555555	797.3333333333334
+1178	02	2	0	Alaska	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1179	02	2	0	Alaska	423210	Furniture merchant wholesalers	42	0400000US02	10.555555555555555	91.55555555555556	5368.0
+1180	02	2	0	Alaska	423220	Home furnishing merchant wholesalers	42	0400000US02	9.333333333333334	44.22222222222222	2132.8888888888887
+1181	02	2	0	Alaska	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US02	17.77777777777778	225.33333333333334	11045.111111111111
+1182	02	2	0	Alaska	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US02	9.0	40.111111111111114	4983.222222222223
+1183	02	2	0	Alaska	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US02	6.777777777777778	85.88888888888889	5154.444444444444
+1184	02	2	0	Alaska	423390	Other construction material merchant wholesalers	42	0400000US02	7.888888888888889	52.22222222222222	3615.0
+1185	02	2	0	Alaska	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US02	1.6666666666666667	0.0	0.0
+1186	02	2	0	Alaska	423420	Office equipment merchant wholesalers	42	0400000US02	21.0	189.33333333333334	10106.555555555555
+1187	02	2	0	Alaska	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US02	5.888888888888889	98.0	11158.0
+1188	02	2	0	Alaska	423440	Other commercial equipment merchant wholesalers	42	0400000US02	9.333333333333334	68.66666666666667	2935.0
+1189	02	2	0	Alaska	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US02	15.222222222222221	118.33333333333333	10250.444444444445
+1190	02	2	0	Alaska	423460	Ophthalmic goods merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1191	02	2	0	Alaska	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US02	5.333333333333333	14.666666666666666	699.1111111111111
+1192	02	2	0	Alaska	423510	Metal service centers and other metal merchant wholesalers	42	0400000US02	14.444444444444445	103.33333333333333	5963.111111111111
+1193	02	2	0	Alaska	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US02	29.88888888888889	355.0	28647.333333333332
+1194	02	2	0	Alaska	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US02	2.4	0.0	0.0
+1195	02	2	0	Alaska	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US02	16.0	112.66666666666667	12484.333333333334
+1196	02	2	0	Alaska	423710	Hardware merchant wholesalers	42	0400000US02	5.777777777777778	37.111111111111114	2020.7777777777778
+1197	02	2	0	Alaska	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US02	21.22222222222222	271.77777777777777	17538.666666666668
+1198	02	2	0	Alaska	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US02	8.11111111111111	59.111111111111114	4193.111111111111
+1199	02	2	0	Alaska	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US02	2.0	0.0	0.0
+1200	02	2	0	Alaska	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US02	24.77777777777778	383.22222222222223	30904.777777777777
+1201	02	2	0	Alaska	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US02	3.2	3.2	152.6
+1202	02	2	0	Alaska	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US02	69.88888888888889	711.2222222222222	59919.88888888889
+1203	02	2	0	Alaska	423840	Industrial supplies merchant wholesalers	42	0400000US02	14.444444444444445	144.88888888888889	8578.888888888889
+1204	02	2	0	Alaska	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US02	8.444444444444445	30.22222222222222	1816.4444444444443
+1205	02	2	0	Alaska	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US02	6.555555555555555	40.111111111111114	2351.4444444444443
+1206	02	2	0	Alaska	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US02	18.77777777777778	116.77777777777777	4730.0
+1207	02	2	0	Alaska	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US02	2.4444444444444446	12.0	558.2222222222222
+1208	02	2	0	Alaska	423930	Recyclable material merchant wholesalers	42	0400000US02	11.777777777777779	44.77777777777778	2116.5555555555557
+1209	02	2	0	Alaska	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US02	2.5555555555555554	0.5555555555555556	17.22222222222222
+1210	02	2	0	Alaska	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US02	12.222222222222221	44.333333333333336	2698.777777777778
+1211	02	2	0	Alaska	424120	Stationery and office supplies merchant wholesalers	42	0400000US02	7.666666666666667	34.44444444444444	1384.5555555555557
+1212	02	2	0	Alaska	424130	Industrial and personal service paper merchant wholesalers	42	0400000US02	7.0	42.111111111111114	3941.222222222222
+1213	02	2	0	Alaska	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US02	15.0	71.22222222222223	4250.666666666667
+1214	02	2	0	Alaska	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1215	02	2	0	Alaska	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1216	02	2	0	Alaska	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US02	1.2	0.0	0.0
+1217	02	2	0	Alaska	424410	General line grocery merchant wholesalers	42	0400000US02	9.444444444444445	167.77777777777777	11077.444444444445
+1218	02	2	0	Alaska	424420	Packaged frozen food merchant wholesalers	42	0400000US02	11.555555555555555	500.3333333333333	30788.222222222223
+1219	02	2	0	Alaska	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US02	2.4444444444444446	20.444444444444443	867.5555555555555
+1220	02	2	0	Alaska	424450	Confectionery merchant wholesalers	42	0400000US02	6.111111111111111	46.888888888888886	2166.222222222222
+1221	02	2	0	Alaska	424460	Fish and seafood merchant wholesalers	42	0400000US02	38.55555555555556	182.88888888888889	14349.666666666666
+1222	02	2	0	Alaska	424470	Meat and meat product merchant wholesalers	42	0400000US02	6.444444444444445	52.888888888888886	3885.777777777778
+1223	02	2	0	Alaska	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US02	2.8	151.8	6516.4
+1224	02	2	0	Alaska	424490	Other grocery and related products merchant wholesalers	42	0400000US02	31.77777777777778	793.7777777777778	46240.11111111111
+1225	02	2	0	Alaska	424510	Grain and field bean merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1226	02	2	0	Alaska	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US02	3.3333333333333335	6.111111111111111	357.3333333333333
+1227	02	2	0	Alaska	424690	Other chemical and allied products merchant wholesalers	42	0400000US02	22.444444444444443	157.88888888888889	10091.0
+1228	02	2	0	Alaska	424710	Petroleum bulk stations and terminals	42	0400000US02	51.2	763.0	55799.4
+1229	02	2	0	Alaska	424710	Petroleum bulk stations and terminals 	42	0400000US02	57.0	895.0	67906.0
+1230	02	2	0	Alaska	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US02	13.8	171.8	12044.8
+1231	02	2	0	Alaska	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US02	10.0	175.0	10569.0
+1232	02	2	0	Alaska	424810	Beer and ale merchant wholesalers	42	0400000US02	6.111111111111111	0.0	0.0
+1233	02	2	0	Alaska	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US02	4.0	0.0	0.0
+1234	02	2	0	Alaska	424910	Farm supplies merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1235	02	2	0	Alaska	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US02	2.2	0.0	0.0
+1236	02	2	0	Alaska	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US02	3.4444444444444446	4.222222222222222	153.33333333333334
+1237	02	2	0	Alaska	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US02	5.555555555555555	0.0	0.0
+1238	02	2	0	Alaska	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US02	1.0	0.0	0.0
+1239	02	2	0	Alaska	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US02	16.77777777777778	81.11111111111111	3385.1111111111113
+1240	02	2	0	Alaska	425110	Business to business electronic markets	42	0400000US02	1.0	0.0	0.0
+1241	02	2	0	Alaska	425120	Wholesale trade agents and brokers	42	0400000US02	45.666666666666664	286.77777777777777	13164.888888888889
+1242	02	2	0	Alaska	441110	New car dealers	44	0400000US02	30.77777777777778	1868.2222222222222	104519.66666666667
+1243	02	2	0	Alaska	441120	Used car dealers	44	0400000US02	36.0	218.66666666666666	12296.444444444445
+1244	02	2	0	Alaska	441210	Recreational vehicle dealers	44	0400000US02	6.222222222222222	29.444444444444443	1850.4444444444443
+1245	02	2	0	Alaska	441222	Boat dealers	44	0400000US02	32.666666666666664	196.11111111111111	9024.777777777777
+1246	02	2	0	Alaska	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US02	45.44444444444444	385.8888888888889	16158.888888888889
+1247	02	2	0	Alaska	441310	Automotive parts and accessories stores	44	0400000US02	103.88888888888889	907.3333333333334	30914.11111111111
+1248	02	2	0	Alaska	441320	Tire dealers	44	0400000US02	33.44444444444444	380.55555555555554	17276.88888888889
+1249	02	2	0	Alaska	442110	Furniture stores	44	0400000US02	36.77777777777778	247.55555555555554	11478.666666666666
+1250	02	2	0	Alaska	442210	Floor covering stores	44	0400000US02	30.555555555555557	186.33333333333334	7481.444444444444
+1251	02	2	0	Alaska	442299	All other home furnishings stores	44	0400000US02	35.55555555555556	272.55555555555554	6867.555555555556
+1252	02	2	0	Alaska	443141	Household appliance stores	44	0400000US02	13.11111111111111	102.0	4130.777777777777
+1253	02	2	0	Alaska	443142	Electronics stores	44	0400000US02	61.666666666666664	517.2222222222222	15341.222222222223
+1254	02	2	0	Alaska	444110	Home centers	44	0400000US02	19.11111111111111	1287.5555555555557	38373.0
+1255	02	2	0	Alaska	444120	Paint and wallpaper stores	44	0400000US02	14.333333333333334	53.77777777777778	2727.8888888888887
+1256	02	2	0	Alaska	444130	Hardware stores	44	0400000US02	50.888888888888886	613.2222222222222	21901.777777777777
+1257	02	2	0	Alaska	444190	Other building material dealers	44	0400000US02	94.0	956.4444444444445	49858.11111111111
+1258	02	2	0	Alaska	444210	Outdoor power equipment stores	44	0400000US02	3.111111111111111	12.777777777777779	711.6666666666666
+1259	02	2	0	Alaska	444220	Nursery, garden center, and farm supply stores	44	0400000US02	19.77777777777778	100.44444444444444	2857.5555555555557
+1260	02	2	0	Alaska	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US02	214.77777777777777	6065.222222222223	164488.0
+1261	02	2	0	Alaska	445120	Convenience stores	44	0400000US02	35.111111111111114	295.77777777777777	7346.888888888889
+1262	02	2	0	Alaska	445210	Meat markets	44	0400000US02	6.444444444444445	52.666666666666664	1787.4444444444443
+1263	02	2	0	Alaska	445220	Fish and seafood markets	44	0400000US02	14.444444444444445	39.22222222222222	2142.4444444444443
+1264	02	2	0	Alaska	445230	Fruit and vegetable markets	44	0400000US02	4.444444444444445	1.7777777777777777	72.11111111111111
+1265	02	2	0	Alaska	445291	Baked goods stores	44	0400000US02	5.0	41.44444444444444	758.5555555555555
+1266	02	2	0	Alaska	445292	Confectionery and nut stores	44	0400000US02	6.555555555555555	19.11111111111111	289.44444444444446
+1267	02	2	0	Alaska	445299	All other specialty food stores	44	0400000US02	16.666666666666668	111.55555555555556	1590.6666666666667
+1268	02	2	0	Alaska	445310	Beer, wine, and liquor stores	44	0400000US02	97.22222222222223	617.5555555555555	15134.111111111111
+1269	02	2	0	Alaska	446110	Pharmacies and drug stores	44	0400000US02	38.77777777777778	739.6666666666666	37289.0
+1270	02	2	0	Alaska	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US02	23.444444444444443	190.33333333333334	3659.222222222222
+1271	02	2	0	Alaska	446130	Optical goods stores	44	0400000US02	26.555555555555557	100.77777777777777	3757.3333333333335
+1272	02	2	0	Alaska	446191	Food (health) supplement stores	44	0400000US02	26.555555555555557	75.55555555555556	2322.1111111111113
+1273	02	2	0	Alaska	446199	All other health and personal care stores	44	0400000US02	13.444444444444445	82.88888888888889	4338.666666666667
+1274	02	2	0	Alaska	447110	Gasoline stations with convenience stores	44	0400000US02	152.0	1358.5555555555557	36645.444444444445
+1275	02	2	0	Alaska	447190	Other gasoline stations	44	0400000US02	50.666666666666664	311.6666666666667	10484.666666666666
+1276	02	2	0	Alaska	448110	Men's clothing stores	44	0400000US02	10.444444444444445	81.66666666666667	3490.0
+1277	02	2	0	Alaska	448120	Women's clothing stores	44	0400000US02	37.111111111111114	239.66666666666666	3425.0
+1278	02	2	0	Alaska	448130	Children's and infants' clothing stores	44	0400000US02	6.333333333333333	33.111111111111114	442.22222222222223
+1279	02	2	0	Alaska	448140	Family clothing stores	44	0400000US02	68.11111111111111	1038.3333333333333	23304.555555555555
+1280	02	2	0	Alaska	448150	Clothing accessories stores	44	0400000US02	11.777777777777779	35.888888888888886	637.1111111111111
+1281	02	2	0	Alaska	448190	Other clothing stores	44	0400000US02	23.22222222222222	151.77777777777777	3661.222222222222
+1282	02	2	0	Alaska	448210	Shoe stores	44	0400000US02	37.111111111111114	266.3333333333333	5611.0
+1283	02	2	0	Alaska	448310	Jewelry stores	44	0400000US02	77.66666666666667	253.66666666666666	14580.777777777777
+1284	02	2	0	Alaska	451110	Sporting goods stores	45	0400000US02	83.77777777777777	1054.7777777777778	24974.11111111111
+1285	02	2	0	Alaska	451120	Hobby, toy, and game stores	45	0400000US02	28.0	283.55555555555554	4265.888888888889
+1286	02	2	0	Alaska	451130	Sewing, needlework, and piece goods stores	45	0400000US02	29.77777777777778	265.6666666666667	3421.3333333333335
+1287	02	2	0	Alaska	451140	Musical instrument and supplies stores	45	0400000US02	11.0	65.44444444444444	1417.111111111111
+1288	02	2	0	Alaska	451211	Book stores	45	0400000US02	29.333333333333332	218.77777777777777	3848.1111111111113
+1289	02	2	0	Alaska	451212	News dealers and newsstands	45	0400000US02	1.8	0.0	0.0
+1290	02	2	0	Alaska	452111	Department stores (except discount department stores)	45	0400000US02	4.2	130.6	2891.4
+1291	02	2	0	Alaska	452112	Discount department stores	45	0400000US02	6.2	308.0	7726.2
+1292	02	2	0	Alaska	452210	Department stores	45	0400000US02	4.0	355.0	6275.0
+1293	02	2	0	Alaska	452311	Warehouse clubs and supercenters	45	0400000US02	26.0	6287.0	203335.0
+1294	02	2	0	Alaska	452319	All other general merchandise stores	45	0400000US02	56.0	427.0	9625.0
+1295	02	2	0	Alaska	452910	Warehouse clubs and supercenters	45	0400000US02	24.4	6186.6	192040.2
+1296	02	2	0	Alaska	452990	All other general merchandise stores	45	0400000US02	59.6	542.4	9986.0
+1297	02	2	0	Alaska	453110	Florists	45	0400000US02	31.11111111111111	126.44444444444444	2569.4444444444443
+1298	02	2	0	Alaska	453210	Office supplies and stationery stores	45	0400000US02	17.77777777777778	114.77777777777777	2715.1111111111113
+1299	02	2	0	Alaska	453220	Gift, novelty, and souvenir stores	45	0400000US02	164.44444444444446	590.2222222222222	19321.555555555555
+1300	02	2	0	Alaska	453310	Used merchandise stores	45	0400000US02	60.888888888888886	554.4444444444445	11447.444444444445
+1301	02	2	0	Alaska	453910	Pet and pet supplies stores	45	0400000US02	21.11111111111111	177.66666666666666	5384.888888888889
+1302	02	2	0	Alaska	453920	Art dealers	45	0400000US02	41.77777777777778	77.88888888888889	2251.0
+1303	02	2	0	Alaska	453930	Manufactured (mobile) home dealers	45	0400000US02	1.0	0.0	0.0
+1304	02	2	0	Alaska	453991	Tobacco stores	45	0400000US02	34.22222222222222	115.55555555555556	2545.8888888888887
+1305	02	2	0	Alaska	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US02	45.111111111111114	197.22222222222223	7347.111111111111
+1306	02	2	0	Alaska	454110	Electronic shopping and mail-order houses	45	0400000US02	22.0	68.0	2703.0
+1307	02	2	0	Alaska	454111	Electronic shopping	45	0400000US02	18.6	64.4	1883.6
+1308	02	2	0	Alaska	454112	Electronic auctions	45	0400000US02	1.2	0.0	0.0
+1309	02	2	0	Alaska	454113	Mail-order houses	45	0400000US02	5.6	8.0	857.4
+1310	02	2	0	Alaska	454210	Vending machine operators	45	0400000US02	5.111111111111111	68.77777777777777	2232.8888888888887
+1311	02	2	0	Alaska	454310	Fuel dealers	45	0400000US02	63.77777777777778	439.8888888888889	22670.11111111111
+1312	02	2	0	Alaska	454390	Other direct selling establishments	45	0400000US02	39.44444444444444	113.88888888888889	4006.8888888888887
+1313	02	2	0	Alaska	481111	Scheduled passenger air transportation	48	0400000US02	75.77777777777777	4040.4444444444443	228467.66666666666
+1314	02	2	0	Alaska	481112	Scheduled freight air transportation	48	0400000US02	27.666666666666668	1170.2222222222222	82486.66666666667
+1315	02	2	0	Alaska	481211	Nonscheduled chartered passenger air transportation	48	0400000US02	89.77777777777777	560.3333333333334	39827.444444444445
+1316	02	2	0	Alaska	481212	Nonscheduled chartered freight air transportation	48	0400000US02	3.5555555555555554	0.0	0.0
+1317	02	2	0	Alaska	481219	Other nonscheduled air transportation	48	0400000US02	13.222222222222221	100.22222222222223	8599.666666666666
+1318	02	2	0	Alaska	483111	Deep sea freight transportation	48	0400000US02	4.111111111111111	0.0	0.0
+1319	02	2	0	Alaska	483112	Deep sea passenger transportation	48	0400000US02	2.0	0.0	0.0
+1320	02	2	0	Alaska	483113	Coastal and great lakes freight transportation	48	0400000US02	76.11111111111111	661.8888888888889	76950.44444444444
+1321	02	2	0	Alaska	483114	Coastal and great lakes passenger transportation	48	0400000US02	5.222222222222222	27.22222222222222	2640.3333333333335
+1322	02	2	0	Alaska	483211	Inland water freight transportation	48	0400000US02	10.444444444444445	34.666666666666664	4967.444444444444
+1323	02	2	0	Alaska	483212	Inland water passenger transportation	48	0400000US02	11.222222222222221	4.888888888888889	664.6666666666666
+1324	02	2	0	Alaska	484110	General freight trucking, local	48	0400000US02	62.666666666666664	455.55555555555554	28471.666666666668
+1325	02	2	0	Alaska	484121	General freight trucking, long-distance, truckload	48	0400000US02	48.22222222222222	927.2222222222222	60411.666666666664
+1326	02	2	0	Alaska	484122	General freight trucking, long-distance, less than truckload	48	0400000US02	10.666666666666666	216.66666666666666	15330.333333333334
+1327	02	2	0	Alaska	484210	Used household and office goods moving	48	0400000US02	36.0	569.3333333333334	22501.222222222223
+1328	02	2	0	Alaska	484220	Specialized freight (except used goods) trucking, local	48	0400000US02	58.0	261.44444444444446	17063.222222222223
+1329	02	2	0	Alaska	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US02	21.22222222222222	318.3333333333333	20331.88888888889
+1330	02	2	0	Alaska	485111	Mixed mode transit systems	48	0400000US02	3.0	0.0	0.0
+1331	02	2	0	Alaska	485113	Bus and other motor vehicle transit systems	48	0400000US02	5.0	0.0	0.0
+1332	02	2	0	Alaska	485119	Other urban transit systems	48	0400000US02	1.0	0.0	0.0
+1333	02	2	0	Alaska	485210	Interurban and rural bus transportation	48	0400000US02	3.4444444444444446	124.88888888888889	3476.8888888888887
+1334	02	2	0	Alaska	485310	Taxi service	48	0400000US02	16.77777777777778	104.11111111111111	2807.4444444444443
+1335	02	2	0	Alaska	485320	Limousine service	48	0400000US02	4.555555555555555	28.11111111111111	1170.2222222222222
+1336	02	2	0	Alaska	485410	School and employee bus transportation	48	0400000US02	25.333333333333332	847.3333333333334	20327.0
+1337	02	2	0	Alaska	485510	Charter bus industry	48	0400000US02	3.6666666666666665	3.7777777777777777	296.3333333333333
+1338	02	2	0	Alaska	485991	Special needs transportation	48	0400000US02	4.888888888888889	28.666666666666668	926.5555555555555
+1339	02	2	0	Alaska	485999	All other transit and ground passenger transportation	48	0400000US02	9.0	42.111111111111114	1400.888888888889
+1340	02	2	0	Alaska	486110	Pipeline transportation of crude oil	48	0400000US02	11.555555555555555	0.0	0.0
+1341	02	2	0	Alaska	486210	Pipeline transportation of natural gas	48	0400000US02	1.75	0.0	0.0
+1342	02	2	0	Alaska	486910	Pipeline transportation of refined petroleum products	48	0400000US02	2.4	9.0	975.6
+1343	02	2	0	Alaska	487110	Scenic and sightseeing transportation, land	48	0400000US02	33.22222222222222	239.33333333333334	24986.0
+1344	02	2	0	Alaska	487210	Scenic and sightseeing transportation, water	48	0400000US02	128.11111111111111	274.55555555555554	28359.555555555555
+1345	02	2	0	Alaska	487990	Scenic and sightseeing transportation, other	48	0400000US02	28.444444444444443	146.55555555555554	13498.333333333334
+1346	02	2	0	Alaska	488111	Air traffic control	48	0400000US02	4.0	0.0	0.0
+1347	02	2	0	Alaska	488119	Other airport operations	48	0400000US02	25.22222222222222	640.8888888888889	22487.0
+1348	02	2	0	Alaska	488190	Other support activities for air transportation	48	0400000US02	58.44444444444444	443.8888888888889	22114.88888888889
+1349	02	2	0	Alaska	488210	Support activities for rail transportation	48	0400000US02	2.0	3.8	296.4
+1350	02	2	0	Alaska	488310	Port and harbor operations	48	0400000US02	11.222222222222221	66.22222222222223	2938.777777777778
+1351	02	2	0	Alaska	488320	Marine cargo handling	48	0400000US02	7.888888888888889	325.0	24081.555555555555
+1352	02	2	0	Alaska	488330	Navigational services to shipping	48	0400000US02	25.22222222222222	141.77777777777777	14425.222222222223
+1353	02	2	0	Alaska	488390	Other support activities for water transportation	48	0400000US02	14.88888888888889	42.55555555555556	3354.5555555555557
+1354	02	2	0	Alaska	488410	Motor vehicle towing	48	0400000US02	22.555555555555557	117.33333333333333	3861.4444444444443
+1355	02	2	0	Alaska	488490	Other support activities for road transportation	48	0400000US02	4.777777777777778	10.0	729.7777777777778
+1356	02	2	0	Alaska	488510	Freight transportation arrangement	48	0400000US02	60.333333333333336	535.0	28133.444444444445
+1357	02	2	0	Alaska	488991	Packing and crating	48	0400000US02	2.6	0.0	0.0
+1358	02	2	0	Alaska	492110	Couriers and express delivery services	49	0400000US02	45.77777777777778	0.0	0.0
+1359	02	2	0	Alaska	492210	Local messengers and local delivery	49	0400000US02	7.888888888888889	37.55555555555556	1625.4444444444443
+1360	02	2	0	Alaska	493110	General warehousing and storage	49	0400000US02	14.555555555555555	217.22222222222223	17143.333333333332
+1361	02	2	0	Alaska	493120	Refrigerated warehousing and storage	49	0400000US02	1.0	0.0	0.0
+1362	02	2	0	Alaska	493190	Other warehousing and storage	49	0400000US02	10.444444444444445	49.55555555555556	3590.3333333333335
+1363	02	2	0	Alaska	511110	Newspaper publishers	51	0400000US02	22.11111111111111	497.3333333333333	18460.11111111111
+1364	02	2	0	Alaska	511120	Periodical publishers	51	0400000US02	10.88888888888889	43.77777777777778	3021.777777777778
+1365	02	2	0	Alaska	511130	Book publishers	51	0400000US02	8.444444444444445	16.555555555555557	639.0
+1366	02	2	0	Alaska	511140	Directory and mailing list publishers	51	0400000US02	2.7777777777777777	0.0	0.0
+1367	02	2	0	Alaska	511199	All other publishers	51	0400000US02	1.8	0.0	0.0
+1368	02	2	0	Alaska	511210	Software publishers	51	0400000US02	5.333333333333333	24.555555555555557	2015.4444444444443
+1369	02	2	0	Alaska	512110	Motion picture and video production	51	0400000US02	18.0	37.55555555555556	1707.0
+1370	02	2	0	Alaska	512120	Motion picture and video distribution	51	0400000US02	1.0	0.0	0.0
+1371	02	2	0	Alaska	512131	Motion picture theaters (except drive-ins)	51	0400000US02	16.77777777777778	697.6666666666666	10652.111111111111
+1372	02	2	0	Alaska	512191	Teleproduction and other postproduction services	51	0400000US02	1.25	0.0	0.0
+1373	02	2	0	Alaska	512199	Other motion picture and video industries	51	0400000US02	1.0	0.0	0.0
+1374	02	2	0	Alaska	512220	Integrated record production\/distribution	51	0400000US02	1.0	0.0	0.0
+1375	02	2	0	Alaska	512230	Music publishers	51	0400000US02	1.0	0.0	0.0
+1376	02	2	0	Alaska	512240	Sound recording studios	51	0400000US02	1.2	0.0	0.0
+1377	02	2	0	Alaska	512290	Other sound recording industries	51	0400000US02	1.0	0.0	0.0
+1378	02	2	0	Alaska	515111	Radio networks	51	0400000US02	2.6666666666666665	4.222222222222222	221.66666666666666
+1379	02	2	0	Alaska	515112	Radio stations	51	0400000US02	44.55555555555556	462.3333333333333	19378.11111111111
+1380	02	2	0	Alaska	515120	Television broadcasting	51	0400000US02	10.333333333333334	264.1111111111111	11582.555555555555
+1381	02	2	0	Alaska	517110	Wired telecommunications carriers	51	0400000US02	150.4	3507.2	293724.0
+1382	02	2	0	Alaska	517210	Wireless telecommunications carriers (except satellite)	51	0400000US02	41.2	510.4	32413.6
+1383	02	2	0	Alaska	517311	Wired telecommunications carriers	51	0400000US02	159.0	3828.0	326429.0
+1384	02	2	0	Alaska	517312	Wireless telecommunications carriers (except satellite)	51	0400000US02	50.0	395.0	21194.0
+1385	02	2	0	Alaska	517410	Satellite telecommunications	51	0400000US02	7.111111111111111	0.0	0.0
+1386	02	2	0	Alaska	517911	Telecommunications resellers	51	0400000US02	10.0	57.888888888888886	4452.111111111111
+1387	02	2	0	Alaska	517919	All other telecommunications	51	0400000US02	5.333333333333333	22.88888888888889	1258.4444444444443
+1388	02	2	0	Alaska	518210	Data processing, hosting, and related services	51	0400000US02	19.88888888888889	255.88888888888889	13390.444444444445
+1389	02	2	0	Alaska	519110	News syndicates	51	0400000US02	3.6666666666666665	0.7777777777777778	116.22222222222223
+1390	02	2	0	Alaska	519120	Libraries and archives	51	0400000US02	7.666666666666667	18.444444444444443	543.1111111111111
+1391	02	2	0	Alaska	519130	Internet publishing and broadcasting and web search portals	51	0400000US02	5.666666666666667	11.777777777777779	667.7777777777778
+1392	02	2	0	Alaska	519190	All other information services	51	0400000US02	1.6666666666666667	0.0	0.0
+1393	02	2	0	Alaska	522110	Commercial banking	52	0400000US02	136.22222222222223	2114.3333333333335	124068.55555555556
+1394	02	2	0	Alaska	522120	Savings institutions	52	0400000US02	7.222222222222222	0.0	0.0
+1395	02	2	0	Alaska	522130	Credit unions	52	0400000US02	103.33333333333333	2036.3333333333333	115168.55555555556
+1396	02	2	0	Alaska	522210	Credit card issuing	52	0400000US02	1.0	0.0	0.0
+1397	02	2	0	Alaska	522220	Sales financing	52	0400000US02	5.555555555555555	11.777777777777779	1201.0
+1398	02	2	0	Alaska	522291	Consumer lending	52	0400000US02	3.4444444444444446	32.77777777777778	1412.888888888889
+1399	02	2	0	Alaska	522292	Real estate credit	52	0400000US02	33.0	246.88888888888889	21410.88888888889
+1400	02	2	0	Alaska	522294	Secondary market financing	52	0400000US02	1.0	0.0	0.0
+1401	02	2	0	Alaska	522298	All other nondepository credit intermediation	52	0400000US02	19.11111111111111	95.44444444444444	5144.111111111111
+1402	02	2	0	Alaska	522310	Mortgage and nonmortgage loan brokers	52	0400000US02	5.111111111111111	2.7777777777777777	199.77777777777777
+1403	02	2	0	Alaska	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US02	7.222222222222222	17.333333333333332	638.0
+1404	02	2	0	Alaska	522390	Other activities related to credit intermediation	52	0400000US02	9.555555555555555	28.0	824.4444444444445
+1405	02	2	0	Alaska	523110	Investment banking and securities dealing	52	0400000US02	4.0	0.0	0.0
+1406	02	2	0	Alaska	523120	Securities brokerage	52	0400000US02	52.666666666666664	128.66666666666666	33783.0
+1407	02	2	0	Alaska	523130	Commodity contracts dealing	52	0400000US02	1.0	0.0	0.0
+1408	02	2	0	Alaska	523140	Commodity contracts brokerage	52	0400000US02	1.0	0.0	0.0
+1409	02	2	0	Alaska	523910	Miscellaneous intermediation	52	0400000US02	14.333333333333334	83.22222222222223	6617.222222222223
+1410	02	2	0	Alaska	523920	Portfolio management	52	0400000US02	48.666666666666664	206.22222222222223	26345.333333333332
+1411	02	2	0	Alaska	523930	Investment advice	52	0400000US02	28.444444444444443	66.44444444444444	5993.444444444444
+1412	02	2	0	Alaska	523991	Trust, fiduciary, and custody activities	52	0400000US02	7.444444444444445	26.22222222222222	2729.1111111111113
+1413	02	2	0	Alaska	523999	Miscellaneous financial investment activities	52	0400000US02	2.0	0.0	0.0
+1414	02	2	0	Alaska	524113	Direct life insurance carriers	52	0400000US02	13.555555555555555	85.55555555555556	7451.333333333333
+1415	02	2	0	Alaska	524114	Direct health and medical insurance carriers	52	0400000US02	8.0	40.22222222222222	3783.6666666666665
+1416	02	2	0	Alaska	524126	Direct property and casualty insurance carriers	52	0400000US02	20.333333333333332	297.3333333333333	25200.555555555555
+1417	02	2	0	Alaska	524127	Direct title insurance carriers	52	0400000US02	10.777777777777779	129.66666666666666	7941.222222222223
+1418	02	2	0	Alaska	524210	Insurance agencies and brokerages	52	0400000US02	205.0	1048.4444444444443	66547.88888888889
+1419	02	2	0	Alaska	524291	Claims adjusting	52	0400000US02	8.222222222222221	40.888888888888886	2418.222222222222
+1420	02	2	0	Alaska	524292	Third party administration of insurance and pension funds	52	0400000US02	16.11111111111111	70.33333333333333	4203.444444444444
+1421	02	2	0	Alaska	524298	All other insurance related activities	52	0400000US02	3.3333333333333335	1.7777777777777777	120.88888888888889
+1422	02	2	0	Alaska	525910	Open-end investment funds	52	0400000US02	1.0	0.0	0.0
+1423	02	2	0	Alaska	525990	Other financial vehicles	52	0400000US02	11.88888888888889	183.22222222222223	13819.666666666666
+1424	02	2	0	Alaska	531110	Lessors of residential buildings and dwellings	53	0400000US02	118.44444444444444	631.7777777777778	24005.88888888889
+1425	02	2	0	Alaska	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US02	118.55555555555556	560.2222222222222	31993.0
+1426	02	2	0	Alaska	531130	Lessors of miniwarehouses and self-storage units	53	0400000US02	41.77777777777778	162.11111111111111	4896.444444444444
+1427	02	2	0	Alaska	531190	Lessors of other real estate property	53	0400000US02	40.22222222222222	220.55555555555554	10986.444444444445
+1428	02	2	0	Alaska	531210	Offices of real estate agents and brokers	53	0400000US02	232.77777777777777	544.3333333333334	23536.555555555555
+1429	02	2	0	Alaska	531311	Residential property managers	53	0400000US02	54.55555555555556	349.44444444444446	14551.111111111111
+1430	02	2	0	Alaska	531312	Nonresidential property managers	53	0400000US02	46.333333333333336	177.11111111111111	12177.333333333334
+1431	02	2	0	Alaska	531320	Offices of real estate appraisers	53	0400000US02	41.77777777777778	103.22222222222223	6125.888888888889
+1432	02	2	0	Alaska	531390	Other activities related to real estate	53	0400000US02	23.555555555555557	30.77777777777778	2282.1111111111113
+1433	02	2	0	Alaska	532111	Passenger car rental	53	0400000US02	58.333333333333336	531.6666666666666	21161.222222222223
+1434	02	2	0	Alaska	532112	Passenger car leasing	53	0400000US02	1.0	0.0	0.0
+1435	02	2	0	Alaska	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US02	15.555555555555555	166.0	9896.0
+1436	02	2	0	Alaska	532210	Consumer electronics and appliances rental	53	0400000US02	8.444444444444445	0.0	0.0
+1437	02	2	0	Alaska	532220	Formal wear and costume rental	53	0400000US02	3.0	2.2	42.4
+1438	02	2	0	Alaska	532230	Video tape and disc rental	53	0400000US02	24.0	50.4	1075.0
+1439	02	2	0	Alaska	532282	Video tape and disc rental	53	0400000US02	13.0	115.0	1088.0
+1440	02	2	0	Alaska	532283	Home health equipment rental	53	0400000US02	4.0	77.0	3621.0
+1441	02	2	0	Alaska	532284	Recreational goods rental	53	0400000US02	7.0	7.0	371.0
+1442	02	2	0	Alaska	532289	All other consumer goods rental	53	0400000US02	8.0	22.0	747.0
+1443	02	2	0	Alaska	532291	Home health equipment rental	53	0400000US02	4.6	55.4	2572.2
+1444	02	2	0	Alaska	532292	Recreational goods rental	53	0400000US02	8.0	2.4	325.6
+1445	02	2	0	Alaska	532299	All other consumer goods rental	53	0400000US02	7.0	7.4	255.8
+1446	02	2	0	Alaska	532310	General rental centers	53	0400000US02	10.88888888888889	38.888888888888886	1955.7777777777778
+1447	02	2	0	Alaska	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US02	10.222222222222221	7.555555555555555	770.4444444444445
+1448	02	2	0	Alaska	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US02	38.111111111111114	448.8888888888889	35532.22222222222
+1449	02	2	0	Alaska	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US02	21.555555555555557	156.55555555555554	9830.666666666666
+1450	02	2	0	Alaska	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US02	2.3333333333333335	0.4444444444444444	39.55555555555556
+1451	02	2	0	Alaska	541110	Offices of lawyers	54	0400000US02	371.8888888888889	1453.6666666666667	124554.11111111111
+1452	02	2	0	Alaska	541191	Title abstract and settlement offices	54	0400000US02	10.333333333333334	74.22222222222223	4017.5555555555557
+1453	02	2	0	Alaska	541199	All other legal services	54	0400000US02	5.0	49.77777777777778	1433.4444444444443
+1454	02	2	0	Alaska	541211	Offices of certified public accountants	54	0400000US02	117.66666666666667	729.2222222222222	53062.666666666664
+1455	02	2	0	Alaska	541213	Tax preparation services	54	0400000US02	86.22222222222223	463.1111111111111	5713.555555555556
+1456	02	2	0	Alaska	541214	Payroll services	54	0400000US02	7.777777777777778	51.0	2845.8888888888887
+1457	02	2	0	Alaska	541219	Other accounting services	54	0400000US02	139.77777777777777	456.77777777777777	16141.777777777777
+1458	02	2	0	Alaska	541310	Architectural services	54	0400000US02	43.666666666666664	289.3333333333333	23487.777777777777
+1459	02	2	0	Alaska	541320	Landscape architectural services	54	0400000US02	6.222222222222222	8.666666666666666	859.5555555555555
+1460	02	2	0	Alaska	541330	Engineering services	54	0400000US02	250.77777777777777	6218.555555555556	510442.44444444444
+1461	02	2	0	Alaska	541340	Drafting services	54	0400000US02	4.222222222222222	5.0	306.77777777777777
+1462	02	2	0	Alaska	541350	Building inspection services	54	0400000US02	15.555555555555555	23.0	1480.7777777777778
+1463	02	2	0	Alaska	541360	Geophysical surveying and mapping services	54	0400000US02	5.333333333333333	92.88888888888889	5325.222222222223
+1464	02	2	0	Alaska	541370	Surveying and mapping (except geophysical) services	54	0400000US02	71.77777777777777	357.55555555555554	26446.0
+1465	02	2	0	Alaska	541380	Testing laboratories	54	0400000US02	29.77777777777778	1023.0	102948.0
+1466	02	2	0	Alaska	541410	Interior design services	54	0400000US02	11.555555555555555	28.333333333333332	1358.6666666666667
+1467	02	2	0	Alaska	541420	Industrial design services	54	0400000US02	1.0	0.0	0.0
+1468	02	2	0	Alaska	541430	Graphic design services	54	0400000US02	15.11111111111111	35.0	1636.7777777777778
+1469	02	2	0	Alaska	541490	Other specialized design services	54	0400000US02	3.142857142857143	3.142857142857143	61.857142857142854
+1470	02	2	0	Alaska	541511	Custom computer programming services	54	0400000US02	71.0	686.8888888888889	54778.333333333336
+1471	02	2	0	Alaska	541512	Computer systems design services	54	0400000US02	80.88888888888889	822.8888888888889	50071.88888888889
+1472	02	2	0	Alaska	541513	Computer facilities management services	54	0400000US02	26.11111111111111	411.1111111111111	30790.777777777777
+1473	02	2	0	Alaska	541519	Other computer related services	54	0400000US02	15.555555555555555	48.44444444444444	3176.3333333333335
+1474	02	2	0	Alaska	541611	Administrative management and general management consulting services	54	0400000US02	116.0	1208.111111111111	85439.33333333333
+1475	02	2	0	Alaska	541612	Human resources consulting services	54	0400000US02	7.222222222222222	70.55555555555556	2610.1111111111113
+1476	02	2	0	Alaska	541613	Marketing consulting services	54	0400000US02	23.0	26.666666666666668	2143.8888888888887
+1477	02	2	0	Alaska	541614	Process, physical distribution, and logistics consulting services	54	0400000US02	17.555555555555557	265.6666666666667	16220.666666666666
+1478	02	2	0	Alaska	541618	Other management consulting services	54	0400000US02	6.777777777777778	6.444444444444445	624.0
+1479	02	2	0	Alaska	541620	Environmental consulting services	54	0400000US02	76.22222222222223	590.4444444444445	39832.666666666664
+1480	02	2	0	Alaska	541690	Other scientific and technical consulting services	54	0400000US02	58.333333333333336	622.4444444444445	66289.0
+1481	02	2	0	Alaska	541711	Research and development in biotechnology	54	0400000US02	2.2	0.0	0.0
+1482	02	2	0	Alaska	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US02	37.0	523.4	27069.0
+1483	02	2	0	Alaska	541713	Research and development in nanotechnology	54	0400000US02	9.0	92.0	4402.0
+1484	02	2	0	Alaska	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US02	20.0	298.0	17754.0
+1485	02	2	0	Alaska	541720	Research and development in the social sciences and humanities	54	0400000US02	4.444444444444445	31.0	1564.7777777777778
+1486	02	2	0	Alaska	541810	Advertising agencies	54	0400000US02	23.666666666666668	190.0	12008.111111111111
+1487	02	2	0	Alaska	541820	Public relations agencies	54	0400000US02	13.777777777777779	32.44444444444444	2514.8888888888887
+1488	02	2	0	Alaska	541830	Media buying agencies	54	0400000US02	1.0	0.0	0.0
+1489	02	2	0	Alaska	541840	Media representatives	54	0400000US02	1.3333333333333333	0.0	0.0
+1490	02	2	0	Alaska	541850	Outdoor advertising	54	0400000US02	1.2	0.0	0.0
+1491	02	2	0	Alaska	541860	Direct mail advertising	54	0400000US02	3.4444444444444446	6.666666666666667	342.1111111111111
+1492	02	2	0	Alaska	541870	Advertising material distribution services	54	0400000US02	1.0	0.0	0.0
+1493	02	2	0	Alaska	541890	Other services related to advertising	54	0400000US02	14.0	141.33333333333334	2433.3333333333335
+1494	02	2	0	Alaska	541910	Marketing research and public opinion polling	54	0400000US02	3.3333333333333335	8.555555555555555	320.8888888888889
+1495	02	2	0	Alaska	541921	Photography studios, portrait	54	0400000US02	25.11111111111111	74.0	2026.7777777777778
+1496	02	2	0	Alaska	541922	Commercial photography	54	0400000US02	10.444444444444445	11.777777777777779	416.8888888888889
+1497	02	2	0	Alaska	541930	Translation and interpretation services	54	0400000US02	2.5555555555555554	0.7777777777777778	34.22222222222222
+1498	02	2	0	Alaska	541940	Veterinary services	54	0400000US02	57.888888888888886	775.4444444444445	33540.11111111111
+1499	02	2	0	Alaska	541990	All other professional, scientific, and technical services	54	0400000US02	48.77777777777778	173.66666666666666	10584.0
+1500	02	2	0	Alaska	551111	Offices of bank holding companies	55	0400000US02	1.0	0.0	0.0
+1501	02	2	0	Alaska	551112	Offices of other holding companies	55	0400000US02	32.333333333333336	315.44444444444446	31711.88888888889
+1502	02	2	0	Alaska	551114	Corporate, subsidiary, and regional managing offices	55	0400000US02	147.77777777777777	6176.0	655860.5555555555
+1503	02	2	0	Alaska	561110	Office administrative services	56	0400000US02	84.33333333333333	408.77777777777777	31738.777777777777
+1504	02	2	0	Alaska	561210	Facilities support services	56	0400000US02	66.88888888888889	6145.111111111111	353264.1111111111
+1505	02	2	0	Alaska	561311	Employment placement agencies	56	0400000US02	3.0	1.3333333333333333	85.77777777777777
+1506	02	2	0	Alaska	561312	Executive search services	56	0400000US02	3.4444444444444446	0.0	0.0
+1507	02	2	0	Alaska	561320	Temporary help services	56	0400000US02	52.333333333333336	1115.3333333333333	51184.666666666664
+1508	02	2	0	Alaska	561330	Professional employer organizations	56	0400000US02	6.0	913.8	38333.8
+1509	02	2	0	Alaska	561410	Document preparation services	56	0400000US02	11.777777777777779	5.777777777777778	147.44444444444446
+1510	02	2	0	Alaska	561421	Telephone answering services	56	0400000US02	1.6	0.0	0.0
+1511	02	2	0	Alaska	561422	Telemarketing bureaus and other contact centers	56	0400000US02	2.4444444444444446	3.111111111111111	135.11111111111111
+1512	02	2	0	Alaska	561431	Private mail centers	56	0400000US02	14.88888888888889	90.11111111111111	3387.1111111111113
+1513	02	2	0	Alaska	561439	Other business service centers (including copy shops)	56	0400000US02	16.77777777777778	87.77777777777777	3093.0
+1514	02	2	0	Alaska	561440	Collection agencies	56	0400000US02	12.777777777777779	134.22222222222223	5985.777777777777
+1515	02	2	0	Alaska	561450	Credit bureaus	56	0400000US02	1.0	0.0	0.0
+1516	02	2	0	Alaska	561491	Repossession services	56	0400000US02	1.0	0.0	0.0
+1517	02	2	0	Alaska	561492	Court reporting and stenotype services	56	0400000US02	8.0	8.555555555555555	414.1111111111111
+1518	02	2	0	Alaska	561499	All other business support services	56	0400000US02	6.0	19.11111111111111	800.0
+1519	02	2	0	Alaska	561510	Travel agencies	56	0400000US02	34.44444444444444	240.88888888888889	11284.888888888889
+1520	02	2	0	Alaska	561520	Tour operators	56	0400000US02	62.333333333333336	425.6666666666667	31214.88888888889
+1521	02	2	0	Alaska	561591	Convention and visitors bureaus	56	0400000US02	14.0	133.0	6213.0
+1522	02	2	0	Alaska	561599	All other travel arrangement and reservation services	56	0400000US02	4.555555555555555	22.666666666666668	1084.4444444444443
+1523	02	2	0	Alaska	561611	Investigation services	56	0400000US02	5.333333333333333	7.0	381.55555555555554
+1524	02	2	0	Alaska	561612	Security guards and patrol services	56	0400000US02	33.55555555555556	1530.3333333333333	60039.555555555555
+1525	02	2	0	Alaska	561613	Armored car services	56	0400000US02	4.0	0.0	0.0
+1526	02	2	0	Alaska	561621	Security systems services (except locksmiths)	56	0400000US02	15.88888888888889	245.55555555555554	11975.222222222223
+1527	02	2	0	Alaska	561622	Locksmiths	56	0400000US02	9.444444444444445	46.333333333333336	2308.222222222222
+1528	02	2	0	Alaska	561710	Exterminating and pest control services	56	0400000US02	8.222222222222221	26.22222222222222	1493.888888888889
+1529	02	2	0	Alaska	561720	Janitorial services	56	0400000US02	235.22222222222223	2466.777777777778	54995.666666666664
+1530	02	2	0	Alaska	561730	Landscaping services	56	0400000US02	155.88888888888889	587.0	27968.11111111111
+1531	02	2	0	Alaska	561740	Carpet and upholstery cleaning services	56	0400000US02	22.333333333333332	117.55555555555556	3558.8888888888887
+1532	02	2	0	Alaska	561790	Other services to buildings and dwellings	56	0400000US02	40.333333333333336	186.11111111111111	6818.111111111111
+1533	02	2	0	Alaska	561910	Packaging and labeling services	56	0400000US02	1.0	0.0	0.0
+1534	02	2	0	Alaska	561920	Convention and trade show organizers	56	0400000US02	10.444444444444445	44.888888888888886	1735.2222222222222
+1535	02	2	0	Alaska	561990	All other support services	56	0400000US02	52.44444444444444	344.44444444444446	32265.777777777777
+1536	02	2	0	Alaska	562111	Solid waste collection	56	0400000US02	31.555555555555557	390.44444444444446	22288.11111111111
+1537	02	2	0	Alaska	562112	Hazardous waste collection	56	0400000US02	1.0	0.0	0.0
+1538	02	2	0	Alaska	562119	Other waste collection	56	0400000US02	3.5	11.625	882.625
+1539	02	2	0	Alaska	562211	Hazardous waste treatment and disposal	56	0400000US02	9.11111111111111	83.11111111111111	6198.333333333333
+1540	02	2	0	Alaska	562212	Solid waste landfill	56	0400000US02	3.5555555555555554	13.88888888888889	982.4444444444445
+1541	02	2	0	Alaska	562910	Remediation services	56	0400000US02	78.44444444444444	820.2222222222222	69034.88888888889
+1542	02	2	0	Alaska	562920	Materials recovery facilities	56	0400000US02	1.8	0.0	0.0
+1543	02	2	0	Alaska	562991	Septic tank and related services	56	0400000US02	23.11111111111111	117.44444444444444	6165.555555555556
+1544	02	2	0	Alaska	562998	All other miscellaneous waste management services	56	0400000US02	4.777777777777778	10.666666666666666	1260.5555555555557
+1545	02	2	0	Alaska	611110	Elementary and secondary schools	61	0400000US02	52.44444444444444	763.1111111111111	17901.777777777777
+1546	02	2	0	Alaska	611210	Junior colleges	61	0400000US02	1.0	0.0	0.0
+1547	02	2	0	Alaska	611310	Colleges, universities, and professional schools	61	0400000US02	13.0	669.6666666666666	19911.666666666668
+1548	02	2	0	Alaska	611410	Business and secretarial schools	61	0400000US02	1.0	0.0	0.0
+1549	02	2	0	Alaska	611420	Computer training	61	0400000US02	1.0	0.0	0.0
+1550	02	2	0	Alaska	611430	Professional and management development training	61	0400000US02	7.666666666666667	7.111111111111111	658.4444444444445
+1551	02	2	0	Alaska	611511	Cosmetology and barber schools	61	0400000US02	2.2	0.0	0.0
+1552	02	2	0	Alaska	611512	Flight training	61	0400000US02	9.555555555555555	22.11111111111111	976.7777777777778
+1553	02	2	0	Alaska	611513	Apprenticeship training	61	0400000US02	18.88888888888889	113.11111111111111	6282.0
+1554	02	2	0	Alaska	611519	Other technical and trade schools	61	0400000US02	11.222222222222221	141.11111111111111	6553.777777777777
+1555	02	2	0	Alaska	611610	Fine arts schools	61	0400000US02	35.888888888888886	230.88888888888889	3220.4444444444443
+1556	02	2	0	Alaska	611620	Sports and recreation instruction	61	0400000US02	50.111111111111114	367.77777777777777	6924.333333333333
+1557	02	2	0	Alaska	611630	Language schools	61	0400000US02	3.4444444444444446	11.11111111111111	127.55555555555556
+1558	02	2	0	Alaska	611691	Exam preparation and tutoring	61	0400000US02	12.777777777777779	192.66666666666666	3325.1111111111113
+1559	02	2	0	Alaska	611692	Automobile driving schools	61	0400000US02	6.111111111111111	20.77777777777778	634.4444444444445
+1560	02	2	0	Alaska	611699	All other miscellaneous schools and instruction	61	0400000US02	27.444444444444443	141.33333333333334	3897.8888888888887
+1561	02	2	0	Alaska	611710	Educational support services	61	0400000US02	24.333333333333332	148.66666666666666	5541.666666666667
+1562	02	2	0	Alaska	621111	Offices of physicians (except mental health specialists)	62	0400000US02	535.6666666666666	5186.222222222223	521466.22222222225
+1563	02	2	0	Alaska	621112	Offices of physicians, mental health specialists	62	0400000US02	16.11111111111111	59.111111111111114	6238.0
+1564	02	2	0	Alaska	621210	Offices of dentists	62	0400000US02	327.1111111111111	2465.6666666666665	142859.11111111112
+1565	02	2	0	Alaska	621310	Offices of chiropractors	62	0400000US02	157.0	823.5555555555555	34730.77777777778
+1566	02	2	0	Alaska	621320	Offices of optometrists	62	0400000US02	56.888888888888886	336.1111111111111	18498.333333333332
+1567	02	2	0	Alaska	621330	Offices of mental health practitioners (except physicians)	62	0400000US02	54.0	133.11111111111111	7712.555555555556
+1568	02	2	0	Alaska	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US02	133.22222222222223	784.7777777777778	45675.666666666664
+1569	02	2	0	Alaska	621391	Offices of podiatrists	62	0400000US02	11.11111111111111	53.77777777777778	4940.888888888889
+1570	02	2	0	Alaska	621399	Offices of all other miscellaneous health practitioners	62	0400000US02	80.22222222222223	312.0	14237.111111111111
+1571	02	2	0	Alaska	621410	Family planning centers	62	0400000US02	12.666666666666666	70.22222222222223	2573.777777777778
+1572	02	2	0	Alaska	621420	Outpatient mental health and substance abuse centers	62	0400000US02	28.666666666666668	908.0	41215.444444444445
+1573	02	2	0	Alaska	621491	HMO medical centers	62	0400000US02	6.0	0.0	0.0
+1574	02	2	0	Alaska	621492	Kidney dialysis centers	62	0400000US02	7.444444444444445	0.0	0.0
+1575	02	2	0	Alaska	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US02	16.666666666666668	309.22222222222223	25679.777777777777
+1576	02	2	0	Alaska	621498	All other outpatient care centers	62	0400000US02	121.11111111111111	3242.4444444444443	230551.11111111112
+1577	02	2	0	Alaska	621511	Medical laboratories	62	0400000US02	17.444444444444443	103.88888888888889	10597.111111111111
+1578	02	2	0	Alaska	621512	Diagnostic imaging centers	62	0400000US02	21.88888888888889	252.22222222222223	32752.11111111111
+1579	02	2	0	Alaska	621610	Home health care services	62	0400000US02	41.111111111111114	1297.0	37325.555555555555
+1580	02	2	0	Alaska	621910	Ambulance services	62	0400000US02	15.666666666666666	325.6666666666667	27071.222222222223
+1581	02	2	0	Alaska	621991	Blood and organ banks	62	0400000US02	3.5555555555555554	0.0	0.0
+1582	02	2	0	Alaska	621999	All other miscellaneous ambulatory health care services	62	0400000US02	16.11111111111111	67.11111111111111	2969.8888888888887
+1583	02	2	0	Alaska	622110	General medical and surgical hospitals	62	0400000US02	25.333333333333332	14047.333333333334	1048673.888888889
+1584	02	2	0	Alaska	622210	Psychiatric and substance abuse hospitals	62	0400000US02	2.6	332.2	18862.8
+1585	02	2	0	Alaska	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US02	2.0	0.0	0.0
+1586	02	2	0	Alaska	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US02	10.11111111111111	823.3333333333334	36986.444444444445
+1587	02	2	0	Alaska	623210	Residential intellectual and developmental disability facilities	62	0400000US02	113.11111111111111	1749.6666666666667	45178.555555555555
+1588	02	2	0	Alaska	623220	Residential mental health and substance abuse facilities	62	0400000US02	34.666666666666664	878.3333333333334	32694.222222222223
+1589	02	2	0	Alaska	623311	Continuing care retirement communities	62	0400000US02	25.22222222222222	202.88888888888889	5543.222222222223
+1590	02	2	0	Alaska	623312	Assisted living facilities for the elderly	62	0400000US02	156.55555555555554	1014.2222222222222	27336.333333333332
+1591	02	2	0	Alaska	623990	Other residential care facilities	62	0400000US02	41.0	546.5555555555555	18507.222222222223
+1592	02	2	0	Alaska	624110	Child and youth services	62	0400000US02	19.77777777777778	182.88888888888889	5018.111111111111
+1593	02	2	0	Alaska	624120	Services for the elderly and persons with disabilities	62	0400000US02	126.0	5463.0	137306.0
+1594	02	2	0	Alaska	624190	Other individual and family services	62	0400000US02	98.0	1941.0	79413.66666666667
+1595	02	2	0	Alaska	624210	Community food services	62	0400000US02	31.444444444444443	217.0	6570.111111111111
+1596	02	2	0	Alaska	624221	Temporary shelters	62	0400000US02	32.22222222222222	542.2222222222222	18102.222222222223
+1597	02	2	0	Alaska	624229	Other community housing services	62	0400000US02	11.222222222222221	82.22222222222223	3692.222222222222
+1598	02	2	0	Alaska	624230	Emergency and other relief services	62	0400000US02	2.888888888888889	0.0	0.0
+1599	02	2	0	Alaska	624310	Vocational rehabilitation services	62	0400000US02	21.0	795.8888888888889	25621.11111111111
+1600	02	2	0	Alaska	624410	Child day care services	62	0400000US02	173.22222222222223	1874.111111111111	41968.11111111111
+1601	02	2	0	Alaska	711110	Theater companies and dinner theaters	71	0400000US02	14.444444444444445	74.77777777777777	1892.3333333333333
+1602	02	2	0	Alaska	711120	Dance companies	71	0400000US02	1.5	0.0	0.0
+1603	02	2	0	Alaska	711130	Musical groups and artists	71	0400000US02	8.11111111111111	16.666666666666668	681.0
+1604	02	2	0	Alaska	711190	Other performing arts companies	71	0400000US02	2.888888888888889	18.77777777777778	1659.888888888889
+1605	02	2	0	Alaska	711211	Sports teams and clubs	71	0400000US02	5.666666666666667	13.222222222222221	458.1111111111111
+1606	02	2	0	Alaska	711212	Racetracks	71	0400000US02	1.4	0.0	0.0
+1607	02	2	0	Alaska	711219	Other spectator sports	71	0400000US02	7.111111111111111	13.666666666666666	632.8888888888889
+1608	02	2	0	Alaska	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US02	8.666666666666666	604.2222222222222	9982.444444444445
+1609	02	2	0	Alaska	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US02	7.777777777777778	39.333333333333336	1377.4444444444443
+1610	02	2	0	Alaska	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US02	1.0	0.0	0.0
+1611	02	2	0	Alaska	711510	Independent artists, writers, and performers	71	0400000US02	31.444444444444443	45.111111111111114	1851.888888888889
+1612	02	2	0	Alaska	712110	Museums	71	0400000US02	27.444444444444443	223.33333333333334	9238.0
+1613	02	2	0	Alaska	712120	Historical sites	71	0400000US02	2.5555555555555554	0.0	0.0
+1614	02	2	0	Alaska	712130	Zoos and botanical gardens	71	0400000US02	6.111111111111111	36.888888888888886	1359.111111111111
+1615	02	2	0	Alaska	712190	Nature parks and other similar institutions	71	0400000US02	8.666666666666666	39.111111111111114	2435.0
+1616	02	2	0	Alaska	713110	Amusement and theme parks	71	0400000US02	2.4	0.0	0.0
+1617	02	2	0	Alaska	713120	Amusement arcades	71	0400000US02	1.6	0.0	0.0
+1618	02	2	0	Alaska	713290	Other gambling industries	71	0400000US02	58.888888888888886	510.8888888888889	10676.111111111111
+1619	02	2	0	Alaska	713910	Golf courses and country clubs	71	0400000US02	15.777777777777779	29.11111111111111	2743.5555555555557
+1620	02	2	0	Alaska	713920	Skiing facilities	71	0400000US02	8.0	156.0	1472.6666666666667
+1621	02	2	0	Alaska	713930	Marinas	71	0400000US02	10.333333333333334	26.11111111111111	1480.5555555555557
+1622	02	2	0	Alaska	713940	Fitness and recreational sports centers	71	0400000US02	85.66666666666667	1784.6666666666667	23159.333333333332
+1623	02	2	0	Alaska	713950	Bowling centers	71	0400000US02	6.444444444444445	143.55555555555554	2873.3333333333335
+1624	02	2	0	Alaska	713990	All other amusement and recreation industries	71	0400000US02	245.0	648.4444444444445	25550.666666666668
+1625	02	2	0	Alaska	721110	Hotels (except casino hotels) and motels	72	0400000US02	283.3333333333333	5750.555555555556	182880.33333333334
+1626	02	2	0	Alaska	721191	Bed-and-breakfast inns	72	0400000US02	58.888888888888886	90.11111111111111	2370.4444444444443
+1627	02	2	0	Alaska	721199	All other traveler accommodation	72	0400000US02	29.88888888888889	34.666666666666664	2988.0
+1628	02	2	0	Alaska	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US02	30.666666666666668	15.444444444444445	1767.0
+1629	02	2	0	Alaska	721214	Recreational and vacation camps (except campgrounds)	72	0400000US02	125.22222222222223	245.77777777777777	26162.222222222223
+1630	02	2	0	Alaska	721310	Rooming and boarding houses	72	0400000US02	11.88888888888889	158.11111111111111	9113.111111111111
+1631	02	2	0	Alaska	722310	Food service contractors	72	0400000US02	94.11111111111111	2936.777777777778	119840.66666666667
+1632	02	2	0	Alaska	722320	Caterers	72	0400000US02	15.88888888888889	101.55555555555556	2007.4444444444443
+1633	02	2	0	Alaska	722330	Mobile food services	72	0400000US02	61.55555555555556	98.11111111111111	1843.5555555555557
+1634	02	2	0	Alaska	722410	Drinking places (alcoholic beverages)	72	0400000US02	162.66666666666666	1411.5555555555557	27374.88888888889
+1635	02	2	0	Alaska	722511	Full-service restaurants	72	0400000US02	579.8888888888889	8603.111111111111	214603.55555555556
+1636	02	2	0	Alaska	722513	Limited-service restaurants	72	0400000US02	435.6666666666667	6205.0	105214.22222222222
+1637	02	2	0	Alaska	722514	Cafeterias, grill buffets, and buffets	72	0400000US02	8.333333333333334	185.11111111111111	4881.333333333333
+1638	02	2	0	Alaska	722515	Snack and nonalcoholic beverage bars	72	0400000US02	271.1111111111111	1767.7777777777778	28035.88888888889
+1639	02	2	0	Alaska	811111	General automotive repair	81	0400000US02	182.77777777777777	821.0	37617.22222222222
+1640	02	2	0	Alaska	811112	Automotive exhaust system repair	81	0400000US02	1.0	0.0	0.0
+1641	02	2	0	Alaska	811113	Automotive transmission repair	81	0400000US02	12.333333333333334	46.0	2435.8888888888887
+1642	02	2	0	Alaska	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US02	6.222222222222222	28.22222222222222	1434.6666666666667
+1643	02	2	0	Alaska	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US02	54.333333333333336	522.1111111111111	25833.11111111111
+1644	02	2	0	Alaska	811122	Automotive glass replacement shops	81	0400000US02	23.88888888888889	76.22222222222223	4971.333333333333
+1645	02	2	0	Alaska	811191	Automotive oil change and lubrication shops	81	0400000US02	11.222222222222221	75.55555555555556	2896.1111111111113
+1646	02	2	0	Alaska	811192	Car washes	81	0400000US02	30.0	137.88888888888889	3959.222222222222
+1647	02	2	0	Alaska	811198	All other automotive repair and maintenance	81	0400000US02	6.2	9.0	212.4
+1648	02	2	0	Alaska	811211	Consumer electronics repair and maintenance	81	0400000US02	3.2	1.6	41.0
+1649	02	2	0	Alaska	811212	Computer and office machine repair and maintenance	81	0400000US02	14.88888888888889	18.555555555555557	962.2222222222222
+1650	02	2	0	Alaska	811213	Communication equipment repair and maintenance	81	0400000US02	3.0	2.4	103.0
+1651	02	2	0	Alaska	811219	Other electronic and precision equipment repair and maintenance	81	0400000US02	8.555555555555555	51.111111111111114	6008.777777777777
+1652	02	2	0	Alaska	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US02	81.44444444444444	376.55555555555554	21271.666666666668
+1653	02	2	0	Alaska	811411	Home and garden equipment repair and maintenance	81	0400000US02	6.0	8.6	199.4
+1654	02	2	0	Alaska	811412	Appliance repair and maintenance	81	0400000US02	14.666666666666666	52.77777777777778	2382.0
+1655	02	2	0	Alaska	811420	Reupholstery and furniture repair	81	0400000US02	5.0	8.333333333333334	427.55555555555554
+1656	02	2	0	Alaska	811490	Other personal and household goods repair and maintenance	81	0400000US02	45.0	175.88888888888889	7884.333333333333
+1657	02	2	0	Alaska	812111	Barber shops	81	0400000US02	9.555555555555555	28.88888888888889	1437.111111111111
+1658	02	2	0	Alaska	812112	Beauty salons	81	0400000US02	136.77777777777777	830.0	20160.444444444445
+1659	02	2	0	Alaska	812113	Nail salons	81	0400000US02	28.333333333333332	100.88888888888889	3080.1111111111113
+1660	02	2	0	Alaska	812191	Diet and weight reducing centers	81	0400000US02	4.666666666666667	54.55555555555556	1888.4444444444443
+1661	02	2	0	Alaska	812199	Other personal care services	81	0400000US02	68.77777777777777	280.77777777777777	5231.0
+1662	02	2	0	Alaska	812210	Funeral homes and funeral services	81	0400000US02	15.666666666666666	71.66666666666667	3081.222222222222
+1663	02	2	0	Alaska	812220	Cemeteries and crematories	81	0400000US02	5.666666666666667	16.77777777777778	761.0
+1664	02	2	0	Alaska	812310	Coin-operated laundries and drycleaners	81	0400000US02	21.11111111111111	83.11111111111111	1579.2222222222222
+1665	02	2	0	Alaska	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US02	22.555555555555557	189.66666666666666	5095.777777777777
+1666	02	2	0	Alaska	812331	Linen supply	81	0400000US02	1.8888888888888888	83.11111111111111	3301.3333333333335
+1667	02	2	0	Alaska	812332	Industrial launderers	81	0400000US02	1.0	0.0	0.0
+1668	02	2	0	Alaska	812910	Pet care (except veterinary) services	81	0400000US02	51.0	222.22222222222223	4363.888888888889
+1669	02	2	0	Alaska	812921	Photofinishing laboratories (except one-hour)	81	0400000US02	1.0	0.0	0.0
+1670	02	2	0	Alaska	812922	One-hour photofinishing	81	0400000US02	1.2	0.0	0.0
+1671	02	2	0	Alaska	812930	Parking lots and garages	81	0400000US02	8.666666666666666	113.88888888888889	3045.222222222222
+1672	02	2	0	Alaska	812990	All other personal services	81	0400000US02	13.444444444444445	19.555555555555557	797.0
+1673	02	2	0	Alaska	813110	Religious organizations	81	0400000US02	402.44444444444446	2461.3333333333335	55410.88888888889
+1674	02	2	0	Alaska	813211	Grantmaking foundations	81	0400000US02	38.888888888888886	186.55555555555554	11004.777777777777
+1675	02	2	0	Alaska	813212	Voluntary health organizations	81	0400000US02	20.11111111111111	191.44444444444446	5652.333333333333
+1676	02	2	0	Alaska	813219	Other grantmaking and giving services	81	0400000US02	9.666666666666666	42.666666666666664	2349.4444444444443
+1677	02	2	0	Alaska	813311	Human rights organizations	81	0400000US02	15.11111111111111	31.333333333333332	2449.0
+1678	02	2	0	Alaska	813312	Environment, conservation and wildlife organizations	81	0400000US02	76.22222222222223	426.55555555555554	20640.88888888889
+1679	02	2	0	Alaska	813319	Other social advocacy organizations	81	0400000US02	24.555555555555557	109.77777777777777	5877.444444444444
+1680	02	2	0	Alaska	813410	Civic and social organizations	81	0400000US02	151.55555555555554	880.3333333333334	17596.666666666668
+1681	02	2	0	Alaska	813910	Business associations	81	0400000US02	81.0	208.22222222222223	13558.222222222223
+1682	02	2	0	Alaska	813920	Professional organizations	81	0400000US02	24.0	97.44444444444444	6316.111111111111
+1683	02	2	0	Alaska	813930	Labor unions and similar labor organizations	81	0400000US02	56.333333333333336	341.55555555555554	23076.777777777777
+1684	02	2	0	Alaska	813940	Political organizations	81	0400000US02	10.666666666666666	9.11111111111111	1030.4444444444443
+1685	02	2	0	Alaska	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US02	20.0	113.33333333333333	4326.444444444444

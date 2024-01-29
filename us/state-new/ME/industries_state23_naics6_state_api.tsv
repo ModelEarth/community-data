@@ -1,0 +1,868 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+16531	23	23	0	Maine	113110	Timber tract operations	11	0400000US23	14.0	84.33333333333333	4544.555555555556
+16532	23	23	0	Maine	113210	Forest nurseries and gathering of forest products	11	0400000US23	1.6	0.0	0.0
+16533	23	23	0	Maine	113310	Logging	11	0400000US23	407.8888888888889	2319.777777777778	95911.55555555556
+16534	23	23	0	Maine	114111	Finfish fishing	11	0400000US23	65.11111111111111	288.44444444444446	22642.444444444445
+16535	23	23	0	Maine	114112	Shellfish fishing	11	0400000US23	333.77777777777777	175.88888888888889	13154.777777777777
+16536	23	23	0	Maine	114119	Other marine fishing	11	0400000US23	3.0	0.5	18.5
+16537	23	23	0	Maine	114210	Hunting and trapping	11	0400000US23	1.0	0.0	0.0
+16538	23	23	0	Maine	115112	Soil preparation, planting, and cultivating	11	0400000US23	7.666666666666667	14.88888888888889	617.3333333333334
+16539	23	23	0	Maine	115113	Crop harvesting, primarily by machine	11	0400000US23	4.222222222222222	7.555555555555555	282.0
+16540	23	23	0	Maine	115114	Postharvest crop activities (except cotton ginning)	11	0400000US23	1.0	0.0	0.0
+16541	23	23	0	Maine	115115	Farm labor contractors and crew leaders	11	0400000US23	1.25	0.0	0.0
+16542	23	23	0	Maine	115116	Farm management services	11	0400000US23	2.2857142857142856	1.1428571428571428	19.428571428571427
+16543	23	23	0	Maine	115210	Support activities for animal production	11	0400000US23	16.555555555555557	35.22222222222222	677.8888888888889
+16544	23	23	0	Maine	115310	Support activities for forestry	11	0400000US23	33.666666666666664	91.66666666666667	5710.666666666667
+16545	23	23	0	Maine	211111	Crude petroleum and natural gas extraction	21	0400000US23	1.0	0.0	0.0
+16546	23	23	0	Maine	212311	Dimension stone mining and quarrying	21	0400000US23	2.2	2.8	155.2
+16547	23	23	0	Maine	212312	Crushed and broken limestone mining and quarrying	21	0400000US23	3.0	12.4	781.0
+16548	23	23	0	Maine	212313	Crushed and broken granite mining and quarrying	21	0400000US23	3.5555555555555554	16.22222222222222	1011.0
+16549	23	23	0	Maine	212319	Other crushed and broken stone mining and quarrying	21	0400000US23	1.0	0.0	0.0
+16550	23	23	0	Maine	212321	Construction sand and gravel mining	21	0400000US23	7.333333333333333	7.666666666666667	679.4444444444445
+16551	23	23	0	Maine	212399	All other nonmetallic mineral mining	21	0400000US23	2.4	1.2	143.4
+16552	23	23	0	Maine	213112	Support activities for oil and gas operations	21	0400000US23	1.0	0.0	0.0
+16553	23	23	0	Maine	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US23	1.0	0.0	0.0
+16554	23	23	0	Maine	221111	Hydroelectric power generation	22	0400000US23	23.333333333333332	67.11111111111111	5588.888888888889
+16555	23	23	0	Maine	221112	Fossil fuel electric power generation	22	0400000US23	4.333333333333333	52.333333333333336	6089.444444444444
+16556	23	23	0	Maine	221114	Solar electric power generation	22	0400000US23	1.0	0.0	0.0
+16557	23	23	0	Maine	221115	Wind electric power generation	22	0400000US23	3.0	4.666666666666667	495.8888888888889
+16558	23	23	0	Maine	221117	Biomass electric power generation	22	0400000US23	4.222222222222222	96.44444444444444	6366.222222222223
+16559	23	23	0	Maine	221118	Other electric power generation	22	0400000US23	7.0	48.0	3047.2
+16560	23	23	0	Maine	221121	Electric bulk power transmission and control	22	0400000US23	23.0	0.0	0.0
+16561	23	23	0	Maine	221122	Electric power distribution	22	0400000US23	34.22222222222222	806.7777777777778	80752.44444444444
+16562	23	23	0	Maine	221210	Natural gas distribution	22	0400000US23	5.0	91.88888888888889	6926.222222222223
+16563	23	23	0	Maine	221310	Water supply and irrigation systems	22	0400000US23	16.333333333333332	78.44444444444444	5578.777777777777
+16564	23	23	0	Maine	221320	Sewage treatment facilities	22	0400000US23	1.0	0.0	0.0
+16565	23	23	0	Maine	236115	New single-family housing construction (except for-sale builders)	23	0400000US23	524.2222222222222	1756.0	72242.0
+16566	23	23	0	Maine	236116	New multifamily housing construction (except for-sale builders)	23	0400000US23	4.555555555555555	28.333333333333332	1554.4444444444443
+16567	23	23	0	Maine	236117	New housing for-sale builders	23	0400000US23	79.77777777777777	281.55555555555554	12571.666666666666
+16568	23	23	0	Maine	236118	Residential remodelers	23	0400000US23	743.5555555555555	1857.6666666666667	66336.88888888889
+16569	23	23	0	Maine	236210	Industrial building construction	23	0400000US23	6.111111111111111	56.0	3740.4444444444443
+16570	23	23	0	Maine	236220	Commercial and institutional building construction	23	0400000US23	149.33333333333334	1413.3333333333333	73502.44444444444
+16571	23	23	0	Maine	237110	Water and sewer line and related structures construction	23	0400000US23	63.77777777777778	387.22222222222223	20888.555555555555
+16572	23	23	0	Maine	237120	Oil and gas pipeline and related structures construction	23	0400000US23	7.222222222222222	52.333333333333336	3770.4444444444443
+16573	23	23	0	Maine	237130	Power and communication line and related structures construction	23	0400000US23	37.55555555555556	1269.7777777777778	101427.0
+16574	23	23	0	Maine	237210	Land subdivision	23	0400000US23	12.666666666666666	20.444444444444443	1493.6666666666667
+16575	23	23	0	Maine	237310	Highway, street, and bridge construction	23	0400000US23	76.0	859.6666666666666	68265.22222222222
+16576	23	23	0	Maine	237990	Other heavy and civil engineering construction	23	0400000US23	39.77777777777778	350.44444444444446	19224.444444444445
+16577	23	23	0	Maine	238110	Poured concrete foundation and structure contractors	23	0400000US23	158.55555555555554	693.2222222222222	34943.0
+16578	23	23	0	Maine	238120	Structural steel and precast concrete contractors	23	0400000US23	13.444444444444445	150.44444444444446	6090.555555555556
+16579	23	23	0	Maine	238130	Framing contractors	23	0400000US23	63.333333333333336	179.0	6438.888888888889
+16580	23	23	0	Maine	238140	Masonry contractors	23	0400000US23	142.66666666666666	540.0	21551.444444444445
+16581	23	23	0	Maine	238150	Glass and glazing contractors	23	0400000US23	18.11111111111111	97.55555555555556	4023.6666666666665
+16582	23	23	0	Maine	238160	Roofing contractors	23	0400000US23	94.55555555555556	714.3333333333334	32635.777777777777
+16583	23	23	0	Maine	238170	Siding contractors	23	0400000US23	27.22222222222222	94.33333333333333	4144.444444444444
+16584	23	23	0	Maine	238190	Other foundation, structure, and building exterior contractors	23	0400000US23	26.88888888888889	182.44444444444446	8021.111111111111
+16585	23	23	0	Maine	238210	Electrical contractors and other wiring installation contractors	23	0400000US23	542.7777777777778	2604.5555555555557	132119.33333333334
+16586	23	23	0	Maine	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US23	626.5555555555555	3596.8888888888887	176829.44444444444
+16587	23	23	0	Maine	238290	Other building equipment contractors	23	0400000US23	35.55555555555556	433.6666666666667	23089.11111111111
+16588	23	23	0	Maine	238310	Drywall and insulation contractors	23	0400000US23	124.88888888888889	902.8888888888889	36468.88888888889
+16589	23	23	0	Maine	238320	Painting and wall covering contractors	23	0400000US23	235.0	684.4444444444445	25021.88888888889
+16590	23	23	0	Maine	238330	Flooring contractors	23	0400000US23	75.22222222222223	185.0	5841.222222222223
+16591	23	23	0	Maine	238340	Tile and terrazzo contractors	23	0400000US23	27.333333333333332	208.88888888888889	9904.666666666666
+16592	23	23	0	Maine	238350	Finish carpentry contractors	23	0400000US23	217.88888888888889	600.0	21559.555555555555
+16593	23	23	0	Maine	238390	Other building finishing contractors	23	0400000US23	36.666666666666664	389.22222222222223	19278.333333333332
+16594	23	23	0	Maine	238910	Site preparation contractors	23	0400000US23	516.4444444444445	2940.1111111111113	169244.44444444444
+16595	23	23	0	Maine	238990	All other specialty trade contractors	23	0400000US23	173.88888888888889	603.7777777777778	42666.88888888889
+16596	23	23	0	Maine	311111	Dog and cat food manufacturing	31	0400000US23	2.25	0.0	0.0
+16597	23	23	0	Maine	311119	Other animal food manufacturing	31	0400000US23	3.6666666666666665	67.33333333333333	2776.8888888888887
+16598	23	23	0	Maine	311211	Flour milling	31	0400000US23	1.6666666666666667	0.0	0.0
+16599	23	23	0	Maine	311213	Malt manufacturing	31	0400000US23	1.0	0.0	0.0
+16600	23	23	0	Maine	311221	Wet corn milling	31	0400000US23	2.0	0.0	0.0
+16601	23	23	0	Maine	311340	Nonchocolate confectionery manufacturing	31	0400000US23	3.5555555555555554	10.666666666666666	210.66666666666666
+16602	23	23	0	Maine	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US23	2.4	0.0	0.0
+16603	23	23	0	Maine	311352	Confectionery manufacturing from purchased chocolate	31	0400000US23	11.11111111111111	61.55555555555556	1299.6666666666667
+16604	23	23	0	Maine	311411	Frozen fruit, juice, and vegetable manufacturing	31	0400000US23	9.333333333333334	806.8888888888889	30120.666666666668
+16605	23	23	0	Maine	311412	Frozen specialty food manufacturing	31	0400000US23	1.0	0.0	0.0
+16606	23	23	0	Maine	311421	Fruit and vegetable canning	31	0400000US23	7.0	234.44444444444446	8766.0
+16607	23	23	0	Maine	311423	Dried and dehydrated food manufacturing	31	0400000US23	1.8	0.0	0.0
+16608	23	23	0	Maine	311511	Fluid milk manufacturing	31	0400000US23	6.666666666666667	339.1111111111111	16859.444444444445
+16609	23	23	0	Maine	311512	Creamery butter manufacturing	31	0400000US23	1.2	0.0	0.0
+16610	23	23	0	Maine	311513	Cheese manufacturing	31	0400000US23	4.777777777777778	6.888888888888889	115.77777777777777
+16611	23	23	0	Maine	311520	Ice cream and frozen dessert manufacturing	31	0400000US23	3.888888888888889	0.0	0.0
+16612	23	23	0	Maine	311611	Animal (except poultry) slaughtering	31	0400000US23	10.555555555555555	43.55555555555556	1200.111111111111
+16613	23	23	0	Maine	311612	Meat processed from carcasses	31	0400000US23	5.333333333333333	41.22222222222222	1482.3333333333333
+16614	23	23	0	Maine	311615	Poultry processing	31	0400000US23	1.0	0.0	0.0
+16615	23	23	0	Maine	311710	Seafood product preparation and packaging	31	0400000US23	26.0	494.55555555555554	16392.555555555555
+16616	23	23	0	Maine	311811	Retail bakeries	31	0400000US23	48.666666666666664	408.77777777777777	8949.666666666666
+16617	23	23	0	Maine	311812	Commercial bakeries	31	0400000US23	17.444444444444443	600.5555555555555	24285.777777777777
+16618	23	23	0	Maine	311813	Frozen cakes, pies, and other pastries manufacturing	31	0400000US23	2.7777777777777777	0.0	0.0
+16619	23	23	0	Maine	311821	Cookie and cracker manufacturing	31	0400000US23	1.0	0.0	0.0
+16620	23	23	0	Maine	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US23	6.444444444444445	95.66666666666667	2707.777777777778
+16621	23	23	0	Maine	311830	Tortilla manufacturing	31	0400000US23	1.25	0.0	0.0
+16622	23	23	0	Maine	311911	Roasted nuts and peanut butter manufacturing	31	0400000US23	1.0	0.0	0.0
+16623	23	23	0	Maine	311919	Other snack food manufacturing	31	0400000US23	1.4	0.0	0.0
+16624	23	23	0	Maine	311920	Coffee and tea manufacturing	31	0400000US23	5.777777777777778	63.333333333333336	2590.8888888888887
+16625	23	23	0	Maine	311930	Flavoring syrup and concentrate manufacturing	31	0400000US23	1.8	0.0	0.0
+16626	23	23	0	Maine	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US23	5.444444444444445	5.444444444444445	174.0
+16627	23	23	0	Maine	311942	Spice and extract manufacturing	31	0400000US23	2.0	0.0	0.0
+16628	23	23	0	Maine	311991	Perishable prepared food manufacturing	31	0400000US23	5.333333333333333	21.333333333333332	1899.0
+16629	23	23	0	Maine	311999	All other miscellaneous food manufacturing	31	0400000US23	4.0	0.0	0.0
+16630	23	23	0	Maine	312111	Soft drink manufacturing	31	0400000US23	1.3333333333333333	0.0	0.0
+16631	23	23	0	Maine	312112	Bottled water manufacturing	31	0400000US23	7.888888888888889	0.0	0.0
+16632	23	23	0	Maine	312113	Ice manufacturing	31	0400000US23	3.111111111111111	0.0	0.0
+16633	23	23	0	Maine	312120	Breweries	31	0400000US23	36.77777777777778	435.6666666666667	20557.444444444445
+16634	23	23	0	Maine	312130	Wineries	31	0400000US23	11.666666666666666	30.444444444444443	1735.6666666666667
+16635	23	23	0	Maine	312140	Distilleries	31	0400000US23	9.11111111111111	119.44444444444444	5405.111111111111
+16636	23	23	0	Maine	312230	Tobacco manufacturing	31	0400000US23	1.0	0.0	0.0
+16637	23	23	0	Maine	313110	Fiber, yarn, and thread mills	31	0400000US23	5.555555555555555	44.22222222222222	1346.3333333333333
+16638	23	23	0	Maine	313210	Broadwoven fabric mills	31	0400000US23	8.777777777777779	367.0	11747.777777777777
+16639	23	23	0	Maine	313230	Nonwoven fabric mills	31	0400000US23	3.5555555555555554	36.888888888888886	1280.888888888889
+16640	23	23	0	Maine	313310	Textile and fabric finishing mills	31	0400000US23	2.2	3.8	96.8
+16641	23	23	0	Maine	313320	Fabric coating mills	31	0400000US23	2.0	0.0	0.0
+16642	23	23	0	Maine	314110	Carpet and rug mills	31	0400000US23	3.3333333333333335	88.33333333333333	3473.8888888888887
+16643	23	23	0	Maine	314120	Curtain and linen mills	31	0400000US23	11.0	70.11111111111111	1775.888888888889
+16644	23	23	0	Maine	314910	Textile bag and canvas mills	31	0400000US23	28.0	128.77777777777777	4692.777777777777
+16645	23	23	0	Maine	314994	Rope, cordage, twine, tire cord, and tire fabric mills	31	0400000US23	8.555555555555555	282.44444444444446	11941.333333333334
+16646	23	23	0	Maine	314999	All other miscellaneous textile product mills	31	0400000US23	18.444444444444443	87.55555555555556	2930.5555555555557
+16647	23	23	0	Maine	315210	Cut and sew apparel contractors	31	0400000US23	2.0	0.4	20.2
+16648	23	23	0	Maine	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US23	1.6	0.0	0.0
+16649	23	23	0	Maine	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US23	3.0	10.222222222222221	397.6666666666667
+16650	23	23	0	Maine	315280	Other cut and sew apparel manufacturing	31	0400000US23	1.0	0.0	0.0
+16651	23	23	0	Maine	315990	Apparel accessories and other apparel manufacturing	31	0400000US23	3.3333333333333335	15.555555555555555	548.8888888888889
+16652	23	23	0	Maine	316110	Leather and hide tanning and finishing	31	0400000US23	2.0	0.0	0.0
+16653	23	23	0	Maine	316210	Footwear manufacturing	31	0400000US23	13.777777777777779	1405.6666666666667	52967.88888888889
+16654	23	23	0	Maine	316992	Women's handbag and purse manufacturing	31	0400000US23	3.0	0.0	0.0
+16655	23	23	0	Maine	316998	All other leather good and allied product manufacturing	31	0400000US23	5.888888888888889	74.77777777777777	2541.8888888888887
+16656	23	23	0	Maine	321113	Sawmills	32	0400000US23	60.666666666666664	1583.7777777777778	68962.11111111111
+16657	23	23	0	Maine	321114	Wood preservation	32	0400000US23	4.0	68.44444444444444	2267.0
+16658	23	23	0	Maine	321211	Hardwood veneer and plywood manufacturing	32	0400000US23	1.6	0.0	0.0
+16659	23	23	0	Maine	321213	Engineered wood member (except truss) manufacturing	32	0400000US23	1.25	0.0	0.0
+16660	23	23	0	Maine	321214	Truss manufacturing	32	0400000US23	3.3333333333333335	83.44444444444444	4770.888888888889
+16661	23	23	0	Maine	321219	Reconstituted wood product manufacturing	32	0400000US23	3.7777777777777777	252.22222222222223	14193.666666666666
+16662	23	23	0	Maine	321911	Wood window and door manufacturing	32	0400000US23	3.3333333333333335	82.22222222222223	3323.8888888888887
+16663	23	23	0	Maine	321912	Cut stock, resawing lumber, and planing	32	0400000US23	16.77777777777778	287.55555555555554	13571.444444444445
+16664	23	23	0	Maine	321918	Other millwork (including flooring)	32	0400000US23	17.666666666666668	66.66666666666667	2480.6666666666665
+16665	23	23	0	Maine	321920	Wood container and pallet manufacturing	32	0400000US23	15.0	383.3333333333333	12214.666666666666
+16666	23	23	0	Maine	321992	Prefabricated wood building manufacturing	32	0400000US23	10.0	195.33333333333334	7780.555555555556
+16667	23	23	0	Maine	321999	All other miscellaneous wood product manufacturing	32	0400000US23	36.333333333333336	779.3333333333334	26966.333333333332
+16668	23	23	0	Maine	322110	Pulp mills	32	0400000US23	3.6666666666666665	507.44444444444446	37132.0
+16669	23	23	0	Maine	322121	Paper (except newsprint) mills	32	0400000US23	7.888888888888889	3035.8888888888887	206629.66666666666
+16670	23	23	0	Maine	322122	Newsprint mills	32	0400000US23	1.25	0.0	0.0
+16671	23	23	0	Maine	322211	Corrugated and solid fiber box manufacturing	32	0400000US23	2.6666666666666665	152.33333333333334	9028.222222222223
+16672	23	23	0	Maine	322212	Folding paperboard box manufacturing	32	0400000US23	1.0	0.0	0.0
+16673	23	23	0	Maine	322219	Other paperboard container manufacturing	32	0400000US23	1.6	0.0	0.0
+16674	23	23	0	Maine	322220	Paper bag and coated and treated paper manufacturing	32	0400000US23	2.5555555555555554	74.66666666666667	2524.4444444444443
+16675	23	23	0	Maine	322291	Sanitary paper product manufacturing	32	0400000US23	1.0	0.0	0.0
+16676	23	23	0	Maine	322299	All other converted paper product manufacturing	32	0400000US23	1.0	0.0	0.0
+16677	23	23	0	Maine	323111	Commercial printing (except screen and books)	32	0400000US23	83.66666666666667	1366.7777777777778	54603.666666666664
+16678	23	23	0	Maine	323113	Commercial screen printing	32	0400000US23	32.111111111111114	192.66666666666666	5237.888888888889
+16679	23	23	0	Maine	323117	Books printing	32	0400000US23	1.0	0.0	0.0
+16680	23	23	0	Maine	323120	Support activities for printing	32	0400000US23	5.444444444444445	27.555555555555557	1041.5555555555557
+16681	23	23	0	Maine	324121	Asphalt paving mixture and block manufacturing	32	0400000US23	11.666666666666666	100.55555555555556	8890.888888888889
+16682	23	23	0	Maine	324122	Asphalt shingle and coating materials manufacturing	32	0400000US23	2.0	0.0	0.0
+16683	23	23	0	Maine	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US23	1.0	0.0	0.0
+16684	23	23	0	Maine	325110	Petrochemical manufacturing	32	0400000US23	1.0	0.0	0.0
+16685	23	23	0	Maine	325120	Industrial gas manufacturing	32	0400000US23	2.0	0.0	0.0
+16686	23	23	0	Maine	325130	Synthetic dye and pigment manufacturing	32	0400000US23	1.0	0.0	0.0
+16687	23	23	0	Maine	325180	Other basic inorganic chemical manufacturing	32	0400000US23	5.222222222222222	31.88888888888889	1983.4444444444443
+16688	23	23	0	Maine	325199	All other basic organic chemical manufacturing	32	0400000US23	1.25	0.0	0.0
+16689	23	23	0	Maine	325211	Plastics material and resin manufacturing	32	0400000US23	1.0	0.0	0.0
+16690	23	23	0	Maine	325212	Synthetic rubber manufacturing	32	0400000US23	2.0	0.0	0.0
+16691	23	23	0	Maine	325220	Artificial and synthetic fibers and filaments manufacturing	32	0400000US23	1.0	0.0	0.0
+16692	23	23	0	Maine	325311	Nitrogenous fertilizer manufacturing	32	0400000US23	3.0	20.11111111111111	1495.3333333333333
+16693	23	23	0	Maine	325312	Phosphatic fertilizer manufacturing	32	0400000US23	1.0	0.0	0.0
+16694	23	23	0	Maine	325314	Fertilizer (mixing only) manufacturing	32	0400000US23	5.666666666666667	73.22222222222223	3311.6666666666665
+16695	23	23	0	Maine	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US23	1.0	0.0	0.0
+16696	23	23	0	Maine	325411	Medicinal and botanical manufacturing	32	0400000US23	1.4	0.0	0.0
+16697	23	23	0	Maine	325412	Pharmaceutical preparation manufacturing	32	0400000US23	6.222222222222222	37.0	1557.5555555555557
+16698	23	23	0	Maine	325413	In-vitro diagnostic substance manufacturing	32	0400000US23	5.0	314.1111111111111	20162.0
+16699	23	23	0	Maine	325414	Biological product (except diagnostic) manufacturing	32	0400000US23	6.444444444444445	190.77777777777777	16220.888888888889
+16700	23	23	0	Maine	325510	Paint and coating manufacturing	32	0400000US23	1.8	0.0	0.0
+16701	23	23	0	Maine	325520	Adhesive manufacturing	32	0400000US23	1.0	0.0	0.0
+16702	23	23	0	Maine	325611	Soap and other detergent manufacturing	32	0400000US23	2.3333333333333335	0.0	0.0
+16703	23	23	0	Maine	325612	Polish and other sanitation good manufacturing	32	0400000US23	1.0	0.0	0.0
+16704	23	23	0	Maine	325613	Surface active agent manufacturing	32	0400000US23	1.0	0.0	0.0
+16705	23	23	0	Maine	325620	Toilet preparation manufacturing	32	0400000US23	2.5555555555555554	0.0	0.0
+16706	23	23	0	Maine	325920	Explosives manufacturing	32	0400000US23	1.0	0.0	0.0
+16707	23	23	0	Maine	325991	Custom compounding of purchased resins	32	0400000US23	1.0	0.0	0.0
+16708	23	23	0	Maine	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US23	1.0	0.0	0.0
+16709	23	23	0	Maine	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US23	2.0	0.0	0.0
+16710	23	23	0	Maine	326111	Plastics bag and pouch manufacturing	32	0400000US23	1.0	0.0	0.0
+16711	23	23	0	Maine	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US23	1.0	0.0	0.0
+16712	23	23	0	Maine	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US23	2.6	29.6	2076.6
+16713	23	23	0	Maine	326121	Unlaminated plastics profile shape manufacturing	32	0400000US23	1.0	0.0	0.0
+16714	23	23	0	Maine	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US23	2.2	20.0	858.0
+16715	23	23	0	Maine	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	32	0400000US23	2.0	0.0	0.0
+16716	23	23	0	Maine	326140	Polystyrene foam product manufacturing	32	0400000US23	1.0	0.0	0.0
+16717	23	23	0	Maine	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US23	3.7777777777777777	38.77777777777778	2663.4444444444443
+16718	23	23	0	Maine	326160	Plastics bottle manufacturing	32	0400000US23	2.888888888888889	40.333333333333336	2069.8888888888887
+16719	23	23	0	Maine	326199	All other plastics product manufacturing	32	0400000US23	27.77777777777778	1299.111111111111	53083.444444444445
+16720	23	23	0	Maine	326212	Tire retreading	32	0400000US23	3.2	0.0	0.0
+16721	23	23	0	Maine	326299	All other rubber product manufacturing	32	0400000US23	4.111111111111111	45.0	2526.0
+16722	23	23	0	Maine	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US23	12.333333333333334	48.44444444444444	1074.3333333333333
+16723	23	23	0	Maine	327120	Clay building material and refractories manufacturing	32	0400000US23	2.4444444444444446	17.77777777777778	963.5555555555555
+16724	23	23	0	Maine	327211	Flat glass manufacturing	32	0400000US23	1.0	0.0	0.0
+16725	23	23	0	Maine	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US23	1.4	0.0	0.0
+16726	23	23	0	Maine	327215	Glass product manufacturing made of purchased glass	32	0400000US23	3.5555555555555554	3.888888888888889	53.666666666666664
+16727	23	23	0	Maine	327310	Cement manufacturing	32	0400000US23	1.0	0.0	0.0
+16728	23	23	0	Maine	327320	Ready-mix concrete manufacturing	32	0400000US23	23.88888888888889	337.1111111111111	17976.666666666668
+16729	23	23	0	Maine	327331	Concrete block and brick manufacturing	32	0400000US23	2.888888888888889	0.0	0.0
+16730	23	23	0	Maine	327390	Other concrete product manufacturing	32	0400000US23	13.222222222222221	215.22222222222223	10797.333333333334
+16731	23	23	0	Maine	327991	Cut stone and stone product manufacturing	32	0400000US23	13.444444444444445	73.55555555555556	2924.222222222222
+16732	23	23	0	Maine	327992	Ground or treated mineral and earth manufacturing	32	0400000US23	1.0	0.0	0.0
+16733	23	23	0	Maine	327993	Mineral wool manufacturing	32	0400000US23	2.0	0.0	0.0
+16734	23	23	0	Maine	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US23	1.2	0.0	0.0
+16735	23	23	0	Maine	331221	Rolled steel shape manufacturing	33	0400000US23	1.0	0.0	0.0
+16736	23	23	0	Maine	331222	Steel wire drawing	33	0400000US23	1.2	0.0	0.0
+16737	23	23	0	Maine	331318	Other aluminum rolling, drawing, and extruding	33	0400000US23	1.0	0.0	0.0
+16738	23	23	0	Maine	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US23	2.0	0.0	0.0
+16739	23	23	0	Maine	331511	Iron foundries	33	0400000US23	3.111111111111111	7.111111111111111	119.33333333333333
+16740	23	23	0	Maine	331513	Steel foundries (except investment)	33	0400000US23	1.0	0.0	0.0
+16741	23	23	0	Maine	331523	Nonferrous metal die-casting foundries	33	0400000US23	1.0	0.0	0.0
+16742	23	23	0	Maine	331524	Aluminum foundries (except die-casting)	33	0400000US23	1.0	0.0	0.0
+16743	23	23	0	Maine	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US23	1.0	0.0	0.0
+16744	23	23	0	Maine	332112	Nonferrous forging	33	0400000US23	1.0	0.0	0.0
+16745	23	23	0	Maine	332117	Powder metallurgy part manufacturing	33	0400000US23	1.0	0.0	0.0
+16746	23	23	0	Maine	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US23	1.6	0.0	0.0
+16747	23	23	0	Maine	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US23	1.0	0.0	0.0
+16748	23	23	0	Maine	332216	Saw blade and handtool manufacturing	33	0400000US23	5.555555555555555	282.77777777777777	10611.111111111111
+16749	23	23	0	Maine	332311	Prefabricated metal building and component manufacturing	33	0400000US23	6.444444444444445	131.77777777777777	6799.666666666667
+16750	23	23	0	Maine	332312	Fabricated structural metal manufacturing	33	0400000US23	19.77777777777778	505.55555555555554	26370.444444444445
+16751	23	23	0	Maine	332313	Plate work manufacturing	33	0400000US23	6.0	26.77777777777778	1535.2222222222222
+16752	23	23	0	Maine	332321	Metal window and door manufacturing	33	0400000US23	2.6666666666666665	0.0	0.0
+16753	23	23	0	Maine	332322	Sheet metal work manufacturing	33	0400000US23	23.333333333333332	374.8888888888889	17196.555555555555
+16754	23	23	0	Maine	332323	Ornamental and architectural metal work manufacturing	33	0400000US23	9.666666666666666	23.77777777777778	1072.4444444444443
+16755	23	23	0	Maine	332410	Power boiler and heat exchanger manufacturing	33	0400000US23	1.0	0.0	0.0
+16756	23	23	0	Maine	332420	Metal tank (heavy gauge) manufacturing	33	0400000US23	1.4	0.0	0.0
+16757	23	23	0	Maine	332510	Hardware manufacturing	33	0400000US23	5.333333333333333	36.77777777777778	1597.4444444444443
+16758	23	23	0	Maine	332618	Other fabricated wire product manufacturing	33	0400000US23	11.88888888888889	207.77777777777777	6460.222222222223
+16759	23	23	0	Maine	332710	Machine shops	33	0400000US23	98.11111111111111	1566.2222222222222	81452.88888888889
+16760	23	23	0	Maine	332721	Precision turned product manufacturing	33	0400000US23	16.88888888888889	630.6666666666666	35831.555555555555
+16761	23	23	0	Maine	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US23	4.777777777777778	8.555555555555555	192.66666666666666
+16762	23	23	0	Maine	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US23	6.111111111111111	171.0	8061.555555555556
+16763	23	23	0	Maine	332911	Industrial valve manufacturing	33	0400000US23	2.2	10.4	731.4
+16764	23	23	0	Maine	332912	Fluid power valve and hose fitting manufacturing	33	0400000US23	2.0	0.0	0.0
+16765	23	23	0	Maine	332992	Small arms ammunition manufacturing	33	0400000US23	1.0	0.0	0.0
+16766	23	23	0	Maine	332993	Ammunition (except small arms) manufacturing	33	0400000US23	1.0	0.0	0.0
+16767	23	23	0	Maine	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US23	3.4444444444444446	465.3333333333333	24088.444444444445
+16768	23	23	0	Maine	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US23	3.0	8.0	417.6
+16769	23	23	0	Maine	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US23	14.777777777777779	410.22222222222223	23171.0
+16770	23	23	0	Maine	333111	Farm machinery and equipment manufacturing	33	0400000US23	4.2	10.8	514.6
+16771	23	23	0	Maine	333120	Construction machinery manufacturing	33	0400000US23	4.555555555555555	189.77777777777777	11546.222222222223
+16772	23	23	0	Maine	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US23	1.8	0.0	0.0
+16773	23	23	0	Maine	333241	Food product machinery manufacturing	33	0400000US23	1.8	3.0	94.8
+16774	23	23	0	Maine	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US23	2.6666666666666665	2.5555555555555554	123.55555555555556
+16775	23	23	0	Maine	333249	Other industrial machinery manufacturing	33	0400000US23	6.111111111111111	37.55555555555556	1497.2222222222222
+16776	23	23	0	Maine	333314	Optical instrument and lens manufacturing	33	0400000US23	1.0	0.0	0.0
+16777	23	23	0	Maine	333318	Other commercial and service industry machinery manufacturing	33	0400000US23	5.777777777777778	77.55555555555556	4611.666666666667
+16778	23	23	0	Maine	333413	Industrial and commercial fan and blower and air purification equipment manufacturing	33	0400000US23	1.0	0.0	0.0
+16779	23	23	0	Maine	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US23	2.8	0.0	0.0
+16780	23	23	0	Maine	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US23	2.0	0.0	0.0
+16781	23	23	0	Maine	333511	Industrial mold manufacturing	33	0400000US23	3.8	9.2	701.0
+16782	23	23	0	Maine	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US23	2.111111111111111	3.111111111111111	124.88888888888889
+16783	23	23	0	Maine	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US23	5.444444444444445	81.88888888888889	7284.777777777777
+16784	23	23	0	Maine	333517	Machine tool manufacturing	33	0400000US23	1.4	0.0	0.0
+16785	23	23	0	Maine	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US23	2.0	0.0	0.0
+16786	23	23	0	Maine	333611	Turbine and turbine generator set units manufacturing	33	0400000US23	3.4	0.0	0.0
+16787	23	23	0	Maine	333613	Mechanical power transmission equipment manufacturing	33	0400000US23	2.0	0.0	0.0
+16788	23	23	0	Maine	333618	Other engine equipment manufacturing	33	0400000US23	1.0	0.0	0.0
+16789	23	23	0	Maine	333911	Pump and pumping equipment manufacturing	33	0400000US23	2.8	12.8	673.6
+16790	23	23	0	Maine	333914	Measuring, dispensing, and other pumping equipment manufacturing	33	0400000US23	3.0	60.0	3599.0
+16791	23	23	0	Maine	333922	Conveyor and conveying equipment manufacturing	33	0400000US23	2.4	0.0	0.0
+16792	23	23	0	Maine	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US23	3.0	0.0	0.0
+16793	23	23	0	Maine	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US23	1.8	0.0	0.0
+16794	23	23	0	Maine	333991	Power-driven handtool manufacturing	33	0400000US23	1.0	0.0	0.0
+16795	23	23	0	Maine	333992	Welding and soldering equipment manufacturing	33	0400000US23	1.0	0.0	0.0
+16796	23	23	0	Maine	333994	Industrial process furnace and oven manufacturing	33	0400000US23	1.2	0.0	0.0
+16797	23	23	0	Maine	333995	Fluid power cylinder and actuator manufacturing	33	0400000US23	1.2	0.0	0.0
+16798	23	23	0	Maine	333996	Fluid power pump and motor manufacturing	33	0400000US23	1.0	0.0	0.0
+16799	23	23	0	Maine	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US23	11.0	215.22222222222223	10263.444444444445
+16800	23	23	0	Maine	334111	Electronic computer manufacturing	33	0400000US23	1.0	0.0	0.0
+16801	23	23	0	Maine	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US23	2.0	0.0	0.0
+16802	23	23	0	Maine	334210	Telephone apparatus manufacturing	33	0400000US23	1.0	0.0	0.0
+16803	23	23	0	Maine	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US23	4.555555555555555	81.77777777777777	5515.333333333333
+16804	23	23	0	Maine	334290	Other communications equipment manufacturing	33	0400000US23	2.25	0.0	0.0
+16805	23	23	0	Maine	334310	Audio and video equipment manufacturing	33	0400000US23	3.0	9.4	525.0
+16806	23	23	0	Maine	334412	Bare printed circuit board manufacturing	33	0400000US23	1.2	0.0	0.0
+16807	23	23	0	Maine	334413	Semiconductor and related device manufacturing	33	0400000US23	3.0	0.0	0.0
+16808	23	23	0	Maine	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	33	0400000US23	2.2	0.0	0.0
+16809	23	23	0	Maine	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US23	4.0	216.0	10166.777777777777
+16810	23	23	0	Maine	334419	Other electronic component manufacturing	33	0400000US23	3.0	54.111111111111114	2740.6666666666665
+16811	23	23	0	Maine	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US23	3.6666666666666665	37.77777777777778	2569.5555555555557
+16812	23	23	0	Maine	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US23	6.888888888888889	24.0	1371.0
+16813	23	23	0	Maine	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US23	1.0	0.0	0.0
+16814	23	23	0	Maine	334516	Analytical laboratory instrument manufacturing	33	0400000US23	4.333333333333333	669.2222222222222	43284.88888888889
+16815	23	23	0	Maine	334519	Other measuring and controlling device manufacturing	33	0400000US23	3.0	81.4	5617.0
+16816	23	23	0	Maine	334613	Blank magnetic and optical recording media manufacturing	33	0400000US23	1.0	0.0	0.0
+16817	23	23	0	Maine	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US23	3.0	3.0	55.0
+16818	23	23	0	Maine	335110	Electric lamp bulb and part manufacturing	33	0400000US23	1.0	0.0	0.0
+16819	23	23	0	Maine	335121	Residential electric lighting fixture manufacturing	33	0400000US23	1.0	0.0	0.0
+16820	23	23	0	Maine	335312	Motor and generator manufacturing	33	0400000US23	1.0	0.0	0.0
+16821	23	23	0	Maine	335314	Relay and industrial control manufacturing	33	0400000US23	4.777777777777778	3.7777777777777777	229.77777777777777
+16822	23	23	0	Maine	335991	Carbon and graphite product manufacturing	33	0400000US23	1.0	0.0	0.0
+16823	23	23	0	Maine	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US23	1.4	0.0	0.0
+16824	23	23	0	Maine	336111	Automobile manufacturing	33	0400000US23	1.0	0.0	0.0
+16825	23	23	0	Maine	336112	Light truck and utility vehicle manufacturing	33	0400000US23	1.0	0.0	0.0
+16826	23	23	0	Maine	336211	Motor vehicle body manufacturing	33	0400000US23	3.4444444444444446	65.22222222222223	4287.888888888889
+16827	23	23	0	Maine	336212	Truck trailer manufacturing	33	0400000US23	1.8	3.6	97.8
+16828	23	23	0	Maine	336214	Travel trailer and camper manufacturing	33	0400000US23	3.4	0.0	2440.8
+16829	23	23	0	Maine	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US23	3.4444444444444446	1.5555555555555556	165.0
+16830	23	23	0	Maine	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US23	3.3333333333333335	10.777777777777779	328.8888888888889
+16831	23	23	0	Maine	336330	Motor vehicle steering and suspension components (except spring) manufacturing	33	0400000US23	1.0	0.0	0.0
+16832	23	23	0	Maine	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US23	1.0	0.0	0.0
+16833	23	23	0	Maine	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US23	1.0	0.0	0.0
+16834	23	23	0	Maine	336390	Other motor vehicle parts manufacturing	33	0400000US23	3.111111111111111	17.77777777777778	816.6666666666666
+16835	23	23	0	Maine	336411	Aircraft manufacturing	33	0400000US23	1.8	0.0	0.0
+16836	23	23	0	Maine	336412	Aircraft engine and engine parts manufacturing	33	0400000US23	1.2	0.0	0.0
+16837	23	23	0	Maine	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US23	1.5	0.0	0.0
+16838	23	23	0	Maine	336415	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	33	0400000US23	1.0	0.0	0.0
+16839	23	23	0	Maine	336419	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	33	0400000US23	1.0	0.0	0.0
+16840	23	23	0	Maine	336510	Railroad rolling stock manufacturing	33	0400000US23	1.0	0.0	0.0
+16841	23	23	0	Maine	336611	Ship building and repairing	33	0400000US23	13.333333333333334	0.0	0.0
+16842	23	23	0	Maine	336612	Boat building	33	0400000US23	68.22222222222223	1232.2222222222222	53483.77777777778
+16843	23	23	0	Maine	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US23	2.2	0.0	0.0
+16844	23	23	0	Maine	336999	All other transportation equipment manufacturing	33	0400000US23	1.0	0.0	0.0
+16845	23	23	0	Maine	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US23	24.22222222222222	149.66666666666666	5516.555555555556
+16846	23	23	0	Maine	337121	Upholstered household furniture manufacturing	33	0400000US23	5.111111111111111	17.666666666666668	1012.3333333333334
+16847	23	23	0	Maine	337122	Nonupholstered wood household furniture manufacturing	33	0400000US23	28.666666666666668	213.11111111111111	7901.888888888889
+16848	23	23	0	Maine	337124	Metal household furniture manufacturing	33	0400000US23	2.2	0.0	0.0
+16849	23	23	0	Maine	337125	Household furniture (except wood and metal) manufacturing	33	0400000US23	2.0	0.0	15.25
+16850	23	23	0	Maine	337127	Institutional furniture manufacturing	33	0400000US23	3.5555555555555554	0.0	0.0
+16851	23	23	0	Maine	337211	Wood office furniture manufacturing	33	0400000US23	1.0	0.0	0.0
+16852	23	23	0	Maine	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US23	15.777777777777779	262.6666666666667	11104.444444444445
+16853	23	23	0	Maine	337214	Office furniture (except wood) manufacturing	33	0400000US23	1.0	0.0	0.0
+16854	23	23	0	Maine	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US23	5.333333333333333	43.0	1550.6666666666667
+16855	23	23	0	Maine	337920	Blind and shade manufacturing	33	0400000US23	1.0	0.0	0.0
+16856	23	23	0	Maine	339112	Surgical and medical instrument manufacturing	33	0400000US23	4.0	0.0	0.0
+16857	23	23	0	Maine	339113	Surgical appliance and supplies manufacturing	33	0400000US23	10.777777777777779	138.66666666666666	6094.111111111111
+16858	23	23	0	Maine	339114	Dental equipment and supplies manufacturing	33	0400000US23	3.0	0.0	0.0
+16859	23	23	0	Maine	339115	Ophthalmic goods manufacturing	33	0400000US23	3.0	22.22222222222222	994.5555555555555
+16860	23	23	0	Maine	339116	Dental laboratories	33	0400000US23	19.22222222222222	118.88888888888889	4096.888888888889
+16861	23	23	0	Maine	339910	Jewelry and silverware manufacturing	33	0400000US23	17.11111111111111	35.888888888888886	1007.4444444444445
+16862	23	23	0	Maine	339920	Sporting and athletic goods manufacturing	33	0400000US23	11.0	105.11111111111111	3893.222222222222
+16863	23	23	0	Maine	339930	Doll, toy, and game manufacturing	33	0400000US23	6.444444444444445	23.0	762.5555555555555
+16864	23	23	0	Maine	339940	Office supplies (except paper) manufacturing	33	0400000US23	2.4	10.0	491.8
+16865	23	23	0	Maine	339950	Sign manufacturing	33	0400000US23	36.111111111111114	244.11111111111111	9705.111111111111
+16866	23	23	0	Maine	339991	Gasket, packing, and sealing device manufacturing	33	0400000US23	1.0	0.0	0.0
+16867	23	23	0	Maine	339992	Musical instrument manufacturing	33	0400000US23	10.0	117.0	5579.777777777777
+16868	23	23	0	Maine	339993	Fastener, button, needle, and pin manufacturing	33	0400000US23	1.0	0.0	0.0
+16869	23	23	0	Maine	339994	Broom, brush, and mop manufacturing	33	0400000US23	1.4	0.0	0.0
+16870	23	23	0	Maine	339999	All other miscellaneous manufacturing	33	0400000US23	33.666666666666664	321.44444444444446	14793.222222222223
+16871	23	23	0	Maine	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US23	30.11111111111111	644.8888888888889	26664.0
+16872	23	23	0	Maine	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US23	44.666666666666664	504.6666666666667	17707.11111111111
+16873	23	23	0	Maine	423130	Tire and tube merchant wholesalers	42	0400000US23	13.666666666666666	206.77777777777777	7955.111111111111
+16874	23	23	0	Maine	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US23	12.333333333333334	145.22222222222223	3619.5555555555557
+16875	23	23	0	Maine	423210	Furniture merchant wholesalers	42	0400000US23	15.666666666666666	118.22222222222223	7533.111111111111
+16876	23	23	0	Maine	423220	Home furnishing merchant wholesalers	42	0400000US23	18.88888888888889	438.1111111111111	29097.333333333332
+16877	23	23	0	Maine	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US23	30.0	291.22222222222223	17043.11111111111
+16878	23	23	0	Maine	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US23	13.333333333333334	78.44444444444444	3535.6666666666665
+16879	23	23	0	Maine	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US23	14.555555555555555	180.33333333333334	11665.333333333334
+16880	23	23	0	Maine	423390	Other construction material merchant wholesalers	42	0400000US23	12.555555555555555	41.77777777777778	2355.6666666666665
+16881	23	23	0	Maine	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US23	4.888888888888889	11.666666666666666	447.1111111111111
+16882	23	23	0	Maine	423420	Office equipment merchant wholesalers	42	0400000US23	26.0	386.44444444444446	20198.88888888889
+16883	23	23	0	Maine	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US23	25.333333333333332	299.22222222222223	22570.0
+16884	23	23	0	Maine	423440	Other commercial equipment merchant wholesalers	42	0400000US23	13.0	49.666666666666664	2499.4444444444443
+16885	23	23	0	Maine	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US23	32.666666666666664	181.66666666666666	14739.555555555555
+16886	23	23	0	Maine	423460	Ophthalmic goods merchant wholesalers	42	0400000US23	2.4444444444444446	7.555555555555555	146.66666666666666
+16887	23	23	0	Maine	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US23	11.444444444444445	0.0	0.0
+16888	23	23	0	Maine	423510	Metal service centers and other metal merchant wholesalers	42	0400000US23	19.11111111111111	146.0	6922.111111111111
+16889	23	23	0	Maine	423520	Coal and other mineral and ore merchant wholesalers	42	0400000US23	1.0	0.0	0.0
+16890	23	23	0	Maine	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US23	44.55555555555556	406.22222222222223	25224.11111111111
+16891	23	23	0	Maine	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US23	5.6	50.2	2372.6
+16892	23	23	0	Maine	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US23	6.0	10.0	550.0
+16893	23	23	0	Maine	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US23	29.444444444444443	136.66666666666666	8630.666666666666
+16894	23	23	0	Maine	423710	Hardware merchant wholesalers	42	0400000US23	12.88888888888889	344.3333333333333	14858.666666666666
+16895	23	23	0	Maine	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US23	48.666666666666664	518.3333333333334	28412.666666666668
+16896	23	23	0	Maine	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US23	25.77777777777778	184.33333333333334	13444.333333333334
+16897	23	23	0	Maine	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US23	6.2	32.6	1417.6
+16898	23	23	0	Maine	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US23	34.333333333333336	472.55555555555554	29428.222222222223
+16899	23	23	0	Maine	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US23	24.444444444444443	179.77777777777777	8666.888888888889
+16900	23	23	0	Maine	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US23	93.11111111111111	1139.3333333333333	68620.44444444444
+16901	23	23	0	Maine	423840	Industrial supplies merchant wholesalers	42	0400000US23	31.88888888888889	246.0	17454.666666666668
+16902	23	23	0	Maine	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US23	16.22222222222222	100.0	3999.0
+16903	23	23	0	Maine	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US23	7.666666666666667	44.666666666666664	3018.1111111111113
+16904	23	23	0	Maine	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US23	25.22222222222222	102.88888888888889	3821.777777777778
+16905	23	23	0	Maine	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US23	3.2	2.4	201.4
+16906	23	23	0	Maine	423930	Recyclable material merchant wholesalers	42	0400000US23	44.44444444444444	305.1111111111111	12568.111111111111
+16907	23	23	0	Maine	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US23	8.777777777777779	16.666666666666668	649.2222222222222
+16908	23	23	0	Maine	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US23	44.22222222222222	283.22222222222223	12372.777777777777
+16909	23	23	0	Maine	424110	Printing and writing paper merchant wholesalers	42	0400000US23	5.444444444444445	55.888888888888886	5634.777777777777
+16910	23	23	0	Maine	424120	Stationery and office supplies merchant wholesalers	42	0400000US23	16.555555555555557	287.22222222222223	18556.0
+16911	23	23	0	Maine	424130	Industrial and personal service paper merchant wholesalers	42	0400000US23	12.666666666666666	79.11111111111111	4175.444444444444
+16912	23	23	0	Maine	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US23	28.666666666666668	333.22222222222223	36657.666666666664
+16913	23	23	0	Maine	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US23	3.0	3.6666666666666665	354.77777777777777
+16914	23	23	0	Maine	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US23	7.111111111111111	17.444444444444443	810.2222222222222
+16915	23	23	0	Maine	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US23	9.11111111111111	25.22222222222222	1291.5555555555557
+16916	23	23	0	Maine	424340	Footwear merchant wholesalers	42	0400000US23	6.888888888888889	87.11111111111111	4174.555555555556
+16917	23	23	0	Maine	424410	General line grocery merchant wholesalers	42	0400000US23	5.888888888888889	444.0	30158.11111111111
+16918	23	23	0	Maine	424420	Packaged frozen food merchant wholesalers	42	0400000US23	15.222222222222221	67.88888888888889	3811.4444444444443
+16919	23	23	0	Maine	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US23	8.333333333333334	289.77777777777777	10736.0
+16920	23	23	0	Maine	424440	Poultry and poultry product merchant wholesalers	42	0400000US23	1.25	0.0	0.0
+16921	23	23	0	Maine	424450	Confectionery merchant wholesalers	42	0400000US23	17.333333333333332	166.44444444444446	7454.777777777777
+16922	23	23	0	Maine	424460	Fish and seafood merchant wholesalers	42	0400000US23	145.33333333333334	1154.5555555555557	47482.666666666664
+16923	23	23	0	Maine	424470	Meat and meat product merchant wholesalers	42	0400000US23	7.222222222222222	44.0	1921.0
+16924	23	23	0	Maine	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US23	25.77777777777778	316.44444444444446	11239.222222222223
+16925	23	23	0	Maine	424490	Other grocery and related products merchant wholesalers	42	0400000US23	81.11111111111111	798.2222222222222	49027.22222222222
+16926	23	23	0	Maine	424510	Grain and field bean merchant wholesalers	42	0400000US23	1.0	0.0	0.0
+16927	23	23	0	Maine	424590	Other farm product raw material merchant wholesalers	42	0400000US23	1.0	0.0	0.0
+16928	23	23	0	Maine	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US23	10.222222222222221	44.666666666666664	2741.4444444444443
+16929	23	23	0	Maine	424690	Other chemical and allied products merchant wholesalers	42	0400000US23	22.88888888888889	134.66666666666666	9435.666666666666
+16930	23	23	0	Maine	424710	Petroleum bulk stations and terminals	42	0400000US23	24.4	326.2	21036.4
+16931	23	23	0	Maine	424710	Petroleum bulk stations and terminals 	42	0400000US23	26.0	354.0	22638.0
+16932	23	23	0	Maine	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US23	10.2	127.8	5676.4
+16933	23	23	0	Maine	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US23	10.0	97.0	4046.0
+16934	23	23	0	Maine	424810	Beer and ale merchant wholesalers	42	0400000US23	13.777777777777779	1037.6666666666667	48001.444444444445
+16935	23	23	0	Maine	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US23	13.666666666666666	204.88888888888889	9913.555555555555
+16936	23	23	0	Maine	424910	Farm supplies merchant wholesalers	42	0400000US23	17.77777777777778	96.22222222222223	5568.444444444444
+16937	23	23	0	Maine	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US23	11.444444444444445	96.44444444444444	2606.222222222222
+16938	23	23	0	Maine	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US23	11.88888888888889	51.333333333333336	2513.1111111111113
+16939	23	23	0	Maine	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US23	2.6	0.0	0.0
+16940	23	23	0	Maine	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US23	7.333333333333333	25.0	1486.7777777777778
+16941	23	23	0	Maine	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US23	38.888888888888886	172.44444444444446	7284.888888888889
+16942	23	23	0	Maine	425110	Business to business electronic markets	42	0400000US23	3.5555555555555554	24.0	670.3333333333334
+16943	23	23	0	Maine	425120	Wholesale trade agents and brokers	42	0400000US23	127.22222222222223	857.4444444444445	34224.88888888889
+16944	23	23	0	Maine	441110	New car dealers	44	0400000US23	139.0	5663.888888888889	284599.0
+16945	23	23	0	Maine	441120	Used car dealers	44	0400000US23	197.0	847.6666666666666	28473.11111111111
+16946	23	23	0	Maine	441210	Recreational vehicle dealers	44	0400000US23	21.444444444444443	161.33333333333334	8395.222222222223
+16947	23	23	0	Maine	441222	Boat dealers	44	0400000US23	62.77777777777778	483.8888888888889	20661.222222222223
+16948	23	23	0	Maine	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US23	68.44444444444444	589.7777777777778	22328.777777777777
+16949	23	23	0	Maine	441310	Automotive parts and accessories stores	44	0400000US23	256.0	2212.4444444444443	59832.88888888889
+16950	23	23	0	Maine	441320	Tire dealers	44	0400000US23	81.11111111111111	741.8888888888889	25432.222222222223
+16951	23	23	0	Maine	442110	Furniture stores	44	0400000US23	97.44444444444444	708.6666666666666	24875.222222222223
+16952	23	23	0	Maine	442210	Floor covering stores	44	0400000US23	52.77777777777778	208.66666666666666	7251.666666666667
+16953	23	23	0	Maine	442291	Window treatment stores	44	0400000US23	16.88888888888889	48.333333333333336	1881.5555555555557
+16954	23	23	0	Maine	442299	All other home furnishings stores	44	0400000US23	124.66666666666667	1023.2222222222222	22220.333333333332
+16955	23	23	0	Maine	443141	Household appliance stores	44	0400000US23	51.22222222222222	344.1111111111111	13597.222222222223
+16956	23	23	0	Maine	443142	Electronics stores	44	0400000US23	113.44444444444444	647.2222222222222	27921.0
+16957	23	23	0	Maine	444110	Home centers	44	0400000US23	31.0	2081.0	54338.333333333336
+16958	23	23	0	Maine	444120	Paint and wallpaper stores	44	0400000US23	34.77777777777778	144.33333333333334	5244.222222222223
+16959	23	23	0	Maine	444130	Hardware stores	44	0400000US23	147.77777777777777	1201.4444444444443	29236.444444444445
+16960	23	23	0	Maine	444190	Other building material dealers	44	0400000US23	226.55555555555554	2350.777777777778	104062.44444444444
+16961	23	23	0	Maine	444210	Outdoor power equipment stores	44	0400000US23	41.77777777777778	343.44444444444446	13583.333333333334
+16962	23	23	0	Maine	444220	Nursery, garden center, and farm supply stores	44	0400000US23	97.66666666666667	781.2222222222222	19115.777777777777
+16963	23	23	0	Maine	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US23	363.0	16203.0	358302.6666666667
+16964	23	23	0	Maine	445120	Convenience stores	44	0400000US23	214.66666666666666	1473.4444444444443	24241.88888888889
+16965	23	23	0	Maine	445210	Meat markets	44	0400000US23	18.333333333333332	109.77777777777777	2944.0
+16966	23	23	0	Maine	445220	Fish and seafood markets	44	0400000US23	53.77777777777778	221.66666666666666	8933.444444444445
+16967	23	23	0	Maine	445230	Fruit and vegetable markets	44	0400000US23	9.11111111111111	34.44444444444444	1588.4444444444443
+16968	23	23	0	Maine	445291	Baked goods stores	44	0400000US23	10.0	63.77777777777778	1123.2222222222222
+16969	23	23	0	Maine	445292	Confectionery and nut stores	44	0400000US23	23.11111111111111	68.77777777777777	1919.6666666666667
+16970	23	23	0	Maine	445299	All other specialty food stores	44	0400000US23	26.333333333333332	94.66666666666667	1891.4444444444443
+16971	23	23	0	Maine	445310	Beer, wine, and liquor stores	44	0400000US23	54.111111111111114	349.1111111111111	7248.222222222223
+16972	23	23	0	Maine	446110	Pharmacies and drug stores	44	0400000US23	195.11111111111111	2716.3333333333335	103917.66666666667
+16973	23	23	0	Maine	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US23	33.55555555555556	352.1111111111111	5610.333333333333
+16974	23	23	0	Maine	446130	Optical goods stores	44	0400000US23	39.666666666666664	188.0	4617.444444444444
+16975	23	23	0	Maine	446191	Food (health) supplement stores	44	0400000US23	28.333333333333332	144.88888888888889	3595.5555555555557
+16976	23	23	0	Maine	446199	All other health and personal care stores	44	0400000US23	35.77777777777778	196.66666666666666	8193.777777777777
+16977	23	23	0	Maine	447110	Gasoline stations with convenience stores	44	0400000US23	682.7777777777778	6673.333333333333	119663.33333333333
+16978	23	23	0	Maine	447190	Other gasoline stations	44	0400000US23	99.22222222222223	641.5555555555555	16183.666666666666
+16979	23	23	0	Maine	448110	Men's clothing stores	44	0400000US23	20.333333333333332	146.22222222222223	3291.1111111111113
+16980	23	23	0	Maine	448120	Women's clothing stores	44	0400000US23	130.11111111111111	874.2222222222222	13270.666666666666
+16981	23	23	0	Maine	448130	Children's and infants' clothing stores	44	0400000US23	27.333333333333332	258.3333333333333	3902.3333333333335
+16982	23	23	0	Maine	448140	Family clothing stores	44	0400000US23	134.66666666666666	2534.6666666666665	35446.666666666664
+16983	23	23	0	Maine	448150	Clothing accessories stores	44	0400000US23	24.77777777777778	105.66666666666667	2078.0
+16984	23	23	0	Maine	448190	Other clothing stores	44	0400000US23	55.0	485.0	9722.333333333334
+16985	23	23	0	Maine	448210	Shoe stores	44	0400000US23	90.44444444444444	735.1111111111111	13667.222222222223
+16986	23	23	0	Maine	448310	Jewelry stores	44	0400000US23	100.0	522.6666666666666	15969.666666666666
+16987	23	23	0	Maine	448320	Luggage and leather goods stores	44	0400000US23	4.0	5.4	344.6
+16988	23	23	0	Maine	451110	Sporting goods stores	45	0400000US23	163.77777777777777	1985.3333333333333	43191.555555555555
+16989	23	23	0	Maine	451120	Hobby, toy, and game stores	45	0400000US23	49.0	470.0	7125.111111111111
+16990	23	23	0	Maine	451130	Sewing, needlework, and piece goods stores	45	0400000US23	45.111111111111114	223.88888888888889	3031.1111111111113
+16991	23	23	0	Maine	451140	Musical instrument and supplies stores	45	0400000US23	16.666666666666668	67.77777777777777	1697.2222222222222
+16992	23	23	0	Maine	451211	Book stores	45	0400000US23	39.44444444444444	211.33333333333334	4658.222222222223
+16993	23	23	0	Maine	451212	News dealers and newsstands	45	0400000US23	2.0	0.0	0.0
+16994	23	23	0	Maine	452111	Department stores (except discount department stores)	45	0400000US23	12.2	1092.6	19696.8
+16995	23	23	0	Maine	452112	Discount department stores	45	0400000US23	22.2	2620.6	50184.2
+16996	23	23	0	Maine	452210	Department stores	45	0400000US23	16.0	1314.0	22104.0
+16997	23	23	0	Maine	452311	Warehouse clubs and supercenters	45	0400000US23	38.0	7177.0	187845.0
+16998	23	23	0	Maine	452319	All other general merchandise stores	45	0400000US23	236.0	2839.0	52104.0
+16999	23	23	0	Maine	452910	Warehouse clubs and supercenters	45	0400000US23	22.4	0.0	0.0
+17000	23	23	0	Maine	452990	All other general merchandise stores	45	0400000US23	206.4	2407.4	42849.2
+17001	23	23	0	Maine	453110	Florists	45	0400000US23	86.77777777777777	326.6666666666667	5283.222222222223
+17002	23	23	0	Maine	453210	Office supplies and stationery stores	45	0400000US23	17.444444444444443	227.66666666666666	4244.111111111111
+17003	23	23	0	Maine	453220	Gift, novelty, and souvenir stores	45	0400000US23	236.66666666666666	710.6666666666666	15197.888888888889
+17004	23	23	0	Maine	453310	Used merchandise stores	45	0400000US23	138.88888888888889	1020.7777777777778	15189.777777777777
+17005	23	23	0	Maine	453910	Pet and pet supplies stores	45	0400000US23	58.111111111111114	433.3333333333333	8757.777777777777
+17006	23	23	0	Maine	453920	Art dealers	45	0400000US23	58.111111111111114	92.66666666666667	3109.8888888888887
+17007	23	23	0	Maine	453930	Manufactured (mobile) home dealers	45	0400000US23	19.22222222222222	89.0	4085.222222222222
+17008	23	23	0	Maine	453991	Tobacco stores	45	0400000US23	55.333333333333336	211.44444444444446	5229.777777777777
+17009	23	23	0	Maine	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US23	111.66666666666667	368.6666666666667	14952.888888888889
+17010	23	23	0	Maine	454110	Electronic shopping and mail-order houses	45	0400000US23	182.0	2275.0	78612.0
+17011	23	23	0	Maine	454111	Electronic shopping	45	0400000US23	124.6	696.4	21941.0
+17012	23	23	0	Maine	454112	Electronic auctions	45	0400000US23	2.8	0.0	129.6
+17013	23	23	0	Maine	454113	Mail-order houses	45	0400000US23	46.0	1584.6	51085.4
+17014	23	23	0	Maine	454210	Vending machine operators	45	0400000US23	14.222222222222221	117.33333333333333	3343.777777777778
+17015	23	23	0	Maine	454310	Fuel dealers	45	0400000US23	280.6666666666667	3001.0	121548.55555555556
+17016	23	23	0	Maine	454390	Other direct selling establishments	45	0400000US23	98.77777777777777	380.8888888888889	13054.444444444445
+17017	23	23	0	Maine	481111	Scheduled passenger air transportation	48	0400000US23	12.11111111111111	204.88888888888889	6192.111111111111
+17018	23	23	0	Maine	481211	Nonscheduled chartered passenger air transportation	48	0400000US23	8.444444444444445	126.22222222222223	7587.777777777777
+17019	23	23	0	Maine	481219	Other nonscheduled air transportation	48	0400000US23	1.6	0.0	0.0
+17020	23	23	0	Maine	483113	Coastal and great lakes freight transportation	48	0400000US23	3.0	1.8888888888888888	119.0
+17021	23	23	0	Maine	483114	Coastal and great lakes passenger transportation	48	0400000US23	4.444444444444445	16.555555555555557	624.4444444444445
+17022	23	23	0	Maine	483211	Inland water freight transportation	48	0400000US23	1.0	0.0	0.0
+17023	23	23	0	Maine	483212	Inland water passenger transportation	48	0400000US23	4.222222222222222	8.88888888888889	402.44444444444446
+17024	23	23	0	Maine	484110	General freight trucking, local	48	0400000US23	116.66666666666667	827.0	33361.11111111111
+17025	23	23	0	Maine	484121	General freight trucking, long-distance, truckload	48	0400000US23	140.88888888888889	2222.777777777778	99457.33333333333
+17026	23	23	0	Maine	484122	General freight trucking, long-distance, less than truckload	48	0400000US23	39.0	622.6666666666666	33731.333333333336
+17027	23	23	0	Maine	484210	Used household and office goods moving	48	0400000US23	34.333333333333336	504.8888888888889	17113.11111111111
+17028	23	23	0	Maine	484220	Specialized freight (except used goods) trucking, local	48	0400000US23	306.3333333333333	1290.5555555555557	52858.333333333336
+17029	23	23	0	Maine	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US23	72.44444444444444	533.3333333333334	21423.333333333332
+17030	23	23	0	Maine	485111	Mixed mode transit systems	48	0400000US23	1.0	0.0	0.0
+17031	23	23	0	Maine	485113	Bus and other motor vehicle transit systems	48	0400000US23	1.5	0.0	0.0
+17032	23	23	0	Maine	485119	Other urban transit systems	48	0400000US23	1.0	0.0	0.0
+17033	23	23	0	Maine	485210	Interurban and rural bus transportation	48	0400000US23	3.0	0.0	0.0
+17034	23	23	0	Maine	485310	Taxi service	48	0400000US23	38.111111111111114	237.88888888888889	3817.3333333333335
+17035	23	23	0	Maine	485320	Limousine service	48	0400000US23	11.444444444444445	69.55555555555556	1535.111111111111
+17036	23	23	0	Maine	485410	School and employee bus transportation	48	0400000US23	23.77777777777778	699.2222222222222	13467.777777777777
+17037	23	23	0	Maine	485510	Charter bus industry	48	0400000US23	4.555555555555555	87.0	2537.8888888888887
+17038	23	23	0	Maine	485991	Special needs transportation	48	0400000US23	13.777777777777779	325.22222222222223	8255.0
+17039	23	23	0	Maine	485999	All other transit and ground passenger transportation	48	0400000US23	5.222222222222222	26.88888888888889	530.3333333333334
+17040	23	23	0	Maine	486110	Pipeline transportation of crude oil	48	0400000US23	2.8	0.0	0.0
+17041	23	23	0	Maine	486210	Pipeline transportation of natural gas	48	0400000US23	7.444444444444445	0.0	0.0
+17042	23	23	0	Maine	486910	Pipeline transportation of refined petroleum products	48	0400000US23	1.6666666666666667	0.0	0.0
+17043	23	23	0	Maine	487110	Scenic and sightseeing transportation, land	48	0400000US23	12.555555555555555	15.0	1411.2222222222222
+17044	23	23	0	Maine	487210	Scenic and sightseeing transportation, water	48	0400000US23	42.888888888888886	83.66666666666667	5806.111111111111
+17045	23	23	0	Maine	487990	Scenic and sightseeing transportation, other	48	0400000US23	2.2	0.0	0.0
+17046	23	23	0	Maine	488119	Other airport operations	48	0400000US23	10.777777777777779	290.44444444444446	7253.555555555556
+17047	23	23	0	Maine	488190	Other support activities for air transportation	48	0400000US23	17.88888888888889	218.55555555555554	15663.777777777777
+17048	23	23	0	Maine	488210	Support activities for rail transportation	48	0400000US23	3.0	0.0	0.0
+17049	23	23	0	Maine	488310	Port and harbor operations	48	0400000US23	3.7777777777777777	0.6666666666666666	42.77777777777778
+17050	23	23	0	Maine	488320	Marine cargo handling	48	0400000US23	2.5555555555555554	2.2222222222222223	206.33333333333334
+17051	23	23	0	Maine	488330	Navigational services to shipping	48	0400000US23	14.11111111111111	68.0	4682.777777777777
+17052	23	23	0	Maine	488390	Other support activities for water transportation	48	0400000US23	8.444444444444445	31.666666666666668	1290.4444444444443
+17053	23	23	0	Maine	488410	Motor vehicle towing	48	0400000US23	42.888888888888886	188.22222222222223	5218.888888888889
+17054	23	23	0	Maine	488490	Other support activities for road transportation	48	0400000US23	16.555555555555557	338.55555555555554	9807.222222222223
+17055	23	23	0	Maine	488510	Freight transportation arrangement	48	0400000US23	55.55555555555556	232.77777777777777	10283.444444444445
+17056	23	23	0	Maine	488991	Packing and crating	48	0400000US23	5.888888888888889	38.111111111111114	1481.7777777777778
+17057	23	23	0	Maine	488999	All other support activities for transportation	48	0400000US23	2.8	5.6	134.2
+17058	23	23	0	Maine	492110	Couriers and express delivery services	49	0400000US23	47.333333333333336	1789.111111111111	80432.44444444444
+17059	23	23	0	Maine	492210	Local messengers and local delivery	49	0400000US23	7.777777777777778	103.0	2987.1111111111113
+17060	23	23	0	Maine	493110	General warehousing and storage	49	0400000US23	51.0	2803.777777777778	131793.55555555556
+17061	23	23	0	Maine	493120	Refrigerated warehousing and storage	49	0400000US23	5.888888888888889	42.333333333333336	1871.7777777777778
+17062	23	23	0	Maine	493130	Farm product warehousing and storage	49	0400000US23	1.2	0.0	0.0
+17063	23	23	0	Maine	493190	Other warehousing and storage	49	0400000US23	8.555555555555555	93.33333333333333	3530.6666666666665
+17064	23	23	0	Maine	511110	Newspaper publishers	51	0400000US23	59.22222222222222	1365.3333333333333	51416.555555555555
+17065	23	23	0	Maine	511120	Periodical publishers	51	0400000US23	34.22222222222222	414.22222222222223	20548.444444444445
+17066	23	23	0	Maine	511130	Book publishers	51	0400000US23	25.444444444444443	228.44444444444446	10962.444444444445
+17067	23	23	0	Maine	511140	Directory and mailing list publishers	51	0400000US23	5.111111111111111	15.444444444444445	1031.0
+17068	23	23	0	Maine	511191	Greeting card publishers	51	0400000US23	4.111111111111111	186.22222222222223	7882.777777777777
+17069	23	23	0	Maine	511199	All other publishers	51	0400000US23	8.666666666666666	7.111111111111111	512.0
+17070	23	23	0	Maine	511210	Software publishers	51	0400000US23	36.111111111111114	810.0	90735.11111111111
+17071	23	23	0	Maine	512110	Motion picture and video production	51	0400000US23	38.888888888888886	93.55555555555556	4887.111111111111
+17072	23	23	0	Maine	512120	Motion picture and video distribution	51	0400000US23	1.0	0.0	0.0
+17073	23	23	0	Maine	512131	Motion picture theaters (except drive-ins)	51	0400000US23	34.333333333333336	631.2222222222222	7120.666666666667
+17074	23	23	0	Maine	512132	Drive-in motion picture theaters	51	0400000US23	2.888888888888889	0.0	0.0
+17075	23	23	0	Maine	512191	Teleproduction and other postproduction services	51	0400000US23	7.333333333333333	11.11111111111111	455.6666666666667
+17076	23	23	0	Maine	512199	Other motion picture and video industries	51	0400000US23	2.0	0.0	0.0
+17077	23	23	0	Maine	512220	Integrated record production\/distribution	51	0400000US23	1.0	0.0	0.0
+17078	23	23	0	Maine	512230	Music publishers	51	0400000US23	1.0	0.0	0.0
+17079	23	23	0	Maine	512240	Sound recording studios	51	0400000US23	5.888888888888889	9.555555555555555	933.7777777777778
+17080	23	23	0	Maine	512290	Other sound recording industries	51	0400000US23	1.0	0.0	0.0
+17081	23	23	0	Maine	515111	Radio networks	51	0400000US23	4.555555555555555	13.222222222222221	716.0
+17082	23	23	0	Maine	515112	Radio stations	51	0400000US23	30.77777777777778	449.0	17477.0
+17083	23	23	0	Maine	515120	Television broadcasting	51	0400000US23	16.333333333333332	550.7777777777778	28122.666666666668
+17084	23	23	0	Maine	515210	Cable and other subscription programming	51	0400000US23	7.222222222222222	14.777777777777779	317.8888888888889
+17085	23	23	0	Maine	517110	Wired telecommunications carriers	51	0400000US23	223.0	1183.6	198848.0
+17086	23	23	0	Maine	517210	Wireless telecommunications carriers (except satellite)	51	0400000US23	44.2	521.0	24931.8
+17087	23	23	0	Maine	517311	Wired telecommunications carriers	51	0400000US23	193.0	2725.0	189323.0
+17088	23	23	0	Maine	517312	Wireless telecommunications carriers (except satellite)	51	0400000US23	68.0	1551.0	67259.0
+17089	23	23	0	Maine	517410	Satellite telecommunications	51	0400000US23	2.0	0.0	0.0
+17090	23	23	0	Maine	517911	Telecommunications resellers	51	0400000US23	8.666666666666666	81.0	3549.8888888888887
+17091	23	23	0	Maine	517919	All other telecommunications	51	0400000US23	13.333333333333334	80.11111111111111	4245.222222222223
+17092	23	23	0	Maine	518210	Data processing, hosting, and related services	51	0400000US23	61.333333333333336	1413.2222222222222	81373.33333333333
+17093	23	23	0	Maine	519110	News syndicates	51	0400000US23	1.8	0.0	0.0
+17094	23	23	0	Maine	519120	Libraries and archives	51	0400000US23	102.88888888888889	479.22222222222223	9420.444444444445
+17095	23	23	0	Maine	519130	Internet publishing and broadcasting and web search portals	51	0400000US23	23.11111111111111	119.66666666666667	7637.333333333333
+17096	23	23	0	Maine	519190	All other information services	51	0400000US23	3.3333333333333335	40.44444444444444	1388.6666666666667
+17097	23	23	0	Maine	522110	Commercial banking	52	0400000US23	323.55555555555554	5841.111111111111	342748.0
+17098	23	23	0	Maine	522120	Savings institutions	52	0400000US23	230.66666666666666	3204.3333333333335	180981.11111111112
+17099	23	23	0	Maine	522130	Credit unions	52	0400000US23	184.77777777777777	2232.777777777778	98710.11111111111
+17100	23	23	0	Maine	522210	Credit card issuing	52	0400000US23	8.333333333333334	0.0	0.0
+17101	23	23	0	Maine	522220	Sales financing	52	0400000US23	14.11111111111111	95.77777777777777	8583.0
+17102	23	23	0	Maine	522291	Consumer lending	52	0400000US23	3.888888888888889	0.0	64.44444444444444
+17103	23	23	0	Maine	522292	Real estate credit	52	0400000US23	57.77777777777778	996.6666666666666	74432.44444444444
+17104	23	23	0	Maine	522298	All other nondepository credit intermediation	52	0400000US23	15.11111111111111	86.77777777777777	3220.1111111111113
+17105	23	23	0	Maine	522310	Mortgage and nonmortgage loan brokers	52	0400000US23	20.77777777777778	50.333333333333336	3990.777777777778
+17106	23	23	0	Maine	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US23	21.77777777777778	1073.5555555555557	105075.33333333333
+17107	23	23	0	Maine	522390	Other activities related to credit intermediation	52	0400000US23	12.777777777777779	45.44444444444444	2581.0
+17108	23	23	0	Maine	523110	Investment banking and securities dealing	52	0400000US23	6.666666666666667	0.0	0.0
+17109	23	23	0	Maine	523120	Securities brokerage	52	0400000US23	106.0	495.44444444444446	72935.88888888889
+17110	23	23	0	Maine	523130	Commodity contracts dealing	52	0400000US23	1.0	0.0	0.0
+17111	23	23	0	Maine	523140	Commodity contracts brokerage	52	0400000US23	1.2	0.0	0.0
+17112	23	23	0	Maine	523910	Miscellaneous intermediation	52	0400000US23	11.11111111111111	20.0	1775.111111111111
+17113	23	23	0	Maine	523920	Portfolio management	52	0400000US23	114.22222222222223	718.1111111111111	81934.33333333333
+17114	23	23	0	Maine	523930	Investment advice	52	0400000US23	72.88888888888889	178.0	12966.222222222223
+17115	23	23	0	Maine	523991	Trust, fiduciary, and custody activities	52	0400000US23	17.666666666666668	274.8888888888889	13379.888888888889
+17116	23	23	0	Maine	523999	Miscellaneous financial investment activities	52	0400000US23	1.0	0.0	0.0
+17117	23	23	0	Maine	524113	Direct life insurance carriers	52	0400000US23	47.55555555555556	3344.3333333333335	332625.1111111111
+17118	23	23	0	Maine	524114	Direct health and medical insurance carriers	52	0400000US23	30.444444444444443	1590.888888888889	112185.33333333333
+17119	23	23	0	Maine	524126	Direct property and casualty insurance carriers	52	0400000US23	73.66666666666667	1405.4444444444443	106457.0
+17120	23	23	0	Maine	524127	Direct title insurance carriers	52	0400000US23	3.7777777777777777	2.4444444444444446	439.3333333333333
+17121	23	23	0	Maine	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US23	1.4	0.0	0.0
+17122	23	23	0	Maine	524130	Reinsurance carriers	52	0400000US23	2.888888888888889	5.777777777777778	751.3333333333334
+17123	23	23	0	Maine	524210	Insurance agencies and brokerages	52	0400000US23	459.6666666666667	2917.1111111111113	184188.66666666666
+17124	23	23	0	Maine	524291	Claims adjusting	52	0400000US23	19.666666666666668	116.55555555555556	6676.555555555556
+17125	23	23	0	Maine	524292	Third party administration of insurance and pension funds	52	0400000US23	17.77777777777778	410.22222222222223	25757.555555555555
+17126	23	23	0	Maine	524298	All other insurance related activities	52	0400000US23	16.333333333333332	106.55555555555556	3327.5555555555557
+17127	23	23	0	Maine	525910	Open-end investment funds	52	0400000US23	1.0	0.0	0.0
+17128	23	23	0	Maine	525990	Other financial vehicles	52	0400000US23	1.6666666666666667	0.0	0.0
+17129	23	23	0	Maine	531110	Lessors of residential buildings and dwellings	53	0400000US23	262.3333333333333	976.3333333333334	32954.11111111111
+17130	23	23	0	Maine	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US23	157.66666666666666	535.7777777777778	19407.333333333332
+17131	23	23	0	Maine	531130	Lessors of miniwarehouses and self-storage units	53	0400000US23	60.0	158.44444444444446	4030.5555555555557
+17132	23	23	0	Maine	531190	Lessors of other real estate property	53	0400000US23	48.888888888888886	138.33333333333334	5947.666666666667
+17133	23	23	0	Maine	531210	Offices of real estate agents and brokers	53	0400000US23	538.2222222222222	949.8888888888889	47247.77777777778
+17134	23	23	0	Maine	531311	Residential property managers	53	0400000US23	199.44444444444446	1627.6666666666667	54594.0
+17135	23	23	0	Maine	531312	Nonresidential property managers	53	0400000US23	71.0	326.77777777777777	15044.555555555555
+17136	23	23	0	Maine	531320	Offices of real estate appraisers	53	0400000US23	88.66666666666667	187.11111111111111	10137.333333333334
+17137	23	23	0	Maine	531390	Other activities related to real estate	53	0400000US23	37.44444444444444	122.22222222222223	8203.666666666666
+17138	23	23	0	Maine	532111	Passenger car rental	53	0400000US23	22.77777777777778	137.66666666666666	4821.111111111111
+17139	23	23	0	Maine	532112	Passenger car leasing	53	0400000US23	1.0	0.0	0.0
+17140	23	23	0	Maine	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US23	24.77777777777778	351.77777777777777	16491.0
+17141	23	23	0	Maine	532210	Consumer electronics and appliances rental	53	0400000US23	39.111111111111114	185.77777777777777	7014.333333333333
+17142	23	23	0	Maine	532220	Formal wear and costume rental	53	0400000US23	1.2	0.0	0.0
+17143	23	23	0	Maine	532230	Video tape and disc rental	53	0400000US23	13.6	56.2	656.6
+17144	23	23	0	Maine	532282	Video tape and disc rental	53	0400000US23	5.0	22.0	494.0
+17145	23	23	0	Maine	532283	Home health equipment rental	53	0400000US23	17.0	125.0	4741.0
+17146	23	23	0	Maine	532284	Recreational goods rental	53	0400000US23	27.0	38.0	1452.0
+17147	23	23	0	Maine	532289	All other consumer goods rental	53	0400000US23	25.0	222.0	7290.0
+17148	23	23	0	Maine	532291	Home health equipment rental	53	0400000US23	22.8	127.0	6322.8
+17149	23	23	0	Maine	532292	Recreational goods rental	53	0400000US23	21.0	10.2	499.6
+17150	23	23	0	Maine	532299	All other consumer goods rental	53	0400000US23	30.8	126.8	6529.8
+17151	23	23	0	Maine	532310	General rental centers	53	0400000US23	20.22222222222222	74.11111111111111	3994.222222222222
+17152	23	23	0	Maine	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US23	3.2	1.6	47.4
+17153	23	23	0	Maine	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US23	12.555555555555555	192.55555555555554	10975.666666666666
+17154	23	23	0	Maine	532420	Office machinery and equipment rental and leasing	53	0400000US23	7.0	0.0	0.0
+17155	23	23	0	Maine	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US23	30.0	186.55555555555554	8468.111111111111
+17156	23	23	0	Maine	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US23	3.7777777777777777	7.111111111111111	479.55555555555554
+17157	23	23	0	Maine	541110	Offices of lawyers	54	0400000US23	674.7777777777778	3810.777777777778	248948.88888888888
+17158	23	23	0	Maine	541191	Title abstract and settlement offices	54	0400000US23	45.77777777777778	207.33333333333334	9639.777777777777
+17159	23	23	0	Maine	541199	All other legal services	54	0400000US23	5.777777777777778	3.5555555555555554	236.11111111111111
+17160	23	23	0	Maine	541211	Offices of certified public accountants	54	0400000US23	211.0	1586.888888888889	104872.55555555556
+17161	23	23	0	Maine	541213	Tax preparation services	54	0400000US23	108.33333333333333	632.6666666666666	8010.888888888889
+17162	23	23	0	Maine	541214	Payroll services	54	0400000US23	31.22222222222222	556.1111111111111	22617.11111111111
+17163	23	23	0	Maine	541219	Other accounting services	54	0400000US23	179.44444444444446	634.3333333333334	19435.222222222223
+17164	23	23	0	Maine	541310	Architectural services	54	0400000US23	118.44444444444444	638.7777777777778	41656.88888888889
+17165	23	23	0	Maine	541320	Landscape architectural services	54	0400000US23	23.0	66.0	3957.4444444444443
+17166	23	23	0	Maine	541330	Engineering services	54	0400000US23	299.6666666666667	3062.0	229564.44444444444
+17167	23	23	0	Maine	541340	Drafting services	54	0400000US23	17.0	47.333333333333336	2213.6666666666665
+17168	23	23	0	Maine	541350	Building inspection services	54	0400000US23	29.444444444444443	61.0	3202.5555555555557
+17169	23	23	0	Maine	541360	Geophysical surveying and mapping services	54	0400000US23	3.0	3.8	182.6
+17170	23	23	0	Maine	541370	Surveying and mapping (except geophysical) services	54	0400000US23	99.88888888888889	464.8888888888889	25528.666666666668
+17171	23	23	0	Maine	541380	Testing laboratories	54	0400000US23	34.44444444444444	282.6666666666667	15321.0
+17172	23	23	0	Maine	541410	Interior design services	54	0400000US23	30.88888888888889	45.22222222222222	1943.6666666666667
+17173	23	23	0	Maine	541420	Industrial design services	54	0400000US23	3.4444444444444446	3.111111111111111	264.3333333333333
+17174	23	23	0	Maine	541430	Graphic design services	54	0400000US23	66.44444444444444	140.55555555555554	5729.444444444444
+17175	23	23	0	Maine	541490	Other specialized design services	54	0400000US23	12.777777777777779	22.11111111111111	801.5555555555555
+17176	23	23	0	Maine	541511	Custom computer programming services	54	0400000US23	217.55555555555554	1660.888888888889	128506.11111111111
+17177	23	23	0	Maine	541512	Computer systems design services	54	0400000US23	152.55555555555554	1134.5555555555557	87785.33333333333
+17178	23	23	0	Maine	541513	Computer facilities management services	54	0400000US23	21.333333333333332	195.22222222222223	21518.333333333332
+17179	23	23	0	Maine	541519	Other computer related services	54	0400000US23	17.666666666666668	51.77777777777778	3323.777777777778
+17180	23	23	0	Maine	541611	Administrative management and general management consulting services	54	0400000US23	252.77777777777777	850.2222222222222	66114.88888888889
+17181	23	23	0	Maine	541612	Human resources consulting services	54	0400000US23	23.0	132.77777777777777	9600.333333333334
+17182	23	23	0	Maine	541613	Marketing consulting services	54	0400000US23	119.88888888888889	514.8888888888889	25461.555555555555
+17183	23	23	0	Maine	541614	Process, physical distribution, and logistics consulting services	54	0400000US23	20.333333333333332	93.55555555555556	4874.888888888889
+17184	23	23	0	Maine	541618	Other management consulting services	54	0400000US23	9.222222222222221	11.555555555555555	831.2222222222222
+17185	23	23	0	Maine	541620	Environmental consulting services	54	0400000US23	73.55555555555556	266.6666666666667	14751.444444444445
+17186	23	23	0	Maine	541690	Other scientific and technical consulting services	54	0400000US23	77.55555555555556	316.0	21578.444444444445
+17187	23	23	0	Maine	541711	Research and development in biotechnology	54	0400000US23	11.4	0.0	0.0
+17188	23	23	0	Maine	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US23	43.6	485.0	30665.0
+17189	23	23	0	Maine	541713	Research and development in nanotechnology	54	0400000US23	15.0	171.0	11596.0
+17190	23	23	0	Maine	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US23	10.0	0.0	0.0
+17191	23	23	0	Maine	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US23	28.0	507.0	41913.0
+17192	23	23	0	Maine	541720	Research and development in the social sciences and humanities	54	0400000US23	12.222222222222221	27.88888888888889	2187.777777777778
+17193	23	23	0	Maine	541810	Advertising agencies	54	0400000US23	41.888888888888886	326.44444444444446	22981.11111111111
+17194	23	23	0	Maine	541820	Public relations agencies	54	0400000US23	28.555555555555557	37.111111111111114	2739.5555555555557
+17195	23	23	0	Maine	541830	Media buying agencies	54	0400000US23	2.0	0.0	0.0
+17196	23	23	0	Maine	541840	Media representatives	54	0400000US23	4.222222222222222	5.111111111111111	146.88888888888889
+17197	23	23	0	Maine	541850	Outdoor advertising	54	0400000US23	5.0	7.5	287.625
+17198	23	23	0	Maine	541860	Direct mail advertising	54	0400000US23	11.555555555555555	135.11111111111111	6879.444444444444
+17199	23	23	0	Maine	541870	Advertising material distribution services	54	0400000US23	1.0	0.0	0.0
+17200	23	23	0	Maine	541890	Other services related to advertising	54	0400000US23	39.111111111111114	277.44444444444446	12255.111111111111
+17201	23	23	0	Maine	541910	Marketing research and public opinion polling	54	0400000US23	21.88888888888889	96.55555555555556	4824.444444444444
+17202	23	23	0	Maine	541921	Photography studios, portrait	54	0400000US23	49.55555555555556	84.33333333333333	2177.4444444444443
+17203	23	23	0	Maine	541922	Commercial photography	54	0400000US23	27.22222222222222	43.111111111111114	1695.6666666666667
+17204	23	23	0	Maine	541930	Translation and interpretation services	54	0400000US23	14.222222222222221	27.88888888888889	1563.2222222222222
+17205	23	23	0	Maine	541940	Veterinary services	54	0400000US23	191.11111111111111	1870.888888888889	69723.77777777778
+17206	23	23	0	Maine	541990	All other professional, scientific, and technical services	54	0400000US23	42.22222222222222	152.44444444444446	7789.666666666667
+17207	23	23	0	Maine	551111	Offices of bank holding companies	55	0400000US23	1.4	0.0	0.0
+17208	23	23	0	Maine	551112	Offices of other holding companies	55	0400000US23	24.22222222222222	377.3333333333333	15995.777777777777
+17209	23	23	0	Maine	551114	Corporate, subsidiary, and regional managing offices	55	0400000US23	184.88888888888889	8621.111111111111	750152.4444444445
+17210	23	23	0	Maine	561110	Office administrative services	56	0400000US23	99.77777777777777	1371.3333333333333	75208.33333333333
+17211	23	23	0	Maine	561210	Facilities support services	56	0400000US23	20.555555555555557	299.3333333333333	9982.777777777777
+17212	23	23	0	Maine	561311	Employment placement agencies	56	0400000US23	17.77777777777778	298.44444444444446	12319.444444444445
+17213	23	23	0	Maine	561312	Executive search services	56	0400000US23	13.444444444444445	31.0	2760.777777777778
+17214	23	23	0	Maine	561320	Temporary help services	56	0400000US23	116.33333333333333	5658.666666666667	152921.66666666666
+17215	23	23	0	Maine	561330	Professional employer organizations	56	0400000US23	8.444444444444445	622.1111111111111	23109.777777777777
+17216	23	23	0	Maine	561410	Document preparation services	56	0400000US23	26.444444444444443	287.55555555555554	8178.888888888889
+17217	23	23	0	Maine	561421	Telephone answering services	56	0400000US23	8.444444444444445	152.88888888888889	3119.222222222222
+17218	23	23	0	Maine	561422	Telemarketing bureaus and other contact centers	56	0400000US23	32.111111111111114	2448.777777777778	49195.555555555555
+17219	23	23	0	Maine	561431	Private mail centers	56	0400000US23	16.333333333333332	54.888888888888886	1223.0
+17220	23	23	0	Maine	561439	Other business service centers (including copy shops)	56	0400000US23	12.444444444444445	41.0	1657.6666666666667
+17221	23	23	0	Maine	561440	Collection agencies	56	0400000US23	12.666666666666666	165.0	5811.111111111111
+17222	23	23	0	Maine	561450	Credit bureaus	56	0400000US23	2.4	0.0	0.0
+17223	23	23	0	Maine	561491	Repossession services	56	0400000US23	3.4444444444444446	4.555555555555555	186.55555555555554
+17224	23	23	0	Maine	561492	Court reporting and stenotype services	56	0400000US23	11.555555555555555	12.222222222222221	559.6666666666666
+17225	23	23	0	Maine	561499	All other business support services	56	0400000US23	13.444444444444445	22.22222222222222	1618.111111111111
+17226	23	23	0	Maine	561510	Travel agencies	56	0400000US23	44.888888888888886	302.8888888888889	18431.555555555555
+17227	23	23	0	Maine	561520	Tour operators	56	0400000US23	10.333333333333334	41.0	1371.3333333333333
+17228	23	23	0	Maine	561591	Convention and visitors bureaus	56	0400000US23	12.0	92.55555555555556	2104.4444444444443
+17229	23	23	0	Maine	561599	All other travel arrangement and reservation services	56	0400000US23	11.333333333333334	68.11111111111111	2619.6666666666665
+17230	23	23	0	Maine	561611	Investigation services	56	0400000US23	17.0	26.11111111111111	1979.0
+17231	23	23	0	Maine	561612	Security guards and patrol services	56	0400000US23	22.11111111111111	668.0	20773.444444444445
+17232	23	23	0	Maine	561613	Armored car services	56	0400000US23	4.666666666666667	0.0	0.0
+17233	23	23	0	Maine	561621	Security systems services (except locksmiths)	56	0400000US23	24.77777777777778	217.33333333333334	10888.0
+17234	23	23	0	Maine	561622	Locksmiths	56	0400000US23	16.444444444444443	39.111111111111114	1400.4444444444443
+17235	23	23	0	Maine	561710	Exterminating and pest control services	56	0400000US23	29.555555555555557	176.22222222222223	11405.0
+17236	23	23	0	Maine	561720	Janitorial services	56	0400000US23	343.22222222222223	3203.4444444444443	58426.77777777778
+17237	23	23	0	Maine	561730	Landscaping services	56	0400000US23	756.1111111111111	2938.6666666666665	115376.88888888889
+17238	23	23	0	Maine	561740	Carpet and upholstery cleaning services	56	0400000US23	30.22222222222222	148.55555555555554	3776.1111111111113
+17239	23	23	0	Maine	561790	Other services to buildings and dwellings	56	0400000US23	53.666666666666664	120.77777777777777	3289.5555555555557
+17240	23	23	0	Maine	561910	Packaging and labeling services	56	0400000US23	2.4444444444444446	0.0	0.0
+17241	23	23	0	Maine	561920	Convention and trade show organizers	56	0400000US23	14.666666666666666	0.0	0.0
+17242	23	23	0	Maine	561990	All other support services	56	0400000US23	121.66666666666667	839.4444444444445	32605.555555555555
+17243	23	23	0	Maine	562111	Solid waste collection	56	0400000US23	95.0	898.5555555555555	36559.666666666664
+17244	23	23	0	Maine	562112	Hazardous waste collection	56	0400000US23	1.0	0.0	0.0
+17245	23	23	0	Maine	562119	Other waste collection	56	0400000US23	1.8	2.4	67.4
+17246	23	23	0	Maine	562211	Hazardous waste treatment and disposal	56	0400000US23	5.0	56.22222222222222	3166.1111111111113
+17247	23	23	0	Maine	562212	Solid waste landfill	56	0400000US23	3.4444444444444446	16.0	956.4444444444445
+17248	23	23	0	Maine	562213	Solid waste combustors and incinerators	56	0400000US23	2.0	0.0	0.0
+17249	23	23	0	Maine	562219	Other nonhazardous waste treatment and disposal	56	0400000US23	4.555555555555555	16.22222222222222	1148.0
+17250	23	23	0	Maine	562910	Remediation services	56	0400000US23	30.0	358.1111111111111	17596.444444444445
+17251	23	23	0	Maine	562920	Materials recovery facilities	56	0400000US23	27.555555555555557	213.66666666666666	8196.222222222223
+17252	23	23	0	Maine	562991	Septic tank and related services	56	0400000US23	45.666666666666664	164.44444444444446	6338.111111111111
+17253	23	23	0	Maine	562998	All other miscellaneous waste management services	56	0400000US23	5.555555555555555	22.88888888888889	1193.5555555555557
+17254	23	23	0	Maine	611110	Elementary and secondary schools	61	0400000US23	114.0	4407.666666666667	151216.66666666666
+17255	23	23	0	Maine	611210	Junior colleges	61	0400000US23	4.0	146.0	3648.0
+17256	23	23	0	Maine	611310	Colleges, universities, and professional schools	61	0400000US23	25.333333333333332	10767.444444444445	318110.3333333333
+17257	23	23	0	Maine	611410	Business and secretarial schools	61	0400000US23	1.0	0.0	0.0
+17258	23	23	0	Maine	611420	Computer training	61	0400000US23	4.111111111111111	7.555555555555555	393.55555555555554
+17259	23	23	0	Maine	611430	Professional and management development training	61	0400000US23	27.444444444444443	47.22222222222222	4121.888888888889
+17260	23	23	0	Maine	611511	Cosmetology and barber schools	61	0400000US23	6.111111111111111	77.22222222222223	2177.8888888888887
+17261	23	23	0	Maine	611512	Flight training	61	0400000US23	2.2	0.0	13.2
+17262	23	23	0	Maine	611513	Apprenticeship training	61	0400000US23	4.222222222222222	8.666666666666666	277.8888888888889
+17263	23	23	0	Maine	611519	Other technical and trade schools	61	0400000US23	22.0	353.3333333333333	11526.555555555555
+17264	23	23	0	Maine	611610	Fine arts schools	61	0400000US23	65.22222222222223	395.44444444444446	6205.777777777777
+17265	23	23	0	Maine	611620	Sports and recreation instruction	61	0400000US23	76.88888888888889	499.8888888888889	10088.333333333334
+17266	23	23	0	Maine	611630	Language schools	61	0400000US23	5.666666666666667	9.444444444444445	178.0
+17267	23	23	0	Maine	611691	Exam preparation and tutoring	61	0400000US23	26.11111111111111	141.55555555555554	4624.777777777777
+17268	23	23	0	Maine	611692	Automobile driving schools	61	0400000US23	21.77777777777778	88.55555555555556	1253.7777777777778
+17269	23	23	0	Maine	611699	All other miscellaneous schools and instruction	61	0400000US23	41.22222222222222	164.0	3518.1111111111113
+17270	23	23	0	Maine	611710	Educational support services	61	0400000US23	55.333333333333336	818.4444444444445	43564.0
+17271	23	23	0	Maine	621111	Offices of physicians (except mental health specialists)	62	0400000US23	630.7777777777778	9725.888888888889	726308.1111111111
+17272	23	23	0	Maine	621112	Offices of physicians, mental health specialists	62	0400000US23	28.555555555555557	47.888888888888886	2753.5555555555557
+17273	23	23	0	Maine	621210	Offices of dentists	62	0400000US23	460.6666666666667	3731.4444444444443	202401.0
+17274	23	23	0	Maine	621310	Offices of chiropractors	62	0400000US23	198.33333333333334	688.6666666666666	22626.333333333332
+17275	23	23	0	Maine	621320	Offices of optometrists	62	0400000US23	118.66666666666667	852.6666666666666	36898.555555555555
+17276	23	23	0	Maine	621330	Offices of mental health practitioners (except physicians)	62	0400000US23	170.0	925.4444444444445	26514.777777777777
+17277	23	23	0	Maine	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US23	218.66666666666666	1481.4444444444443	58307.444444444445
+17278	23	23	0	Maine	621391	Offices of podiatrists	62	0400000US23	33.77777777777778	141.66666666666666	7247.777777777777
+17279	23	23	0	Maine	621399	Offices of all other miscellaneous health practitioners	62	0400000US23	115.55555555555556	431.8888888888889	21538.0
+17280	23	23	0	Maine	621410	Family planning centers	62	0400000US23	23.555555555555557	91.0	4583.777777777777
+17281	23	23	0	Maine	621420	Outpatient mental health and substance abuse centers	62	0400000US23	138.0	2660.0	101847.0
+17282	23	23	0	Maine	621491	HMO medical centers	62	0400000US23	7.0	0.0	0.0
+17283	23	23	0	Maine	621492	Kidney dialysis centers	62	0400000US23	20.555555555555557	196.66666666666666	11334.777777777777
+17284	23	23	0	Maine	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US23	12.0	306.1111111111111	18876.555555555555
+17285	23	23	0	Maine	621498	All other outpatient care centers	62	0400000US23	95.11111111111111	2483.4444444444443	151150.55555555556
+17286	23	23	0	Maine	621511	Medical laboratories	62	0400000US23	15.0	929.4444444444445	42224.22222222222
+17287	23	23	0	Maine	621512	Diagnostic imaging centers	62	0400000US23	20.77777777777778	147.22222222222223	11463.333333333334
+17288	23	23	0	Maine	621610	Home health care services	62	0400000US23	115.77777777777777	5361.222222222223	163602.66666666666
+17289	23	23	0	Maine	621910	Ambulance services	62	0400000US23	47.0	1252.2222222222222	30265.777777777777
+17290	23	23	0	Maine	621991	Blood and organ banks	62	0400000US23	1.0	0.0	0.0
+17291	23	23	0	Maine	621999	All other miscellaneous ambulatory health care services	62	0400000US23	22.22222222222222	195.11111111111111	10370.111111111111
+17292	23	23	0	Maine	622110	General medical and surgical hospitals	62	0400000US23	41.0	34127.555555555555	2106960.222222222
+17293	23	23	0	Maine	622210	Psychiatric and substance abuse hospitals	62	0400000US23	3.5555555555555554	1282.2222222222222	60828.444444444445
+17294	23	23	0	Maine	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US23	2.4	0.0	0.0
+17295	23	23	0	Maine	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US23	102.55555555555556	9972.444444444445	256473.66666666666
+17296	23	23	0	Maine	623210	Residential intellectual and developmental disability facilities	62	0400000US23	456.3333333333333	6394.666666666667	159657.44444444444
+17297	23	23	0	Maine	623220	Residential mental health and substance abuse facilities	62	0400000US23	148.11111111111111	2280.8888888888887	68060.77777777778
+17298	23	23	0	Maine	623311	Continuing care retirement communities	62	0400000US23	31.0	1800.5555555555557	42078.22222222222
+17299	23	23	0	Maine	623312	Assisted living facilities for the elderly	62	0400000US23	142.22222222222223	3194.0	71516.66666666667
+17300	23	23	0	Maine	623990	Other residential care facilities	62	0400000US23	54.22222222222222	867.5555555555555	22394.444444444445
+17301	23	23	0	Maine	624110	Child and youth services	62	0400000US23	80.44444444444444	1055.2222222222222	30358.11111111111
+17302	23	23	0	Maine	624120	Services for the elderly and persons with disabilities	62	0400000US23	251.0	7685.777777777777	153799.33333333334
+17303	23	23	0	Maine	624190	Other individual and family services	62	0400000US23	217.88888888888889	3055.5555555555557	94875.33333333333
+17304	23	23	0	Maine	624210	Community food services	62	0400000US23	14.11111111111111	109.77777777777777	4047.4444444444443
+17305	23	23	0	Maine	624221	Temporary shelters	62	0400000US23	27.88888888888889	329.6666666666667	9831.666666666666
+17306	23	23	0	Maine	624229	Other community housing services	62	0400000US23	24.22222222222222	116.77777777777777	4080.4444444444443
+17307	23	23	0	Maine	624230	Emergency and other relief services	62	0400000US23	7.666666666666667	110.11111111111111	2981.3333333333335
+17308	23	23	0	Maine	624310	Vocational rehabilitation services	62	0400000US23	46.22222222222222	968.1111111111111	19640.0
+17309	23	23	0	Maine	624410	Child day care services	62	0400000US23	628.3333333333334	4273.777777777777	82049.77777777778
+17310	23	23	0	Maine	711110	Theater companies and dinner theaters	71	0400000US23	24.0	182.44444444444446	7425.888888888889
+17311	23	23	0	Maine	711120	Dance companies	71	0400000US23	1.0	0.0	0.0
+17312	23	23	0	Maine	711130	Musical groups and artists	71	0400000US23	15.555555555555555	76.0	1526.111111111111
+17313	23	23	0	Maine	711190	Other performing arts companies	71	0400000US23	2.111111111111111	8.88888888888889	229.33333333333334
+17314	23	23	0	Maine	711211	Sports teams and clubs	71	0400000US23	4.6	133.6	3334.4
+17315	23	23	0	Maine	711212	Racetracks	71	0400000US23	6.777777777777778	33.0	1009.1111111111111
+17316	23	23	0	Maine	711219	Other spectator sports	71	0400000US23	6.666666666666667	13.444444444444445	800.1111111111111
+17317	23	23	0	Maine	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US23	32.333333333333336	178.33333333333334	4808.888888888889
+17318	23	23	0	Maine	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US23	14.666666666666666	90.66666666666667	2967.0
+17319	23	23	0	Maine	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US23	5.666666666666667	2.5555555555555554	420.3333333333333
+17320	23	23	0	Maine	711510	Independent artists, writers, and performers	71	0400000US23	75.44444444444444	113.0	7529.444444444444
+17321	23	23	0	Maine	712110	Museums	71	0400000US23	73.55555555555556	438.3333333333333	14086.333333333334
+17322	23	23	0	Maine	712120	Historical sites	71	0400000US23	31.77777777777778	79.22222222222223	2442.777777777778
+17323	23	23	0	Maine	712130	Zoos and botanical gardens	71	0400000US23	7.222222222222222	101.88888888888889	4156.0
+17324	23	23	0	Maine	712190	Nature parks and other similar institutions	71	0400000US23	9.555555555555555	33.666666666666664	1365.3333333333333
+17325	23	23	0	Maine	713110	Amusement and theme parks	71	0400000US23	3.3333333333333335	37.55555555555556	4273.0
+17326	23	23	0	Maine	713120	Amusement arcades	71	0400000US23	15.777777777777779	144.77777777777777	2071.1111111111113
+17327	23	23	0	Maine	713210	Casinos (except casino hotels)	71	0400000US23	1.0	0.0	0.0
+17328	23	23	0	Maine	713290	Other gambling industries	71	0400000US23	6.333333333333333	34.111111111111114	1053.2222222222222
+17329	23	23	0	Maine	713910	Golf courses and country clubs	71	0400000US23	110.66666666666667	604.8888888888889	31933.333333333332
+17330	23	23	0	Maine	713920	Skiing facilities	71	0400000US23	15.555555555555555	918.0	8316.222222222223
+17331	23	23	0	Maine	713930	Marinas	71	0400000US23	78.33333333333333	407.8888888888889	19215.333333333332
+17332	23	23	0	Maine	713940	Fitness and recreational sports centers	71	0400000US23	147.44444444444446	2392.1111111111113	30600.11111111111
+17333	23	23	0	Maine	713950	Bowling centers	71	0400000US23	28.77777777777778	347.1111111111111	5466.333333333333
+17334	23	23	0	Maine	713990	All other amusement and recreation industries	71	0400000US23	162.44444444444446	555.8888888888889	14245.333333333334
+17335	23	23	0	Maine	721110	Hotels (except casino hotels) and motels	72	0400000US23	496.0	7519.333333333333	204344.66666666666
+17336	23	23	0	Maine	721120	Casino hotels	72	0400000US23	1.0	0.0	0.0
+17337	23	23	0	Maine	721191	Bed-and-breakfast inns	72	0400000US23	166.55555555555554	454.44444444444446	15765.222222222223
+17338	23	23	0	Maine	721199	All other traveler accommodation	72	0400000US23	42.666666666666664	107.33333333333333	5975.111111111111
+17339	23	23	0	Maine	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US23	128.0	303.1111111111111	17104.88888888889
+17340	23	23	0	Maine	721214	Recreational and vacation camps (except campgrounds)	72	0400000US23	117.66666666666667	707.2222222222222	45424.666666666664
+17341	23	23	0	Maine	721310	Rooming and boarding houses	72	0400000US23	11.555555555555555	23.555555555555557	560.0
+17342	23	23	0	Maine	722310	Food service contractors	72	0400000US23	101.11111111111111	1301.6666666666667	26841.555555555555
+17343	23	23	0	Maine	722320	Caterers	72	0400000US23	63.22222222222222	343.44444444444446	8682.111111111111
+17344	23	23	0	Maine	722330	Mobile food services	72	0400000US23	27.666666666666668	27.88888888888889	1177.6666666666667
+17345	23	23	0	Maine	722410	Drinking places (alcoholic beverages)	72	0400000US23	115.88888888888889	976.4444444444445	19972.777777777777
+17346	23	23	0	Maine	722511	Full-service restaurants	72	0400000US23	1469.888888888889	22109.222222222223	471638.22222222225
+17347	23	23	0	Maine	722513	Limited-service restaurants	72	0400000US23	974.7777777777778	12918.666666666666	195499.77777777778
+17348	23	23	0	Maine	722514	Cafeterias, grill buffets, and buffets	72	0400000US23	14.0	129.66666666666666	2303.0
+17349	23	23	0	Maine	722515	Snack and nonalcoholic beverage bars	72	0400000US23	433.0	4014.222222222222	65569.88888888889
+17350	23	23	0	Maine	811111	General automotive repair	81	0400000US23	628.0	2222.6666666666665	76534.44444444444
+17351	23	23	0	Maine	811112	Automotive exhaust system repair	81	0400000US23	1.0	0.0	0.0
+17352	23	23	0	Maine	811113	Automotive transmission repair	81	0400000US23	11.222222222222221	33.888888888888886	1639.3333333333333
+17353	23	23	0	Maine	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US23	22.555555555555557	46.333333333333336	1468.0
+17354	23	23	0	Maine	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US23	164.11111111111111	887.3333333333334	36015.22222222222
+17355	23	23	0	Maine	811122	Automotive glass replacement shops	81	0400000US23	42.0	195.22222222222223	6153.0
+17356	23	23	0	Maine	811191	Automotive oil change and lubrication shops	81	0400000US23	33.888888888888886	176.33333333333334	4803.666666666667
+17357	23	23	0	Maine	811192	Car washes	81	0400000US23	59.333333333333336	249.55555555555554	5845.111111111111
+17358	23	23	0	Maine	811198	All other automotive repair and maintenance	81	0400000US23	8.444444444444445	23.333333333333332	972.1111111111111
+17359	23	23	0	Maine	811211	Consumer electronics repair and maintenance	81	0400000US23	4.0	2.8	31.4
+17360	23	23	0	Maine	811212	Computer and office machine repair and maintenance	81	0400000US23	23.333333333333332	56.44444444444444	1852.0
+17361	23	23	0	Maine	811213	Communication equipment repair and maintenance	81	0400000US23	6.666666666666667	20.0	1095.4444444444443
+17362	23	23	0	Maine	811219	Other electronic and precision equipment repair and maintenance	81	0400000US23	14.555555555555555	54.111111111111114	3403.6666666666665
+17363	23	23	0	Maine	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US23	109.33333333333333	499.22222222222223	22099.11111111111
+17364	23	23	0	Maine	811411	Home and garden equipment repair and maintenance	81	0400000US23	12.11111111111111	21.0	669.8888888888889
+17365	23	23	0	Maine	811412	Appliance repair and maintenance	81	0400000US23	15.88888888888889	25.11111111111111	691.0
+17366	23	23	0	Maine	811420	Reupholstery and furniture repair	81	0400000US23	11.11111111111111	14.444444444444445	436.55555555555554
+17367	23	23	0	Maine	811430	Footwear and leather goods repair	81	0400000US23	4.333333333333333	10.222222222222221	247.77777777777777
+17368	23	23	0	Maine	811490	Other personal and household goods repair and maintenance	81	0400000US23	106.11111111111111	643.7777777777778	26387.444444444445
+17369	23	23	0	Maine	812111	Barber shops	81	0400000US23	8.0	31.88888888888889	926.1111111111111
+17370	23	23	0	Maine	812112	Beauty salons	81	0400000US23	313.8888888888889	1429.7777777777778	32747.666666666668
+17371	23	23	0	Maine	812113	Nail salons	81	0400000US23	29.555555555555557	68.88888888888889	2120.3333333333335
+17372	23	23	0	Maine	812191	Diet and weight reducing centers	81	0400000US23	3.111111111111111	0.0	0.0
+17373	23	23	0	Maine	812199	Other personal care services	81	0400000US23	76.55555555555556	440.0	8035.777777777777
+17374	23	23	0	Maine	812210	Funeral homes and funeral services	81	0400000US23	95.22222222222223	519.5555555555555	15406.222222222223
+17375	23	23	0	Maine	812220	Cemeteries and crematories	81	0400000US23	34.55555555555556	67.77777777777777	3386.0
+17376	23	23	0	Maine	812310	Coin-operated laundries and drycleaners	81	0400000US23	67.55555555555556	298.1111111111111	5005.777777777777
+17377	23	23	0	Maine	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US23	28.0	183.33333333333334	3746.777777777778
+17378	23	23	0	Maine	812331	Linen supply	81	0400000US23	5.222222222222222	0.0	0.0
+17379	23	23	0	Maine	812332	Industrial launderers	81	0400000US23	6.222222222222222	17.666666666666668	703.5555555555555
+17380	23	23	0	Maine	812910	Pet care (except veterinary) services	81	0400000US23	123.0	557.7777777777778	9573.222222222223
+17381	23	23	0	Maine	812921	Photofinishing laboratories (except one-hour)	81	0400000US23	4.111111111111111	3.7777777777777777	139.66666666666666
+17382	23	23	0	Maine	812922	One-hour photofinishing	81	0400000US23	1.6	0.0	24.2
+17383	23	23	0	Maine	812930	Parking lots and garages	81	0400000US23	18.88888888888889	120.55555555555556	3393.0
+17384	23	23	0	Maine	812990	All other personal services	81	0400000US23	37.888888888888886	79.55555555555556	3176.1111111111113
+17385	23	23	0	Maine	813110	Religious organizations	81	0400000US23	744.8888888888889	4053.4444444444443	74206.44444444444
+17386	23	23	0	Maine	813211	Grantmaking foundations	81	0400000US23	73.0	256.3333333333333	16773.222222222223
+17387	23	23	0	Maine	813212	Voluntary health organizations	81	0400000US23	23.444444444444443	262.22222222222223	9046.555555555555
+17388	23	23	0	Maine	813219	Other grantmaking and giving services	81	0400000US23	24.77777777777778	162.88888888888889	7389.777777777777
+17389	23	23	0	Maine	813311	Human rights organizations	81	0400000US23	21.0	141.44444444444446	6669.666666666667
+17390	23	23	0	Maine	813312	Environment, conservation and wildlife organizations	81	0400000US23	140.22222222222223	856.1111111111111	34084.666666666664
+17391	23	23	0	Maine	813319	Other social advocacy organizations	81	0400000US23	45.55555555555556	246.77777777777777	11750.444444444445
+17392	23	23	0	Maine	813410	Civic and social organizations	81	0400000US23	213.44444444444446	1396.3333333333333	24687.555555555555
+17393	23	23	0	Maine	813910	Business associations	81	0400000US23	127.77777777777777	537.2222222222222	27457.222222222223
+17394	23	23	0	Maine	813920	Professional organizations	81	0400000US23	38.111111111111114	177.33333333333334	9788.222222222223
+17395	23	23	0	Maine	813930	Labor unions and similar labor organizations	81	0400000US23	63.55555555555556	510.8888888888889	15122.333333333334
+17396	23	23	0	Maine	813940	Political organizations	81	0400000US23	20.444444444444443	38.22222222222222	2393.6666666666665
+17397	23	23	0	Maine	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US23	53.0	293.0	7372.333333333333

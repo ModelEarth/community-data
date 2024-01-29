@@ -1,0 +1,845 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+23117	30	30	0	Montana	113110	Timber tract operations	11	0400000US30	2.0	0.0	0.0
+23118	30	30	0	Montana	113210	Forest nurseries and gathering of forest products	11	0400000US30	1.2	0.0	0.0
+23119	30	30	0	Montana	113310	Logging	11	0400000US30	168.22222222222223	583.7777777777778	23779.444444444445
+23120	30	30	0	Montana	114111	Finfish fishing	11	0400000US30	5.777777777777778	4.777777777777778	183.11111111111111
+23121	30	30	0	Montana	114112	Shellfish fishing	11	0400000US30	3.2222222222222223	0.8888888888888888	143.77777777777777
+23122	30	30	0	Montana	114119	Other marine fishing	11	0400000US30	1.0	0.0	0.0
+23123	30	30	0	Montana	114210	Hunting and trapping	11	0400000US30	7.111111111111111	3.111111111111111	89.66666666666667
+23124	30	30	0	Montana	115112	Soil preparation, planting, and cultivating	11	0400000US30	41.44444444444444	52.333333333333336	3958.777777777778
+23125	30	30	0	Montana	115113	Crop harvesting, primarily by machine	11	0400000US30	4.444444444444445	3.6666666666666665	218.66666666666666
+23126	30	30	0	Montana	115114	Postharvest crop activities (except cotton ginning)	11	0400000US30	11.777777777777779	68.77777777777777	3013.1111111111113
+23127	30	30	0	Montana	115115	Farm labor contractors and crew leaders	11	0400000US30	1.25	0.0	0.0
+23128	30	30	0	Montana	115116	Farm management services	11	0400000US30	8.88888888888889	16.444444444444443	853.3333333333334
+23129	30	30	0	Montana	115210	Support activities for animal production	11	0400000US30	47.55555555555556	110.55555555555556	3265.222222222222
+23130	30	30	0	Montana	115310	Support activities for forestry	11	0400000US30	52.22222222222222	92.11111111111111	8466.555555555555
+23131	30	30	0	Montana	211111	Crude petroleum and natural gas extraction	21	0400000US30	88.2	948.6	119825.8
+23132	30	30	0	Montana	211112	Natural gas liquid extraction	21	0400000US30	3.2	31.2	3119.6
+23133	30	30	0	Montana	211120	Crude petroleum extraction	21	0400000US30	70.0	693.0	66327.0
+23134	30	30	0	Montana	211130	Natural gas extraction	21	0400000US30	9.0	182.0	22369.0
+23135	30	30	0	Montana	212111	Bituminous coal and lignite surface mining	21	0400000US30	7.0	703.0	59282.88888888889
+23136	30	30	0	Montana	212112	Bituminous coal underground mining	21	0400000US30	1.0	0.0	0.0
+23137	30	30	0	Montana	212221	Gold ore mining	21	0400000US30	10.666666666666666	188.11111111111111	14287.333333333334
+23138	30	30	0	Montana	212222	Silver ore mining	21	0400000US30	1.5	0.0	0.0
+23139	30	30	0	Montana	212234	Copper ore and nickel ore mining	21	0400000US30	1.6	0.0	0.0
+23140	30	30	0	Montana	212299	All other metal ore mining	21	0400000US30	3.0	0.0	0.0
+23141	30	30	0	Montana	212311	Dimension stone mining and quarrying	21	0400000US30	8.666666666666666	49.111111111111114	1978.111111111111
+23142	30	30	0	Montana	212312	Crushed and broken limestone mining and quarrying	21	0400000US30	2.0	0.0	0.0
+23143	30	30	0	Montana	212319	Other crushed and broken stone mining and quarrying	21	0400000US30	1.8	0.0	0.0
+23144	30	30	0	Montana	212321	Construction sand and gravel mining	21	0400000US30	26.88888888888889	204.11111111111111	11790.222222222223
+23145	30	30	0	Montana	212399	All other nonmetallic mineral mining	21	0400000US30	6.222222222222222	141.0	10184.666666666666
+23146	30	30	0	Montana	213111	Drilling oil and gas wells	21	0400000US30	27.22222222222222	264.8888888888889	15168.111111111111
+23147	30	30	0	Montana	213112	Support activities for oil and gas operations	21	0400000US30	162.33333333333334	1339.0	99908.22222222222
+23148	30	30	0	Montana	213113	Support activities for coal mining	21	0400000US30	3.6	13.6	1304.4
+23149	30	30	0	Montana	213114	Support activities for metal mining	21	0400000US30	13.777777777777779	88.66666666666667	6876.444444444444
+23150	30	30	0	Montana	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US30	2.4	5.0	361.4
+23151	30	30	0	Montana	221111	Hydroelectric power generation	22	0400000US30	16.666666666666668	135.33333333333334	11157.666666666666
+23152	30	30	0	Montana	221112	Fossil fuel electric power generation	22	0400000US30	5.888888888888889	0.0	0.0
+23153	30	30	0	Montana	221114	Solar electric power generation	22	0400000US30	1.0	0.0	0.0
+23154	30	30	0	Montana	221115	Wind electric power generation	22	0400000US30	2.888888888888889	14.555555555555555	979.3333333333334
+23155	30	30	0	Montana	221118	Other electric power generation	22	0400000US30	1.0	0.0	0.0
+23156	30	30	0	Montana	221121	Electric bulk power transmission and control	22	0400000US30	1.4	0.0	0.0
+23157	30	30	0	Montana	221122	Electric power distribution	22	0400000US30	118.77777777777777	2191.0	191844.88888888888
+23158	30	30	0	Montana	221210	Natural gas distribution	22	0400000US30	23.88888888888889	50.0	4410.777777777777
+23159	30	30	0	Montana	221310	Water supply and irrigation systems	22	0400000US30	34.22222222222222	141.22222222222223	5772.888888888889
+23160	30	30	0	Montana	221320	Sewage treatment facilities	22	0400000US30	6.111111111111111	20.555555555555557	1614.5555555555557
+23161	30	30	0	Montana	236115	New single-family housing construction (except for-sale builders)	23	0400000US30	834.7777777777778	2259.222222222222	92458.22222222222
+23162	30	30	0	Montana	236116	New multifamily housing construction (except for-sale builders)	23	0400000US30	12.777777777777779	27.555555555555557	923.2222222222222
+23163	30	30	0	Montana	236117	New housing for-sale builders	23	0400000US30	140.0	382.3333333333333	14952.222222222223
+23164	30	30	0	Montana	236118	Residential remodelers	23	0400000US30	500.77777777777777	1101.0	33566.77777777778
+23165	30	30	0	Montana	236210	Industrial building construction	23	0400000US30	12.666666666666666	194.66666666666666	14332.222222222223
+23166	30	30	0	Montana	236220	Commercial and institutional building construction	23	0400000US30	183.0	2060.777777777778	127011.55555555556
+23167	30	30	0	Montana	237110	Water and sewer line and related structures construction	23	0400000US30	116.55555555555556	681.8888888888889	41896.555555555555
+23168	30	30	0	Montana	237120	Oil and gas pipeline and related structures construction	23	0400000US30	25.555555555555557	324.8888888888889	29613.222222222223
+23169	30	30	0	Montana	237130	Power and communication line and related structures construction	23	0400000US30	39.44444444444444	572.6666666666666	54169.11111111111
+23170	30	30	0	Montana	237210	Land subdivision	23	0400000US30	38.666666666666664	46.77777777777778	2627.4444444444443
+23171	30	30	0	Montana	237310	Highway, street, and bridge construction	23	0400000US30	90.88888888888889	1481.6666666666667	114298.22222222222
+23172	30	30	0	Montana	237990	Other heavy and civil engineering construction	23	0400000US30	42.888888888888886	539.8888888888889	52680.555555555555
+23173	30	30	0	Montana	238110	Poured concrete foundation and structure contractors	23	0400000US30	192.33333333333334	947.5555555555555	51994.77777777778
+23174	30	30	0	Montana	238120	Structural steel and precast concrete contractors	23	0400000US30	18.333333333333332	129.77777777777777	6901.888888888889
+23175	30	30	0	Montana	238130	Framing contractors	23	0400000US30	132.66666666666666	467.44444444444446	15793.222222222223
+23176	30	30	0	Montana	238140	Masonry contractors	23	0400000US30	112.55555555555556	489.44444444444446	21779.11111111111
+23177	30	30	0	Montana	238150	Glass and glazing contractors	23	0400000US30	21.333333333333332	118.44444444444444	6117.333333333333
+23178	30	30	0	Montana	238160	Roofing contractors	23	0400000US30	126.33333333333333	453.44444444444446	19736.444444444445
+23179	30	30	0	Montana	238170	Siding contractors	23	0400000US30	82.0	235.11111111111111	7545.444444444444
+23180	30	30	0	Montana	238190	Other foundation, structure, and building exterior contractors	23	0400000US30	39.333333333333336	533.7777777777778	29372.11111111111
+23181	30	30	0	Montana	238210	Electrical contractors and other wiring installation contractors	23	0400000US30	456.0	2536.777777777778	132620.55555555556
+23182	30	30	0	Montana	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US30	584.0	2967.4444444444443	145045.66666666666
+23183	30	30	0	Montana	238290	Other building equipment contractors	23	0400000US30	28.11111111111111	163.55555555555554	12261.0
+23184	30	30	0	Montana	238310	Drywall and insulation contractors	23	0400000US30	168.22222222222223	692.1111111111111	25234.777777777777
+23185	30	30	0	Montana	238320	Painting and wall covering contractors	23	0400000US30	211.44444444444446	668.1111111111111	24910.444444444445
+23186	30	30	0	Montana	238330	Flooring contractors	23	0400000US30	98.22222222222223	210.88888888888889	7066.666666666667
+23187	30	30	0	Montana	238340	Tile and terrazzo contractors	23	0400000US30	65.55555555555556	163.77777777777777	5625.888888888889
+23188	30	30	0	Montana	238350	Finish carpentry contractors	23	0400000US30	214.77777777777777	468.22222222222223	16237.444444444445
+23189	30	30	0	Montana	238390	Other building finishing contractors	23	0400000US30	23.444444444444443	44.77777777777778	1875.4444444444443
+23190	30	30	0	Montana	238910	Site preparation contractors	23	0400000US30	384.77777777777777	1991.4444444444443	120781.11111111111
+23191	30	30	0	Montana	238990	All other specialty trade contractors	23	0400000US30	269.0	957.3333333333334	45548.333333333336
+23192	30	30	0	Montana	311119	Other animal food manufacturing	31	0400000US30	12.666666666666666	167.66666666666666	5179.0
+23193	30	30	0	Montana	311211	Flour milling	31	0400000US30	4.0	89.55555555555556	5436.444444444444
+23194	30	30	0	Montana	311212	Rice milling	31	0400000US30	1.0	0.0	0.0
+23195	30	30	0	Montana	311213	Malt manufacturing	31	0400000US30	1.2	0.0	0.0
+23196	30	30	0	Montana	311224	Soybean and other oilseed processing	31	0400000US30	2.3333333333333335	0.0	0.0
+23197	30	30	0	Montana	311225	Fats and oils refining and blending	31	0400000US30	1.0	0.0	0.0
+23198	30	30	0	Montana	311230	Breakfast cereal manufacturing	31	0400000US30	1.0	0.0	0.0
+23199	30	30	0	Montana	311313	Beet sugar manufacturing	31	0400000US30	2.0	0.0	0.0
+23200	30	30	0	Montana	311340	Nonchocolate confectionery manufacturing	31	0400000US30	2.0	0.0	0.0
+23201	30	30	0	Montana	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US30	2.0	0.0	0.0
+23202	30	30	0	Montana	311352	Confectionery manufacturing from purchased chocolate	31	0400000US30	7.888888888888889	68.33333333333333	1271.7777777777778
+23203	30	30	0	Montana	311411	Frozen fruit, juice, and vegetable manufacturing	31	0400000US30	1.0	0.0	0.0
+23204	30	30	0	Montana	311412	Frozen specialty food manufacturing	31	0400000US30	2.6	8.0	146.4
+23205	30	30	0	Montana	311421	Fruit and vegetable canning	31	0400000US30	6.555555555555555	83.0	2550.222222222222
+23206	30	30	0	Montana	311511	Fluid milk manufacturing	31	0400000US30	3.0	0.0	0.0
+23207	30	30	0	Montana	311512	Creamery butter manufacturing	31	0400000US30	1.0	0.0	0.0
+23208	30	30	0	Montana	311513	Cheese manufacturing	31	0400000US30	1.4	0.0	0.0
+23209	30	30	0	Montana	311514	Dry, condensed, and evaporated dairy product manufacturing	31	0400000US30	1.0	0.0	0.0
+23210	30	30	0	Montana	311520	Ice cream and frozen dessert manufacturing	31	0400000US30	2.888888888888889	0.0	0.0
+23211	30	30	0	Montana	311611	Animal (except poultry) slaughtering	31	0400000US30	28.444444444444443	177.22222222222223	3927.0
+23212	30	30	0	Montana	311612	Meat processed from carcasses	31	0400000US30	23.333333333333332	258.8888888888889	7470.333333333333
+23213	30	30	0	Montana	311613	Rendering and meat byproduct processing	31	0400000US30	1.0	0.0	0.0
+23214	30	30	0	Montana	311811	Retail bakeries	31	0400000US30	18.333333333333332	112.44444444444444	1684.111111111111
+23215	30	30	0	Montana	311812	Commercial bakeries	31	0400000US30	4.888888888888889	98.11111111111111	2325.6666666666665
+23216	30	30	0	Montana	311821	Cookie and cracker manufacturing	31	0400000US30	1.75	0.0	0.0
+23217	30	30	0	Montana	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US30	6.0	96.11111111111111	3703.222222222222
+23218	30	30	0	Montana	311830	Tortilla manufacturing	31	0400000US30	1.0	0.0	0.0
+23219	30	30	0	Montana	311911	Roasted nuts and peanut butter manufacturing	31	0400000US30	1.0	0.0	0.0
+23220	30	30	0	Montana	311919	Other snack food manufacturing	31	0400000US30	1.0	0.0	0.0
+23221	30	30	0	Montana	311920	Coffee and tea manufacturing	31	0400000US30	6.333333333333333	37.44444444444444	784.4444444444445
+23222	30	30	0	Montana	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US30	1.0	0.0	0.0
+23223	30	30	0	Montana	311942	Spice and extract manufacturing	31	0400000US30	2.7777777777777777	28.444444444444443	889.7777777777778
+23224	30	30	0	Montana	311991	Perishable prepared food manufacturing	31	0400000US30	2.4	0.0	0.0
+23225	30	30	0	Montana	311999	All other miscellaneous food manufacturing	31	0400000US30	3.2	2.6	25.0
+23226	30	30	0	Montana	312111	Soft drink manufacturing	31	0400000US30	3.2222222222222223	224.0	8309.222222222223
+23227	30	30	0	Montana	312112	Bottled water manufacturing	31	0400000US30	1.0	0.0	0.0
+23228	30	30	0	Montana	312113	Ice manufacturing	31	0400000US30	6.555555555555555	26.333333333333332	924.3333333333334
+23229	30	30	0	Montana	312120	Breweries	31	0400000US30	51.77777777777778	541.7777777777778	12581.333333333334
+23230	30	30	0	Montana	312130	Wineries	31	0400000US30	6.444444444444445	16.0	299.44444444444446
+23231	30	30	0	Montana	312140	Distilleries	31	0400000US30	11.0	86.22222222222223	2045.3333333333333
+23232	30	30	0	Montana	313110	Fiber, yarn, and thread mills	31	0400000US30	1.4	0.8	4.6
+23233	30	30	0	Montana	313210	Broadwoven fabric mills	31	0400000US30	1.0	0.0	0.0
+23234	30	30	0	Montana	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US30	1.0	0.0	0.0
+23235	30	30	0	Montana	313310	Textile and fabric finishing mills	31	0400000US30	3.4444444444444446	18.88888888888889	461.77777777777777
+23236	30	30	0	Montana	314120	Curtain and linen mills	31	0400000US30	3.4444444444444446	5.888888888888889	235.66666666666666
+23237	30	30	0	Montana	314910	Textile bag and canvas mills	31	0400000US30	13.222222222222221	127.11111111111111	5177.0
+23238	30	30	0	Montana	314994	Rope, cordage, twine, tire cord, and tire fabric mills	31	0400000US30	2.0	0.0	0.0
+23239	30	30	0	Montana	314999	All other miscellaneous textile product mills	31	0400000US30	20.0	173.44444444444446	3985.6666666666665
+23240	30	30	0	Montana	315210	Cut and sew apparel contractors	31	0400000US30	4.4	2.0	37.0
+23241	30	30	0	Montana	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US30	1.0	0.0	0.0
+23242	30	30	0	Montana	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US30	2.0	0.0	0.0
+23243	30	30	0	Montana	315280	Other cut and sew apparel manufacturing	31	0400000US30	1.8	0.0	0.0
+23244	30	30	0	Montana	315990	Apparel accessories and other apparel manufacturing	31	0400000US30	3.2222222222222223	5.333333333333333	127.77777777777777
+23245	30	30	0	Montana	316110	Leather and hide tanning and finishing	31	0400000US30	5.666666666666667	21.666666666666668	605.8888888888889
+23246	30	30	0	Montana	316210	Footwear manufacturing	31	0400000US30	2.888888888888889	0.0	0.0
+23247	30	30	0	Montana	316992	Women's handbag and purse manufacturing	31	0400000US30	1.0	0.0	0.0
+23248	30	30	0	Montana	316998	All other leather good and allied product manufacturing	31	0400000US30	9.222222222222221	29.22222222222222	610.6666666666666
+23249	30	30	0	Montana	321113	Sawmills	32	0400000US30	34.888888888888886	1200.3333333333333	46173.88888888889
+23250	30	30	0	Montana	321114	Wood preservation	32	0400000US30	4.222222222222222	26.0	1276.0
+23251	30	30	0	Montana	321211	Hardwood veneer and plywood manufacturing	32	0400000US30	1.0	0.0	0.0
+23252	30	30	0	Montana	321212	Softwood veneer and plywood manufacturing	32	0400000US30	2.0	0.0	0.0
+23253	30	30	0	Montana	321213	Engineered wood member (except truss) manufacturing	32	0400000US30	3.3333333333333335	18.444444444444443	493.1111111111111
+23254	30	30	0	Montana	321214	Truss manufacturing	32	0400000US30	15.333333333333334	191.77777777777777	7377.888888888889
+23255	30	30	0	Montana	321219	Reconstituted wood product manufacturing	32	0400000US30	3.888888888888889	0.0	0.0
+23256	30	30	0	Montana	321911	Wood window and door manufacturing	32	0400000US30	8.88888888888889	76.11111111111111	2176.1111111111113
+23257	30	30	0	Montana	321912	Cut stock, resawing lumber, and planing	32	0400000US30	12.0	156.33333333333334	5809.222222222223
+23258	30	30	0	Montana	321918	Other millwork (including flooring)	32	0400000US30	5.444444444444445	27.88888888888889	898.7777777777778
+23259	30	30	0	Montana	321920	Wood container and pallet manufacturing	32	0400000US30	1.75	0.0	0.0
+23260	30	30	0	Montana	321991	Manufactured home (mobile home) manufacturing	32	0400000US30	1.2	0.0	0.0
+23261	30	30	0	Montana	321992	Prefabricated wood building manufacturing	32	0400000US30	13.0	155.77777777777777	5110.111111111111
+23262	30	30	0	Montana	321999	All other miscellaneous wood product manufacturing	32	0400000US30	23.444444444444443	162.44444444444446	3917.5555555555557
+23263	30	30	0	Montana	322110	Pulp mills	32	0400000US30	1.0	0.0	0.0
+23264	30	30	0	Montana	322211	Corrugated and solid fiber box manufacturing	32	0400000US30	1.0	0.0	0.0
+23265	30	30	0	Montana	322299	All other converted paper product manufacturing	32	0400000US30	1.0	0.0	0.0
+23266	30	30	0	Montana	323111	Commercial printing (except screen and books)	32	0400000US30	66.44444444444444	763.4444444444445	29927.444444444445
+23267	30	30	0	Montana	323113	Commercial screen printing	32	0400000US30	17.11111111111111	95.77777777777777	2231.0
+23268	30	30	0	Montana	323117	Books printing	32	0400000US30	1.0	0.0	0.0
+23269	30	30	0	Montana	323120	Support activities for printing	32	0400000US30	5.111111111111111	6.444444444444445	105.33333333333333
+23270	30	30	0	Montana	324110	Petroleum refineries	32	0400000US30	3.7777777777777777	1061.5555555555557	119130.22222222222
+23271	30	30	0	Montana	324121	Asphalt paving mixture and block manufacturing	32	0400000US30	2.0	0.0	0.0
+23272	30	30	0	Montana	324199	All other petroleum and coal products manufacturing	32	0400000US30	1.0	0.0	0.0
+23273	30	30	0	Montana	325120	Industrial gas manufacturing	32	0400000US30	2.0	0.0	0.0
+23274	30	30	0	Montana	325130	Synthetic dye and pigment manufacturing	32	0400000US30	1.6	0.0	0.0
+23275	30	30	0	Montana	325194	Cyclic crude, intermediate, and gum and wood chemical manufacturing	32	0400000US30	1.0	0.0	0.0
+23276	30	30	0	Montana	325199	All other basic organic chemical manufacturing	32	0400000US30	1.8	0.0	0.0
+23277	30	30	0	Montana	325211	Plastics material and resin manufacturing	32	0400000US30	2.0	0.0	0.0
+23278	30	30	0	Montana	325311	Nitrogenous fertilizer manufacturing	32	0400000US30	1.0	0.0	0.0
+23279	30	30	0	Montana	325312	Phosphatic fertilizer manufacturing	32	0400000US30	1.0	0.0	0.0
+23280	30	30	0	Montana	325314	Fertilizer (mixing only) manufacturing	32	0400000US30	2.4444444444444446	5.333333333333333	276.8888888888889
+23281	30	30	0	Montana	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US30	5.222222222222222	83.33333333333333	3823.0
+23282	30	30	0	Montana	325411	Medicinal and botanical manufacturing	32	0400000US30	3.2	7.0	483.0
+23283	30	30	0	Montana	325412	Pharmaceutical preparation manufacturing	32	0400000US30	4.444444444444445	121.11111111111111	4949.444444444444
+23284	30	30	0	Montana	325414	Biological product (except diagnostic) manufacturing	32	0400000US30	2.5555555555555554	0.0	0.0
+23285	30	30	0	Montana	325510	Paint and coating manufacturing	32	0400000US30	2.0	0.0	0.0
+23286	30	30	0	Montana	325520	Adhesive manufacturing	32	0400000US30	1.0	0.0	0.0
+23287	30	30	0	Montana	325611	Soap and other detergent manufacturing	32	0400000US30	3.0	32.111111111111114	995.1111111111111
+23288	30	30	0	Montana	325620	Toilet preparation manufacturing	32	0400000US30	6.0	30.22222222222222	524.6666666666666
+23289	30	30	0	Montana	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US30	1.0	0.0	0.0
+23290	30	30	0	Montana	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US30	3.0	31.666666666666668	1601.6666666666667
+23291	30	30	0	Montana	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US30	1.0	0.0	0.0
+23292	30	30	0	Montana	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US30	2.888888888888889	33.666666666666664	1227.6666666666667
+23293	30	30	0	Montana	326140	Polystyrene foam product manufacturing	32	0400000US30	1.0	0.0	0.0
+23294	30	30	0	Montana	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US30	1.0	0.0	0.0
+23295	30	30	0	Montana	326160	Plastics bottle manufacturing	32	0400000US30	1.0	0.0	0.0
+23296	30	30	0	Montana	326191	Plastics plumbing fixture manufacturing	32	0400000US30	1.2	0.0	0.0
+23297	30	30	0	Montana	326199	All other plastics product manufacturing	32	0400000US30	11.444444444444445	188.44444444444446	7177.666666666667
+23298	30	30	0	Montana	326212	Tire retreading	32	0400000US30	1.2	0.0	0.0
+23299	30	30	0	Montana	326299	All other rubber product manufacturing	32	0400000US30	1.0	0.0	0.0
+23300	30	30	0	Montana	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US30	3.5555555555555554	6.444444444444445	63.666666666666664
+23301	30	30	0	Montana	327120	Clay building material and refractories manufacturing	32	0400000US30	1.0	0.0	0.0
+23302	30	30	0	Montana	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US30	1.0	0.0	0.0
+23303	30	30	0	Montana	327215	Glass product manufacturing made of purchased glass	32	0400000US30	2.6666666666666665	0.3333333333333333	6.666666666666667
+23304	30	30	0	Montana	327310	Cement manufacturing	32	0400000US30	2.0	0.0	0.0
+23305	30	30	0	Montana	327320	Ready-mix concrete manufacturing	32	0400000US30	35.888888888888886	383.77777777777777	20378.777777777777
+23306	30	30	0	Montana	327331	Concrete block and brick manufacturing	32	0400000US30	1.0	0.0	0.0
+23307	30	30	0	Montana	327332	Concrete pipe manufacturing	32	0400000US30	1.0	0.0	0.0
+23308	30	30	0	Montana	327390	Other concrete product manufacturing	32	0400000US30	17.666666666666668	125.77777777777777	5625.333333333333
+23309	30	30	0	Montana	327410	Lime manufacturing	32	0400000US30	1.0	0.0	0.0
+23310	30	30	0	Montana	327910	Abrasive product manufacturing	32	0400000US30	1.8	0.0	0.0
+23311	30	30	0	Montana	327991	Cut stone and stone product manufacturing	32	0400000US30	15.0	207.33333333333334	8054.333333333333
+23312	30	30	0	Montana	327992	Ground or treated mineral and earth manufacturing	32	0400000US30	1.4	0.0	0.0
+23313	30	30	0	Montana	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US30	2.6	0.0	0.0
+23314	30	30	0	Montana	331222	Steel wire drawing	33	0400000US30	1.2	0.0	0.0
+23315	30	30	0	Montana	331313	Alumina refining and primary aluminum production	33	0400000US30	1.4	0.0	0.0
+23316	30	30	0	Montana	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US30	3.111111111111111	54.77777777777778	4899.333333333333
+23317	30	30	0	Montana	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US30	1.0	0.0	0.0
+23318	30	30	0	Montana	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US30	1.8	0.0	0.0
+23319	30	30	0	Montana	331511	Iron foundries	33	0400000US30	2.0	0.0	0.0
+23320	30	30	0	Montana	331512	Steel investment foundries	33	0400000US30	2.0	0.0	0.0
+23321	30	30	0	Montana	331513	Steel foundries (except investment)	33	0400000US30	1.0	0.0	0.0
+23322	30	30	0	Montana	331523	Nonferrous metal die-casting foundries	33	0400000US30	2.6	0.0	0.0
+23323	30	30	0	Montana	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US30	4.0	17.88888888888889	710.7777777777778
+23324	30	30	0	Montana	332111	Iron and steel forging	33	0400000US30	2.5555555555555554	4.444444444444445	105.44444444444444
+23325	30	30	0	Montana	332112	Nonferrous forging	33	0400000US30	1.0	0.0	0.0
+23326	30	30	0	Montana	332114	Custom roll forming	33	0400000US30	1.0	0.0	0.0
+23327	30	30	0	Montana	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US30	4.0	8.666666666666666	256.77777777777777
+23328	30	30	0	Montana	332216	Saw blade and handtool manufacturing	33	0400000US30	4.111111111111111	11.11111111111111	832.4444444444445
+23329	30	30	0	Montana	332311	Prefabricated metal building and component manufacturing	33	0400000US30	1.0	0.0	0.0
+23330	30	30	0	Montana	332312	Fabricated structural metal manufacturing	33	0400000US30	18.0	459.22222222222223	21826.88888888889
+23331	30	30	0	Montana	332313	Plate work manufacturing	33	0400000US30	6.555555555555555	40.888888888888886	1865.7777777777778
+23332	30	30	0	Montana	332321	Metal window and door manufacturing	33	0400000US30	1.0	0.0	0.0
+23333	30	30	0	Montana	332322	Sheet metal work manufacturing	33	0400000US30	11.333333333333334	90.22222222222223	4318.111111111111
+23334	30	30	0	Montana	332323	Ornamental and architectural metal work manufacturing	33	0400000US30	20.333333333333332	36.55555555555556	1556.2222222222222
+23335	30	30	0	Montana	332410	Power boiler and heat exchanger manufacturing	33	0400000US30	1.0	0.0	0.0
+23336	30	30	0	Montana	332420	Metal tank (heavy gauge) manufacturing	33	0400000US30	3.2222222222222223	21.444444444444443	1046.2222222222222
+23337	30	30	0	Montana	332439	Other metal container manufacturing	33	0400000US30	1.0	0.0	0.0
+23338	30	30	0	Montana	332510	Hardware manufacturing	33	0400000US30	1.3333333333333333	0.0	0.0
+23339	30	30	0	Montana	332618	Other fabricated wire product manufacturing	33	0400000US30	1.0	0.0	0.0
+23340	30	30	0	Montana	332710	Machine shops	33	0400000US30	66.55555555555556	465.44444444444446	19155.555555555555
+23341	30	30	0	Montana	332721	Precision turned product manufacturing	33	0400000US30	8.88888888888889	79.22222222222223	3588.4444444444443
+23342	30	30	0	Montana	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US30	1.5	0.0	0.0
+23343	30	30	0	Montana	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US30	7.111111111111111	18.22222222222222	614.1111111111111
+23344	30	30	0	Montana	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US30	1.4	0.0	0.0
+23345	30	30	0	Montana	332919	Other metal valve and pipe fitting manufacturing	33	0400000US30	1.0	0.0	0.0
+23346	30	30	0	Montana	332992	Small arms ammunition manufacturing	33	0400000US30	7.111111111111111	60.22222222222222	1752.7777777777778
+23347	30	30	0	Montana	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US30	18.77777777777778	330.0	12001.888888888889
+23348	30	30	0	Montana	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US30	1.0	0.0	0.0
+23349	30	30	0	Montana	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US30	18.22222222222222	99.44444444444444	4407.222222222223
+23350	30	30	0	Montana	333111	Farm machinery and equipment manufacturing	33	0400000US30	7.666666666666667	68.88888888888889	2405.777777777778
+23351	30	30	0	Montana	333120	Construction machinery manufacturing	33	0400000US30	7.555555555555555	82.11111111111111	3481.1111111111113
+23352	30	30	0	Montana	333131	Mining machinery and equipment manufacturing	33	0400000US30	1.2	0.0	0.0
+23353	30	30	0	Montana	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US30	1.6	0.0	0.0
+23354	30	30	0	Montana	333242	Semiconductor machinery manufacturing	33	0400000US30	1.0	0.0	0.0
+23355	30	30	0	Montana	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US30	1.5	0.0	0.0
+23356	30	30	0	Montana	333244	Printing machinery and equipment manufacturing	33	0400000US30	1.0	0.0	0.0
+23357	30	30	0	Montana	333249	Other industrial machinery manufacturing	33	0400000US30	1.4	0.0	0.0
+23358	30	30	0	Montana	333314	Optical instrument and lens manufacturing	33	0400000US30	1.0	0.0	0.0
+23359	30	30	0	Montana	333316	Photographic and photocopying equipment manufacturing	33	0400000US30	2.2	0.0	0.0
+23360	30	30	0	Montana	333318	Other commercial and service industry machinery manufacturing	33	0400000US30	4.888888888888889	146.33333333333334	5625.777777777777
+23361	30	30	0	Montana	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US30	1.0	0.0	0.0
+23362	30	30	0	Montana	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US30	1.2	0.0	0.0
+23363	30	30	0	Montana	333511	Industrial mold manufacturing	33	0400000US30	3.3333333333333335	0.0	0.0
+23364	30	30	0	Montana	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US30	3.0	4.0	236.44444444444446
+23365	30	30	0	Montana	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US30	2.25	0.0	125.0
+23366	30	30	0	Montana	333517	Machine tool manufacturing	33	0400000US30	1.0	0.0	0.0
+23367	30	30	0	Montana	333611	Turbine and turbine generator set units manufacturing	33	0400000US30	1.0	0.0	0.0
+23368	30	30	0	Montana	333613	Mechanical power transmission equipment manufacturing	33	0400000US30	1.2	0.0	0.0
+23369	30	30	0	Montana	333618	Other engine equipment manufacturing	33	0400000US30	1.0	0.0	0.0
+23370	30	30	0	Montana	333911	Pump and pumping equipment manufacturing	33	0400000US30	1.0	0.0	0.0
+23371	30	30	0	Montana	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US30	3.0	124.77777777777777	5314.777777777777
+23372	30	30	0	Montana	333991	Power-driven handtool manufacturing	33	0400000US30	1.0	0.0	0.0
+23373	30	30	0	Montana	333992	Welding and soldering equipment manufacturing	33	0400000US30	1.6666666666666667	0.0	0.0
+23374	30	30	0	Montana	333993	Packaging machinery manufacturing	33	0400000US30	1.0	0.0	0.0
+23375	30	30	0	Montana	333994	Industrial process furnace and oven manufacturing	33	0400000US30	1.25	0.0	0.0
+23376	30	30	0	Montana	333996	Fluid power pump and motor manufacturing	33	0400000US30	1.0	0.0	0.0
+23377	30	30	0	Montana	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US30	3.7777777777777777	5.111111111111111	259.22222222222223
+23378	30	30	0	Montana	334111	Electronic computer manufacturing	33	0400000US30	1.6	0.0	0.0
+23379	30	30	0	Montana	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US30	2.4	2.0	269.6
+23380	30	30	0	Montana	334210	Telephone apparatus manufacturing	33	0400000US30	1.0	0.0	0.0
+23381	30	30	0	Montana	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US30	2.4	0.0	0.0
+23382	30	30	0	Montana	334290	Other communications equipment manufacturing	33	0400000US30	1.0	0.0	0.0
+23383	30	30	0	Montana	334310	Audio and video equipment manufacturing	33	0400000US30	1.8	0.2	14.6
+23384	30	30	0	Montana	334413	Semiconductor and related device manufacturing	33	0400000US30	1.8	0.0	0.0
+23385	30	30	0	Montana	334417	Electronic connector manufacturing	33	0400000US30	1.0	0.0	0.0
+23386	30	30	0	Montana	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US30	1.5	0.0	0.0
+23387	30	30	0	Montana	334419	Other electronic component manufacturing	33	0400000US30	1.0	0.0	0.0
+23388	30	30	0	Montana	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US30	2.3333333333333335	29.77777777777778	1503.5555555555557
+23389	30	30	0	Montana	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US30	1.0	0.0	0.0
+23390	30	30	0	Montana	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US30	1.0	0.0	0.0
+23391	30	30	0	Montana	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US30	1.0	0.0	0.0
+23392	30	30	0	Montana	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US30	1.0	0.0	0.0
+23393	30	30	0	Montana	334516	Analytical laboratory instrument manufacturing	33	0400000US30	1.4	0.0	0.0
+23394	30	30	0	Montana	334519	Other measuring and controlling device manufacturing	33	0400000US30	4.2	10.0	589.2
+23395	30	30	0	Montana	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US30	1.0	0.0	0.0
+23396	30	30	0	Montana	335121	Residential electric lighting fixture manufacturing	33	0400000US30	2.888888888888889	9.777777777777779	330.77777777777777
+23397	30	30	0	Montana	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US30	1.0	0.0	0.0
+23398	30	30	0	Montana	335311	Power, distribution, and specialty transformer manufacturing	33	0400000US30	1.0	0.0	0.0
+23399	30	30	0	Montana	335312	Motor and generator manufacturing	33	0400000US30	1.25	0.0	0.0
+23400	30	30	0	Montana	335929	Other communication and energy wire manufacturing	33	0400000US30	2.0	0.0	0.0
+23401	30	30	0	Montana	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US30	3.111111111111111	41.888888888888886	2269.777777777778
+23402	30	30	0	Montana	336112	Light truck and utility vehicle manufacturing	33	0400000US30	1.0	0.0	0.0
+23403	30	30	0	Montana	336211	Motor vehicle body manufacturing	33	0400000US30	3.0	0.0	0.0
+23404	30	30	0	Montana	336212	Truck trailer manufacturing	33	0400000US30	3.7777777777777777	14.444444444444445	571.7777777777778
+23405	30	30	0	Montana	336214	Travel trailer and camper manufacturing	33	0400000US30	3.2222222222222223	0.0	0.0
+23406	30	30	0	Montana	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US30	1.6	0.0	0.0
+23407	30	30	0	Montana	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US30	4.111111111111111	0.0	0.0
+23408	30	30	0	Montana	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US30	1.0	0.0	0.0
+23409	30	30	0	Montana	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US30	1.0	0.0	0.0
+23410	30	30	0	Montana	336370	Motor vehicle metal stamping	33	0400000US30	2.4444444444444446	0.0	0.0
+23411	30	30	0	Montana	336390	Other motor vehicle parts manufacturing	33	0400000US30	4.888888888888889	19.11111111111111	745.0
+23412	30	30	0	Montana	336411	Aircraft manufacturing	33	0400000US30	3.142857142857143	0.0	0.0
+23413	30	30	0	Montana	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US30	5.111111111111111	140.22222222222223	8291.333333333334
+23414	30	30	0	Montana	336510	Railroad rolling stock manufacturing	33	0400000US30	1.0	0.0	0.0
+23415	30	30	0	Montana	336611	Ship building and repairing	33	0400000US30	1.2	0.0	0.0
+23416	30	30	0	Montana	336612	Boat building	33	0400000US30	4.222222222222222	10.444444444444445	329.55555555555554
+23417	30	30	0	Montana	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US30	3.4	8.0	222.4
+23418	30	30	0	Montana	336999	All other transportation equipment manufacturing	33	0400000US30	1.8	0.0	0.0
+23419	30	30	0	Montana	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US30	47.0	166.44444444444446	6759.222222222223
+23420	30	30	0	Montana	337121	Upholstered household furniture manufacturing	33	0400000US30	5.111111111111111	14.555555555555555	470.55555555555554
+23421	30	30	0	Montana	337122	Nonupholstered wood household furniture manufacturing	33	0400000US30	23.444444444444443	118.11111111111111	4148.555555555556
+23422	30	30	0	Montana	337124	Metal household furniture manufacturing	33	0400000US30	1.8	0.0	0.0
+23423	30	30	0	Montana	337125	Household furniture (except wood and metal) manufacturing	33	0400000US30	1.0	0.0	0.0
+23424	30	30	0	Montana	337127	Institutional furniture manufacturing	33	0400000US30	3.3333333333333335	31.0	721.4444444444445
+23425	30	30	0	Montana	337211	Wood office furniture manufacturing	33	0400000US30	1.0	0.0	0.0
+23426	30	30	0	Montana	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US30	12.777777777777779	151.77777777777777	6188.888888888889
+23427	30	30	0	Montana	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US30	1.0	0.0	0.0
+23428	30	30	0	Montana	337910	Mattress manufacturing	33	0400000US30	1.0	0.0	0.0
+23429	30	30	0	Montana	337920	Blind and shade manufacturing	33	0400000US30	1.0	0.0	0.0
+23430	30	30	0	Montana	339112	Surgical and medical instrument manufacturing	33	0400000US30	6.333333333333333	20.88888888888889	1496.111111111111
+23431	30	30	0	Montana	339113	Surgical appliance and supplies manufacturing	33	0400000US30	11.11111111111111	206.44444444444446	8815.333333333334
+23432	30	30	0	Montana	339114	Dental equipment and supplies manufacturing	33	0400000US30	4.111111111111111	0.0	0.0
+23433	30	30	0	Montana	339115	Ophthalmic goods manufacturing	33	0400000US30	3.888888888888889	4.777777777777778	243.55555555555554
+23434	30	30	0	Montana	339116	Dental laboratories	33	0400000US30	34.22222222222222	110.77777777777777	4196.333333333333
+23435	30	30	0	Montana	339910	Jewelry and silverware manufacturing	33	0400000US30	9.88888888888889	139.55555555555554	5040.0
+23436	30	30	0	Montana	339920	Sporting and athletic goods manufacturing	33	0400000US30	23.11111111111111	380.3333333333333	13805.888888888889
+23437	30	30	0	Montana	339930	Doll, toy, and game manufacturing	33	0400000US30	4.888888888888889	47.77777777777778	1683.7777777777778
+23438	30	30	0	Montana	339940	Office supplies (except paper) manufacturing	33	0400000US30	2.2222222222222223	0.0	0.0
+23439	30	30	0	Montana	339950	Sign manufacturing	33	0400000US30	29.88888888888889	153.22222222222223	6449.777777777777
+23440	30	30	0	Montana	339991	Gasket, packing, and sealing device manufacturing	33	0400000US30	2.4	0.0	0.0
+23441	30	30	0	Montana	339992	Musical instrument manufacturing	33	0400000US30	4.0	0.0	0.0
+23442	30	30	0	Montana	339994	Broom, brush, and mop manufacturing	33	0400000US30	1.0	0.0	0.0
+23443	30	30	0	Montana	339999	All other miscellaneous manufacturing	33	0400000US30	14.88888888888889	64.22222222222223	3077.8888888888887
+23444	30	30	0	Montana	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US30	32.666666666666664	476.0	23042.666666666668
+23445	30	30	0	Montana	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US30	41.888888888888886	546.1111111111111	24709.11111111111
+23446	30	30	0	Montana	423130	Tire and tube merchant wholesalers	42	0400000US30	4.777777777777778	36.77777777777778	3357.1111111111113
+23447	30	30	0	Montana	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US30	6.111111111111111	9.444444444444445	331.22222222222223
+23448	30	30	0	Montana	423210	Furniture merchant wholesalers	42	0400000US30	12.444444444444445	65.88888888888889	2522.1111111111113
+23449	30	30	0	Montana	423220	Home furnishing merchant wholesalers	42	0400000US30	10.666666666666666	42.666666666666664	2474.222222222222
+23450	30	30	0	Montana	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US30	59.22222222222222	708.2222222222222	31643.88888888889
+23451	30	30	0	Montana	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US30	22.444444444444443	59.0	6420.333333333333
+23452	30	30	0	Montana	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US30	16.666666666666668	106.55555555555556	6411.555555555556
+23453	30	30	0	Montana	423390	Other construction material merchant wholesalers	42	0400000US30	16.77777777777778	228.88888888888889	13860.666666666666
+23454	30	30	0	Montana	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US30	2.0	0.0	0.0
+23455	30	30	0	Montana	423420	Office equipment merchant wholesalers	42	0400000US30	34.44444444444444	182.44444444444446	9055.0
+23456	30	30	0	Montana	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US30	15.555555555555555	101.33333333333333	9279.555555555555
+23457	30	30	0	Montana	423440	Other commercial equipment merchant wholesalers	42	0400000US30	16.11111111111111	139.55555555555554	6032.222222222223
+23458	30	30	0	Montana	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US30	35.55555555555556	178.0	14694.444444444445
+23459	30	30	0	Montana	423460	Ophthalmic goods merchant wholesalers	42	0400000US30	3.0	0.0	0.0
+23460	30	30	0	Montana	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US30	12.444444444444445	69.0	3968.0
+23461	30	30	0	Montana	423510	Metal service centers and other metal merchant wholesalers	42	0400000US30	23.0	231.66666666666666	11161.444444444445
+23462	30	30	0	Montana	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US30	48.55555555555556	333.6666666666667	19004.444444444445
+23463	30	30	0	Montana	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US30	1.8	0.0	0.0
+23464	30	30	0	Montana	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US30	18.0	104.22222222222223	5141.222222222223
+23465	30	30	0	Montana	423710	Hardware merchant wholesalers	42	0400000US30	7.333333333333333	87.88888888888889	3568.777777777778
+23466	30	30	0	Montana	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US30	28.77777777777778	436.3333333333333	22558.444444444445
+23467	30	30	0	Montana	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US30	21.333333333333332	169.44444444444446	10224.888888888889
+23468	30	30	0	Montana	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US30	3.6666666666666665	23.22222222222222	1164.0
+23469	30	30	0	Montana	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US30	35.44444444444444	436.6666666666667	43481.555555555555
+23470	30	30	0	Montana	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US30	82.88888888888889	1093.6666666666667	56666.22222222222
+23471	30	30	0	Montana	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US30	92.66666666666667	674.6666666666666	41870.0
+23472	30	30	0	Montana	423840	Industrial supplies merchant wholesalers	42	0400000US30	22.444444444444443	113.22222222222223	6319.555555555556
+23473	30	30	0	Montana	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US30	13.88888888888889	108.33333333333333	5592.666666666667
+23474	30	30	0	Montana	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US30	5.888888888888889	66.22222222222223	2289.777777777778
+23475	30	30	0	Montana	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US30	28.88888888888889	362.1111111111111	13401.555555555555
+23476	30	30	0	Montana	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US30	4.333333333333333	1.8888888888888888	142.33333333333334
+23477	30	30	0	Montana	423930	Recyclable material merchant wholesalers	42	0400000US30	28.88888888888889	197.33333333333334	10670.555555555555
+23478	30	30	0	Montana	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US30	10.777777777777779	17.11111111111111	527.0
+23479	30	30	0	Montana	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US30	26.444444444444443	152.11111111111111	8673.444444444445
+23480	30	30	0	Montana	424110	Printing and writing paper merchant wholesalers	42	0400000US30	3.0	22.8	1126.6
+23481	30	30	0	Montana	424120	Stationery and office supplies merchant wholesalers	42	0400000US30	17.11111111111111	126.88888888888889	4547.333333333333
+23482	30	30	0	Montana	424130	Industrial and personal service paper merchant wholesalers	42	0400000US30	6.333333333333333	59.22222222222222	3085.3333333333335
+23483	30	30	0	Montana	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US30	39.888888888888886	242.22222222222223	14610.333333333334
+23484	30	30	0	Montana	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US30	2.3333333333333335	4.0	90.11111111111111
+23485	30	30	0	Montana	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US30	4.777777777777778	83.22222222222223	4279.777777777777
+23486	30	30	0	Montana	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US30	8.88888888888889	19.666666666666668	791.6666666666666
+23487	30	30	0	Montana	424340	Footwear merchant wholesalers	42	0400000US30	3.8	23.0	1552.0
+23488	30	30	0	Montana	424410	General line grocery merchant wholesalers	42	0400000US30	7.888888888888889	444.77777777777777	28594.0
+23489	30	30	0	Montana	424420	Packaged frozen food merchant wholesalers	42	0400000US30	14.222222222222221	238.88888888888889	13452.888888888889
+23490	30	30	0	Montana	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US30	10.11111111111111	76.55555555555556	2282.0
+23491	30	30	0	Montana	424450	Confectionery merchant wholesalers	42	0400000US30	12.222222222222221	2.111111111111111	36.77777777777778
+23492	30	30	0	Montana	424460	Fish and seafood merchant wholesalers	42	0400000US30	3.2	4.0	274.8
+23493	30	30	0	Montana	424470	Meat and meat product merchant wholesalers	42	0400000US30	5.666666666666667	16.333333333333332	747.4444444444445
+23494	30	30	0	Montana	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US30	7.666666666666667	16.666666666666668	1018.3333333333334
+23495	30	30	0	Montana	424490	Other grocery and related products merchant wholesalers	42	0400000US30	61.44444444444444	1103.5555555555557	39748.77777777778
+23496	30	30	0	Montana	424510	Grain and field bean merchant wholesalers	42	0400000US30	70.44444444444444	493.77777777777777	26217.333333333332
+23497	30	30	0	Montana	424520	Livestock merchant wholesalers	42	0400000US30	12.555555555555555	102.22222222222223	2880.6666666666665
+23498	30	30	0	Montana	424590	Other farm product raw material merchant wholesalers	42	0400000US30	3.2222222222222223	1.5555555555555556	73.0
+23499	30	30	0	Montana	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US30	3.6	19.0	1700.4
+23500	30	30	0	Montana	424690	Other chemical and allied products merchant wholesalers	42	0400000US30	38.888888888888886	276.22222222222223	17020.0
+23501	30	30	0	Montana	424710	Petroleum bulk stations and terminals	42	0400000US30	55.0	857.6	45118.8
+23502	30	30	0	Montana	424710	Petroleum bulk stations and terminals 	42	0400000US30	51.0	727.0	41459.0
+23503	30	30	0	Montana	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US30	10.0	15.6	1152.0
+23504	30	30	0	Montana	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US30	10.0	49.0	3917.0
+23505	30	30	0	Montana	424810	Beer and ale merchant wholesalers	42	0400000US30	23.22222222222222	853.2222222222222	36528.88888888889
+23506	30	30	0	Montana	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US30	8.11111111111111	137.0	5078.111111111111
+23507	30	30	0	Montana	424910	Farm supplies merchant wholesalers	42	0400000US30	91.88888888888889	622.8888888888889	32048.777777777777
+23508	30	30	0	Montana	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US30	11.11111111111111	64.33333333333333	2222.0
+23509	30	30	0	Montana	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US30	4.555555555555555	5.0	91.88888888888889
+23510	30	30	0	Montana	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US30	6.0	95.0	4454.222222222223
+23511	30	30	0	Montana	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US30	1.8	0.0	0.0
+23512	30	30	0	Montana	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US30	24.444444444444443	93.55555555555556	3479.1111111111113
+23513	30	30	0	Montana	425110	Business to business electronic markets	42	0400000US30	1.0	0.0	0.0
+23514	30	30	0	Montana	425120	Wholesale trade agents and brokers	42	0400000US30	170.66666666666666	957.8888888888889	32734.222222222223
+23515	30	30	0	Montana	441110	New car dealers	44	0400000US30	125.44444444444444	4202.333333333333	194527.55555555556
+23516	30	30	0	Montana	441120	Used car dealers	44	0400000US30	89.44444444444444	369.6666666666667	14410.111111111111
+23517	30	30	0	Montana	441210	Recreational vehicle dealers	44	0400000US30	28.555555555555557	604.7777777777778	29479.666666666668
+23518	30	30	0	Montana	441222	Boat dealers	44	0400000US30	20.444444444444443	140.44444444444446	4804.0
+23519	30	30	0	Montana	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US30	75.44444444444444	633.0	22119.444444444445
+23520	30	30	0	Montana	441310	Automotive parts and accessories stores	44	0400000US30	202.88888888888889	1482.7777777777778	42900.88888888889
+23521	30	30	0	Montana	441320	Tire dealers	44	0400000US30	124.44444444444444	1146.7777777777778	43318.22222222222
+23522	30	30	0	Montana	442110	Furniture stores	44	0400000US30	107.0	827.3333333333334	27369.555555555555
+23523	30	30	0	Montana	442210	Floor covering stores	44	0400000US30	72.22222222222223	486.1111111111111	21385.11111111111
+23524	30	30	0	Montana	442291	Window treatment stores	44	0400000US30	5.555555555555555	10.88888888888889	369.3333333333333
+23525	30	30	0	Montana	442299	All other home furnishings stores	44	0400000US30	76.0	478.77777777777777	8146.555555555556
+23526	30	30	0	Montana	443141	Household appliance stores	44	0400000US30	39.0	282.22222222222223	8998.444444444445
+23527	30	30	0	Montana	443142	Electronics stores	44	0400000US30	131.77777777777777	922.5555555555555	21803.11111111111
+23528	30	30	0	Montana	444110	Home centers	44	0400000US30	33.55555555555556	1406.5555555555557	39317.666666666664
+23529	30	30	0	Montana	444120	Paint and wallpaper stores	44	0400000US30	31.22222222222222	99.88888888888889	5017.0
+23530	30	30	0	Montana	444130	Hardware stores	44	0400000US30	128.11111111111111	1459.3333333333333	36531.555555555555
+23531	30	30	0	Montana	444190	Other building material dealers	44	0400000US30	244.11111111111111	1961.4444444444443	80361.33333333333
+23532	30	30	0	Montana	444210	Outdoor power equipment stores	44	0400000US30	10.0	41.111111111111114	1394.2222222222222
+23533	30	30	0	Montana	444220	Nursery, garden center, and farm supply stores	44	0400000US30	127.11111111111111	1363.5555555555557	38735.77777777778
+23534	30	30	0	Montana	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US30	255.55555555555554	9818.666666666666	210424.88888888888
+23535	30	30	0	Montana	445120	Convenience stores	44	0400000US30	23.555555555555557	90.33333333333333	1404.4444444444443
+23536	30	30	0	Montana	445210	Meat markets	44	0400000US30	26.88888888888889	121.55555555555556	3141.5555555555557
+23537	30	30	0	Montana	445230	Fruit and vegetable markets	44	0400000US30	3.111111111111111	0.0	0.0
+23538	30	30	0	Montana	445291	Baked goods stores	44	0400000US30	6.6	8.8	556.2
+23539	30	30	0	Montana	445292	Confectionery and nut stores	44	0400000US30	14.88888888888889	55.111111111111114	1008.7777777777778
+23540	30	30	0	Montana	445299	All other specialty food stores	44	0400000US30	28.444444444444443	220.66666666666666	2825.777777777778
+23541	30	30	0	Montana	445310	Beer, wine, and liquor stores	44	0400000US30	79.11111111111111	428.6666666666667	8809.333333333334
+23542	30	30	0	Montana	446110	Pharmacies and drug stores	44	0400000US30	121.55555555555556	1246.4444444444443	48829.555555555555
+23543	30	30	0	Montana	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US30	29.555555555555557	274.55555555555554	4120.111111111111
+23544	30	30	0	Montana	446130	Optical goods stores	44	0400000US30	35.22222222222222	206.55555555555554	4829.777777777777
+23545	30	30	0	Montana	446191	Food (health) supplement stores	44	0400000US30	42.666666666666664	185.66666666666666	4061.777777777778
+23546	30	30	0	Montana	446199	All other health and personal care stores	44	0400000US30	41.0	179.22222222222223	7544.333333333333
+23547	30	30	0	Montana	447110	Gasoline stations with convenience stores	44	0400000US30	405.3333333333333	4091.777777777778	78532.11111111111
+23548	30	30	0	Montana	447190	Other gasoline stations	44	0400000US30	100.55555555555556	1036.111111111111	22313.444444444445
+23549	30	30	0	Montana	448110	Men's clothing stores	44	0400000US30	13.666666666666666	45.888888888888886	1257.2222222222222
+23550	30	30	0	Montana	448120	Women's clothing stores	44	0400000US30	106.55555555555556	783.5555555555555	9728.666666666666
+23551	30	30	0	Montana	448130	Children's and infants' clothing stores	44	0400000US30	14.333333333333334	75.66666666666667	1033.7777777777778
+23552	30	30	0	Montana	448140	Family clothing stores	44	0400000US30	96.55555555555556	1265.111111111111	17751.777777777777
+23553	30	30	0	Montana	448150	Clothing accessories stores	44	0400000US30	19.333333333333332	51.22222222222222	1025.7777777777778
+23554	30	30	0	Montana	448190	Other clothing stores	44	0400000US30	41.77777777777778	262.44444444444446	4645.666666666667
+23555	30	30	0	Montana	448210	Shoe stores	44	0400000US30	54.0	348.77777777777777	5836.555555555556
+23556	30	30	0	Montana	448310	Jewelry stores	44	0400000US30	85.66666666666667	367.1111111111111	10532.666666666666
+23557	30	30	0	Montana	448320	Luggage and leather goods stores	44	0400000US30	1.0	0.0	0.0
+23558	30	30	0	Montana	451110	Sporting goods stores	45	0400000US30	199.22222222222223	2278.6666666666665	50219.666666666664
+23559	30	30	0	Montana	451120	Hobby, toy, and game stores	45	0400000US30	43.666666666666664	460.77777777777777	6928.888888888889
+23560	30	30	0	Montana	451130	Sewing, needlework, and piece goods stores	45	0400000US30	50.666666666666664	340.55555555555554	4208.222222222223
+23561	30	30	0	Montana	451140	Musical instrument and supplies stores	45	0400000US30	18.11111111111111	90.33333333333333	2321.3333333333335
+23562	30	30	0	Montana	451211	Book stores	45	0400000US30	36.44444444444444	401.8888888888889	6115.777777777777
+23563	30	30	0	Montana	451212	News dealers and newsstands	45	0400000US30	1.0	0.0	0.0
+23564	30	30	0	Montana	452111	Department stores (except discount department stores)	45	0400000US30	19.0	1439.2	24523.4
+23565	30	30	0	Montana	452112	Discount department stores	45	0400000US30	23.6	867.0	18208.0
+23566	30	30	0	Montana	452210	Department stores	45	0400000US30	26.0	1792.0	31823.0
+23567	30	30	0	Montana	452311	Warehouse clubs and supercenters	45	0400000US30	35.0	6564.0	203380.0
+23568	30	30	0	Montana	452319	All other general merchandise stores	45	0400000US30	70.0	962.0	14682.0
+23569	30	30	0	Montana	452910	Warehouse clubs and supercenters	45	0400000US30	19.2	0.0	0.0
+23570	30	30	0	Montana	452990	All other general merchandise stores	45	0400000US30	72.6	924.0	15833.2
+23571	30	30	0	Montana	453110	Florists	45	0400000US30	65.33333333333333	305.3333333333333	4098.666666666667
+23572	30	30	0	Montana	453210	Office supplies and stationery stores	45	0400000US30	39.77777777777778	383.55555555555554	9510.111111111111
+23573	30	30	0	Montana	453220	Gift, novelty, and souvenir stores	45	0400000US30	143.0	731.8888888888889	16642.777777777777
+23574	30	30	0	Montana	453310	Used merchandise stores	45	0400000US30	121.66666666666667	836.1111111111111	13347.777777777777
+23575	30	30	0	Montana	453910	Pet and pet supplies stores	45	0400000US30	23.666666666666668	283.55555555555554	6746.222222222223
+23576	30	30	0	Montana	453920	Art dealers	45	0400000US30	52.666666666666664	91.66666666666667	2892.777777777778
+23577	30	30	0	Montana	453930	Manufactured (mobile) home dealers	45	0400000US30	21.22222222222222	108.0	5261.666666666667
+23578	30	30	0	Montana	453991	Tobacco stores	45	0400000US30	39.22222222222222	160.88888888888889	2957.777777777778
+23579	30	30	0	Montana	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US30	79.55555555555556	344.6666666666667	9542.444444444445
+23580	30	30	0	Montana	454110	Electronic shopping and mail-order houses	45	0400000US30	168.0	654.0	24624.0
+23581	30	30	0	Montana	454111	Electronic shopping	45	0400000US30	127.2	458.2	14536.6
+23582	30	30	0	Montana	454112	Electronic auctions	45	0400000US30	2.0	0.0	0.0
+23583	30	30	0	Montana	454113	Mail-order houses	45	0400000US30	25.8	124.4	4104.0
+23584	30	30	0	Montana	454210	Vending machine operators	45	0400000US30	11.333333333333334	43.111111111111114	1044.2222222222222
+23585	30	30	0	Montana	454310	Fuel dealers	45	0400000US30	53.0	324.8888888888889	12164.0
+23586	30	30	0	Montana	454390	Other direct selling establishments	45	0400000US30	158.22222222222223	570.1111111111111	19278.88888888889
+23587	30	30	0	Montana	481111	Scheduled passenger air transportation	48	0400000US30	24.444444444444443	469.55555555555554	11834.111111111111
+23588	30	30	0	Montana	481112	Scheduled freight air transportation	48	0400000US30	3.3333333333333335	93.0	5046.444444444444
+23589	30	30	0	Montana	481211	Nonscheduled chartered passenger air transportation	48	0400000US30	12.333333333333334	40.55555555555556	2873.1111111111113
+23590	30	30	0	Montana	481212	Nonscheduled chartered freight air transportation	48	0400000US30	1.0	0.0	0.0
+23591	30	30	0	Montana	481219	Other nonscheduled air transportation	48	0400000US30	21.444444444444443	334.77777777777777	28533.11111111111
+23592	30	30	0	Montana	484110	General freight trucking, local	48	0400000US30	108.55555555555556	406.77777777777777	21493.11111111111
+23593	30	30	0	Montana	484121	General freight trucking, long-distance, truckload	48	0400000US30	226.33333333333334	1877.0	80155.66666666667
+23594	30	30	0	Montana	484122	General freight trucking, long-distance, less than truckload	48	0400000US30	59.666666666666664	663.3333333333334	38611.666666666664
+23595	30	30	0	Montana	484210	Used household and office goods moving	48	0400000US30	29.77777777777778	336.1111111111111	9991.777777777777
+23596	30	30	0	Montana	484220	Specialized freight (except used goods) trucking, local	48	0400000US30	328.0	1295.4444444444443	62513.444444444445
+23597	30	30	0	Montana	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US30	115.33333333333333	974.4444444444445	45978.333333333336
+23598	30	30	0	Montana	485113	Bus and other motor vehicle transit systems	48	0400000US30	1.6	0.0	0.0
+23599	30	30	0	Montana	485119	Other urban transit systems	48	0400000US30	1.0	0.0	0.0
+23600	30	30	0	Montana	485210	Interurban and rural bus transportation	48	0400000US30	3.3333333333333335	25.77777777777778	468.1111111111111
+23601	30	30	0	Montana	485310	Taxi service	48	0400000US30	15.0	124.77777777777777	1910.111111111111
+23602	30	30	0	Montana	485320	Limousine service	48	0400000US30	6.0	22.88888888888889	553.4444444444445
+23603	30	30	0	Montana	485410	School and employee bus transportation	48	0400000US30	48.888888888888886	1100.0	15584.111111111111
+23604	30	30	0	Montana	485510	Charter bus industry	48	0400000US30	7.111111111111111	64.77777777777777	1459.0
+23605	30	30	0	Montana	485991	Special needs transportation	48	0400000US30	3.111111111111111	15.333333333333334	430.8888888888889
+23606	30	30	0	Montana	485999	All other transit and ground passenger transportation	48	0400000US30	6.555555555555555	10.222222222222221	191.77777777777777
+23607	30	30	0	Montana	486110	Pipeline transportation of crude oil	48	0400000US30	14.777777777777779	88.88888888888889	8685.555555555555
+23608	30	30	0	Montana	486210	Pipeline transportation of natural gas	48	0400000US30	5.111111111111111	3.111111111111111	229.66666666666666
+23609	30	30	0	Montana	486910	Pipeline transportation of refined petroleum products	48	0400000US30	5.666666666666667	34.888888888888886	3415.5555555555557
+23610	30	30	0	Montana	486990	All other pipeline transportation	48	0400000US30	2.5555555555555554	0.0	0.0
+23611	30	30	0	Montana	487110	Scenic and sightseeing transportation, land	48	0400000US30	6.888888888888889	28.444444444444443	780.6666666666666
+23612	30	30	0	Montana	487210	Scenic and sightseeing transportation, water	48	0400000US30	5.0	11.88888888888889	665.1111111111111
+23613	30	30	0	Montana	487990	Scenic and sightseeing transportation, other	48	0400000US30	1.2	0.0	0.0
+23614	30	30	0	Montana	488111	Air traffic control	48	0400000US30	1.6	0.0	0.0
+23615	30	30	0	Montana	488119	Other airport operations	48	0400000US30	18.444444444444443	347.55555555555554	11881.333333333334
+23616	30	30	0	Montana	488190	Other support activities for air transportation	48	0400000US30	24.22222222222222	156.22222222222223	5388.333333333333
+23617	30	30	0	Montana	488210	Support activities for rail transportation	48	0400000US30	12.444444444444445	148.77777777777777	5492.333333333333
+23618	30	30	0	Montana	488410	Motor vehicle towing	48	0400000US30	57.44444444444444	243.0	7650.0
+23619	30	30	0	Montana	488490	Other support activities for road transportation	48	0400000US30	15.333333333333334	62.44444444444444	1470.0
+23620	30	30	0	Montana	488510	Freight transportation arrangement	48	0400000US30	83.33333333333333	419.55555555555554	18690.0
+23621	30	30	0	Montana	488991	Packing and crating	48	0400000US30	2.2	5.2	40.6
+23622	30	30	0	Montana	488999	All other support activities for transportation	48	0400000US30	1.0	0.0	0.0
+23623	30	30	0	Montana	492110	Couriers and express delivery services	49	0400000US30	65.0	1786.5555555555557	79741.22222222222
+23624	30	30	0	Montana	492210	Local messengers and local delivery	49	0400000US30	17.555555555555557	104.77777777777777	2390.4444444444443
+23625	30	30	0	Montana	493110	General warehousing and storage	49	0400000US30	24.666666666666668	269.6666666666667	9947.777777777777
+23626	30	30	0	Montana	493120	Refrigerated warehousing and storage	49	0400000US30	1.0	0.0	0.0
+23627	30	30	0	Montana	493130	Farm product warehousing and storage	49	0400000US30	2.6	2.8	199.4
+23628	30	30	0	Montana	493190	Other warehousing and storage	49	0400000US30	6.444444444444445	50.77777777777778	2481.6666666666665
+23629	30	30	0	Montana	511110	Newspaper publishers	51	0400000US30	67.66666666666667	1204.5555555555557	37934.555555555555
+23630	30	30	0	Montana	511120	Periodical publishers	51	0400000US30	29.0	131.55555555555554	4809.0
+23631	30	30	0	Montana	511130	Book publishers	51	0400000US30	14.0	52.888888888888886	2099.8888888888887
+23632	30	30	0	Montana	511140	Directory and mailing list publishers	51	0400000US30	5.2	16.2	1527.0
+23633	30	30	0	Montana	511199	All other publishers	51	0400000US30	3.2222222222222223	6.111111111111111	68.44444444444444
+23634	30	30	0	Montana	511210	Software publishers	51	0400000US30	39.55555555555556	868.2222222222222	78415.66666666667
+23635	30	30	0	Montana	512110	Motion picture and video production	51	0400000US30	43.44444444444444	127.66666666666667	7345.222222222223
+23636	30	30	0	Montana	512120	Motion picture and video distribution	51	0400000US30	1.2	0.0	0.0
+23637	30	30	0	Montana	512131	Motion picture theaters (except drive-ins)	51	0400000US30	36.333333333333336	493.0	4459.222222222223
+23638	30	30	0	Montana	512132	Drive-in motion picture theaters	51	0400000US30	2.0	0.0	0.0
+23639	30	30	0	Montana	512191	Teleproduction and other postproduction services	51	0400000US30	6.333333333333333	22.77777777777778	467.44444444444446
+23640	30	30	0	Montana	512199	Other motion picture and video industries	51	0400000US30	2.111111111111111	3.111111111111111	161.33333333333334
+23641	30	30	0	Montana	512220	Integrated record production\/distribution	51	0400000US30	1.0	0.0	0.0
+23642	30	30	0	Montana	512230	Music publishers	51	0400000US30	2.8	2.6	64.4
+23643	30	30	0	Montana	512240	Sound recording studios	51	0400000US30	3.2222222222222223	3.0	80.11111111111111
+23644	30	30	0	Montana	512290	Other sound recording industries	51	0400000US30	1.0	0.0	0.0
+23645	30	30	0	Montana	515111	Radio networks	51	0400000US30	5.777777777777778	44.22222222222222	2234.1111111111113
+23646	30	30	0	Montana	515112	Radio stations	51	0400000US30	44.888888888888886	440.77777777777777	14216.222222222223
+23647	30	30	0	Montana	515120	Television broadcasting	51	0400000US30	17.333333333333332	567.1111111111111	23881.88888888889
+23648	30	30	0	Montana	515210	Cable and other subscription programming	51	0400000US30	1.0	0.0	0.0
+23649	30	30	0	Montana	517110	Wired telecommunications carriers	51	0400000US30	188.2	3458.2	172039.6
+23650	30	30	0	Montana	517210	Wireless telecommunications carriers (except satellite)	51	0400000US30	40.8	135.2	8044.8
+23651	30	30	0	Montana	517311	Wired telecommunications carriers	51	0400000US30	185.0	2975.0	167768.0
+23652	30	30	0	Montana	517312	Wireless telecommunications carriers (except satellite)	51	0400000US30	51.0	437.0	25069.0
+23653	30	30	0	Montana	517410	Satellite telecommunications	51	0400000US30	2.0	0.0	0.0
+23654	30	30	0	Montana	517911	Telecommunications resellers	51	0400000US30	24.333333333333332	89.33333333333333	2924.6666666666665
+23655	30	30	0	Montana	517919	All other telecommunications	51	0400000US30	8.222222222222221	35.44444444444444	1997.7777777777778
+23656	30	30	0	Montana	518210	Data processing, hosting, and related services	51	0400000US30	50.888888888888886	823.2222222222222	51174.0
+23657	30	30	0	Montana	519110	News syndicates	51	0400000US30	2.2	0.0	0.0
+23658	30	30	0	Montana	519120	Libraries and archives	51	0400000US30	3.5555555555555554	5.888888888888889	167.0
+23659	30	30	0	Montana	519130	Internet publishing and broadcasting and web search portals	51	0400000US30	15.333333333333334	51.44444444444444	3074.8888888888887
+23660	30	30	0	Montana	519190	All other information services	51	0400000US30	1.4	0.0	0.0
+23661	30	30	0	Montana	521110	Monetary authorities - central bank	52	0400000US30	1.0	0.0	0.0
+23662	30	30	0	Montana	522110	Commercial banking	52	0400000US30	372.22222222222223	6239.222222222223	338155.44444444444
+23663	30	30	0	Montana	522120	Savings institutions	52	0400000US30	10.88888888888889	18.22222222222222	986.2222222222222
+23664	30	30	0	Montana	522130	Credit unions	52	0400000US30	116.11111111111111	1259.888888888889	52142.555555555555
+23665	30	30	0	Montana	522210	Credit card issuing	52	0400000US30	2.6	1.8	190.6
+23666	30	30	0	Montana	522220	Sales financing	52	0400000US30	11.555555555555555	185.33333333333334	7381.0
+23667	30	30	0	Montana	522291	Consumer lending	52	0400000US30	22.77777777777778	143.11111111111111	9049.666666666666
+23668	30	30	0	Montana	522292	Real estate credit	52	0400000US30	39.666666666666664	277.22222222222223	27319.88888888889
+23669	30	30	0	Montana	522294	Secondary market financing	52	0400000US30	1.0	0.0	0.0
+23670	30	30	0	Montana	522298	All other nondepository credit intermediation	52	0400000US30	79.88888888888889	395.3333333333333	15878.666666666666
+23671	30	30	0	Montana	522310	Mortgage and nonmortgage loan brokers	52	0400000US30	21.0	35.55555555555556	2724.6666666666665
+23672	30	30	0	Montana	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US30	18.0	78.44444444444444	4212.555555555556
+23673	30	30	0	Montana	522390	Other activities related to credit intermediation	52	0400000US30	11.222222222222221	45.44444444444444	2296.777777777778
+23674	30	30	0	Montana	523110	Investment banking and securities dealing	52	0400000US30	6.555555555555555	6.555555555555555	1180.0
+23675	30	30	0	Montana	523120	Securities brokerage	52	0400000US30	140.44444444444446	627.4444444444445	86290.55555555556
+23676	30	30	0	Montana	523130	Commodity contracts dealing	52	0400000US30	1.0	0.0	0.0
+23677	30	30	0	Montana	523140	Commodity contracts brokerage	52	0400000US30	5.888888888888889	5.222222222222222	515.8888888888889
+23678	30	30	0	Montana	523910	Miscellaneous intermediation	52	0400000US30	27.333333333333332	106.0	7952.222222222223
+23679	30	30	0	Montana	523920	Portfolio management	52	0400000US30	113.77777777777777	286.55555555555554	30793.11111111111
+23680	30	30	0	Montana	523930	Investment advice	52	0400000US30	52.333333333333336	177.77777777777777	9792.222222222223
+23681	30	30	0	Montana	523991	Trust, fiduciary, and custody activities	52	0400000US30	11.88888888888889	47.333333333333336	2206.222222222222
+23682	30	30	0	Montana	523999	Miscellaneous financial investment activities	52	0400000US30	4.777777777777778	4.444444444444445	445.55555555555554
+23683	30	30	0	Montana	524113	Direct life insurance carriers	52	0400000US30	24.444444444444443	144.77777777777777	10291.555555555555
+23684	30	30	0	Montana	524114	Direct health and medical insurance carriers	52	0400000US30	31.88888888888889	650.6666666666666	47215.11111111111
+23685	30	30	0	Montana	524126	Direct property and casualty insurance carriers	52	0400000US30	51.55555555555556	302.22222222222223	22013.222222222223
+23686	30	30	0	Montana	524127	Direct title insurance carriers	52	0400000US30	22.333333333333332	113.22222222222223	5333.111111111111
+23687	30	30	0	Montana	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US30	3.111111111111111	0.0	0.0
+23688	30	30	0	Montana	524130	Reinsurance carriers	52	0400000US30	1.0	0.0	0.0
+23689	30	30	0	Montana	524210	Insurance agencies and brokerages	52	0400000US30	708.2222222222222	2887.0	145591.0
+23690	30	30	0	Montana	524291	Claims adjusting	52	0400000US30	29.555555555555557	74.44444444444444	3677.777777777778
+23691	30	30	0	Montana	524292	Third party administration of insurance and pension funds	52	0400000US30	23.444444444444443	1088.888888888889	50849.0
+23692	30	30	0	Montana	524298	All other insurance related activities	52	0400000US30	5.111111111111111	5.111111111111111	197.11111111111111
+23693	30	30	0	Montana	525990	Other financial vehicles	52	0400000US30	1.5	0.0	0.0
+23694	30	30	0	Montana	531110	Lessors of residential buildings and dwellings	53	0400000US30	270.55555555555554	873.8888888888889	20312.11111111111
+23695	30	30	0	Montana	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US30	145.66666666666666	430.0	11220.555555555555
+23696	30	30	0	Montana	531130	Lessors of miniwarehouses and self-storage units	53	0400000US30	84.77777777777777	156.33333333333334	3647.6666666666665
+23697	30	30	0	Montana	531190	Lessors of other real estate property	53	0400000US30	69.11111111111111	149.44444444444446	3278.5555555555557
+23698	30	30	0	Montana	531210	Offices of real estate agents and brokers	53	0400000US30	670.3333333333334	903.1111111111111	40506.333333333336
+23699	30	30	0	Montana	531311	Residential property managers	53	0400000US30	187.0	904.8888888888889	25672.222222222223
+23700	30	30	0	Montana	531312	Nonresidential property managers	53	0400000US30	62.111111111111114	207.22222222222223	6315.555555555556
+23701	30	30	0	Montana	531320	Offices of real estate appraisers	53	0400000US30	101.0	123.66666666666667	6559.111111111111
+23702	30	30	0	Montana	531390	Other activities related to real estate	53	0400000US30	56.333333333333336	97.33333333333333	5249.222222222223
+23703	30	30	0	Montana	532111	Passenger car rental	53	0400000US30	47.44444444444444	424.0	12349.888888888889
+23704	30	30	0	Montana	532112	Passenger car leasing	53	0400000US30	2.0	0.0	0.0
+23705	30	30	0	Montana	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US30	19.0	74.66666666666667	2491.0
+23706	30	30	0	Montana	532210	Consumer electronics and appliances rental	53	0400000US30	11.777777777777779	32.22222222222222	995.4444444444445
+23707	30	30	0	Montana	532220	Formal wear and costume rental	53	0400000US30	1.6	0.0	0.0
+23708	30	30	0	Montana	532230	Video tape and disc rental	53	0400000US30	28.8	124.6	1352.2
+23709	30	30	0	Montana	532282	Video tape and disc rental	53	0400000US30	18.0	80.0	763.0
+23710	30	30	0	Montana	532283	Home health equipment rental	53	0400000US30	27.0	140.0	5022.0
+23711	30	30	0	Montana	532284	Recreational goods rental	53	0400000US30	24.0	179.0	2616.0
+23712	30	30	0	Montana	532289	All other consumer goods rental	53	0400000US30	13.0	76.0	2485.0
+23713	30	30	0	Montana	532291	Home health equipment rental	53	0400000US30	33.2	192.4	6402.2
+23714	30	30	0	Montana	532292	Recreational goods rental	53	0400000US30	23.4	136.2	1759.2
+23715	30	30	0	Montana	532299	All other consumer goods rental	53	0400000US30	16.4	78.6	2483.4
+23716	30	30	0	Montana	532310	General rental centers	53	0400000US30	25.333333333333332	132.44444444444446	5079.555555555556
+23717	30	30	0	Montana	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US30	3.0	25.4	1535.2
+23718	30	30	0	Montana	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US30	33.44444444444444	172.55555555555554	11453.0
+23719	30	30	0	Montana	532420	Office machinery and equipment rental and leasing	53	0400000US30	3.125	0.125	0.5
+23720	30	30	0	Montana	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US30	28.666666666666668	245.22222222222223	15615.666666666666
+23721	30	30	0	Montana	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US30	17.22222222222222	115.33333333333333	8437.444444444445
+23722	30	30	0	Montana	541110	Offices of lawyers	54	0400000US30	711.8888888888889	2680.222222222222	164707.11111111112
+23723	30	30	0	Montana	541191	Title abstract and settlement offices	54	0400000US30	41.55555555555556	205.22222222222223	10034.111111111111
+23724	30	30	0	Montana	541199	All other legal services	54	0400000US30	16.88888888888889	69.22222222222223	3065.3333333333335
+23725	30	30	0	Montana	541211	Offices of certified public accountants	54	0400000US30	322.44444444444446	1855.7777777777778	91108.11111111111
+23726	30	30	0	Montana	541213	Tax preparation services	54	0400000US30	82.77777777777777	535.0	6322.666666666667
+23727	30	30	0	Montana	541214	Payroll services	54	0400000US30	22.333333333333332	1572.2222222222222	34908.333333333336
+23728	30	30	0	Montana	541219	Other accounting services	54	0400000US30	210.11111111111111	521.0	13335.888888888889
+23729	30	30	0	Montana	541310	Architectural services	54	0400000US30	136.33333333333334	786.5555555555555	50844.444444444445
+23730	30	30	0	Montana	541320	Landscape architectural services	54	0400000US30	16.333333333333332	35.77777777777778	2338.6666666666665
+23731	30	30	0	Montana	541330	Engineering services	54	0400000US30	349.6666666666667	2678.222222222222	193452.77777777778
+23732	30	30	0	Montana	541340	Drafting services	54	0400000US30	17.666666666666668	25.555555555555557	1006.8888888888889
+23733	30	30	0	Montana	541350	Building inspection services	54	0400000US30	32.333333333333336	79.77777777777777	4169.0
+23734	30	30	0	Montana	541360	Geophysical surveying and mapping services	54	0400000US30	18.77777777777778	68.44444444444444	4331.666666666667
+23735	30	30	0	Montana	541370	Surveying and mapping (except geophysical) services	54	0400000US30	62.0	191.33333333333334	9219.777777777777
+23736	30	30	0	Montana	541380	Testing laboratories	54	0400000US30	33.888888888888886	336.55555555555554	15299.555555555555
+23737	30	30	0	Montana	541410	Interior design services	54	0400000US30	35.888888888888886	70.0	2853.6666666666665
+23738	30	30	0	Montana	541420	Industrial design services	54	0400000US30	4.555555555555555	7.777777777777778	337.3333333333333
+23739	30	30	0	Montana	541430	Graphic design services	54	0400000US30	57.888888888888886	100.11111111111111	3384.777777777778
+23740	30	30	0	Montana	541490	Other specialized design services	54	0400000US30	4.222222222222222	2.3333333333333335	84.88888888888889
+23741	30	30	0	Montana	541511	Custom computer programming services	54	0400000US30	200.77777777777777	701.8888888888889	42714.333333333336
+23742	30	30	0	Montana	541512	Computer systems design services	54	0400000US30	106.55555555555556	565.8888888888889	36160.22222222222
+23743	30	30	0	Montana	541513	Computer facilities management services	54	0400000US30	15.666666666666666	94.77777777777777	6062.444444444444
+23744	30	30	0	Montana	541519	Other computer related services	54	0400000US30	23.77777777777778	71.0	4085.4444444444443
+23745	30	30	0	Montana	541611	Administrative management and general management consulting services	54	0400000US30	259.55555555555554	606.6666666666666	30975.11111111111
+23746	30	30	0	Montana	541612	Human resources consulting services	54	0400000US30	13.777777777777779	44.77777777777778	3166.222222222222
+23747	30	30	0	Montana	541613	Marketing consulting services	54	0400000US30	94.55555555555556	131.66666666666666	9152.111111111111
+23748	30	30	0	Montana	541614	Process, physical distribution, and logistics consulting services	54	0400000US30	27.555555555555557	63.22222222222222	3852.3333333333335
+23749	30	30	0	Montana	541618	Other management consulting services	54	0400000US30	17.333333333333332	25.0	1539.5555555555557
+23750	30	30	0	Montana	541620	Environmental consulting services	54	0400000US30	106.11111111111111	444.22222222222223	23788.88888888889
+23751	30	30	0	Montana	541690	Other scientific and technical consulting services	54	0400000US30	148.11111111111111	411.6666666666667	28281.444444444445
+23752	30	30	0	Montana	541711	Research and development in biotechnology	54	0400000US30	14.2	297.6	27289.4
+23753	30	30	0	Montana	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US30	53.8	384.0	23185.0
+23754	30	30	0	Montana	541713	Research and development in nanotechnology	54	0400000US30	11.0	44.0	2811.0
+23755	30	30	0	Montana	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US30	8.0	40.0	1441.0
+23756	30	30	0	Montana	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US30	53.0	551.0	31293.0
+23757	30	30	0	Montana	541720	Research and development in the social sciences and humanities	54	0400000US30	19.666666666666668	85.55555555555556	4465.666666666667
+23758	30	30	0	Montana	541810	Advertising agencies	54	0400000US30	34.0	147.66666666666666	8067.444444444444
+23759	30	30	0	Montana	541820	Public relations agencies	54	0400000US30	20.666666666666668	27.666666666666668	1922.3333333333333
+23760	30	30	0	Montana	541830	Media buying agencies	54	0400000US30	1.0	0.0	0.0
+23761	30	30	0	Montana	541840	Media representatives	54	0400000US30	4.111111111111111	5.777777777777778	134.88888888888889
+23762	30	30	0	Montana	541850	Outdoor advertising	54	0400000US30	12.555555555555555	37.0	1452.4444444444443
+23763	30	30	0	Montana	541860	Direct mail advertising	54	0400000US30	3.7777777777777777	18.11111111111111	286.22222222222223
+23764	30	30	0	Montana	541870	Advertising material distribution services	54	0400000US30	3.5555555555555554	2.2222222222222223	51.0
+23765	30	30	0	Montana	541890	Other services related to advertising	54	0400000US30	32.0	328.1111111111111	5048.0
+23766	30	30	0	Montana	541910	Marketing research and public opinion polling	54	0400000US30	4.555555555555555	8.222222222222221	566.4444444444445
+23767	30	30	0	Montana	541921	Photography studios, portrait	54	0400000US30	50.0	75.11111111111111	2437.222222222222
+23768	30	30	0	Montana	541922	Commercial photography	54	0400000US30	13.777777777777779	8.88888888888889	385.6666666666667
+23769	30	30	0	Montana	541930	Translation and interpretation services	54	0400000US30	2.0	0.0	0.0
+23770	30	30	0	Montana	541940	Veterinary services	54	0400000US30	226.55555555555554	1650.6666666666667	49414.88888888889
+23771	30	30	0	Montana	541990	All other professional, scientific, and technical services	54	0400000US30	55.77777777777778	156.0	5812.555555555556
+23772	30	30	0	Montana	551111	Offices of bank holding companies	55	0400000US30	6.222222222222222	15.777777777777779	948.3333333333334
+23773	30	30	0	Montana	551112	Offices of other holding companies	55	0400000US30	16.88888888888889	55.333333333333336	5027.777777777777
+23774	30	30	0	Montana	551114	Corporate, subsidiary, and regional managing offices	55	0400000US30	111.22222222222223	3069.1111111111113	232866.22222222222
+23775	30	30	0	Montana	561110	Office administrative services	56	0400000US30	108.44444444444444	820.5555555555555	35899.444444444445
+23776	30	30	0	Montana	561210	Facilities support services	56	0400000US30	14.88888888888889	421.3333333333333	12640.222222222223
+23777	30	30	0	Montana	561311	Employment placement agencies	56	0400000US30	12.555555555555555	132.44444444444446	3626.222222222222
+23778	30	30	0	Montana	561312	Executive search services	56	0400000US30	7.0	21.666666666666668	1285.111111111111
+23779	30	30	0	Montana	561320	Temporary help services	56	0400000US30	88.0	2746.1111111111113	59547.666666666664
+23780	30	30	0	Montana	561330	Professional employer organizations	56	0400000US30	7.888888888888889	0.0	0.0
+23781	30	30	0	Montana	561410	Document preparation services	56	0400000US30	22.555555555555557	61.44444444444444	1434.7777777777778
+23782	30	30	0	Montana	561421	Telephone answering services	56	0400000US30	4.777777777777778	22.11111111111111	968.0
+23783	30	30	0	Montana	561422	Telemarketing bureaus and other contact centers	56	0400000US30	14.11111111111111	1448.3333333333333	20775.11111111111
+23784	30	30	0	Montana	561431	Private mail centers	56	0400000US30	32.111111111111114	116.88888888888889	3233.5555555555557
+23785	30	30	0	Montana	561439	Other business service centers (including copy shops)	56	0400000US30	10.555555555555555	52.55555555555556	1430.7777777777778
+23786	30	30	0	Montana	561440	Collection agencies	56	0400000US30	22.22222222222222	255.22222222222223	9030.888888888889
+23787	30	30	0	Montana	561450	Credit bureaus	56	0400000US30	1.6	0.0	0.0
+23788	30	30	0	Montana	561491	Repossession services	56	0400000US30	3.6666666666666665	24.11111111111111	579.2222222222222
+23789	30	30	0	Montana	561492	Court reporting and stenotype services	56	0400000US30	17.88888888888889	28.333333333333332	1054.6666666666667
+23790	30	30	0	Montana	561499	All other business support services	56	0400000US30	14.666666666666666	43.77777777777778	1444.0
+23791	30	30	0	Montana	561510	Travel agencies	56	0400000US30	47.111111111111114	170.22222222222223	7741.444444444444
+23792	30	30	0	Montana	561520	Tour operators	56	0400000US30	15.555555555555555	42.888888888888886	2911.4444444444443
+23793	30	30	0	Montana	561591	Convention and visitors bureaus	56	0400000US30	8.555555555555555	16.22222222222222	720.4444444444445
+23794	30	30	0	Montana	561599	All other travel arrangement and reservation services	56	0400000US30	11.222222222222221	151.11111111111111	6138.0
+23795	30	30	0	Montana	561611	Investigation services	56	0400000US30	20.77777777777778	55.44444444444444	2041.5555555555557
+23796	30	30	0	Montana	561612	Security guards and patrol services	56	0400000US30	27.77777777777778	525.2222222222222	11506.666666666666
+23797	30	30	0	Montana	561613	Armored car services	56	0400000US30	8.555555555555555	54.666666666666664	1827.5555555555557
+23798	30	30	0	Montana	561621	Security systems services (except locksmiths)	56	0400000US30	24.22222222222222	172.33333333333334	8792.333333333334
+23799	30	30	0	Montana	561622	Locksmiths	56	0400000US30	16.333333333333332	41.55555555555556	1327.111111111111
+23800	30	30	0	Montana	561710	Exterminating and pest control services	56	0400000US30	27.0	52.0	3159.6666666666665
+23801	30	30	0	Montana	561720	Janitorial services	56	0400000US30	345.3333333333333	2120.5555555555557	34216.88888888889
+23802	30	30	0	Montana	561730	Landscaping services	56	0400000US30	506.3333333333333	1392.111111111111	51840.666666666664
+23803	30	30	0	Montana	561740	Carpet and upholstery cleaning services	56	0400000US30	56.333333333333336	229.55555555555554	5964.666666666667
+23804	30	30	0	Montana	561790	Other services to buildings and dwellings	56	0400000US30	36.77777777777778	146.11111111111111	3576.222222222222
+23805	30	30	0	Montana	561910	Packaging and labeling services	56	0400000US30	2.3333333333333335	0.0	0.0
+23806	30	30	0	Montana	561920	Convention and trade show organizers	56	0400000US30	13.666666666666666	84.77777777777777	3455.8888888888887
+23807	30	30	0	Montana	561990	All other support services	56	0400000US30	97.88888888888889	516.2222222222222	23763.11111111111
+23808	30	30	0	Montana	562111	Solid waste collection	56	0400000US30	40.333333333333336	484.44444444444446	22983.222222222223
+23809	30	30	0	Montana	562112	Hazardous waste collection	56	0400000US30	2.0	0.0	0.0
+23810	30	30	0	Montana	562119	Other waste collection	56	0400000US30	2.4	0.0	0.0
+23811	30	30	0	Montana	562211	Hazardous waste treatment and disposal	56	0400000US30	6.888888888888889	31.555555555555557	1189.6666666666667
+23812	30	30	0	Montana	562212	Solid waste landfill	56	0400000US30	8.0	37.333333333333336	2257.222222222222
+23813	30	30	0	Montana	562219	Other nonhazardous waste treatment and disposal	56	0400000US30	1.25	0.0	0.0
+23814	30	30	0	Montana	562910	Remediation services	56	0400000US30	26.0	209.77777777777777	13859.444444444445
+23815	30	30	0	Montana	562920	Materials recovery facilities	56	0400000US30	6.0	42.55555555555556	1569.111111111111
+23816	30	30	0	Montana	562991	Septic tank and related services	56	0400000US30	47.44444444444444	115.22222222222223	4515.777777777777
+23817	30	30	0	Montana	562998	All other miscellaneous waste management services	56	0400000US30	7.444444444444445	44.0	2054.222222222222
+23818	30	30	0	Montana	611110	Elementary and secondary schools	61	0400000US30	77.66666666666667	2148.777777777778	53455.22222222222
+23819	30	30	0	Montana	611210	Junior colleges	61	0400000US30	2.4444444444444446	132.88888888888889	4467.111111111111
+23820	30	30	0	Montana	611310	Colleges, universities, and professional schools	61	0400000US30	12.333333333333334	2095.8888888888887	50586.77777777778
+23821	30	30	0	Montana	611420	Computer training	61	0400000US30	4.444444444444445	4.666666666666667	321.6666666666667
+23822	30	30	0	Montana	611430	Professional and management development training	61	0400000US30	22.333333333333332	113.77777777777777	5797.0
+23823	30	30	0	Montana	611511	Cosmetology and barber schools	61	0400000US30	10.0	55.55555555555556	1911.6666666666667
+23824	30	30	0	Montana	611512	Flight training	61	0400000US30	2.7777777777777777	3.0	37.22222222222222
+23825	30	30	0	Montana	611513	Apprenticeship training	61	0400000US30	12.88888888888889	73.33333333333333	2467.6666666666665
+23826	30	30	0	Montana	611519	Other technical and trade schools	61	0400000US30	22.333333333333332	114.77777777777777	3160.1111111111113
+23827	30	30	0	Montana	611610	Fine arts schools	61	0400000US30	49.77777777777778	244.88888888888889	2048.6666666666665
+23828	30	30	0	Montana	611620	Sports and recreation instruction	61	0400000US30	64.88888888888889	683.5555555555555	5901.888888888889
+23829	30	30	0	Montana	611630	Language schools	61	0400000US30	3.3333333333333335	25.444444444444443	655.2222222222222
+23830	30	30	0	Montana	611691	Exam preparation and tutoring	61	0400000US30	23.77777777777778	145.77777777777777	2175.0
+23831	30	30	0	Montana	611692	Automobile driving schools	61	0400000US30	1.0	0.0	0.0
+23832	30	30	0	Montana	611699	All other miscellaneous schools and instruction	61	0400000US30	29.333333333333332	126.88888888888889	2317.1111111111113
+23833	30	30	0	Montana	611710	Educational support services	61	0400000US30	42.666666666666664	118.88888888888889	3816.222222222222
+23834	30	30	0	Montana	621111	Offices of physicians (except mental health specialists)	62	0400000US30	469.77777777777777	6813.333333333333	692636.2222222222
+23835	30	30	0	Montana	621112	Offices of physicians, mental health specialists	62	0400000US30	22.444444444444443	58.55555555555556	3656.5555555555557
+23836	30	30	0	Montana	621210	Offices of dentists	62	0400000US30	463.44444444444446	3285.6666666666665	146662.33333333334
+23837	30	30	0	Montana	621310	Offices of chiropractors	62	0400000US30	215.33333333333334	677.6666666666666	18537.333333333332
+23838	30	30	0	Montana	621320	Offices of optometrists	62	0400000US30	102.55555555555556	547.1111111111111	19265.666666666668
+23839	30	30	0	Montana	621330	Offices of mental health practitioners (except physicians)	62	0400000US30	170.33333333333334	369.44444444444446	13274.333333333334
+23840	30	30	0	Montana	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US30	193.11111111111111	1043.3333333333333	42821.333333333336
+23841	30	30	0	Montana	621391	Offices of podiatrists	62	0400000US30	22.555555555555557	94.0	4008.1111111111113
+23842	30	30	0	Montana	621399	Offices of all other miscellaneous health practitioners	62	0400000US30	115.77777777777777	294.1111111111111	9964.888888888889
+23843	30	30	0	Montana	621410	Family planning centers	62	0400000US30	13.666666666666666	109.0	3807.777777777778
+23844	30	30	0	Montana	621420	Outpatient mental health and substance abuse centers	62	0400000US30	79.66666666666667	1675.0	52096.666666666664
+23845	30	30	0	Montana	621491	HMO medical centers	62	0400000US30	1.0	0.0	0.0
+23846	30	30	0	Montana	621492	Kidney dialysis centers	62	0400000US30	10.333333333333334	142.77777777777777	6738.888888888889
+23847	30	30	0	Montana	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US30	30.11111111111111	618.0	31382.88888888889
+23848	30	30	0	Montana	621498	All other outpatient care centers	62	0400000US30	42.111111111111114	932.1111111111111	44398.77777777778
+23849	30	30	0	Montana	621511	Medical laboratories	62	0400000US30	18.0	57.55555555555556	4025.0
+23850	30	30	0	Montana	621512	Diagnostic imaging centers	62	0400000US30	13.444444444444445	60.333333333333336	5836.444444444444
+23851	30	30	0	Montana	621610	Home health care services	62	0400000US30	78.77777777777777	2942.3333333333335	65285.77777777778
+23852	30	30	0	Montana	621910	Ambulance services	62	0400000US30	37.666666666666664	525.0	17173.666666666668
+23853	30	30	0	Montana	621991	Blood and organ banks	62	0400000US30	8.222222222222221	170.66666666666666	5076.333333333333
+23854	30	30	0	Montana	621999	All other miscellaneous ambulatory health care services	62	0400000US30	22.22222222222222	181.77777777777777	7725.0
+23855	30	30	0	Montana	622110	General medical and surgical hospitals	62	0400000US30	62.333333333333336	22791.333333333332	1229911.0
+23856	30	30	0	Montana	622210	Psychiatric and substance abuse hospitals	62	0400000US30	3.3333333333333335	1098.888888888889	52977.0
+23857	30	30	0	Montana	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US30	2.2	169.6	6504.0
+23858	30	30	0	Montana	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US30	59.44444444444444	4386.333333333333	118117.77777777778
+23859	30	30	0	Montana	623210	Residential intellectual and developmental disability facilities	62	0400000US30	150.44444444444446	2693.3333333333335	47159.77777777778
+23860	30	30	0	Montana	623220	Residential mental health and substance abuse facilities	62	0400000US30	29.444444444444443	486.1111111111111	17695.222222222223
+23861	30	30	0	Montana	623311	Continuing care retirement communities	62	0400000US30	30.77777777777778	1727.7777777777778	41170.333333333336
+23862	30	30	0	Montana	623312	Assisted living facilities for the elderly	62	0400000US30	99.0	1977.5555555555557	40983.555555555555
+23863	30	30	0	Montana	623990	Other residential care facilities	62	0400000US30	44.111111111111114	1089.888888888889	28228.0
+23864	30	30	0	Montana	624110	Child and youth services	62	0400000US30	74.44444444444444	352.0	12395.666666666666
+23865	30	30	0	Montana	624120	Services for the elderly and persons with disabilities	62	0400000US30	159.77777777777777	4138.555555555556	67382.55555555556
+23866	30	30	0	Montana	624190	Other individual and family services	62	0400000US30	180.44444444444446	1529.7777777777778	39411.77777777778
+23867	30	30	0	Montana	624210	Community food services	62	0400000US30	50.77777777777778	257.22222222222223	4540.777777777777
+23868	30	30	0	Montana	624221	Temporary shelters	62	0400000US30	26.77777777777778	352.55555555555554	7640.222222222223
+23869	30	30	0	Montana	624229	Other community housing services	62	0400000US30	18.666666666666668	172.11111111111111	5327.888888888889
+23870	30	30	0	Montana	624230	Emergency and other relief services	62	0400000US30	5.111111111111111	31.11111111111111	1221.6666666666667
+23871	30	30	0	Montana	624310	Vocational rehabilitation services	62	0400000US30	57.44444444444444	1829.3333333333333	28169.666666666668
+23872	30	30	0	Montana	624410	Child day care services	62	0400000US30	452.8888888888889	3159.0	48337.11111111111
+23873	30	30	0	Montana	711110	Theater companies and dinner theaters	71	0400000US30	19.555555555555557	252.88888888888889	5681.333333333333
+23874	30	30	0	Montana	711120	Dance companies	71	0400000US30	2.5555555555555554	4.444444444444445	54.666666666666664
+23875	30	30	0	Montana	711130	Musical groups and artists	71	0400000US30	10.555555555555555	115.88888888888889	1780.4444444444443
+23876	30	30	0	Montana	711190	Other performing arts companies	71	0400000US30	1.0	0.0	0.0
+23877	30	30	0	Montana	711211	Sports teams and clubs	71	0400000US30	8.777777777777779	50.0	1664.5555555555557
+23878	30	30	0	Montana	711212	Racetracks	71	0400000US30	6.444444444444445	3.888888888888889	292.6666666666667
+23879	30	30	0	Montana	711219	Other spectator sports	71	0400000US30	6.0	19.88888888888889	480.3333333333333
+23880	30	30	0	Montana	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US30	12.0	35.44444444444444	799.1111111111111
+23881	30	30	0	Montana	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US30	24.88888888888889	49.44444444444444	1597.0
+23882	30	30	0	Montana	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US30	1.2	0.0	0.0
+23883	30	30	0	Montana	711510	Independent artists, writers, and performers	71	0400000US30	101.88888888888889	161.55555555555554	5036.444444444444
+23884	30	30	0	Montana	712110	Museums	71	0400000US30	59.77777777777778	274.55555555555554	6691.666666666667
+23885	30	30	0	Montana	712120	Historical sites	71	0400000US30	6.555555555555555	17.555555555555557	495.6666666666667
+23886	30	30	0	Montana	712130	Zoos and botanical gardens	71	0400000US30	1.6	0.0	0.0
+23887	30	30	0	Montana	712190	Nature parks and other similar institutions	71	0400000US30	9.444444444444445	17.333333333333332	629.4444444444445
+23888	30	30	0	Montana	713110	Amusement and theme parks	71	0400000US30	3.0	0.0	0.0
+23889	30	30	0	Montana	713120	Amusement arcades	71	0400000US30	8.222222222222221	43.333333333333336	848.0
+23890	30	30	0	Montana	713210	Casinos (except casino hotels)	71	0400000US30	14.88888888888889	143.44444444444446	2560.3333333333335
+23891	30	30	0	Montana	713290	Other gambling industries	71	0400000US30	309.22222222222223	2511.4444444444443	47365.444444444445
+23892	30	30	0	Montana	713910	Golf courses and country clubs	71	0400000US30	83.0	1251.4444444444443	41546.22222222222
+23893	30	30	0	Montana	713920	Skiing facilities	71	0400000US30	15.444444444444445	1283.111111111111	10961.888888888889
+23894	30	30	0	Montana	713930	Marinas	71	0400000US30	6.555555555555555	4.555555555555555	269.0
+23895	30	30	0	Montana	713940	Fitness and recreational sports centers	71	0400000US30	154.22222222222223	2818.3333333333335	28634.0
+23896	30	30	0	Montana	713950	Bowling centers	71	0400000US30	37.666666666666664	465.3333333333333	5514.111111111111
+23897	30	30	0	Montana	713990	All other amusement and recreation industries	71	0400000US30	292.55555555555554	562.6666666666666	17075.222222222223
+23898	30	30	0	Montana	721110	Hotels (except casino hotels) and motels	72	0400000US30	530.3333333333334	9851.444444444445	201423.33333333334
+23899	30	30	0	Montana	721120	Casino hotels	72	0400000US30	4.333333333333333	176.88888888888889	5458.666666666667
+23900	30	30	0	Montana	721191	Bed-and-breakfast inns	72	0400000US30	31.666666666666668	106.11111111111111	2023.0
+23901	30	30	0	Montana	721199	All other traveler accommodation	72	0400000US30	28.77777777777778	118.77777777777777	4864.111111111111
+23902	30	30	0	Montana	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US30	59.22222222222222	144.22222222222223	6334.666666666667
+23903	30	30	0	Montana	721214	Recreational and vacation camps (except campgrounds)	72	0400000US30	75.0	379.1111111111111	19815.333333333332
+23904	30	30	0	Montana	721310	Rooming and boarding houses	72	0400000US30	14.88888888888889	43.111111111111114	487.22222222222223
+23905	30	30	0	Montana	722310	Food service contractors	72	0400000US30	50.333333333333336	474.8888888888889	14273.111111111111
+23906	30	30	0	Montana	722320	Caterers	72	0400000US30	39.888888888888886	151.22222222222223	2330.5555555555557
+23907	30	30	0	Montana	722330	Mobile food services	72	0400000US30	24.0	10.88888888888889	583.8888888888889
+23908	30	30	0	Montana	722410	Drinking places (alcoholic beverages)	72	0400000US30	554.2222222222222	4290.333333333333	58733.0
+23909	30	30	0	Montana	722511	Full-service restaurants	72	0400000US30	1088.0	19173.555555555555	321633.6666666667
+23910	30	30	0	Montana	722513	Limited-service restaurants	72	0400000US30	722.3333333333334	12127.555555555555	170798.55555555556
+23911	30	30	0	Montana	722514	Cafeterias, grill buffets, and buffets	72	0400000US30	9.333333333333334	239.11111111111111	3311.0
+23912	30	30	0	Montana	722515	Snack and nonalcoholic beverage bars	72	0400000US30	292.77777777777777	2244.0	29355.11111111111
+23913	30	30	0	Montana	811111	General automotive repair	81	0400000US30	402.0	1556.5555555555557	56887.333333333336
+23914	30	30	0	Montana	811112	Automotive exhaust system repair	81	0400000US30	7.444444444444445	22.444444444444443	779.2222222222222
+23915	30	30	0	Montana	811113	Automotive transmission repair	81	0400000US30	18.555555555555557	92.33333333333333	3703.222222222222
+23916	30	30	0	Montana	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US30	23.22222222222222	52.44444444444444	2066.6666666666665
+23917	30	30	0	Montana	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US30	181.0	1099.7777777777778	45023.444444444445
+23918	30	30	0	Montana	811122	Automotive glass replacement shops	81	0400000US30	49.55555555555556	146.66666666666666	4878.555555555556
+23919	30	30	0	Montana	811191	Automotive oil change and lubrication shops	81	0400000US30	50.55555555555556	320.3333333333333	7860.777777777777
+23920	30	30	0	Montana	811192	Car washes	81	0400000US30	77.77777777777777	447.6666666666667	8365.222222222223
+23921	30	30	0	Montana	811198	All other automotive repair and maintenance	81	0400000US30	7.444444444444445	13.777777777777779	400.44444444444446
+23922	30	30	0	Montana	811211	Consumer electronics repair and maintenance	81	0400000US30	9.0	24.77777777777778	571.1111111111111
+23923	30	30	0	Montana	811212	Computer and office machine repair and maintenance	81	0400000US30	30.77777777777778	69.11111111111111	2105.222222222222
+23924	30	30	0	Montana	811213	Communication equipment repair and maintenance	81	0400000US30	6.222222222222222	31.88888888888889	1608.888888888889
+23925	30	30	0	Montana	811219	Other electronic and precision equipment repair and maintenance	81	0400000US30	12.666666666666666	223.66666666666666	9214.444444444445
+23926	30	30	0	Montana	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US30	143.44444444444446	585.4444444444445	24011.0
+23927	30	30	0	Montana	811411	Home and garden equipment repair and maintenance	81	0400000US30	7.555555555555555	7.777777777777778	144.55555555555554
+23928	30	30	0	Montana	811412	Appliance repair and maintenance	81	0400000US30	20.88888888888889	68.88888888888889	2140.1111111111113
+23929	30	30	0	Montana	811420	Reupholstery and furniture repair	81	0400000US30	10.555555555555555	28.0	926.0
+23930	30	30	0	Montana	811430	Footwear and leather goods repair	81	0400000US30	3.888888888888889	6.666666666666667	190.44444444444446
+23931	30	30	0	Montana	811490	Other personal and household goods repair and maintenance	81	0400000US30	23.444444444444443	28.88888888888889	702.6666666666666
+23932	30	30	0	Montana	812111	Barber shops	81	0400000US30	8.555555555555555	27.11111111111111	679.1111111111111
+23933	30	30	0	Montana	812112	Beauty salons	81	0400000US30	182.66666666666666	867.1111111111111	18804.555555555555
+23934	30	30	0	Montana	812113	Nail salons	81	0400000US30	20.11111111111111	63.22222222222222	2358.4444444444443
+23935	30	30	0	Montana	812191	Diet and weight reducing centers	81	0400000US30	11.222222222222221	58.77777777777778	625.5555555555555
+23936	30	30	0	Montana	812199	Other personal care services	81	0400000US30	54.888888888888886	273.8888888888889	4309.111111111111
+23937	30	30	0	Montana	812210	Funeral homes and funeral services	81	0400000US30	52.111111111111114	328.8888888888889	10096.111111111111
+23938	30	30	0	Montana	812220	Cemeteries and crematories	81	0400000US30	25.333333333333332	50.77777777777778	1712.3333333333333
+23939	30	30	0	Montana	812310	Coin-operated laundries and drycleaners	81	0400000US30	37.666666666666664	156.55555555555554	2396.4444444444443
+23940	30	30	0	Montana	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US30	25.22222222222222	201.66666666666666	4328.111111111111
+23941	30	30	0	Montana	812331	Linen supply	81	0400000US30	6.0	222.11111111111111	6819.666666666667
+23942	30	30	0	Montana	812332	Industrial launderers	81	0400000US30	8.0	157.22222222222223	4541.222222222223
+23943	30	30	0	Montana	812910	Pet care (except veterinary) services	81	0400000US30	88.55555555555556	295.6666666666667	4823.888888888889
+23944	30	30	0	Montana	812921	Photofinishing laboratories (except one-hour)	81	0400000US30	1.0	0.0	0.0
+23945	30	30	0	Montana	812922	One-hour photofinishing	81	0400000US30	1.0	0.0	0.0
+23946	30	30	0	Montana	812930	Parking lots and garages	81	0400000US30	8.555555555555555	43.77777777777778	726.7777777777778
+23947	30	30	0	Montana	812990	All other personal services	81	0400000US30	47.0	56.55555555555556	1667.111111111111
+23948	30	30	0	Montana	813110	Religious organizations	81	0400000US30	767.3333333333334	4358.666666666667	71811.33333333333
+23949	30	30	0	Montana	813211	Grantmaking foundations	81	0400000US30	69.11111111111111	400.55555555555554	18092.0
+23950	30	30	0	Montana	813212	Voluntary health organizations	81	0400000US30	15.222222222222221	45.0	2532.3333333333335
+23951	30	30	0	Montana	813219	Other grantmaking and giving services	81	0400000US30	20.666666666666668	98.33333333333333	3882.5555555555557
+23952	30	30	0	Montana	813311	Human rights organizations	81	0400000US30	20.88888888888889	78.33333333333333	3485.3333333333335
+23953	30	30	0	Montana	813312	Environment, conservation and wildlife organizations	81	0400000US30	129.0	899.5555555555555	40155.333333333336
+23954	30	30	0	Montana	813319	Other social advocacy organizations	81	0400000US30	48.77777777777778	145.22222222222223	4815.222222222223
+23955	30	30	0	Montana	813410	Civic and social organizations	81	0400000US30	184.44444444444446	1087.111111111111	18340.88888888889
+23956	30	30	0	Montana	813910	Business associations	81	0400000US30	120.33333333333333	458.3333333333333	21587.444444444445
+23957	30	30	0	Montana	813920	Professional organizations	81	0400000US30	33.333333333333336	252.88888888888889	13830.333333333334
+23958	30	30	0	Montana	813930	Labor unions and similar labor organizations	81	0400000US30	69.11111111111111	340.8888888888889	9831.444444444445
+23959	30	30	0	Montana	813940	Political organizations	81	0400000US30	14.0	48.44444444444444	2334.8888888888887
+23960	30	30	0	Montana	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US30	61.44444444444444	190.55555555555554	5275.666666666667

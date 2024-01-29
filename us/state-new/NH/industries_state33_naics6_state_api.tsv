@@ -1,0 +1,868 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+25740	33	33	0	New Hampshire	113110	Timber tract operations	11	0400000US33	3.6	0.0	0.0
+25741	33	33	0	New Hampshire	113210	Forest nurseries and gathering of forest products	11	0400000US33	1.0	0.0	0.0
+25742	33	33	0	New Hampshire	113310	Logging	11	0400000US33	96.44444444444444	431.55555555555554	17715.777777777777
+25743	33	33	0	New Hampshire	114111	Finfish fishing	11	0400000US33	3.0	2.4	46.6
+25744	33	33	0	New Hampshire	114112	Shellfish fishing	11	0400000US33	2.3333333333333335	0.0	21.666666666666668
+25745	33	33	0	New Hampshire	114119	Other marine fishing	11	0400000US33	1.0	0.0	0.0
+25746	33	33	0	New Hampshire	114210	Hunting and trapping	11	0400000US33	1.0	0.0	0.0
+25747	33	33	0	New Hampshire	115112	Soil preparation, planting, and cultivating	11	0400000US33	1.6	0.0	0.0
+25748	33	33	0	New Hampshire	115114	Postharvest crop activities (except cotton ginning)	11	0400000US33	1.0	0.0	0.0
+25749	33	33	0	New Hampshire	115210	Support activities for animal production	11	0400000US33	23.22222222222222	43.44444444444444	842.4444444444445
+25750	33	33	0	New Hampshire	115310	Support activities for forestry	11	0400000US33	13.777777777777779	69.22222222222223	6148.444444444444
+25751	33	33	0	New Hampshire	211111	Crude petroleum and natural gas extraction	21	0400000US33	2.4	2.6	200.8
+25752	33	33	0	New Hampshire	212311	Dimension stone mining and quarrying	21	0400000US33	2.2	0.0	0.0
+25753	33	33	0	New Hampshire	212312	Crushed and broken limestone mining and quarrying	21	0400000US33	1.4	0.0	0.0
+25754	33	33	0	New Hampshire	212313	Crushed and broken granite mining and quarrying	21	0400000US33	1.0	0.0	0.0
+25755	33	33	0	New Hampshire	212319	Other crushed and broken stone mining and quarrying	21	0400000US33	5.888888888888889	64.44444444444444	4864.555555555556
+25756	33	33	0	New Hampshire	212321	Construction sand and gravel mining	21	0400000US33	29.0	105.22222222222223	7148.222222222223
+25757	33	33	0	New Hampshire	213111	Drilling oil and gas wells	21	0400000US33	2.4444444444444446	9.333333333333334	878.2222222222222
+25758	33	33	0	New Hampshire	213112	Support activities for oil and gas operations	21	0400000US33	2.8	4.6	632.0
+25759	33	33	0	New Hampshire	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US33	1.0	0.0	0.0
+25760	33	33	0	New Hampshire	221111	Hydroelectric power generation	22	0400000US33	22.22222222222222	85.22222222222223	7327.111111111111
+25761	33	33	0	New Hampshire	221112	Fossil fuel electric power generation	22	0400000US33	8.11111111111111	250.88888888888889	27619.0
+25762	33	33	0	New Hampshire	221113	Nuclear electric power generation	22	0400000US33	1.8	0.0	0.0
+25763	33	33	0	New Hampshire	221114	Solar electric power generation	22	0400000US33	1.0	0.0	0.0
+25764	33	33	0	New Hampshire	221115	Wind electric power generation	22	0400000US33	1.8888888888888888	0.0	0.0
+25765	33	33	0	New Hampshire	221117	Biomass electric power generation	22	0400000US33	5.0	86.66666666666667	6841.777777777777
+25766	33	33	0	New Hampshire	221118	Other electric power generation	22	0400000US33	3.0	0.0	0.0
+25767	33	33	0	New Hampshire	221122	Electric power distribution	22	0400000US33	45.0	887.0	84998.77777777778
+25768	33	33	0	New Hampshire	221210	Natural gas distribution	22	0400000US33	10.11111111111111	289.6666666666667	26539.666666666668
+25769	33	33	0	New Hampshire	221310	Water supply and irrigation systems	22	0400000US33	19.555555555555557	187.44444444444446	11930.555555555555
+25770	33	33	0	New Hampshire	221320	Sewage treatment facilities	22	0400000US33	6.0	13.555555555555555	1307.111111111111
+25771	33	33	0	New Hampshire	221330	Steam and air-conditioning supply	22	0400000US33	1.0	0.0	0.0
+25772	33	33	0	New Hampshire	236115	New single-family housing construction (except for-sale builders)	23	0400000US33	286.1111111111111	1014.7777777777778	50996.11111111111
+25773	33	33	0	New Hampshire	236116	New multifamily housing construction (except for-sale builders)	23	0400000US33	8.666666666666666	120.33333333333333	9751.777777777777
+25774	33	33	0	New Hampshire	236117	New housing for-sale builders	23	0400000US33	85.33333333333333	402.1111111111111	25069.333333333332
+25775	33	33	0	New Hampshire	236118	Residential remodelers	23	0400000US33	484.1111111111111	1414.3333333333333	61782.555555555555
+25776	33	33	0	New Hampshire	236210	Industrial building construction	23	0400000US33	8.11111111111111	123.0	10461.777777777777
+25777	33	33	0	New Hampshire	236220	Commercial and institutional building construction	23	0400000US33	143.44444444444446	2003.111111111111	145336.11111111112
+25778	33	33	0	New Hampshire	237110	Water and sewer line and related structures construction	23	0400000US33	56.22222222222222	705.6666666666666	51437.444444444445
+25779	33	33	0	New Hampshire	237120	Oil and gas pipeline and related structures construction	23	0400000US33	3.0	0.0	0.0
+25780	33	33	0	New Hampshire	237130	Power and communication line and related structures construction	23	0400000US33	38.44444444444444	839.0	66177.44444444444
+25781	33	33	0	New Hampshire	237210	Land subdivision	23	0400000US33	15.11111111111111	59.333333333333336	4396.0
+25782	33	33	0	New Hampshire	237310	Highway, street, and bridge construction	23	0400000US33	71.77777777777777	1126.0	113846.66666666667
+25783	33	33	0	New Hampshire	237990	Other heavy and civil engineering construction	23	0400000US33	17.11111111111111	50.44444444444444	5038.333333333333
+25784	33	33	0	New Hampshire	238110	Poured concrete foundation and structure contractors	23	0400000US33	115.0	632.1111111111111	39482.77777777778
+25785	33	33	0	New Hampshire	238120	Structural steel and precast concrete contractors	23	0400000US33	15.666666666666666	257.3333333333333	19266.777777777777
+25786	33	33	0	New Hampshire	238130	Framing contractors	23	0400000US33	77.88888888888889	408.1111111111111	18507.555555555555
+25787	33	33	0	New Hampshire	238140	Masonry contractors	23	0400000US33	93.11111111111111	507.77777777777777	25737.444444444445
+25788	33	33	0	New Hampshire	238150	Glass and glazing contractors	23	0400000US33	30.666666666666668	246.55555555555554	15632.777777777777
+25789	33	33	0	New Hampshire	238160	Roofing contractors	23	0400000US33	58.888888888888886	434.0	23796.0
+25790	33	33	0	New Hampshire	238170	Siding contractors	23	0400000US33	45.888888888888886	221.11111111111111	9782.666666666666
+25791	33	33	0	New Hampshire	238190	Other foundation, structure, and building exterior contractors	23	0400000US33	27.22222222222222	310.1111111111111	22631.0
+25792	33	33	0	New Hampshire	238210	Electrical contractors and other wiring installation contractors	23	0400000US33	517.3333333333334	2978.8888888888887	166157.66666666666
+25793	33	33	0	New Hampshire	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US33	601.1111111111111	3966.5555555555557	229656.44444444444
+25794	33	33	0	New Hampshire	238290	Other building equipment contractors	23	0400000US33	30.666666666666668	466.22222222222223	36125.22222222222
+25795	33	33	0	New Hampshire	238310	Drywall and insulation contractors	23	0400000US33	160.55555555555554	2288.5555555555557	144557.66666666666
+25796	33	33	0	New Hampshire	238320	Painting and wall covering contractors	23	0400000US33	194.33333333333334	791.8888888888889	37756.22222222222
+25797	33	33	0	New Hampshire	238330	Flooring contractors	23	0400000US33	77.55555555555556	317.0	14014.444444444445
+25798	33	33	0	New Hampshire	238340	Tile and terrazzo contractors	23	0400000US33	24.22222222222222	98.88888888888889	4522.888888888889
+25799	33	33	0	New Hampshire	238350	Finish carpentry contractors	23	0400000US33	144.66666666666666	537.4444444444445	28174.333333333332
+25800	33	33	0	New Hampshire	238390	Other building finishing contractors	23	0400000US33	36.55555555555556	316.6666666666667	21728.666666666668
+25801	33	33	0	New Hampshire	238910	Site preparation contractors	23	0400000US33	375.8888888888889	1999.6666666666667	118475.66666666667
+25802	33	33	0	New Hampshire	238990	All other specialty trade contractors	23	0400000US33	170.22222222222223	593.4444444444445	41788.88888888889
+25803	33	33	0	New Hampshire	311111	Dog and cat food manufacturing	31	0400000US33	2.6	1.2	45.4
+25804	33	33	0	New Hampshire	311119	Other animal food manufacturing	31	0400000US33	2.2	0.0	0.0
+25805	33	33	0	New Hampshire	311225	Fats and oils refining and blending	31	0400000US33	1.0	0.0	0.0
+25806	33	33	0	New Hampshire	311340	Nonchocolate confectionery manufacturing	31	0400000US33	4.0	5.444444444444445	250.77777777777777
+25807	33	33	0	New Hampshire	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US33	2.2	0.0	0.0
+25808	33	33	0	New Hampshire	311352	Confectionery manufacturing from purchased chocolate	31	0400000US33	14.222222222222221	166.88888888888889	3492.8888888888887
+25809	33	33	0	New Hampshire	311412	Frozen specialty food manufacturing	31	0400000US33	2.3333333333333335	0.0	0.0
+25810	33	33	0	New Hampshire	311421	Fruit and vegetable canning	31	0400000US33	2.4444444444444446	0.0	0.0
+25811	33	33	0	New Hampshire	311511	Fluid milk manufacturing	31	0400000US33	3.4444444444444446	0.0	0.0
+25812	33	33	0	New Hampshire	311513	Cheese manufacturing	31	0400000US33	1.0	0.0	0.0
+25813	33	33	0	New Hampshire	311514	Dry, condensed, and evaporated dairy product manufacturing	31	0400000US33	1.0	0.0	0.0
+25814	33	33	0	New Hampshire	311520	Ice cream and frozen dessert manufacturing	31	0400000US33	1.8	0.0	0.0
+25815	33	33	0	New Hampshire	311611	Animal (except poultry) slaughtering	31	0400000US33	3.888888888888889	61.22222222222222	2675.5555555555557
+25816	33	33	0	New Hampshire	311612	Meat processed from carcasses	31	0400000US33	2.4	0.0	0.0
+25817	33	33	0	New Hampshire	311615	Poultry processing	31	0400000US33	1.0	0.0	0.0
+25818	33	33	0	New Hampshire	311710	Seafood product preparation and packaging	31	0400000US33	6.111111111111111	70.66666666666667	4121.333333333333
+25819	33	33	0	New Hampshire	311811	Retail bakeries	31	0400000US33	22.22222222222222	159.66666666666666	3089.777777777778
+25820	33	33	0	New Hampshire	311812	Commercial bakeries	31	0400000US33	13.222222222222221	126.55555555555556	3267.777777777778
+25821	33	33	0	New Hampshire	311813	Frozen cakes, pies, and other pastries manufacturing	31	0400000US33	2.4	0.0	0.0
+25822	33	33	0	New Hampshire	311821	Cookie and cracker manufacturing	31	0400000US33	2.8	0.0	0.0
+25823	33	33	0	New Hampshire	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US33	3.4444444444444446	92.66666666666667	4177.444444444444
+25824	33	33	0	New Hampshire	311919	Other snack food manufacturing	31	0400000US33	2.111111111111111	6.222222222222222	96.88888888888889
+25825	33	33	0	New Hampshire	311920	Coffee and tea manufacturing	31	0400000US33	6.333333333333333	34.888888888888886	612.7777777777778
+25826	33	33	0	New Hampshire	311930	Flavoring syrup and concentrate manufacturing	31	0400000US33	1.0	0.0	0.0
+25827	33	33	0	New Hampshire	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US33	3.4444444444444446	0.0	0.0
+25828	33	33	0	New Hampshire	311991	Perishable prepared food manufacturing	31	0400000US33	3.3333333333333335	50.666666666666664	2639.1111111111113
+25829	33	33	0	New Hampshire	311999	All other miscellaneous food manufacturing	31	0400000US33	6.666666666666667	62.888888888888886	2747.4444444444443
+25830	33	33	0	New Hampshire	312111	Soft drink manufacturing	31	0400000US33	1.0	0.0	0.0
+25831	33	33	0	New Hampshire	312112	Bottled water manufacturing	31	0400000US33	1.6	0.0	0.0
+25832	33	33	0	New Hampshire	312113	Ice manufacturing	31	0400000US33	2.0	0.0	0.0
+25833	33	33	0	New Hampshire	312120	Breweries	31	0400000US33	19.555555555555557	440.55555555555554	25030.777777777777
+25834	33	33	0	New Hampshire	312130	Wineries	31	0400000US33	8.88888888888889	35.55555555555556	1042.2222222222222
+25835	33	33	0	New Hampshire	312140	Distilleries	31	0400000US33	4.75	14.5	536.875
+25836	33	33	0	New Hampshire	313110	Fiber, yarn, and thread mills	31	0400000US33	3.6666666666666665	52.0	1571.2222222222222
+25837	33	33	0	New Hampshire	313210	Broadwoven fabric mills	31	0400000US33	3.4444444444444446	153.55555555555554	6485.111111111111
+25838	33	33	0	New Hampshire	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US33	2.4	1.6	93.8
+25839	33	33	0	New Hampshire	313230	Nonwoven fabric mills	31	0400000US33	4.0	380.8888888888889	20585.333333333332
+25840	33	33	0	New Hampshire	313240	Knit fabric mills	31	0400000US33	2.2	0.0	0.0
+25841	33	33	0	New Hampshire	313310	Textile and fabric finishing mills	31	0400000US33	2.0	0.0	0.0
+25842	33	33	0	New Hampshire	313320	Fabric coating mills	31	0400000US33	2.8	0.0	0.0
+25843	33	33	0	New Hampshire	314110	Carpet and rug mills	31	0400000US33	1.0	0.0	0.0
+25844	33	33	0	New Hampshire	314120	Curtain and linen mills	31	0400000US33	6.888888888888889	36.77777777777778	1232.7777777777778
+25845	33	33	0	New Hampshire	314910	Textile bag and canvas mills	31	0400000US33	12.0	102.77777777777777	3915.0
+25846	33	33	0	New Hampshire	314999	All other miscellaneous textile product mills	31	0400000US33	18.333333333333332	106.0	3628.4444444444443
+25847	33	33	0	New Hampshire	315210	Cut and sew apparel contractors	31	0400000US33	4.4	6.8	197.0
+25848	33	33	0	New Hampshire	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US33	1.4	0.0	0.0
+25849	33	33	0	New Hampshire	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US33	2.888888888888889	0.0	0.0
+25850	33	33	0	New Hampshire	315280	Other cut and sew apparel manufacturing	31	0400000US33	2.2	0.0	0.0
+25851	33	33	0	New Hampshire	315990	Apparel accessories and other apparel manufacturing	31	0400000US33	2.5555555555555554	16.666666666666668	278.22222222222223
+25852	33	33	0	New Hampshire	316110	Leather and hide tanning and finishing	31	0400000US33	1.8	0.0	0.0
+25853	33	33	0	New Hampshire	316210	Footwear manufacturing	31	0400000US33	5.222222222222222	64.11111111111111	2398.6666666666665
+25854	33	33	0	New Hampshire	316998	All other leather good and allied product manufacturing	31	0400000US33	8.777777777777779	160.33333333333334	6879.333333333333
+25855	33	33	0	New Hampshire	321113	Sawmills	32	0400000US33	44.333333333333336	686.2222222222222	28236.777777777777
+25856	33	33	0	New Hampshire	321114	Wood preservation	32	0400000US33	1.0	0.0	0.0
+25857	33	33	0	New Hampshire	321214	Truss manufacturing	32	0400000US33	1.0	0.0	0.0
+25858	33	33	0	New Hampshire	321219	Reconstituted wood product manufacturing	32	0400000US33	2.2	0.0	0.0
+25859	33	33	0	New Hampshire	321911	Wood window and door manufacturing	32	0400000US33	5.555555555555555	45.666666666666664	2301.0
+25860	33	33	0	New Hampshire	321912	Cut stock, resawing lumber, and planing	32	0400000US33	3.6666666666666665	42.888888888888886	2000.4444444444443
+25861	33	33	0	New Hampshire	321918	Other millwork (including flooring)	32	0400000US33	9.666666666666666	152.55555555555554	8578.333333333334
+25862	33	33	0	New Hampshire	321920	Wood container and pallet manufacturing	32	0400000US33	12.88888888888889	255.77777777777777	13651.0
+25863	33	33	0	New Hampshire	321991	Manufactured home (mobile home) manufacturing	32	0400000US33	1.4	0.0	0.0
+25864	33	33	0	New Hampshire	321992	Prefabricated wood building manufacturing	32	0400000US33	10.444444444444445	103.77777777777777	5161.111111111111
+25865	33	33	0	New Hampshire	321999	All other miscellaneous wood product manufacturing	32	0400000US33	21.0	259.3333333333333	8794.555555555555
+25866	33	33	0	New Hampshire	322121	Paper (except newsprint) mills	32	0400000US33	3.5555555555555554	213.11111111111111	15476.111111111111
+25867	33	33	0	New Hampshire	322130	Paperboard mills	32	0400000US33	1.0	0.0	0.0
+25868	33	33	0	New Hampshire	322211	Corrugated and solid fiber box manufacturing	32	0400000US33	3.111111111111111	25.333333333333332	1365.7777777777778
+25869	33	33	0	New Hampshire	322212	Folding paperboard box manufacturing	32	0400000US33	2.4	0.0	0.0
+25870	33	33	0	New Hampshire	322219	Other paperboard container manufacturing	32	0400000US33	1.3333333333333333	0.0	0.0
+25871	33	33	0	New Hampshire	322220	Paper bag and coated and treated paper manufacturing	32	0400000US33	6.111111111111111	255.22222222222223	13688.555555555555
+25872	33	33	0	New Hampshire	322230	Stationery product manufacturing	32	0400000US33	2.0	0.0	0.0
+25873	33	33	0	New Hampshire	322291	Sanitary paper product manufacturing	32	0400000US33	1.0	0.0	0.0
+25874	33	33	0	New Hampshire	322299	All other converted paper product manufacturing	32	0400000US33	3.0	0.0	0.0
+25875	33	33	0	New Hampshire	323111	Commercial printing (except screen and books)	32	0400000US33	90.11111111111111	1563.5555555555557	75793.0
+25876	33	33	0	New Hampshire	323113	Commercial screen printing	32	0400000US33	41.55555555555556	285.1111111111111	10571.222222222223
+25877	33	33	0	New Hampshire	323117	Books printing	32	0400000US33	1.2	0.0	0.0
+25878	33	33	0	New Hampshire	323120	Support activities for printing	32	0400000US33	5.666666666666667	66.55555555555556	2358.8888888888887
+25879	33	33	0	New Hampshire	324121	Asphalt paving mixture and block manufacturing	32	0400000US33	15.333333333333334	83.11111111111111	8098.555555555556
+25880	33	33	0	New Hampshire	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US33	1.0	0.0	0.0
+25881	33	33	0	New Hampshire	325120	Industrial gas manufacturing	32	0400000US33	1.0	0.0	0.0
+25882	33	33	0	New Hampshire	325130	Synthetic dye and pigment manufacturing	32	0400000US33	1.0	0.0	0.0
+25883	33	33	0	New Hampshire	325199	All other basic organic chemical manufacturing	32	0400000US33	1.8	0.0	0.0
+25884	33	33	0	New Hampshire	325211	Plastics material and resin manufacturing	32	0400000US33	7.888888888888889	194.88888888888889	11701.444444444445
+25885	33	33	0	New Hampshire	325212	Synthetic rubber manufacturing	32	0400000US33	3.4444444444444446	21.77777777777778	1736.888888888889
+25886	33	33	0	New Hampshire	325220	Artificial and synthetic fibers and filaments manufacturing	32	0400000US33	1.0	0.0	0.0
+25887	33	33	0	New Hampshire	325311	Nitrogenous fertilizer manufacturing	32	0400000US33	2.2	0.0	0.0
+25888	33	33	0	New Hampshire	325314	Fertilizer (mixing only) manufacturing	32	0400000US33	1.0	0.0	0.0
+25889	33	33	0	New Hampshire	325411	Medicinal and botanical manufacturing	32	0400000US33	1.0	0.0	0.0
+25890	33	33	0	New Hampshire	325412	Pharmaceutical preparation manufacturing	32	0400000US33	9.11111111111111	459.0	35824.0
+25891	33	33	0	New Hampshire	325413	In-vitro diagnostic substance manufacturing	32	0400000US33	1.0	0.0	0.0
+25892	33	33	0	New Hampshire	325414	Biological product (except diagnostic) manufacturing	32	0400000US33	1.4	0.0	0.0
+25893	33	33	0	New Hampshire	325510	Paint and coating manufacturing	32	0400000US33	4.888888888888889	55.111111111111114	3013.222222222222
+25894	33	33	0	New Hampshire	325520	Adhesive manufacturing	32	0400000US33	6.555555555555555	116.11111111111111	6816.888888888889
+25895	33	33	0	New Hampshire	325611	Soap and other detergent manufacturing	32	0400000US33	4.222222222222222	13.666666666666666	519.8888888888889
+25896	33	33	0	New Hampshire	325612	Polish and other sanitation good manufacturing	32	0400000US33	3.3333333333333335	53.111111111111114	1318.2222222222222
+25897	33	33	0	New Hampshire	325613	Surface active agent manufacturing	32	0400000US33	1.0	0.0	0.0
+25898	33	33	0	New Hampshire	325620	Toilet preparation manufacturing	32	0400000US33	3.7777777777777777	0.0	0.0
+25899	33	33	0	New Hampshire	325910	Printing ink manufacturing	32	0400000US33	3.0	11.6	727.4
+25900	33	33	0	New Hampshire	325991	Custom compounding of purchased resins	32	0400000US33	3.111111111111111	8.222222222222221	511.8888888888889
+25901	33	33	0	New Hampshire	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US33	1.8	0.0	0.0
+25902	33	33	0	New Hampshire	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US33	6.111111111111111	39.0	1782.888888888889
+25903	33	33	0	New Hampshire	326111	Plastics bag and pouch manufacturing	32	0400000US33	2.4444444444444446	39.111111111111114	1345.3333333333333
+25904	33	33	0	New Hampshire	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US33	2.0	0.0	0.0
+25905	33	33	0	New Hampshire	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US33	3.6666666666666665	58.22222222222222	4048.8888888888887
+25906	33	33	0	New Hampshire	326121	Unlaminated plastics profile shape manufacturing	32	0400000US33	6.444444444444445	256.44444444444446	22096.11111111111
+25907	33	33	0	New Hampshire	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US33	1.4	0.0	0.0
+25908	33	33	0	New Hampshire	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	32	0400000US33	2.0	0.0	0.0
+25909	33	33	0	New Hampshire	326140	Polystyrene foam product manufacturing	32	0400000US33	3.0	37.888888888888886	2847.777777777778
+25910	33	33	0	New Hampshire	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US33	1.0	0.0	0.0
+25911	33	33	0	New Hampshire	326160	Plastics bottle manufacturing	32	0400000US33	6.555555555555555	218.77777777777777	11642.0
+25912	33	33	0	New Hampshire	326199	All other plastics product manufacturing	32	0400000US33	44.22222222222222	2027.3333333333333	102503.33333333333
+25913	33	33	0	New Hampshire	326212	Tire retreading	32	0400000US33	2.0	0.0	0.0
+25914	33	33	0	New Hampshire	326220	Rubber and plastics hoses and belting manufacturing	32	0400000US33	3.0	0.0	0.0
+25915	33	33	0	New Hampshire	326291	Rubber product manufacturing for mechanical use	32	0400000US33	4.333333333333333	67.44444444444444	2677.5555555555557
+25916	33	33	0	New Hampshire	326299	All other rubber product manufacturing	32	0400000US33	5.888888888888889	315.55555555555554	18009.88888888889
+25917	33	33	0	New Hampshire	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US33	6.0	51.0	2189.222222222222
+25918	33	33	0	New Hampshire	327120	Clay building material and refractories manufacturing	32	0400000US33	1.8	0.0	0.0
+25919	33	33	0	New Hampshire	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US33	4.333333333333333	0.0	0.0
+25920	33	33	0	New Hampshire	327215	Glass product manufacturing made of purchased glass	32	0400000US33	9.11111111111111	275.44444444444446	23666.0
+25921	33	33	0	New Hampshire	327320	Ready-mix concrete manufacturing	32	0400000US33	18.444444444444443	147.55555555555554	6652.888888888889
+25922	33	33	0	New Hampshire	327331	Concrete block and brick manufacturing	32	0400000US33	2.888888888888889	30.22222222222222	1649.111111111111
+25923	33	33	0	New Hampshire	327332	Concrete pipe manufacturing	32	0400000US33	1.0	0.0	0.0
+25924	33	33	0	New Hampshire	327390	Other concrete product manufacturing	32	0400000US33	11.11111111111111	351.8888888888889	20764.444444444445
+25925	33	33	0	New Hampshire	327420	Gypsum product manufacturing	32	0400000US33	2.6666666666666665	0.0	0.0
+25926	33	33	0	New Hampshire	327910	Abrasive product manufacturing	32	0400000US33	3.0	0.0	0.0
+25927	33	33	0	New Hampshire	327991	Cut stone and stone product manufacturing	32	0400000US33	11.0	99.0	5165.888888888889
+25928	33	33	0	New Hampshire	327992	Ground or treated mineral and earth manufacturing	32	0400000US33	1.0	0.0	0.0
+25929	33	33	0	New Hampshire	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US33	4.222222222222222	78.88888888888889	3477.1111111111113
+25930	33	33	0	New Hampshire	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US33	1.0	0.0	0.0
+25931	33	33	0	New Hampshire	331210	Iron and steel pipe and tube manufacturing from purchased steel	33	0400000US33	1.6	0.0	0.0
+25932	33	33	0	New Hampshire	331221	Rolled steel shape manufacturing	33	0400000US33	1.0	0.0	0.0
+25933	33	33	0	New Hampshire	331222	Steel wire drawing	33	0400000US33	1.0	0.0	0.0
+25934	33	33	0	New Hampshire	331314	Secondary smelting and alloying of aluminum	33	0400000US33	1.0	0.0	0.0
+25935	33	33	0	New Hampshire	331315	Aluminum sheet, plate, and foil manufacturing	33	0400000US33	1.0	0.0	0.0
+25936	33	33	0	New Hampshire	331318	Other aluminum rolling, drawing, and extruding	33	0400000US33	2.5555555555555554	88.88888888888889	4149.777777777777
+25937	33	33	0	New Hampshire	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US33	2.0	0.0	0.0
+25938	33	33	0	New Hampshire	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US33	1.0	0.0	0.0
+25939	33	33	0	New Hampshire	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US33	1.0	0.0	0.0
+25940	33	33	0	New Hampshire	331511	Iron foundries	33	0400000US33	1.8	0.0	0.0
+25941	33	33	0	New Hampshire	331512	Steel investment foundries	33	0400000US33	3.4444444444444446	0.0	0.0
+25942	33	33	0	New Hampshire	331513	Steel foundries (except investment)	33	0400000US33	1.0	0.0	0.0
+25943	33	33	0	New Hampshire	331523	Nonferrous metal die-casting foundries	33	0400000US33	3.0	0.0	0.0
+25944	33	33	0	New Hampshire	331524	Aluminum foundries (except die-casting)	33	0400000US33	7.333333333333333	470.22222222222223	22971.555555555555
+25945	33	33	0	New Hampshire	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US33	2.111111111111111	16.444444444444443	801.7777777777778
+25946	33	33	0	New Hampshire	332111	Iron and steel forging	33	0400000US33	1.0	0.0	0.0
+25947	33	33	0	New Hampshire	332112	Nonferrous forging	33	0400000US33	1.0	0.0	0.0
+25948	33	33	0	New Hampshire	332114	Custom roll forming	33	0400000US33	1.0	0.0	0.0
+25949	33	33	0	New Hampshire	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US33	8.11111111111111	200.0	10149.666666666666
+25950	33	33	0	New Hampshire	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US33	1.0	0.0	0.0
+25951	33	33	0	New Hampshire	332216	Saw blade and handtool manufacturing	33	0400000US33	3.4	43.6	1794.2
+25952	33	33	0	New Hampshire	332311	Prefabricated metal building and component manufacturing	33	0400000US33	3.4444444444444446	38.55555555555556	2118.4444444444443
+25953	33	33	0	New Hampshire	332312	Fabricated structural metal manufacturing	33	0400000US33	15.11111111111111	290.44444444444446	16142.666666666666
+25954	33	33	0	New Hampshire	332313	Plate work manufacturing	33	0400000US33	3.111111111111111	45.333333333333336	2311.1111111111113
+25955	33	33	0	New Hampshire	332321	Metal window and door manufacturing	33	0400000US33	4.2	157.2	6429.6
+25956	33	33	0	New Hampshire	332322	Sheet metal work manufacturing	33	0400000US33	45.666666666666664	1010.7777777777778	54727.666666666664
+25957	33	33	0	New Hampshire	332323	Ornamental and architectural metal work manufacturing	33	0400000US33	15.777777777777779	296.1111111111111	13615.666666666666
+25958	33	33	0	New Hampshire	332410	Power boiler and heat exchanger manufacturing	33	0400000US33	4.111111111111111	436.1111111111111	35120.77777777778
+25959	33	33	0	New Hampshire	332420	Metal tank (heavy gauge) manufacturing	33	0400000US33	1.0	0.0	0.0
+25960	33	33	0	New Hampshire	332510	Hardware manufacturing	33	0400000US33	5.444444444444445	96.11111111111111	6102.666666666667
+25961	33	33	0	New Hampshire	332618	Other fabricated wire product manufacturing	33	0400000US33	2.2	0.0	0.0
+25962	33	33	0	New Hampshire	332710	Machine shops	33	0400000US33	161.88888888888889	2048.5555555555557	112353.88888888889
+25963	33	33	0	New Hampshire	332721	Precision turned product manufacturing	33	0400000US33	33.111111111111114	1097.888888888889	58812.333333333336
+25964	33	33	0	New Hampshire	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US33	4.444444444444445	133.88888888888889	8848.333333333334
+25965	33	33	0	New Hampshire	332811	Metal heat treating	33	0400000US33	5.0	69.33333333333333	3186.4444444444443
+25966	33	33	0	New Hampshire	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US33	16.11111111111111	222.11111111111111	10311.777777777777
+25967	33	33	0	New Hampshire	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US33	8.444444444444445	180.0	8777.777777777777
+25968	33	33	0	New Hampshire	332911	Industrial valve manufacturing	33	0400000US33	7.0	509.8888888888889	28201.11111111111
+25969	33	33	0	New Hampshire	332912	Fluid power valve and hose fitting manufacturing	33	0400000US33	3.0	477.55555555555554	33575.444444444445
+25970	33	33	0	New Hampshire	332913	Plumbing fixture fitting and trim manufacturing	33	0400000US33	1.0	0.0	0.0
+25971	33	33	0	New Hampshire	332919	Other metal valve and pipe fitting manufacturing	33	0400000US33	1.0	0.0	0.0
+25972	33	33	0	New Hampshire	332991	Ball and roller bearing manufacturing	33	0400000US33	3.111111111111111	0.0	0.0
+25973	33	33	0	New Hampshire	332992	Small arms ammunition manufacturing	33	0400000US33	1.0	0.0	0.0
+25974	33	33	0	New Hampshire	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US33	4.444444444444445	1707.5555555555557	106974.88888888889
+25975	33	33	0	New Hampshire	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US33	3.0	130.22222222222223	9720.333333333334
+25976	33	33	0	New Hampshire	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US33	18.0	271.0	15648.888888888889
+25977	33	33	0	New Hampshire	333111	Farm machinery and equipment manufacturing	33	0400000US33	2.4444444444444446	0.0	0.0
+25978	33	33	0	New Hampshire	333120	Construction machinery manufacturing	33	0400000US33	2.0	0.0	204.4
+25979	33	33	0	New Hampshire	333241	Food product machinery manufacturing	33	0400000US33	4.777777777777778	68.88888888888889	4480.888888888889
+25980	33	33	0	New Hampshire	333242	Semiconductor machinery manufacturing	33	0400000US33	3.4	9.0	415.0
+25981	33	33	0	New Hampshire	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US33	6.888888888888889	252.33333333333334	19594.222222222223
+25982	33	33	0	New Hampshire	333244	Printing machinery and equipment manufacturing	33	0400000US33	5.0	407.55555555555554	25201.777777777777
+25983	33	33	0	New Hampshire	333249	Other industrial machinery manufacturing	33	0400000US33	7.222222222222222	37.111111111111114	1448.6666666666667
+25984	33	33	0	New Hampshire	333314	Optical instrument and lens manufacturing	33	0400000US33	16.555555555555557	985.1111111111111	75048.55555555556
+25985	33	33	0	New Hampshire	333316	Photographic and photocopying equipment manufacturing	33	0400000US33	2.6666666666666665	0.0	0.0
+25986	33	33	0	New Hampshire	333318	Other commercial and service industry machinery manufacturing	33	0400000US33	13.0	499.22222222222223	29114.0
+25987	33	33	0	New Hampshire	333413	Industrial and commercial fan and blower and air purification equipment manufacturing	33	0400000US33	3.0	42.44444444444444	2655.8888888888887
+25988	33	33	0	New Hampshire	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US33	4.0	13.333333333333334	488.44444444444446
+25989	33	33	0	New Hampshire	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US33	3.4444444444444446	29.77777777777778	1379.2222222222222
+25990	33	33	0	New Hampshire	333511	Industrial mold manufacturing	33	0400000US33	11.444444444444445	150.33333333333334	6725.111111111111
+25991	33	33	0	New Hampshire	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US33	7.444444444444445	108.0	7115.333333333333
+25992	33	33	0	New Hampshire	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US33	8.222222222222221	137.77777777777777	5837.555555555556
+25993	33	33	0	New Hampshire	333517	Machine tool manufacturing	33	0400000US33	6.666666666666667	183.0	15189.333333333334
+25994	33	33	0	New Hampshire	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US33	2.4444444444444446	0.0	0.0
+25995	33	33	0	New Hampshire	333611	Turbine and turbine generator set units manufacturing	33	0400000US33	2.2	0.0	0.0
+25996	33	33	0	New Hampshire	333613	Mechanical power transmission equipment manufacturing	33	0400000US33	2.0	0.0	0.0
+25997	33	33	0	New Hampshire	333618	Other engine equipment manufacturing	33	0400000US33	1.0	0.0	0.0
+25998	33	33	0	New Hampshire	333911	Pump and pumping equipment manufacturing	33	0400000US33	1.6666666666666667	0.0	0.0
+25999	33	33	0	New Hampshire	333912	Air and gas compressor manufacturing	33	0400000US33	1.0	0.0	0.0
+26000	33	33	0	New Hampshire	333921	Elevator and moving stairway manufacturing	33	0400000US33	1.0	0.0	0.0
+26001	33	33	0	New Hampshire	333922	Conveyor and conveying equipment manufacturing	33	0400000US33	2.4444444444444446	85.77777777777777	6409.777777777777
+26002	33	33	0	New Hampshire	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US33	1.0	0.0	0.0
+26003	33	33	0	New Hampshire	333992	Welding and soldering equipment manufacturing	33	0400000US33	2.2	0.0	0.0
+26004	33	33	0	New Hampshire	333993	Packaging machinery manufacturing	33	0400000US33	6.333333333333333	309.0	21463.0
+26005	33	33	0	New Hampshire	333994	Industrial process furnace and oven manufacturing	33	0400000US33	5.0	97.0	8236.888888888889
+26006	33	33	0	New Hampshire	333995	Fluid power cylinder and actuator manufacturing	33	0400000US33	1.0	0.0	0.0
+26007	33	33	0	New Hampshire	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US33	11.88888888888889	530.4444444444445	29089.666666666668
+26008	33	33	0	New Hampshire	334111	Electronic computer manufacturing	33	0400000US33	2.4	0.0	0.0
+26009	33	33	0	New Hampshire	334112	Computer storage device manufacturing	33	0400000US33	2.0	0.0	0.0
+26010	33	33	0	New Hampshire	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US33	8.11111111111111	768.2222222222222	79332.11111111111
+26011	33	33	0	New Hampshire	334210	Telephone apparatus manufacturing	33	0400000US33	6.111111111111111	140.77777777777777	12275.444444444445
+26012	33	33	0	New Hampshire	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US33	9.11111111111111	26.11111111111111	2974.222222222222
+26013	33	33	0	New Hampshire	334290	Other communications equipment manufacturing	33	0400000US33	3.2	16.6	2706.6
+26014	33	33	0	New Hampshire	334310	Audio and video equipment manufacturing	33	0400000US33	4.555555555555555	68.44444444444444	5325.888888888889
+26015	33	33	0	New Hampshire	334412	Bare printed circuit board manufacturing	33	0400000US33	9.88888888888889	669.3333333333334	34372.333333333336
+26016	33	33	0	New Hampshire	334413	Semiconductor and related device manufacturing	33	0400000US33	12.555555555555555	398.8888888888889	28855.11111111111
+26017	33	33	0	New Hampshire	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	33	0400000US33	9.0	290.0	13976.222222222223
+26018	33	33	0	New Hampshire	334417	Electronic connector manufacturing	33	0400000US33	4.222222222222222	282.22222222222223	26327.444444444445
+26019	33	33	0	New Hampshire	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US33	26.444444444444443	1296.7777777777778	71819.0
+26020	33	33	0	New Hampshire	334419	Other electronic component manufacturing	33	0400000US33	23.444444444444443	882.4444444444445	55631.88888888889
+26021	33	33	0	New Hampshire	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US33	6.555555555555555	176.88888888888889	15432.666666666666
+26022	33	33	0	New Hampshire	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US33	7.0	0.0	0.0
+26023	33	33	0	New Hampshire	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US33	3.3333333333333335	0.0	0.0
+26024	33	33	0	New Hampshire	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US33	6.444444444444445	47.77777777777778	2978.0
+26025	33	33	0	New Hampshire	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US33	4.0	40.2	5647.6
+26026	33	33	0	New Hampshire	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US33	13.222222222222221	306.77777777777777	26098.666666666668
+26027	33	33	0	New Hampshire	334516	Analytical laboratory instrument manufacturing	33	0400000US33	11.88888888888889	413.77777777777777	32228.333333333332
+26028	33	33	0	New Hampshire	334517	Irradiation apparatus manufacturing	33	0400000US33	2.7777777777777777	0.0	0.0
+26029	33	33	0	New Hampshire	334519	Other measuring and controlling device manufacturing	33	0400000US33	12.333333333333334	498.55555555555554	44605.555555555555
+26030	33	33	0	New Hampshire	334613	Blank magnetic and optical recording media manufacturing	33	0400000US33	2.0	0.0	0.0
+26031	33	33	0	New Hampshire	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US33	3.111111111111111	0.0	0.0
+26032	33	33	0	New Hampshire	335110	Electric lamp bulb and part manufacturing	33	0400000US33	1.8	0.0	0.0
+26033	33	33	0	New Hampshire	335121	Residential electric lighting fixture manufacturing	33	0400000US33	3.0	23.8	895.8
+26034	33	33	0	New Hampshire	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US33	1.0	0.0	0.0
+26035	33	33	0	New Hampshire	335129	Other lighting equipment manufacturing	33	0400000US33	3.0	7.0	202.0
+26036	33	33	0	New Hampshire	335221	Household cooking appliance manufacturing	33	0400000US33	1.0	0.0	0.0
+26037	33	33	0	New Hampshire	335311	Power, distribution, and specialty transformer manufacturing	33	0400000US33	3.5555555555555554	13.666666666666666	629.3333333333334
+26038	33	33	0	New Hampshire	335312	Motor and generator manufacturing	33	0400000US33	3.7777777777777777	22.0	2529.8888888888887
+26039	33	33	0	New Hampshire	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US33	2.6	0.0	0.0
+26040	33	33	0	New Hampshire	335314	Relay and industrial control manufacturing	33	0400000US33	5.444444444444445	125.44444444444444	8202.333333333334
+26041	33	33	0	New Hampshire	335912	Primary battery manufacturing	33	0400000US33	1.0	0.0	0.0
+26042	33	33	0	New Hampshire	335921	Fiber optic cable manufacturing	33	0400000US33	2.5555555555555554	0.0	0.0
+26043	33	33	0	New Hampshire	335929	Other communication and energy wire manufacturing	33	0400000US33	8.555555555555555	991.4444444444445	61882.11111111111
+26044	33	33	0	New Hampshire	335931	Current-carrying wiring device manufacturing	33	0400000US33	6.111111111111111	376.3333333333333	18058.0
+26045	33	33	0	New Hampshire	335991	Carbon and graphite product manufacturing	33	0400000US33	4.0	66.66666666666667	4599.0
+26046	33	33	0	New Hampshire	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US33	13.444444444444445	201.22222222222223	14193.888888888889
+26047	33	33	0	New Hampshire	336111	Automobile manufacturing	33	0400000US33	1.0	0.0	0.0
+26048	33	33	0	New Hampshire	336211	Motor vehicle body manufacturing	33	0400000US33	5.666666666666667	142.66666666666666	8094.333333333333
+26049	33	33	0	New Hampshire	336214	Travel trailer and camper manufacturing	33	0400000US33	1.0	0.0	0.0
+26050	33	33	0	New Hampshire	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US33	2.6666666666666665	5.333333333333333	298.1111111111111
+26051	33	33	0	New Hampshire	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US33	3.888888888888889	237.88888888888889	10885.444444444445
+26052	33	33	0	New Hampshire	336330	Motor vehicle steering and suspension components (except spring) manufacturing	33	0400000US33	1.2	0.0	0.0
+26053	33	33	0	New Hampshire	336340	Motor vehicle brake system manufacturing	33	0400000US33	1.0	0.0	0.0
+26054	33	33	0	New Hampshire	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US33	1.0	0.0	0.0
+26055	33	33	0	New Hampshire	336370	Motor vehicle metal stamping	33	0400000US33	2.7777777777777777	0.0	0.0
+26056	33	33	0	New Hampshire	336390	Other motor vehicle parts manufacturing	33	0400000US33	3.2222222222222223	0.0	0.0
+26057	33	33	0	New Hampshire	336411	Aircraft manufacturing	33	0400000US33	1.6	2.2	67.0
+26058	33	33	0	New Hampshire	336412	Aircraft engine and engine parts manufacturing	33	0400000US33	2.4444444444444446	0.0	0.0
+26059	33	33	0	New Hampshire	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US33	1.4	0.0	0.0
+26060	33	33	0	New Hampshire	336414	Guided missile and space vehicle manufacturing	33	0400000US33	1.0	0.0	0.0
+26061	33	33	0	New Hampshire	336419	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	33	0400000US33	1.0	0.0	0.0
+26062	33	33	0	New Hampshire	336611	Ship building and repairing	33	0400000US33	2.4	0.0	0.0
+26063	33	33	0	New Hampshire	336612	Boat building	33	0400000US33	4.333333333333333	11.555555555555555	417.22222222222223
+26064	33	33	0	New Hampshire	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US33	2.5555555555555554	1.2222222222222223	49.666666666666664
+26065	33	33	0	New Hampshire	336999	All other transportation equipment manufacturing	33	0400000US33	1.8	0.0	0.0
+26066	33	33	0	New Hampshire	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US33	22.88888888888889	257.55555555555554	12846.777777777777
+26067	33	33	0	New Hampshire	337121	Upholstered household furniture manufacturing	33	0400000US33	4.4	0.0	228.0
+26068	33	33	0	New Hampshire	337122	Nonupholstered wood household furniture manufacturing	33	0400000US33	13.777777777777779	145.77777777777777	6542.0
+26069	33	33	0	New Hampshire	337124	Metal household furniture manufacturing	33	0400000US33	1.0	0.0	0.0
+26070	33	33	0	New Hampshire	337127	Institutional furniture manufacturing	33	0400000US33	2.6	0.0	0.0
+26071	33	33	0	New Hampshire	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US33	14.555555555555555	309.0	16740.777777777777
+26072	33	33	0	New Hampshire	337214	Office furniture (except wood) manufacturing	33	0400000US33	1.0	0.0	0.0
+26073	33	33	0	New Hampshire	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US33	3.111111111111111	50.55555555555556	1658.5555555555557
+26074	33	33	0	New Hampshire	337910	Mattress manufacturing	33	0400000US33	1.0	0.0	0.0
+26075	33	33	0	New Hampshire	337920	Blind and shade manufacturing	33	0400000US33	1.0	0.0	0.0
+26076	33	33	0	New Hampshire	339112	Surgical and medical instrument manufacturing	33	0400000US33	20.22222222222222	1827.111111111111	109869.88888888889
+26077	33	33	0	New Hampshire	339113	Surgical appliance and supplies manufacturing	33	0400000US33	14.444444444444445	506.77777777777777	29972.222222222223
+26078	33	33	0	New Hampshire	339114	Dental equipment and supplies manufacturing	33	0400000US33	2.7777777777777777	4.666666666666667	224.88888888888889
+26079	33	33	0	New Hampshire	339115	Ophthalmic goods manufacturing	33	0400000US33	1.25	0.0	0.0
+26080	33	33	0	New Hampshire	339116	Dental laboratories	33	0400000US33	22.333333333333332	182.55555555555554	6706.777777777777
+26081	33	33	0	New Hampshire	339910	Jewelry and silverware manufacturing	33	0400000US33	8.88888888888889	18.444444444444443	699.1111111111111
+26082	33	33	0	New Hampshire	339920	Sporting and athletic goods manufacturing	33	0400000US33	6.0	22.444444444444443	1401.7777777777778
+26083	33	33	0	New Hampshire	339930	Doll, toy, and game manufacturing	33	0400000US33	3.3333333333333335	9.11111111111111	154.44444444444446
+26084	33	33	0	New Hampshire	339940	Office supplies (except paper) manufacturing	33	0400000US33	3.0	44.44444444444444	1764.0
+26085	33	33	0	New Hampshire	339950	Sign manufacturing	33	0400000US33	26.666666666666668	215.0	10116.777777777777
+26086	33	33	0	New Hampshire	339991	Gasket, packing, and sealing device manufacturing	33	0400000US33	7.222222222222222	310.0	18770.666666666668
+26087	33	33	0	New Hampshire	339992	Musical instrument manufacturing	33	0400000US33	4.333333333333333	17.444444444444443	467.44444444444446
+26088	33	33	0	New Hampshire	339993	Fastener, button, needle, and pin manufacturing	33	0400000US33	2.0	0.0	0.0
+26089	33	33	0	New Hampshire	339994	Broom, brush, and mop manufacturing	33	0400000US33	1.0	0.0	0.0
+26090	33	33	0	New Hampshire	339999	All other miscellaneous manufacturing	33	0400000US33	14.666666666666666	205.11111111111111	11789.0
+26091	33	33	0	New Hampshire	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US33	29.333333333333332	517.3333333333334	27623.222222222223
+26092	33	33	0	New Hampshire	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US33	56.666666666666664	718.3333333333334	33646.666666666664
+26093	33	33	0	New Hampshire	423130	Tire and tube merchant wholesalers	42	0400000US33	11.88888888888889	161.88888888888889	7726.222222222223
+26094	33	33	0	New Hampshire	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US33	12.0	97.88888888888889	4390.0
+26095	33	33	0	New Hampshire	423210	Furniture merchant wholesalers	42	0400000US33	28.22222222222222	172.55555555555554	11605.777777777777
+26096	33	33	0	New Hampshire	423220	Home furnishing merchant wholesalers	42	0400000US33	20.444444444444443	242.88888888888889	21350.666666666668
+26097	33	33	0	New Hampshire	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US33	38.77777777777778	603.5555555555555	45956.444444444445
+26098	33	33	0	New Hampshire	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US33	14.666666666666666	88.44444444444444	6098.111111111111
+26099	33	33	0	New Hampshire	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US33	17.22222222222222	234.33333333333334	19053.444444444445
+26100	33	33	0	New Hampshire	423390	Other construction material merchant wholesalers	42	0400000US33	14.0	123.66666666666667	6972.666666666667
+26101	33	33	0	New Hampshire	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US33	5.0	57.6	3813.4
+26102	33	33	0	New Hampshire	423420	Office equipment merchant wholesalers	42	0400000US33	41.22222222222222	545.8888888888889	34910.666666666664
+26103	33	33	0	New Hampshire	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US33	75.55555555555556	1836.2222222222222	227871.0
+26104	33	33	0	New Hampshire	423440	Other commercial equipment merchant wholesalers	42	0400000US33	14.222222222222221	71.88888888888889	3418.222222222222
+26105	33	33	0	New Hampshire	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US33	47.77777777777778	1117.6666666666667	113849.22222222222
+26106	33	33	0	New Hampshire	423460	Ophthalmic goods merchant wholesalers	42	0400000US33	7.0	60.333333333333336	2933.8888888888887
+26107	33	33	0	New Hampshire	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US33	25.333333333333332	333.44444444444446	31379.555555555555
+26108	33	33	0	New Hampshire	423510	Metal service centers and other metal merchant wholesalers	42	0400000US33	37.22222222222222	450.8888888888889	30239.11111111111
+26109	33	33	0	New Hampshire	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US33	83.22222222222223	850.2222222222222	63757.666666666664
+26110	33	33	0	New Hampshire	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US33	8.8	96.2	9909.0
+26111	33	33	0	New Hampshire	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US33	7.0	89.0	6502.0
+26112	33	33	0	New Hampshire	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US33	126.55555555555556	1854.111111111111	225483.44444444444
+26113	33	33	0	New Hampshire	423710	Hardware merchant wholesalers	42	0400000US33	25.88888888888889	321.8888888888889	17677.222222222223
+26114	33	33	0	New Hampshire	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US33	47.888888888888886	603.6666666666666	39315.555555555555
+26115	33	33	0	New Hampshire	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US33	27.22222222222222	264.77777777777777	18242.0
+26116	33	33	0	New Hampshire	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US33	4.222222222222222	38.44444444444444	2785.4444444444443
+26117	33	33	0	New Hampshire	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US33	29.444444444444443	416.8888888888889	30152.444444444445
+26118	33	33	0	New Hampshire	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US33	16.444444444444443	200.55555555555554	11507.333333333334
+26119	33	33	0	New Hampshire	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US33	127.55555555555556	1217.888888888889	84132.11111111111
+26120	33	33	0	New Hampshire	423840	Industrial supplies merchant wholesalers	42	0400000US33	38.22222222222222	337.8888888888889	24582.666666666668
+26121	33	33	0	New Hampshire	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US33	24.77777777777778	274.22222222222223	17610.222222222223
+26122	33	33	0	New Hampshire	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US33	7.111111111111111	29.555555555555557	3512.5555555555557
+26123	33	33	0	New Hampshire	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US33	36.55555555555556	419.44444444444446	28933.666666666668
+26124	33	33	0	New Hampshire	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US33	9.555555555555555	124.77777777777777	8415.0
+26125	33	33	0	New Hampshire	423930	Recyclable material merchant wholesalers	42	0400000US33	43.333333333333336	514.6666666666666	26330.222222222223
+26126	33	33	0	New Hampshire	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US33	14.555555555555555	39.333333333333336	2477.4444444444443
+26127	33	33	0	New Hampshire	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US33	28.333333333333332	212.11111111111111	11543.222222222223
+26128	33	33	0	New Hampshire	424110	Printing and writing paper merchant wholesalers	42	0400000US33	2.0	0.0	0.0
+26129	33	33	0	New Hampshire	424120	Stationery and office supplies merchant wholesalers	42	0400000US33	20.77777777777778	134.55555555555554	11424.0
+26130	33	33	0	New Hampshire	424130	Industrial and personal service paper merchant wholesalers	42	0400000US33	15.777777777777779	229.33333333333334	12703.0
+26131	33	33	0	New Hampshire	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US33	32.55555555555556	290.44444444444446	33974.22222222222
+26132	33	33	0	New Hampshire	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US33	4.444444444444445	14.555555555555555	1405.5555555555557
+26133	33	33	0	New Hampshire	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US33	9.222222222222221	90.55555555555556	6366.333333333333
+26134	33	33	0	New Hampshire	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US33	10.555555555555555	282.77777777777777	25796.777777777777
+26135	33	33	0	New Hampshire	424340	Footwear merchant wholesalers	42	0400000US33	11.88888888888889	383.3333333333333	34059.666666666664
+26136	33	33	0	New Hampshire	424410	General line grocery merchant wholesalers	42	0400000US33	6.666666666666667	788.4444444444445	50399.77777777778
+26137	33	33	0	New Hampshire	424420	Packaged frozen food merchant wholesalers	42	0400000US33	9.777777777777779	76.22222222222223	6419.666666666667
+26138	33	33	0	New Hampshire	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US33	4.444444444444445	37.22222222222222	1701.4444444444443
+26139	33	33	0	New Hampshire	424440	Poultry and poultry product merchant wholesalers	42	0400000US33	3.4	73.0	6226.8
+26140	33	33	0	New Hampshire	424450	Confectionery merchant wholesalers	42	0400000US33	10.11111111111111	36.111111111111114	1655.0
+26141	33	33	0	New Hampshire	424460	Fish and seafood merchant wholesalers	42	0400000US33	8.777777777777779	102.33333333333333	5338.444444444444
+26142	33	33	0	New Hampshire	424470	Meat and meat product merchant wholesalers	42	0400000US33	4.888888888888889	18.333333333333332	525.7777777777778
+26143	33	33	0	New Hampshire	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US33	9.666666666666666	182.22222222222223	6267.444444444444
+26144	33	33	0	New Hampshire	424490	Other grocery and related products merchant wholesalers	42	0400000US33	60.77777777777778	952.5555555555555	47436.88888888889
+26145	33	33	0	New Hampshire	424590	Other farm product raw material merchant wholesalers	42	0400000US33	1.8	0.0	0.0
+26146	33	33	0	New Hampshire	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US33	15.88888888888889	96.0	10158.0
+26147	33	33	0	New Hampshire	424690	Other chemical and allied products merchant wholesalers	42	0400000US33	44.77777777777778	402.1111111111111	32065.222222222223
+26148	33	33	0	New Hampshire	424710	Petroleum bulk stations and terminals	42	0400000US33	17.0	460.4	27910.4
+26149	33	33	0	New Hampshire	424710	Petroleum bulk stations and terminals 	42	0400000US33	15.0	275.0	19707.0
+26150	33	33	0	New Hampshire	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US33	7.4	24.4	1828.8
+26151	33	33	0	New Hampshire	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US33	9.0	132.0	5227.0
+26152	33	33	0	New Hampshire	424810	Beer and ale merchant wholesalers	42	0400000US33	7.222222222222222	809.7777777777778	42209.555555555555
+26153	33	33	0	New Hampshire	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US33	6.888888888888889	57.77777777777778	4311.555555555556
+26154	33	33	0	New Hampshire	424910	Farm supplies merchant wholesalers	42	0400000US33	17.555555555555557	89.55555555555556	4348.666666666667
+26155	33	33	0	New Hampshire	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US33	6.888888888888889	206.44444444444446	8148.111111111111
+26156	33	33	0	New Hampshire	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US33	9.444444444444445	89.77777777777777	2330.8888888888887
+26157	33	33	0	New Hampshire	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US33	4.333333333333333	0.0	0.0
+26158	33	33	0	New Hampshire	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US33	4.444444444444445	56.55555555555556	2105.8888888888887
+26159	33	33	0	New Hampshire	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US33	44.77777777777778	259.0	10974.0
+26160	33	33	0	New Hampshire	425110	Business to business electronic markets	42	0400000US33	1.5	0.0	0.0
+26161	33	33	0	New Hampshire	425120	Wholesale trade agents and brokers	42	0400000US33	236.66666666666666	1038.0	73359.55555555556
+26162	33	33	0	New Hampshire	441110	New car dealers	44	0400000US33	164.66666666666666	7084.444444444444	409442.6666666667
+26163	33	33	0	New Hampshire	441120	Used car dealers	44	0400000US33	165.55555555555554	826.2222222222222	35246.666666666664
+26164	33	33	0	New Hampshire	441210	Recreational vehicle dealers	44	0400000US33	26.0	267.55555555555554	14099.666666666666
+26165	33	33	0	New Hampshire	441222	Boat dealers	44	0400000US33	40.0	355.8888888888889	18387.777777777777
+26166	33	33	0	New Hampshire	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US33	59.666666666666664	665.1111111111111	28449.88888888889
+26167	33	33	0	New Hampshire	441310	Automotive parts and accessories stores	44	0400000US33	224.77777777777777	2150.8888888888887	58818.88888888889
+26168	33	33	0	New Hampshire	441320	Tire dealers	44	0400000US33	97.88888888888889	943.7777777777778	34969.333333333336
+26169	33	33	0	New Hampshire	442110	Furniture stores	44	0400000US33	124.11111111111111	936.7777777777778	39052.444444444445
+26170	33	33	0	New Hampshire	442210	Floor covering stores	44	0400000US33	73.88888888888889	397.22222222222223	16522.88888888889
+26171	33	33	0	New Hampshire	442291	Window treatment stores	44	0400000US33	7.444444444444445	27.88888888888889	717.5555555555555
+26172	33	33	0	New Hampshire	442299	All other home furnishings stores	44	0400000US33	101.77777777777777	1441.2222222222222	27208.333333333332
+26173	33	33	0	New Hampshire	443141	Household appliance stores	44	0400000US33	44.333333333333336	224.77777777777777	10414.777777777777
+26174	33	33	0	New Hampshire	443142	Electronics stores	44	0400000US33	171.77777777777777	1955.0	58565.22222222222
+26175	33	33	0	New Hampshire	444110	Home centers	44	0400000US33	53.77777777777778	3529.5555555555557	92239.11111111111
+26176	33	33	0	New Hampshire	444120	Paint and wallpaper stores	44	0400000US33	34.111111111111114	184.0	7925.222222222223
+26177	33	33	0	New Hampshire	444130	Hardware stores	44	0400000US33	101.44444444444444	791.7777777777778	21735.0
+26178	33	33	0	New Hampshire	444190	Other building material dealers	44	0400000US33	236.55555555555554	2777.6666666666665	143561.88888888888
+26179	33	33	0	New Hampshire	444210	Outdoor power equipment stores	44	0400000US33	37.888888888888886	339.44444444444446	14783.222222222223
+26180	33	33	0	New Hampshire	444220	Nursery, garden center, and farm supply stores	44	0400000US33	100.0	830.1111111111111	24194.666666666668
+26181	33	33	0	New Hampshire	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US33	245.22222222222223	13795.444444444445	392935.1111111111
+26182	33	33	0	New Hampshire	445120	Convenience stores	44	0400000US33	204.44444444444446	931.5555555555555	16658.666666666668
+26183	33	33	0	New Hampshire	445210	Meat markets	44	0400000US33	22.77777777777778	294.22222222222223	6107.333333333333
+26184	33	33	0	New Hampshire	445220	Fish and seafood markets	44	0400000US33	8.11111111111111	84.44444444444444	2021.2222222222222
+26185	33	33	0	New Hampshire	445230	Fruit and vegetable markets	44	0400000US33	9.666666666666666	36.22222222222222	317.3333333333333
+26186	33	33	0	New Hampshire	445291	Baked goods stores	44	0400000US33	6.333333333333333	17.0	352.55555555555554
+26187	33	33	0	New Hampshire	445292	Confectionery and nut stores	44	0400000US33	30.555555555555557	177.0	2466.222222222222
+26188	33	33	0	New Hampshire	445299	All other specialty food stores	44	0400000US33	28.333333333333332	166.22222222222223	3122.222222222222
+26189	33	33	0	New Hampshire	445310	Beer, wine, and liquor stores	44	0400000US33	96.22222222222223	95.88888888888889	2047.0
+26190	33	33	0	New Hampshire	446110	Pharmacies and drug stores	44	0400000US33	187.55555555555554	3157.222222222222	116069.22222222222
+26191	33	33	0	New Hampshire	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US33	61.55555555555556	659.7777777777778	10739.111111111111
+26192	33	33	0	New Hampshire	446130	Optical goods stores	44	0400000US33	71.44444444444444	375.0	10935.222222222223
+26193	33	33	0	New Hampshire	446191	Food (health) supplement stores	44	0400000US33	50.77777777777778	196.66666666666666	5110.111111111111
+26194	33	33	0	New Hampshire	446199	All other health and personal care stores	44	0400000US33	44.333333333333336	208.22222222222223	11267.111111111111
+26195	33	33	0	New Hampshire	447110	Gasoline stations with convenience stores	44	0400000US33	498.77777777777777	4007.777777777778	77194.0
+26196	33	33	0	New Hampshire	447190	Other gasoline stations	44	0400000US33	69.55555555555556	406.22222222222223	10992.777777777777
+26197	33	33	0	New Hampshire	448110	Men's clothing stores	44	0400000US33	24.555555555555557	226.11111111111111	6316.555555555556
+26198	33	33	0	New Hampshire	448120	Women's clothing stores	44	0400000US33	151.33333333333334	1315.6666666666667	19269.0
+26199	33	33	0	New Hampshire	448130	Children's and infants' clothing stores	44	0400000US33	40.888888888888886	480.8888888888889	6258.222222222223
+26200	33	33	0	New Hampshire	448140	Family clothing stores	44	0400000US33	167.66666666666666	3843.3333333333335	50406.0
+26201	33	33	0	New Hampshire	448150	Clothing accessories stores	44	0400000US33	39.44444444444444	161.55555555555554	3477.5555555555557
+26202	33	33	0	New Hampshire	448190	Other clothing stores	44	0400000US33	62.111111111111114	822.1111111111111	14014.111111111111
+26203	33	33	0	New Hampshire	448210	Shoe stores	44	0400000US33	140.77777777777777	1248.7777777777778	22766.0
+26204	33	33	0	New Hampshire	448310	Jewelry stores	44	0400000US33	123.55555555555556	815.5555555555555	24845.0
+26205	33	33	0	New Hampshire	448320	Luggage and leather goods stores	44	0400000US33	2.888888888888889	11.444444444444445	281.55555555555554
+26206	33	33	0	New Hampshire	451110	Sporting goods stores	45	0400000US33	191.22222222222223	1761.2222222222222	40158.22222222222
+26207	33	33	0	New Hampshire	451120	Hobby, toy, and game stores	45	0400000US33	65.11111111111111	1026.5555555555557	13765.666666666666
+26208	33	33	0	New Hampshire	451130	Sewing, needlework, and piece goods stores	45	0400000US33	35.44444444444444	295.22222222222223	3780.0
+26209	33	33	0	New Hampshire	451140	Musical instrument and supplies stores	45	0400000US33	22.77777777777778	94.44444444444444	2923.777777777778
+26210	33	33	0	New Hampshire	451211	Book stores	45	0400000US33	51.22222222222222	357.1111111111111	5394.111111111111
+26211	33	33	0	New Hampshire	451212	News dealers and newsstands	45	0400000US33	3.888888888888889	9.444444444444445	110.0
+26212	33	33	0	New Hampshire	452111	Department stores (except discount department stores)	45	0400000US33	21.0	2483.4	44859.0
+26213	33	33	0	New Hampshire	452112	Discount department stores	45	0400000US33	39.2	5306.0	114120.2
+26214	33	33	0	New Hampshire	452210	Department stores	45	0400000US33	30.0	2897.0	56530.0
+26215	33	33	0	New Hampshire	452311	Warehouse clubs and supercenters	45	0400000US33	51.0	8833.0	238474.0
+26216	33	33	0	New Hampshire	452319	All other general merchandise stores	45	0400000US33	161.0	1771.0	28417.0
+26217	33	33	0	New Hampshire	452910	Warehouse clubs and supercenters	45	0400000US33	25.0	2139.0	59078.4
+26218	33	33	0	New Hampshire	452990	All other general merchandise stores	45	0400000US33	144.2	1381.6	23043.4
+26219	33	33	0	New Hampshire	453110	Florists	45	0400000US33	82.11111111111111	332.6666666666667	5778.555555555556
+26220	33	33	0	New Hampshire	453210	Office supplies and stationery stores	45	0400000US33	30.77777777777778	0.0	0.0
+26221	33	33	0	New Hampshire	453220	Gift, novelty, and souvenir stores	45	0400000US33	178.33333333333334	1064.0	17909.444444444445
+26222	33	33	0	New Hampshire	453310	Used merchandise stores	45	0400000US33	128.33333333333334	1032.888888888889	17820.777777777777
+26223	33	33	0	New Hampshire	453910	Pet and pet supplies stores	45	0400000US33	72.44444444444444	764.3333333333334	16513.88888888889
+26224	33	33	0	New Hampshire	453920	Art dealers	45	0400000US33	15.11111111111111	119.55555555555556	2208.222222222222
+26225	33	33	0	New Hampshire	453930	Manufactured (mobile) home dealers	45	0400000US33	9.666666666666666	55.888888888888886	3107.777777777778
+26226	33	33	0	New Hampshire	453991	Tobacco stores	45	0400000US33	68.11111111111111	349.6666666666667	9520.666666666666
+26227	33	33	0	New Hampshire	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US33	142.11111111111111	537.2222222222222	18538.88888888889
+26228	33	33	0	New Hampshire	454110	Electronic shopping and mail-order houses	45	0400000US33	221.0	3273.0	161158.0
+26229	33	33	0	New Hampshire	454111	Electronic shopping	45	0400000US33	142.0	1238.4	59419.4
+26230	33	33	0	New Hampshire	454112	Electronic auctions	45	0400000US33	3.2	0.0	0.0
+26231	33	33	0	New Hampshire	454113	Mail-order houses	45	0400000US33	45.2	1572.6	78755.8
+26232	33	33	0	New Hampshire	454210	Vending machine operators	45	0400000US33	14.666666666666666	57.888888888888886	2586.6666666666665
+26233	33	33	0	New Hampshire	454310	Fuel dealers	45	0400000US33	148.44444444444446	2358.222222222222	126599.55555555556
+26234	33	33	0	New Hampshire	454390	Other direct selling establishments	45	0400000US33	94.55555555555556	446.22222222222223	17857.333333333332
+26235	33	33	0	New Hampshire	481111	Scheduled passenger air transportation	48	0400000US33	6.111111111111111	104.0	5990.333333333333
+26236	33	33	0	New Hampshire	481211	Nonscheduled chartered passenger air transportation	48	0400000US33	10.666666666666666	222.44444444444446	16693.333333333332
+26237	33	33	0	New Hampshire	481212	Nonscheduled chartered freight air transportation	48	0400000US33	1.0	0.0	0.0
+26238	33	33	0	New Hampshire	481219	Other nonscheduled air transportation	48	0400000US33	5.555555555555555	24.666666666666668	2699.4444444444443
+26239	33	33	0	New Hampshire	483111	Deep sea freight transportation	48	0400000US33	1.0	0.0	0.0
+26240	33	33	0	New Hampshire	483113	Coastal and great lakes freight transportation	48	0400000US33	1.0	0.0	0.0
+26241	33	33	0	New Hampshire	484110	General freight trucking, local	48	0400000US33	126.33333333333333	1157.6666666666667	49896.22222222222
+26242	33	33	0	New Hampshire	484121	General freight trucking, long-distance, truckload	48	0400000US33	48.666666666666664	599.0	32598.0
+26243	33	33	0	New Hampshire	484122	General freight trucking, long-distance, less than truckload	48	0400000US33	20.22222222222222	523.8888888888889	31553.777777777777
+26244	33	33	0	New Hampshire	484210	Used household and office goods moving	48	0400000US33	42.333333333333336	414.8888888888889	13701.111111111111
+26245	33	33	0	New Hampshire	484220	Specialized freight (except used goods) trucking, local	48	0400000US33	128.44444444444446	517.2222222222222	23604.333333333332
+26246	33	33	0	New Hampshire	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US33	22.444444444444443	142.55555555555554	7343.222222222223
+26247	33	33	0	New Hampshire	485113	Bus and other motor vehicle transit systems	48	0400000US33	4.777777777777778	92.55555555555556	2868.3333333333335
+26248	33	33	0	New Hampshire	485119	Other urban transit systems	48	0400000US33	3.8	20.8	374.4
+26249	33	33	0	New Hampshire	485210	Interurban and rural bus transportation	48	0400000US33	9.11111111111111	307.3333333333333	14533.222222222223
+26250	33	33	0	New Hampshire	485310	Taxi service	48	0400000US33	15.666666666666666	114.0	2811.4444444444443
+26251	33	33	0	New Hampshire	485320	Limousine service	48	0400000US33	22.444444444444443	340.8888888888889	6963.555555555556
+26252	33	33	0	New Hampshire	485410	School and employee bus transportation	48	0400000US33	46.44444444444444	2585.5555555555557	49862.666666666664
+26253	33	33	0	New Hampshire	485510	Charter bus industry	48	0400000US33	4.111111111111111	39.55555555555556	1274.0
+26254	33	33	0	New Hampshire	485991	Special needs transportation	48	0400000US33	15.555555555555555	221.22222222222223	4571.444444444444
+26255	33	33	0	New Hampshire	485999	All other transit and ground passenger transportation	48	0400000US33	10.11111111111111	100.44444444444444	2038.6666666666667
+26256	33	33	0	New Hampshire	486110	Pipeline transportation of crude oil	48	0400000US33	2.0	0.0	0.0
+26257	33	33	0	New Hampshire	486210	Pipeline transportation of natural gas	48	0400000US33	7.333333333333333	24.11111111111111	3040.6666666666665
+26258	33	33	0	New Hampshire	487110	Scenic and sightseeing transportation, land	48	0400000US33	2.6	0.0	0.0
+26259	33	33	0	New Hampshire	487210	Scenic and sightseeing transportation, water	48	0400000US33	12.666666666666666	29.88888888888889	2652.8888888888887
+26260	33	33	0	New Hampshire	487990	Scenic and sightseeing transportation, other	48	0400000US33	1.0	0.0	0.0
+26261	33	33	0	New Hampshire	488111	Air traffic control	48	0400000US33	3.0	0.0	0.0
+26262	33	33	0	New Hampshire	488119	Other airport operations	48	0400000US33	14.222222222222221	319.3333333333333	15873.777777777777
+26263	33	33	0	New Hampshire	488190	Other support activities for air transportation	48	0400000US33	11.555555555555555	136.77777777777777	9311.0
+26264	33	33	0	New Hampshire	488310	Port and harbor operations	48	0400000US33	1.4	0.0	0.0
+26265	33	33	0	New Hampshire	488330	Navigational services to shipping	48	0400000US33	2.888888888888889	2.0	213.33333333333334
+26266	33	33	0	New Hampshire	488390	Other support activities for water transportation	48	0400000US33	1.2	0.0	0.0
+26267	33	33	0	New Hampshire	488410	Motor vehicle towing	48	0400000US33	47.666666666666664	212.0	7802.777777777777
+26268	33	33	0	New Hampshire	488490	Other support activities for road transportation	48	0400000US33	11.88888888888889	174.44444444444446	4838.333333333333
+26269	33	33	0	New Hampshire	488510	Freight transportation arrangement	48	0400000US33	32.55555555555556	341.0	21430.11111111111
+26270	33	33	0	New Hampshire	488991	Packing and crating	48	0400000US33	4.222222222222222	10.88888888888889	247.88888888888889
+26271	33	33	0	New Hampshire	492110	Couriers and express delivery services	49	0400000US33	54.666666666666664	2340.0	100204.11111111111
+26272	33	33	0	New Hampshire	492210	Local messengers and local delivery	49	0400000US33	11.88888888888889	130.88888888888889	4204.222222222223
+26273	33	33	0	New Hampshire	493110	General warehousing and storage	49	0400000US33	37.111111111111114	1519.5555555555557	71511.55555555556
+26274	33	33	0	New Hampshire	493120	Refrigerated warehousing and storage	49	0400000US33	3.6666666666666665	54.0	2552.8888888888887
+26275	33	33	0	New Hampshire	493130	Farm product warehousing and storage	49	0400000US33	1.0	0.0	0.0
+26276	33	33	0	New Hampshire	493190	Other warehousing and storage	49	0400000US33	5.222222222222222	128.33333333333334	8779.555555555555
+26277	33	33	0	New Hampshire	511110	Newspaper publishers	51	0400000US33	39.55555555555556	1062.0	36744.444444444445
+26278	33	33	0	New Hampshire	511120	Periodical publishers	51	0400000US33	31.11111111111111	360.8888888888889	24872.444444444445
+26279	33	33	0	New Hampshire	511130	Book publishers	51	0400000US33	14.777777777777779	191.33333333333334	12939.222222222223
+26280	33	33	0	New Hampshire	511140	Directory and mailing list publishers	51	0400000US33	6.222222222222222	58.44444444444444	3434.222222222222
+26281	33	33	0	New Hampshire	511191	Greeting card publishers	51	0400000US33	1.0	0.0	0.0
+26282	33	33	0	New Hampshire	511199	All other publishers	51	0400000US33	3.3333333333333335	7.111111111111111	365.6666666666667
+26283	33	33	0	New Hampshire	511210	Software publishers	51	0400000US33	110.33333333333333	3727.222222222222	444982.1111111111
+26284	33	33	0	New Hampshire	512110	Motion picture and video production	51	0400000US33	31.666666666666668	272.55555555555554	25005.555555555555
+26285	33	33	0	New Hampshire	512131	Motion picture theaters (except drive-ins)	51	0400000US33	23.444444444444443	440.44444444444446	5913.0
+26286	33	33	0	New Hampshire	512132	Drive-in motion picture theaters	51	0400000US33	3.111111111111111	1.6666666666666667	186.0
+26287	33	33	0	New Hampshire	512191	Teleproduction and other postproduction services	51	0400000US33	3.0	4.888888888888889	815.1111111111111
+26288	33	33	0	New Hampshire	512210	Record production	51	0400000US33	1.0	0.0	0.0
+26289	33	33	0	New Hampshire	512240	Sound recording studios	51	0400000US33	4.555555555555555	16.88888888888889	393.0
+26290	33	33	0	New Hampshire	512250	Record production and distribution	51	0400000US33	3.0	0.0	0.0
+26291	33	33	0	New Hampshire	512290	Other sound recording industries	51	0400000US33	1.0	0.0	0.0
+26292	33	33	0	New Hampshire	515111	Radio networks	51	0400000US33	3.1666666666666665	7.333333333333333	263.3333333333333
+26293	33	33	0	New Hampshire	515112	Radio stations	51	0400000US33	30.666666666666668	372.6666666666667	16325.111111111111
+26294	33	33	0	New Hampshire	515120	Television broadcasting	51	0400000US33	5.222222222222222	0.0	0.0
+26295	33	33	0	New Hampshire	515210	Cable and other subscription programming	51	0400000US33	3.8	6.2	520.0
+26296	33	33	0	New Hampshire	517110	Wired telecommunications carriers	51	0400000US33	220.2	2581.6	330291.6
+26297	33	33	0	New Hampshire	517210	Wireless telecommunications carriers (except satellite)	51	0400000US33	56.0	363.0	42111.4
+26298	33	33	0	New Hampshire	517311	Wired telecommunications carriers	51	0400000US33	169.0	4463.0	384126.0
+26299	33	33	0	New Hampshire	517312	Wireless telecommunications carriers (except satellite)	51	0400000US33	88.0	818.0	53253.0
+26300	33	33	0	New Hampshire	517410	Satellite telecommunications	51	0400000US33	3.2222222222222223	6.111111111111111	530.0
+26301	33	33	0	New Hampshire	517911	Telecommunications resellers	51	0400000US33	19.555555555555557	82.33333333333333	2830.3333333333335
+26302	33	33	0	New Hampshire	517919	All other telecommunications	51	0400000US33	9.0	62.55555555555556	5402.111111111111
+26303	33	33	0	New Hampshire	518210	Data processing, hosting, and related services	51	0400000US33	85.88888888888889	2262.5555555555557	177872.33333333334
+26304	33	33	0	New Hampshire	519110	News syndicates	51	0400000US33	1.0	0.0	0.0
+26305	33	33	0	New Hampshire	519120	Libraries and archives	51	0400000US33	23.22222222222222	118.44444444444444	2243.6666666666665
+26306	33	33	0	New Hampshire	519130	Internet publishing and broadcasting and web search portals	51	0400000US33	28.77777777777778	162.44444444444446	15854.0
+26307	33	33	0	New Hampshire	519190	All other information services	51	0400000US33	4.111111111111111	31.77777777777778	2368.5555555555557
+26308	33	33	0	New Hampshire	522110	Commercial banking	52	0400000US33	286.8888888888889	3118.6666666666665	201619.0
+26309	33	33	0	New Hampshire	522120	Savings institutions	52	0400000US33	176.88888888888889	2247.8888888888887	130230.88888888889
+26310	33	33	0	New Hampshire	522130	Credit unions	52	0400000US33	107.0	1651.6666666666667	88516.55555555556
+26311	33	33	0	New Hampshire	522210	Credit card issuing	52	0400000US33	2.8	0.0	0.0
+26312	33	33	0	New Hampshire	522220	Sales financing	52	0400000US33	21.22222222222222	157.11111111111111	20123.88888888889
+26313	33	33	0	New Hampshire	522291	Consumer lending	52	0400000US33	23.333333333333332	75.66666666666667	3025.4444444444443
+26314	33	33	0	New Hampshire	522292	Real estate credit	52	0400000US33	74.11111111111111	605.5555555555555	63908.88888888889
+26315	33	33	0	New Hampshire	522293	International trade financing	52	0400000US33	1.8	0.0	0.0
+26316	33	33	0	New Hampshire	522298	All other nondepository credit intermediation	52	0400000US33	19.0	134.77777777777777	7866.888888888889
+26317	33	33	0	New Hampshire	522310	Mortgage and nonmortgage loan brokers	52	0400000US33	28.555555555555557	197.22222222222223	15621.888888888889
+26318	33	33	0	New Hampshire	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US33	12.555555555555555	0.0	0.0
+26319	33	33	0	New Hampshire	522390	Other activities related to credit intermediation	52	0400000US33	8.333333333333334	30.22222222222222	4655.222222222223
+26320	33	33	0	New Hampshire	523110	Investment banking and securities dealing	52	0400000US33	9.555555555555555	25.22222222222222	3582.222222222222
+26321	33	33	0	New Hampshire	523120	Securities brokerage	52	0400000US33	135.44444444444446	1471.2222222222222	184887.77777777778
+26322	33	33	0	New Hampshire	523130	Commodity contracts dealing	52	0400000US33	2.0	6.222222222222222	525.7777777777778
+26323	33	33	0	New Hampshire	523140	Commodity contracts brokerage	52	0400000US33	1.3333333333333333	0.0	0.0
+26324	33	33	0	New Hampshire	523910	Miscellaneous intermediation	52	0400000US33	21.77777777777778	111.22222222222223	12199.888888888889
+26325	33	33	0	New Hampshire	523920	Portfolio management	52	0400000US33	198.66666666666666	1831.5555555555557	283100.44444444444
+26326	33	33	0	New Hampshire	523930	Investment advice	52	0400000US33	109.88888888888889	452.3333333333333	62349.0
+26327	33	33	0	New Hampshire	523991	Trust, fiduciary, and custody activities	52	0400000US33	18.77777777777778	52.55555555555556	5328.111111111111
+26328	33	33	0	New Hampshire	523999	Miscellaneous financial investment activities	52	0400000US33	4.25	0.0	0.0
+26329	33	33	0	New Hampshire	524113	Direct life insurance carriers	52	0400000US33	58.0	1724.6666666666667	130528.33333333333
+26330	33	33	0	New Hampshire	524114	Direct health and medical insurance carriers	52	0400000US33	26.88888888888889	2173.222222222222	161364.33333333334
+26331	33	33	0	New Hampshire	524126	Direct property and casualty insurance carriers	52	0400000US33	102.55555555555556	3911.3333333333335	423749.6666666667
+26332	33	33	0	New Hampshire	524127	Direct title insurance carriers	52	0400000US33	8.222222222222221	39.666666666666664	3756.0
+26333	33	33	0	New Hampshire	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US33	2.142857142857143	0.0	0.0
+26334	33	33	0	New Hampshire	524130	Reinsurance carriers	52	0400000US33	3.0	0.0	574.1111111111111
+26335	33	33	0	New Hampshire	524210	Insurance agencies and brokerages	52	0400000US33	457.0	2699.222222222222	200830.66666666666
+26336	33	33	0	New Hampshire	524291	Claims adjusting	52	0400000US33	28.333333333333332	217.55555555555554	26902.222222222223
+26337	33	33	0	New Hampshire	524292	Third party administration of insurance and pension funds	52	0400000US33	26.333333333333332	769.8888888888889	42229.77777777778
+26338	33	33	0	New Hampshire	524298	All other insurance related activities	52	0400000US33	9.333333333333334	82.33333333333333	5537.666666666667
+26339	33	33	0	New Hampshire	525990	Other financial vehicles	52	0400000US33	2.5	0.25	20.25
+26340	33	33	0	New Hampshire	531110	Lessors of residential buildings and dwellings	53	0400000US33	210.88888888888889	971.1111111111111	33314.555555555555
+26341	33	33	0	New Hampshire	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US33	129.11111111111111	483.55555555555554	21841.222222222223
+26342	33	33	0	New Hampshire	531130	Lessors of miniwarehouses and self-storage units	53	0400000US33	73.22222222222223	160.77777777777777	4738.222222222223
+26343	33	33	0	New Hampshire	531190	Lessors of other real estate property	53	0400000US33	70.0	185.0	8679.555555555555
+26344	33	33	0	New Hampshire	531210	Offices of real estate agents and brokers	53	0400000US33	317.6666666666667	1049.6666666666667	50083.22222222222
+26345	33	33	0	New Hampshire	531311	Residential property managers	53	0400000US33	228.55555555555554	1709.7777777777778	81077.22222222222
+26346	33	33	0	New Hampshire	531312	Nonresidential property managers	53	0400000US33	71.55555555555556	399.3333333333333	21101.222222222223
+26347	33	33	0	New Hampshire	531320	Offices of real estate appraisers	53	0400000US33	40.888888888888886	123.77777777777777	6908.666666666667
+26348	33	33	0	New Hampshire	531390	Other activities related to real estate	53	0400000US33	43.666666666666664	221.77777777777777	13047.666666666666
+26349	33	33	0	New Hampshire	532111	Passenger car rental	53	0400000US33	32.22222222222222	219.44444444444446	7874.333333333333
+26350	33	33	0	New Hampshire	532112	Passenger car leasing	53	0400000US33	1.0	0.0	0.0
+26351	33	33	0	New Hampshire	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US33	34.22222222222222	245.0	15251.222222222223
+26352	33	33	0	New Hampshire	532210	Consumer electronics and appliances rental	53	0400000US33	26.666666666666668	10.222222222222221	199.33333333333334
+26353	33	33	0	New Hampshire	532220	Formal wear and costume rental	53	0400000US33	5.6	15.0	264.2
+26354	33	33	0	New Hampshire	532230	Video tape and disc rental	53	0400000US33	10.8	39.6	757.4
+26355	33	33	0	New Hampshire	532281	Formal wear and costume rental	53	0400000US33	5.0	12.0	196.0
+26356	33	33	0	New Hampshire	532282	Video tape and disc rental	53	0400000US33	4.0	16.0	399.0
+26357	33	33	0	New Hampshire	532283	Home health equipment rental	53	0400000US33	18.0	133.0	5681.0
+26358	33	33	0	New Hampshire	532284	Recreational goods rental	53	0400000US33	20.0	59.0	1337.0
+26359	33	33	0	New Hampshire	532289	All other consumer goods rental	53	0400000US33	26.0	157.0	7724.0
+26360	33	33	0	New Hampshire	532291	Home health equipment rental	53	0400000US33	19.8	81.8	7056.2
+26361	33	33	0	New Hampshire	532292	Recreational goods rental	53	0400000US33	15.8	24.6	1076.8
+26362	33	33	0	New Hampshire	532299	All other consumer goods rental	53	0400000US33	30.4	122.8	6572.8
+26363	33	33	0	New Hampshire	532310	General rental centers	53	0400000US33	20.22222222222222	125.0	5536.0
+26364	33	33	0	New Hampshire	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US33	1.0	0.0	0.0
+26365	33	33	0	New Hampshire	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US33	11.11111111111111	61.888888888888886	3976.1111111111113
+26366	33	33	0	New Hampshire	532420	Office machinery and equipment rental and leasing	53	0400000US33	1.8	0.0	0.0
+26367	33	33	0	New Hampshire	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US33	29.22222222222222	307.8888888888889	20153.666666666668
+26368	33	33	0	New Hampshire	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US33	9.444444444444445	16.88888888888889	2572.3333333333335
+26369	33	33	0	New Hampshire	541110	Offices of lawyers	54	0400000US33	660.6666666666666	3564.8888888888887	284950.0
+26370	33	33	0	New Hampshire	541191	Title abstract and settlement offices	54	0400000US33	56.44444444444444	299.77777777777777	17693.666666666668
+26371	33	33	0	New Hampshire	541199	All other legal services	54	0400000US33	5.0	0.4	23.4
+26372	33	33	0	New Hampshire	541211	Offices of certified public accountants	54	0400000US33	215.55555555555554	1276.5555555555557	92729.22222222222
+26373	33	33	0	New Hampshire	541213	Tax preparation services	54	0400000US33	118.66666666666667	658.7777777777778	8504.222222222223
+26374	33	33	0	New Hampshire	541214	Payroll services	54	0400000US33	39.666666666666664	2699.0	72670.66666666667
+26375	33	33	0	New Hampshire	541219	Other accounting services	54	0400000US33	163.44444444444446	1122.0	55149.444444444445
+26376	33	33	0	New Hampshire	541310	Architectural services	54	0400000US33	68.88888888888889	342.0	25692.88888888889
+26377	33	33	0	New Hampshire	541320	Landscape architectural services	54	0400000US33	21.333333333333332	48.44444444444444	3171.6666666666665
+26378	33	33	0	New Hampshire	541330	Engineering services	54	0400000US33	355.0	3794.5555555555557	327096.44444444444
+26379	33	33	0	New Hampshire	541340	Drafting services	54	0400000US33	19.555555555555557	39.44444444444444	2538.8888888888887
+26380	33	33	0	New Hampshire	541350	Building inspection services	54	0400000US33	20.666666666666668	48.333333333333336	2372.777777777778
+26381	33	33	0	New Hampshire	541360	Geophysical surveying and mapping services	54	0400000US33	1.0	0.0	0.0
+26382	33	33	0	New Hampshire	541370	Surveying and mapping (except geophysical) services	54	0400000US33	58.111111111111114	219.88888888888889	9644.888888888889
+26383	33	33	0	New Hampshire	541380	Testing laboratories	54	0400000US33	39.77777777777778	407.3333333333333	22702.777777777777
+26384	33	33	0	New Hampshire	541410	Interior design services	54	0400000US33	27.666666666666668	52.22222222222222	1772.3333333333333
+26385	33	33	0	New Hampshire	541420	Industrial design services	54	0400000US33	3.4	0.0	0.0
+26386	33	33	0	New Hampshire	541430	Graphic design services	54	0400000US33	56.333333333333336	203.22222222222223	10895.777777777777
+26387	33	33	0	New Hampshire	541490	Other specialized design services	54	0400000US33	4.111111111111111	2.888888888888889	158.11111111111111
+26388	33	33	0	New Hampshire	541511	Custom computer programming services	54	0400000US33	347.55555555555554	3099.222222222222	270453.1111111111
+26389	33	33	0	New Hampshire	541512	Computer systems design services	54	0400000US33	245.44444444444446	2623.3333333333335	257902.88888888888
+26390	33	33	0	New Hampshire	541513	Computer facilities management services	54	0400000US33	39.0	327.6666666666667	24573.333333333332
+26391	33	33	0	New Hampshire	541519	Other computer related services	54	0400000US33	34.666666666666664	289.1111111111111	31462.88888888889
+26392	33	33	0	New Hampshire	541611	Administrative management and general management consulting services	54	0400000US33	253.0	1274.3333333333333	105851.22222222222
+26393	33	33	0	New Hampshire	541612	Human resources consulting services	54	0400000US33	29.333333333333332	303.55555555555554	16353.555555555555
+26394	33	33	0	New Hampshire	541613	Marketing consulting services	54	0400000US33	120.0	515.3333333333334	35096.666666666664
+26395	33	33	0	New Hampshire	541614	Process, physical distribution, and logistics consulting services	54	0400000US33	32.333333333333336	316.44444444444446	27006.11111111111
+26396	33	33	0	New Hampshire	541618	Other management consulting services	54	0400000US33	12.11111111111111	59.666666666666664	7933.888888888889
+26397	33	33	0	New Hampshire	541620	Environmental consulting services	54	0400000US33	55.111111111111114	469.6666666666667	30953.444444444445
+26398	33	33	0	New Hampshire	541690	Other scientific and technical consulting services	54	0400000US33	77.44444444444444	427.44444444444446	39030.333333333336
+26399	33	33	0	New Hampshire	541711	Research and development in biotechnology	54	0400000US33	14.4	124.8	20528.2
+26400	33	33	0	New Hampshire	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US33	78.4	1433.4	141172.8
+26401	33	33	0	New Hampshire	541713	Research and development in nanotechnology	54	0400000US33	18.0	193.0	17305.0
+26402	33	33	0	New Hampshire	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US33	9.0	170.0	14856.0
+26403	33	33	0	New Hampshire	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US33	55.0	1490.0	156530.0
+26404	33	33	0	New Hampshire	541720	Research and development in the social sciences and humanities	54	0400000US33	9.333333333333334	52.44444444444444	2373.777777777778
+26405	33	33	0	New Hampshire	541810	Advertising agencies	54	0400000US33	48.111111111111114	319.6666666666667	20754.444444444445
+26406	33	33	0	New Hampshire	541820	Public relations agencies	54	0400000US33	20.22222222222222	75.44444444444444	7357.333333333333
+26407	33	33	0	New Hampshire	541830	Media buying agencies	54	0400000US33	3.4444444444444446	10.11111111111111	710.0
+26408	33	33	0	New Hampshire	541840	Media representatives	54	0400000US33	5.0	41.888888888888886	2643.777777777778
+26409	33	33	0	New Hampshire	541850	Outdoor advertising	54	0400000US33	5.333333333333333	17.11111111111111	1675.0
+26410	33	33	0	New Hampshire	541860	Direct mail advertising	54	0400000US33	15.555555555555555	169.66666666666666	11429.222222222223
+26411	33	33	0	New Hampshire	541870	Advertising material distribution services	54	0400000US33	4.4	59.0	542.0
+26412	33	33	0	New Hampshire	541890	Other services related to advertising	54	0400000US33	36.666666666666664	654.4444444444445	10542.888888888889
+26413	33	33	0	New Hampshire	541910	Marketing research and public opinion polling	54	0400000US33	28.444444444444443	522.7777777777778	31236.11111111111
+26414	33	33	0	New Hampshire	541921	Photography studios, portrait	54	0400000US33	46.77777777777778	192.88888888888889	4582.777777777777
+26415	33	33	0	New Hampshire	541922	Commercial photography	54	0400000US33	6.222222222222222	8.11111111111111	253.44444444444446
+26416	33	33	0	New Hampshire	541930	Translation and interpretation services	54	0400000US33	5.222222222222222	10.333333333333334	507.77777777777777
+26417	33	33	0	New Hampshire	541940	Veterinary services	54	0400000US33	191.77777777777777	2079.8888888888887	80784.66666666667
+26418	33	33	0	New Hampshire	541990	All other professional, scientific, and technical services	54	0400000US33	47.55555555555556	164.66666666666666	12593.666666666666
+26419	33	33	0	New Hampshire	551111	Offices of bank holding companies	55	0400000US33	1.25	0.0	0.0
+26420	33	33	0	New Hampshire	551112	Offices of other holding companies	55	0400000US33	25.88888888888889	246.33333333333334	22890.88888888889
+26421	33	33	0	New Hampshire	551114	Corporate, subsidiary, and regional managing offices	55	0400000US33	191.33333333333334	8308.888888888889	722044.0
+26422	33	33	0	New Hampshire	561110	Office administrative services	56	0400000US33	136.33333333333334	1355.7777777777778	105711.77777777778
+26423	33	33	0	New Hampshire	561210	Facilities support services	56	0400000US33	21.77777777777778	523.7777777777778	29229.0
+26424	33	33	0	New Hampshire	561311	Employment placement agencies	56	0400000US33	26.11111111111111	800.7777777777778	28966.444444444445
+26425	33	33	0	New Hampshire	561312	Executive search services	56	0400000US33	24.333333333333332	95.77777777777777	9537.222222222223
+26426	33	33	0	New Hampshire	561320	Temporary help services	56	0400000US33	198.11111111111111	11628.666666666666	438124.6666666667
+26427	33	33	0	New Hampshire	561330	Professional employer organizations	56	0400000US33	13.0	13637.111111111111	748806.1111111111
+26428	33	33	0	New Hampshire	561410	Document preparation services	56	0400000US33	14.777777777777779	208.44444444444446	4663.444444444444
+26429	33	33	0	New Hampshire	561421	Telephone answering services	56	0400000US33	7.0	75.66666666666667	2210.5555555555557
+26430	33	33	0	New Hampshire	561422	Telemarketing bureaus and other contact centers	56	0400000US33	20.333333333333332	385.1111111111111	13881.555555555555
+26431	33	33	0	New Hampshire	561431	Private mail centers	56	0400000US33	21.11111111111111	72.88888888888889	1699.6666666666667
+26432	33	33	0	New Hampshire	561439	Other business service centers (including copy shops)	56	0400000US33	18.444444444444443	48.77777777777778	2598.222222222222
+26433	33	33	0	New Hampshire	561440	Collection agencies	56	0400000US33	18.666666666666668	1097.111111111111	46906.333333333336
+26434	33	33	0	New Hampshire	561450	Credit bureaus	56	0400000US33	3.111111111111111	5.444444444444445	432.3333333333333
+26435	33	33	0	New Hampshire	561491	Repossession services	56	0400000US33	6.333333333333333	42.55555555555556	1902.5555555555557
+26436	33	33	0	New Hampshire	561492	Court reporting and stenotype services	56	0400000US33	3.2	1.8	91.4
+26437	33	33	0	New Hampshire	561499	All other business support services	56	0400000US33	14.0	154.44444444444446	5166.111111111111
+26438	33	33	0	New Hampshire	561510	Travel agencies	56	0400000US33	77.77777777777777	424.6666666666667	19524.333333333332
+26439	33	33	0	New Hampshire	561520	Tour operators	56	0400000US33	16.0	84.44444444444444	4076.8888888888887
+26440	33	33	0	New Hampshire	561591	Convention and visitors bureaus	56	0400000US33	4.777777777777778	13.555555555555555	586.5555555555555
+26441	33	33	0	New Hampshire	561599	All other travel arrangement and reservation services	56	0400000US33	15.0	122.0	6324.333333333333
+26442	33	33	0	New Hampshire	561611	Investigation services	56	0400000US33	14.666666666666666	163.22222222222223	8388.888888888889
+26443	33	33	0	New Hampshire	561612	Security guards and patrol services	56	0400000US33	24.11111111111111	1526.4444444444443	45448.77777777778
+26444	33	33	0	New Hampshire	561613	Armored car services	56	0400000US33	1.2	0.0	0.0
+26445	33	33	0	New Hampshire	561621	Security systems services (except locksmiths)	56	0400000US33	38.55555555555556	476.77777777777777	22656.88888888889
+26446	33	33	0	New Hampshire	561622	Locksmiths	56	0400000US33	12.777777777777779	40.0	2097.6666666666665
+26447	33	33	0	New Hampshire	561710	Exterminating and pest control services	56	0400000US33	33.22222222222222	260.77777777777777	14870.222222222223
+26448	33	33	0	New Hampshire	561720	Janitorial services	56	0400000US33	324.77777777777777	3004.6666666666665	64492.333333333336
+26449	33	33	0	New Hampshire	561730	Landscaping services	56	0400000US33	868.5555555555555	3744.4444444444443	152605.11111111112
+26450	33	33	0	New Hampshire	561740	Carpet and upholstery cleaning services	56	0400000US33	28.555555555555557	51.44444444444444	2206.8888888888887
+26451	33	33	0	New Hampshire	561790	Other services to buildings and dwellings	56	0400000US33	66.66666666666667	244.33333333333334	10705.0
+26452	33	33	0	New Hampshire	561910	Packaging and labeling services	56	0400000US33	3.2222222222222223	62.333333333333336	2229.1111111111113
+26453	33	33	0	New Hampshire	561920	Convention and trade show organizers	56	0400000US33	21.0	84.22222222222223	7420.555555555556
+26454	33	33	0	New Hampshire	561990	All other support services	56	0400000US33	56.55555555555556	533.5555555555555	34548.0
+26455	33	33	0	New Hampshire	562111	Solid waste collection	56	0400000US33	85.77777777777777	895.3333333333334	53242.0
+26456	33	33	0	New Hampshire	562112	Hazardous waste collection	56	0400000US33	2.0	0.0	0.0
+26457	33	33	0	New Hampshire	562119	Other waste collection	56	0400000US33	2.2222222222222223	4.0	415.1111111111111
+26458	33	33	0	New Hampshire	562211	Hazardous waste treatment and disposal	56	0400000US33	6.333333333333333	25.666666666666668	1526.4444444444443
+26459	33	33	0	New Hampshire	562212	Solid waste landfill	56	0400000US33	3.2222222222222223	28.555555555555557	1442.6666666666667
+26460	33	33	0	New Hampshire	562213	Solid waste combustors and incinerators	56	0400000US33	1.2	0.0	0.0
+26461	33	33	0	New Hampshire	562219	Other nonhazardous waste treatment and disposal	56	0400000US33	3.7777777777777777	0.0	0.0
+26462	33	33	0	New Hampshire	562910	Remediation services	56	0400000US33	28.333333333333332	451.22222222222223	27664.777777777777
+26463	33	33	0	New Hampshire	562920	Materials recovery facilities	56	0400000US33	5.222222222222222	40.111111111111114	2143.8888888888887
+26464	33	33	0	New Hampshire	562991	Septic tank and related services	56	0400000US33	42.111111111111114	179.33333333333334	7831.333333333333
+26465	33	33	0	New Hampshire	562998	All other miscellaneous waste management services	56	0400000US33	5.444444444444445	20.88888888888889	1410.0
+26466	33	33	0	New Hampshire	611110	Elementary and secondary schools	61	0400000US33	154.22222222222223	7159.666666666667	262583.77777777775
+26467	33	33	0	New Hampshire	611210	Junior colleges	61	0400000US33	3.0	0.0	0.0
+26468	33	33	0	New Hampshire	611310	Colleges, universities, and professional schools	61	0400000US33	28.11111111111111	14030.555555555555	616183.4444444445
+26469	33	33	0	New Hampshire	611410	Business and secretarial schools	61	0400000US33	1.0	0.0	0.0
+26470	33	33	0	New Hampshire	611420	Computer training	61	0400000US33	6.888888888888889	16.555555555555557	1036.7777777777778
+26471	33	33	0	New Hampshire	611430	Professional and management development training	61	0400000US33	36.666666666666664	317.3333333333333	31123.0
+26472	33	33	0	New Hampshire	611511	Cosmetology and barber schools	61	0400000US33	9.88888888888889	124.33333333333333	4785.666666666667
+26473	33	33	0	New Hampshire	611512	Flight training	61	0400000US33	5.111111111111111	23.88888888888889	696.7777777777778
+26474	33	33	0	New Hampshire	611513	Apprenticeship training	61	0400000US33	1.2	0.0	0.0
+26475	33	33	0	New Hampshire	611519	Other technical and trade schools	61	0400000US33	24.77777777777778	195.66666666666666	6935.666666666667
+26476	33	33	0	New Hampshire	611610	Fine arts schools	61	0400000US33	88.0	753.3333333333334	12262.111111111111
+26477	33	33	0	New Hampshire	611620	Sports and recreation instruction	61	0400000US33	111.88888888888889	1004.2222222222222	15319.777777777777
+26478	33	33	0	New Hampshire	611630	Language schools	61	0400000US33	2.6	0.0	81.8
+26479	33	33	0	New Hampshire	611691	Exam preparation and tutoring	61	0400000US33	35.44444444444444	527.5555555555555	8142.111111111111
+26480	33	33	0	New Hampshire	611692	Automobile driving schools	61	0400000US33	30.444444444444443	99.22222222222223	2965.6666666666665
+26481	33	33	0	New Hampshire	611699	All other miscellaneous schools and instruction	61	0400000US33	51.55555555555556	195.77777777777777	6194.111111111111
+26482	33	33	0	New Hampshire	611710	Educational support services	61	0400000US33	36.55555555555556	441.77777777777777	27733.333333333332
+26483	33	33	0	New Hampshire	621111	Offices of physicians (except mental health specialists)	62	0400000US33	702.8888888888889	8794.555555555555	860351.6666666666
+26484	33	33	0	New Hampshire	621112	Offices of physicians, mental health specialists	62	0400000US33	38.55555555555556	208.22222222222223	14488.444444444445
+26485	33	33	0	New Hampshire	621210	Offices of dentists	62	0400000US33	613.8888888888889	4597.555555555556	280893.0
+26486	33	33	0	New Hampshire	621310	Offices of chiropractors	62	0400000US33	167.22222222222223	485.8888888888889	14306.444444444445
+26487	33	33	0	New Hampshire	621320	Offices of optometrists	62	0400000US33	87.22222222222223	578.3333333333334	24930.222222222223
+26488	33	33	0	New Hampshire	621330	Offices of mental health practitioners (except physicians)	62	0400000US33	71.11111111111111	401.8888888888889	15693.222222222223
+26489	33	33	0	New Hampshire	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US33	208.33333333333334	1580.0	70181.77777777778
+26490	33	33	0	New Hampshire	621391	Offices of podiatrists	62	0400000US33	23.333333333333332	113.55555555555556	7621.777777777777
+26491	33	33	0	New Hampshire	621399	Offices of all other miscellaneous health practitioners	62	0400000US33	80.88888888888889	254.88888888888889	11408.555555555555
+26492	33	33	0	New Hampshire	621410	Family planning centers	62	0400000US33	20.0	141.0	5177.666666666667
+26493	33	33	0	New Hampshire	621420	Outpatient mental health and substance abuse centers	62	0400000US33	56.888888888888886	1594.5555555555557	70927.11111111111
+26494	33	33	0	New Hampshire	621491	HMO medical centers	62	0400000US33	1.0	0.0	0.0
+26495	33	33	0	New Hampshire	621492	Kidney dialysis centers	62	0400000US33	19.0	185.22222222222223	9248.111111111111
+26496	33	33	0	New Hampshire	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US33	34.22222222222222	827.0	43925.11111111111
+26497	33	33	0	New Hampshire	621498	All other outpatient care centers	62	0400000US33	55.888888888888886	3360.222222222222	344055.8888888889
+26498	33	33	0	New Hampshire	621511	Medical laboratories	62	0400000US33	41.77777777777778	205.55555555555554	18165.555555555555
+26499	33	33	0	New Hampshire	621512	Diagnostic imaging centers	62	0400000US33	11.333333333333334	232.22222222222223	13055.666666666666
+26500	33	33	0	New Hampshire	621610	Home health care services	62	0400000US33	102.11111111111111	4845.666666666667	164431.66666666666
+26501	33	33	0	New Hampshire	621910	Ambulance services	62	0400000US33	33.333333333333336	872.5555555555555	26459.88888888889
+26502	33	33	0	New Hampshire	621999	All other miscellaneous ambulatory health care services	62	0400000US33	19.11111111111111	252.33333333333334	17532.777777777777
+26503	33	33	0	New Hampshire	622110	General medical and surgical hospitals	62	0400000US33	27.555555555555557	26165.222222222223	1477076.111111111
+26504	33	33	0	New Hampshire	622210	Psychiatric and substance abuse hospitals	62	0400000US33	2.0	0.0	0.0
+26505	33	33	0	New Hampshire	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US33	5.666666666666667	507.1111111111111	29763.222222222223
+26506	33	33	0	New Hampshire	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US33	91.33333333333333	7276.888888888889	240155.11111111112
+26507	33	33	0	New Hampshire	623210	Residential intellectual and developmental disability facilities	62	0400000US33	54.44444444444444	2721.0	71063.22222222222
+26508	33	33	0	New Hampshire	623220	Residential mental health and substance abuse facilities	62	0400000US33	24.88888888888889	595.1111111111111	20578.666666666668
+26509	33	33	0	New Hampshire	623311	Continuing care retirement communities	62	0400000US33	37.77777777777778	3149.3333333333335	85861.44444444444
+26510	33	33	0	New Hampshire	623312	Assisted living facilities for the elderly	62	0400000US33	84.0	1555.7777777777778	37713.77777777778
+26511	33	33	0	New Hampshire	623990	Other residential care facilities	62	0400000US33	15.666666666666666	464.44444444444446	11693.888888888889
+26512	33	33	0	New Hampshire	624110	Child and youth services	62	0400000US33	52.44444444444444	701.0	20321.0
+26513	33	33	0	New Hampshire	624120	Services for the elderly and persons with disabilities	62	0400000US33	130.77777777777777	5443.888888888889	105849.0
+26514	33	33	0	New Hampshire	624190	Other individual and family services	62	0400000US33	152.66666666666666	2049.3333333333335	57785.333333333336
+26515	33	33	0	New Hampshire	624210	Community food services	62	0400000US33	51.111111111111114	309.6666666666667	6053.444444444444
+26516	33	33	0	New Hampshire	624221	Temporary shelters	62	0400000US33	23.333333333333332	189.66666666666666	4325.555555555556
+26517	33	33	0	New Hampshire	624229	Other community housing services	62	0400000US33	23.444444444444443	311.3333333333333	13005.111111111111
+26518	33	33	0	New Hampshire	624230	Emergency and other relief services	62	0400000US33	5.4	96.6	2947.8
+26519	33	33	0	New Hampshire	624310	Vocational rehabilitation services	62	0400000US33	45.333333333333336	951.7777777777778	24711.222222222223
+26520	33	33	0	New Hampshire	624410	Child day care services	62	0400000US33	480.77777777777777	5168.111111111111	104649.11111111111
+26521	33	33	0	New Hampshire	711110	Theater companies and dinner theaters	71	0400000US33	26.22222222222222	186.88888888888889	4456.222222222223
+26522	33	33	0	New Hampshire	711130	Musical groups and artists	71	0400000US33	15.0	18.0	955.2222222222222
+26523	33	33	0	New Hampshire	711190	Other performing arts companies	71	0400000US33	3.0	0.0	0.0
+26524	33	33	0	New Hampshire	711211	Sports teams and clubs	71	0400000US33	4.111111111111111	199.33333333333334	2463.4444444444443
+26525	33	33	0	New Hampshire	711212	Racetracks	71	0400000US33	10.222222222222221	159.88888888888889	6658.0
+26526	33	33	0	New Hampshire	711219	Other spectator sports	71	0400000US33	4.444444444444445	25.77777777777778	749.8888888888889
+26527	33	33	0	New Hampshire	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US33	25.22222222222222	448.55555555555554	10061.111111111111
+26528	33	33	0	New Hampshire	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US33	18.555555555555557	78.77777777777777	4915.111111111111
+26529	33	33	0	New Hampshire	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US33	3.2222222222222223	10.0	318.0
+26530	33	33	0	New Hampshire	711510	Independent artists, writers, and performers	71	0400000US33	45.111111111111114	100.66666666666667	31456.444444444445
+26531	33	33	0	New Hampshire	712110	Museums	71	0400000US33	42.55555555555556	350.3333333333333	8524.555555555555
+26532	33	33	0	New Hampshire	712120	Historical sites	71	0400000US33	17.333333333333332	51.0	2162.4444444444443
+26533	33	33	0	New Hampshire	712130	Zoos and botanical gardens	71	0400000US33	2.4444444444444446	0.0	0.0
+26534	33	33	0	New Hampshire	712190	Nature parks and other similar institutions	71	0400000US33	8.222222222222221	15.11111111111111	1106.888888888889
+26535	33	33	0	New Hampshire	713110	Amusement and theme parks	71	0400000US33	11.333333333333334	178.55555555555554	18368.666666666668
+26536	33	33	0	New Hampshire	713120	Amusement arcades	71	0400000US33	34.666666666666664	215.88888888888889	5037.444444444444
+26537	33	33	0	New Hampshire	713210	Casinos (except casino hotels)	71	0400000US33	1.0	0.0	0.0
+26538	33	33	0	New Hampshire	713290	Other gambling industries	71	0400000US33	10.333333333333334	262.44444444444446	6465.0
+26539	33	33	0	New Hampshire	713910	Golf courses and country clubs	71	0400000US33	76.44444444444444	1041.3333333333333	48588.0
+26540	33	33	0	New Hampshire	713920	Skiing facilities	71	0400000US33	11.666666666666666	2677.777777777778	21634.88888888889
+26541	33	33	0	New Hampshire	713930	Marinas	71	0400000US33	32.77777777777778	147.22222222222223	8776.333333333334
+26542	33	33	0	New Hampshire	713940	Fitness and recreational sports centers	71	0400000US33	230.0	4683.111111111111	61260.11111111111
+26543	33	33	0	New Hampshire	713950	Bowling centers	71	0400000US33	17.11111111111111	242.0	4201.666666666667
+26544	33	33	0	New Hampshire	713990	All other amusement and recreation industries	71	0400000US33	137.66666666666666	906.2222222222222	21984.444444444445
+26545	33	33	0	New Hampshire	721110	Hotels (except casino hotels) and motels	72	0400000US33	326.44444444444446	7747.0	181015.11111111112
+26546	33	33	0	New Hampshire	721191	Bed-and-breakfast inns	72	0400000US33	75.0	426.44444444444446	7296.222222222223
+26547	33	33	0	New Hampshire	721199	All other traveler accommodation	72	0400000US33	25.555555555555557	74.0	2762.5555555555557
+26548	33	33	0	New Hampshire	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US33	84.0	184.33333333333334	8260.888888888889
+26549	33	33	0	New Hampshire	721214	Recreational and vacation camps (except campgrounds)	72	0400000US33	69.66666666666667	320.55555555555554	22987.777777777777
+26550	33	33	0	New Hampshire	721310	Rooming and boarding houses	72	0400000US33	7.666666666666667	28.666666666666668	581.0
+26551	33	33	0	New Hampshire	722310	Food service contractors	72	0400000US33	205.33333333333334	1966.111111111111	41030.22222222222
+26552	33	33	0	New Hampshire	722320	Caterers	72	0400000US33	56.22222222222222	358.8888888888889	8241.111111111111
+26553	33	33	0	New Hampshire	722330	Mobile food services	72	0400000US33	16.11111111111111	20.22222222222222	327.3333333333333
+26554	33	33	0	New Hampshire	722410	Drinking places (alcoholic beverages)	72	0400000US33	29.88888888888889	441.0	9759.444444444445
+26555	33	33	0	New Hampshire	722511	Full-service restaurants	72	0400000US33	1313.111111111111	26567.333333333332	531573.7777777778
+26556	33	33	0	New Hampshire	722513	Limited-service restaurants	72	0400000US33	1044.6666666666667	13211.333333333334	203751.11111111112
+26557	33	33	0	New Hampshire	722514	Cafeterias, grill buffets, and buffets	72	0400000US33	4.111111111111111	21.666666666666668	472.8888888888889
+26558	33	33	0	New Hampshire	722515	Snack and nonalcoholic beverage bars	72	0400000US33	454.44444444444446	4817.777777777777	74660.77777777778
+26559	33	33	0	New Hampshire	811111	General automotive repair	81	0400000US33	637.7777777777778	2445.3333333333335	96156.44444444444
+26560	33	33	0	New Hampshire	811112	Automotive exhaust system repair	81	0400000US33	9.333333333333334	32.666666666666664	1125.5555555555557
+26561	33	33	0	New Hampshire	811113	Automotive transmission repair	81	0400000US33	18.22222222222222	51.333333333333336	3290.0
+26562	33	33	0	New Hampshire	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US33	24.444444444444443	93.44444444444444	4683.777777777777
+26563	33	33	0	New Hampshire	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US33	184.11111111111111	1113.111111111111	53040.22222222222
+26564	33	33	0	New Hampshire	811122	Automotive glass replacement shops	81	0400000US33	29.555555555555557	162.22222222222223	6250.444444444444
+26565	33	33	0	New Hampshire	811191	Automotive oil change and lubrication shops	81	0400000US33	38.888888888888886	297.77777777777777	8044.111111111111
+26566	33	33	0	New Hampshire	811192	Car washes	81	0400000US33	72.0	402.6666666666667	11562.555555555555
+26567	33	33	0	New Hampshire	811198	All other automotive repair and maintenance	81	0400000US33	8.444444444444445	13.88888888888889	639.8888888888889
+26568	33	33	0	New Hampshire	811211	Consumer electronics repair and maintenance	81	0400000US33	8.0	11.0	370.6666666666667
+26569	33	33	0	New Hampshire	811212	Computer and office machine repair and maintenance	81	0400000US33	31.11111111111111	134.66666666666666	6257.0
+26570	33	33	0	New Hampshire	811213	Communication equipment repair and maintenance	81	0400000US33	7.888888888888889	19.0	1459.111111111111
+26571	33	33	0	New Hampshire	811219	Other electronic and precision equipment repair and maintenance	81	0400000US33	28.22222222222222	246.55555555555554	17101.0
+26572	33	33	0	New Hampshire	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US33	83.22222222222223	522.4444444444445	28774.88888888889
+26573	33	33	0	New Hampshire	811411	Home and garden equipment repair and maintenance	81	0400000US33	13.0	27.333333333333332	879.3333333333334
+26574	33	33	0	New Hampshire	811412	Appliance repair and maintenance	81	0400000US33	19.88888888888889	64.55555555555556	2580.8888888888887
+26575	33	33	0	New Hampshire	811420	Reupholstery and furniture repair	81	0400000US33	14.0	48.111111111111114	1741.5555555555557
+26576	33	33	0	New Hampshire	811430	Footwear and leather goods repair	81	0400000US33	1.2	0.0	0.0
+26577	33	33	0	New Hampshire	811490	Other personal and household goods repair and maintenance	81	0400000US33	55.55555555555556	154.22222222222223	5488.666666666667
+26578	33	33	0	New Hampshire	812111	Barber shops	81	0400000US33	12.222222222222221	37.55555555555556	973.2222222222222
+26579	33	33	0	New Hampshire	812112	Beauty salons	81	0400000US33	455.55555555555554	2687.777777777778	58819.444444444445
+26580	33	33	0	New Hampshire	812113	Nail salons	81	0400000US33	101.66666666666667	371.1111111111111	8416.0
+26581	33	33	0	New Hampshire	812191	Diet and weight reducing centers	81	0400000US33	17.0	128.55555555555554	1034.6666666666667
+26582	33	33	0	New Hampshire	812199	Other personal care services	81	0400000US33	91.33333333333333	590.0	10161.888888888889
+26583	33	33	0	New Hampshire	812210	Funeral homes and funeral services	81	0400000US33	64.77777777777777	326.3333333333333	14711.888888888889
+26584	33	33	0	New Hampshire	812220	Cemeteries and crematories	81	0400000US33	20.333333333333332	41.44444444444444	1426.0
+26585	33	33	0	New Hampshire	812310	Coin-operated laundries and drycleaners	81	0400000US33	54.111111111111114	192.22222222222223	3328.777777777778
+26586	33	33	0	New Hampshire	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US33	75.88888888888889	721.0	16006.777777777777
+26587	33	33	0	New Hampshire	812331	Linen supply	81	0400000US33	7.777777777777778	556.0	22046.88888888889
+26588	33	33	0	New Hampshire	812332	Industrial launderers	81	0400000US33	5.333333333333333	244.22222222222223	11262.777777777777
+26589	33	33	0	New Hampshire	812910	Pet care (except veterinary) services	81	0400000US33	119.55555555555556	734.7777777777778	14343.444444444445
+26590	33	33	0	New Hampshire	812921	Photofinishing laboratories (except one-hour)	81	0400000US33	2.0	0.0	0.0
+26591	33	33	0	New Hampshire	812922	One-hour photofinishing	81	0400000US33	1.2	0.0	0.0
+26592	33	33	0	New Hampshire	812930	Parking lots and garages	81	0400000US33	8.777777777777779	122.11111111111111	2589.0
+26593	33	33	0	New Hampshire	812990	All other personal services	81	0400000US33	44.55555555555556	116.77777777777777	2960.0
+26594	33	33	0	New Hampshire	813110	Religious organizations	81	0400000US33	651.0	4188.333333333333	83589.33333333333
+26595	33	33	0	New Hampshire	813211	Grantmaking foundations	81	0400000US33	45.44444444444444	327.3333333333333	19096.11111111111
+26596	33	33	0	New Hampshire	813212	Voluntary health organizations	81	0400000US33	17.666666666666668	116.55555555555556	6209.222222222223
+26597	33	33	0	New Hampshire	813219	Other grantmaking and giving services	81	0400000US33	13.555555555555555	120.33333333333333	4586.888888888889
+26598	33	33	0	New Hampshire	813311	Human rights organizations	81	0400000US33	17.333333333333332	89.33333333333333	5150.555555555556
+26599	33	33	0	New Hampshire	813312	Environment, conservation and wildlife organizations	81	0400000US33	72.44444444444444	1409.2222222222222	40234.444444444445
+26600	33	33	0	New Hampshire	813319	Other social advocacy organizations	81	0400000US33	37.888888888888886	174.44444444444446	7149.666666666667
+26601	33	33	0	New Hampshire	813410	Civic and social organizations	81	0400000US33	185.22222222222223	1356.7777777777778	23035.444444444445
+26602	33	33	0	New Hampshire	813910	Business associations	81	0400000US33	100.44444444444444	519.6666666666666	32141.444444444445
+26603	33	33	0	New Hampshire	813920	Professional organizations	81	0400000US33	39.333333333333336	206.22222222222223	13338.222222222223
+26604	33	33	0	New Hampshire	813930	Labor unions and similar labor organizations	81	0400000US33	63.77777777777778	481.55555555555554	19819.777777777777
+26605	33	33	0	New Hampshire	813940	Political organizations	81	0400000US33	14.333333333333334	42.44444444444444	2592.6666666666665
+26606	33	33	0	New Hampshire	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US33	76.22222222222223	449.6666666666667	11227.222222222223

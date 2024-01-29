@@ -1,0 +1,867 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+27566	35	35	0	New Mexico	113210	Forest nurseries and gathering of forest products	11	0400000US35	1.0	0.0	0.0
+27567	35	35	0	New Mexico	113310	Logging	11	0400000US35	15.88888888888889	39.666666666666664	1294.4444444444443
+27568	35	35	0	New Mexico	114210	Hunting and trapping	11	0400000US35	1.2	0.0	0.0
+27569	35	35	0	New Mexico	115111	Cotton ginning	11	0400000US35	3.2	7.6	270.0
+27570	35	35	0	New Mexico	115112	Soil preparation, planting, and cultivating	11	0400000US35	13.0	52.77777777777778	2184.4444444444443
+27571	35	35	0	New Mexico	115113	Crop harvesting, primarily by machine	11	0400000US35	1.0	0.0	0.0
+27572	35	35	0	New Mexico	115114	Postharvest crop activities (except cotton ginning)	11	0400000US35	8.555555555555555	71.77777777777777	2364.3333333333335
+27573	35	35	0	New Mexico	115115	Farm labor contractors and crew leaders	11	0400000US35	1.75	0.0	0.0
+27574	35	35	0	New Mexico	115116	Farm management services	11	0400000US35	6.888888888888889	17.88888888888889	807.1111111111111
+27575	35	35	0	New Mexico	115210	Support activities for animal production	11	0400000US35	29.555555555555557	72.44444444444444	2314.777777777778
+27576	35	35	0	New Mexico	115310	Support activities for forestry	11	0400000US35	15.0	45.55555555555556	2635.6666666666665
+27577	35	35	0	New Mexico	211111	Crude petroleum and natural gas extraction	21	0400000US35	155.4	3249.6	314628.8
+27578	35	35	0	New Mexico	211112	Natural gas liquid extraction	21	0400000US35	21.6	407.0	37486.8
+27579	35	35	0	New Mexico	211120	Crude petroleum extraction	21	0400000US35	111.0	2935.0	291923.0
+27580	35	35	0	New Mexico	211130	Natural gas extraction	21	0400000US35	37.0	831.0	69735.0
+27581	35	35	0	New Mexico	212111	Bituminous coal and lignite surface mining	21	0400000US35	3.2	1190.6	112045.6
+27582	35	35	0	New Mexico	212112	Bituminous coal underground mining	21	0400000US35	1.0	0.0	0.0
+27583	35	35	0	New Mexico	212221	Gold ore mining	21	0400000US35	2.2	0.0	0.0
+27584	35	35	0	New Mexico	212230	Copper, nickel, lead, and zinc mining	21	0400000US35	6.0	0.0	0.0
+27585	35	35	0	New Mexico	212234	Copper ore and nickel ore mining	21	0400000US35	4.8	0.0	0.0
+27586	35	35	0	New Mexico	212291	Uranium-radium-vanadium ore mining	21	0400000US35	1.0	0.0	0.0
+27587	35	35	0	New Mexico	212299	All other metal ore mining	21	0400000US35	1.75	0.0	0.0
+27588	35	35	0	New Mexico	212311	Dimension stone mining and quarrying	21	0400000US35	1.0	0.0	0.0
+27589	35	35	0	New Mexico	212312	Crushed and broken limestone mining and quarrying	21	0400000US35	3.888888888888889	22.88888888888889	910.7777777777778
+27590	35	35	0	New Mexico	212313	Crushed and broken granite mining and quarrying	21	0400000US35	2.4	14.4	560.8
+27591	35	35	0	New Mexico	212319	Other crushed and broken stone mining and quarrying	21	0400000US35	3.0	31.555555555555557	1969.3333333333333
+27592	35	35	0	New Mexico	212321	Construction sand and gravel mining	21	0400000US35	17.77777777777778	227.55555555555554	12726.888888888889
+27593	35	35	0	New Mexico	212322	Industrial sand mining	21	0400000US35	1.0	0.0	0.0
+27594	35	35	0	New Mexico	212391	Potash, soda, and borate mineral mining	21	0400000US35	2.0	0.0	0.0
+27595	35	35	0	New Mexico	212393	Other chemical and fertilizer mineral mining	21	0400000US35	1.8888888888888888	33.333333333333336	1429.7777777777778
+27596	35	35	0	New Mexico	212399	All other nonmetallic mineral mining	21	0400000US35	4.8	76.2	3429.0
+27597	35	35	0	New Mexico	213111	Drilling oil and gas wells	21	0400000US35	64.88888888888889	2329.4444444444443	156113.66666666666
+27598	35	35	0	New Mexico	213112	Support activities for oil and gas operations	21	0400000US35	451.44444444444446	8735.666666666666	593143.3333333334
+27599	35	35	0	New Mexico	213113	Support activities for coal mining	21	0400000US35	2.0	0.0	0.0
+27600	35	35	0	New Mexico	213114	Support activities for metal mining	21	0400000US35	3.111111111111111	2.888888888888889	450.44444444444446
+27601	35	35	0	New Mexico	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US35	4.6	30.6	1664.6
+27602	35	35	0	New Mexico	221112	Fossil fuel electric power generation	22	0400000US35	16.666666666666668	939.7777777777778	100430.0
+27603	35	35	0	New Mexico	221114	Solar electric power generation	22	0400000US35	2.6	5.6	458.4
+27604	35	35	0	New Mexico	221115	Wind electric power generation	22	0400000US35	3.6666666666666665	20.0	1444.888888888889
+27605	35	35	0	New Mexico	221118	Other electric power generation	22	0400000US35	3.4	0.0	0.0
+27606	35	35	0	New Mexico	221121	Electric bulk power transmission and control	22	0400000US35	1.6	0.0	0.0
+27607	35	35	0	New Mexico	221122	Electric power distribution	22	0400000US35	61.111111111111114	1868.7777777777778	158957.66666666666
+27608	35	35	0	New Mexico	221210	Natural gas distribution	22	0400000US35	31.77777777777778	0.0	0.0
+27609	35	35	0	New Mexico	221310	Water supply and irrigation systems	22	0400000US35	100.33333333333333	352.1111111111111	11316.333333333334
+27610	35	35	0	New Mexico	221320	Sewage treatment facilities	22	0400000US35	7.777777777777778	15.555555555555555	598.4444444444445
+27611	35	35	0	New Mexico	236115	New single-family housing construction (except for-sale builders)	23	0400000US35	381.55555555555554	1220.4444444444443	39523.22222222222
+27612	35	35	0	New Mexico	236116	New multifamily housing construction (except for-sale builders)	23	0400000US35	13.444444444444445	58.888888888888886	3606.222222222222
+27613	35	35	0	New Mexico	236117	New housing for-sale builders	23	0400000US35	121.77777777777777	701.0	35076.22222222222
+27614	35	35	0	New Mexico	236118	Residential remodelers	23	0400000US35	459.0	1781.5555555555557	61898.88888888889
+27615	35	35	0	New Mexico	236210	Industrial building construction	23	0400000US35	22.444444444444443	384.8888888888889	28181.11111111111
+27616	35	35	0	New Mexico	236220	Commercial and institutional building construction	23	0400000US35	341.1111111111111	3615.777777777778	184958.0
+27617	35	35	0	New Mexico	237110	Water and sewer line and related structures construction	23	0400000US35	119.0	1257.4444444444443	55746.22222222222
+27618	35	35	0	New Mexico	237120	Oil and gas pipeline and related structures construction	23	0400000US35	35.55555555555556	1781.888888888889	100540.77777777778
+27619	35	35	0	New Mexico	237130	Power and communication line and related structures construction	23	0400000US35	54.666666666666664	895.1111111111111	50809.77777777778
+27620	35	35	0	New Mexico	237210	Land subdivision	23	0400000US35	33.0	106.22222222222223	4918.333333333333
+27621	35	35	0	New Mexico	237310	Highway, street, and bridge construction	23	0400000US35	70.11111111111111	2432.4444444444443	125705.88888888889
+27622	35	35	0	New Mexico	237990	Other heavy and civil engineering construction	23	0400000US35	7.777777777777778	152.44444444444446	6986.555555555556
+27623	35	35	0	New Mexico	238110	Poured concrete foundation and structure contractors	23	0400000US35	121.0	1235.5555555555557	49705.0
+27624	35	35	0	New Mexico	238120	Structural steel and precast concrete contractors	23	0400000US35	16.77777777777778	211.88888888888889	7935.777777777777
+27625	35	35	0	New Mexico	238130	Framing contractors	23	0400000US35	61.888888888888886	389.44444444444446	11391.888888888889
+27626	35	35	0	New Mexico	238140	Masonry contractors	23	0400000US35	98.0	888.3333333333334	25404.333333333332
+27627	35	35	0	New Mexico	238150	Glass and glazing contractors	23	0400000US35	32.0	337.55555555555554	14467.888888888889
+27628	35	35	0	New Mexico	238160	Roofing contractors	23	0400000US35	159.0	1532.7777777777778	54473.88888888889
+27629	35	35	0	New Mexico	238170	Siding contractors	23	0400000US35	12.222222222222221	60.0	2676.222222222222
+27630	35	35	0	New Mexico	238190	Other foundation, structure, and building exterior contractors	23	0400000US35	48.22222222222222	269.44444444444446	10543.777777777777
+27631	35	35	0	New Mexico	238210	Electrical contractors and other wiring installation contractors	23	0400000US35	523.3333333333334	5085.888888888889	252692.88888888888
+27632	35	35	0	New Mexico	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US35	644.2222222222222	5259.666666666667	232136.88888888888
+27633	35	35	0	New Mexico	238290	Other building equipment contractors	23	0400000US35	23.77777777777778	183.33333333333334	12297.0
+27634	35	35	0	New Mexico	238310	Drywall and insulation contractors	23	0400000US35	123.0	1444.0	52172.22222222222
+27635	35	35	0	New Mexico	238320	Painting and wall covering contractors	23	0400000US35	144.33333333333334	1193.4444444444443	38894.666666666664
+27636	35	35	0	New Mexico	238330	Flooring contractors	23	0400000US35	55.55555555555556	316.55555555555554	12171.111111111111
+27637	35	35	0	New Mexico	238340	Tile and terrazzo contractors	23	0400000US35	67.66666666666667	269.8888888888889	7638.111111111111
+27638	35	35	0	New Mexico	238350	Finish carpentry contractors	23	0400000US35	95.77777777777777	461.3333333333333	17540.777777777777
+27639	35	35	0	New Mexico	238390	Other building finishing contractors	23	0400000US35	17.11111111111111	122.66666666666667	4671.666666666667
+27640	35	35	0	New Mexico	238910	Site preparation contractors	23	0400000US35	213.0	3194.8888888888887	156625.55555555556
+27641	35	35	0	New Mexico	238990	All other specialty trade contractors	23	0400000US35	208.77777777777777	1573.4444444444443	68009.11111111111
+27642	35	35	0	New Mexico	311111	Dog and cat food manufacturing	31	0400000US35	1.2	0.0	0.0
+27643	35	35	0	New Mexico	311119	Other animal food manufacturing	31	0400000US35	9.88888888888889	131.66666666666666	6058.111111111111
+27644	35	35	0	New Mexico	311211	Flour milling	31	0400000US35	1.0	0.0	0.0
+27645	35	35	0	New Mexico	311230	Breakfast cereal manufacturing	31	0400000US35	1.0	0.0	0.0
+27646	35	35	0	New Mexico	311340	Nonchocolate confectionery manufacturing	31	0400000US35	3.7777777777777777	19.22222222222222	494.1111111111111
+27647	35	35	0	New Mexico	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US35	2.6666666666666665	16.444444444444443	405.3333333333333
+27648	35	35	0	New Mexico	311352	Confectionery manufacturing from purchased chocolate	31	0400000US35	11.222222222222221	98.0	1326.4444444444443
+27649	35	35	0	New Mexico	311411	Frozen fruit, juice, and vegetable manufacturing	31	0400000US35	1.2	0.0	0.0
+27650	35	35	0	New Mexico	311412	Frozen specialty food manufacturing	31	0400000US35	2.4444444444444446	0.0	0.0
+27651	35	35	0	New Mexico	311421	Fruit and vegetable canning	31	0400000US35	5.888888888888889	131.44444444444446	4693.444444444444
+27652	35	35	0	New Mexico	311422	Specialty canning	31	0400000US35	4.2	32.8	761.8
+27653	35	35	0	New Mexico	311423	Dried and dehydrated food manufacturing	31	0400000US35	8.11111111111111	161.11111111111111	5860.888888888889
+27654	35	35	0	New Mexico	311511	Fluid milk manufacturing	31	0400000US35	3.6666666666666665	28.11111111111111	1620.6666666666667
+27655	35	35	0	New Mexico	311513	Cheese manufacturing	31	0400000US35	4.0	759.4444444444445	38883.77777777778
+27656	35	35	0	New Mexico	311514	Dry, condensed, and evaporated dairy product manufacturing	31	0400000US35	2.0	0.0	0.0
+27657	35	35	0	New Mexico	311520	Ice cream and frozen dessert manufacturing	31	0400000US35	1.0	0.0	0.0
+27658	35	35	0	New Mexico	311611	Animal (except poultry) slaughtering	31	0400000US35	10.0	30.88888888888889	865.4444444444445
+27659	35	35	0	New Mexico	311612	Meat processed from carcasses	31	0400000US35	11.777777777777779	45.333333333333336	1404.6666666666667
+27660	35	35	0	New Mexico	311613	Rendering and meat byproduct processing	31	0400000US35	1.0	0.0	0.0
+27661	35	35	0	New Mexico	311615	Poultry processing	31	0400000US35	1.2	0.0	0.0
+27662	35	35	0	New Mexico	311811	Retail bakeries	31	0400000US35	21.88888888888889	149.55555555555554	2679.8888888888887
+27663	35	35	0	New Mexico	311812	Commercial bakeries	31	0400000US35	9.555555555555555	256.0	9122.777777777777
+27664	35	35	0	New Mexico	311821	Cookie and cracker manufacturing	31	0400000US35	1.0	0.0	0.0
+27665	35	35	0	New Mexico	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US35	1.0	0.0	0.0
+27666	35	35	0	New Mexico	311830	Tortilla manufacturing	31	0400000US35	10.555555555555555	234.77777777777777	7422.555555555556
+27667	35	35	0	New Mexico	311911	Roasted nuts and peanut butter manufacturing	31	0400000US35	2.6	0.0	0.0
+27668	35	35	0	New Mexico	311919	Other snack food manufacturing	31	0400000US35	3.6666666666666665	24.77777777777778	517.3333333333334
+27669	35	35	0	New Mexico	311920	Coffee and tea manufacturing	31	0400000US35	1.5	0.0	0.0
+27670	35	35	0	New Mexico	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US35	5.777777777777778	152.11111111111111	4835.555555555556
+27671	35	35	0	New Mexico	311942	Spice and extract manufacturing	31	0400000US35	3.111111111111111	75.11111111111111	4526.666666666667
+27672	35	35	0	New Mexico	311991	Perishable prepared food manufacturing	31	0400000US35	4.555555555555555	60.888888888888886	1454.4444444444443
+27673	35	35	0	New Mexico	311999	All other miscellaneous food manufacturing	31	0400000US35	1.75	1.5	76.5
+27674	35	35	0	New Mexico	312111	Soft drink manufacturing	31	0400000US35	2.888888888888889	12.333333333333334	731.4444444444445
+27675	35	35	0	New Mexico	312112	Bottled water manufacturing	31	0400000US35	2.888888888888889	1.5555555555555556	58.22222222222222
+27676	35	35	0	New Mexico	312113	Ice manufacturing	31	0400000US35	1.0	0.0	0.0
+27677	35	35	0	New Mexico	312120	Breweries	31	0400000US35	23.666666666666668	322.22222222222223	8364.777777777777
+27678	35	35	0	New Mexico	312130	Wineries	31	0400000US35	18.0	109.22222222222223	2828.6666666666665
+27679	35	35	0	New Mexico	312140	Distilleries	31	0400000US35	3.5555555555555554	12.666666666666666	393.44444444444446
+27680	35	35	0	New Mexico	312230	Tobacco manufacturing	31	0400000US35	1.0	0.0	0.0
+27681	35	35	0	New Mexico	313210	Broadwoven fabric mills	31	0400000US35	1.2	0.0	0.0
+27682	35	35	0	New Mexico	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US35	2.8	0.8	25.8
+27683	35	35	0	New Mexico	313310	Textile and fabric finishing mills	31	0400000US35	3.6	4.4	223.4
+27684	35	35	0	New Mexico	313320	Fabric coating mills	31	0400000US35	1.2	0.0	0.0
+27685	35	35	0	New Mexico	314110	Carpet and rug mills	31	0400000US35	1.0	0.0	0.0
+27686	35	35	0	New Mexico	314120	Curtain and linen mills	31	0400000US35	1.8	0.0	0.0
+27687	35	35	0	New Mexico	314910	Textile bag and canvas mills	31	0400000US35	7.111111111111111	128.22222222222223	6542.222222222223
+27688	35	35	0	New Mexico	314999	All other miscellaneous textile product mills	31	0400000US35	9.666666666666666	20.88888888888889	623.5555555555555
+27689	35	35	0	New Mexico	315190	Other apparel knitting mills	31	0400000US35	1.0	0.0	0.0
+27690	35	35	0	New Mexico	315210	Cut and sew apparel contractors	31	0400000US35	4.777777777777778	25.77777777777778	660.0
+27691	35	35	0	New Mexico	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US35	1.0	0.0	0.0
+27692	35	35	0	New Mexico	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US35	3.111111111111111	5.0	94.44444444444444
+27693	35	35	0	New Mexico	315280	Other cut and sew apparel manufacturing	31	0400000US35	3.4	13.4	103.8
+27694	35	35	0	New Mexico	315990	Apparel accessories and other apparel manufacturing	31	0400000US35	4.333333333333333	18.444444444444443	610.0
+27695	35	35	0	New Mexico	316110	Leather and hide tanning and finishing	31	0400000US35	1.8	0.0	0.0
+27696	35	35	0	New Mexico	316210	Footwear manufacturing	31	0400000US35	1.0	0.0	0.0
+27697	35	35	0	New Mexico	316998	All other leather good and allied product manufacturing	31	0400000US35	8.333333333333334	31.0	833.4444444444445
+27698	35	35	0	New Mexico	321113	Sawmills	32	0400000US35	7.777777777777778	29.88888888888889	835.7777777777778
+27699	35	35	0	New Mexico	321114	Wood preservation	32	0400000US35	1.0	0.0	0.0
+27700	35	35	0	New Mexico	321213	Engineered wood member (except truss) manufacturing	32	0400000US35	1.0	0.0	0.0
+27701	35	35	0	New Mexico	321214	Truss manufacturing	32	0400000US35	4.444444444444445	29.88888888888889	809.3333333333334
+27702	35	35	0	New Mexico	321219	Reconstituted wood product manufacturing	32	0400000US35	1.0	0.0	0.0
+27703	35	35	0	New Mexico	321911	Wood window and door manufacturing	32	0400000US35	8.555555555555555	85.88888888888889	2340.0
+27704	35	35	0	New Mexico	321912	Cut stock, resawing lumber, and planing	32	0400000US35	4.0	35.111111111111114	1105.2222222222222
+27705	35	35	0	New Mexico	321918	Other millwork (including flooring)	32	0400000US35	8.11111111111111	123.11111111111111	4104.333333333333
+27706	35	35	0	New Mexico	321920	Wood container and pallet manufacturing	32	0400000US35	2.4	12.2	268.8
+27707	35	35	0	New Mexico	321991	Manufactured home (mobile home) manufacturing	32	0400000US35	2.0	0.0	0.0
+27708	35	35	0	New Mexico	321992	Prefabricated wood building manufacturing	32	0400000US35	2.0	0.0	0.0
+27709	35	35	0	New Mexico	321999	All other miscellaneous wood product manufacturing	32	0400000US35	11.11111111111111	67.77777777777777	1643.2222222222222
+27710	35	35	0	New Mexico	322130	Paperboard mills	32	0400000US35	1.0	0.0	0.0
+27711	35	35	0	New Mexico	322211	Corrugated and solid fiber box manufacturing	32	0400000US35	3.888888888888889	51.55555555555556	2530.222222222222
+27712	35	35	0	New Mexico	322220	Paper bag and coated and treated paper manufacturing	32	0400000US35	1.25	0.0	0.0
+27713	35	35	0	New Mexico	322230	Stationery product manufacturing	32	0400000US35	3.2222222222222223	10.11111111111111	285.77777777777777
+27714	35	35	0	New Mexico	322291	Sanitary paper product manufacturing	32	0400000US35	1.0	0.0	0.0
+27715	35	35	0	New Mexico	322299	All other converted paper product manufacturing	32	0400000US35	2.6666666666666665	12.0	612.7777777777778
+27716	35	35	0	New Mexico	323111	Commercial printing (except screen and books)	32	0400000US35	91.33333333333333	579.3333333333334	19734.555555555555
+27717	35	35	0	New Mexico	323113	Commercial screen printing	32	0400000US35	24.0	115.77777777777777	4058.1111111111113
+27718	35	35	0	New Mexico	323117	Books printing	32	0400000US35	1.0	0.0	0.0
+27719	35	35	0	New Mexico	323120	Support activities for printing	32	0400000US35	5.0	9.0	302.8
+27720	35	35	0	New Mexico	324110	Petroleum refineries	32	0400000US35	2.6	0.0	0.0
+27721	35	35	0	New Mexico	324121	Asphalt paving mixture and block manufacturing	32	0400000US35	13.777777777777779	168.55555555555554	10021.666666666666
+27722	35	35	0	New Mexico	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US35	1.0	0.0	0.0
+27723	35	35	0	New Mexico	324199	All other petroleum and coal products manufacturing	32	0400000US35	1.0	0.0	0.0
+27724	35	35	0	New Mexico	325120	Industrial gas manufacturing	32	0400000US35	2.4444444444444446	0.0	0.0
+27725	35	35	0	New Mexico	325130	Synthetic dye and pigment manufacturing	32	0400000US35	1.0	0.0	0.0
+27726	35	35	0	New Mexico	325180	Other basic inorganic chemical manufacturing	32	0400000US35	4.222222222222222	193.44444444444446	20175.333333333332
+27727	35	35	0	New Mexico	325193	Ethyl alcohol manufacturing	32	0400000US35	1.25	0.0	0.0
+27728	35	35	0	New Mexico	325199	All other basic organic chemical manufacturing	32	0400000US35	4.333333333333333	58.44444444444444	4660.222222222223
+27729	35	35	0	New Mexico	325211	Plastics material and resin manufacturing	32	0400000US35	1.0	0.0	0.0
+27730	35	35	0	New Mexico	325311	Nitrogenous fertilizer manufacturing	32	0400000US35	3.4444444444444446	56.888888888888886	2572.6666666666665
+27731	35	35	0	New Mexico	325314	Fertilizer (mixing only) manufacturing	32	0400000US35	1.4	0.0	0.0
+27732	35	35	0	New Mexico	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US35	1.0	0.0	0.0
+27733	35	35	0	New Mexico	325411	Medicinal and botanical manufacturing	32	0400000US35	4.222222222222222	52.77777777777778	2244.6666666666665
+27734	35	35	0	New Mexico	325412	Pharmaceutical preparation manufacturing	32	0400000US35	6.111111111111111	395.3333333333333	31662.555555555555
+27735	35	35	0	New Mexico	325413	In-vitro diagnostic substance manufacturing	32	0400000US35	1.0	0.0	0.0
+27736	35	35	0	New Mexico	325414	Biological product (except diagnostic) manufacturing	32	0400000US35	1.0	0.0	0.0
+27737	35	35	0	New Mexico	325510	Paint and coating manufacturing	32	0400000US35	4.2	0.0	0.0
+27738	35	35	0	New Mexico	325520	Adhesive manufacturing	32	0400000US35	1.0	0.0	0.0
+27739	35	35	0	New Mexico	325611	Soap and other detergent manufacturing	32	0400000US35	1.0	0.0	0.0
+27740	35	35	0	New Mexico	325612	Polish and other sanitation good manufacturing	32	0400000US35	2.8	3.6	273.8
+27741	35	35	0	New Mexico	325620	Toilet preparation manufacturing	32	0400000US35	4.666666666666667	66.33333333333333	2020.5555555555557
+27742	35	35	0	New Mexico	325991	Custom compounding of purchased resins	32	0400000US35	1.4	0.0	0.0
+27743	35	35	0	New Mexico	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US35	1.0	0.0	0.0
+27744	35	35	0	New Mexico	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US35	3.0	0.0	0.0
+27745	35	35	0	New Mexico	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US35	3.0	43.2	3609.6
+27746	35	35	0	New Mexico	326121	Unlaminated plastics profile shape manufacturing	32	0400000US35	1.0	0.0	0.0
+27747	35	35	0	New Mexico	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US35	1.4	0.0	0.0
+27748	35	35	0	New Mexico	326140	Polystyrene foam product manufacturing	32	0400000US35	2.0	0.0	0.0
+27749	35	35	0	New Mexico	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US35	4.666666666666667	104.44444444444444	4275.555555555556
+27750	35	35	0	New Mexico	326191	Plastics plumbing fixture manufacturing	32	0400000US35	1.0	0.0	0.0
+27751	35	35	0	New Mexico	326199	All other plastics product manufacturing	32	0400000US35	15.555555555555555	358.0	16404.11111111111
+27752	35	35	0	New Mexico	326212	Tire retreading	32	0400000US35	2.6	4.4	114.8
+27753	35	35	0	New Mexico	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US35	12.222222222222221	36.111111111111114	622.2222222222222
+27754	35	35	0	New Mexico	327120	Clay building material and refractories manufacturing	32	0400000US35	7.111111111111111	57.888888888888886	1801.6666666666667
+27755	35	35	0	New Mexico	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US35	2.4444444444444446	2.2222222222222223	47.111111111111114
+27756	35	35	0	New Mexico	327215	Glass product manufacturing made of purchased glass	32	0400000US35	5.222222222222222	70.44444444444444	2135.1111111111113
+27757	35	35	0	New Mexico	327310	Cement manufacturing	32	0400000US35	2.0	0.0	0.0
+27758	35	35	0	New Mexico	327320	Ready-mix concrete manufacturing	32	0400000US35	35.22222222222222	609.4444444444445	34688.666666666664
+27759	35	35	0	New Mexico	327331	Concrete block and brick manufacturing	32	0400000US35	7.222222222222222	173.0	7633.222222222223
+27760	35	35	0	New Mexico	327332	Concrete pipe manufacturing	32	0400000US35	3.0	0.0	0.0
+27761	35	35	0	New Mexico	327390	Other concrete product manufacturing	32	0400000US35	10.666666666666666	177.77777777777777	6402.555555555556
+27762	35	35	0	New Mexico	327410	Lime manufacturing	32	0400000US35	1.0	0.0	0.0
+27763	35	35	0	New Mexico	327420	Gypsum product manufacturing	32	0400000US35	3.5555555555555554	0.0	0.0
+27764	35	35	0	New Mexico	327991	Cut stone and stone product manufacturing	32	0400000US35	8.0	57.44444444444444	2085.5555555555557
+27765	35	35	0	New Mexico	327992	Ground or treated mineral and earth manufacturing	32	0400000US35	2.5555555555555554	37.77777777777778	1336.888888888889
+27766	35	35	0	New Mexico	327993	Mineral wool manufacturing	32	0400000US35	2.0	0.0	0.0
+27767	35	35	0	New Mexico	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US35	6.333333333333333	59.666666666666664	1984.6666666666667
+27768	35	35	0	New Mexico	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US35	3.2222222222222223	41.44444444444444	2255.4444444444443
+27769	35	35	0	New Mexico	331222	Steel wire drawing	33	0400000US35	1.0	0.0	0.0
+27770	35	35	0	New Mexico	331318	Other aluminum rolling, drawing, and extruding	33	0400000US35	1.0	0.0	0.0
+27771	35	35	0	New Mexico	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US35	4.4	0.0	0.0
+27772	35	35	0	New Mexico	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US35	1.8	0.0	0.0
+27773	35	35	0	New Mexico	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US35	1.4	0.0	0.0
+27774	35	35	0	New Mexico	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US35	1.0	0.0	0.0
+27775	35	35	0	New Mexico	331512	Steel investment foundries	33	0400000US35	1.0	0.0	0.0
+27776	35	35	0	New Mexico	331513	Steel foundries (except investment)	33	0400000US35	1.0	0.0	0.0
+27777	35	35	0	New Mexico	331523	Nonferrous metal die-casting foundries	33	0400000US35	2.0	0.0	0.0
+27778	35	35	0	New Mexico	331524	Aluminum foundries (except die-casting)	33	0400000US35	1.0	0.0	0.0
+27779	35	35	0	New Mexico	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US35	3.4	7.0	206.2
+27780	35	35	0	New Mexico	332111	Iron and steel forging	33	0400000US35	8.11111111111111	22.555555555555557	562.4444444444445
+27781	35	35	0	New Mexico	332114	Custom roll forming	33	0400000US35	1.8	0.0	0.0
+27782	35	35	0	New Mexico	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US35	3.0	100.88888888888889	4011.5555555555557
+27783	35	35	0	New Mexico	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	33	0400000US35	2.2	0.0	0.0
+27784	35	35	0	New Mexico	332216	Saw blade and handtool manufacturing	33	0400000US35	2.0	0.0	0.0
+27785	35	35	0	New Mexico	332311	Prefabricated metal building and component manufacturing	33	0400000US35	2.2	0.0	0.0
+27786	35	35	0	New Mexico	332312	Fabricated structural metal manufacturing	33	0400000US35	14.777777777777779	195.11111111111111	12565.888888888889
+27787	35	35	0	New Mexico	332313	Plate work manufacturing	33	0400000US35	4.333333333333333	26.333333333333332	1032.111111111111
+27788	35	35	0	New Mexico	332321	Metal window and door manufacturing	33	0400000US35	6.444444444444445	115.33333333333333	2876.6666666666665
+27789	35	35	0	New Mexico	332322	Sheet metal work manufacturing	33	0400000US35	18.22222222222222	294.8888888888889	11643.0
+27790	35	35	0	New Mexico	332323	Ornamental and architectural metal work manufacturing	33	0400000US35	19.444444444444443	166.55555555555554	6212.666666666667
+27791	35	35	0	New Mexico	332410	Power boiler and heat exchanger manufacturing	33	0400000US35	2.0	0.0	106.2
+27792	35	35	0	New Mexico	332420	Metal tank (heavy gauge) manufacturing	33	0400000US35	9.0	218.44444444444446	11479.111111111111
+27793	35	35	0	New Mexico	332510	Hardware manufacturing	33	0400000US35	3.2222222222222223	10.666666666666666	667.5555555555555
+27794	35	35	0	New Mexico	332618	Other fabricated wire product manufacturing	33	0400000US35	1.8	0.0	395.8
+27795	35	35	0	New Mexico	332710	Machine shops	33	0400000US35	78.66666666666667	572.5555555555555	24312.777777777777
+27796	35	35	0	New Mexico	332721	Precision turned product manufacturing	33	0400000US35	10.777777777777779	197.0	8022.444444444444
+27797	35	35	0	New Mexico	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US35	1.0	0.0	0.0
+27798	35	35	0	New Mexico	332811	Metal heat treating	33	0400000US35	1.3333333333333333	0.0	0.0
+27799	35	35	0	New Mexico	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US35	4.555555555555555	24.22222222222222	989.6666666666666
+27800	35	35	0	New Mexico	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US35	6.111111111111111	59.666666666666664	2967.5555555555557
+27801	35	35	0	New Mexico	332912	Fluid power valve and hose fitting manufacturing	33	0400000US35	1.0	0.0	0.0
+27802	35	35	0	New Mexico	332913	Plumbing fixture fitting and trim manufacturing	33	0400000US35	1.0	0.0	0.0
+27803	35	35	0	New Mexico	332992	Small arms ammunition manufacturing	33	0400000US35	1.0	0.0	0.0
+27804	35	35	0	New Mexico	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US35	1.8	0.0	0.0
+27805	35	35	0	New Mexico	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US35	2.8	0.0	0.0
+27806	35	35	0	New Mexico	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US35	21.333333333333332	102.22222222222223	4640.666666666667
+27807	35	35	0	New Mexico	333111	Farm machinery and equipment manufacturing	33	0400000US35	6.0	56.22222222222222	2471.5555555555557
+27808	35	35	0	New Mexico	333112	Lawn and garden tractor and home lawn and garden equipment manufacturing	33	0400000US35	1.4	0.0	0.0
+27809	35	35	0	New Mexico	333120	Construction machinery manufacturing	33	0400000US35	5.222222222222222	210.33333333333334	12178.888888888889
+27810	35	35	0	New Mexico	333131	Mining machinery and equipment manufacturing	33	0400000US35	2.888888888888889	37.666666666666664	2196.222222222222
+27811	35	35	0	New Mexico	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US35	4.777777777777778	176.77777777777777	7855.0
+27812	35	35	0	New Mexico	333241	Food product machinery manufacturing	33	0400000US35	1.0	0.0	0.0
+27813	35	35	0	New Mexico	333242	Semiconductor machinery manufacturing	33	0400000US35	1.0	0.0	0.0
+27814	35	35	0	New Mexico	333244	Printing machinery and equipment manufacturing	33	0400000US35	3.6	34.4	1753.2
+27815	35	35	0	New Mexico	333249	Other industrial machinery manufacturing	33	0400000US35	4.333333333333333	19.11111111111111	1030.2222222222222
+27816	35	35	0	New Mexico	333314	Optical instrument and lens manufacturing	33	0400000US35	4.555555555555555	41.666666666666664	2236.8888888888887
+27817	35	35	0	New Mexico	333316	Photographic and photocopying equipment manufacturing	33	0400000US35	1.25	0.0	0.0
+27818	35	35	0	New Mexico	333318	Other commercial and service industry machinery manufacturing	33	0400000US35	7.222222222222222	99.11111111111111	6955.888888888889
+27819	35	35	0	New Mexico	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US35	1.8	0.0	0.0
+27820	35	35	0	New Mexico	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US35	1.0	0.0	0.0
+27821	35	35	0	New Mexico	333511	Industrial mold manufacturing	33	0400000US35	1.0	0.0	0.0
+27822	35	35	0	New Mexico	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US35	4.0	60.0	2869.8
+27823	35	35	0	New Mexico	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US35	1.6	0.0	0.0
+27824	35	35	0	New Mexico	333517	Machine tool manufacturing	33	0400000US35	1.5	0.0	0.0
+27825	35	35	0	New Mexico	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US35	1.0	0.0	0.0
+27826	35	35	0	New Mexico	333611	Turbine and turbine generator set units manufacturing	33	0400000US35	1.75	0.0	0.0
+27827	35	35	0	New Mexico	333618	Other engine equipment manufacturing	33	0400000US35	2.2	5.0	216.2
+27828	35	35	0	New Mexico	333911	Pump and pumping equipment manufacturing	33	0400000US35	2.8	15.6	1560.4
+27829	35	35	0	New Mexico	333912	Air and gas compressor manufacturing	33	0400000US35	3.8	125.0	5992.0
+27830	35	35	0	New Mexico	333914	Measuring, dispensing, and other pumping equipment manufacturing	33	0400000US35	4.0	111.0	6385.0
+27831	35	35	0	New Mexico	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US35	1.0	0.0	0.0
+27832	35	35	0	New Mexico	333992	Welding and soldering equipment manufacturing	33	0400000US35	1.0	0.0	0.0
+27833	35	35	0	New Mexico	333993	Packaging machinery manufacturing	33	0400000US35	1.0	0.0	0.0
+27834	35	35	0	New Mexico	333994	Industrial process furnace and oven manufacturing	33	0400000US35	1.0	0.0	0.0
+27835	35	35	0	New Mexico	333995	Fluid power cylinder and actuator manufacturing	33	0400000US35	1.0	0.0	0.0
+27836	35	35	0	New Mexico	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US35	4.444444444444445	25.0	1141.0
+27837	35	35	0	New Mexico	334111	Electronic computer manufacturing	33	0400000US35	1.0	0.0	0.0
+27838	35	35	0	New Mexico	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US35	1.4	0.0	0.0
+27839	35	35	0	New Mexico	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US35	3.888888888888889	107.44444444444444	7586.555555555556
+27840	35	35	0	New Mexico	334290	Other communications equipment manufacturing	33	0400000US35	1.0	0.0	0.0
+27841	35	35	0	New Mexico	334310	Audio and video equipment manufacturing	33	0400000US35	2.2	0.0	0.0
+27842	35	35	0	New Mexico	334412	Bare printed circuit board manufacturing	33	0400000US35	4.0	100.11111111111111	5344.666666666667
+27843	35	35	0	New Mexico	334413	Semiconductor and related device manufacturing	33	0400000US35	11.333333333333334	2069.3333333333335	155573.55555555556
+27844	35	35	0	New Mexico	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	33	0400000US35	1.4	0.0	0.0
+27845	35	35	0	New Mexico	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US35	5.111111111111111	137.66666666666666	8678.777777777777
+27846	35	35	0	New Mexico	334419	Other electronic component manufacturing	33	0400000US35	6.222222222222222	267.1111111111111	12884.555555555555
+27847	35	35	0	New Mexico	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US35	1.2	0.0	0.0
+27848	35	35	0	New Mexico	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US35	8.666666666666666	918.6666666666666	77501.66666666667
+27849	35	35	0	New Mexico	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US35	1.0	0.0	0.0
+27850	35	35	0	New Mexico	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US35	4.444444444444445	8.0	628.0
+27851	35	35	0	New Mexico	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US35	1.0	0.0	0.0
+27852	35	35	0	New Mexico	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US35	5.666666666666667	41.111111111111114	2768.3333333333335
+27853	35	35	0	New Mexico	334516	Analytical laboratory instrument manufacturing	33	0400000US35	4.333333333333333	28.11111111111111	2444.1111111111113
+27854	35	35	0	New Mexico	334517	Irradiation apparatus manufacturing	33	0400000US35	1.0	0.0	0.0
+27855	35	35	0	New Mexico	334519	Other measuring and controlling device manufacturing	33	0400000US35	7.333333333333333	102.0	7758.888888888889
+27856	35	35	0	New Mexico	334613	Blank magnetic and optical recording media manufacturing	33	0400000US35	1.0	0.0	0.0
+27857	35	35	0	New Mexico	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US35	1.0	0.0	0.0
+27858	35	35	0	New Mexico	335121	Residential electric lighting fixture manufacturing	33	0400000US35	1.6	0.0	0.0
+27859	35	35	0	New Mexico	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US35	1.0	0.0	0.0
+27860	35	35	0	New Mexico	335129	Other lighting equipment manufacturing	33	0400000US35	1.8	0.0	0.0
+27861	35	35	0	New Mexico	335312	Motor and generator manufacturing	33	0400000US35	3.111111111111111	19.555555555555557	715.0
+27862	35	35	0	New Mexico	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US35	2.4444444444444446	0.0	0.0
+27863	35	35	0	New Mexico	335314	Relay and industrial control manufacturing	33	0400000US35	3.2	12.2	659.4
+27864	35	35	0	New Mexico	335929	Other communication and energy wire manufacturing	33	0400000US35	2.0	0.0	0.0
+27865	35	35	0	New Mexico	335931	Current-carrying wiring device manufacturing	33	0400000US35	1.4	0.0	0.0
+27866	35	35	0	New Mexico	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US35	3.2222222222222223	7.111111111111111	518.2222222222222
+27867	35	35	0	New Mexico	336120	Heavy duty truck manufacturing	33	0400000US35	1.0	0.0	0.0
+27868	35	35	0	New Mexico	336211	Motor vehicle body manufacturing	33	0400000US35	2.0	0.0	0.0
+27869	35	35	0	New Mexico	336212	Truck trailer manufacturing	33	0400000US35	4.8	53.6	4989.6
+27870	35	35	0	New Mexico	336214	Travel trailer and camper manufacturing	33	0400000US35	1.0	0.0	0.0
+27871	35	35	0	New Mexico	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US35	2.2	1.2	22.6
+27872	35	35	0	New Mexico	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US35	4.0	14.4	678.2
+27873	35	35	0	New Mexico	336330	Motor vehicle steering and suspension components (except spring) manufacturing	33	0400000US35	1.0	0.0	0.0
+27874	35	35	0	New Mexico	336340	Motor vehicle brake system manufacturing	33	0400000US35	1.0	0.0	0.0
+27875	35	35	0	New Mexico	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US35	1.0	0.0	0.0
+27876	35	35	0	New Mexico	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US35	1.0	0.0	0.0
+27877	35	35	0	New Mexico	336370	Motor vehicle metal stamping	33	0400000US35	1.0	0.0	0.0
+27878	35	35	0	New Mexico	336390	Other motor vehicle parts manufacturing	33	0400000US35	4.111111111111111	6.666666666666667	137.33333333333334
+27879	35	35	0	New Mexico	336411	Aircraft manufacturing	33	0400000US35	3.5555555555555554	0.0	0.0
+27880	35	35	0	New Mexico	336412	Aircraft engine and engine parts manufacturing	33	0400000US35	1.6	0.0	0.0
+27881	35	35	0	New Mexico	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US35	4.222222222222222	79.11111111111111	3074.6666666666665
+27882	35	35	0	New Mexico	336612	Boat building	33	0400000US35	1.0	0.0	0.0
+27883	35	35	0	New Mexico	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US35	1.0	0.0	0.0
+27884	35	35	0	New Mexico	336999	All other transportation equipment manufacturing	33	0400000US35	1.0	0.0	0.0
+27885	35	35	0	New Mexico	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US35	37.888888888888886	187.55555555555554	5729.111111111111
+27886	35	35	0	New Mexico	337121	Upholstered household furniture manufacturing	33	0400000US35	4.2	10.2	492.8
+27887	35	35	0	New Mexico	337122	Nonupholstered wood household furniture manufacturing	33	0400000US35	20.0	54.77777777777778	1633.5555555555557
+27888	35	35	0	New Mexico	337125	Household furniture (except wood and metal) manufacturing	33	0400000US35	1.0	0.0	0.0
+27889	35	35	0	New Mexico	337127	Institutional furniture manufacturing	33	0400000US35	2.0	0.0	0.0
+27890	35	35	0	New Mexico	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US35	12.444444444444445	201.22222222222223	7679.0
+27891	35	35	0	New Mexico	337214	Office furniture (except wood) manufacturing	33	0400000US35	1.4	0.0	0.0
+27892	35	35	0	New Mexico	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US35	1.8	0.0	0.0
+27893	35	35	0	New Mexico	337910	Mattress manufacturing	33	0400000US35	1.2	0.0	0.0
+27894	35	35	0	New Mexico	337920	Blind and shade manufacturing	33	0400000US35	1.0	0.0	0.0
+27895	35	35	0	New Mexico	339112	Surgical and medical instrument manufacturing	33	0400000US35	2.2	0.0	0.0
+27896	35	35	0	New Mexico	339113	Surgical appliance and supplies manufacturing	33	0400000US35	8.666666666666666	196.55555555555554	6849.888888888889
+27897	35	35	0	New Mexico	339114	Dental equipment and supplies manufacturing	33	0400000US35	5.555555555555555	40.111111111111114	2004.7777777777778
+27898	35	35	0	New Mexico	339115	Ophthalmic goods manufacturing	33	0400000US35	2.2	0.0	0.0
+27899	35	35	0	New Mexico	339116	Dental laboratories	33	0400000US35	35.22222222222222	152.55555555555554	5231.777777777777
+27900	35	35	0	New Mexico	339910	Jewelry and silverware manufacturing	33	0400000US35	67.88888888888889	1116.888888888889	40875.11111111111
+27901	35	35	0	New Mexico	339920	Sporting and athletic goods manufacturing	33	0400000US35	3.3333333333333335	3.111111111111111	171.11111111111111
+27902	35	35	0	New Mexico	339930	Doll, toy, and game manufacturing	33	0400000US35	3.2222222222222223	5.666666666666667	158.22222222222223
+27903	35	35	0	New Mexico	339940	Office supplies (except paper) manufacturing	33	0400000US35	1.0	0.0	0.0
+27904	35	35	0	New Mexico	339950	Sign manufacturing	33	0400000US35	27.88888888888889	204.77777777777777	7021.555555555556
+27905	35	35	0	New Mexico	339991	Gasket, packing, and sealing device manufacturing	33	0400000US35	3.888888888888889	21.88888888888889	1190.888888888889
+27906	35	35	0	New Mexico	339992	Musical instrument manufacturing	33	0400000US35	3.4444444444444446	4.222222222222222	60.77777777777778
+27907	35	35	0	New Mexico	339993	Fastener, button, needle, and pin manufacturing	33	0400000US35	1.25	0.0	0.0
+27908	35	35	0	New Mexico	339994	Broom, brush, and mop manufacturing	33	0400000US35	1.0	0.0	0.0
+27909	35	35	0	New Mexico	339995	Burial casket manufacturing	33	0400000US35	1.3333333333333333	0.0	0.0
+27910	35	35	0	New Mexico	339999	All other miscellaneous manufacturing	33	0400000US35	27.88888888888889	211.88888888888889	6980.666666666667
+27911	35	35	0	New Mexico	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US35	23.22222222222222	390.0	21754.444444444445
+27912	35	35	0	New Mexico	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US35	61.22222222222222	820.3333333333334	31811.444444444445
+27913	35	35	0	New Mexico	423130	Tire and tube merchant wholesalers	42	0400000US35	9.11111111111111	149.44444444444446	5315.111111111111
+27914	35	35	0	New Mexico	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US35	3.6666666666666665	15.11111111111111	676.2222222222222
+27915	35	35	0	New Mexico	423210	Furniture merchant wholesalers	42	0400000US35	21.333333333333332	218.0	11908.333333333334
+27916	35	35	0	New Mexico	423220	Home furnishing merchant wholesalers	42	0400000US35	31.333333333333332	283.8888888888889	14905.555555555555
+27917	35	35	0	New Mexico	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US35	32.44444444444444	424.77777777777777	21521.666666666668
+27918	35	35	0	New Mexico	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US35	24.444444444444443	225.66666666666666	10921.888888888889
+27919	35	35	0	New Mexico	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US35	10.11111111111111	83.33333333333333	4536.0
+27920	35	35	0	New Mexico	423390	Other construction material merchant wholesalers	42	0400000US35	21.88888888888889	155.0	9529.555555555555
+27921	35	35	0	New Mexico	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US35	2.6	1.2	84.8
+27922	35	35	0	New Mexico	423420	Office equipment merchant wholesalers	42	0400000US35	39.333333333333336	393.3333333333333	19736.0
+27923	35	35	0	New Mexico	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US35	32.111111111111114	350.77777777777777	28647.0
+27924	35	35	0	New Mexico	423440	Other commercial equipment merchant wholesalers	42	0400000US35	17.77777777777778	115.11111111111111	5582.444444444444
+27925	35	35	0	New Mexico	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US35	46.0	381.55555555555554	24860.222222222223
+27926	35	35	0	New Mexico	423460	Ophthalmic goods merchant wholesalers	42	0400000US35	4.111111111111111	2.5555555555555554	44.55555555555556
+27927	35	35	0	New Mexico	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US35	10.11111111111111	20.666666666666668	1083.4444444444443
+27928	35	35	0	New Mexico	423510	Metal service centers and other metal merchant wholesalers	42	0400000US35	43.77777777777778	388.0	18912.444444444445
+27929	35	35	0	New Mexico	423520	Coal and other mineral and ore merchant wholesalers	42	0400000US35	3.7777777777777777	10.222222222222221	805.5555555555555
+27930	35	35	0	New Mexico	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US35	66.66666666666667	674.3333333333334	41557.0
+27931	35	35	0	New Mexico	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US35	9.6	50.2	2343.6
+27932	35	35	0	New Mexico	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US35	8.0	41.0	2009.0
+27933	35	35	0	New Mexico	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US35	54.77777777777778	1062.888888888889	93670.88888888889
+27934	35	35	0	New Mexico	423710	Hardware merchant wholesalers	42	0400000US35	20.555555555555557	111.22222222222223	4801.666666666667
+27935	35	35	0	New Mexico	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US35	53.888888888888886	450.8888888888889	27268.555555555555
+27936	35	35	0	New Mexico	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US35	24.555555555555557	224.0	17625.333333333332
+27937	35	35	0	New Mexico	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US35	6.666666666666667	37.55555555555556	2204.1111111111113
+27938	35	35	0	New Mexico	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US35	31.22222222222222	587.0	38551.11111111111
+27939	35	35	0	New Mexico	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US35	39.0	302.44444444444446	14393.111111111111
+27940	35	35	0	New Mexico	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US35	188.33333333333334	1887.6666666666667	120498.33333333333
+27941	35	35	0	New Mexico	423840	Industrial supplies merchant wholesalers	42	0400000US35	42.0	337.44444444444446	18545.666666666668
+27942	35	35	0	New Mexico	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US35	29.77777777777778	240.22222222222223	11001.888888888889
+27943	35	35	0	New Mexico	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US35	8.222222222222221	97.88888888888889	5198.777777777777
+27944	35	35	0	New Mexico	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US35	15.0	166.88888888888889	7233.222222222223
+27945	35	35	0	New Mexico	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US35	6.0	7.6	238.2
+27946	35	35	0	New Mexico	423930	Recyclable material merchant wholesalers	42	0400000US35	34.77777777777778	377.77777777777777	12570.111111111111
+27947	35	35	0	New Mexico	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US35	63.44444444444444	442.6666666666667	13488.333333333334
+27948	35	35	0	New Mexico	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US35	44.0	318.3333333333333	13816.222222222223
+27949	35	35	0	New Mexico	424110	Printing and writing paper merchant wholesalers	42	0400000US35	2.888888888888889	13.333333333333334	703.1111111111111
+27950	35	35	0	New Mexico	424120	Stationery and office supplies merchant wholesalers	42	0400000US35	19.0	182.55555555555554	7719.111111111111
+27951	35	35	0	New Mexico	424130	Industrial and personal service paper merchant wholesalers	42	0400000US35	11.11111111111111	135.77777777777777	5997.111111111111
+27952	35	35	0	New Mexico	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US35	41.111111111111114	468.55555555555554	27663.777777777777
+27953	35	35	0	New Mexico	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US35	3.3333333333333335	5.333333333333333	331.55555555555554
+27954	35	35	0	New Mexico	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US35	4.6	37.2	1926.6
+27955	35	35	0	New Mexico	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US35	8.333333333333334	21.333333333333332	806.8888888888889
+27956	35	35	0	New Mexico	424340	Footwear merchant wholesalers	42	0400000US35	4.444444444444445	0.0	0.0
+27957	35	35	0	New Mexico	424410	General line grocery merchant wholesalers	42	0400000US35	10.555555555555555	830.2222222222222	52804.444444444445
+27958	35	35	0	New Mexico	424420	Packaged frozen food merchant wholesalers	42	0400000US35	13.11111111111111	352.0	15247.333333333334
+27959	35	35	0	New Mexico	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US35	9.11111111111111	171.66666666666666	7878.333333333333
+27960	35	35	0	New Mexico	424450	Confectionery merchant wholesalers	42	0400000US35	23.444444444444443	132.66666666666666	5515.777777777777
+27961	35	35	0	New Mexico	424460	Fish and seafood merchant wholesalers	42	0400000US35	2.2	0.0	0.0
+27962	35	35	0	New Mexico	424470	Meat and meat product merchant wholesalers	42	0400000US35	9.666666666666666	102.66666666666667	2916.222222222222
+27963	35	35	0	New Mexico	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US35	14.444444444444445	131.55555555555554	6285.888888888889
+27964	35	35	0	New Mexico	424490	Other grocery and related products merchant wholesalers	42	0400000US35	69.0	1108.5555555555557	42480.0
+27965	35	35	0	New Mexico	424510	Grain and field bean merchant wholesalers	42	0400000US35	8.444444444444445	63.0	2720.1111111111113
+27966	35	35	0	New Mexico	424520	Livestock merchant wholesalers	42	0400000US35	10.88888888888889	153.44444444444446	2670.777777777778
+27967	35	35	0	New Mexico	424590	Other farm product raw material merchant wholesalers	42	0400000US35	4.888888888888889	17.444444444444443	371.6666666666667
+27968	35	35	0	New Mexico	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US35	11.11111111111111	182.66666666666666	3879.5555555555557
+27969	35	35	0	New Mexico	424690	Other chemical and allied products merchant wholesalers	42	0400000US35	67.22222222222223	662.2222222222222	40300.77777777778
+27970	35	35	0	New Mexico	424710	Petroleum bulk stations and terminals	42	0400000US35	45.4	478.8	18141.0
+27971	35	35	0	New Mexico	424710	Petroleum bulk stations and terminals 	42	0400000US35	36.0	261.0	13447.0
+27972	35	35	0	New Mexico	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US35	16.0	76.6	3041.4
+27973	35	35	0	New Mexico	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US35	20.0	122.0	6042.0
+27974	35	35	0	New Mexico	424810	Beer and ale merchant wholesalers	42	0400000US35	16.11111111111111	516.5555555555555	21753.11111111111
+27975	35	35	0	New Mexico	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US35	8.777777777777779	462.3333333333333	22993.555555555555
+27976	35	35	0	New Mexico	424910	Farm supplies merchant wholesalers	42	0400000US35	28.88888888888889	243.55555555555554	13065.666666666666
+27977	35	35	0	New Mexico	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US35	4.444444444444445	26.555555555555557	976.4444444444445
+27978	35	35	0	New Mexico	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US35	12.0	131.0	4112.555555555556
+27979	35	35	0	New Mexico	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US35	6.333333333333333	192.88888888888889	8133.777777777777
+27980	35	35	0	New Mexico	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US35	9.333333333333334	45.888888888888886	2192.5555555555557
+27981	35	35	0	New Mexico	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US35	40.666666666666664	146.66666666666666	5427.222222222223
+27982	35	35	0	New Mexico	425110	Business to business electronic markets	42	0400000US35	1.0	0.0	0.0
+27983	35	35	0	New Mexico	425120	Wholesale trade agents and brokers	42	0400000US35	113.44444444444444	820.6666666666666	35340.666666666664
+27984	35	35	0	New Mexico	441110	New car dealers	44	0400000US35	148.77777777777777	7184.333333333333	357335.55555555556
+27985	35	35	0	New Mexico	441120	Used car dealers	44	0400000US35	155.77777777777777	850.3333333333334	32219.11111111111
+27986	35	35	0	New Mexico	441210	Recreational vehicle dealers	44	0400000US35	27.555555555555557	431.1111111111111	21165.444444444445
+27987	35	35	0	New Mexico	441222	Boat dealers	44	0400000US35	4.111111111111111	4.777777777777778	293.0
+27988	35	35	0	New Mexico	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US35	48.111111111111114	486.77777777777777	15684.777777777777
+27989	35	35	0	New Mexico	441310	Automotive parts and accessories stores	44	0400000US35	274.22222222222223	2505.4444444444443	63186.22222222222
+27990	35	35	0	New Mexico	441320	Tire dealers	44	0400000US35	160.11111111111111	1518.6666666666667	55271.22222222222
+27991	35	35	0	New Mexico	442110	Furniture stores	44	0400000US35	130.33333333333334	1188.6666666666667	39147.666666666664
+27992	35	35	0	New Mexico	442210	Floor covering stores	44	0400000US35	76.0	364.6666666666667	14688.0
+27993	35	35	0	New Mexico	442291	Window treatment stores	44	0400000US35	5.111111111111111	15.0	532.8888888888889
+27994	35	35	0	New Mexico	442299	All other home furnishings stores	44	0400000US35	108.22222222222223	753.3333333333334	14103.0
+27995	35	35	0	New Mexico	443141	Household appliance stores	44	0400000US35	43.55555555555556	314.22222222222223	13435.555555555555
+27996	35	35	0	New Mexico	443142	Electronics stores	44	0400000US35	178.0	1748.3333333333333	38239.11111111111
+27997	35	35	0	New Mexico	444110	Home centers	44	0400000US35	50.44444444444444	3173.0	77197.77777777778
+27998	35	35	0	New Mexico	444120	Paint and wallpaper stores	44	0400000US35	35.77777777777778	131.22222222222223	5455.555555555556
+27999	35	35	0	New Mexico	444130	Hardware stores	44	0400000US35	102.0	956.6666666666666	23201.11111111111
+28000	35	35	0	New Mexico	444190	Other building material dealers	44	0400000US35	195.88888888888889	1687.4444444444443	67341.0
+28001	35	35	0	New Mexico	444210	Outdoor power equipment stores	44	0400000US35	12.333333333333334	37.22222222222222	1708.5555555555557
+28002	35	35	0	New Mexico	444220	Nursery, garden center, and farm supply stores	44	0400000US35	93.22222222222223	878.3333333333334	20125.0
+28003	35	35	0	New Mexico	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US35	254.33333333333334	13201.222222222223	307513.77777777775
+28004	35	35	0	New Mexico	445120	Convenience stores	44	0400000US35	35.77777777777778	189.44444444444446	3562.5555555555557
+28005	35	35	0	New Mexico	445210	Meat markets	44	0400000US35	24.22222222222222	154.88888888888889	3046.4444444444443
+28006	35	35	0	New Mexico	445220	Fish and seafood markets	44	0400000US35	1.0	0.0	0.0
+28007	35	35	0	New Mexico	445230	Fruit and vegetable markets	44	0400000US35	10.777777777777779	69.0	1455.888888888889
+28008	35	35	0	New Mexico	445291	Baked goods stores	44	0400000US35	12.333333333333334	117.0	4095.5555555555557
+28009	35	35	0	New Mexico	445292	Confectionery and nut stores	44	0400000US35	13.777777777777779	68.11111111111111	1110.3333333333333
+28010	35	35	0	New Mexico	445299	All other specialty food stores	44	0400000US35	48.666666666666664	316.6666666666667	5338.222222222223
+28011	35	35	0	New Mexico	445310	Beer, wine, and liquor stores	44	0400000US35	85.0	631.5555555555555	12299.444444444445
+28012	35	35	0	New Mexico	446110	Pharmacies and drug stores	44	0400000US35	177.88888888888889	3487.3333333333335	128248.77777777778
+28013	35	35	0	New Mexico	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US35	67.22222222222223	554.1111111111111	10251.444444444445
+28014	35	35	0	New Mexico	446130	Optical goods stores	44	0400000US35	67.22222222222223	415.8888888888889	10468.666666666666
+28015	35	35	0	New Mexico	446191	Food (health) supplement stores	44	0400000US35	57.44444444444444	168.55555555555554	5957.111111111111
+28016	35	35	0	New Mexico	446199	All other health and personal care stores	44	0400000US35	64.55555555555556	597.0	23767.555555555555
+28017	35	35	0	New Mexico	447110	Gasoline stations with convenience stores	44	0400000US35	760.0	6698.333333333333	134392.66666666666
+28018	35	35	0	New Mexico	447190	Other gasoline stations	44	0400000US35	103.11111111111111	1906.0	42226.77777777778
+28019	35	35	0	New Mexico	448110	Men's clothing stores	44	0400000US35	29.77777777777778	160.77777777777777	4427.111111111111
+28020	35	35	0	New Mexico	448120	Women's clothing stores	44	0400000US35	186.0	1443.2222222222222	19464.88888888889
+28021	35	35	0	New Mexico	448130	Children's and infants' clothing stores	44	0400000US35	20.333333333333332	169.44444444444446	2398.8888888888887
+28022	35	35	0	New Mexico	448140	Family clothing stores	44	0400000US35	168.11111111111111	3106.1111111111113	41427.666666666664
+28023	35	35	0	New Mexico	448150	Clothing accessories stores	44	0400000US35	46.55555555555556	150.88888888888889	3691.6666666666665
+28024	35	35	0	New Mexico	448190	Other clothing stores	44	0400000US35	54.22222222222222	421.44444444444446	8282.555555555555
+28025	35	35	0	New Mexico	448210	Shoe stores	44	0400000US35	166.0	1148.7777777777778	19583.777777777777
+28026	35	35	0	New Mexico	448310	Jewelry stores	44	0400000US35	169.0	790.6666666666666	23009.444444444445
+28027	35	35	0	New Mexico	448320	Luggage and leather goods stores	44	0400000US35	5.666666666666667	13.666666666666666	318.0
+28028	35	35	0	New Mexico	451110	Sporting goods stores	45	0400000US35	153.88888888888889	1318.7777777777778	24908.777777777777
+28029	35	35	0	New Mexico	451120	Hobby, toy, and game stores	45	0400000US35	56.77777777777778	780.6666666666666	14125.888888888889
+28030	35	35	0	New Mexico	451130	Sewing, needlework, and piece goods stores	45	0400000US35	27.77777777777778	206.44444444444446	2314.3333333333335
+28031	35	35	0	New Mexico	451140	Musical instrument and supplies stores	45	0400000US35	19.555555555555557	129.44444444444446	4281.666666666667
+28032	35	35	0	New Mexico	451211	Book stores	45	0400000US35	55.111111111111114	371.8888888888889	7028.111111111111
+28033	35	35	0	New Mexico	451212	News dealers and newsstands	45	0400000US35	1.8	0.0	0.0
+28034	35	35	0	New Mexico	452111	Department stores (except discount department stores)	45	0400000US35	22.0	2235.0	42510.2
+28035	35	35	0	New Mexico	452112	Discount department stores	45	0400000US35	32.2	1287.0	26693.0
+28036	35	35	0	New Mexico	452210	Department stores	45	0400000US35	29.0	2540.0	46455.0
+28037	35	35	0	New Mexico	452311	Warehouse clubs and supercenters	45	0400000US35	67.0	14499.0	404970.0
+28038	35	35	0	New Mexico	452319	All other general merchandise stores	45	0400000US35	327.0	2876.0	46008.0
+28039	35	35	0	New Mexico	452910	Warehouse clubs and supercenters	45	0400000US35	45.0	0.0	0.0
+28040	35	35	0	New Mexico	452990	All other general merchandise stores	45	0400000US35	298.2	2466.4	41754.0
+28041	35	35	0	New Mexico	453110	Florists	45	0400000US35	76.0	234.44444444444446	4833.222222222223
+28042	35	35	0	New Mexico	453210	Office supplies and stationery stores	45	0400000US35	46.333333333333336	505.8888888888889	10973.222222222223
+28043	35	35	0	New Mexico	453220	Gift, novelty, and souvenir stores	45	0400000US35	175.77777777777777	974.2222222222222	19809.88888888889
+28044	35	35	0	New Mexico	453310	Used merchandise stores	45	0400000US35	138.66666666666666	1210.7777777777778	22280.555555555555
+28045	35	35	0	New Mexico	453910	Pet and pet supplies stores	45	0400000US35	58.77777777777778	628.8888888888889	13588.444444444445
+28046	35	35	0	New Mexico	453920	Art dealers	45	0400000US35	162.44444444444446	489.22222222222223	20145.666666666668
+28047	35	35	0	New Mexico	453930	Manufactured (mobile) home dealers	45	0400000US35	38.888888888888886	182.44444444444446	8006.555555555556
+28048	35	35	0	New Mexico	453991	Tobacco stores	45	0400000US35	68.88888888888889	380.55555555555554	7513.555555555556
+28049	35	35	0	New Mexico	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US35	139.11111111111111	584.1111111111111	15660.444444444445
+28050	35	35	0	New Mexico	454110	Electronic shopping and mail-order houses	45	0400000US35	124.0	659.0	23704.0
+28051	35	35	0	New Mexico	454111	Electronic shopping	45	0400000US35	79.8	253.4	8122.6
+28052	35	35	0	New Mexico	454112	Electronic auctions	45	0400000US35	2.8	4.4	201.4
+28053	35	35	0	New Mexico	454113	Mail-order houses	45	0400000US35	25.0	749.6	29386.2
+28054	35	35	0	New Mexico	454210	Vending machine operators	45	0400000US35	15.555555555555555	132.88888888888889	2904.777777777778
+28055	35	35	0	New Mexico	454310	Fuel dealers	45	0400000US35	91.88888888888889	587.7777777777778	20299.666666666668
+28056	35	35	0	New Mexico	454390	Other direct selling establishments	45	0400000US35	123.88888888888889	555.1111111111111	17254.88888888889
+28057	35	35	0	New Mexico	481111	Scheduled passenger air transportation	48	0400000US35	11.666666666666666	228.66666666666666	10838.555555555555
+28058	35	35	0	New Mexico	481112	Scheduled freight air transportation	48	0400000US35	1.0	0.0	0.0
+28059	35	35	0	New Mexico	481211	Nonscheduled chartered passenger air transportation	48	0400000US35	9.555555555555555	80.0	10823.888888888889
+28060	35	35	0	New Mexico	481212	Nonscheduled chartered freight air transportation	48	0400000US35	1.0	0.0	0.0
+28061	35	35	0	New Mexico	481219	Other nonscheduled air transportation	48	0400000US35	8.777777777777779	91.22222222222223	6496.222222222223
+28062	35	35	0	New Mexico	483113	Coastal and great lakes freight transportation	48	0400000US35	1.0	0.0	0.0
+28063	35	35	0	New Mexico	483114	Coastal and great lakes passenger transportation	48	0400000US35	1.0	0.0	0.0
+28064	35	35	0	New Mexico	483211	Inland water freight transportation	48	0400000US35	4.0	5.222222222222222	341.3333333333333
+28065	35	35	0	New Mexico	484110	General freight trucking, local	48	0400000US35	145.55555555555554	847.5555555555555	37041.0
+28066	35	35	0	New Mexico	484121	General freight trucking, long-distance, truckload	48	0400000US35	186.77777777777777	1307.888888888889	57251.22222222222
+28067	35	35	0	New Mexico	484122	General freight trucking, long-distance, less than truckload	48	0400000US35	67.55555555555556	1166.888888888889	67158.66666666667
+28068	35	35	0	New Mexico	484210	Used household and office goods moving	48	0400000US35	46.55555555555556	499.55555555555554	14573.0
+28069	35	35	0	New Mexico	484220	Specialized freight (except used goods) trucking, local	48	0400000US35	227.11111111111111	2157.6666666666665	122455.0
+28070	35	35	0	New Mexico	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US35	97.33333333333333	1559.2222222222222	90496.33333333333
+28071	35	35	0	New Mexico	485112	Commuter rail systems	48	0400000US35	1.0	0.0	0.0
+28072	35	35	0	New Mexico	485113	Bus and other motor vehicle transit systems	48	0400000US35	3.0	0.0	0.0
+28073	35	35	0	New Mexico	485119	Other urban transit systems	48	0400000US35	3.0	0.0	0.0
+28074	35	35	0	New Mexico	485210	Interurban and rural bus transportation	48	0400000US35	7.444444444444445	118.0	2634.5555555555557
+28075	35	35	0	New Mexico	485310	Taxi service	48	0400000US35	9.666666666666666	212.88888888888889	4789.333333333333
+28076	35	35	0	New Mexico	485320	Limousine service	48	0400000US35	6.888888888888889	59.55555555555556	1318.6666666666667
+28077	35	35	0	New Mexico	485410	School and employee bus transportation	48	0400000US35	65.22222222222223	2084.222222222222	33466.444444444445
+28078	35	35	0	New Mexico	485510	Charter bus industry	48	0400000US35	4.111111111111111	70.0	1953.0
+28079	35	35	0	New Mexico	485991	Special needs transportation	48	0400000US35	18.0	828.1111111111111	16389.0
+28080	35	35	0	New Mexico	485999	All other transit and ground passenger transportation	48	0400000US35	11.0	171.33333333333334	3293.222222222222
+28081	35	35	0	New Mexico	486110	Pipeline transportation of crude oil	48	0400000US35	11.88888888888889	161.88888888888889	13998.0
+28082	35	35	0	New Mexico	486210	Pipeline transportation of natural gas	48	0400000US35	61.333333333333336	315.0	35441.11111111111
+28083	35	35	0	New Mexico	486910	Pipeline transportation of refined petroleum products	48	0400000US35	10.555555555555555	110.66666666666667	10559.777777777777
+28084	35	35	0	New Mexico	487110	Scenic and sightseeing transportation, land	48	0400000US35	2.4	6.8	123.4
+28085	35	35	0	New Mexico	487990	Scenic and sightseeing transportation, other	48	0400000US35	3.6666666666666665	34.22222222222222	708.4444444444445
+28086	35	35	0	New Mexico	488111	Air traffic control	48	0400000US35	3.7777777777777777	0.0	0.0
+28087	35	35	0	New Mexico	488119	Other airport operations	48	0400000US35	16.444444444444443	285.77777777777777	7859.333333333333
+28088	35	35	0	New Mexico	488190	Other support activities for air transportation	48	0400000US35	26.0	283.22222222222223	13453.888888888889
+28089	35	35	0	New Mexico	488210	Support activities for rail transportation	48	0400000US35	8.333333333333334	79.44444444444444	3179.777777777778
+28090	35	35	0	New Mexico	488410	Motor vehicle towing	48	0400000US35	85.11111111111111	381.44444444444446	10800.111111111111
+28091	35	35	0	New Mexico	488490	Other support activities for road transportation	48	0400000US35	16.77777777777778	126.0	4271.111111111111
+28092	35	35	0	New Mexico	488510	Freight transportation arrangement	48	0400000US35	35.333333333333336	216.55555555555554	9030.444444444445
+28093	35	35	0	New Mexico	488991	Packing and crating	48	0400000US35	8.222222222222221	24.11111111111111	660.2222222222222
+28094	35	35	0	New Mexico	488999	All other support activities for transportation	48	0400000US35	1.0	0.0	0.0
+28095	35	35	0	New Mexico	492110	Couriers and express delivery services	49	0400000US35	91.66666666666667	2246.5555555555557	98939.88888888889
+28096	35	35	0	New Mexico	492210	Local messengers and local delivery	49	0400000US35	14.555555555555555	59.0	1882.7777777777778
+28097	35	35	0	New Mexico	493110	General warehousing and storage	49	0400000US35	33.666666666666664	663.0	28376.777777777777
+28098	35	35	0	New Mexico	493120	Refrigerated warehousing and storage	49	0400000US35	6.0	47.111111111111114	2201.6666666666665
+28099	35	35	0	New Mexico	493130	Farm product warehousing and storage	49	0400000US35	2.4	0.0	82.2
+28100	35	35	0	New Mexico	493190	Other warehousing and storage	49	0400000US35	17.333333333333332	114.0	6956.444444444444
+28101	35	35	0	New Mexico	511110	Newspaper publishers	51	0400000US35	51.77777777777778	1185.6666666666667	40382.22222222222
+28102	35	35	0	New Mexico	511120	Periodical publishers	51	0400000US35	32.77777777777778	147.44444444444446	7968.0
+28103	35	35	0	New Mexico	511130	Book publishers	51	0400000US35	18.666666666666668	223.88888888888889	11495.555555555555
+28104	35	35	0	New Mexico	511140	Directory and mailing list publishers	51	0400000US35	3.7777777777777777	33.666666666666664	1455.888888888889
+28105	35	35	0	New Mexico	511191	Greeting card publishers	51	0400000US35	1.0	0.0	0.0
+28106	35	35	0	New Mexico	511199	All other publishers	51	0400000US35	2.8	2.8	85.6
+28107	35	35	0	New Mexico	511210	Software publishers	51	0400000US35	34.666666666666664	341.55555555555554	38670.666666666664
+28108	35	35	0	New Mexico	512110	Motion picture and video production	51	0400000US35	46.888888888888886	610.6666666666666	9638.444444444445
+28109	35	35	0	New Mexico	512131	Motion picture theaters (except drive-ins)	51	0400000US35	37.55555555555556	811.4444444444445	11778.111111111111
+28110	35	35	0	New Mexico	512132	Drive-in motion picture theaters	51	0400000US35	2.0	0.0	0.0
+28111	35	35	0	New Mexico	512191	Teleproduction and other postproduction services	51	0400000US35	3.0	3.0	151.66666666666666
+28112	35	35	0	New Mexico	512230	Music publishers	51	0400000US35	2.6666666666666665	3.111111111111111	68.44444444444444
+28113	35	35	0	New Mexico	512240	Sound recording studios	51	0400000US35	4.888888888888889	5.666666666666667	195.33333333333334
+28114	35	35	0	New Mexico	512290	Other sound recording industries	51	0400000US35	2.2	0.0	0.0
+28115	35	35	0	New Mexico	515111	Radio networks	51	0400000US35	6.222222222222222	47.77777777777778	2045.888888888889
+28116	35	35	0	New Mexico	515112	Radio stations	51	0400000US35	57.888888888888886	617.0	22947.0
+28117	35	35	0	New Mexico	515120	Television broadcasting	51	0400000US35	18.444444444444443	591.0	29562.555555555555
+28118	35	35	0	New Mexico	515210	Cable and other subscription programming	51	0400000US35	2.2	0.0	0.0
+28119	35	35	0	New Mexico	517110	Wired telecommunications carriers	51	0400000US35	206.0	2540.4	157004.8
+28120	35	35	0	New Mexico	517210	Wireless telecommunications carriers (except satellite)	51	0400000US35	79.4	3853.2	169446.6
+28121	35	35	0	New Mexico	517311	Wired telecommunications carriers	51	0400000US35	213.0	2788.0	161303.0
+28122	35	35	0	New Mexico	517312	Wireless telecommunications carriers (except satellite)	51	0400000US35	151.0	3679.0	174325.0
+28123	35	35	0	New Mexico	517410	Satellite telecommunications	51	0400000US35	3.6	10.2	288.2
+28124	35	35	0	New Mexico	517911	Telecommunications resellers	51	0400000US35	10.0	35.666666666666664	985.7777777777778
+28125	35	35	0	New Mexico	517919	All other telecommunications	51	0400000US35	11.777777777777779	47.55555555555556	1644.2222222222222
+28126	35	35	0	New Mexico	518210	Data processing, hosting, and related services	51	0400000US35	63.333333333333336	633.1111111111111	37443.0
+28127	35	35	0	New Mexico	519110	News syndicates	51	0400000US35	6.111111111111111	114.22222222222223	5625.0
+28128	35	35	0	New Mexico	519120	Libraries and archives	51	0400000US35	10.333333333333334	30.666666666666668	706.2222222222222
+28129	35	35	0	New Mexico	519130	Internet publishing and broadcasting and web search portals	51	0400000US35	20.333333333333332	58.666666666666664	3514.0
+28130	35	35	0	New Mexico	519190	All other information services	51	0400000US35	11.11111111111111	26.444444444444443	1116.7777777777778
+28131	35	35	0	New Mexico	522110	Commercial banking	52	0400000US35	482.1111111111111	6060.666666666667	283136.6666666667
+28132	35	35	0	New Mexico	522120	Savings institutions	52	0400000US35	34.55555555555556	303.1111111111111	18282.555555555555
+28133	35	35	0	New Mexico	522130	Credit unions	52	0400000US35	145.11111111111111	2693.0	119717.44444444444
+28134	35	35	0	New Mexico	522210	Credit card issuing	52	0400000US35	5.111111111111111	0.0	393.55555555555554
+28135	35	35	0	New Mexico	522220	Sales financing	52	0400000US35	17.11111111111111	80.66666666666667	3939.4444444444443
+28136	35	35	0	New Mexico	522291	Consumer lending	52	0400000US35	341.3333333333333	1186.2222222222222	37879.11111111111
+28137	35	35	0	New Mexico	522292	Real estate credit	52	0400000US35	69.77777777777777	793.8888888888889	61816.0
+28138	35	35	0	New Mexico	522294	Secondary market financing	52	0400000US35	1.4	0.0	0.0
+28139	35	35	0	New Mexico	522298	All other nondepository credit intermediation	52	0400000US35	102.33333333333333	533.8888888888889	21780.11111111111
+28140	35	35	0	New Mexico	522310	Mortgage and nonmortgage loan brokers	52	0400000US35	33.333333333333336	72.0	5679.888888888889
+28141	35	35	0	New Mexico	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US35	9.777777777777779	61.44444444444444	3020.0
+28142	35	35	0	New Mexico	522390	Other activities related to credit intermediation	52	0400000US35	128.0	333.0	10963.111111111111
+28143	35	35	0	New Mexico	523110	Investment banking and securities dealing	52	0400000US35	10.11111111111111	2.6666666666666665	622.4444444444445
+28144	35	35	0	New Mexico	523120	Securities brokerage	52	0400000US35	119.0	415.3333333333333	94049.77777777778
+28145	35	35	0	New Mexico	523130	Commodity contracts dealing	52	0400000US35	1.75	0.0	0.0
+28146	35	35	0	New Mexico	523140	Commodity contracts brokerage	52	0400000US35	5.6	4.0	491.0
+28147	35	35	0	New Mexico	523910	Miscellaneous intermediation	52	0400000US35	40.77777777777778	68.33333333333333	5600.777777777777
+28148	35	35	0	New Mexico	523920	Portfolio management	52	0400000US35	121.22222222222223	676.5555555555555	70609.33333333333
+28149	35	35	0	New Mexico	523930	Investment advice	52	0400000US35	47.0	114.11111111111111	8605.444444444445
+28150	35	35	0	New Mexico	523991	Trust, fiduciary, and custody activities	52	0400000US35	14.777777777777779	58.111111111111114	4123.333333333333
+28151	35	35	0	New Mexico	523999	Miscellaneous financial investment activities	52	0400000US35	12.333333333333334	60.22222222222222	2480.1111111111113
+28152	35	35	0	New Mexico	524113	Direct life insurance carriers	52	0400000US35	39.77777777777778	273.77777777777777	15555.666666666666
+28153	35	35	0	New Mexico	524114	Direct health and medical insurance carriers	52	0400000US35	32.888888888888886	3188.6666666666665	205207.33333333334
+28154	35	35	0	New Mexico	524126	Direct property and casualty insurance carriers	52	0400000US35	54.888888888888886	732.7777777777778	41316.333333333336
+28155	35	35	0	New Mexico	524127	Direct title insurance carriers	52	0400000US35	29.444444444444443	386.44444444444446	24631.555555555555
+28156	35	35	0	New Mexico	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US35	3.111111111111111	0.8888888888888888	34.888888888888886
+28157	35	35	0	New Mexico	524130	Reinsurance carriers	52	0400000US35	1.5	0.0	0.0
+28158	35	35	0	New Mexico	524210	Insurance agencies and brokerages	52	0400000US35	753.5555555555555	3022.1111111111113	133531.55555555556
+28159	35	35	0	New Mexico	524291	Claims adjusting	52	0400000US35	24.666666666666668	80.44444444444444	4101.555555555556
+28160	35	35	0	New Mexico	524292	Third party administration of insurance and pension funds	52	0400000US35	24.77777777777778	1092.7777777777778	42122.555555555555
+28161	35	35	0	New Mexico	524298	All other insurance related activities	52	0400000US35	12.555555555555555	41.77777777777778	2585.0
+28162	35	35	0	New Mexico	525990	Other financial vehicles	52	0400000US35	6.555555555555555	7.111111111111111	390.44444444444446
+28163	35	35	0	New Mexico	531110	Lessors of residential buildings and dwellings	53	0400000US35	329.8888888888889	1224.3333333333333	33662.333333333336
+28164	35	35	0	New Mexico	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US35	193.77777777777777	593.7777777777778	21153.777777777777
+28165	35	35	0	New Mexico	531130	Lessors of miniwarehouses and self-storage units	53	0400000US35	183.77777777777777	401.22222222222223	9149.555555555555
+28166	35	35	0	New Mexico	531190	Lessors of other real estate property	53	0400000US35	91.88888888888889	281.8888888888889	6927.111111111111
+28167	35	35	0	New Mexico	531210	Offices of real estate agents and brokers	53	0400000US35	559.3333333333334	1253.6666666666667	57237.88888888889
+28168	35	35	0	New Mexico	531311	Residential property managers	53	0400000US35	259.3333333333333	1206.5555555555557	40010.11111111111
+28169	35	35	0	New Mexico	531312	Nonresidential property managers	53	0400000US35	89.22222222222223	559.0	29208.88888888889
+28170	35	35	0	New Mexico	531320	Offices of real estate appraisers	53	0400000US35	103.33333333333333	153.0	6486.0
+28171	35	35	0	New Mexico	531390	Other activities related to real estate	53	0400000US35	74.0	249.77777777777777	9403.222222222223
+28172	35	35	0	New Mexico	532111	Passenger car rental	53	0400000US35	59.55555555555556	328.0	10039.333333333334
+28173	35	35	0	New Mexico	532112	Passenger car leasing	53	0400000US35	2.0	0.0	0.0
+28174	35	35	0	New Mexico	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US35	34.888888888888886	217.11111111111111	9616.666666666666
+28175	35	35	0	New Mexico	532210	Consumer electronics and appliances rental	53	0400000US35	70.55555555555556	225.88888888888889	7544.888888888889
+28176	35	35	0	New Mexico	532220	Formal wear and costume rental	53	0400000US35	4.0	10.0	233.6
+28177	35	35	0	New Mexico	532230	Video tape and disc rental	53	0400000US35	18.4	45.8	613.8
+28178	35	35	0	New Mexico	532281	Formal wear and costume rental	53	0400000US35	3.0	8.0	156.0
+28179	35	35	0	New Mexico	532282	Video tape and disc rental	53	0400000US35	13.0	97.0	1330.0
+28180	35	35	0	New Mexico	532283	Home health equipment rental	53	0400000US35	45.0	255.0	10224.0
+28181	35	35	0	New Mexico	532284	Recreational goods rental	53	0400000US35	16.0	79.0	1057.0
+28182	35	35	0	New Mexico	532289	All other consumer goods rental	53	0400000US35	25.0	187.0	4242.0
+28183	35	35	0	New Mexico	532291	Home health equipment rental	53	0400000US35	52.4	318.2	12463.6
+28184	35	35	0	New Mexico	532292	Recreational goods rental	53	0400000US35	19.2	101.6	1089.2
+28185	35	35	0	New Mexico	532299	All other consumer goods rental	53	0400000US35	38.4	124.6	6731.6
+28186	35	35	0	New Mexico	532310	General rental centers	53	0400000US35	19.666666666666668	95.33333333333333	2920.777777777778
+28187	35	35	0	New Mexico	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US35	3.8	2.8	240.8
+28188	35	35	0	New Mexico	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US35	72.55555555555556	1137.2222222222222	83982.88888888889
+28189	35	35	0	New Mexico	532420	Office machinery and equipment rental and leasing	53	0400000US35	6.0	28.77777777777778	1871.111111111111
+28190	35	35	0	New Mexico	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US35	62.22222222222222	536.2222222222222	28432.555555555555
+28191	35	35	0	New Mexico	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US35	15.11111111111111	52.888888888888886	2218.5555555555557
+28192	35	35	0	New Mexico	541110	Offices of lawyers	54	0400000US35	1096.2222222222222	5112.0	348229.77777777775
+28193	35	35	0	New Mexico	541191	Title abstract and settlement offices	54	0400000US35	43.333333333333336	324.8888888888889	13811.111111111111
+28194	35	35	0	New Mexico	541199	All other legal services	54	0400000US35	18.22222222222222	32.666666666666664	1194.2222222222222
+28195	35	35	0	New Mexico	541211	Offices of certified public accountants	54	0400000US35	380.3333333333333	2057.6666666666665	110955.66666666667
+28196	35	35	0	New Mexico	541213	Tax preparation services	54	0400000US35	159.22222222222223	1076.5555555555557	10849.111111111111
+28197	35	35	0	New Mexico	541214	Payroll services	54	0400000US35	24.555555555555557	2191.0	62693.444444444445
+28198	35	35	0	New Mexico	541219	Other accounting services	54	0400000US35	224.66666666666666	717.8888888888889	20359.0
+28199	35	35	0	New Mexico	541310	Architectural services	54	0400000US35	144.88888888888889	819.5555555555555	47365.77777777778
+28200	35	35	0	New Mexico	541320	Landscape architectural services	54	0400000US35	21.88888888888889	104.0	4825.666666666667
+28201	35	35	0	New Mexico	541330	Engineering services	54	0400000US35	394.77777777777777	6515.666666666667	470543.8888888889
+28202	35	35	0	New Mexico	541340	Drafting services	54	0400000US35	13.0	33.44444444444444	1573.111111111111
+28203	35	35	0	New Mexico	541350	Building inspection services	54	0400000US35	30.555555555555557	45.333333333333336	2599.8888888888887
+28204	35	35	0	New Mexico	541360	Geophysical surveying and mapping services	54	0400000US35	5.333333333333333	14.333333333333334	823.4444444444445
+28205	35	35	0	New Mexico	541370	Surveying and mapping (except geophysical) services	54	0400000US35	72.22222222222223	375.6666666666667	18483.333333333332
+28206	35	35	0	New Mexico	541380	Testing laboratories	54	0400000US35	42.77777777777778	403.77777777777777	24199.222222222223
+28207	35	35	0	New Mexico	541410	Interior design services	54	0400000US35	40.111111111111114	73.33333333333333	2934.6666666666665
+28208	35	35	0	New Mexico	541420	Industrial design services	54	0400000US35	3.3333333333333335	0.5555555555555556	32.77777777777778
+28209	35	35	0	New Mexico	541430	Graphic design services	54	0400000US35	59.55555555555556	128.11111111111111	5944.777777777777
+28210	35	35	0	New Mexico	541490	Other specialized design services	54	0400000US35	6.6	17.4	1181.6
+28211	35	35	0	New Mexico	541511	Custom computer programming services	54	0400000US35	196.77777777777777	1168.5555555555557	88846.66666666667
+28212	35	35	0	New Mexico	541512	Computer systems design services	54	0400000US35	225.22222222222223	2125.777777777778	149014.44444444444
+28213	35	35	0	New Mexico	541513	Computer facilities management services	54	0400000US35	51.44444444444444	741.8888888888889	51233.88888888889
+28214	35	35	0	New Mexico	541519	Other computer related services	54	0400000US35	48.111111111111114	197.66666666666666	19747.666666666668
+28215	35	35	0	New Mexico	541611	Administrative management and general management consulting services	54	0400000US35	260.8888888888889	1064.2222222222222	70597.88888888889
+28216	35	35	0	New Mexico	541612	Human resources consulting services	54	0400000US35	25.0	345.44444444444446	9979.555555555555
+28217	35	35	0	New Mexico	541613	Marketing consulting services	54	0400000US35	79.0	185.33333333333334	10033.222222222223
+28218	35	35	0	New Mexico	541614	Process, physical distribution, and logistics consulting services	54	0400000US35	36.0	156.11111111111111	7963.555555555556
+28219	35	35	0	New Mexico	541618	Other management consulting services	54	0400000US35	22.0	26.88888888888889	2089.1111111111113
+28220	35	35	0	New Mexico	541620	Environmental consulting services	54	0400000US35	107.77777777777777	775.2222222222222	52072.11111111111
+28221	35	35	0	New Mexico	541690	Other scientific and technical consulting services	54	0400000US35	144.11111111111111	731.0	46180.11111111111
+28222	35	35	0	New Mexico	541711	Research and development in biotechnology	54	0400000US35	14.6	71.0	9342.2
+28223	35	35	0	New Mexico	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US35	154.4	5164.4	479169.2
+28224	35	35	0	New Mexico	541713	Research and development in nanotechnology	54	0400000US35	33.0	10431.0	1055572.0
+28225	35	35	0	New Mexico	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US35	8.0	293.0	18133.0
+28226	35	35	0	New Mexico	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US35	115.0	15428.0	1314234.0
+28227	35	35	0	New Mexico	541720	Research and development in the social sciences and humanities	54	0400000US35	24.22222222222222	173.88888888888889	7106.777777777777
+28228	35	35	0	New Mexico	541810	Advertising agencies	54	0400000US35	43.22222222222222	174.11111111111111	8876.111111111111
+28229	35	35	0	New Mexico	541820	Public relations agencies	54	0400000US35	35.888888888888886	101.55555555555556	6838.666666666667
+28230	35	35	0	New Mexico	541830	Media buying agencies	54	0400000US35	3.888888888888889	8.11111111111111	533.7777777777778
+28231	35	35	0	New Mexico	541840	Media representatives	54	0400000US35	4.0	3.0	222.6
+28232	35	35	0	New Mexico	541850	Outdoor advertising	54	0400000US35	14.777777777777779	92.33333333333333	3350.4444444444443
+28233	35	35	0	New Mexico	541860	Direct mail advertising	54	0400000US35	4.222222222222222	5.0	128.0
+28234	35	35	0	New Mexico	541870	Advertising material distribution services	54	0400000US35	4.777777777777778	16.666666666666668	291.55555555555554
+28235	35	35	0	New Mexico	541890	Other services related to advertising	54	0400000US35	36.55555555555556	286.3333333333333	3528.8888888888887
+28236	35	35	0	New Mexico	541910	Marketing research and public opinion polling	54	0400000US35	12.666666666666666	441.6666666666667	10627.777777777777
+28237	35	35	0	New Mexico	541921	Photography studios, portrait	54	0400000US35	52.111111111111114	188.88888888888889	3625.8888888888887
+28238	35	35	0	New Mexico	541922	Commercial photography	54	0400000US35	26.22222222222222	30.555555555555557	1292.888888888889
+28239	35	35	0	New Mexico	541930	Translation and interpretation services	54	0400000US35	8.666666666666666	12.777777777777779	311.6666666666667
+28240	35	35	0	New Mexico	541940	Veterinary services	54	0400000US35	209.44444444444446	2001.6666666666667	65812.22222222222
+28241	35	35	0	New Mexico	541990	All other professional, scientific, and technical services	54	0400000US35	94.55555555555556	357.22222222222223	22732.222222222223
+28242	35	35	0	New Mexico	551111	Offices of bank holding companies	55	0400000US35	5.0	72.11111111111111	3164.222222222222
+28243	35	35	0	New Mexico	551112	Offices of other holding companies	55	0400000US35	26.555555555555557	202.77777777777777	15613.111111111111
+28244	35	35	0	New Mexico	551114	Corporate, subsidiary, and regional managing offices	55	0400000US35	196.88888888888889	6357.666666666667	378205.55555555556
+28245	35	35	0	New Mexico	561110	Office administrative services	56	0400000US35	122.22222222222223	877.5555555555555	42587.555555555555
+28246	35	35	0	New Mexico	561210	Facilities support services	56	0400000US35	52.666666666666664	3050.5555555555557	121440.66666666667
+28247	35	35	0	New Mexico	561311	Employment placement agencies	56	0400000US35	20.11111111111111	410.6666666666667	9183.111111111111
+28248	35	35	0	New Mexico	561312	Executive search services	56	0400000US35	6.666666666666667	15.555555555555555	1537.888888888889
+28249	35	35	0	New Mexico	561320	Temporary help services	56	0400000US35	129.11111111111111	6025.333333333333	166035.33333333334
+28250	35	35	0	New Mexico	561330	Professional employer organizations	56	0400000US35	9.666666666666666	1272.4444444444443	44740.22222222222
+28251	35	35	0	New Mexico	561410	Document preparation services	56	0400000US35	26.11111111111111	109.44444444444444	2767.0
+28252	35	35	0	New Mexico	561421	Telephone answering services	56	0400000US35	8.222222222222221	112.66666666666667	3436.5555555555557
+28253	35	35	0	New Mexico	561422	Telemarketing bureaus and other contact centers	56	0400000US35	23.666666666666668	4463.666666666667	132591.66666666666
+28254	35	35	0	New Mexico	561431	Private mail centers	56	0400000US35	28.88888888888889	118.0	2990.5555555555557
+28255	35	35	0	New Mexico	561439	Other business service centers (including copy shops)	56	0400000US35	33.0	375.77777777777777	12111.444444444445
+28256	35	35	0	New Mexico	561440	Collection agencies	56	0400000US35	10.222222222222221	165.77777777777777	4289.555555555556
+28257	35	35	0	New Mexico	561450	Credit bureaus	56	0400000US35	1.2	0.0	0.0
+28258	35	35	0	New Mexico	561491	Repossession services	56	0400000US35	5.444444444444445	14.11111111111111	486.1111111111111
+28259	35	35	0	New Mexico	561492	Court reporting and stenotype services	56	0400000US35	21.22222222222222	68.66666666666667	3080.777777777778
+28260	35	35	0	New Mexico	561499	All other business support services	56	0400000US35	19.444444444444443	115.77777777777777	3271.6666666666665
+28261	35	35	0	New Mexico	561510	Travel agencies	56	0400000US35	43.77777777777778	161.11111111111111	7636.555555555556
+28262	35	35	0	New Mexico	561520	Tour operators	56	0400000US35	14.777777777777779	138.11111111111111	9722.555555555555
+28263	35	35	0	New Mexico	561591	Convention and visitors bureaus	56	0400000US35	5.555555555555555	34.55555555555556	1754.111111111111
+28264	35	35	0	New Mexico	561599	All other travel arrangement and reservation services	56	0400000US35	10.444444444444445	342.22222222222223	14625.555555555555
+28265	35	35	0	New Mexico	561611	Investigation services	56	0400000US35	26.0	325.8888888888889	16147.444444444445
+28266	35	35	0	New Mexico	561612	Security guards and patrol services	56	0400000US35	82.77777777777777	2637.777777777778	74213.66666666667
+28267	35	35	0	New Mexico	561613	Armored car services	56	0400000US35	6.0	129.55555555555554	5693.0
+28268	35	35	0	New Mexico	561621	Security systems services (except locksmiths)	56	0400000US35	43.44444444444444	402.22222222222223	18807.11111111111
+28269	35	35	0	New Mexico	561622	Locksmiths	56	0400000US35	28.0	73.22222222222223	2269.222222222222
+28270	35	35	0	New Mexico	561710	Exterminating and pest control services	56	0400000US35	89.77777777777777	431.22222222222223	15517.222222222223
+28271	35	35	0	New Mexico	561720	Janitorial services	56	0400000US35	310.22222222222223	3821.222222222222	59303.444444444445
+28272	35	35	0	New Mexico	561730	Landscaping services	56	0400000US35	329.55555555555554	2419.0	74832.44444444444
+28273	35	35	0	New Mexico	561740	Carpet and upholstery cleaning services	56	0400000US35	53.111111111111114	188.66666666666666	4598.666666666667
+28274	35	35	0	New Mexico	561790	Other services to buildings and dwellings	56	0400000US35	42.44444444444444	150.88888888888889	4600.111111111111
+28275	35	35	0	New Mexico	561910	Packaging and labeling services	56	0400000US35	2.8	1.6	131.2
+28276	35	35	0	New Mexico	561920	Convention and trade show organizers	56	0400000US35	12.555555555555555	54.44444444444444	2024.5555555555557
+28277	35	35	0	New Mexico	561990	All other support services	56	0400000US35	97.11111111111111	761.8888888888889	27399.333333333332
+28278	35	35	0	New Mexico	562111	Solid waste collection	56	0400000US35	67.44444444444444	836.3333333333334	45312.0
+28279	35	35	0	New Mexico	562112	Hazardous waste collection	56	0400000US35	4.888888888888889	24.555555555555557	1167.888888888889
+28280	35	35	0	New Mexico	562119	Other waste collection	56	0400000US35	4.333333333333333	0.0	0.0
+28281	35	35	0	New Mexico	562211	Hazardous waste treatment and disposal	56	0400000US35	10.777777777777779	207.22222222222223	20002.333333333332
+28282	35	35	0	New Mexico	562212	Solid waste landfill	56	0400000US35	5.666666666666667	29.88888888888889	1887.7777777777778
+28283	35	35	0	New Mexico	562219	Other nonhazardous waste treatment and disposal	56	0400000US35	1.3333333333333333	0.0	0.0
+28284	35	35	0	New Mexico	562910	Remediation services	56	0400000US35	40.333333333333336	681.6666666666666	38839.77777777778
+28285	35	35	0	New Mexico	562920	Materials recovery facilities	56	0400000US35	4.333333333333333	17.333333333333332	806.3333333333334
+28286	35	35	0	New Mexico	562991	Septic tank and related services	56	0400000US35	43.111111111111114	234.0	9022.666666666666
+28287	35	35	0	New Mexico	562998	All other miscellaneous waste management services	56	0400000US35	4.444444444444445	18.333333333333332	753.0
+28288	35	35	0	New Mexico	611110	Elementary and secondary schools	61	0400000US35	119.0	4599.444444444444	149817.55555555556
+28289	35	35	0	New Mexico	611210	Junior colleges	61	0400000US35	7.0	330.0	10178.0
+28290	35	35	0	New Mexico	611310	Colleges, universities, and professional schools	61	0400000US35	34.22222222222222	1437.2222222222222	42868.555555555555
+28291	35	35	0	New Mexico	611410	Business and secretarial schools	61	0400000US35	2.8	0.0	0.0
+28292	35	35	0	New Mexico	611420	Computer training	61	0400000US35	5.111111111111111	51.44444444444444	3169.777777777778
+28293	35	35	0	New Mexico	611430	Professional and management development training	61	0400000US35	48.0	194.11111111111111	10247.111111111111
+28294	35	35	0	New Mexico	611511	Cosmetology and barber schools	61	0400000US35	14.777777777777779	80.44444444444444	2758.3333333333335
+28295	35	35	0	New Mexico	611512	Flight training	61	0400000US35	8.333333333333334	68.55555555555556	4300.222222222223
+28296	35	35	0	New Mexico	611513	Apprenticeship training	61	0400000US35	13.0	105.22222222222223	3148.3333333333335
+28297	35	35	0	New Mexico	611519	Other technical and trade schools	61	0400000US35	32.22222222222222	400.77777777777777	12369.333333333334
+28298	35	35	0	New Mexico	611610	Fine arts schools	61	0400000US35	68.66666666666667	529.0	9903.777777777777
+28299	35	35	0	New Mexico	611620	Sports and recreation instruction	61	0400000US35	72.88888888888889	421.0	5263.666666666667
+28300	35	35	0	New Mexico	611630	Language schools	61	0400000US35	3.8	6.2	96.6
+28301	35	35	0	New Mexico	611691	Exam preparation and tutoring	61	0400000US35	39.77777777777778	226.66666666666666	3402.6666666666665
+28302	35	35	0	New Mexico	611692	Automobile driving schools	61	0400000US35	8.11111111111111	37.77777777777778	599.6666666666666
+28303	35	35	0	New Mexico	611699	All other miscellaneous schools and instruction	61	0400000US35	45.77777777777778	276.1111111111111	10188.555555555555
+28304	35	35	0	New Mexico	611710	Educational support services	61	0400000US35	58.111111111111114	190.88888888888889	7687.0
+28305	35	35	0	New Mexico	621111	Offices of physicians (except mental health specialists)	62	0400000US35	977.8888888888889	10122.777777777777	784631.2222222222
+28306	35	35	0	New Mexico	621112	Offices of physicians, mental health specialists	62	0400000US35	73.44444444444444	266.1111111111111	13730.666666666666
+28307	35	35	0	New Mexico	621210	Offices of dentists	62	0400000US35	728.2222222222222	5764.333333333333	278700.8888888889
+28308	35	35	0	New Mexico	621310	Offices of chiropractors	62	0400000US35	203.88888888888889	674.4444444444445	21003.444444444445
+28309	35	35	0	New Mexico	621320	Offices of optometrists	62	0400000US35	113.0	715.3333333333334	27186.666666666668
+28310	35	35	0	New Mexico	621330	Offices of mental health practitioners (except physicians)	62	0400000US35	179.11111111111111	771.4444444444445	24140.11111111111
+28311	35	35	0	New Mexico	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US35	253.88888888888889	2259.6666666666665	84803.33333333333
+28312	35	35	0	New Mexico	621391	Offices of podiatrists	62	0400000US35	29.11111111111111	255.88888888888889	12001.777777777777
+28313	35	35	0	New Mexico	621399	Offices of all other miscellaneous health practitioners	62	0400000US35	193.77777777777777	596.1111111111111	22128.88888888889
+28314	35	35	0	New Mexico	621410	Family planning centers	62	0400000US35	21.11111111111111	85.66666666666667	3018.1111111111113
+28315	35	35	0	New Mexico	621420	Outpatient mental health and substance abuse centers	62	0400000US35	74.33333333333333	1361.2222222222222	43533.333333333336
+28316	35	35	0	New Mexico	621491	HMO medical centers	62	0400000US35	4.666666666666667	4.0	196.66666666666666
+28317	35	35	0	New Mexico	621492	Kidney dialysis centers	62	0400000US35	45.666666666666664	777.6666666666666	32701.777777777777
+28318	35	35	0	New Mexico	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US35	33.44444444444444	699.2222222222222	36292.555555555555
+28319	35	35	0	New Mexico	621498	All other outpatient care centers	62	0400000US35	156.77777777777777	3548.6666666666665	197403.11111111112
+28320	35	35	0	New Mexico	621511	Medical laboratories	62	0400000US35	67.88888888888889	1216.2222222222222	53293.22222222222
+28321	35	35	0	New Mexico	621512	Diagnostic imaging centers	62	0400000US35	38.55555555555556	479.1111111111111	26346.555555555555
+28322	35	35	0	New Mexico	621610	Home health care services	62	0400000US35	199.0	8466.111111111111	208164.22222222222
+28323	35	35	0	New Mexico	621910	Ambulance services	62	0400000US35	35.888888888888886	1309.5555555555557	62955.22222222222
+28324	35	35	0	New Mexico	621991	Blood and organ banks	62	0400000US35	13.666666666666666	447.1111111111111	16140.222222222223
+28325	35	35	0	New Mexico	621999	All other miscellaneous ambulatory health care services	62	0400000US35	40.111111111111114	163.66666666666666	8629.222222222223
+28326	35	35	0	New Mexico	622110	General medical and surgical hospitals	62	0400000US35	44.666666666666664	32268.777777777777	2017797.111111111
+28327	35	35	0	New Mexico	622210	Psychiatric and substance abuse hospitals	62	0400000US35	6.0	1941.888888888889	79458.33333333333
+28328	35	35	0	New Mexico	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US35	11.222222222222221	1272.5555555555557	70331.33333333333
+28329	35	35	0	New Mexico	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US35	66.44444444444444	5737.333333333333	185355.0
+28330	35	35	0	New Mexico	623210	Residential intellectual and developmental disability facilities	62	0400000US35	135.44444444444446	3630.777777777778	81481.77777777778
+28331	35	35	0	New Mexico	623220	Residential mental health and substance abuse facilities	62	0400000US35	23.0	408.44444444444446	13225.333333333334
+28332	35	35	0	New Mexico	623311	Continuing care retirement communities	62	0400000US35	24.666666666666668	1911.4444444444443	52794.444444444445
+28333	35	35	0	New Mexico	623312	Assisted living facilities for the elderly	62	0400000US35	112.44444444444444	2584.6666666666665	55030.88888888889
+28334	35	35	0	New Mexico	623990	Other residential care facilities	62	0400000US35	32.888888888888886	513.1111111111111	14900.0
+28335	35	35	0	New Mexico	624110	Child and youth services	62	0400000US35	99.11111111111111	1102.0	29300.333333333332
+28336	35	35	0	New Mexico	624120	Services for the elderly and persons with disabilities	62	0400000US35	258.6666666666667	18754.444444444445	267007.44444444444
+28337	35	35	0	New Mexico	624190	Other individual and family services	62	0400000US35	254.66666666666666	1936.888888888889	60678.0
+28338	35	35	0	New Mexico	624210	Community food services	62	0400000US35	34.55555555555556	336.6666666666667	7653.666666666667
+28339	35	35	0	New Mexico	624221	Temporary shelters	62	0400000US35	39.22222222222222	709.2222222222222	19255.444444444445
+28340	35	35	0	New Mexico	624229	Other community housing services	62	0400000US35	28.666666666666668	338.55555555555554	12101.222222222223
+28341	35	35	0	New Mexico	624230	Emergency and other relief services	62	0400000US35	5.0	272.3333333333333	12086.777777777777
+28342	35	35	0	New Mexico	624310	Vocational rehabilitation services	62	0400000US35	29.77777777777778	1654.4444444444443	36176.333333333336
+28343	35	35	0	New Mexico	624410	Child day care services	62	0400000US35	390.3333333333333	5504.555555555556	104882.0
+28344	35	35	0	New Mexico	711110	Theater companies and dinner theaters	71	0400000US35	16.0	146.11111111111111	7745.0
+28345	35	35	0	New Mexico	711120	Dance companies	71	0400000US35	5.333333333333333	25.77777777777778	355.0
+28346	35	35	0	New Mexico	711130	Musical groups and artists	71	0400000US35	23.22222222222222	183.66666666666666	3647.1111111111113
+28347	35	35	0	New Mexico	711190	Other performing arts companies	71	0400000US35	3.6666666666666665	7.555555555555555	168.0
+28348	35	35	0	New Mexico	711211	Sports teams and clubs	71	0400000US35	3.7777777777777777	0.0	0.0
+28349	35	35	0	New Mexico	711212	Racetracks	71	0400000US35	7.555555555555555	941.1111111111111	24923.11111111111
+28350	35	35	0	New Mexico	711219	Other spectator sports	71	0400000US35	9.666666666666666	40.666666666666664	1303.6666666666667
+28351	35	35	0	New Mexico	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US35	18.77777777777778	347.8888888888889	7425.777777777777
+28352	35	35	0	New Mexico	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US35	26.77777777777778	59.22222222222222	3516.8888888888887
+28353	35	35	0	New Mexico	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US35	4.666666666666667	4.444444444444445	156.33333333333334
+28354	35	35	0	New Mexico	711510	Independent artists, writers, and performers	71	0400000US35	124.22222222222223	303.6666666666667	14814.444444444445
+28355	35	35	0	New Mexico	712110	Museums	71	0400000US35	45.666666666666664	472.3333333333333	14723.777777777777
+28356	35	35	0	New Mexico	712120	Historical sites	71	0400000US35	5.666666666666667	13.555555555555555	629.8888888888889
+28357	35	35	0	New Mexico	712130	Zoos and botanical gardens	71	0400000US35	2.0	0.0	0.0
+28358	35	35	0	New Mexico	712190	Nature parks and other similar institutions	71	0400000US35	5.444444444444445	11.222222222222221	322.77777777777777
+28359	35	35	0	New Mexico	713110	Amusement and theme parks	71	0400000US35	2.7777777777777777	0.0	0.0
+28360	35	35	0	New Mexico	713120	Amusement arcades	71	0400000US35	14.444444444444445	157.88888888888889	2307.6666666666665
+28361	35	35	0	New Mexico	713210	Casinos (except casino hotels)	71	0400000US35	9.777777777777779	2685.4444444444443	85055.55555555556
+28362	35	35	0	New Mexico	713290	Other gambling industries	71	0400000US35	14.444444444444445	312.55555555555554	8563.444444444445
+28363	35	35	0	New Mexico	713910	Golf courses and country clubs	71	0400000US35	44.55555555555556	1331.2222222222222	32294.0
+28364	35	35	0	New Mexico	713920	Skiing facilities	71	0400000US35	8.666666666666666	1800.6666666666667	19212.0
+28365	35	35	0	New Mexico	713930	Marinas	71	0400000US35	5.888888888888889	31.22222222222222	691.4444444444445
+28366	35	35	0	New Mexico	713940	Fitness and recreational sports centers	71	0400000US35	170.55555555555554	2475.0	30574.11111111111
+28367	35	35	0	New Mexico	713950	Bowling centers	71	0400000US35	18.555555555555557	436.44444444444446	7435.333333333333
+28368	35	35	0	New Mexico	713990	All other amusement and recreation industries	71	0400000US35	102.66666666666667	546.3333333333334	11249.333333333334
+28369	35	35	0	New Mexico	721110	Hotels (except casino hotels) and motels	72	0400000US35	612.8888888888889	13535.111111111111	274706.3333333333
+28370	35	35	0	New Mexico	721120	Casino hotels	72	0400000US35	7.888888888888889	2789.5555555555557	87981.55555555556
+28371	35	35	0	New Mexico	721191	Bed-and-breakfast inns	72	0400000US35	49.77777777777778	247.22222222222223	5350.888888888889
+28372	35	35	0	New Mexico	721199	All other traveler accommodation	72	0400000US35	20.22222222222222	65.44444444444444	1531.888888888889
+28373	35	35	0	New Mexico	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US35	53.0	174.55555555555554	3357.777777777778
+28374	35	35	0	New Mexico	721214	Recreational and vacation camps (except campgrounds)	72	0400000US35	21.444444444444443	165.33333333333334	8234.888888888889
+28375	35	35	0	New Mexico	721310	Rooming and boarding houses	72	0400000US35	7.777777777777778	35.333333333333336	812.4444444444445
+28376	35	35	0	New Mexico	722310	Food service contractors	72	0400000US35	158.66666666666666	1951.888888888889	34604.333333333336
+28377	35	35	0	New Mexico	722320	Caterers	72	0400000US35	36.55555555555556	281.22222222222223	5086.111111111111
+28378	35	35	0	New Mexico	722330	Mobile food services	72	0400000US35	19.444444444444443	23.77777777777778	413.55555555555554
+28379	35	35	0	New Mexico	722410	Drinking places (alcoholic beverages)	72	0400000US35	108.11111111111111	1356.6666666666667	20329.444444444445
+28380	35	35	0	New Mexico	722511	Full-service restaurants	72	0400000US35	1345.7777777777778	30747.0	524905.3333333334
+28381	35	35	0	New Mexico	722513	Limited-service restaurants	72	0400000US35	1487.3333333333333	31089.444444444445	427273.8888888889
+28382	35	35	0	New Mexico	722514	Cafeterias, grill buffets, and buffets	72	0400000US35	51.888888888888886	1424.0	17985.666666666668
+28383	35	35	0	New Mexico	722515	Snack and nonalcoholic beverage bars	72	0400000US35	319.22222222222223	3006.6666666666665	46067.0
+28384	35	35	0	New Mexico	811111	General automotive repair	81	0400000US35	459.77777777777777	1833.6666666666667	62649.11111111111
+28385	35	35	0	New Mexico	811112	Automotive exhaust system repair	81	0400000US35	7.666666666666667	13.555555555555555	371.3333333333333
+28386	35	35	0	New Mexico	811113	Automotive transmission repair	81	0400000US35	29.11111111111111	112.33333333333333	3811.6666666666665
+28387	35	35	0	New Mexico	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US35	38.111111111111114	163.77777777777777	5274.0
+28388	35	35	0	New Mexico	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US35	183.77777777777777	1198.4444444444443	49404.333333333336
+28389	35	35	0	New Mexico	811122	Automotive glass replacement shops	81	0400000US35	68.22222222222223	369.44444444444446	11438.666666666666
+28390	35	35	0	New Mexico	811191	Automotive oil change and lubrication shops	81	0400000US35	83.55555555555556	443.55555555555554	15738.222222222223
+28391	35	35	0	New Mexico	811192	Car washes	81	0400000US35	109.55555555555556	1221.5555555555557	21809.666666666668
+28392	35	35	0	New Mexico	811198	All other automotive repair and maintenance	81	0400000US35	24.666666666666668	106.77777777777777	5573.0
+28393	35	35	0	New Mexico	811211	Consumer electronics repair and maintenance	81	0400000US35	7.222222222222222	15.88888888888889	513.8888888888889
+28394	35	35	0	New Mexico	811212	Computer and office machine repair and maintenance	81	0400000US35	29.22222222222222	79.88888888888889	3261.1111111111113
+28395	35	35	0	New Mexico	811213	Communication equipment repair and maintenance	81	0400000US35	12.666666666666666	43.77777777777778	1990.4444444444443
+28396	35	35	0	New Mexico	811219	Other electronic and precision equipment repair and maintenance	81	0400000US35	16.22222222222222	187.0	10211.666666666666
+28397	35	35	0	New Mexico	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US35	171.11111111111111	1310.4444444444443	66114.55555555556
+28398	35	35	0	New Mexico	811411	Home and garden equipment repair and maintenance	81	0400000US35	6.111111111111111	8.444444444444445	213.66666666666666
+28399	35	35	0	New Mexico	811412	Appliance repair and maintenance	81	0400000US35	22.555555555555557	91.11111111111111	2828.1111111111113
+28400	35	35	0	New Mexico	811420	Reupholstery and furniture repair	81	0400000US35	17.0	29.77777777777778	765.6666666666666
+28401	35	35	0	New Mexico	811430	Footwear and leather goods repair	81	0400000US35	7.111111111111111	6.888888888888889	187.33333333333334
+28402	35	35	0	New Mexico	811490	Other personal and household goods repair and maintenance	81	0400000US35	38.111111111111114	89.22222222222223	2610.5555555555557
+28403	35	35	0	New Mexico	812111	Barber shops	81	0400000US35	17.77777777777778	35.666666666666664	1164.888888888889
+28404	35	35	0	New Mexico	812112	Beauty salons	81	0400000US35	306.8888888888889	1496.4444444444443	29780.0
+28405	35	35	0	New Mexico	812113	Nail salons	81	0400000US35	23.0	53.0	1041.888888888889
+28406	35	35	0	New Mexico	812191	Diet and weight reducing centers	81	0400000US35	11.88888888888889	88.77777777777777	1024.2222222222222
+28407	35	35	0	New Mexico	812199	Other personal care services	81	0400000US35	68.44444444444444	366.1111111111111	7182.666666666667
+28408	35	35	0	New Mexico	812210	Funeral homes and funeral services	81	0400000US35	63.44444444444444	604.0	17957.777777777777
+28409	35	35	0	New Mexico	812220	Cemeteries and crematories	81	0400000US35	18.666666666666668	85.77777777777777	3186.4444444444443
+28410	35	35	0	New Mexico	812310	Coin-operated laundries and drycleaners	81	0400000US35	78.77777777777777	314.1111111111111	5030.444444444444
+28411	35	35	0	New Mexico	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US35	88.33333333333333	782.7777777777778	14137.777777777777
+28412	35	35	0	New Mexico	812331	Linen supply	81	0400000US35	10.11111111111111	399.3333333333333	13308.444444444445
+28413	35	35	0	New Mexico	812332	Industrial launderers	81	0400000US35	6.777777777777778	292.0	9094.222222222223
+28414	35	35	0	New Mexico	812910	Pet care (except veterinary) services	81	0400000US35	111.11111111111111	630.8888888888889	12609.888888888889
+28415	35	35	0	New Mexico	812921	Photofinishing laboratories (except one-hour)	81	0400000US35	3.2	2.8	69.0
+28416	35	35	0	New Mexico	812922	One-hour photofinishing	81	0400000US35	1.0	0.0	0.0
+28417	35	35	0	New Mexico	812930	Parking lots and garages	81	0400000US35	13.555555555555555	96.55555555555556	1993.6666666666667
+28418	35	35	0	New Mexico	812990	All other personal services	81	0400000US35	54.22222222222222	144.22222222222223	3628.6666666666665
+28419	35	35	0	New Mexico	813110	Religious organizations	81	0400000US35	1058.111111111111	8360.222222222223	157555.55555555556
+28420	35	35	0	New Mexico	813211	Grantmaking foundations	81	0400000US35	97.55555555555556	528.0	29545.555555555555
+28421	35	35	0	New Mexico	813212	Voluntary health organizations	81	0400000US35	24.444444444444443	146.44444444444446	9021.333333333334
+28422	35	35	0	New Mexico	813219	Other grantmaking and giving services	81	0400000US35	25.0	146.0	6392.666666666667
+28423	35	35	0	New Mexico	813311	Human rights organizations	81	0400000US35	34.333333333333336	226.44444444444446	8628.333333333334
+28424	35	35	0	New Mexico	813312	Environment, conservation and wildlife organizations	81	0400000US35	83.55555555555556	588.0	22394.222222222223
+28425	35	35	0	New Mexico	813319	Other social advocacy organizations	81	0400000US35	68.33333333333333	345.8888888888889	14210.444444444445
+28426	35	35	0	New Mexico	813410	Civic and social organizations	81	0400000US35	186.66666666666666	1355.6666666666667	20971.222222222223
+28427	35	35	0	New Mexico	813910	Business associations	81	0400000US35	110.11111111111111	480.77777777777777	24278.11111111111
+28428	35	35	0	New Mexico	813920	Professional organizations	81	0400000US35	42.0	359.22222222222223	20207.777777777777
+28429	35	35	0	New Mexico	813930	Labor unions and similar labor organizations	81	0400000US35	65.55555555555556	421.22222222222223	11449.666666666666
+28430	35	35	0	New Mexico	813940	Political organizations	81	0400000US35	15.11111111111111	32.666666666666664	1547.4444444444443
+28431	35	35	0	New Mexico	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US35	86.88888888888889	456.6666666666667	13692.444444444445

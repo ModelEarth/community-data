@@ -1,0 +1,824 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+35015	44	44	0	Rhode Island	113310	Logging	11	0400000US44	1.6	0.0	0.0
+35016	44	44	0	Rhode Island	114111	Finfish fishing	11	0400000US44	13.444444444444445	25.0	2818.4444444444443
+35017	44	44	0	Rhode Island	114112	Shellfish fishing	11	0400000US44	13.222222222222221	44.22222222222222	2193.0
+35018	44	44	0	Rhode Island	114119	Other marine fishing	11	0400000US44	1.0	0.0	0.0
+35019	44	44	0	Rhode Island	115112	Soil preparation, planting, and cultivating	11	0400000US44	2.888888888888889	0.0	0.0
+35020	44	44	0	Rhode Island	115116	Farm management services	11	0400000US44	1.0	0.0	0.0
+35021	44	44	0	Rhode Island	115210	Support activities for animal production	11	0400000US44	10.0	36.888888888888886	1123.3333333333333
+35022	44	44	0	Rhode Island	115310	Support activities for forestry	11	0400000US44	1.0	0.0	0.0
+35023	44	44	0	Rhode Island	211111	Crude petroleum and natural gas extraction	21	0400000US44	1.0	0.0	0.0
+35024	44	44	0	Rhode Island	212313	Crushed and broken granite mining and quarrying	21	0400000US44	2.0	0.0	0.0
+35025	44	44	0	Rhode Island	212319	Other crushed and broken stone mining and quarrying	21	0400000US44	3.5555555555555554	16.22222222222222	1283.0
+35026	44	44	0	Rhode Island	212321	Construction sand and gravel mining	21	0400000US44	8.444444444444445	54.77777777777778	4029.5555555555557
+35027	44	44	0	Rhode Island	212322	Industrial sand mining	21	0400000US44	1.0	0.0	0.0
+35028	44	44	0	Rhode Island	212399	All other nonmetallic mineral mining	21	0400000US44	1.0	0.0	0.0
+35029	44	44	0	Rhode Island	213112	Support activities for oil and gas operations	21	0400000US44	1.0	0.0	0.0
+35030	44	44	0	Rhode Island	221111	Hydroelectric power generation	22	0400000US44	1.0	0.0	0.0
+35031	44	44	0	Rhode Island	221112	Fossil fuel electric power generation	22	0400000US44	3.888888888888889	76.33333333333333	8613.666666666666
+35032	44	44	0	Rhode Island	221115	Wind electric power generation	22	0400000US44	1.0	0.0	0.0
+35033	44	44	0	Rhode Island	221117	Biomass electric power generation	22	0400000US44	1.3333333333333333	0.0	0.0
+35034	44	44	0	Rhode Island	221118	Other electric power generation	22	0400000US44	2.0	0.0	0.0
+35035	44	44	0	Rhode Island	221121	Electric bulk power transmission and control	22	0400000US44	1.0	0.0	0.0
+35036	44	44	0	Rhode Island	221122	Electric power distribution	22	0400000US44	17.77777777777778	0.0	0.0
+35037	44	44	0	Rhode Island	221210	Natural gas distribution	22	0400000US44	3.5555555555555554	0.0	0.0
+35038	44	44	0	Rhode Island	221310	Water supply and irrigation systems	22	0400000US44	5.777777777777778	0.0	0.0
+35039	44	44	0	Rhode Island	221320	Sewage treatment facilities	22	0400000US44	4.111111111111111	0.0	0.0
+35040	44	44	0	Rhode Island	236115	New single-family housing construction (except for-sale builders)	23	0400000US44	188.55555555555554	607.8888888888889	30972.666666666668
+35041	44	44	0	Rhode Island	236116	New multifamily housing construction (except for-sale builders)	23	0400000US44	5.222222222222222	7.777777777777778	448.55555555555554
+35042	44	44	0	Rhode Island	236117	New housing for-sale builders	23	0400000US44	45.55555555555556	128.11111111111111	5438.777777777777
+35043	44	44	0	Rhode Island	236118	Residential remodelers	23	0400000US44	564.6666666666666	1608.2222222222222	71468.22222222222
+35044	44	44	0	Rhode Island	236210	Industrial building construction	23	0400000US44	8.11111111111111	231.77777777777777	17145.11111111111
+35045	44	44	0	Rhode Island	236220	Commercial and institutional building construction	23	0400000US44	125.33333333333333	1897.6666666666667	170913.77777777778
+35046	44	44	0	Rhode Island	237110	Water and sewer line and related structures construction	23	0400000US44	30.666666666666668	271.22222222222223	22368.222222222223
+35047	44	44	0	Rhode Island	237120	Oil and gas pipeline and related structures construction	23	0400000US44	4.222222222222222	159.11111111111111	15818.0
+35048	44	44	0	Rhode Island	237130	Power and communication line and related structures construction	23	0400000US44	9.444444444444445	109.44444444444444	7495.888888888889
+35049	44	44	0	Rhode Island	237210	Land subdivision	23	0400000US44	6.0	24.444444444444443	4504.0
+35050	44	44	0	Rhode Island	237310	Highway, street, and bridge construction	23	0400000US44	21.77777777777778	538.7777777777778	60606.333333333336
+35051	44	44	0	Rhode Island	237990	Other heavy and civil engineering construction	23	0400000US44	10.11111111111111	68.0	6738.222222222223
+35052	44	44	0	Rhode Island	238110	Poured concrete foundation and structure contractors	23	0400000US44	55.22222222222222	232.77777777777777	14660.111111111111
+35053	44	44	0	Rhode Island	238120	Structural steel and precast concrete contractors	23	0400000US44	14.444444444444445	286.22222222222223	20845.444444444445
+35054	44	44	0	Rhode Island	238130	Framing contractors	23	0400000US44	45.333333333333336	374.22222222222223	22157.11111111111
+35055	44	44	0	Rhode Island	238140	Masonry contractors	23	0400000US44	102.22222222222223	369.22222222222223	26727.88888888889
+35056	44	44	0	Rhode Island	238150	Glass and glazing contractors	23	0400000US44	23.444444444444443	275.1111111111111	11313.111111111111
+35057	44	44	0	Rhode Island	238160	Roofing contractors	23	0400000US44	68.44444444444444	350.3333333333333	18906.666666666668
+35058	44	44	0	Rhode Island	238170	Siding contractors	23	0400000US44	40.666666666666664	106.44444444444444	5824.111111111111
+35059	44	44	0	Rhode Island	238190	Other foundation, structure, and building exterior contractors	23	0400000US44	12.666666666666666	119.66666666666667	9473.333333333334
+35060	44	44	0	Rhode Island	238210	Electrical contractors and other wiring installation contractors	23	0400000US44	337.8888888888889	1797.3333333333333	100215.33333333333
+35061	44	44	0	Rhode Island	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US44	420.8888888888889	2972.5555555555557	179036.44444444444
+35062	44	44	0	Rhode Island	238290	Other building equipment contractors	23	0400000US44	22.0	195.77777777777777	13434.111111111111
+35063	44	44	0	Rhode Island	238310	Drywall and insulation contractors	23	0400000US44	104.22222222222223	1284.111111111111	72340.33333333333
+35064	44	44	0	Rhode Island	238320	Painting and wall covering contractors	23	0400000US44	189.88888888888889	558.5555555555555	27565.555555555555
+35065	44	44	0	Rhode Island	238330	Flooring contractors	23	0400000US44	74.0	215.88888888888889	9177.444444444445
+35066	44	44	0	Rhode Island	238340	Tile and terrazzo contractors	23	0400000US44	27.88888888888889	130.66666666666666	5935.222222222223
+35067	44	44	0	Rhode Island	238350	Finish carpentry contractors	23	0400000US44	172.0	836.8888888888889	41036.77777777778
+35068	44	44	0	Rhode Island	238390	Other building finishing contractors	23	0400000US44	12.777777777777779	47.111111111111114	3246.8888888888887
+35069	44	44	0	Rhode Island	238910	Site preparation contractors	23	0400000US44	190.55555555555554	822.4444444444445	52877.444444444445
+35070	44	44	0	Rhode Island	238990	All other specialty trade contractors	23	0400000US44	133.66666666666666	348.44444444444446	29649.333333333332
+35071	44	44	0	Rhode Island	311111	Dog and cat food manufacturing	31	0400000US44	1.0	0.0	0.0
+35072	44	44	0	Rhode Island	311211	Flour milling	31	0400000US44	1.0	0.0	0.0
+35073	44	44	0	Rhode Island	311230	Breakfast cereal manufacturing	31	0400000US44	1.2	0.0	0.0
+35074	44	44	0	Rhode Island	311340	Nonchocolate confectionery manufacturing	31	0400000US44	3.4285714285714284	16.857142857142858	408.0
+35075	44	44	0	Rhode Island	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US44	1.0	0.0	0.0
+35076	44	44	0	Rhode Island	311352	Confectionery manufacturing from purchased chocolate	31	0400000US44	6.666666666666667	44.44444444444444	662.2222222222222
+35077	44	44	0	Rhode Island	311411	Frozen fruit, juice, and vegetable manufacturing	31	0400000US44	2.6	15.2	522.2
+35078	44	44	0	Rhode Island	311412	Frozen specialty food manufacturing	31	0400000US44	1.0	0.0	0.0
+35079	44	44	0	Rhode Island	311421	Fruit and vegetable canning	31	0400000US44	4.888888888888889	30.444444444444443	754.5555555555555
+35080	44	44	0	Rhode Island	311422	Specialty canning	31	0400000US44	1.0	0.0	0.0
+35081	44	44	0	Rhode Island	311423	Dried and dehydrated food manufacturing	31	0400000US44	1.0	0.0	0.0
+35082	44	44	0	Rhode Island	311511	Fluid milk manufacturing	31	0400000US44	3.3333333333333335	0.0	0.0
+35083	44	44	0	Rhode Island	311513	Cheese manufacturing	31	0400000US44	3.0	37.44444444444444	1361.888888888889
+35084	44	44	0	Rhode Island	311520	Ice cream and frozen dessert manufacturing	31	0400000US44	2.0	0.0	0.0
+35085	44	44	0	Rhode Island	311611	Animal (except poultry) slaughtering	31	0400000US44	2.0	0.0	0.0
+35086	44	44	0	Rhode Island	311612	Meat processed from carcasses	31	0400000US44	11.88888888888889	515.5555555555555	21768.11111111111
+35087	44	44	0	Rhode Island	311710	Seafood product preparation and packaging	31	0400000US44	2.8	14.2	448.6
+35088	44	44	0	Rhode Island	311811	Retail bakeries	31	0400000US44	54.0	473.1111111111111	10031.555555555555
+35089	44	44	0	Rhode Island	311812	Commercial bakeries	31	0400000US44	23.22222222222222	674.7777777777778	27442.777777777777
+35090	44	44	0	Rhode Island	311821	Cookie and cracker manufacturing	31	0400000US44	3.2	0.0	0.0
+35091	44	44	0	Rhode Island	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US44	3.0	5.444444444444445	112.77777777777777
+35092	44	44	0	Rhode Island	311830	Tortilla manufacturing	31	0400000US44	1.0	0.0	0.0
+35093	44	44	0	Rhode Island	311911	Roasted nuts and peanut butter manufacturing	31	0400000US44	3.0	0.0	0.0
+35094	44	44	0	Rhode Island	311919	Other snack food manufacturing	31	0400000US44	1.2	0.0	0.0
+35095	44	44	0	Rhode Island	311920	Coffee and tea manufacturing	31	0400000US44	2.0	52.44444444444444	3636.8888888888887
+35096	44	44	0	Rhode Island	311930	Flavoring syrup and concentrate manufacturing	31	0400000US44	1.6	0.0	0.0
+35097	44	44	0	Rhode Island	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US44	1.0	0.0	0.0
+35098	44	44	0	Rhode Island	311942	Spice and extract manufacturing	31	0400000US44	1.25	0.0	0.0
+35099	44	44	0	Rhode Island	311991	Perishable prepared food manufacturing	31	0400000US44	5.555555555555555	277.8888888888889	10062.555555555555
+35100	44	44	0	Rhode Island	311999	All other miscellaneous food manufacturing	31	0400000US44	2.6	0.0	0.0
+35101	44	44	0	Rhode Island	312111	Soft drink manufacturing	31	0400000US44	3.0	0.0	0.0
+35102	44	44	0	Rhode Island	312112	Bottled water manufacturing	31	0400000US44	1.0	0.0	0.0
+35103	44	44	0	Rhode Island	312113	Ice manufacturing	31	0400000US44	1.2	0.0	0.0
+35104	44	44	0	Rhode Island	312120	Breweries	31	0400000US44	8.444444444444445	63.22222222222222	2377.6666666666665
+35105	44	44	0	Rhode Island	312130	Wineries	31	0400000US44	4.888888888888889	67.0	2552.777777777778
+35106	44	44	0	Rhode Island	312140	Distilleries	31	0400000US44	1.2	0.0	0.0
+35107	44	44	0	Rhode Island	313110	Fiber, yarn, and thread mills	31	0400000US44	6.555555555555555	121.22222222222223	4914.333333333333
+35108	44	44	0	Rhode Island	313210	Broadwoven fabric mills	31	0400000US44	2.0	0.0	0.0
+35109	44	44	0	Rhode Island	313220	Narrow fabric mills and schiffli machine embroidery	31	0400000US44	14.666666666666666	475.0	17164.444444444445
+35110	44	44	0	Rhode Island	313230	Nonwoven fabric mills	31	0400000US44	2.0	24.8	711.4
+35111	44	44	0	Rhode Island	313240	Knit fabric mills	31	0400000US44	5.777777777777778	126.44444444444444	5046.666666666667
+35112	44	44	0	Rhode Island	313310	Textile and fabric finishing mills	31	0400000US44	4.888888888888889	143.88888888888889	7455.666666666667
+35113	44	44	0	Rhode Island	313320	Fabric coating mills	31	0400000US44	5.333333333333333	282.77777777777777	16797.666666666668
+35114	44	44	0	Rhode Island	314110	Carpet and rug mills	31	0400000US44	4.444444444444445	52.333333333333336	1615.2222222222222
+35115	44	44	0	Rhode Island	314120	Curtain and linen mills	31	0400000US44	9.222222222222221	86.0	3671.1111111111113
+35116	44	44	0	Rhode Island	314910	Textile bag and canvas mills	31	0400000US44	16.11111111111111	89.33333333333333	3642.4444444444443
+35117	44	44	0	Rhode Island	314994	Rope, cordage, twine, tire cord, and tire fabric mills	31	0400000US44	2.0	0.0	0.0
+35118	44	44	0	Rhode Island	314999	All other miscellaneous textile product mills	31	0400000US44	9.88888888888889	99.22222222222223	3483.4444444444443
+35119	44	44	0	Rhode Island	315210	Cut and sew apparel contractors	31	0400000US44	1.75	0.0	0.0
+35120	44	44	0	Rhode Island	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US44	1.4	0.0	0.0
+35121	44	44	0	Rhode Island	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US44	1.8	0.2	81.4
+35122	44	44	0	Rhode Island	315280	Other cut and sew apparel manufacturing	31	0400000US44	2.3333333333333335	0.0	0.0
+35123	44	44	0	Rhode Island	315990	Apparel accessories and other apparel manufacturing	31	0400000US44	3.8	1.0	35.0
+35124	44	44	0	Rhode Island	316210	Footwear manufacturing	31	0400000US44	1.0	0.0	0.0
+35125	44	44	0	Rhode Island	316992	Women's handbag and purse manufacturing	31	0400000US44	1.0	0.0	0.0
+35126	44	44	0	Rhode Island	316998	All other leather good and allied product manufacturing	31	0400000US44	6.555555555555555	79.55555555555556	2749.222222222222
+35127	44	44	0	Rhode Island	321113	Sawmills	32	0400000US44	3.4444444444444446	0.0	0.0
+35128	44	44	0	Rhode Island	321114	Wood preservation	32	0400000US44	2.2	0.0	0.0
+35129	44	44	0	Rhode Island	321214	Truss manufacturing	32	0400000US44	1.2	0.0	0.0
+35130	44	44	0	Rhode Island	321219	Reconstituted wood product manufacturing	32	0400000US44	1.0	0.0	0.0
+35131	44	44	0	Rhode Island	321911	Wood window and door manufacturing	32	0400000US44	3.6	76.6	2979.4
+35132	44	44	0	Rhode Island	321912	Cut stock, resawing lumber, and planing	32	0400000US44	1.0	0.0	0.0
+35133	44	44	0	Rhode Island	321918	Other millwork (including flooring)	32	0400000US44	5.444444444444445	51.333333333333336	2694.5555555555557
+35134	44	44	0	Rhode Island	321920	Wood container and pallet manufacturing	32	0400000US44	5.777777777777778	149.33333333333334	5547.888888888889
+35135	44	44	0	Rhode Island	321999	All other miscellaneous wood product manufacturing	32	0400000US44	4.777777777777778	26.666666666666668	1431.111111111111
+35136	44	44	0	Rhode Island	322121	Paper (except newsprint) mills	32	0400000US44	1.0	0.0	0.0
+35137	44	44	0	Rhode Island	322211	Corrugated and solid fiber box manufacturing	32	0400000US44	2.4444444444444446	0.0	0.0
+35138	44	44	0	Rhode Island	322212	Folding paperboard box manufacturing	32	0400000US44	6.555555555555555	189.77777777777777	9551.666666666666
+35139	44	44	0	Rhode Island	322219	Other paperboard container manufacturing	32	0400000US44	6.888888888888889	122.0	6058.666666666667
+35140	44	44	0	Rhode Island	322220	Paper bag and coated and treated paper manufacturing	32	0400000US44	6.666666666666667	305.22222222222223	15058.222222222223
+35141	44	44	0	Rhode Island	322291	Sanitary paper product manufacturing	32	0400000US44	1.0	0.0	0.0
+35142	44	44	0	Rhode Island	322299	All other converted paper product manufacturing	32	0400000US44	3.0	10.4	302.2
+35143	44	44	0	Rhode Island	323111	Commercial printing (except screen and books)	32	0400000US44	81.22222222222223	1008.5555555555555	47173.0
+35144	44	44	0	Rhode Island	323113	Commercial screen printing	32	0400000US44	21.444444444444443	402.77777777777777	11866.888888888889
+35145	44	44	0	Rhode Island	323117	Books printing	32	0400000US44	3.0	0.0	0.0
+35146	44	44	0	Rhode Island	323120	Support activities for printing	32	0400000US44	6.555555555555555	100.22222222222223	6360.888888888889
+35147	44	44	0	Rhode Island	324110	Petroleum refineries	32	0400000US44	1.0	0.0	0.0
+35148	44	44	0	Rhode Island	324121	Asphalt paving mixture and block manufacturing	32	0400000US44	4.0	25.666666666666668	2288.6666666666665
+35149	44	44	0	Rhode Island	324199	All other petroleum and coal products manufacturing	32	0400000US44	1.0	0.0	0.0
+35150	44	44	0	Rhode Island	325120	Industrial gas manufacturing	32	0400000US44	1.0	0.0	0.0
+35151	44	44	0	Rhode Island	325130	Synthetic dye and pigment manufacturing	32	0400000US44	1.0	0.0	0.0
+35152	44	44	0	Rhode Island	325180	Other basic inorganic chemical manufacturing	32	0400000US44	2.0	0.0	0.0
+35153	44	44	0	Rhode Island	325199	All other basic organic chemical manufacturing	32	0400000US44	3.3333333333333335	68.55555555555556	5000.222222222223
+35154	44	44	0	Rhode Island	325211	Plastics material and resin manufacturing	32	0400000US44	12.222222222222221	365.3333333333333	16519.444444444445
+35155	44	44	0	Rhode Island	325212	Synthetic rubber manufacturing	32	0400000US44	1.0	0.0	0.0
+35156	44	44	0	Rhode Island	325314	Fertilizer (mixing only) manufacturing	32	0400000US44	1.6	0.0	0.0
+35157	44	44	0	Rhode Island	325411	Medicinal and botanical manufacturing	32	0400000US44	1.8	0.0	0.0
+35158	44	44	0	Rhode Island	325412	Pharmaceutical preparation manufacturing	32	0400000US44	4.444444444444445	270.6666666666667	33137.77777777778
+35159	44	44	0	Rhode Island	325413	In-vitro diagnostic substance manufacturing	32	0400000US44	1.0	0.0	0.0
+35160	44	44	0	Rhode Island	325414	Biological product (except diagnostic) manufacturing	32	0400000US44	1.2	0.0	0.0
+35161	44	44	0	Rhode Island	325510	Paint and coating manufacturing	32	0400000US44	7.444444444444445	119.33333333333333	9805.444444444445
+35162	44	44	0	Rhode Island	325520	Adhesive manufacturing	32	0400000US44	1.0	0.0	0.0
+35163	44	44	0	Rhode Island	325611	Soap and other detergent manufacturing	32	0400000US44	3.6666666666666665	0.0	0.0
+35164	44	44	0	Rhode Island	325612	Polish and other sanitation good manufacturing	32	0400000US44	2.0	5.8	239.6
+35165	44	44	0	Rhode Island	325613	Surface active agent manufacturing	32	0400000US44	3.0	12.0	519.1111111111111
+35166	44	44	0	Rhode Island	325620	Toilet preparation manufacturing	32	0400000US44	2.0	0.0	0.0
+35167	44	44	0	Rhode Island	325991	Custom compounding of purchased resins	32	0400000US44	4.111111111111111	0.0	0.0
+35168	44	44	0	Rhode Island	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US44	1.0	0.0	0.0
+35169	44	44	0	Rhode Island	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US44	4.444444444444445	84.44444444444444	7521.777777777777
+35170	44	44	0	Rhode Island	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US44	2.7777777777777777	0.0	0.0
+35171	44	44	0	Rhode Island	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US44	5.0	84.88888888888889	4276.0
+35172	44	44	0	Rhode Island	326121	Unlaminated plastics profile shape manufacturing	32	0400000US44	2.0	0.0	0.0
+35173	44	44	0	Rhode Island	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	32	0400000US44	1.0	0.0	0.0
+35174	44	44	0	Rhode Island	326140	Polystyrene foam product manufacturing	32	0400000US44	1.8	0.0	0.0
+35175	44	44	0	Rhode Island	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US44	3.0	55.55555555555556	2091.777777777778
+35176	44	44	0	Rhode Island	326160	Plastics bottle manufacturing	32	0400000US44	1.0	0.0	0.0
+35177	44	44	0	Rhode Island	326199	All other plastics product manufacturing	32	0400000US44	29.555555555555557	1188.0	60169.444444444445
+35178	44	44	0	Rhode Island	326299	All other rubber product manufacturing	32	0400000US44	4.222222222222222	0.0	0.0
+35179	44	44	0	Rhode Island	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US44	1.0	0.0	0.0
+35180	44	44	0	Rhode Island	327211	Flat glass manufacturing	32	0400000US44	1.0	0.0	0.0
+35181	44	44	0	Rhode Island	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US44	7.444444444444445	61.888888888888886	2993.1111111111113
+35182	44	44	0	Rhode Island	327215	Glass product manufacturing made of purchased glass	32	0400000US44	4.555555555555555	11.666666666666666	406.1111111111111
+35183	44	44	0	Rhode Island	327320	Ready-mix concrete manufacturing	32	0400000US44	8.555555555555555	66.22222222222223	5008.444444444444
+35184	44	44	0	Rhode Island	327331	Concrete block and brick manufacturing	32	0400000US44	1.4	0.0	0.0
+35185	44	44	0	Rhode Island	327332	Concrete pipe manufacturing	32	0400000US44	1.0	0.0	0.0
+35186	44	44	0	Rhode Island	327390	Other concrete product manufacturing	32	0400000US44	5.666666666666667	52.0	2789.3333333333335
+35187	44	44	0	Rhode Island	327910	Abrasive product manufacturing	32	0400000US44	1.6	0.0	0.0
+35188	44	44	0	Rhode Island	327991	Cut stone and stone product manufacturing	32	0400000US44	7.555555555555555	122.44444444444444	7711.333333333333
+35189	44	44	0	Rhode Island	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US44	2.0	0.0	0.0
+35190	44	44	0	Rhode Island	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US44	1.0	0.0	0.0
+35191	44	44	0	Rhode Island	331222	Steel wire drawing	33	0400000US44	2.4444444444444446	0.0	0.0
+35192	44	44	0	Rhode Island	331318	Other aluminum rolling, drawing, and extruding	33	0400000US44	1.0	0.0	0.0
+35193	44	44	0	Rhode Island	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US44	1.0	0.0	0.0
+35194	44	44	0	Rhode Island	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US44	4.555555555555555	398.1111111111111	27314.222222222223
+35195	44	44	0	Rhode Island	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US44	11.333333333333334	367.6666666666667	21105.88888888889
+35196	44	44	0	Rhode Island	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	33	0400000US44	9.0	196.55555555555554	13277.777777777777
+35197	44	44	0	Rhode Island	331511	Iron foundries	33	0400000US44	3.0	0.0	0.0
+35198	44	44	0	Rhode Island	331512	Steel investment foundries	33	0400000US44	1.8	0.0	0.0
+35199	44	44	0	Rhode Island	331513	Steel foundries (except investment)	33	0400000US44	1.0	0.0	0.0
+35200	44	44	0	Rhode Island	331523	Nonferrous metal die-casting foundries	33	0400000US44	4.333333333333333	29.666666666666668	1383.5555555555557
+35201	44	44	0	Rhode Island	331524	Aluminum foundries (except die-casting)	33	0400000US44	1.0	0.0	0.0
+35202	44	44	0	Rhode Island	331529	Other nonferrous metal foundries (except die-casting)	33	0400000US44	8.555555555555555	58.77777777777778	2808.4444444444443
+35203	44	44	0	Rhode Island	332111	Iron and steel forging	33	0400000US44	1.0	0.0	0.0
+35204	44	44	0	Rhode Island	332114	Custom roll forming	33	0400000US44	2.0	0.0	0.0
+35205	44	44	0	Rhode Island	332117	Powder metallurgy part manufacturing	33	0400000US44	1.0	0.0	0.0
+35206	44	44	0	Rhode Island	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US44	25.11111111111111	545.1111111111111	29506.222222222223
+35207	44	44	0	Rhode Island	332216	Saw blade and handtool manufacturing	33	0400000US44	10.555555555555555	148.11111111111111	7153.111111111111
+35208	44	44	0	Rhode Island	332312	Fabricated structural metal manufacturing	33	0400000US44	10.777777777777779	0.0	0.0
+35209	44	44	0	Rhode Island	332313	Plate work manufacturing	33	0400000US44	3.0	0.0	0.0
+35210	44	44	0	Rhode Island	332321	Metal window and door manufacturing	33	0400000US44	2.7777777777777777	40.333333333333336	2417.0
+35211	44	44	0	Rhode Island	332322	Sheet metal work manufacturing	33	0400000US44	15.222222222222221	110.88888888888889	5939.222222222223
+35212	44	44	0	Rhode Island	332323	Ornamental and architectural metal work manufacturing	33	0400000US44	7.0	38.111111111111114	1989.2222222222222
+35213	44	44	0	Rhode Island	332420	Metal tank (heavy gauge) manufacturing	33	0400000US44	2.0	0.0	0.0
+35214	44	44	0	Rhode Island	332431	Metal can manufacturing	33	0400000US44	1.0	0.0	0.0
+35215	44	44	0	Rhode Island	332439	Other metal container manufacturing	33	0400000US44	2.888888888888889	56.888888888888886	2600.0
+35216	44	44	0	Rhode Island	332510	Hardware manufacturing	33	0400000US44	2.0	2.2	90.8
+35217	44	44	0	Rhode Island	332613	Spring manufacturing	33	0400000US44	1.0	0.0	0.0
+35218	44	44	0	Rhode Island	332618	Other fabricated wire product manufacturing	33	0400000US44	6.777777777777778	81.33333333333333	2067.0
+35219	44	44	0	Rhode Island	332710	Machine shops	33	0400000US44	59.55555555555556	626.6666666666666	30482.777777777777
+35220	44	44	0	Rhode Island	332721	Precision turned product manufacturing	33	0400000US44	17.11111111111111	434.77777777777777	21148.555555555555
+35221	44	44	0	Rhode Island	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US44	5.0	173.33333333333334	7562.555555555556
+35222	44	44	0	Rhode Island	332811	Metal heat treating	33	0400000US44	3.6666666666666665	38.55555555555556	1857.0
+35223	44	44	0	Rhode Island	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US44	19.666666666666668	364.6666666666667	15410.444444444445
+35224	44	44	0	Rhode Island	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US44	30.666666666666668	987.2222222222222	43949.444444444445
+35225	44	44	0	Rhode Island	332911	Industrial valve manufacturing	33	0400000US44	4.111111111111111	54.888888888888886	4113.555555555556
+35226	44	44	0	Rhode Island	332913	Plumbing fixture fitting and trim manufacturing	33	0400000US44	1.0	0.0	0.0
+35227	44	44	0	Rhode Island	332919	Other metal valve and pipe fitting manufacturing	33	0400000US44	1.0	0.0	0.0
+35228	44	44	0	Rhode Island	332992	Small arms ammunition manufacturing	33	0400000US44	1.0	0.0	0.0
+35229	44	44	0	Rhode Island	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US44	1.0	0.0	0.0
+35230	44	44	0	Rhode Island	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US44	1.0	0.0	0.0
+35231	44	44	0	Rhode Island	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US44	23.22222222222222	878.8888888888889	30924.777777777777
+35232	44	44	0	Rhode Island	333120	Construction machinery manufacturing	33	0400000US44	1.0	0.0	0.0
+35233	44	44	0	Rhode Island	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US44	1.0	0.0	0.0
+35234	44	44	0	Rhode Island	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US44	1.2	0.0	0.0
+35235	44	44	0	Rhode Island	333244	Printing machinery and equipment manufacturing	33	0400000US44	3.0	7.0	1977.6
+35236	44	44	0	Rhode Island	333249	Other industrial machinery manufacturing	33	0400000US44	19.77777777777778	388.22222222222223	21800.444444444445
+35237	44	44	0	Rhode Island	333314	Optical instrument and lens manufacturing	33	0400000US44	2.0	0.0	0.0
+35238	44	44	0	Rhode Island	333316	Photographic and photocopying equipment manufacturing	33	0400000US44	1.0	0.0	0.0
+35239	44	44	0	Rhode Island	333318	Other commercial and service industry machinery manufacturing	33	0400000US44	4.888888888888889	29.11111111111111	1782.3333333333333
+35240	44	44	0	Rhode Island	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US44	3.3333333333333335	0.0	0.0
+35241	44	44	0	Rhode Island	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US44	1.4	0.0	0.0
+35242	44	44	0	Rhode Island	333511	Industrial mold manufacturing	33	0400000US44	10.666666666666666	255.22222222222223	13549.0
+35243	44	44	0	Rhode Island	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US44	12.11111111111111	130.22222222222223	6701.777777777777
+35244	44	44	0	Rhode Island	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US44	7.666666666666667	88.11111111111111	4218.777777777777
+35245	44	44	0	Rhode Island	333517	Machine tool manufacturing	33	0400000US44	3.888888888888889	15.88888888888889	950.2222222222222
+35246	44	44	0	Rhode Island	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US44	1.2	0.0	0.0
+35247	44	44	0	Rhode Island	333611	Turbine and turbine generator set units manufacturing	33	0400000US44	1.0	0.0	0.0
+35248	44	44	0	Rhode Island	333612	Speed changer, industrial high-speed drive, and gear manufacturing	33	0400000US44	1.0	0.0	0.0
+35249	44	44	0	Rhode Island	333613	Mechanical power transmission equipment manufacturing	33	0400000US44	1.8	0.0	0.0
+35250	44	44	0	Rhode Island	333911	Pump and pumping equipment manufacturing	33	0400000US44	3.4	0.0	0.0
+35251	44	44	0	Rhode Island	333912	Air and gas compressor manufacturing	33	0400000US44	1.2	0.0	0.0
+35252	44	44	0	Rhode Island	333914	Measuring, dispensing, and other pumping equipment manufacturing	33	0400000US44	4.0	0.0	0.0
+35253	44	44	0	Rhode Island	333922	Conveyor and conveying equipment manufacturing	33	0400000US44	2.4	0.0	192.6
+35254	44	44	0	Rhode Island	333923	Overhead traveling crane, hoist, and monorail system manufacturing	33	0400000US44	1.0	0.0	0.0
+35255	44	44	0	Rhode Island	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US44	1.0	0.0	0.0
+35256	44	44	0	Rhode Island	333991	Power-driven handtool manufacturing	33	0400000US44	1.0	0.0	0.0
+35257	44	44	0	Rhode Island	333992	Welding and soldering equipment manufacturing	33	0400000US44	1.0	0.0	0.0
+35258	44	44	0	Rhode Island	333993	Packaging machinery manufacturing	33	0400000US44	1.0	0.0	0.0
+35259	44	44	0	Rhode Island	333994	Industrial process furnace and oven manufacturing	33	0400000US44	3.0	16.88888888888889	1024.6666666666667
+35260	44	44	0	Rhode Island	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US44	6.888888888888889	306.55555555555554	19339.222222222223
+35261	44	44	0	Rhode Island	334111	Electronic computer manufacturing	33	0400000US44	1.0	0.0	0.0
+35262	44	44	0	Rhode Island	334118	Computer terminal and other computer peripheral equipment manufacturing	33	0400000US44	2.6	0.0	0.0
+35263	44	44	0	Rhode Island	334210	Telephone apparatus manufacturing	33	0400000US44	1.0	0.0	0.0
+35264	44	44	0	Rhode Island	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US44	4.0	72.66666666666667	7823.666666666667
+35265	44	44	0	Rhode Island	334290	Other communications equipment manufacturing	33	0400000US44	1.0	0.0	0.0
+35266	44	44	0	Rhode Island	334310	Audio and video equipment manufacturing	33	0400000US44	1.2	0.0	0.0
+35267	44	44	0	Rhode Island	334412	Bare printed circuit board manufacturing	33	0400000US44	1.0	0.0	0.0
+35268	44	44	0	Rhode Island	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	33	0400000US44	2.0	0.0	0.0
+35269	44	44	0	Rhode Island	334417	Electronic connector manufacturing	33	0400000US44	3.0	65.77777777777777	2662.222222222222
+35270	44	44	0	Rhode Island	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US44	2.6	0.0	0.0
+35271	44	44	0	Rhode Island	334419	Other electronic component manufacturing	33	0400000US44	2.8	36.0	1754.2
+35272	44	44	0	Rhode Island	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US44	4.444444444444445	43.22222222222222	2331.5555555555557
+35273	44	44	0	Rhode Island	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US44	2.888888888888889	0.0	0.0
+35274	44	44	0	Rhode Island	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	33	0400000US44	2.0	0.0	0.0
+35275	44	44	0	Rhode Island	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US44	2.888888888888889	0.0	0.0
+35276	44	44	0	Rhode Island	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US44	1.0	0.0	0.0
+35277	44	44	0	Rhode Island	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US44	3.2	0.0	0.0
+35278	44	44	0	Rhode Island	334516	Analytical laboratory instrument manufacturing	33	0400000US44	3.5555555555555554	112.77777777777777	6556.777777777777
+35279	44	44	0	Rhode Island	334517	Irradiation apparatus manufacturing	33	0400000US44	1.0	0.0	0.0
+35280	44	44	0	Rhode Island	334519	Other measuring and controlling device manufacturing	33	0400000US44	7.444444444444445	0.0	104.88888888888889
+35281	44	44	0	Rhode Island	335121	Residential electric lighting fixture manufacturing	33	0400000US44	1.0	0.0	0.0
+35282	44	44	0	Rhode Island	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US44	5.666666666666667	151.22222222222223	9049.111111111111
+35283	44	44	0	Rhode Island	335129	Other lighting equipment manufacturing	33	0400000US44	1.0	0.0	0.0
+35284	44	44	0	Rhode Island	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US44	1.0	0.0	0.0
+35285	44	44	0	Rhode Island	335314	Relay and industrial control manufacturing	33	0400000US44	2.0	0.0	0.0
+35286	44	44	0	Rhode Island	335911	Storage battery manufacturing	33	0400000US44	2.3333333333333335	64.0	3387.1111111111113
+35287	44	44	0	Rhode Island	335912	Primary battery manufacturing	33	0400000US44	1.0	0.0	0.0
+35288	44	44	0	Rhode Island	335921	Fiber optic cable manufacturing	33	0400000US44	1.0	0.0	0.0
+35289	44	44	0	Rhode Island	335929	Other communication and energy wire manufacturing	33	0400000US44	4.555555555555555	81.0	6048.222222222223
+35290	44	44	0	Rhode Island	335931	Current-carrying wiring device manufacturing	33	0400000US44	3.888888888888889	105.11111111111111	8841.0
+35291	44	44	0	Rhode Island	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US44	4.333333333333333	50.888888888888886	4496.111111111111
+35292	44	44	0	Rhode Island	336211	Motor vehicle body manufacturing	33	0400000US44	3.3333333333333335	35.44444444444444	1954.6666666666667
+35293	44	44	0	Rhode Island	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US44	1.0	0.0	0.0
+35294	44	44	0	Rhode Island	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US44	4.0	0.0	0.0
+35295	44	44	0	Rhode Island	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US44	1.0	0.0	0.0
+35296	44	44	0	Rhode Island	336370	Motor vehicle metal stamping	33	0400000US44	1.0	0.0	0.0
+35297	44	44	0	Rhode Island	336390	Other motor vehicle parts manufacturing	33	0400000US44	1.0	0.0	0.0
+35298	44	44	0	Rhode Island	336411	Aircraft manufacturing	33	0400000US44	1.0	0.0	0.0
+35299	44	44	0	Rhode Island	336510	Railroad rolling stock manufacturing	33	0400000US44	1.0	0.0	0.0
+35300	44	44	0	Rhode Island	336611	Ship building and repairing	33	0400000US44	7.333333333333333	371.3333333333333	19771.11111111111
+35301	44	44	0	Rhode Island	336612	Boat building	33	0400000US44	23.11111111111111	333.44444444444446	13159.222222222223
+35302	44	44	0	Rhode Island	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US44	1.75	0.0	0.0
+35303	44	44	0	Rhode Island	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US44	14.666666666666666	75.55555555555556	2773.1111111111113
+35304	44	44	0	Rhode Island	337121	Upholstered household furniture manufacturing	33	0400000US44	3.7777777777777777	9.777777777777779	270.6666666666667
+35305	44	44	0	Rhode Island	337122	Nonupholstered wood household furniture manufacturing	33	0400000US44	6.333333333333333	28.666666666666668	1078.4444444444443
+35306	44	44	0	Rhode Island	337125	Household furniture (except wood and metal) manufacturing	33	0400000US44	1.0	0.0	0.0
+35307	44	44	0	Rhode Island	337127	Institutional furniture manufacturing	33	0400000US44	1.0	0.0	0.0
+35308	44	44	0	Rhode Island	337211	Wood office furniture manufacturing	33	0400000US44	1.4	0.0	0.0
+35309	44	44	0	Rhode Island	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US44	12.666666666666666	406.6666666666667	23400.11111111111
+35310	44	44	0	Rhode Island	337214	Office furniture (except wood) manufacturing	33	0400000US44	1.0	0.0	0.0
+35311	44	44	0	Rhode Island	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US44	7.111111111111111	155.11111111111111	8380.666666666666
+35312	44	44	0	Rhode Island	337920	Blind and shade manufacturing	33	0400000US44	1.0	0.0	0.0
+35313	44	44	0	Rhode Island	339112	Surgical and medical instrument manufacturing	33	0400000US44	5.555555555555555	505.1111111111111	33537.77777777778
+35314	44	44	0	Rhode Island	339113	Surgical appliance and supplies manufacturing	33	0400000US44	17.555555555555557	602.6666666666666	28800.222222222223
+35315	44	44	0	Rhode Island	339114	Dental equipment and supplies manufacturing	33	0400000US44	3.0	4.4	97.4
+35316	44	44	0	Rhode Island	339115	Ophthalmic goods manufacturing	33	0400000US44	4.666666666666667	106.44444444444444	3166.3333333333335
+35317	44	44	0	Rhode Island	339116	Dental laboratories	33	0400000US44	21.444444444444443	112.55555555555556	3266.4444444444443
+35318	44	44	0	Rhode Island	339910	Jewelry and silverware manufacturing	33	0400000US44	118.77777777777777	3194.6666666666665	139304.11111111112
+35319	44	44	0	Rhode Island	339920	Sporting and athletic goods manufacturing	33	0400000US44	9.333333333333334	159.55555555555554	6553.777777777777
+35320	44	44	0	Rhode Island	339930	Doll, toy, and game manufacturing	33	0400000US44	2.6	6.8	133.0
+35321	44	44	0	Rhode Island	339940	Office supplies (except paper) manufacturing	33	0400000US44	2.888888888888889	10.333333333333334	428.6666666666667
+35322	44	44	0	Rhode Island	339950	Sign manufacturing	33	0400000US44	20.77777777777778	596.2222222222222	28322.88888888889
+35323	44	44	0	Rhode Island	339991	Gasket, packing, and sealing device manufacturing	33	0400000US44	5.333333333333333	161.44444444444446	10769.666666666666
+35324	44	44	0	Rhode Island	339992	Musical instrument manufacturing	33	0400000US44	1.0	0.0	0.0
+35325	44	44	0	Rhode Island	339993	Fastener, button, needle, and pin manufacturing	33	0400000US44	4.111111111111111	28.22222222222222	996.3333333333334
+35326	44	44	0	Rhode Island	339994	Broom, brush, and mop manufacturing	33	0400000US44	1.0	0.0	0.0
+35327	44	44	0	Rhode Island	339995	Burial casket manufacturing	33	0400000US44	1.0	0.0	0.0
+35328	44	44	0	Rhode Island	339999	All other miscellaneous manufacturing	33	0400000US44	22.77777777777778	158.11111111111111	5997.333333333333
+35329	44	44	0	Rhode Island	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US44	23.333333333333332	172.33333333333334	8135.555555555556
+35330	44	44	0	Rhode Island	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US44	42.888888888888886	456.6666666666667	17788.222222222223
+35331	44	44	0	Rhode Island	423130	Tire and tube merchant wholesalers	42	0400000US44	2.0	0.0	0.0
+35332	44	44	0	Rhode Island	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US44	10.777777777777779	206.33333333333334	8541.666666666666
+35333	44	44	0	Rhode Island	423210	Furniture merchant wholesalers	42	0400000US44	11.11111111111111	101.88888888888889	6827.111111111111
+35334	44	44	0	Rhode Island	423220	Home furnishing merchant wholesalers	42	0400000US44	26.11111111111111	371.6666666666667	22417.11111111111
+35335	44	44	0	Rhode Island	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US44	16.555555555555557	366.44444444444446	19655.222222222223
+35336	44	44	0	Rhode Island	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US44	9.777777777777779	62.77777777777778	3384.777777777778
+35337	44	44	0	Rhode Island	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US44	11.11111111111111	264.44444444444446	15798.111111111111
+35338	44	44	0	Rhode Island	423390	Other construction material merchant wholesalers	42	0400000US44	9.222222222222221	29.11111111111111	2111.5555555555557
+35339	44	44	0	Rhode Island	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US44	2.0	0.0	0.0
+35340	44	44	0	Rhode Island	423420	Office equipment merchant wholesalers	42	0400000US44	41.44444444444444	398.77777777777777	29811.444444444445
+35341	44	44	0	Rhode Island	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US44	26.666666666666668	435.77777777777777	48026.77777777778
+35342	44	44	0	Rhode Island	423440	Other commercial equipment merchant wholesalers	42	0400000US44	16.88888888888889	202.66666666666666	12196.222222222223
+35343	44	44	0	Rhode Island	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US44	34.333333333333336	633.2222222222222	47903.11111111111
+35344	44	44	0	Rhode Island	423460	Ophthalmic goods merchant wholesalers	42	0400000US44	4.777777777777778	84.33333333333333	4372.0
+35345	44	44	0	Rhode Island	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US44	10.0	146.44444444444446	8783.666666666666
+35346	44	44	0	Rhode Island	423510	Metal service centers and other metal merchant wholesalers	42	0400000US44	33.888888888888886	574.2222222222222	29726.333333333332
+35347	44	44	0	Rhode Island	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US44	42.111111111111114	1345.5555555555557	114869.11111111111
+35348	44	44	0	Rhode Island	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US44	8.4	20.8	2442.0
+35349	44	44	0	Rhode Island	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US44	7.0	55.0	2881.0
+35350	44	44	0	Rhode Island	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US44	28.22222222222222	457.3333333333333	44967.666666666664
+35351	44	44	0	Rhode Island	423710	Hardware merchant wholesalers	42	0400000US44	21.77777777777778	396.22222222222223	20119.777777777777
+35352	44	44	0	Rhode Island	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US44	26.11111111111111	311.8888888888889	16990.88888888889
+35353	44	44	0	Rhode Island	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US44	14.88888888888889	118.22222222222223	7933.777777777777
+35354	44	44	0	Rhode Island	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US44	3.0	11.0	552.6
+35355	44	44	0	Rhode Island	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US44	6.333333333333333	21.11111111111111	2368.1111111111113
+35356	44	44	0	Rhode Island	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US44	4.222222222222222	14.666666666666666	881.4444444444445
+35357	44	44	0	Rhode Island	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US44	77.55555555555556	1024.7777777777778	68062.33333333333
+35358	44	44	0	Rhode Island	423840	Industrial supplies merchant wholesalers	42	0400000US44	23.11111111111111	157.0	11142.777777777777
+35359	44	44	0	Rhode Island	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US44	23.666666666666668	189.33333333333334	12050.555555555555
+35360	44	44	0	Rhode Island	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US44	3.2	0.0	59.6
+35361	44	44	0	Rhode Island	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US44	25.444444444444443	170.33333333333334	14821.0
+35362	44	44	0	Rhode Island	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US44	9.666666666666666	4.0	244.77777777777777
+35363	44	44	0	Rhode Island	423930	Recyclable material merchant wholesalers	42	0400000US44	26.666666666666668	513.1111111111111	17215.0
+35364	44	44	0	Rhode Island	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US44	80.33333333333333	1604.5555555555557	110594.88888888889
+35365	44	44	0	Rhode Island	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US44	32.666666666666664	433.44444444444446	27279.666666666668
+35366	44	44	0	Rhode Island	424110	Printing and writing paper merchant wholesalers	42	0400000US44	3.0	0.0	0.0
+35367	44	44	0	Rhode Island	424120	Stationery and office supplies merchant wholesalers	42	0400000US44	16.0	388.8888888888889	29303.11111111111
+35368	44	44	0	Rhode Island	424130	Industrial and personal service paper merchant wholesalers	42	0400000US44	20.444444444444443	148.77777777777777	7740.444444444444
+35369	44	44	0	Rhode Island	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US44	32.44444444444444	381.55555555555554	35726.22222222222
+35370	44	44	0	Rhode Island	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US44	15.88888888888889	179.88888888888889	10664.333333333334
+35371	44	44	0	Rhode Island	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US44	7.666666666666667	146.55555555555554	7615.222222222223
+35372	44	44	0	Rhode Island	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US44	8.333333333333334	99.11111111111111	6509.666666666667
+35373	44	44	0	Rhode Island	424340	Footwear merchant wholesalers	42	0400000US44	3.2	0.0	0.0
+35374	44	44	0	Rhode Island	424410	General line grocery merchant wholesalers	42	0400000US44	7.0	207.77777777777777	10786.111111111111
+35375	44	44	0	Rhode Island	424420	Packaged frozen food merchant wholesalers	42	0400000US44	26.22222222222222	256.77777777777777	26869.444444444445
+35376	44	44	0	Rhode Island	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US44	7.111111111111111	103.22222222222223	6350.777777777777
+35377	44	44	0	Rhode Island	424440	Poultry and poultry product merchant wholesalers	42	0400000US44	3.0	29.444444444444443	1161.111111111111
+35378	44	44	0	Rhode Island	424450	Confectionery merchant wholesalers	42	0400000US44	9.333333333333334	472.0	24097.555555555555
+35379	44	44	0	Rhode Island	424460	Fish and seafood merchant wholesalers	42	0400000US44	25.88888888888889	168.22222222222223	8464.222222222223
+35380	44	44	0	Rhode Island	424470	Meat and meat product merchant wholesalers	42	0400000US44	10.555555555555555	169.66666666666666	8424.222222222223
+35381	44	44	0	Rhode Island	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US44	15.333333333333334	265.44444444444446	11783.777777777777
+35382	44	44	0	Rhode Island	424490	Other grocery and related products merchant wholesalers	42	0400000US44	43.111111111111114	962.4444444444445	50337.88888888889
+35383	44	44	0	Rhode Island	424510	Grain and field bean merchant wholesalers	42	0400000US44	2.2	0.0	19.4
+35384	44	44	0	Rhode Island	424590	Other farm product raw material merchant wholesalers	42	0400000US44	2.0	0.0	0.0
+35385	44	44	0	Rhode Island	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US44	15.444444444444445	135.66666666666666	11723.888888888889
+35386	44	44	0	Rhode Island	424690	Other chemical and allied products merchant wholesalers	42	0400000US44	36.22222222222222	473.6666666666667	33859.666666666664
+35387	44	44	0	Rhode Island	424710	Petroleum bulk stations and terminals	42	0400000US44	7.2	32.4	4108.0
+35388	44	44	0	Rhode Island	424710	Petroleum bulk stations and terminals 	42	0400000US44	7.0	88.0	5601.0
+35389	44	44	0	Rhode Island	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US44	8.4	45.6	3028.4
+35390	44	44	0	Rhode Island	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US44	5.0	19.0	1369.0
+35391	44	44	0	Rhode Island	424810	Beer and ale merchant wholesalers	42	0400000US44	5.0	98.0	7825.111111111111
+35392	44	44	0	Rhode Island	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US44	18.666666666666668	314.44444444444446	21142.222222222223
+35393	44	44	0	Rhode Island	424910	Farm supplies merchant wholesalers	42	0400000US44	3.4	0.0	0.0
+35394	44	44	0	Rhode Island	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US44	4.666666666666667	10.0	193.11111111111111
+35395	44	44	0	Rhode Island	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US44	8.555555555555555	143.0	4892.444444444444
+35396	44	44	0	Rhode Island	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US44	2.6666666666666665	0.0	0.0
+35397	44	44	0	Rhode Island	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US44	3.2222222222222223	47.55555555555556	3492.4444444444443
+35398	44	44	0	Rhode Island	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US44	35.0	291.44444444444446	16565.0
+35399	44	44	0	Rhode Island	425110	Business to business electronic markets	42	0400000US44	2.5	0.0	188.75
+35400	44	44	0	Rhode Island	425120	Wholesale trade agents and brokers	42	0400000US44	140.44444444444446	630.1111111111111	42616.11111111111
+35401	44	44	0	Rhode Island	441110	New car dealers	44	0400000US44	73.0	3256.3333333333335	172177.88888888888
+35402	44	44	0	Rhode Island	441120	Used car dealers	44	0400000US44	111.88888888888889	443.0	14833.777777777777
+35403	44	44	0	Rhode Island	441210	Recreational vehicle dealers	44	0400000US44	2.2	0.0	0.0
+35404	44	44	0	Rhode Island	441222	Boat dealers	44	0400000US44	42.55555555555556	216.44444444444446	10166.0
+35405	44	44	0	Rhode Island	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US44	13.11111111111111	115.88888888888889	5141.888888888889
+35406	44	44	0	Rhode Island	441310	Automotive parts and accessories stores	44	0400000US44	108.55555555555556	956.7777777777778	27023.222222222223
+35407	44	44	0	Rhode Island	441320	Tire dealers	44	0400000US44	45.22222222222222	396.3333333333333	13823.666666666666
+35408	44	44	0	Rhode Island	442110	Furniture stores	44	0400000US44	66.33333333333333	440.8888888888889	17903.444444444445
+35409	44	44	0	Rhode Island	442210	Floor covering stores	44	0400000US44	33.888888888888886	151.11111111111111	7173.555555555556
+35410	44	44	0	Rhode Island	442291	Window treatment stores	44	0400000US44	10.444444444444445	58.666666666666664	1898.111111111111
+35411	44	44	0	Rhode Island	442299	All other home furnishings stores	44	0400000US44	55.0	854.8888888888889	13468.111111111111
+35412	44	44	0	Rhode Island	443141	Household appliance stores	44	0400000US44	27.333333333333332	175.66666666666666	6963.777777777777
+35413	44	44	0	Rhode Island	443142	Electronics stores	44	0400000US44	114.88888888888889	863.6666666666666	26862.444444444445
+35414	44	44	0	Rhode Island	444110	Home centers	44	0400000US44	17.555555555555557	876.4444444444445	23156.444444444445
+35415	44	44	0	Rhode Island	444120	Paint and wallpaper stores	44	0400000US44	31.444444444444443	175.11111111111111	6816.555555555556
+35416	44	44	0	Rhode Island	444130	Hardware stores	44	0400000US44	37.55555555555556	299.6666666666667	8611.888888888889
+35417	44	44	0	Rhode Island	444190	Other building material dealers	44	0400000US44	104.55555555555556	1239.888888888889	59889.333333333336
+35418	44	44	0	Rhode Island	444210	Outdoor power equipment stores	44	0400000US44	9.444444444444445	52.111111111111114	2722.5555555555557
+35419	44	44	0	Rhode Island	444220	Nursery, garden center, and farm supply stores	44	0400000US44	52.44444444444444	258.3333333333333	9661.333333333334
+35420	44	44	0	Rhode Island	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US44	213.66666666666666	9427.333333333334	230137.77777777778
+35421	44	44	0	Rhode Island	445120	Convenience stores	44	0400000US44	131.88888888888889	449.1111111111111	7322.777777777777
+35422	44	44	0	Rhode Island	445210	Meat markets	44	0400000US44	28.666666666666668	225.55555555555554	5004.333333333333
+35423	44	44	0	Rhode Island	445220	Fish and seafood markets	44	0400000US44	24.555555555555557	108.33333333333333	2816.3333333333335
+35424	44	44	0	Rhode Island	445230	Fruit and vegetable markets	44	0400000US44	8.88888888888889	57.55555555555556	1062.6666666666667
+35425	44	44	0	Rhode Island	445291	Baked goods stores	44	0400000US44	10.11111111111111	79.11111111111111	1179.2222222222222
+35426	44	44	0	Rhode Island	445292	Confectionery and nut stores	44	0400000US44	9.666666666666666	38.666666666666664	827.4444444444445
+35427	44	44	0	Rhode Island	445299	All other specialty food stores	44	0400000US44	13.555555555555555	66.66666666666667	1490.0
+35428	44	44	0	Rhode Island	445310	Beer, wine, and liquor stores	44	0400000US44	227.11111111111111	1335.888888888889	30910.11111111111
+35429	44	44	0	Rhode Island	446110	Pharmacies and drug stores	44	0400000US44	211.0	4038.222222222222	148431.77777777778
+35430	44	44	0	Rhode Island	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US44	43.333333333333336	370.3333333333333	7041.666666666667
+35431	44	44	0	Rhode Island	446130	Optical goods stores	44	0400000US44	36.888888888888886	175.11111111111111	5137.555555555556
+35432	44	44	0	Rhode Island	446191	Food (health) supplement stores	44	0400000US44	30.555555555555557	103.88888888888889	2548.8888888888887
+35433	44	44	0	Rhode Island	446199	All other health and personal care stores	44	0400000US44	33.22222222222222	147.22222222222223	10958.888888888889
+35434	44	44	0	Rhode Island	447110	Gasoline stations with convenience stores	44	0400000US44	239.0	1631.7777777777778	36269.666666666664
+35435	44	44	0	Rhode Island	447190	Other gasoline stations	44	0400000US44	77.33333333333333	392.0	10994.0
+35436	44	44	0	Rhode Island	448110	Men's clothing stores	44	0400000US44	20.333333333333332	114.0	4329.0
+35437	44	44	0	Rhode Island	448120	Women's clothing stores	44	0400000US44	119.88888888888889	981.2222222222222	15582.0
+35438	44	44	0	Rhode Island	448130	Children's and infants' clothing stores	44	0400000US44	19.11111111111111	165.88888888888889	2643.1111111111113
+35439	44	44	0	Rhode Island	448140	Family clothing stores	44	0400000US44	106.88888888888889	2418.6666666666665	40462.88888888889
+35440	44	44	0	Rhode Island	448150	Clothing accessories stores	44	0400000US44	30.88888888888889	164.77777777777777	3380.0
+35441	44	44	0	Rhode Island	448190	Other clothing stores	44	0400000US44	44.0	326.44444444444446	7166.111111111111
+35442	44	44	0	Rhode Island	448210	Shoe stores	44	0400000US44	71.22222222222223	555.3333333333334	9896.555555555555
+35443	44	44	0	Rhode Island	448310	Jewelry stores	44	0400000US44	86.77777777777777	380.77777777777777	12496.777777777777
+35444	44	44	0	Rhode Island	448320	Luggage and leather goods stores	44	0400000US44	3.0	1.0	26.0
+35445	44	44	0	Rhode Island	451110	Sporting goods stores	45	0400000US44	81.66666666666667	649.8888888888889	15857.111111111111
+35446	44	44	0	Rhode Island	451120	Hobby, toy, and game stores	45	0400000US44	25.11111111111111	343.6666666666667	6012.222222222223
+35447	44	44	0	Rhode Island	451130	Sewing, needlework, and piece goods stores	45	0400000US44	9.88888888888889	51.22222222222222	1115.7777777777778
+35448	44	44	0	Rhode Island	451140	Musical instrument and supplies stores	45	0400000US44	13.222222222222221	70.44444444444444	1799.2222222222222
+35449	44	44	0	Rhode Island	451211	Book stores	45	0400000US44	21.0	182.11111111111111	2799.8888888888887
+35450	44	44	0	Rhode Island	451212	News dealers and newsstands	45	0400000US44	2.4444444444444446	6.222222222222222	90.22222222222223
+35451	44	44	0	Rhode Island	452111	Department stores (except discount department stores)	45	0400000US44	6.8	913.6	17516.6
+35452	44	44	0	Rhode Island	452112	Discount department stores	45	0400000US44	12.2	1192.4	26097.2
+35453	44	44	0	Rhode Island	452210	Department stores	45	0400000US44	10.0	1142.0	22654.0
+35454	44	44	0	Rhode Island	452311	Warehouse clubs and supercenters	45	0400000US44	17.0	3386.0	89626.0
+35455	44	44	0	Rhode Island	452319	All other general merchandise stores	45	0400000US44	116.0	1662.0	30771.0
+35456	44	44	0	Rhode Island	452910	Warehouse clubs and supercenters	45	0400000US44	8.0	0.0	0.0
+35457	44	44	0	Rhode Island	452990	All other general merchandise stores	45	0400000US44	111.0	1304.0	24874.4
+35458	44	44	0	Rhode Island	453110	Florists	45	0400000US44	58.44444444444444	183.88888888888889	3885.0
+35459	44	44	0	Rhode Island	453210	Office supplies and stationery stores	45	0400000US44	17.0	68.22222222222223	1354.888888888889
+35460	44	44	0	Rhode Island	453220	Gift, novelty, and souvenir stores	45	0400000US44	103.88888888888889	537.0	8897.555555555555
+35461	44	44	0	Rhode Island	453310	Used merchandise stores	45	0400000US44	74.0	580.2222222222222	10049.555555555555
+35462	44	44	0	Rhode Island	453910	Pet and pet supplies stores	45	0400000US44	42.333333333333336	358.3333333333333	7839.444444444444
+35463	44	44	0	Rhode Island	453920	Art dealers	45	0400000US44	23.555555555555557	60.22222222222222	1490.6666666666667
+35464	44	44	0	Rhode Island	453930	Manufactured (mobile) home dealers	45	0400000US44	1.0	0.0	0.0
+35465	44	44	0	Rhode Island	453991	Tobacco stores	45	0400000US44	31.666666666666668	102.22222222222223	2058.1111111111113
+35466	44	44	0	Rhode Island	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US44	57.77777777777778	257.1111111111111	9984.222222222223
+35467	44	44	0	Rhode Island	454110	Electronic shopping and mail-order houses	45	0400000US44	111.0	1557.0	67177.0
+35468	44	44	0	Rhode Island	454111	Electronic shopping	45	0400000US44	84.2	639.4	42737.6
+35469	44	44	0	Rhode Island	454113	Mail-order houses	45	0400000US44	19.4	270.6	13354.2
+35470	44	44	0	Rhode Island	454210	Vending machine operators	45	0400000US44	13.11111111111111	20.333333333333332	637.2222222222222
+35471	44	44	0	Rhode Island	454310	Fuel dealers	45	0400000US44	92.44444444444444	928.0	43743.88888888889
+35472	44	44	0	Rhode Island	454390	Other direct selling establishments	45	0400000US44	65.11111111111111	387.8888888888889	13674.666666666666
+35473	44	44	0	Rhode Island	481111	Scheduled passenger air transportation	48	0400000US44	7.555555555555555	173.66666666666666	8059.888888888889
+35474	44	44	0	Rhode Island	481211	Nonscheduled chartered passenger air transportation	48	0400000US44	2.4444444444444446	1.7777777777777777	372.0
+35475	44	44	0	Rhode Island	483111	Deep sea freight transportation	48	0400000US44	1.6	0.0	0.0
+35476	44	44	0	Rhode Island	483112	Deep sea passenger transportation	48	0400000US44	2.2	3.6	314.8
+35477	44	44	0	Rhode Island	483113	Coastal and great lakes freight transportation	48	0400000US44	1.0	0.0	0.0
+35478	44	44	0	Rhode Island	483114	Coastal and great lakes passenger transportation	48	0400000US44	2.5555555555555554	8.88888888888889	718.0
+35479	44	44	0	Rhode Island	483211	Inland water freight transportation	48	0400000US44	1.0	0.0	0.0
+35480	44	44	0	Rhode Island	483212	Inland water passenger transportation	48	0400000US44	2.111111111111111	6.222222222222222	225.33333333333334
+35481	44	44	0	Rhode Island	484110	General freight trucking, local	48	0400000US44	114.77777777777777	428.22222222222223	16939.444444444445
+35482	44	44	0	Rhode Island	484121	General freight trucking, long-distance, truckload	48	0400000US44	40.44444444444444	509.22222222222223	22096.88888888889
+35483	44	44	0	Rhode Island	484122	General freight trucking, long-distance, less than truckload	48	0400000US44	18.88888888888889	759.6666666666666	42683.444444444445
+35484	44	44	0	Rhode Island	484210	Used household and office goods moving	48	0400000US44	35.666666666666664	391.77777777777777	13192.222222222223
+35485	44	44	0	Rhode Island	484220	Specialized freight (except used goods) trucking, local	48	0400000US44	81.66666666666667	628.1111111111111	32608.11111111111
+35486	44	44	0	Rhode Island	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US44	18.11111111111111	282.55555555555554	21329.333333333332
+35487	44	44	0	Rhode Island	485113	Bus and other motor vehicle transit systems	48	0400000US44	1.0	0.0	0.0
+35488	44	44	0	Rhode Island	485210	Interurban and rural bus transportation	48	0400000US44	2.2	0.0	0.0
+35489	44	44	0	Rhode Island	485310	Taxi service	48	0400000US44	22.22222222222222	82.33333333333333	1971.0
+35490	44	44	0	Rhode Island	485320	Limousine service	48	0400000US44	19.77777777777778	178.22222222222223	4923.777777777777
+35491	44	44	0	Rhode Island	485410	School and employee bus transportation	48	0400000US44	39.666666666666664	2236.6666666666665	45141.11111111111
+35492	44	44	0	Rhode Island	485510	Charter bus industry	48	0400000US44	1.6	0.0	0.0
+35493	44	44	0	Rhode Island	485991	Special needs transportation	48	0400000US44	18.88888888888889	212.55555555555554	4835.111111111111
+35494	44	44	0	Rhode Island	485999	All other transit and ground passenger transportation	48	0400000US44	5.444444444444445	15.0	288.6666666666667
+35495	44	44	0	Rhode Island	486210	Pipeline transportation of natural gas	48	0400000US44	1.0	0.0	0.0
+35496	44	44	0	Rhode Island	486910	Pipeline transportation of refined petroleum products	48	0400000US44	1.4	0.0	0.0
+35497	44	44	0	Rhode Island	486990	All other pipeline transportation	48	0400000US44	1.0	0.0	0.0
+35498	44	44	0	Rhode Island	487110	Scenic and sightseeing transportation, land	48	0400000US44	4.777777777777778	30.77777777777778	951.3333333333334
+35499	44	44	0	Rhode Island	487210	Scenic and sightseeing transportation, water	48	0400000US44	27.88888888888889	31.666666666666668	2419.4444444444443
+35500	44	44	0	Rhode Island	487990	Scenic and sightseeing transportation, other	48	0400000US44	2.3333333333333335	1.3333333333333333	189.77777777777777
+35501	44	44	0	Rhode Island	488111	Air traffic control	48	0400000US44	1.0	0.0	0.0
+35502	44	44	0	Rhode Island	488119	Other airport operations	48	0400000US44	7.111111111111111	176.44444444444446	4802.888888888889
+35503	44	44	0	Rhode Island	488190	Other support activities for air transportation	48	0400000US44	7.222222222222222	57.666666666666664	1746.888888888889
+35504	44	44	0	Rhode Island	488210	Support activities for rail transportation	48	0400000US44	1.0	0.0	0.0
+35505	44	44	0	Rhode Island	488310	Port and harbor operations	48	0400000US44	3.111111111111111	12.0	658.2222222222222
+35506	44	44	0	Rhode Island	488320	Marine cargo handling	48	0400000US44	3.111111111111111	27.11111111111111	721.6666666666666
+35507	44	44	0	Rhode Island	488330	Navigational services to shipping	48	0400000US44	6.666666666666667	53.55555555555556	3284.8888888888887
+35508	44	44	0	Rhode Island	488390	Other support activities for water transportation	48	0400000US44	6.222222222222222	30.22222222222222	2373.0
+35509	44	44	0	Rhode Island	488410	Motor vehicle towing	48	0400000US44	30.77777777777778	175.88888888888889	6399.222222222223
+35510	44	44	0	Rhode Island	488490	Other support activities for road transportation	48	0400000US44	13.0	120.77777777777777	3900.222222222222
+35511	44	44	0	Rhode Island	488510	Freight transportation arrangement	48	0400000US44	35.888888888888886	271.6666666666667	14839.666666666666
+35512	44	44	0	Rhode Island	488991	Packing and crating	48	0400000US44	3.7777777777777777	12.88888888888889	749.7777777777778
+35513	44	44	0	Rhode Island	492110	Couriers and express delivery services	49	0400000US44	24.666666666666668	1240.3333333333333	57352.11111111111
+35514	44	44	0	Rhode Island	492210	Local messengers and local delivery	49	0400000US44	15.666666666666666	195.55555555555554	7274.333333333333
+35515	44	44	0	Rhode Island	493110	General warehousing and storage	49	0400000US44	20.444444444444443	689.4444444444445	26357.11111111111
+35516	44	44	0	Rhode Island	493190	Other warehousing and storage	49	0400000US44	8.222222222222221	557.7777777777778	30962.777777777777
+35517	44	44	0	Rhode Island	511110	Newspaper publishers	51	0400000US44	20.22222222222222	759.1111111111111	33473.555555555555
+35518	44	44	0	Rhode Island	511120	Periodical publishers	51	0400000US44	19.22222222222222	73.77777777777777	4517.888888888889
+35519	44	44	0	Rhode Island	511130	Book publishers	51	0400000US44	6.111111111111111	31.11111111111111	1509.3333333333333
+35520	44	44	0	Rhode Island	511140	Directory and mailing list publishers	51	0400000US44	3.111111111111111	5.666666666666667	246.22222222222223
+35521	44	44	0	Rhode Island	511199	All other publishers	51	0400000US44	4.555555555555555	8.222222222222221	576.8888888888889
+35522	44	44	0	Rhode Island	511210	Software publishers	51	0400000US44	42.55555555555556	1140.111111111111	128588.11111111111
+35523	44	44	0	Rhode Island	512110	Motion picture and video production	51	0400000US44	30.88888888888889	110.11111111111111	4517.666666666667
+35524	44	44	0	Rhode Island	512131	Motion picture theaters (except drive-ins)	51	0400000US44	12.88888888888889	360.1111111111111	4932.333333333333
+35525	44	44	0	Rhode Island	512191	Teleproduction and other postproduction services	51	0400000US44	2.4444444444444446	2.2222222222222223	79.11111111111111
+35526	44	44	0	Rhode Island	512220	Integrated record production\/distribution	51	0400000US44	1.0	0.0	0.0
+35527	44	44	0	Rhode Island	512230	Music publishers	51	0400000US44	1.0	0.0	0.0
+35528	44	44	0	Rhode Island	512240	Sound recording studios	51	0400000US44	4.111111111111111	1.5555555555555556	153.33333333333334
+35529	44	44	0	Rhode Island	515111	Radio networks	51	0400000US44	4.333333333333333	13.0	523.1111111111111
+35530	44	44	0	Rhode Island	515112	Radio stations	51	0400000US44	17.555555555555557	257.44444444444446	11541.444444444445
+35531	44	44	0	Rhode Island	515120	Television broadcasting	51	0400000US44	6.444444444444445	210.55555555555554	15824.0
+35532	44	44	0	Rhode Island	515210	Cable and other subscription programming	51	0400000US44	1.0	0.0	0.0
+35533	44	44	0	Rhode Island	517110	Wired telecommunications carriers	51	0400000US44	125.2	2481.2	183359.6
+35534	44	44	0	Rhode Island	517210	Wireless telecommunications carriers (except satellite)	51	0400000US44	41.8	134.2	17893.2
+35535	44	44	0	Rhode Island	517311	Wired telecommunications carriers	51	0400000US44	79.0	1788.0	142881.0
+35536	44	44	0	Rhode Island	517312	Wireless telecommunications carriers (except satellite)	51	0400000US44	70.0	632.0	30093.0
+35537	44	44	0	Rhode Island	517911	Telecommunications resellers	51	0400000US44	6.0	17.11111111111111	820.2222222222222
+35538	44	44	0	Rhode Island	517919	All other telecommunications	51	0400000US44	8.222222222222221	21.88888888888889	829.6666666666666
+35539	44	44	0	Rhode Island	518210	Data processing, hosting, and related services	51	0400000US44	49.77777777777778	513.2222222222222	41888.22222222222
+35540	44	44	0	Rhode Island	519110	News syndicates	51	0400000US44	2.0	0.0	0.0
+35541	44	44	0	Rhode Island	519120	Libraries and archives	51	0400000US44	38.0	442.6666666666667	11965.666666666666
+35542	44	44	0	Rhode Island	519130	Internet publishing and broadcasting and web search portals	51	0400000US44	14.88888888888889	44.333333333333336	2584.6666666666665
+35543	44	44	0	Rhode Island	522110	Commercial banking	52	0400000US44	266.6666666666667	5813.333333333333	452526.0
+35544	44	44	0	Rhode Island	522120	Savings institutions	52	0400000US44	74.11111111111111	1211.0	76619.11111111111
+35545	44	44	0	Rhode Island	522130	Credit unions	52	0400000US44	67.33333333333333	938.0	46221.666666666664
+35546	44	44	0	Rhode Island	522210	Credit card issuing	52	0400000US44	5.0	0.0	0.0
+35547	44	44	0	Rhode Island	522220	Sales financing	52	0400000US44	11.0	48.44444444444444	7090.666666666667
+35548	44	44	0	Rhode Island	522291	Consumer lending	52	0400000US44	8.666666666666666	48.111111111111114	3288.0
+35549	44	44	0	Rhode Island	522292	Real estate credit	52	0400000US44	36.111111111111114	791.3333333333334	64549.22222222222
+35550	44	44	0	Rhode Island	522298	All other nondepository credit intermediation	52	0400000US44	11.333333333333334	118.66666666666667	6596.888888888889
+35551	44	44	0	Rhode Island	522310	Mortgage and nonmortgage loan brokers	52	0400000US44	23.0	151.22222222222223	10631.555555555555
+35552	44	44	0	Rhode Island	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US44	18.77777777777778	267.6666666666667	16726.555555555555
+35553	44	44	0	Rhode Island	522390	Other activities related to credit intermediation	52	0400000US44	37.55555555555556	127.33333333333333	4675.888888888889
+35554	44	44	0	Rhode Island	523110	Investment banking and securities dealing	52	0400000US44	6.444444444444445	7.888888888888889	1038.2222222222222
+35555	44	44	0	Rhode Island	523120	Securities brokerage	52	0400000US44	86.88888888888889	1242.7777777777778	160088.66666666666
+35556	44	44	0	Rhode Island	523130	Commodity contracts dealing	52	0400000US44	2.2	0.0	0.0
+35557	44	44	0	Rhode Island	523140	Commodity contracts brokerage	52	0400000US44	1.6666666666666667	0.0	0.0
+35558	44	44	0	Rhode Island	523910	Miscellaneous intermediation	52	0400000US44	17.77777777777778	52.55555555555556	7168.888888888889
+35559	44	44	0	Rhode Island	523920	Portfolio management	52	0400000US44	118.33333333333333	737.6666666666666	146952.66666666666
+35560	44	44	0	Rhode Island	523930	Investment advice	52	0400000US44	49.666666666666664	136.55555555555554	11600.666666666666
+35561	44	44	0	Rhode Island	523991	Trust, fiduciary, and custody activities	52	0400000US44	7.0	76.33333333333333	5833.444444444444
+35562	44	44	0	Rhode Island	523999	Miscellaneous financial investment activities	52	0400000US44	7.714285714285714	0.0	0.0
+35563	44	44	0	Rhode Island	524113	Direct life insurance carriers	52	0400000US44	45.44444444444444	842.8888888888889	70168.22222222222
+35564	44	44	0	Rhode Island	524114	Direct health and medical insurance carriers	52	0400000US44	20.666666666666668	1853.5555555555557	147802.55555555556
+35565	44	44	0	Rhode Island	524126	Direct property and casualty insurance carriers	52	0400000US44	55.0	3614.8888888888887	361539.8888888889
+35566	44	44	0	Rhode Island	524127	Direct title insurance carriers	52	0400000US44	5.666666666666667	72.22222222222223	3749.6666666666665
+35567	44	44	0	Rhode Island	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US44	2.0	0.0	0.0
+35568	44	44	0	Rhode Island	524130	Reinsurance carriers	52	0400000US44	1.0	0.0	0.0
+35569	44	44	0	Rhode Island	524210	Insurance agencies and brokerages	52	0400000US44	361.3333333333333	2209.6666666666665	161343.0
+35570	44	44	0	Rhode Island	524291	Claims adjusting	52	0400000US44	17.444444444444443	31.11111111111111	2665.8888888888887
+35571	44	44	0	Rhode Island	524292	Third party administration of insurance and pension funds	52	0400000US44	28.333333333333332	842.5555555555555	81380.33333333333
+35572	44	44	0	Rhode Island	524298	All other insurance related activities	52	0400000US44	7.666666666666667	69.55555555555556	5771.777777777777
+35573	44	44	0	Rhode Island	525990	Other financial vehicles	52	0400000US44	2.0	0.0	22.4
+35574	44	44	0	Rhode Island	531110	Lessors of residential buildings and dwellings	53	0400000US44	150.55555555555554	851.7777777777778	33027.666666666664
+35575	44	44	0	Rhode Island	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US44	115.11111111111111	460.22222222222223	20583.0
+35576	44	44	0	Rhode Island	531130	Lessors of miniwarehouses and self-storage units	53	0400000US44	41.888888888888886	84.44444444444444	2600.0
+35577	44	44	0	Rhode Island	531190	Lessors of other real estate property	53	0400000US44	17.77777777777778	33.22222222222222	2379.8888888888887
+35578	44	44	0	Rhode Island	531210	Offices of real estate agents and brokers	53	0400000US44	271.3333333333333	660.0	33975.11111111111
+35579	44	44	0	Rhode Island	531311	Residential property managers	53	0400000US44	165.11111111111111	1303.888888888889	54027.22222222222
+35580	44	44	0	Rhode Island	531312	Nonresidential property managers	53	0400000US44	60.77777777777778	480.55555555555554	22596.88888888889
+35581	44	44	0	Rhode Island	531320	Offices of real estate appraisers	53	0400000US44	52.0	94.22222222222223	5802.111111111111
+35582	44	44	0	Rhode Island	531390	Other activities related to real estate	53	0400000US44	28.0	82.0	6118.0
+35583	44	44	0	Rhode Island	532111	Passenger car rental	53	0400000US44	51.22222222222222	247.55555555555554	8930.333333333334
+35584	44	44	0	Rhode Island	532112	Passenger car leasing	53	0400000US44	1.0	0.0	0.0
+35585	44	44	0	Rhode Island	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US44	14.0	137.11111111111111	7940.111111111111
+35586	44	44	0	Rhode Island	532210	Consumer electronics and appliances rental	53	0400000US44	23.11111111111111	196.44444444444446	5210.555555555556
+35587	44	44	0	Rhode Island	532220	Formal wear and costume rental	53	0400000US44	2.6	2.6	60.2
+35588	44	44	0	Rhode Island	532230	Video tape and disc rental	53	0400000US44	3.5	0.0	0.0
+35589	44	44	0	Rhode Island	532283	Home health equipment rental	53	0400000US44	3.0	78.0	3231.0
+35590	44	44	0	Rhode Island	532284	Recreational goods rental	53	0400000US44	12.0	4.0	427.0
+35591	44	44	0	Rhode Island	532289	All other consumer goods rental	53	0400000US44	16.0	112.0	5706.0
+35592	44	44	0	Rhode Island	532291	Home health equipment rental	53	0400000US44	4.2	47.6	1969.6
+35593	44	44	0	Rhode Island	532292	Recreational goods rental	53	0400000US44	8.6	2.0	274.8
+35594	44	44	0	Rhode Island	532299	All other consumer goods rental	53	0400000US44	20.6	88.8	6400.4
+35595	44	44	0	Rhode Island	532310	General rental centers	53	0400000US44	9.444444444444445	36.77777777777778	2845.6666666666665
+35596	44	44	0	Rhode Island	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US44	1.5	0.0	0.0
+35597	44	44	0	Rhode Island	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US44	8.11111111111111	71.11111111111111	6374.333333333333
+35598	44	44	0	Rhode Island	532420	Office machinery and equipment rental and leasing	53	0400000US44	3.0	0.0	0.0
+35599	44	44	0	Rhode Island	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US44	23.666666666666668	179.22222222222223	9793.0
+35600	44	44	0	Rhode Island	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US44	7.444444444444445	58.22222222222222	5217.0
+35601	44	44	0	Rhode Island	541110	Offices of lawyers	54	0400000US44	747.4444444444445	3874.777777777778	263589.1111111111
+35602	44	44	0	Rhode Island	541191	Title abstract and settlement offices	54	0400000US44	39.77777777777778	632.1111111111111	29757.333333333332
+35603	44	44	0	Rhode Island	541199	All other legal services	54	0400000US44	6.777777777777778	7.222222222222222	463.1111111111111
+35604	44	44	0	Rhode Island	541211	Offices of certified public accountants	54	0400000US44	229.0	1595.888888888889	107380.77777777778
+35605	44	44	0	Rhode Island	541213	Tax preparation services	54	0400000US44	93.55555555555556	568.8888888888889	6324.888888888889
+35606	44	44	0	Rhode Island	541214	Payroll services	54	0400000US44	31.444444444444443	672.7777777777778	57462.333333333336
+35607	44	44	0	Rhode Island	541219	Other accounting services	54	0400000US44	112.22222222222223	386.6666666666667	16940.333333333332
+35608	44	44	0	Rhode Island	541310	Architectural services	54	0400000US44	68.33333333333333	341.8888888888889	22854.444444444445
+35609	44	44	0	Rhode Island	541320	Landscape architectural services	54	0400000US44	22.77777777777778	50.888888888888886	3017.8888888888887
+35610	44	44	0	Rhode Island	541330	Engineering services	54	0400000US44	233.55555555555554	2862.1111111111113	214230.44444444444
+35611	44	44	0	Rhode Island	541340	Drafting services	54	0400000US44	7.555555555555555	13.222222222222221	550.5555555555555
+35612	44	44	0	Rhode Island	541350	Building inspection services	54	0400000US44	20.0	29.444444444444443	1805.111111111111
+35613	44	44	0	Rhode Island	541370	Surveying and mapping (except geophysical) services	54	0400000US44	31.444444444444443	93.33333333333333	4980.111111111111
+35614	44	44	0	Rhode Island	541380	Testing laboratories	54	0400000US44	27.555555555555557	365.6666666666667	22683.777777777777
+35615	44	44	0	Rhode Island	541410	Interior design services	54	0400000US44	43.77777777777778	159.77777777777777	9738.777777777777
+35616	44	44	0	Rhode Island	541420	Industrial design services	54	0400000US44	15.333333333333334	86.55555555555556	5701.777777777777
+35617	44	44	0	Rhode Island	541430	Graphic design services	54	0400000US44	67.11111111111111	145.77777777777777	7389.777777777777
+35618	44	44	0	Rhode Island	541490	Other specialized design services	54	0400000US44	8.666666666666666	16.444444444444443	1093.111111111111
+35619	44	44	0	Rhode Island	541511	Custom computer programming services	54	0400000US44	170.33333333333334	2095.3333333333335	172715.0
+35620	44	44	0	Rhode Island	541512	Computer systems design services	54	0400000US44	158.77777777777777	1875.3333333333333	155971.11111111112
+35621	44	44	0	Rhode Island	541513	Computer facilities management services	54	0400000US44	28.333333333333332	265.44444444444446	18984.0
+35622	44	44	0	Rhode Island	541519	Other computer related services	54	0400000US44	23.77777777777778	107.22222222222223	7162.444444444444
+35623	44	44	0	Rhode Island	541611	Administrative management and general management consulting services	54	0400000US44	207.11111111111111	2335.4444444444443	89087.77777777778
+35624	44	44	0	Rhode Island	541612	Human resources consulting services	54	0400000US44	27.666666666666668	280.0	16176.888888888889
+35625	44	44	0	Rhode Island	541613	Marketing consulting services	54	0400000US44	93.77777777777777	468.3333333333333	28301.222222222223
+35626	44	44	0	Rhode Island	541614	Process, physical distribution, and logistics consulting services	54	0400000US44	20.555555555555557	564.0	14326.222222222223
+35627	44	44	0	Rhode Island	541618	Other management consulting services	54	0400000US44	5.2	7.4	556.6
+35628	44	44	0	Rhode Island	541620	Environmental consulting services	54	0400000US44	41.111111111111114	233.55555555555554	16657.777777777777
+35629	44	44	0	Rhode Island	541690	Other scientific and technical consulting services	54	0400000US44	53.666666666666664	190.88888888888889	16425.555555555555
+35630	44	44	0	Rhode Island	541711	Research and development in biotechnology	54	0400000US44	14.0	158.8	20323.2
+35631	44	44	0	Rhode Island	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US44	62.4	712.2	65598.4
+35632	44	44	0	Rhode Island	541713	Research and development in nanotechnology	54	0400000US44	12.0	197.0	16136.0
+35633	44	44	0	Rhode Island	541714	Research and development in biotechnology (except nanobiotechnology)	54	0400000US44	16.0	401.0	52888.0
+35634	44	44	0	Rhode Island	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US44	32.0	247.0	26553.0
+35635	44	44	0	Rhode Island	541720	Research and development in the social sciences and humanities	54	0400000US44	5.555555555555555	68.22222222222223	5306.444444444444
+35636	44	44	0	Rhode Island	541810	Advertising agencies	54	0400000US44	46.888888888888886	337.1111111111111	22258.555555555555
+35637	44	44	0	Rhode Island	541820	Public relations agencies	54	0400000US44	32.666666666666664	128.22222222222223	8884.0
+35638	44	44	0	Rhode Island	541830	Media buying agencies	54	0400000US44	3.5555555555555554	15.777777777777779	1036.2222222222222
+35639	44	44	0	Rhode Island	541840	Media representatives	54	0400000US44	5.0	21.0	1156.111111111111
+35640	44	44	0	Rhode Island	541850	Outdoor advertising	54	0400000US44	8.777777777777779	31.666666666666668	1630.2222222222222
+35641	44	44	0	Rhode Island	541860	Direct mail advertising	54	0400000US44	4.2	2.0	1307.0
+35642	44	44	0	Rhode Island	541870	Advertising material distribution services	54	0400000US44	3.4	0.0	202.0
+35643	44	44	0	Rhode Island	541890	Other services related to advertising	54	0400000US44	27.11111111111111	128.0	5027.0
+35644	44	44	0	Rhode Island	541910	Marketing research and public opinion polling	54	0400000US44	10.666666666666666	40.111111111111114	2118.3333333333335
+35645	44	44	0	Rhode Island	541921	Photography studios, portrait	54	0400000US44	44.111111111111114	110.77777777777777	4106.0
+35646	44	44	0	Rhode Island	541922	Commercial photography	54	0400000US44	16.444444444444443	16.333333333333332	1225.6666666666667
+35647	44	44	0	Rhode Island	541930	Translation and interpretation services	54	0400000US44	4.333333333333333	22.77777777777778	897.4444444444445
+35648	44	44	0	Rhode Island	541940	Veterinary services	54	0400000US44	85.88888888888889	842.7777777777778	35683.555555555555
+35649	44	44	0	Rhode Island	541990	All other professional, scientific, and technical services	54	0400000US44	26.333333333333332	126.55555555555556	7983.555555555556
+35650	44	44	0	Rhode Island	551112	Offices of other holding companies	55	0400000US44	19.0	468.6666666666667	39685.22222222222
+35651	44	44	0	Rhode Island	551114	Corporate, subsidiary, and regional managing offices	55	0400000US44	187.0	9421.333333333334	806612.4444444445
+35652	44	44	0	Rhode Island	561110	Office administrative services	56	0400000US44	66.66666666666667	591.8888888888889	55272.88888888889
+35653	44	44	0	Rhode Island	561210	Facilities support services	56	0400000US44	23.333333333333332	425.55555555555554	23398.777777777777
+35654	44	44	0	Rhode Island	561311	Employment placement agencies	56	0400000US44	22.333333333333332	706.2222222222222	17776.444444444445
+35655	44	44	0	Rhode Island	561312	Executive search services	56	0400000US44	19.666666666666668	112.88888888888889	8591.777777777777
+35656	44	44	0	Rhode Island	561320	Temporary help services	56	0400000US44	120.66666666666667	7765.777777777777	230619.88888888888
+35657	44	44	0	Rhode Island	561330	Professional employer organizations	56	0400000US44	9.222222222222221	324.44444444444446	10969.111111111111
+35658	44	44	0	Rhode Island	561410	Document preparation services	56	0400000US44	14.0	55.111111111111114	1906.5555555555557
+35659	44	44	0	Rhode Island	561421	Telephone answering services	56	0400000US44	5.0	31.666666666666668	1200.2222222222222
+35660	44	44	0	Rhode Island	561422	Telemarketing bureaus and other contact centers	56	0400000US44	14.222222222222221	593.3333333333334	23519.444444444445
+35661	44	44	0	Rhode Island	561431	Private mail centers	56	0400000US44	14.0	45.55555555555556	1498.0
+35662	44	44	0	Rhode Island	561439	Other business service centers (including copy shops)	56	0400000US44	10.777777777777779	24.555555555555557	821.1111111111111
+35663	44	44	0	Rhode Island	561440	Collection agencies	56	0400000US44	5.0	33.0	1344.3333333333333
+35664	44	44	0	Rhode Island	561450	Credit bureaus	56	0400000US44	4.333333333333333	45.0	1875.6666666666667
+35665	44	44	0	Rhode Island	561491	Repossession services	56	0400000US44	2.6	4.2	140.0
+35666	44	44	0	Rhode Island	561492	Court reporting and stenotype services	56	0400000US44	8.88888888888889	21.77777777777778	837.5555555555555
+35667	44	44	0	Rhode Island	561499	All other business support services	56	0400000US44	8.0	16.77777777777778	715.0
+35668	44	44	0	Rhode Island	561510	Travel agencies	56	0400000US44	62.888888888888886	244.22222222222223	12406.444444444445
+35669	44	44	0	Rhode Island	561520	Tour operators	56	0400000US44	9.0	0.0	0.0
+35670	44	44	0	Rhode Island	561591	Convention and visitors bureaus	56	0400000US44	4.444444444444445	43.55555555555556	2569.1111111111113
+35671	44	44	0	Rhode Island	561599	All other travel arrangement and reservation services	56	0400000US44	18.77777777777778	0.0	0.0
+35672	44	44	0	Rhode Island	561611	Investigation services	56	0400000US44	17.333333333333332	609.8888888888889	25497.0
+35673	44	44	0	Rhode Island	561612	Security guards and patrol services	56	0400000US44	31.88888888888889	2299.0	52981.77777777778
+35674	44	44	0	Rhode Island	561613	Armored car services	56	0400000US44	2.5555555555555554	0.0	0.0
+35675	44	44	0	Rhode Island	561621	Security systems services (except locksmiths)	56	0400000US44	34.44444444444444	255.88888888888889	11775.777777777777
+35676	44	44	0	Rhode Island	561622	Locksmiths	56	0400000US44	16.11111111111111	46.888888888888886	1693.0
+35677	44	44	0	Rhode Island	561710	Exterminating and pest control services	56	0400000US44	46.22222222222222	269.77777777777777	10938.0
+35678	44	44	0	Rhode Island	561720	Janitorial services	56	0400000US44	244.55555555555554	3051.222222222222	62538.11111111111
+35679	44	44	0	Rhode Island	561730	Landscaping services	56	0400000US44	657.2222222222222	1696.7777777777778	99981.55555555556
+35680	44	44	0	Rhode Island	561740	Carpet and upholstery cleaning services	56	0400000US44	25.22222222222222	150.88888888888889	4791.444444444444
+35681	44	44	0	Rhode Island	561790	Other services to buildings and dwellings	56	0400000US44	48.0	206.55555555555554	7375.777777777777
+35682	44	44	0	Rhode Island	561910	Packaging and labeling services	56	0400000US44	9.555555555555555	40.55555555555556	1072.7777777777778
+35683	44	44	0	Rhode Island	561920	Convention and trade show organizers	56	0400000US44	20.22222222222222	158.22222222222223	5998.666666666667
+35684	44	44	0	Rhode Island	561990	All other support services	56	0400000US44	39.111111111111114	428.8888888888889	16245.777777777777
+35685	44	44	0	Rhode Island	562111	Solid waste collection	56	0400000US44	56.111111111111114	450.6666666666667	21853.444444444445
+35686	44	44	0	Rhode Island	562112	Hazardous waste collection	56	0400000US44	1.6	0.0	0.0
+35687	44	44	0	Rhode Island	562119	Other waste collection	56	0400000US44	2.6666666666666665	2.2222222222222223	40.888888888888886
+35688	44	44	0	Rhode Island	562211	Hazardous waste treatment and disposal	56	0400000US44	5.777777777777778	30.666666666666668	1778.111111111111
+35689	44	44	0	Rhode Island	562212	Solid waste landfill	56	0400000US44	3.4444444444444446	32.22222222222222	2363.222222222222
+35690	44	44	0	Rhode Island	562213	Solid waste combustors and incinerators	56	0400000US44	1.0	0.0	0.0
+35691	44	44	0	Rhode Island	562219	Other nonhazardous waste treatment and disposal	56	0400000US44	1.5	0.0	0.0
+35692	44	44	0	Rhode Island	562910	Remediation services	56	0400000US44	16.666666666666668	123.0	8776.777777777777
+35693	44	44	0	Rhode Island	562920	Materials recovery facilities	56	0400000US44	2.4	0.0	0.0
+35694	44	44	0	Rhode Island	562991	Septic tank and related services	56	0400000US44	16.88888888888889	75.0	4665.444444444444
+35695	44	44	0	Rhode Island	562998	All other miscellaneous waste management services	56	0400000US44	1.4	0.0	0.0
+35696	44	44	0	Rhode Island	611110	Elementary and secondary schools	61	0400000US44	109.88888888888889	5634.666666666667	234260.11111111112
+35697	44	44	0	Rhode Island	611210	Junior colleges	61	0400000US44	3.111111111111111	238.11111111111111	9886.0
+35698	44	44	0	Rhode Island	611310	Colleges, universities, and professional schools	61	0400000US44	13.777777777777779	21216.11111111111	746755.4444444445
+35699	44	44	0	Rhode Island	611410	Business and secretarial schools	61	0400000US44	2.2	0.0	0.0
+35700	44	44	0	Rhode Island	611420	Computer training	61	0400000US44	7.333333333333333	17.77777777777778	713.0
+35701	44	44	0	Rhode Island	611430	Professional and management development training	61	0400000US44	16.77777777777778	109.33333333333333	6078.777777777777
+35702	44	44	0	Rhode Island	611511	Cosmetology and barber schools	61	0400000US44	6.111111111111111	100.0	2760.4444444444443
+35703	44	44	0	Rhode Island	611512	Flight training	61	0400000US44	1.0	0.0	0.0
+35704	44	44	0	Rhode Island	611513	Apprenticeship training	61	0400000US44	6.555555555555555	50.22222222222222	2600.777777777778
+35705	44	44	0	Rhode Island	611519	Other technical and trade schools	61	0400000US44	12.333333333333334	167.0	7751.555555555556
+35706	44	44	0	Rhode Island	611610	Fine arts schools	61	0400000US44	60.111111111111114	278.0	4173.777777777777
+35707	44	44	0	Rhode Island	611620	Sports and recreation instruction	61	0400000US44	83.22222222222223	395.0	8071.0
+35708	44	44	0	Rhode Island	611630	Language schools	61	0400000US44	5.333333333333333	8.333333333333334	187.44444444444446
+35709	44	44	0	Rhode Island	611691	Exam preparation and tutoring	61	0400000US44	26.22222222222222	210.55555555555554	3127.3333333333335
+35710	44	44	0	Rhode Island	611692	Automobile driving schools	61	0400000US44	7.222222222222222	8.222222222222221	147.0
+35711	44	44	0	Rhode Island	611699	All other miscellaneous schools and instruction	61	0400000US44	27.333333333333332	107.55555555555556	2688.3333333333335
+35712	44	44	0	Rhode Island	611710	Educational support services	61	0400000US44	24.88888888888889	187.77777777777777	9214.333333333334
+35713	44	44	0	Rhode Island	621111	Offices of physicians (except mental health specialists)	62	0400000US44	718.8888888888889	8405.333333333334	725555.0
+35714	44	44	0	Rhode Island	621112	Offices of physicians, mental health specialists	62	0400000US44	47.333333333333336	174.11111111111111	9573.444444444445
+35715	44	44	0	Rhode Island	621210	Offices of dentists	62	0400000US44	376.44444444444446	2969.222222222222	143209.88888888888
+35716	44	44	0	Rhode Island	621310	Offices of chiropractors	62	0400000US44	112.55555555555556	368.3333333333333	14397.666666666666
+35717	44	44	0	Rhode Island	621320	Offices of optometrists	62	0400000US44	73.0	562.4444444444445	23570.0
+35718	44	44	0	Rhode Island	621330	Offices of mental health practitioners (except physicians)	62	0400000US44	115.33333333333333	549.2222222222222	20028.666666666668
+35719	44	44	0	Rhode Island	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US44	138.66666666666666	1539.3333333333333	61017.0
+35720	44	44	0	Rhode Island	621391	Offices of podiatrists	62	0400000US44	49.44444444444444	207.33333333333334	10202.333333333334
+35721	44	44	0	Rhode Island	621399	Offices of all other miscellaneous health practitioners	62	0400000US44	88.11111111111111	330.22222222222223	21272.555555555555
+35722	44	44	0	Rhode Island	621410	Family planning centers	62	0400000US44	1.0	0.0	0.0
+35723	44	44	0	Rhode Island	621420	Outpatient mental health and substance abuse centers	62	0400000US44	39.77777777777778	1562.5555555555557	61014.0
+35724	44	44	0	Rhode Island	621492	Kidney dialysis centers	62	0400000US44	12.11111111111111	146.0	8639.666666666666
+35725	44	44	0	Rhode Island	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US44	30.0	775.0	27220.333333333332
+35726	44	44	0	Rhode Island	621498	All other outpatient care centers	62	0400000US44	74.88888888888889	1976.5555555555557	115508.0
+35727	44	44	0	Rhode Island	621511	Medical laboratories	62	0400000US44	62.44444444444444	541.5555555555555	34788.11111111111
+35728	44	44	0	Rhode Island	621512	Diagnostic imaging centers	62	0400000US44	49.55555555555556	669.5555555555555	37058.555555555555
+35729	44	44	0	Rhode Island	621610	Home health care services	62	0400000US44	95.0	5616.777777777777	176438.22222222222
+35730	44	44	0	Rhode Island	621910	Ambulance services	62	0400000US44	13.222222222222221	559.3333333333334	14101.333333333334
+35731	44	44	0	Rhode Island	621991	Blood and organ banks	62	0400000US44	7.333333333333333	0.0	0.0
+35732	44	44	0	Rhode Island	621999	All other miscellaneous ambulatory health care services	62	0400000US44	8.444444444444445	95.11111111111111	6770.555555555556
+35733	44	44	0	Rhode Island	622110	General medical and surgical hospitals	62	0400000US44	10.11111111111111	18740.666666666668	1115524.111111111
+35734	44	44	0	Rhode Island	622210	Psychiatric and substance abuse hospitals	62	0400000US44	1.6	0.0	0.0
+35735	44	44	0	Rhode Island	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US44	4.888888888888889	4149.0	271202.0
+35736	44	44	0	Rhode Island	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US44	82.66666666666667	10626.444444444445	352663.44444444444
+35737	44	44	0	Rhode Island	623210	Residential intellectual and developmental disability facilities	62	0400000US44	232.77777777777777	4246.0	89117.11111111111
+35738	44	44	0	Rhode Island	623220	Residential mental health and substance abuse facilities	62	0400000US44	64.88888888888889	908.5555555555555	26598.555555555555
+35739	44	44	0	Rhode Island	623311	Continuing care retirement communities	62	0400000US44	21.22222222222222	2077.3333333333335	53771.22222222222
+35740	44	44	0	Rhode Island	623312	Assisted living facilities for the elderly	62	0400000US44	40.0	1718.888888888889	49129.22222222222
+35741	44	44	0	Rhode Island	623990	Other residential care facilities	62	0400000US44	29.333333333333332	442.8888888888889	15122.777777777777
+35742	44	44	0	Rhode Island	624110	Child and youth services	62	0400000US44	42.666666666666664	1331.111111111111	33702.555555555555
+35743	44	44	0	Rhode Island	624120	Services for the elderly and persons with disabilities	62	0400000US44	123.77777777777777	4250.888888888889	77314.88888888889
+35744	44	44	0	Rhode Island	624190	Other individual and family services	62	0400000US44	105.77777777777777	2745.1111111111113	75987.88888888889
+35745	44	44	0	Rhode Island	624210	Community food services	62	0400000US44	18.77777777777778	284.77777777777777	8269.888888888889
+35746	44	44	0	Rhode Island	624221	Temporary shelters	62	0400000US44	17.444444444444443	319.55555555555554	9525.777777777777
+35747	44	44	0	Rhode Island	624229	Other community housing services	62	0400000US44	24.333333333333332	251.44444444444446	8895.777777777777
+35748	44	44	0	Rhode Island	624230	Emergency and other relief services	62	0400000US44	2.2	3.4	157.8
+35749	44	44	0	Rhode Island	624310	Vocational rehabilitation services	62	0400000US44	28.77777777777778	1067.0	21713.222222222223
+35750	44	44	0	Rhode Island	624410	Child day care services	62	0400000US44	276.1111111111111	3810.5555555555557	80758.88888888889
+35751	44	44	0	Rhode Island	711110	Theater companies and dinner theaters	71	0400000US44	13.11111111111111	326.1111111111111	7786.222222222223
+35752	44	44	0	Rhode Island	711120	Dance companies	71	0400000US44	2.888888888888889	35.44444444444444	687.5555555555555
+35753	44	44	0	Rhode Island	711130	Musical groups and artists	71	0400000US44	8.777777777777779	164.0	2071.4444444444443
+35754	44	44	0	Rhode Island	711190	Other performing arts companies	71	0400000US44	1.0	0.0	0.0
+35755	44	44	0	Rhode Island	711211	Sports teams and clubs	71	0400000US44	4.888888888888889	98.88888888888889	4931.0
+35756	44	44	0	Rhode Island	711212	Racetracks	71	0400000US44	1.0	0.0	0.0
+35757	44	44	0	Rhode Island	711219	Other spectator sports	71	0400000US44	4.0	12.222222222222221	321.1111111111111
+35758	44	44	0	Rhode Island	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US44	15.0	1281.6666666666667	21367.0
+35759	44	44	0	Rhode Island	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US44	15.555555555555555	64.11111111111111	2794.0
+35760	44	44	0	Rhode Island	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US44	5.888888888888889	6.333333333333333	352.55555555555554
+35761	44	44	0	Rhode Island	711510	Independent artists, writers, and performers	71	0400000US44	41.888888888888886	99.77777777777777	4797.222222222223
+35762	44	44	0	Rhode Island	712110	Museums	71	0400000US44	33.22222222222222	407.77777777777777	12394.555555555555
+35763	44	44	0	Rhode Island	712120	Historical sites	71	0400000US44	15.11111111111111	69.44444444444444	2019.3333333333333
+35764	44	44	0	Rhode Island	712130	Zoos and botanical gardens	71	0400000US44	1.2	0.0	0.0
+35765	44	44	0	Rhode Island	712190	Nature parks and other similar institutions	71	0400000US44	2.6	3.8	222.8
+35766	44	44	0	Rhode Island	713110	Amusement and theme parks	71	0400000US44	2.0	0.0	0.0
+35767	44	44	0	Rhode Island	713120	Amusement arcades	71	0400000US44	7.111111111111111	56.0	1459.2222222222222
+35768	44	44	0	Rhode Island	713210	Casinos (except casino hotels)	71	0400000US44	1.0	0.0	0.0
+35769	44	44	0	Rhode Island	713290	Other gambling industries	71	0400000US44	9.555555555555555	0.0	5620.555555555556
+35770	44	44	0	Rhode Island	713910	Golf courses and country clubs	71	0400000US44	55.77777777777778	887.2222222222222	43008.444444444445
+35771	44	44	0	Rhode Island	713920	Skiing facilities	71	0400000US44	1.0	0.0	0.0
+35772	44	44	0	Rhode Island	713930	Marinas	71	0400000US44	66.44444444444444	409.22222222222223	22518.11111111111
+35773	44	44	0	Rhode Island	713940	Fitness and recreational sports centers	71	0400000US44	155.77777777777777	3146.6666666666665	40997.0
+35774	44	44	0	Rhode Island	713950	Bowling centers	71	0400000US44	14.11111111111111	330.55555555555554	5025.111111111111
+35775	44	44	0	Rhode Island	713990	All other amusement and recreation industries	71	0400000US44	83.66666666666667	443.22222222222223	15476.444444444445
+35776	44	44	0	Rhode Island	721110	Hotels (except casino hotels) and motels	72	0400000US44	135.22222222222223	4037.0	127890.55555555556
+35777	44	44	0	Rhode Island	721191	Bed-and-breakfast inns	72	0400000US44	45.888888888888886	166.77777777777777	7502.222222222223
+35778	44	44	0	Rhode Island	721199	All other traveler accommodation	72	0400000US44	2.2	0.0	0.0
+35779	44	44	0	Rhode Island	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US44	14.222222222222221	26.88888888888889	1989.888888888889
+35780	44	44	0	Rhode Island	721214	Recreational and vacation camps (except campgrounds)	72	0400000US44	4.111111111111111	6.444444444444445	424.6666666666667
+35781	44	44	0	Rhode Island	721310	Rooming and boarding houses	72	0400000US44	17.444444444444443	71.11111111111111	906.7777777777778
+35782	44	44	0	Rhode Island	722310	Food service contractors	72	0400000US44	153.77777777777777	1958.3333333333333	45000.88888888889
+35783	44	44	0	Rhode Island	722320	Caterers	72	0400000US44	58.55555555555556	567.2222222222222	13070.444444444445
+35784	44	44	0	Rhode Island	722330	Mobile food services	72	0400000US44	16.333333333333332	18.555555555555557	492.1111111111111
+35785	44	44	0	Rhode Island	722410	Drinking places (alcoholic beverages)	72	0400000US44	239.22222222222223	1943.0	31154.11111111111
+35786	44	44	0	Rhode Island	722511	Full-service restaurants	72	0400000US44	1133.2222222222222	21190.444444444445	422699.44444444444
+35787	44	44	0	Rhode Island	722513	Limited-service restaurants	72	0400000US44	853.3333333333334	10513.888888888889	155199.33333333334
+35788	44	44	0	Rhode Island	722514	Cafeterias, grill buffets, and buffets	72	0400000US44	7.0	96.66666666666667	2310.1111111111113
+35789	44	44	0	Rhode Island	722515	Snack and nonalcoholic beverage bars	72	0400000US44	414.6666666666667	5763.888888888889	88765.11111111111
+35790	44	44	0	Rhode Island	811111	General automotive repair	81	0400000US44	339.3333333333333	1196.7777777777778	44924.666666666664
+35791	44	44	0	Rhode Island	811112	Automotive exhaust system repair	81	0400000US44	4.222222222222222	12.555555555555555	351.1111111111111
+35792	44	44	0	Rhode Island	811113	Automotive transmission repair	81	0400000US44	15.0	54.22222222222222	1943.0
+35793	44	44	0	Rhode Island	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US44	17.444444444444443	59.111111111111114	2020.4444444444443
+35794	44	44	0	Rhode Island	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US44	189.0	1455.6666666666667	66415.11111111111
+35795	44	44	0	Rhode Island	811122	Automotive glass replacement shops	81	0400000US44	11.444444444444445	47.44444444444444	1864.4444444444443
+35796	44	44	0	Rhode Island	811191	Automotive oil change and lubrication shops	81	0400000US44	16.22222222222222	109.66666666666667	3138.0
+35797	44	44	0	Rhode Island	811192	Car washes	81	0400000US44	49.77777777777778	265.8888888888889	5498.444444444444
+35798	44	44	0	Rhode Island	811198	All other automotive repair and maintenance	81	0400000US44	5.0	24.333333333333332	1000.1111111111111
+35799	44	44	0	Rhode Island	811211	Consumer electronics repair and maintenance	81	0400000US44	5.222222222222222	29.444444444444443	1189.0
+35800	44	44	0	Rhode Island	811212	Computer and office machine repair and maintenance	81	0400000US44	20.88888888888889	100.33333333333333	4668.111111111111
+35801	44	44	0	Rhode Island	811213	Communication equipment repair and maintenance	81	0400000US44	5.222222222222222	10.0	877.8888888888889
+35802	44	44	0	Rhode Island	811219	Other electronic and precision equipment repair and maintenance	81	0400000US44	10.0	26.666666666666668	1973.111111111111
+35803	44	44	0	Rhode Island	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US44	53.44444444444444	334.77777777777777	17529.666666666668
+35804	44	44	0	Rhode Island	811411	Home and garden equipment repair and maintenance	81	0400000US44	5.666666666666667	9.333333333333334	237.33333333333334
+35805	44	44	0	Rhode Island	811412	Appliance repair and maintenance	81	0400000US44	17.333333333333332	44.666666666666664	2036.4444444444443
+35806	44	44	0	Rhode Island	811420	Reupholstery and furniture repair	81	0400000US44	17.77777777777778	36.22222222222222	1214.2222222222222
+35807	44	44	0	Rhode Island	811430	Footwear and leather goods repair	81	0400000US44	1.0	0.0	0.0
+35808	44	44	0	Rhode Island	811490	Other personal and household goods repair and maintenance	81	0400000US44	67.44444444444444	383.77777777777777	20377.0
+35809	44	44	0	Rhode Island	812111	Barber shops	81	0400000US44	14.88888888888889	25.333333333333332	590.4444444444445
+35810	44	44	0	Rhode Island	812112	Beauty salons	81	0400000US44	393.22222222222223	1587.4444444444443	32874.0
+35811	44	44	0	Rhode Island	812113	Nail salons	81	0400000US44	57.111111111111114	212.33333333333334	4196.222222222223
+35812	44	44	0	Rhode Island	812191	Diet and weight reducing centers	81	0400000US44	11.777777777777779	78.88888888888889	1122.3333333333333
+35813	44	44	0	Rhode Island	812199	Other personal care services	81	0400000US44	79.33333333333333	385.8888888888889	8028.555555555556
+35814	44	44	0	Rhode Island	812210	Funeral homes and funeral services	81	0400000US44	72.0	436.77777777777777	17192.444444444445
+35815	44	44	0	Rhode Island	812220	Cemeteries and crematories	81	0400000US44	32.333333333333336	163.33333333333334	6608.555555555556
+35816	44	44	0	Rhode Island	812310	Coin-operated laundries and drycleaners	81	0400000US44	75.11111111111111	477.1111111111111	6924.333333333333
+35817	44	44	0	Rhode Island	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US44	82.66666666666667	506.0	10861.444444444445
+35818	44	44	0	Rhode Island	812331	Linen supply	81	0400000US44	4.666666666666667	514.2222222222222	19800.88888888889
+35819	44	44	0	Rhode Island	812332	Industrial launderers	81	0400000US44	2.888888888888889	79.11111111111111	3770.6666666666665
+35820	44	44	0	Rhode Island	812910	Pet care (except veterinary) services	81	0400000US44	89.77777777777777	337.0	6861.666666666667
+35821	44	44	0	Rhode Island	812921	Photofinishing laboratories (except one-hour)	81	0400000US44	2.6	16.4	536.2
+35822	44	44	0	Rhode Island	812922	One-hour photofinishing	81	0400000US44	1.0	0.0	0.0
+35823	44	44	0	Rhode Island	812930	Parking lots and garages	81	0400000US44	67.88888888888889	695.0	12804.777777777777
+35824	44	44	0	Rhode Island	812990	All other personal services	81	0400000US44	36.333333333333336	113.11111111111111	3107.777777777778
+35825	44	44	0	Rhode Island	813110	Religious organizations	81	0400000US44	471.44444444444446	3035.777777777778	67999.77777777778
+35826	44	44	0	Rhode Island	813211	Grantmaking foundations	81	0400000US44	40.666666666666664	201.77777777777777	13892.444444444445
+35827	44	44	0	Rhode Island	813212	Voluntary health organizations	81	0400000US44	17.88888888888889	61.44444444444444	3578.1111111111113
+35828	44	44	0	Rhode Island	813219	Other grantmaking and giving services	81	0400000US44	8.555555555555555	156.88888888888889	4618.0
+35829	44	44	0	Rhode Island	813311	Human rights organizations	81	0400000US44	11.0	131.0	8881.222222222223
+35830	44	44	0	Rhode Island	813312	Environment, conservation and wildlife organizations	81	0400000US44	43.666666666666664	291.22222222222223	11198.777777777777
+35831	44	44	0	Rhode Island	813319	Other social advocacy organizations	81	0400000US44	43.0	321.3333333333333	13985.666666666666
+35832	44	44	0	Rhode Island	813410	Civic and social organizations	81	0400000US44	146.88888888888889	1224.6666666666667	25360.555555555555
+35833	44	44	0	Rhode Island	813910	Business associations	81	0400000US44	66.0	360.0	21144.88888888889
+35834	44	44	0	Rhode Island	813920	Professional organizations	81	0400000US44	25.333333333333332	284.22222222222223	16123.888888888889
+35835	44	44	0	Rhode Island	813930	Labor unions and similar labor organizations	81	0400000US44	113.22222222222223	898.6666666666666	30179.0
+35836	44	44	0	Rhode Island	813940	Political organizations	81	0400000US44	10.222222222222221	19.88888888888889	870.7777777777778
+35837	44	44	0	Rhode Island	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US44	35.22222222222222	224.66666666666666	12386.111111111111

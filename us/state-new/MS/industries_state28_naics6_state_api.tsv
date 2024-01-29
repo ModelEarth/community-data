@@ -1,0 +1,907 @@
+	id	state	COUNTY	GEO_TTL	relevant_naics	NAICS_TTL	NAICS_Sector	GEO_ID	estab	emp	payann
+21244	28	28	0	Mississippi	113110	Timber tract operations	11	0400000US28	32.888888888888886	242.77777777777777	9450.666666666666
+21245	28	28	0	Mississippi	113210	Forest nurseries and gathering of forest products	11	0400000US28	1.0	0.0	0.0
+21246	28	28	0	Mississippi	113310	Logging	11	0400000US28	417.22222222222223	3032.8888888888887	113949.44444444444
+21247	28	28	0	Mississippi	114111	Finfish fishing	11	0400000US28	4.333333333333333	30.88888888888889	850.3333333333334
+21248	28	28	0	Mississippi	114112	Shellfish fishing	11	0400000US28	2.0	1.0	68.2
+21249	28	28	0	Mississippi	114210	Hunting and trapping	11	0400000US28	4.333333333333333	8.88888888888889	412.3333333333333
+21250	28	28	0	Mississippi	115111	Cotton ginning	11	0400000US28	11.222222222222221	27.22222222222222	1823.888888888889
+21251	28	28	0	Mississippi	115112	Soil preparation, planting, and cultivating	11	0400000US28	79.66666666666667	299.55555555555554	19725.444444444445
+21252	28	28	0	Mississippi	115113	Crop harvesting, primarily by machine	11	0400000US28	1.6	0.0	0.0
+21253	28	28	0	Mississippi	115114	Postharvest crop activities (except cotton ginning)	11	0400000US28	12.0	171.77777777777777	6652.777777777777
+21254	28	28	0	Mississippi	115115	Farm labor contractors and crew leaders	11	0400000US28	2.6	0.0	0.0
+21255	28	28	0	Mississippi	115116	Farm management services	11	0400000US28	3.888888888888889	12.555555555555555	311.3333333333333
+21256	28	28	0	Mississippi	115210	Support activities for animal production	11	0400000US28	19.77777777777778	326.0	9505.666666666666
+21257	28	28	0	Mississippi	115310	Support activities for forestry	11	0400000US28	88.66666666666667	409.77777777777777	21836.88888888889
+21258	28	28	0	Mississippi	211111	Crude petroleum and natural gas extraction	21	0400000US28	78.6	866.0	101601.8
+21259	28	28	0	Mississippi	211112	Natural gas liquid extraction	21	0400000US28	3.6	160.2	20666.6
+21260	28	28	0	Mississippi	211120	Crude petroleum extraction	21	0400000US28	54.0	536.0	65239.0
+21261	28	28	0	Mississippi	211130	Natural gas extraction	21	0400000US28	8.0	91.0	7082.0
+21262	28	28	0	Mississippi	212111	Bituminous coal and lignite surface mining	21	0400000US28	3.888888888888889	0.0	0.0
+21263	28	28	0	Mississippi	212311	Dimension stone mining and quarrying	21	0400000US28	1.0	0.0	0.0
+21264	28	28	0	Mississippi	212312	Crushed and broken limestone mining and quarrying	21	0400000US28	2.0	0.0	0.0
+21265	28	28	0	Mississippi	212321	Construction sand and gravel mining	21	0400000US28	30.0	306.0	12749.111111111111
+21266	28	28	0	Mississippi	212322	Industrial sand mining	21	0400000US28	1.0	0.0	0.0
+21267	28	28	0	Mississippi	212324	Kaolin and ball clay mining	21	0400000US28	1.0	0.0	0.0
+21268	28	28	0	Mississippi	212325	Clay and ceramic and refractory minerals mining	21	0400000US28	2.6666666666666665	0.0	0.0
+21269	28	28	0	Mississippi	212399	All other nonmetallic mineral mining	21	0400000US28	1.2	0.0	0.0
+21270	28	28	0	Mississippi	213111	Drilling oil and gas wells	21	0400000US28	47.111111111111114	1563.111111111111	103519.22222222222
+21271	28	28	0	Mississippi	213112	Support activities for oil and gas operations	21	0400000US28	177.55555555555554	1760.6666666666667	113838.44444444444
+21272	28	28	0	Mississippi	213113	Support activities for coal mining	21	0400000US28	1.25	0.0	0.0
+21273	28	28	0	Mississippi	213114	Support activities for metal mining	21	0400000US28	1.0	0.0	0.0
+21274	28	28	0	Mississippi	213115	Support activities for nonmetallic minerals (except fuels) mining	21	0400000US28	3.4	8.6	377.6
+21275	28	28	0	Mississippi	221111	Hydroelectric power generation	22	0400000US28	1.4	0.0	0.0
+21276	28	28	0	Mississippi	221112	Fossil fuel electric power generation	22	0400000US28	19.666666666666668	1012.8888888888889	90970.66666666667
+21277	28	28	0	Mississippi	221113	Nuclear electric power generation	22	0400000US28	6.0	0.0	0.0
+21278	28	28	0	Mississippi	221117	Biomass electric power generation	22	0400000US28	1.0	0.0	0.0
+21279	28	28	0	Mississippi	221121	Electric bulk power transmission and control	22	0400000US28	1.3333333333333333	0.0	0.0
+21280	28	28	0	Mississippi	221122	Electric power distribution	22	0400000US28	191.0	5396.0	458719.44444444444
+21281	28	28	0	Mississippi	221210	Natural gas distribution	22	0400000US28	40.111111111111114	397.1111111111111	35311.333333333336
+21282	28	28	0	Mississippi	221310	Water supply and irrigation systems	22	0400000US28	318.0	1418.0	44542.11111111111
+21283	28	28	0	Mississippi	221320	Sewage treatment facilities	22	0400000US28	16.555555555555557	142.11111111111111	8768.777777777777
+21284	28	28	0	Mississippi	221330	Steam and air-conditioning supply	22	0400000US28	1.0	0.0	0.0
+21285	28	28	0	Mississippi	236115	New single-family housing construction (except for-sale builders)	23	0400000US28	252.66666666666666	777.0	26139.88888888889
+21286	28	28	0	Mississippi	236116	New multifamily housing construction (except for-sale builders)	23	0400000US28	12.222222222222221	102.44444444444444	6298.111111111111
+21287	28	28	0	Mississippi	236117	New housing for-sale builders	23	0400000US28	103.77777777777777	394.3333333333333	17203.222222222223
+21288	28	28	0	Mississippi	236118	Residential remodelers	23	0400000US28	248.66666666666666	726.5555555555555	20466.555555555555
+21289	28	28	0	Mississippi	236210	Industrial building construction	23	0400000US28	24.88888888888889	1557.5555555555557	67272.66666666667
+21290	28	28	0	Mississippi	236220	Commercial and institutional building construction	23	0400000US28	322.3333333333333	5474.333333333333	320057.8888888889
+21291	28	28	0	Mississippi	237110	Water and sewer line and related structures construction	23	0400000US28	114.11111111111111	1279.888888888889	55274.333333333336
+21292	28	28	0	Mississippi	237120	Oil and gas pipeline and related structures construction	23	0400000US28	29.77777777777778	2568.4444444444443	153640.22222222222
+21293	28	28	0	Mississippi	237130	Power and communication line and related structures construction	23	0400000US28	55.888888888888886	2438.0	153638.0
+21294	28	28	0	Mississippi	237210	Land subdivision	23	0400000US28	35.333333333333336	275.22222222222223	9730.555555555555
+21295	28	28	0	Mississippi	237310	Highway, street, and bridge construction	23	0400000US28	124.11111111111111	4209.555555555556	198204.44444444444
+21296	28	28	0	Mississippi	237990	Other heavy and civil engineering construction	23	0400000US28	54.333333333333336	1123.7777777777778	57336.88888888889
+21297	28	28	0	Mississippi	238110	Poured concrete foundation and structure contractors	23	0400000US28	75.33333333333333	660.8888888888889	27047.11111111111
+21298	28	28	0	Mississippi	238120	Structural steel and precast concrete contractors	23	0400000US28	28.666666666666668	484.44444444444446	21251.0
+21299	28	28	0	Mississippi	238130	Framing contractors	23	0400000US28	23.666666666666668	84.0	2038.888888888889
+21300	28	28	0	Mississippi	238140	Masonry contractors	23	0400000US28	79.11111111111111	416.6666666666667	9490.111111111111
+21301	28	28	0	Mississippi	238150	Glass and glazing contractors	23	0400000US28	29.555555555555557	231.11111111111111	9173.0
+21302	28	28	0	Mississippi	238160	Roofing contractors	23	0400000US28	92.11111111111111	965.5555555555555	35860.77777777778
+21303	28	28	0	Mississippi	238170	Siding contractors	23	0400000US28	29.444444444444443	70.44444444444444	2150.777777777778
+21304	28	28	0	Mississippi	238190	Other foundation, structure, and building exterior contractors	23	0400000US28	48.55555555555556	524.1111111111111	23729.777777777777
+21305	28	28	0	Mississippi	238210	Electrical contractors and other wiring installation contractors	23	0400000US28	420.1111111111111	4616.444444444444	227750.22222222222
+21306	28	28	0	Mississippi	238220	Plumbing, heating, and air-conditioning contractors	23	0400000US28	680.4444444444445	6442.222222222223	275137.1111111111
+21307	28	28	0	Mississippi	238290	Other building equipment contractors	23	0400000US28	61.22222222222222	737.3333333333334	38657.444444444445
+21308	28	28	0	Mississippi	238310	Drywall and insulation contractors	23	0400000US28	79.66666666666667	875.2222222222222	36977.22222222222
+21309	28	28	0	Mississippi	238320	Painting and wall covering contractors	23	0400000US28	127.11111111111111	664.0	20857.777777777777
+21310	28	28	0	Mississippi	238330	Flooring contractors	23	0400000US28	58.333333333333336	183.0	5856.666666666667
+21311	28	28	0	Mississippi	238340	Tile and terrazzo contractors	23	0400000US28	26.666666666666668	133.66666666666666	5831.111111111111
+21312	28	28	0	Mississippi	238350	Finish carpentry contractors	23	0400000US28	109.77777777777777	452.44444444444446	16853.11111111111
+21313	28	28	0	Mississippi	238390	Other building finishing contractors	23	0400000US28	27.11111111111111	198.0	6489.777777777777
+21314	28	28	0	Mississippi	238910	Site preparation contractors	23	0400000US28	317.8888888888889	2501.4444444444443	105251.11111111111
+21315	28	28	0	Mississippi	238990	All other specialty trade contractors	23	0400000US28	148.88888888888889	1304.888888888889	52187.333333333336
+21316	28	28	0	Mississippi	311111	Dog and cat food manufacturing	31	0400000US28	1.4	0.0	0.0
+21317	28	28	0	Mississippi	311119	Other animal food manufacturing	31	0400000US28	18.444444444444443	435.55555555555554	17691.555555555555
+21318	28	28	0	Mississippi	311211	Flour milling	31	0400000US28	2.111111111111111	23.11111111111111	650.6666666666666
+21319	28	28	0	Mississippi	311212	Rice milling	31	0400000US28	2.6666666666666665	0.0	0.0
+21320	28	28	0	Mississippi	311213	Malt manufacturing	31	0400000US28	1.0	0.0	0.0
+21321	28	28	0	Mississippi	311221	Wet corn milling	31	0400000US28	1.0	0.0	0.0
+21322	28	28	0	Mississippi	311224	Soybean and other oilseed processing	31	0400000US28	2.25	0.0	0.0
+21323	28	28	0	Mississippi	311230	Breakfast cereal manufacturing	31	0400000US28	1.0	0.0	0.0
+21324	28	28	0	Mississippi	311340	Nonchocolate confectionery manufacturing	31	0400000US28	1.0	0.0	0.0
+21325	28	28	0	Mississippi	311351	Chocolate and confectionery manufacturing from cacao beans	31	0400000US28	1.0	0.0	0.0
+21326	28	28	0	Mississippi	311352	Confectionery manufacturing from purchased chocolate	31	0400000US28	2.7777777777777777	20.88888888888889	242.44444444444446
+21327	28	28	0	Mississippi	311412	Frozen specialty food manufacturing	31	0400000US28	2.4444444444444446	308.8888888888889	8133.333333333333
+21328	28	28	0	Mississippi	311421	Fruit and vegetable canning	31	0400000US28	1.0	0.0	0.0
+21329	28	28	0	Mississippi	311511	Fluid milk manufacturing	31	0400000US28	3.0	0.0	0.0
+21330	28	28	0	Mississippi	311513	Cheese manufacturing	31	0400000US28	1.0	0.0	0.0
+21331	28	28	0	Mississippi	311520	Ice cream and frozen dessert manufacturing	31	0400000US28	1.0	0.0	0.0
+21332	28	28	0	Mississippi	311611	Animal (except poultry) slaughtering	31	0400000US28	24.0	217.88888888888889	4955.666666666667
+21333	28	28	0	Mississippi	311612	Meat processed from carcasses	31	0400000US28	12.666666666666666	433.77777777777777	12813.333333333334
+21334	28	28	0	Mississippi	311613	Rendering and meat byproduct processing	31	0400000US28	2.888888888888889	224.55555555555554	14694.111111111111
+21335	28	28	0	Mississippi	311615	Poultry processing	31	0400000US28	18.88888888888889	15083.555555555555	440648.55555555556
+21336	28	28	0	Mississippi	311710	Seafood product preparation and packaging	31	0400000US28	18.666666666666668	2516.0	68241.33333333333
+21337	28	28	0	Mississippi	311811	Retail bakeries	31	0400000US28	41.111111111111114	259.0	3608.0
+21338	28	28	0	Mississippi	311812	Commercial bakeries	31	0400000US28	12.444444444444445	513.5555555555555	24505.0
+21339	28	28	0	Mississippi	311813	Frozen cakes, pies, and other pastries manufacturing	31	0400000US28	2.8	21.4	329.6
+21340	28	28	0	Mississippi	311821	Cookie and cracker manufacturing	31	0400000US28	1.2	0.0	0.0
+21341	28	28	0	Mississippi	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	31	0400000US28	1.2	0.0	0.0
+21342	28	28	0	Mississippi	311911	Roasted nuts and peanut butter manufacturing	31	0400000US28	1.0	0.0	0.0
+21343	28	28	0	Mississippi	311919	Other snack food manufacturing	31	0400000US28	3.0	57.22222222222222	1267.0
+21344	28	28	0	Mississippi	311920	Coffee and tea manufacturing	31	0400000US28	1.0	0.0	0.0
+21345	28	28	0	Mississippi	311930	Flavoring syrup and concentrate manufacturing	31	0400000US28	1.0	0.0	0.0
+21346	28	28	0	Mississippi	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	31	0400000US28	1.2	0.0	0.0
+21347	28	28	0	Mississippi	311942	Spice and extract manufacturing	31	0400000US28	1.0	0.0	0.0
+21348	28	28	0	Mississippi	311991	Perishable prepared food manufacturing	31	0400000US28	2.111111111111111	21.77777777777778	303.1111111111111
+21349	28	28	0	Mississippi	311999	All other miscellaneous food manufacturing	31	0400000US28	3.5555555555555554	0.0	0.0
+21350	28	28	0	Mississippi	312111	Soft drink manufacturing	31	0400000US28	2.0	0.0	0.0
+21351	28	28	0	Mississippi	312112	Bottled water manufacturing	31	0400000US28	5.111111111111111	37.22222222222222	2010.5555555555557
+21352	28	28	0	Mississippi	312113	Ice manufacturing	31	0400000US28	8.88888888888889	59.22222222222222	2245.1111111111113
+21353	28	28	0	Mississippi	312120	Breweries	31	0400000US28	4.666666666666667	22.0	605.6666666666666
+21354	28	28	0	Mississippi	312130	Wineries	31	0400000US28	1.3333333333333333	0.0	0.0
+21355	28	28	0	Mississippi	313210	Broadwoven fabric mills	31	0400000US28	2.888888888888889	0.0	0.0
+21356	28	28	0	Mississippi	313230	Nonwoven fabric mills	31	0400000US28	4.777777777777778	260.8888888888889	20282.777777777777
+21357	28	28	0	Mississippi	313240	Knit fabric mills	31	0400000US28	1.25	0.0	0.0
+21358	28	28	0	Mississippi	313310	Textile and fabric finishing mills	31	0400000US28	6.333333333333333	162.0	5530.111111111111
+21359	28	28	0	Mississippi	313320	Fabric coating mills	31	0400000US28	1.4	0.0	0.0
+21360	28	28	0	Mississippi	314110	Carpet and rug mills	31	0400000US28	1.0	0.0	0.0
+21361	28	28	0	Mississippi	314120	Curtain and linen mills	31	0400000US28	9.777777777777779	479.6666666666667	12877.333333333334
+21362	28	28	0	Mississippi	314910	Textile bag and canvas mills	31	0400000US28	5.222222222222222	14.444444444444445	369.8888888888889
+21363	28	28	0	Mississippi	314994	Rope, cordage, twine, tire cord, and tire fabric mills	31	0400000US28	2.2	22.4	491.8
+21364	28	28	0	Mississippi	314999	All other miscellaneous textile product mills	31	0400000US28	23.11111111111111	733.2222222222222	21516.555555555555
+21365	28	28	0	Mississippi	315110	Hosiery and sock mills	31	0400000US28	1.0	0.0	0.0
+21366	28	28	0	Mississippi	315190	Other apparel knitting mills	31	0400000US28	1.0	0.0	0.0
+21367	28	28	0	Mississippi	315210	Cut and sew apparel contractors	31	0400000US28	10.222222222222221	254.22222222222223	5673.111111111111
+21368	28	28	0	Mississippi	315220	Men's and boys' cut and sew apparel manufacturing	31	0400000US28	3.2222222222222223	39.888888888888886	899.4444444444445
+21369	28	28	0	Mississippi	315240	Women's, girls', and infants' cut and sew apparel manufacturing	31	0400000US28	1.0	0.0	0.0
+21370	28	28	0	Mississippi	315280	Other cut and sew apparel manufacturing	31	0400000US28	2.4444444444444446	0.0	0.0
+21371	28	28	0	Mississippi	315990	Apparel accessories and other apparel manufacturing	31	0400000US28	6.111111111111111	258.3333333333333	9175.444444444445
+21372	28	28	0	Mississippi	316110	Leather and hide tanning and finishing	31	0400000US28	2.7777777777777777	0.0	28.11111111111111
+21373	28	28	0	Mississippi	316998	All other leather good and allied product manufacturing	31	0400000US28	1.8	0.0	0.0
+21374	28	28	0	Mississippi	321113	Sawmills	32	0400000US28	80.44444444444444	3390.6666666666665	152223.11111111112
+21375	28	28	0	Mississippi	321114	Wood preservation	32	0400000US28	16.0	313.0	14634.111111111111
+21376	28	28	0	Mississippi	321211	Hardwood veneer and plywood manufacturing	32	0400000US28	6.777777777777778	190.44444444444446	6128.444444444444
+21377	28	28	0	Mississippi	321212	Softwood veneer and plywood manufacturing	32	0400000US28	4.555555555555555	1261.3333333333333	56293.0
+21378	28	28	0	Mississippi	321214	Truss manufacturing	32	0400000US28	6.0	190.77777777777777	4071.777777777778
+21379	28	28	0	Mississippi	321219	Reconstituted wood product manufacturing	32	0400000US28	4.777777777777778	732.1111111111111	37698.666666666664
+21380	28	28	0	Mississippi	321911	Wood window and door manufacturing	32	0400000US28	9.555555555555555	208.55555555555554	5979.666666666667
+21381	28	28	0	Mississippi	321912	Cut stock, resawing lumber, and planing	32	0400000US28	20.333333333333332	901.5555555555555	29417.444444444445
+21382	28	28	0	Mississippi	321918	Other millwork (including flooring)	32	0400000US28	10.777777777777779	195.88888888888889	5260.444444444444
+21383	28	28	0	Mississippi	321920	Wood container and pallet manufacturing	32	0400000US28	36.77777777777778	473.8888888888889	14748.0
+21384	28	28	0	Mississippi	321991	Manufactured home (mobile home) manufacturing	32	0400000US28	2.6	0.0	0.0
+21385	28	28	0	Mississippi	321992	Prefabricated wood building manufacturing	32	0400000US28	7.777777777777778	102.33333333333333	4616.444444444444
+21386	28	28	0	Mississippi	321999	All other miscellaneous wood product manufacturing	32	0400000US28	31.22222222222222	769.0	26094.666666666668
+21387	28	28	0	Mississippi	322110	Pulp mills	32	0400000US28	3.0	0.0	0.0
+21388	28	28	0	Mississippi	322121	Paper (except newsprint) mills	32	0400000US28	1.0	0.0	0.0
+21389	28	28	0	Mississippi	322122	Newsprint mills	32	0400000US28	1.0	0.0	0.0
+21390	28	28	0	Mississippi	322130	Paperboard mills	32	0400000US28	4.0	819.2	68710.0
+21391	28	28	0	Mississippi	322211	Corrugated and solid fiber box manufacturing	32	0400000US28	16.0	1114.2222222222222	60001.666666666664
+21392	28	28	0	Mississippi	322212	Folding paperboard box manufacturing	32	0400000US28	4.888888888888889	85.22222222222223	3157.6666666666665
+21393	28	28	0	Mississippi	322219	Other paperboard container manufacturing	32	0400000US28	2.8	0.0	0.0
+21394	28	28	0	Mississippi	322220	Paper bag and coated and treated paper manufacturing	32	0400000US28	3.5555555555555554	236.55555555555554	8553.111111111111
+21395	28	28	0	Mississippi	322230	Stationery product manufacturing	32	0400000US28	7.111111111111111	268.55555555555554	6394.555555555556
+21396	28	28	0	Mississippi	322291	Sanitary paper product manufacturing	32	0400000US28	4.333333333333333	340.77777777777777	15656.555555555555
+21397	28	28	0	Mississippi	322299	All other converted paper product manufacturing	32	0400000US28	7.333333333333333	149.88888888888889	8314.222222222223
+21398	28	28	0	Mississippi	323111	Commercial printing (except screen and books)	32	0400000US28	101.77777777777777	1135.7777777777778	41682.555555555555
+21399	28	28	0	Mississippi	323113	Commercial screen printing	32	0400000US28	36.22222222222222	206.0	4719.222222222223
+21400	28	28	0	Mississippi	323117	Books printing	32	0400000US28	1.8	0.0	0.0
+21401	28	28	0	Mississippi	323120	Support activities for printing	32	0400000US28	5.0	30.77777777777778	1225.6666666666667
+21402	28	28	0	Mississippi	324110	Petroleum refineries	32	0400000US28	3.888888888888889	0.0	0.0
+21403	28	28	0	Mississippi	324121	Asphalt paving mixture and block manufacturing	32	0400000US28	16.77777777777778	151.88888888888889	5715.222222222223
+21404	28	28	0	Mississippi	324122	Asphalt shingle and coating materials manufacturing	32	0400000US28	2.0	0.0	0.0
+21405	28	28	0	Mississippi	324191	Petroleum lubricating oil and grease manufacturing	32	0400000US28	2.4	15.6	1054.6
+21406	28	28	0	Mississippi	324199	All other petroleum and coal products manufacturing	32	0400000US28	1.8	0.0	0.0
+21407	28	28	0	Mississippi	325120	Industrial gas manufacturing	32	0400000US28	8.555555555555555	196.33333333333334	12602.111111111111
+21408	28	28	0	Mississippi	325130	Synthetic dye and pigment manufacturing	32	0400000US28	2.0	0.0	0.0
+21409	28	28	0	Mississippi	325180	Other basic inorganic chemical manufacturing	32	0400000US28	5.111111111111111	171.66666666666666	16577.0
+21410	28	28	0	Mississippi	325193	Ethyl alcohol manufacturing	32	0400000US28	1.2	0.0	0.0
+21411	28	28	0	Mississippi	325194	Cyclic crude, intermediate, and gum and wood chemical manufacturing	32	0400000US28	1.3333333333333333	0.0	0.0
+21412	28	28	0	Mississippi	325199	All other basic organic chemical manufacturing	32	0400000US28	7.111111111111111	82.77777777777777	4256.777777777777
+21413	28	28	0	Mississippi	325211	Plastics material and resin manufacturing	32	0400000US28	12.333333333333334	663.1111111111111	49278.88888888889
+21414	28	28	0	Mississippi	325212	Synthetic rubber manufacturing	32	0400000US28	2.0	0.0	0.0
+21415	28	28	0	Mississippi	325220	Artificial and synthetic fibers and filaments manufacturing	32	0400000US28	3.0	0.0	0.0
+21416	28	28	0	Mississippi	325311	Nitrogenous fertilizer manufacturing	32	0400000US28	3.4444444444444446	0.0	0.0
+21417	28	28	0	Mississippi	325312	Phosphatic fertilizer manufacturing	32	0400000US28	1.0	0.0	0.0
+21418	28	28	0	Mississippi	325314	Fertilizer (mixing only) manufacturing	32	0400000US28	1.2	0.0	0.0
+21419	28	28	0	Mississippi	325320	Pesticide and other agricultural chemical manufacturing	32	0400000US28	4.0	277.55555555555554	8063.777777777777
+21420	28	28	0	Mississippi	325411	Medicinal and botanical manufacturing	32	0400000US28	2.0	0.0	0.0
+21421	28	28	0	Mississippi	325412	Pharmaceutical preparation manufacturing	32	0400000US28	8.777777777777779	779.1111111111111	33081.666666666664
+21422	28	28	0	Mississippi	325510	Paint and coating manufacturing	32	0400000US28	4.333333333333333	52.333333333333336	3015.222222222222
+21423	28	28	0	Mississippi	325520	Adhesive manufacturing	32	0400000US28	2.0	0.0	0.0
+21424	28	28	0	Mississippi	325611	Soap and other detergent manufacturing	32	0400000US28	5.888888888888889	140.66666666666666	5479.444444444444
+21425	28	28	0	Mississippi	325612	Polish and other sanitation good manufacturing	32	0400000US28	6.0	82.0	5888.777777777777
+21426	28	28	0	Mississippi	325613	Surface active agent manufacturing	32	0400000US28	1.0	0.0	0.0
+21427	28	28	0	Mississippi	325620	Toilet preparation manufacturing	32	0400000US28	2.8	0.0	0.0
+21428	28	28	0	Mississippi	325991	Custom compounding of purchased resins	32	0400000US28	6.555555555555555	368.6666666666667	28070.88888888889
+21429	28	28	0	Mississippi	325992	Photographic film, paper, plate, and chemical manufacturing	32	0400000US28	1.0	0.0	0.0
+21430	28	28	0	Mississippi	325998	All other miscellaneous chemical product and preparation manufacturing	32	0400000US28	12.777777777777779	236.22222222222223	13599.333333333334
+21431	28	28	0	Mississippi	326111	Plastics bag and pouch manufacturing	32	0400000US28	2.888888888888889	117.11111111111111	4221.0
+21432	28	28	0	Mississippi	326112	Plastics packaging film and sheet (including laminated) manufacturing	32	0400000US28	3.0	54.77777777777778	2721.6666666666665
+21433	28	28	0	Mississippi	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	32	0400000US28	3.6666666666666665	318.55555555555554	16712.333333333332
+21434	28	28	0	Mississippi	326121	Unlaminated plastics profile shape manufacturing	32	0400000US28	1.6	0.0	0.0
+21435	28	28	0	Mississippi	326122	Plastics pipe and pipe fitting manufacturing	32	0400000US28	6.0	176.0	9610.555555555555
+21436	28	28	0	Mississippi	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	32	0400000US28	1.6	0.0	0.0
+21437	28	28	0	Mississippi	326140	Polystyrene foam product manufacturing	32	0400000US28	6.888888888888889	445.6666666666667	16413.88888888889
+21438	28	28	0	Mississippi	326150	Urethane and other foam product (except polystyrene) manufacturing	32	0400000US28	23.11111111111111	1545.4444444444443	50987.77777777778
+21439	28	28	0	Mississippi	326160	Plastics bottle manufacturing	32	0400000US28	1.0	0.0	0.0
+21440	28	28	0	Mississippi	326191	Plastics plumbing fixture manufacturing	32	0400000US28	5.0	284.1111111111111	8546.777777777777
+21441	28	28	0	Mississippi	326199	All other plastics product manufacturing	32	0400000US28	44.0	1659.4444444444443	62370.77777777778
+21442	28	28	0	Mississippi	326211	Tire manufacturing (except retreading)	32	0400000US28	1.8	0.0	0.0
+21443	28	28	0	Mississippi	326212	Tire retreading	32	0400000US28	8.0	128.33333333333334	5778.333333333333
+21444	28	28	0	Mississippi	326220	Rubber and plastics hoses and belting manufacturing	32	0400000US28	3.5555555555555554	40.111111111111114	2101.8888888888887
+21445	28	28	0	Mississippi	326291	Rubber product manufacturing for mechanical use	32	0400000US28	1.0	0.0	0.0
+21446	28	28	0	Mississippi	326299	All other rubber product manufacturing	32	0400000US28	9.333333333333334	474.55555555555554	21715.0
+21447	28	28	0	Mississippi	327110	Pottery, ceramics, and plumbing fixture manufacturing	32	0400000US28	10.88888888888889	80.66666666666667	2400.777777777778
+21448	28	28	0	Mississippi	327120	Clay building material and refractories manufacturing	32	0400000US28	3.7777777777777777	13.88888888888889	524.7777777777778
+21449	28	28	0	Mississippi	327211	Flat glass manufacturing	32	0400000US28	1.0	0.0	0.0
+21450	28	28	0	Mississippi	327212	Other pressed and blown glass and glassware manufacturing	32	0400000US28	1.0	0.0	0.0
+21451	28	28	0	Mississippi	327213	Glass container manufacturing	32	0400000US28	1.0	0.0	0.0
+21452	28	28	0	Mississippi	327215	Glass product manufacturing made of purchased glass	32	0400000US28	4.0	11.555555555555555	1341.888888888889
+21453	28	28	0	Mississippi	327310	Cement manufacturing	32	0400000US28	1.0	0.0	0.0
+21454	28	28	0	Mississippi	327320	Ready-mix concrete manufacturing	32	0400000US28	83.33333333333333	1061.2222222222222	46919.11111111111
+21455	28	28	0	Mississippi	327331	Concrete block and brick manufacturing	32	0400000US28	7.222222222222222	89.55555555555556	3811.777777777778
+21456	28	28	0	Mississippi	327332	Concrete pipe manufacturing	32	0400000US28	6.666666666666667	151.0	6165.333333333333
+21457	28	28	0	Mississippi	327390	Other concrete product manufacturing	32	0400000US28	18.0	470.3333333333333	17888.11111111111
+21458	28	28	0	Mississippi	327410	Lime manufacturing	32	0400000US28	1.0	0.0	0.0
+21459	28	28	0	Mississippi	327420	Gypsum product manufacturing	32	0400000US28	1.0	0.0	0.0
+21460	28	28	0	Mississippi	327991	Cut stone and stone product manufacturing	32	0400000US28	17.555555555555557	145.66666666666666	5201.333333333333
+21461	28	28	0	Mississippi	327992	Ground or treated mineral and earth manufacturing	32	0400000US28	4.666666666666667	85.33333333333333	6686.333333333333
+21462	28	28	0	Mississippi	327993	Mineral wool manufacturing	32	0400000US28	3.0	0.0	0.0
+21463	28	28	0	Mississippi	327999	All other miscellaneous nonmetallic mineral product manufacturing	32	0400000US28	5.111111111111111	80.22222222222223	2598.777777777778
+21464	28	28	0	Mississippi	331110	Iron and steel mills and ferroalloy manufacturing	33	0400000US28	3.2222222222222223	612.7777777777778	63662.0
+21465	28	28	0	Mississippi	331210	Iron and steel pipe and tube manufacturing from purchased steel	33	0400000US28	7.555555555555555	637.6666666666666	31273.777777777777
+21466	28	28	0	Mississippi	331221	Rolled steel shape manufacturing	33	0400000US28	2.0	0.0	0.0
+21467	28	28	0	Mississippi	331222	Steel wire drawing	33	0400000US28	4.0	6.777777777777778	1027.6666666666667
+21468	28	28	0	Mississippi	331315	Aluminum sheet, plate, and foil manufacturing	33	0400000US28	1.0	0.0	0.0
+21469	28	28	0	Mississippi	331318	Other aluminum rolling, drawing, and extruding	33	0400000US28	2.5555555555555554	0.0	0.0
+21470	28	28	0	Mississippi	331410	Nonferrous metal (except aluminum) smelting and refining	33	0400000US28	1.0	0.0	0.0
+21471	28	28	0	Mississippi	331420	Copper rolling, drawing, extruding, and alloying	33	0400000US28	1.2	0.0	0.0
+21472	28	28	0	Mississippi	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	33	0400000US28	2.4	0.0	0.0
+21473	28	28	0	Mississippi	331511	Iron foundries	33	0400000US28	3.0	55.4	2409.0
+21474	28	28	0	Mississippi	331512	Steel investment foundries	33	0400000US28	1.2	0.0	0.0
+21475	28	28	0	Mississippi	331513	Steel foundries (except investment)	33	0400000US28	2.2	0.0	0.0
+21476	28	28	0	Mississippi	331523	Nonferrous metal die-casting foundries	33	0400000US28	1.0	0.0	0.0
+21477	28	28	0	Mississippi	331524	Aluminum foundries (except die-casting)	33	0400000US28	1.0	0.0	0.0
+21478	28	28	0	Mississippi	332111	Iron and steel forging	33	0400000US28	2.7777777777777777	0.0	0.0
+21479	28	28	0	Mississippi	332114	Custom roll forming	33	0400000US28	5.444444444444445	173.44444444444446	9918.333333333334
+21480	28	28	0	Mississippi	332119	Metal crown, closure, and other metal stamping (except automotive)	33	0400000US28	2.2222222222222223	0.0	0.0
+21481	28	28	0	Mississippi	332216	Saw blade and handtool manufacturing	33	0400000US28	2.6	14.4	477.0
+21482	28	28	0	Mississippi	332311	Prefabricated metal building and component manufacturing	33	0400000US28	15.333333333333334	636.4444444444445	31077.555555555555
+21483	28	28	0	Mississippi	332312	Fabricated structural metal manufacturing	33	0400000US28	27.88888888888889	1107.5555555555557	53274.22222222222
+21484	28	28	0	Mississippi	332313	Plate work manufacturing	33	0400000US28	10.88888888888889	335.3333333333333	15516.333333333334
+21485	28	28	0	Mississippi	332321	Metal window and door manufacturing	33	0400000US28	10.666666666666666	599.0	20043.444444444445
+21486	28	28	0	Mississippi	332322	Sheet metal work manufacturing	33	0400000US28	34.888888888888886	849.5555555555555	34199.77777777778
+21487	28	28	0	Mississippi	332323	Ornamental and architectural metal work manufacturing	33	0400000US28	13.555555555555555	253.33333333333334	9750.444444444445
+21488	28	28	0	Mississippi	332410	Power boiler and heat exchanger manufacturing	33	0400000US28	2.6	0.0	0.0
+21489	28	28	0	Mississippi	332420	Metal tank (heavy gauge) manufacturing	33	0400000US28	12.333333333333334	978.2222222222222	52839.77777777778
+21490	28	28	0	Mississippi	332431	Metal can manufacturing	33	0400000US28	2.0	0.0	0.0
+21491	28	28	0	Mississippi	332439	Other metal container manufacturing	33	0400000US28	1.4	0.0	0.0
+21492	28	28	0	Mississippi	332510	Hardware manufacturing	33	0400000US28	8.444444444444445	622.8888888888889	23881.88888888889
+21493	28	28	0	Mississippi	332613	Spring manufacturing	33	0400000US28	4.555555555555555	0.0	0.0
+21494	28	28	0	Mississippi	332618	Other fabricated wire product manufacturing	33	0400000US28	5.0	21.333333333333332	1464.7777777777778
+21495	28	28	0	Mississippi	332710	Machine shops	33	0400000US28	107.44444444444444	1562.5555555555557	69904.22222222222
+21496	28	28	0	Mississippi	332721	Precision turned product manufacturing	33	0400000US28	13.222222222222221	346.77777777777777	17600.666666666668
+21497	28	28	0	Mississippi	332722	Bolt, nut, screw, rivet, and washer manufacturing	33	0400000US28	3.5555555555555554	23.77777777777778	1174.2222222222222
+21498	28	28	0	Mississippi	332811	Metal heat treating	33	0400000US28	3.6666666666666665	66.22222222222223	3076.3333333333335
+21499	28	28	0	Mississippi	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	33	0400000US28	12.333333333333334	482.22222222222223	24548.88888888889
+21500	28	28	0	Mississippi	332813	Electroplating, plating, polishing, anodizing, and coloring	33	0400000US28	6.0	84.33333333333333	6149.333333333333
+21501	28	28	0	Mississippi	332911	Industrial valve manufacturing	33	0400000US28	3.0	200.11111111111111	10977.333333333334
+21502	28	28	0	Mississippi	332912	Fluid power valve and hose fitting manufacturing	33	0400000US28	2.0	0.0	0.0
+21503	28	28	0	Mississippi	332919	Other metal valve and pipe fitting manufacturing	33	0400000US28	1.6	0.0	0.0
+21504	28	28	0	Mississippi	332992	Small arms ammunition manufacturing	33	0400000US28	2.4444444444444446	0.0	0.0
+21505	28	28	0	Mississippi	332993	Ammunition (except small arms) manufacturing	33	0400000US28	2.0	0.0	0.0
+21506	28	28	0	Mississippi	332994	Small arms, ordnance, and ordnance accessories manufacturing	33	0400000US28	2.2	0.0	0.0
+21507	28	28	0	Mississippi	332996	Fabricated pipe and pipe fitting manufacturing	33	0400000US28	7.111111111111111	140.55555555555554	11368.111111111111
+21508	28	28	0	Mississippi	332999	All other miscellaneous fabricated metal product manufacturing	33	0400000US28	22.0	498.3333333333333	19767.222222222223
+21509	28	28	0	Mississippi	333111	Farm machinery and equipment manufacturing	33	0400000US28	16.11111111111111	361.55555555555554	14372.555555555555
+21510	28	28	0	Mississippi	333112	Lawn and garden tractor and home lawn and garden equipment manufacturing	33	0400000US28	2.6	0.0	0.0
+21511	28	28	0	Mississippi	333120	Construction machinery manufacturing	33	0400000US28	5.222222222222222	131.0	7197.222222222223
+21512	28	28	0	Mississippi	333132	Oil and gas field machinery and equipment manufacturing	33	0400000US28	4.0	68.22222222222223	4425.0
+21513	28	28	0	Mississippi	333241	Food product machinery manufacturing	33	0400000US28	3.0	38.2	2016.4
+21514	28	28	0	Mississippi	333243	Sawmill, woodworking, and paper machinery manufacturing	33	0400000US28	5.444444444444445	236.66666666666666	14888.666666666666
+21515	28	28	0	Mississippi	333249	Other industrial machinery manufacturing	33	0400000US28	6.777777777777778	50.55555555555556	1615.2222222222222
+21516	28	28	0	Mississippi	333314	Optical instrument and lens manufacturing	33	0400000US28	2.6666666666666665	54.666666666666664	2527.3333333333335
+21517	28	28	0	Mississippi	333316	Photographic and photocopying equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21518	28	28	0	Mississippi	333318	Other commercial and service industry machinery manufacturing	33	0400000US28	11.555555555555555	974.8888888888889	41887.11111111111
+21519	28	28	0	Mississippi	333413	Industrial and commercial fan and blower and air purification equipment manufacturing	33	0400000US28	4.444444444444445	170.88888888888889	6009.666666666667
+21520	28	28	0	Mississippi	333414	Heating equipment (except warm air furnaces) manufacturing	33	0400000US28	2.2	0.0	0.0
+21521	28	28	0	Mississippi	333415	Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing	33	0400000US28	6.333333333333333	1814.4444444444443	76772.77777777778
+21522	28	28	0	Mississippi	333511	Industrial mold manufacturing	33	0400000US28	2.4	0.0	0.0
+21523	28	28	0	Mississippi	333514	Special die and tool, die set, jig, and fixture manufacturing	33	0400000US28	21.11111111111111	262.44444444444446	9702.777777777777
+21524	28	28	0	Mississippi	333515	Cutting tool and machine tool accessory manufacturing	33	0400000US28	1.0	0.0	0.0
+21525	28	28	0	Mississippi	333517	Machine tool manufacturing	33	0400000US28	2.0	0.0	0.0
+21526	28	28	0	Mississippi	333519	Rolling mill and other metalworking machinery manufacturing	33	0400000US28	1.0	0.0	0.0
+21527	28	28	0	Mississippi	333612	Speed changer, industrial high-speed drive, and gear manufacturing	33	0400000US28	1.25	0.0	0.0
+21528	28	28	0	Mississippi	333613	Mechanical power transmission equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21529	28	28	0	Mississippi	333618	Other engine equipment manufacturing	33	0400000US28	6.111111111111111	1710.7777777777778	82933.0
+21530	28	28	0	Mississippi	333911	Pump and pumping equipment manufacturing	33	0400000US28	1.2	0.0	0.0
+21531	28	28	0	Mississippi	333912	Air and gas compressor manufacturing	33	0400000US28	1.0	0.0	0.0
+21532	28	28	0	Mississippi	333921	Elevator and moving stairway manufacturing	33	0400000US28	2.0	0.0	0.0
+21533	28	28	0	Mississippi	333922	Conveyor and conveying equipment manufacturing	33	0400000US28	5.111111111111111	447.8888888888889	26074.11111111111
+21534	28	28	0	Mississippi	333924	Industrial truck, trailer, and stacker machinery manufacturing	33	0400000US28	4.222222222222222	633.3333333333334	34438.666666666664
+21535	28	28	0	Mississippi	333991	Power-driven handtool manufacturing	33	0400000US28	2.7777777777777777	0.0	0.0
+21536	28	28	0	Mississippi	333992	Welding and soldering equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21537	28	28	0	Mississippi	333993	Packaging machinery manufacturing	33	0400000US28	1.0	0.0	0.0
+21538	28	28	0	Mississippi	333995	Fluid power cylinder and actuator manufacturing	33	0400000US28	4.333333333333333	260.0	12747.555555555555
+21539	28	28	0	Mississippi	333996	Fluid power pump and motor manufacturing	33	0400000US28	3.5555555555555554	0.0	0.0
+21540	28	28	0	Mississippi	333997	Scale and balance manufacturing	33	0400000US28	2.0	0.0	0.0
+21541	28	28	0	Mississippi	333999	All other miscellaneous general purpose machinery manufacturing	33	0400000US28	7.888888888888889	172.11111111111111	7581.0
+21542	28	28	0	Mississippi	334111	Electronic computer manufacturing	33	0400000US28	2.4	121.6	6942.0
+21543	28	28	0	Mississippi	334220	Radio and television broadcasting and wireless communications equipment manufacturing	33	0400000US28	5.777777777777778	198.22222222222223	7717.222222222223
+21544	28	28	0	Mississippi	334290	Other communications equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21545	28	28	0	Mississippi	334310	Audio and video equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21546	28	28	0	Mississippi	334412	Bare printed circuit board manufacturing	33	0400000US28	1.0	0.0	0.0
+21547	28	28	0	Mississippi	334413	Semiconductor and related device manufacturing	33	0400000US28	1.25	0.0	0.0
+21548	28	28	0	Mississippi	334418	Printed circuit assembly (electronic assembly) manufacturing	33	0400000US28	2.0	0.0	0.0
+21549	28	28	0	Mississippi	334510	Electromedical and electrotherapeutic apparatus manufacturing	33	0400000US28	1.0	0.0	0.0
+21550	28	28	0	Mississippi	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing	33	0400000US28	2.6	0.0	0.0
+21551	28	28	0	Mississippi	334513	Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables	33	0400000US28	2.0	0.0	0.0
+21552	28	28	0	Mississippi	334514	Totalizing fluid meter and counting device manufacturing	33	0400000US28	1.0	0.0	0.0
+21553	28	28	0	Mississippi	334515	Instrument manufacturing for measuring and testing electricity and electrical systems	33	0400000US28	3.0	84.0	3262.8888888888887
+21554	28	28	0	Mississippi	334517	Irradiation apparatus manufacturing	33	0400000US28	2.7777777777777777	6.666666666666667	368.8888888888889
+21555	28	28	0	Mississippi	334519	Other measuring and controlling device manufacturing	33	0400000US28	2.4	0.0	0.0
+21556	28	28	0	Mississippi	334614	Software and other prerecorded compact disc, tape, and record reproducing	33	0400000US28	1.0	0.0	0.0
+21557	28	28	0	Mississippi	335121	Residential electric lighting fixture manufacturing	33	0400000US28	3.0	32.4	791.0
+21558	28	28	0	Mississippi	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	33	0400000US28	3.6666666666666665	440.22222222222223	17040.222222222223
+21559	28	28	0	Mississippi	335129	Other lighting equipment manufacturing	33	0400000US28	5.555555555555555	348.6666666666667	12837.222222222223
+21560	28	28	0	Mississippi	335210	Small electrical appliance manufacturing	33	0400000US28	2.0	0.0	0.0
+21561	28	28	0	Mississippi	335220	Major household appliance manufacturing	33	0400000US28	3.0	0.0	0.0
+21562	28	28	0	Mississippi	335221	Household cooking appliance manufacturing	33	0400000US28	1.6	0.0	0.0
+21563	28	28	0	Mississippi	335222	Household refrigerator and home freezer manufacturing	33	0400000US28	1.0	0.0	0.0
+21564	28	28	0	Mississippi	335228	Other major household appliance manufacturing	33	0400000US28	1.0	0.0	0.0
+21565	28	28	0	Mississippi	335311	Power, distribution, and specialty transformer manufacturing	33	0400000US28	7.222222222222222	0.0	0.0
+21566	28	28	0	Mississippi	335312	Motor and generator manufacturing	33	0400000US28	5.222222222222222	331.0	19211.555555555555
+21567	28	28	0	Mississippi	335313	Switchgear and switchboard apparatus manufacturing	33	0400000US28	4.0	45.77777777777778	2557.1111111111113
+21568	28	28	0	Mississippi	335314	Relay and industrial control manufacturing	33	0400000US28	4.777777777777778	60.55555555555556	3678.1111111111113
+21569	28	28	0	Mississippi	335929	Other communication and energy wire manufacturing	33	0400000US28	2.8	0.0	0.0
+21570	28	28	0	Mississippi	335931	Current-carrying wiring device manufacturing	33	0400000US28	1.0	0.0	0.0
+21571	28	28	0	Mississippi	335932	Noncurrent-carrying wiring device manufacturing	33	0400000US28	1.0	0.0	0.0
+21572	28	28	0	Mississippi	335991	Carbon and graphite product manufacturing	33	0400000US28	1.0	0.0	0.0
+21573	28	28	0	Mississippi	335999	All other miscellaneous electrical equipment and component manufacturing	33	0400000US28	2.0	14.0	1097.8
+21574	28	28	0	Mississippi	336111	Automobile manufacturing	33	0400000US28	3.4444444444444446	0.0	0.0
+21575	28	28	0	Mississippi	336120	Heavy duty truck manufacturing	33	0400000US28	1.0	0.0	0.0
+21576	28	28	0	Mississippi	336211	Motor vehicle body manufacturing	33	0400000US28	6.111111111111111	336.44444444444446	16309.0
+21577	28	28	0	Mississippi	336212	Truck trailer manufacturing	33	0400000US28	4.444444444444445	110.44444444444444	3842.8888888888887
+21578	28	28	0	Mississippi	336214	Travel trailer and camper manufacturing	33	0400000US28	5.888888888888889	108.22222222222223	3881.6666666666665
+21579	28	28	0	Mississippi	336310	Motor vehicle gasoline engine and engine parts manufacturing	33	0400000US28	6.0	109.55555555555556	5470.444444444444
+21580	28	28	0	Mississippi	336320	Motor vehicle electrical and electronic equipment manufacturing	33	0400000US28	8.333333333333334	1511.888888888889	112007.77777777778
+21581	28	28	0	Mississippi	336330	Motor vehicle steering and suspension components (except spring) manufacturing	33	0400000US28	1.0	0.0	0.0
+21582	28	28	0	Mississippi	336340	Motor vehicle brake system manufacturing	33	0400000US28	1.0	0.0	0.0
+21583	28	28	0	Mississippi	336350	Motor vehicle transmission and power train parts manufacturing	33	0400000US28	5.0	552.6666666666666	27607.222222222223
+21584	28	28	0	Mississippi	336360	Motor vehicle seating and interior trim manufacturing	33	0400000US28	9.0	2156.0	92225.44444444444
+21585	28	28	0	Mississippi	336370	Motor vehicle metal stamping	33	0400000US28	6.555555555555555	815.2222222222222	39413.444444444445
+21586	28	28	0	Mississippi	336390	Other motor vehicle parts manufacturing	33	0400000US28	12.11111111111111	1437.5555555555557	59007.11111111111
+21587	28	28	0	Mississippi	336411	Aircraft manufacturing	33	0400000US28	1.0	0.0	0.0
+21588	28	28	0	Mississippi	336412	Aircraft engine and engine parts manufacturing	33	0400000US28	1.0	0.0	0.0
+21589	28	28	0	Mississippi	336413	Other aircraft parts and auxiliary equipment manufacturing	33	0400000US28	1.4	0.0	0.0
+21590	28	28	0	Mississippi	336414	Guided missile and space vehicle manufacturing	33	0400000US28	1.0	0.0	0.0
+21591	28	28	0	Mississippi	336419	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21592	28	28	0	Mississippi	336611	Ship building and repairing	33	0400000US28	13.11111111111111	3058.6666666666665	194027.66666666666
+21593	28	28	0	Mississippi	336612	Boat building	33	0400000US28	3.0	0.0	0.0
+21594	28	28	0	Mississippi	336991	Motorcycle, bicycle, and parts manufacturing	33	0400000US28	1.0	0.0	0.0
+21595	28	28	0	Mississippi	336992	Military armored vehicle, tank, and tank component manufacturing	33	0400000US28	1.0	0.0	0.0
+21596	28	28	0	Mississippi	336999	All other transportation equipment manufacturing	33	0400000US28	1.0	0.0	0.0
+21597	28	28	0	Mississippi	337110	Wood kitchen cabinet and countertop manufacturing	33	0400000US28	44.77777777777778	390.22222222222223	12355.777777777777
+21598	28	28	0	Mississippi	337121	Upholstered household furniture manufacturing	33	0400000US28	63.111111111111114	15768.333333333334	496265.55555555556
+21599	28	28	0	Mississippi	337122	Nonupholstered wood household furniture manufacturing	33	0400000US28	9.555555555555555	190.66666666666666	5284.666666666667
+21600	28	28	0	Mississippi	337125	Household furniture (except wood and metal) manufacturing	33	0400000US28	1.0	0.0	0.0
+21601	28	28	0	Mississippi	337127	Institutional furniture manufacturing	33	0400000US28	9.222222222222221	484.77777777777777	21550.666666666668
+21602	28	28	0	Mississippi	337211	Wood office furniture manufacturing	33	0400000US28	4.4	48.6	1458.0
+21603	28	28	0	Mississippi	337212	Custom architectural woodwork and millwork manufacturing	33	0400000US28	12.0	117.22222222222223	4327.666666666667
+21604	28	28	0	Mississippi	337214	Office furniture (except wood) manufacturing	33	0400000US28	2.6	75.4	2290.0
+21605	28	28	0	Mississippi	337215	Showcase, partition, shelving, and locker manufacturing	33	0400000US28	21.0	775.8888888888889	18352.333333333332
+21606	28	28	0	Mississippi	337910	Mattress manufacturing	33	0400000US28	6.333333333333333	416.1111111111111	14299.777777777777
+21607	28	28	0	Mississippi	337920	Blind and shade manufacturing	33	0400000US28	4.0	0.0	0.0
+21608	28	28	0	Mississippi	339112	Surgical and medical instrument manufacturing	33	0400000US28	4.444444444444445	219.33333333333334	13066.0
+21609	28	28	0	Mississippi	339113	Surgical appliance and supplies manufacturing	33	0400000US28	14.333333333333334	107.77777777777777	3510.4444444444443
+21610	28	28	0	Mississippi	339114	Dental equipment and supplies manufacturing	33	0400000US28	1.0	0.0	0.0
+21611	28	28	0	Mississippi	339115	Ophthalmic goods manufacturing	33	0400000US28	2.4444444444444446	0.0	0.0
+21612	28	28	0	Mississippi	339116	Dental laboratories	33	0400000US28	38.111111111111114	178.22222222222223	6552.444444444444
+21613	28	28	0	Mississippi	339910	Jewelry and silverware manufacturing	33	0400000US28	8.222222222222221	23.333333333333332	457.1111111111111
+21614	28	28	0	Mississippi	339920	Sporting and athletic goods manufacturing	33	0400000US28	12.222222222222221	246.88888888888889	9948.333333333334
+21615	28	28	0	Mississippi	339930	Doll, toy, and game manufacturing	33	0400000US28	1.4	0.0	0.0
+21616	28	28	0	Mississippi	339940	Office supplies (except paper) manufacturing	33	0400000US28	2.888888888888889	0.0	0.0
+21617	28	28	0	Mississippi	339950	Sign manufacturing	33	0400000US28	40.22222222222222	448.0	17354.444444444445
+21618	28	28	0	Mississippi	339992	Musical instrument manufacturing	33	0400000US28	1.6	0.0	0.0
+21619	28	28	0	Mississippi	339993	Fastener, button, needle, and pin manufacturing	33	0400000US28	1.0	0.0	0.0
+21620	28	28	0	Mississippi	339994	Broom, brush, and mop manufacturing	33	0400000US28	1.8	0.0	0.0
+21621	28	28	0	Mississippi	339995	Burial casket manufacturing	33	0400000US28	2.0	0.0	0.0
+21622	28	28	0	Mississippi	339999	All other miscellaneous manufacturing	33	0400000US28	15.666666666666666	451.55555555555554	14458.555555555555
+21623	28	28	0	Mississippi	423110	Automobile and other motor vehicle merchant wholesalers	42	0400000US28	57.55555555555556	1235.111111111111	62033.666666666664
+21624	28	28	0	Mississippi	423120	Motor vehicle supplies and new parts merchant wholesalers	42	0400000US28	88.22222222222223	1574.2222222222222	66879.55555555556
+21625	28	28	0	Mississippi	423130	Tire and tube merchant wholesalers	42	0400000US28	29.333333333333332	650.0	30725.777777777777
+21626	28	28	0	Mississippi	423140	Motor vehicle parts (used) merchant wholesalers	42	0400000US28	15.777777777777779	123.44444444444444	5216.222222222223
+21627	28	28	0	Mississippi	423210	Furniture merchant wholesalers	42	0400000US28	55.22222222222222	405.77777777777777	17636.88888888889
+21628	28	28	0	Mississippi	423220	Home furnishing merchant wholesalers	42	0400000US28	22.77777777777778	423.77777777777777	23142.444444444445
+21629	28	28	0	Mississippi	423310	Lumber, plywood, millwork, and wood panel merchant wholesalers	42	0400000US28	67.88888888888889	848.5555555555555	44811.555555555555
+21630	28	28	0	Mississippi	423320	Brick, stone, and related construction material merchant wholesalers	42	0400000US28	28.22222222222222	179.22222222222223	8410.555555555555
+21631	28	28	0	Mississippi	423330	Roofing, siding, and insulation material merchant wholesalers	42	0400000US28	29.22222222222222	220.44444444444446	11499.444444444445
+21632	28	28	0	Mississippi	423390	Other construction material merchant wholesalers	42	0400000US28	23.666666666666668	142.77777777777777	8267.888888888889
+21633	28	28	0	Mississippi	423410	Photographic equipment and supplies merchant wholesalers	42	0400000US28	3.8	2.8	96.4
+21634	28	28	0	Mississippi	423420	Office equipment merchant wholesalers	42	0400000US28	56.77777777777778	485.44444444444446	28869.0
+21635	28	28	0	Mississippi	423430	Computer and computer peripheral equipment and software merchant wholesalers	42	0400000US28	30.22222222222222	734.2222222222222	50475.0
+21636	28	28	0	Mississippi	423440	Other commercial equipment merchant wholesalers	42	0400000US28	16.77777777777778	217.55555555555554	10567.666666666666
+21637	28	28	0	Mississippi	423450	Medical, dental, and hospital equipment and supplies merchant wholesalers	42	0400000US28	72.77777777777777	1200.111111111111	74136.55555555556
+21638	28	28	0	Mississippi	423460	Ophthalmic goods merchant wholesalers	42	0400000US28	5.333333333333333	71.66666666666667	2529.0
+21639	28	28	0	Mississippi	423490	Other professional equipment and supplies merchant wholesalers	42	0400000US28	8.777777777777779	67.33333333333333	3925.777777777778
+21640	28	28	0	Mississippi	423510	Metal service centers and other metal merchant wholesalers	42	0400000US28	57.22222222222222	715.3333333333334	33018.77777777778
+21641	28	28	0	Mississippi	423520	Coal and other mineral and ore merchant wholesalers	42	0400000US28	1.0	0.0	0.0
+21642	28	28	0	Mississippi	423610	Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers	42	0400000US28	93.66666666666667	1676.888888888889	95384.77777777778
+21643	28	28	0	Mississippi	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers	42	0400000US28	10.0	156.6	6158.6
+21644	28	28	0	Mississippi	423620	Household appliances, electric housewares, and consumer electronics merchant wholesalers 	42	0400000US28	9.0	184.0	7842.0
+21645	28	28	0	Mississippi	423690	Other electronic parts and equipment merchant wholesalers	42	0400000US28	48.111111111111114	378.44444444444446	24381.88888888889
+21646	28	28	0	Mississippi	423710	Hardware merchant wholesalers	42	0400000US28	28.444444444444443	219.22222222222223	12333.111111111111
+21647	28	28	0	Mississippi	423720	Plumbing and heating equipment and supplies (hydronics) merchant wholesalers	42	0400000US28	45.888888888888886	202.44444444444446	15382.777777777777
+21648	28	28	0	Mississippi	423730	Warm air heating and air-conditioning equipment and supplies merchant wholesalers	42	0400000US28	53.44444444444444	259.0	12202.111111111111
+21649	28	28	0	Mississippi	423740	Refrigeration equipment and supplies merchant wholesalers	42	0400000US28	12.222222222222221	74.88888888888889	3540.6666666666665
+21650	28	28	0	Mississippi	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	42	0400000US28	53.77777777777778	1100.3333333333333	63985.0
+21651	28	28	0	Mississippi	423820	Farm and garden machinery and equipment merchant wholesalers	42	0400000US28	125.11111111111111	1547.888888888889	84931.77777777778
+21652	28	28	0	Mississippi	423830	Industrial machinery and equipment merchant wholesalers	42	0400000US28	192.0	1728.6666666666667	98414.88888888889
+21653	28	28	0	Mississippi	423840	Industrial supplies merchant wholesalers	42	0400000US28	74.33333333333333	554.7777777777778	27533.444444444445
+21654	28	28	0	Mississippi	423850	Service establishment equipment and supplies merchant wholesalers	42	0400000US28	33.666666666666664	410.3333333333333	17866.11111111111
+21655	28	28	0	Mississippi	423860	Transportation equipment and supplies (except motor vehicle) merchant wholesalers	42	0400000US28	16.555555555555557	196.88888888888889	11434.0
+21656	28	28	0	Mississippi	423910	Sporting and recreational goods and supplies merchant wholesalers	42	0400000US28	19.11111111111111	306.44444444444446	12631.555555555555
+21657	28	28	0	Mississippi	423920	Toy and hobby goods and supplies merchant wholesalers	42	0400000US28	3.4	7.4	175.0
+21658	28	28	0	Mississippi	423930	Recyclable material merchant wholesalers	42	0400000US28	76.33333333333333	749.1111111111111	28960.555555555555
+21659	28	28	0	Mississippi	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	42	0400000US28	16.0	59.22222222222222	1174.0
+21660	28	28	0	Mississippi	423990	Other miscellaneous durable goods merchant wholesalers	42	0400000US28	73.22222222222223	666.0	29039.88888888889
+21661	28	28	0	Mississippi	424110	Printing and writing paper merchant wholesalers	42	0400000US28	4.111111111111111	69.11111111111111	3994.777777777778
+21662	28	28	0	Mississippi	424120	Stationery and office supplies merchant wholesalers	42	0400000US28	39.44444444444444	156.55555555555554	9454.888888888889
+21663	28	28	0	Mississippi	424130	Industrial and personal service paper merchant wholesalers	42	0400000US28	24.0	345.0	20244.333333333332
+21664	28	28	0	Mississippi	424210	Drugs and druggists' sundries merchant wholesalers	42	0400000US28	68.77777777777777	938.2222222222222	60512.555555555555
+21665	28	28	0	Mississippi	424310	Piece goods, notions, and other dry goods merchant wholesalers	42	0400000US28	26.0	172.44444444444446	7272.888888888889
+21666	28	28	0	Mississippi	424320	Men's and boys' clothing and furnishings merchant wholesalers	42	0400000US28	17.555555555555557	458.22222222222223	15803.666666666666
+21667	28	28	0	Mississippi	424330	Women's, children's, and infants' clothing and accessories merchant wholesalers	42	0400000US28	13.555555555555555	548.8888888888889	24934.555555555555
+21668	28	28	0	Mississippi	424340	Footwear merchant wholesalers	42	0400000US28	1.8	0.0	0.0
+21669	28	28	0	Mississippi	424410	General line grocery merchant wholesalers	42	0400000US28	11.88888888888889	839.2222222222222	54669.22222222222
+21670	28	28	0	Mississippi	424420	Packaged frozen food merchant wholesalers	42	0400000US28	23.77777777777778	574.8888888888889	28528.0
+21671	28	28	0	Mississippi	424430	Dairy product (except dried or canned) merchant wholesalers	42	0400000US28	12.666666666666666	127.44444444444444	5206.333333333333
+21672	28	28	0	Mississippi	424440	Poultry and poultry product merchant wholesalers	42	0400000US28	6.555555555555555	37.77777777777778	2576.5555555555557
+21673	28	28	0	Mississippi	424450	Confectionery merchant wholesalers	42	0400000US28	32.44444444444444	240.11111111111111	11522.0
+21674	28	28	0	Mississippi	424460	Fish and seafood merchant wholesalers	42	0400000US28	14.0	37.22222222222222	2073.222222222222
+21675	28	28	0	Mississippi	424470	Meat and meat product merchant wholesalers	42	0400000US28	12.88888888888889	134.77777777777777	5966.666666666667
+21676	28	28	0	Mississippi	424480	Fresh fruit and vegetable merchant wholesalers	42	0400000US28	17.88888888888889	216.0	8290.666666666666
+21677	28	28	0	Mississippi	424490	Other grocery and related products merchant wholesalers	42	0400000US28	121.55555555555556	2647.222222222222	108420.77777777778
+21678	28	28	0	Mississippi	424510	Grain and field bean merchant wholesalers	42	0400000US28	35.22222222222222	367.1111111111111	17421.222222222223
+21679	28	28	0	Mississippi	424520	Livestock merchant wholesalers	42	0400000US28	9.555555555555555	94.44444444444444	1570.5555555555557
+21680	28	28	0	Mississippi	424590	Other farm product raw material merchant wholesalers	42	0400000US28	7.777777777777778	102.44444444444444	8894.777777777777
+21681	28	28	0	Mississippi	424610	Plastics materials and basic forms and shapes merchant wholesalers	42	0400000US28	10.88888888888889	166.0	8535.444444444445
+21682	28	28	0	Mississippi	424690	Other chemical and allied products merchant wholesalers	42	0400000US28	67.77777777777777	562.6666666666666	34982.11111111111
+21683	28	28	0	Mississippi	424710	Petroleum bulk stations and terminals	42	0400000US28	75.2	802.4	39174.0
+21684	28	28	0	Mississippi	424710	Petroleum bulk stations and terminals 	42	0400000US28	61.0	609.0	32124.0
+21685	28	28	0	Mississippi	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals)	42	0400000US28	25.0	161.2	9382.0
+21686	28	28	0	Mississippi	424720	Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals) 	42	0400000US28	28.0	262.0	16456.0
+21687	28	28	0	Mississippi	424810	Beer and ale merchant wholesalers	42	0400000US28	27.444444444444443	1093.4444444444443	49528.88888888889
+21688	28	28	0	Mississippi	424820	Wine and distilled alcoholic beverage merchant wholesalers	42	0400000US28	6.888888888888889	149.22222222222223	9399.777777777777
+21689	28	28	0	Mississippi	424910	Farm supplies merchant wholesalers	42	0400000US28	103.88888888888889	1176.4444444444443	63237.333333333336
+21690	28	28	0	Mississippi	424920	Book, periodical, and newspaper merchant wholesalers	42	0400000US28	4.0	0.0	0.0
+21691	28	28	0	Mississippi	424930	Flower, nursery stock, and florists' supplies merchant wholesalers	42	0400000US28	18.77777777777778	318.3333333333333	10925.666666666666
+21692	28	28	0	Mississippi	424940	Tobacco and tobacco product merchant wholesalers	42	0400000US28	15.222222222222221	748.4444444444445	32863.444444444445
+21693	28	28	0	Mississippi	424950	Paint, varnish, and supplies merchant wholesalers	42	0400000US28	8.222222222222221	38.0	1544.3333333333333
+21694	28	28	0	Mississippi	424990	Other miscellaneous nondurable goods merchant wholesalers	42	0400000US28	37.888888888888886	232.66666666666666	7465.777777777777
+21695	28	28	0	Mississippi	425110	Business to business electronic markets	42	0400000US28	1.3333333333333333	0.0	0.0
+21696	28	28	0	Mississippi	425120	Wholesale trade agents and brokers	42	0400000US28	218.11111111111111	1555.6666666666667	54628.11111111111
+21697	28	28	0	Mississippi	441110	New car dealers	44	0400000US28	215.0	8311.666666666666	403933.77777777775
+21698	28	28	0	Mississippi	441120	Used car dealers	44	0400000US28	334.77777777777777	1623.888888888889	56850.77777777778
+21699	28	28	0	Mississippi	441210	Recreational vehicle dealers	44	0400000US28	30.444444444444443	402.0	17233.88888888889
+21700	28	28	0	Mississippi	441222	Boat dealers	44	0400000US28	37.55555555555556	194.44444444444446	6518.555555555556
+21701	28	28	0	Mississippi	441228	Motorcycle, ATV, and all other motor vehicle dealers	44	0400000US28	67.44444444444444	616.7777777777778	21857.11111111111
+21702	28	28	0	Mississippi	441310	Automotive parts and accessories stores	44	0400000US28	564.6666666666666	4450.444444444444	104493.88888888889
+21703	28	28	0	Mississippi	441320	Tire dealers	44	0400000US28	276.22222222222223	1879.5555555555557	63817.666666666664
+21704	28	28	0	Mississippi	442110	Furniture stores	44	0400000US28	243.11111111111111	1815.0	58207.88888888889
+21705	28	28	0	Mississippi	442210	Floor covering stores	44	0400000US28	91.0	427.22222222222223	15889.333333333334
+21706	28	28	0	Mississippi	442291	Window treatment stores	44	0400000US28	4.666666666666667	8.444444444444445	284.44444444444446
+21707	28	28	0	Mississippi	442299	All other home furnishings stores	44	0400000US28	126.77777777777777	996.7777777777778	15129.444444444445
+21708	28	28	0	Mississippi	443141	Household appliance stores	44	0400000US28	90.33333333333333	516.2222222222222	13690.444444444445
+21709	28	28	0	Mississippi	443142	Electronics stores	44	0400000US28	214.44444444444446	1796.888888888889	38225.555555555555
+21710	28	28	0	Mississippi	444110	Home centers	44	0400000US28	99.11111111111111	4428.333333333333	103567.88888888889
+21711	28	28	0	Mississippi	444120	Paint and wallpaper stores	44	0400000US28	94.22222222222223	340.44444444444446	12372.555555555555
+21712	28	28	0	Mississippi	444130	Hardware stores	44	0400000US28	162.0	1100.7777777777778	29163.555555555555
+21713	28	28	0	Mississippi	444190	Other building material dealers	44	0400000US28	285.0	2704.1111111111113	106129.0
+21714	28	28	0	Mississippi	444210	Outdoor power equipment stores	44	0400000US28	65.33333333333333	471.44444444444446	12567.444444444445
+21715	28	28	0	Mississippi	444220	Nursery, garden center, and farm supply stores	44	0400000US28	180.33333333333334	1768.4444444444443	54792.555555555555
+21716	28	28	0	Mississippi	445110	Supermarkets and other grocery (except convenience) stores	44	0400000US28	448.0	16716.222222222223	307728.22222222225
+21717	28	28	0	Mississippi	445120	Convenience stores	44	0400000US28	240.88888888888889	920.0	14588.777777777777
+21718	28	28	0	Mississippi	445210	Meat markets	44	0400000US28	29.666666666666668	279.3333333333333	4931.444444444444
+21719	28	28	0	Mississippi	445220	Fish and seafood markets	44	0400000US28	11.222222222222221	92.88888888888889	2198.0
+21720	28	28	0	Mississippi	445230	Fruit and vegetable markets	44	0400000US28	13.222222222222221	64.11111111111111	1542.5555555555557
+21721	28	28	0	Mississippi	445291	Baked goods stores	44	0400000US28	11.666666666666666	59.666666666666664	1078.111111111111
+21722	28	28	0	Mississippi	445292	Confectionery and nut stores	44	0400000US28	18.444444444444443	89.44444444444444	1081.3333333333333
+21723	28	28	0	Mississippi	445299	All other specialty food stores	44	0400000US28	22.444444444444443	61.666666666666664	970.1111111111111
+21724	28	28	0	Mississippi	445310	Beer, wine, and liquor stores	44	0400000US28	366.8888888888889	1171.7777777777778	19849.88888888889
+21725	28	28	0	Mississippi	446110	Pharmacies and drug stores	44	0400000US28	614.3333333333334	7375.666666666667	282788.8888888889
+21726	28	28	0	Mississippi	446120	Cosmetics, beauty supplies, and perfume stores	44	0400000US28	185.66666666666666	1176.5555555555557	18331.444444444445
+21727	28	28	0	Mississippi	446130	Optical goods stores	44	0400000US28	57.77777777777778	314.6666666666667	7161.666666666667
+21728	28	28	0	Mississippi	446191	Food (health) supplement stores	44	0400000US28	70.11111111111111	286.6666666666667	5516.0
+21729	28	28	0	Mississippi	446199	All other health and personal care stores	44	0400000US28	116.44444444444444	838.7777777777778	29695.0
+21730	28	28	0	Mississippi	447110	Gasoline stations with convenience stores	44	0400000US28	1818.7777777777778	11254.777777777777	178859.55555555556
+21731	28	28	0	Mississippi	447190	Other gasoline stations	44	0400000US28	156.88888888888889	1959.6666666666667	44855.555555555555
+21732	28	28	0	Mississippi	448110	Men's clothing stores	44	0400000US28	70.44444444444444	396.3333333333333	9247.444444444445
+21733	28	28	0	Mississippi	448120	Women's clothing stores	44	0400000US28	457.55555555555554	3569.3333333333335	40693.333333333336
+21734	28	28	0	Mississippi	448130	Children's and infants' clothing stores	44	0400000US28	84.55555555555556	597.6666666666666	7781.555555555556
+21735	28	28	0	Mississippi	448140	Family clothing stores	44	0400000US28	300.77777777777777	4964.222222222223	61611.22222222222
+21736	28	28	0	Mississippi	448150	Clothing accessories stores	44	0400000US28	61.22222222222222	354.22222222222223	4524.111111111111
+21737	28	28	0	Mississippi	448190	Other clothing stores	44	0400000US28	99.22222222222223	833.8888888888889	12297.444444444445
+21738	28	28	0	Mississippi	448210	Shoe stores	44	0400000US28	286.1111111111111	2249.0	30992.222222222223
+21739	28	28	0	Mississippi	448310	Jewelry stores	44	0400000US28	133.44444444444446	776.3333333333334	20058.0
+21740	28	28	0	Mississippi	448320	Luggage and leather goods stores	44	0400000US28	1.8	0.0	0.0
+21741	28	28	0	Mississippi	451110	Sporting goods stores	45	0400000US28	132.0	1736.5555555555557	32897.0
+21742	28	28	0	Mississippi	451120	Hobby, toy, and game stores	45	0400000US28	42.888888888888886	704.2222222222222	12632.888888888889
+21743	28	28	0	Mississippi	451130	Sewing, needlework, and piece goods stores	45	0400000US28	32.44444444444444	158.11111111111111	2910.222222222222
+21744	28	28	0	Mississippi	451140	Musical instrument and supplies stores	45	0400000US28	22.666666666666668	135.88888888888889	3071.777777777778
+21745	28	28	0	Mississippi	451211	Book stores	45	0400000US28	62.55555555555556	768.2222222222222	11214.333333333334
+21746	28	28	0	Mississippi	451212	News dealers and newsstands	45	0400000US28	2.2	0.0	0.0
+21747	28	28	0	Mississippi	452111	Department stores (except discount department stores)	45	0400000US28	35.8	2240.8	62550.8
+21748	28	28	0	Mississippi	452112	Discount department stores	45	0400000US28	22.8	2020.0	37713.0
+21749	28	28	0	Mississippi	452210	Department stores	45	0400000US28	39.0	5924.0	63728.0
+21750	28	28	0	Mississippi	452311	Warehouse clubs and supercenters	45	0400000US28	84.0	0.0	0.0
+21751	28	28	0	Mississippi	452319	All other general merchandise stores	45	0400000US28	951.0	8578.0	132625.0
+21752	28	28	0	Mississippi	452910	Warehouse clubs and supercenters	45	0400000US28	69.2	0.0	0.0
+21753	28	28	0	Mississippi	452990	All other general merchandise stores	45	0400000US28	889.2	7956.2	118865.0
+21754	28	28	0	Mississippi	453110	Florists	45	0400000US28	160.44444444444446	590.6666666666666	8712.888888888889
+21755	28	28	0	Mississippi	453210	Office supplies and stationery stores	45	0400000US28	60.666666666666664	437.55555555555554	12131.0
+21756	28	28	0	Mississippi	453220	Gift, novelty, and souvenir stores	45	0400000US28	173.44444444444446	963.4444444444445	12748.0
+21757	28	28	0	Mississippi	453310	Used merchandise stores	45	0400000US28	143.33333333333334	988.8888888888889	17296.777777777777
+21758	28	28	0	Mississippi	453910	Pet and pet supplies stores	45	0400000US28	43.44444444444444	449.22222222222223	10106.444444444445
+21759	28	28	0	Mississippi	453920	Art dealers	45	0400000US28	14.666666666666666	34.888888888888886	668.4444444444445
+21760	28	28	0	Mississippi	453930	Manufactured (mobile) home dealers	45	0400000US28	57.0	302.6666666666667	13314.666666666666
+21761	28	28	0	Mississippi	453991	Tobacco stores	45	0400000US28	151.33333333333334	653.6666666666666	10607.222222222223
+21762	28	28	0	Mississippi	453998	All other miscellaneous store retailers (except tobacco stores)	45	0400000US28	147.88888888888889	586.8888888888889	14624.777777777777
+21763	28	28	0	Mississippi	454110	Electronic shopping and mail-order houses	45	0400000US28	115.0	1066.0	53288.0
+21764	28	28	0	Mississippi	454111	Electronic shopping	45	0400000US28	64.4	486.2	15878.8
+21765	28	28	0	Mississippi	454112	Electronic auctions	45	0400000US28	1.6666666666666667	0.0	0.0
+21766	28	28	0	Mississippi	454113	Mail-order houses	45	0400000US28	25.0	442.6	23505.8
+21767	28	28	0	Mississippi	454210	Vending machine operators	45	0400000US28	40.55555555555556	251.22222222222223	9051.777777777777
+21768	28	28	0	Mississippi	454310	Fuel dealers	45	0400000US28	128.33333333333334	907.6666666666666	34288.77777777778
+21769	28	28	0	Mississippi	454390	Other direct selling establishments	45	0400000US28	143.22222222222223	600.8888888888889	18299.777777777777
+21770	28	28	0	Mississippi	481111	Scheduled passenger air transportation	48	0400000US28	8.666666666666666	73.0	2315.6666666666665
+21771	28	28	0	Mississippi	481112	Scheduled freight air transportation	48	0400000US28	2.0	0.0	0.0
+21772	28	28	0	Mississippi	481211	Nonscheduled chartered passenger air transportation	48	0400000US28	12.444444444444445	48.55555555555556	3172.8888888888887
+21773	28	28	0	Mississippi	481212	Nonscheduled chartered freight air transportation	48	0400000US28	1.2	0.0	0.0
+21774	28	28	0	Mississippi	481219	Other nonscheduled air transportation	48	0400000US28	12.11111111111111	23.11111111111111	1173.888888888889
+21775	28	28	0	Mississippi	483111	Deep sea freight transportation	48	0400000US28	1.2	0.0	0.0
+21776	28	28	0	Mississippi	483113	Coastal and great lakes freight transportation	48	0400000US28	3.7777777777777777	85.55555555555556	5751.777777777777
+21777	28	28	0	Mississippi	483114	Coastal and great lakes passenger transportation	48	0400000US28	1.0	0.0	0.0
+21778	28	28	0	Mississippi	483211	Inland water freight transportation	48	0400000US28	5.666666666666667	884.3333333333334	65579.11111111111
+21779	28	28	0	Mississippi	483212	Inland water passenger transportation	48	0400000US28	4.6	8.8	765.8
+21780	28	28	0	Mississippi	484110	General freight trucking, local	48	0400000US28	190.88888888888889	1703.111111111111	65559.66666666667
+21781	28	28	0	Mississippi	484121	General freight trucking, long-distance, truckload	48	0400000US28	409.3333333333333	6301.0	265381.44444444444
+21782	28	28	0	Mississippi	484122	General freight trucking, long-distance, less than truckload	48	0400000US28	71.44444444444444	2418.6666666666665	133598.44444444444
+21783	28	28	0	Mississippi	484210	Used household and office goods moving	48	0400000US28	38.55555555555556	519.4444444444445	16439.666666666668
+21784	28	28	0	Mississippi	484220	Specialized freight (except used goods) trucking, local	48	0400000US28	427.0	2385.8888888888887	88251.44444444444
+21785	28	28	0	Mississippi	484230	Specialized freight (except used goods) trucking, long-distance	48	0400000US28	138.55555555555554	2533.4444444444443	107962.77777777778
+21786	28	28	0	Mississippi	485113	Bus and other motor vehicle transit systems	48	0400000US28	4.333333333333333	109.22222222222223	2605.777777777778
+21787	28	28	0	Mississippi	485119	Other urban transit systems	48	0400000US28	1.0	0.0	0.0
+21788	28	28	0	Mississippi	485210	Interurban and rural bus transportation	48	0400000US28	5.111111111111111	189.22222222222223	4993.222222222223
+21789	28	28	0	Mississippi	485310	Taxi service	48	0400000US28	7.111111111111111	31.555555555555557	431.22222222222223
+21790	28	28	0	Mississippi	485320	Limousine service	48	0400000US28	5.777777777777778	0.0	0.0
+21791	28	28	0	Mississippi	485410	School and employee bus transportation	48	0400000US28	13.666666666666666	354.22222222222223	6020.777777777777
+21792	28	28	0	Mississippi	485510	Charter bus industry	48	0400000US28	6.333333333333333	100.33333333333333	2753.3333333333335
+21793	28	28	0	Mississippi	485991	Special needs transportation	48	0400000US28	29.555555555555557	548.7777777777778	11102.555555555555
+21794	28	28	0	Mississippi	485999	All other transit and ground passenger transportation	48	0400000US28	8.11111111111111	34.22222222222222	724.7777777777778
+21795	28	28	0	Mississippi	486110	Pipeline transportation of crude oil	48	0400000US28	18.22222222222222	145.0	14279.444444444445
+21796	28	28	0	Mississippi	486210	Pipeline transportation of natural gas	48	0400000US28	75.33333333333333	482.55555555555554	61173.555555555555
+21797	28	28	0	Mississippi	486910	Pipeline transportation of refined petroleum products	48	0400000US28	9.666666666666666	65.33333333333333	6032.777777777777
+21798	28	28	0	Mississippi	487110	Scenic and sightseeing transportation, land	48	0400000US28	2.3333333333333335	0.0	0.0
+21799	28	28	0	Mississippi	487210	Scenic and sightseeing transportation, water	48	0400000US28	10.88888888888889	15.555555555555555	743.1111111111111
+21800	28	28	0	Mississippi	488111	Air traffic control	48	0400000US28	6.0	0.0	0.0
+21801	28	28	0	Mississippi	488119	Other airport operations	48	0400000US28	20.11111111111111	288.77777777777777	9498.555555555555
+21802	28	28	0	Mississippi	488190	Other support activities for air transportation	48	0400000US28	29.11111111111111	612.2222222222222	36375.666666666664
+21803	28	28	0	Mississippi	488210	Support activities for rail transportation	48	0400000US28	16.333333333333332	152.11111111111111	5907.444444444444
+21804	28	28	0	Mississippi	488310	Port and harbor operations	48	0400000US28	2.2222222222222223	0.0	0.0
+21805	28	28	0	Mississippi	488320	Marine cargo handling	48	0400000US28	5.111111111111111	46.0	1994.6666666666667
+21806	28	28	0	Mississippi	488330	Navigational services to shipping	48	0400000US28	7.777777777777778	68.77777777777777	4341.111111111111
+21807	28	28	0	Mississippi	488390	Other support activities for water transportation	48	0400000US28	4.555555555555555	0.0	0.0
+21808	28	28	0	Mississippi	488410	Motor vehicle towing	48	0400000US28	73.77777777777777	339.55555555555554	12238.333333333334
+21809	28	28	0	Mississippi	488490	Other support activities for road transportation	48	0400000US28	17.11111111111111	245.66666666666666	6470.444444444444
+21810	28	28	0	Mississippi	488510	Freight transportation arrangement	48	0400000US28	96.77777777777777	1047.0	49155.555555555555
+21811	28	28	0	Mississippi	488991	Packing and crating	48	0400000US28	5.444444444444445	38.0	1150.7777777777778
+21812	28	28	0	Mississippi	488999	All other support activities for transportation	48	0400000US28	1.0	0.0	0.0
+21813	28	28	0	Mississippi	492110	Couriers and express delivery services	49	0400000US28	75.11111111111111	4453.333333333333	166896.33333333334
+21814	28	28	0	Mississippi	492210	Local messengers and local delivery	49	0400000US28	17.11111111111111	204.0	5818.666666666667
+21815	28	28	0	Mississippi	493110	General warehousing and storage	49	0400000US28	116.55555555555556	7863.666666666667	315505.77777777775
+21816	28	28	0	Mississippi	493120	Refrigerated warehousing and storage	49	0400000US28	15.88888888888889	225.33333333333334	9714.888888888889
+21817	28	28	0	Mississippi	493130	Farm product warehousing and storage	49	0400000US28	14.11111111111111	95.22222222222223	3011.1111111111113
+21818	28	28	0	Mississippi	493190	Other warehousing and storage	49	0400000US28	31.555555555555557	1188.7777777777778	53527.333333333336
+21819	28	28	0	Mississippi	511110	Newspaper publishers	51	0400000US28	105.11111111111111	1648.6666666666667	47205.666666666664
+21820	28	28	0	Mississippi	511120	Periodical publishers	51	0400000US28	24.11111111111111	106.11111111111111	4608.0
+21821	28	28	0	Mississippi	511130	Book publishers	51	0400000US28	2.7777777777777777	7.222222222222222	216.11111111111111
+21822	28	28	0	Mississippi	511140	Directory and mailing list publishers	51	0400000US28	4.777777777777778	9.666666666666666	510.6666666666667
+21823	28	28	0	Mississippi	511199	All other publishers	51	0400000US28	2.0	0.4444444444444444	33.333333333333336
+21824	28	28	0	Mississippi	511210	Software publishers	51	0400000US28	18.77777777777778	210.55555555555554	19494.0
+21825	28	28	0	Mississippi	512110	Motion picture and video production	51	0400000US28	13.444444444444445	29.77777777777778	1371.888888888889
+21826	28	28	0	Mississippi	512120	Motion picture and video distribution	51	0400000US28	1.0	0.0	0.0
+21827	28	28	0	Mississippi	512131	Motion picture theaters (except drive-ins)	51	0400000US28	27.88888888888889	446.1111111111111	4754.888888888889
+21828	28	28	0	Mississippi	512191	Teleproduction and other postproduction services	51	0400000US28	3.6	10.2	326.6
+21829	28	28	0	Mississippi	512210	Record production	51	0400000US28	1.0	0.0	0.0
+21830	28	28	0	Mississippi	512220	Integrated record production\/distribution	51	0400000US28	1.0	0.0	0.0
+21831	28	28	0	Mississippi	512240	Sound recording studios	51	0400000US28	1.6	0.0	0.0
+21832	28	28	0	Mississippi	515111	Radio networks	51	0400000US28	6.333333333333333	102.88888888888889	3926.8888888888887
+21833	28	28	0	Mississippi	515112	Radio stations	51	0400000US28	79.0	653.0	18752.555555555555
+21834	28	28	0	Mississippi	515120	Television broadcasting	51	0400000US28	26.22222222222222	886.2222222222222	39547.11111111111
+21835	28	28	0	Mississippi	515210	Cable and other subscription programming	51	0400000US28	1.0	0.0	0.0
+21836	28	28	0	Mississippi	517110	Wired telecommunications carriers	51	0400000US28	337.4	5030.8	266229.6
+21837	28	28	0	Mississippi	517210	Wireless telecommunications carriers (except satellite)	51	0400000US28	159.0	1056.0	57925.2
+21838	28	28	0	Mississippi	517311	Wired telecommunications carriers	51	0400000US28	322.0	4455.0	259071.0
+21839	28	28	0	Mississippi	517312	Wireless telecommunications carriers (except satellite)	51	0400000US28	222.0	2881.0	141849.0
+21840	28	28	0	Mississippi	517410	Satellite telecommunications	51	0400000US28	1.8888888888888888	0.0	0.0
+21841	28	28	0	Mississippi	517911	Telecommunications resellers	51	0400000US28	27.666666666666668	149.88888888888889	6587.333333333333
+21842	28	28	0	Mississippi	517919	All other telecommunications	51	0400000US28	10.88888888888889	56.22222222222222	2642.0
+21843	28	28	0	Mississippi	518210	Data processing, hosting, and related services	51	0400000US28	54.77777777777778	1432.6666666666667	51633.88888888889
+21844	28	28	0	Mississippi	519110	News syndicates	51	0400000US28	2.2	0.0	0.0
+21845	28	28	0	Mississippi	519120	Libraries and archives	51	0400000US28	14.555555555555555	21.333333333333332	378.6666666666667
+21846	28	28	0	Mississippi	519130	Internet publishing and broadcasting and web search portals	51	0400000US28	15.222222222222221	66.22222222222223	3423.5555555555557
+21847	28	28	0	Mississippi	519190	All other information services	51	0400000US28	5.0	15.333333333333334	531.8888888888889
+21848	28	28	0	Mississippi	521110	Monetary authorities - central bank	52	0400000US28	1.0	0.0	0.0
+21849	28	28	0	Mississippi	522110	Commercial banking	52	0400000US28	1180.2222222222222	14561.111111111111	798313.8888888889
+21850	28	28	0	Mississippi	522120	Savings institutions	52	0400000US28	16.0	183.44444444444446	8947.111111111111
+21851	28	28	0	Mississippi	522130	Credit unions	52	0400000US28	159.11111111111111	1613.7777777777778	64056.77777777778
+21852	28	28	0	Mississippi	522190	Other depository credit intermediation	52	0400000US28	2.0	0.0	0.0
+21853	28	28	0	Mississippi	522210	Credit card issuing	52	0400000US28	3.4	0.0	0.0
+21854	28	28	0	Mississippi	522220	Sales financing	52	0400000US28	28.77777777777778	190.11111111111111	11015.888888888889
+21855	28	28	0	Mississippi	522291	Consumer lending	52	0400000US28	526.1111111111111	2053.6666666666665	82537.77777777778
+21856	28	28	0	Mississippi	522292	Real estate credit	52	0400000US28	90.11111111111111	602.1111111111111	44938.22222222222
+21857	28	28	0	Mississippi	522293	International trade financing	52	0400000US28	1.0	0.0	0.0
+21858	28	28	0	Mississippi	522294	Secondary market financing	52	0400000US28	1.0	0.0	0.0
+21859	28	28	0	Mississippi	522298	All other nondepository credit intermediation	52	0400000US28	219.33333333333334	901.0	35911.666666666664
+21860	28	28	0	Mississippi	522310	Mortgage and nonmortgage loan brokers	52	0400000US28	13.222222222222221	44.55555555555556	3189.5555555555557
+21861	28	28	0	Mississippi	522320	Financial transactions processing, reserve, and clearinghouse activities	52	0400000US28	17.11111111111111	67.11111111111111	3904.3333333333335
+21862	28	28	0	Mississippi	522390	Other activities related to credit intermediation	52	0400000US28	558.4444444444445	1337.888888888889	36652.0
+21863	28	28	0	Mississippi	523110	Investment banking and securities dealing	52	0400000US28	10.555555555555555	31.0	4635.666666666667
+21864	28	28	0	Mississippi	523120	Securities brokerage	52	0400000US28	132.44444444444446	270.44444444444446	67321.33333333333
+21865	28	28	0	Mississippi	523130	Commodity contracts dealing	52	0400000US28	2.0	0.0	0.0
+21866	28	28	0	Mississippi	523140	Commodity contracts brokerage	52	0400000US28	3.0	4.2	226.2
+21867	28	28	0	Mississippi	523910	Miscellaneous intermediation	52	0400000US28	44.55555555555556	84.55555555555556	4159.555555555556
+21868	28	28	0	Mississippi	523920	Portfolio management	52	0400000US28	111.66666666666667	331.1111111111111	34688.666666666664
+21869	28	28	0	Mississippi	523930	Investment advice	52	0400000US28	57.0	135.33333333333334	11032.222222222223
+21870	28	28	0	Mississippi	523991	Trust, fiduciary, and custody activities	52	0400000US28	16.333333333333332	106.22222222222223	6744.666666666667
+21871	28	28	0	Mississippi	523999	Miscellaneous financial investment activities	52	0400000US28	7.888888888888889	8.222222222222221	517.4444444444445
+21872	28	28	0	Mississippi	524113	Direct life insurance carriers	52	0400000US28	59.22222222222222	1430.3333333333333	90747.0
+21873	28	28	0	Mississippi	524114	Direct health and medical insurance carriers	52	0400000US28	34.333333333333336	1453.6666666666667	92082.66666666667
+21874	28	28	0	Mississippi	524126	Direct property and casualty insurance carriers	52	0400000US28	98.88888888888889	1371.3333333333333	95887.33333333333
+21875	28	28	0	Mississippi	524127	Direct title insurance carriers	52	0400000US28	6.777777777777778	28.11111111111111	1763.2222222222222
+21876	28	28	0	Mississippi	524128	Other direct insurance (except life, health, and medical) carriers	52	0400000US28	8.2	0.0	0.0
+21877	28	28	0	Mississippi	524130	Reinsurance carriers	52	0400000US28	1.0	0.0	0.0
+21878	28	28	0	Mississippi	524210	Insurance agencies and brokerages	52	0400000US28	1211.111111111111	4599.555555555556	235921.55555555556
+21879	28	28	0	Mississippi	524291	Claims adjusting	52	0400000US28	26.77777777777778	66.55555555555556	3697.0
+21880	28	28	0	Mississippi	524292	Third party administration of insurance and pension funds	52	0400000US28	35.44444444444444	731.2222222222222	36970.0
+21881	28	28	0	Mississippi	524298	All other insurance related activities	52	0400000US28	14.11111111111111	145.55555555555554	6568.666666666667
+21882	28	28	0	Mississippi	525910	Open-end investment funds	52	0400000US28	2.4	0.0	0.0
+21883	28	28	0	Mississippi	525990	Other financial vehicles	52	0400000US28	3.2	0.0	0.0
+21884	28	28	0	Mississippi	531110	Lessors of residential buildings and dwellings	53	0400000US28	580.3333333333334	1895.111111111111	47963.555555555555
+21885	28	28	0	Mississippi	531120	Lessors of nonresidential buildings (except miniwarehouses)	53	0400000US28	194.88888888888889	665.8888888888889	29636.777777777777
+21886	28	28	0	Mississippi	531130	Lessors of miniwarehouses and self-storage units	53	0400000US28	155.22222222222223	335.3333333333333	8036.555555555556
+21887	28	28	0	Mississippi	531190	Lessors of other real estate property	53	0400000US28	59.333333333333336	167.55555555555554	4614.555555555556
+21888	28	28	0	Mississippi	531210	Offices of real estate agents and brokers	53	0400000US28	426.0	891.5555555555555	34102.555555555555
+21889	28	28	0	Mississippi	531311	Residential property managers	53	0400000US28	207.66666666666666	1860.3333333333333	58474.77777777778
+21890	28	28	0	Mississippi	531312	Nonresidential property managers	53	0400000US28	66.0	270.3333333333333	12070.111111111111
+21891	28	28	0	Mississippi	531320	Offices of real estate appraisers	53	0400000US28	85.44444444444444	131.55555555555554	5828.777777777777
+21892	28	28	0	Mississippi	531390	Other activities related to real estate	53	0400000US28	36.333333333333336	58.333333333333336	3590.8888888888887
+21893	28	28	0	Mississippi	532111	Passenger car rental	53	0400000US28	74.22222222222223	396.8888888888889	9209.888888888889
+21894	28	28	0	Mississippi	532112	Passenger car leasing	53	0400000US28	2.7777777777777777	0.1111111111111111	158.77777777777777
+21895	28	28	0	Mississippi	532120	Truck, utility trailer, and RV (recreational vehicle) rental and leasing	53	0400000US28	50.22222222222222	364.55555555555554	16668.0
+21896	28	28	0	Mississippi	532210	Consumer electronics and appliances rental	53	0400000US28	158.11111111111111	675.0	24211.11111111111
+21897	28	28	0	Mississippi	532220	Formal wear and costume rental	53	0400000US28	15.6	81.0	953.0
+21898	28	28	0	Mississippi	532230	Video tape and disc rental	53	0400000US28	18.0	48.0	509.6
+21899	28	28	0	Mississippi	532281	Formal wear and costume rental	53	0400000US28	16.0	83.0	1236.0
+21900	28	28	0	Mississippi	532282	Video tape and disc rental	53	0400000US28	4.0	11.0	90.0
+21901	28	28	0	Mississippi	532283	Home health equipment rental	53	0400000US28	31.0	240.0	10092.0
+21902	28	28	0	Mississippi	532284	Recreational goods rental	53	0400000US28	5.0	10.0	115.0
+21903	28	28	0	Mississippi	532289	All other consumer goods rental	53	0400000US28	68.0	396.0	9717.0
+21904	28	28	0	Mississippi	532291	Home health equipment rental	53	0400000US28	42.2	274.8	9533.0
+21905	28	28	0	Mississippi	532292	Recreational goods rental	53	0400000US28	5.6	12.6	230.4
+21906	28	28	0	Mississippi	532299	All other consumer goods rental	53	0400000US28	47.4	280.0	7621.0
+21907	28	28	0	Mississippi	532310	General rental centers	53	0400000US28	33.44444444444444	227.0	7201.777777777777
+21908	28	28	0	Mississippi	532411	Commercial air, rail, and water transportation equipment rental and leasing	53	0400000US28	6.333333333333333	25.77777777777778	2705.0
+21909	28	28	0	Mississippi	532412	Construction, mining, and forestry machinery and equipment rental and leasing	53	0400000US28	46.333333333333336	432.8888888888889	27564.333333333332
+21910	28	28	0	Mississippi	532420	Office machinery and equipment rental and leasing	53	0400000US28	2.7777777777777777	0.3333333333333333	15.333333333333334
+21911	28	28	0	Mississippi	532490	Other commercial and industrial machinery and equipment rental and leasing	53	0400000US28	52.888888888888886	311.77777777777777	14337.444444444445
+21912	28	28	0	Mississippi	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	53	0400000US28	16.555555555555557	126.22222222222223	10057.0
+21913	28	28	0	Mississippi	541110	Offices of lawyers	54	0400000US28	1420.888888888889	6735.0	414027.55555555556
+21914	28	28	0	Mississippi	541191	Title abstract and settlement offices	54	0400000US28	51.44444444444444	236.55555555555554	10347.111111111111
+21915	28	28	0	Mississippi	541199	All other legal services	54	0400000US28	7.0	21.8	563.2
+21916	28	28	0	Mississippi	541211	Offices of certified public accountants	54	0400000US28	404.6666666666667	2772.0	145016.88888888888
+21917	28	28	0	Mississippi	541213	Tax preparation services	54	0400000US28	263.55555555555554	1657.888888888889	13580.444444444445
+21918	28	28	0	Mississippi	541214	Payroll services	54	0400000US28	41.55555555555556	1116.2222222222222	38805.333333333336
+21919	28	28	0	Mississippi	541219	Other accounting services	54	0400000US28	200.33333333333334	1489.111111111111	43676.444444444445
+21920	28	28	0	Mississippi	541310	Architectural services	54	0400000US28	94.44444444444444	586.3333333333334	39070.11111111111
+21921	28	28	0	Mississippi	541320	Landscape architectural services	54	0400000US28	17.77777777777778	54.77777777777778	1595.2222222222222
+21922	28	28	0	Mississippi	541330	Engineering services	54	0400000US28	337.1111111111111	3787.1111111111113	247226.77777777778
+21923	28	28	0	Mississippi	541340	Drafting services	54	0400000US28	19.88888888888889	33.44444444444444	2212.5555555555557
+21924	28	28	0	Mississippi	541350	Building inspection services	54	0400000US28	23.444444444444443	31.555555555555557	1113.2222222222222
+21925	28	28	0	Mississippi	541360	Geophysical surveying and mapping services	54	0400000US28	11.11111111111111	22.666666666666668	1087.5555555555557
+21926	28	28	0	Mississippi	541370	Surveying and mapping (except geophysical) services	54	0400000US28	91.44444444444444	410.6666666666667	17452.555555555555
+21927	28	28	0	Mississippi	541380	Testing laboratories	54	0400000US28	46.333333333333336	354.77777777777777	15220.666666666666
+21928	28	28	0	Mississippi	541410	Interior design services	54	0400000US28	35.333333333333336	120.88888888888889	4016.3333333333335
+21929	28	28	0	Mississippi	541420	Industrial design services	54	0400000US28	3.888888888888889	1.4444444444444444	99.11111111111111
+21930	28	28	0	Mississippi	541430	Graphic design services	54	0400000US28	33.0	96.77777777777777	2810.3333333333335
+21931	28	28	0	Mississippi	541490	Other specialized design services	54	0400000US28	2.8	0.0	55.2
+21932	28	28	0	Mississippi	541511	Custom computer programming services	54	0400000US28	123.88888888888889	826.4444444444445	64651.0
+21933	28	28	0	Mississippi	541512	Computer systems design services	54	0400000US28	226.66666666666666	2199.3333333333335	147446.55555555556
+21934	28	28	0	Mississippi	541513	Computer facilities management services	54	0400000US28	50.22222222222222	312.8888888888889	23631.88888888889
+21935	28	28	0	Mississippi	541519	Other computer related services	54	0400000US28	17.555555555555557	40.55555555555556	2935.777777777778
+21936	28	28	0	Mississippi	541611	Administrative management and general management consulting services	54	0400000US28	197.22222222222223	831.3333333333334	56008.444444444445
+21937	28	28	0	Mississippi	541612	Human resources consulting services	54	0400000US28	27.88888888888889	306.3333333333333	14362.777777777777
+21938	28	28	0	Mississippi	541613	Marketing consulting services	54	0400000US28	77.44444444444444	174.33333333333334	7619.333333333333
+21939	28	28	0	Mississippi	541614	Process, physical distribution, and logistics consulting services	54	0400000US28	34.0	396.22222222222223	21927.555555555555
+21940	28	28	0	Mississippi	541618	Other management consulting services	54	0400000US28	8.555555555555555	19.77777777777778	656.5555555555555
+21941	28	28	0	Mississippi	541620	Environmental consulting services	54	0400000US28	51.77777777777778	253.33333333333334	13666.333333333334
+21942	28	28	0	Mississippi	541690	Other scientific and technical consulting services	54	0400000US28	203.77777777777777	577.6666666666666	28567.555555555555
+21943	28	28	0	Mississippi	541711	Research and development in biotechnology	54	0400000US28	3.6	4.0	275.8
+21944	28	28	0	Mississippi	541712	Research and development in the physical, engineering, and life sciences (except biotechnology)	54	0400000US28	45.6	626.6	39957.6
+21945	28	28	0	Mississippi	541713	Research and development in nanotechnology	54	0400000US28	9.0	142.0	10377.0
+21946	28	28	0	Mississippi	541715	Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)	54	0400000US28	27.0	218.0	14670.0
+21947	28	28	0	Mississippi	541720	Research and development in the social sciences and humanities	54	0400000US28	3.7777777777777777	10.444444444444445	884.8888888888889
+21948	28	28	0	Mississippi	541810	Advertising agencies	54	0400000US28	48.666666666666664	372.8888888888889	18134.444444444445
+21949	28	28	0	Mississippi	541820	Public relations agencies	54	0400000US28	34.0	61.77777777777778	5192.777777777777
+21950	28	28	0	Mississippi	541830	Media buying agencies	54	0400000US28	1.0	0.0	0.0
+21951	28	28	0	Mississippi	541840	Media representatives	54	0400000US28	2.2	0.0	0.0
+21952	28	28	0	Mississippi	541850	Outdoor advertising	54	0400000US28	20.77777777777778	107.22222222222223	5622.444444444444
+21953	28	28	0	Mississippi	541860	Direct mail advertising	54	0400000US28	5.777777777777778	14.88888888888889	656.6666666666666
+21954	28	28	0	Mississippi	541870	Advertising material distribution services	54	0400000US28	1.25	0.0	0.0
+21955	28	28	0	Mississippi	541890	Other services related to advertising	54	0400000US28	33.55555555555556	337.22222222222223	6230.888888888889
+21956	28	28	0	Mississippi	541910	Marketing research and public opinion polling	54	0400000US28	4.444444444444445	16.444444444444443	991.5555555555555
+21957	28	28	0	Mississippi	541921	Photography studios, portrait	54	0400000US28	74.44444444444444	221.22222222222223	3845.3333333333335
+21958	28	28	0	Mississippi	541922	Commercial photography	54	0400000US28	5.555555555555555	14.88888888888889	633.2222222222222
+21959	28	28	0	Mississippi	541930	Translation and interpretation services	54	0400000US28	2.4	1.2	48.2
+21960	28	28	0	Mississippi	541940	Veterinary services	54	0400000US28	278.1111111111111	2556.6666666666665	75872.44444444444
+21961	28	28	0	Mississippi	541990	All other professional, scientific, and technical services	54	0400000US28	58.55555555555556	167.44444444444446	11622.777777777777
+21962	28	28	0	Mississippi	551111	Offices of bank holding companies	55	0400000US28	10.444444444444445	129.66666666666666	7956.111111111111
+21963	28	28	0	Mississippi	551112	Offices of other holding companies	55	0400000US28	32.0	255.11111111111111	30947.333333333332
+21964	28	28	0	Mississippi	551114	Corporate, subsidiary, and regional managing offices	55	0400000US28	302.44444444444446	7998.222222222223	552989.8888888889
+21965	28	28	0	Mississippi	561110	Office administrative services	56	0400000US28	121.66666666666667	1321.3333333333333	70944.33333333333
+21966	28	28	0	Mississippi	561210	Facilities support services	56	0400000US28	39.55555555555556	4170.111111111111	125655.88888888889
+21967	28	28	0	Mississippi	561311	Employment placement agencies	56	0400000US28	14.88888888888889	645.0	13261.0
+21968	28	28	0	Mississippi	561312	Executive search services	56	0400000US28	4.444444444444445	3.3333333333333335	101.44444444444444
+21969	28	28	0	Mississippi	561320	Temporary help services	56	0400000US28	248.55555555555554	22107.11111111111	496729.55555555556
+21970	28	28	0	Mississippi	561330	Professional employer organizations	56	0400000US28	10.777777777777779	4072.4444444444443	133482.77777777778
+21971	28	28	0	Mississippi	561410	Document preparation services	56	0400000US28	18.11111111111111	184.22222222222223	4831.777777777777
+21972	28	28	0	Mississippi	561421	Telephone answering services	56	0400000US28	8.555555555555555	112.11111111111111	3383.6666666666665
+21973	28	28	0	Mississippi	561422	Telemarketing bureaus and other contact centers	56	0400000US28	15.0	1014.1111111111111	23440.222222222223
+21974	28	28	0	Mississippi	561431	Private mail centers	56	0400000US28	21.444444444444443	85.88888888888889	2150.777777777778
+21975	28	28	0	Mississippi	561439	Other business service centers (including copy shops)	56	0400000US28	22.555555555555557	147.77777777777777	4486.111111111111
+21976	28	28	0	Mississippi	561440	Collection agencies	56	0400000US28	30.0	451.1111111111111	18307.11111111111
+21977	28	28	0	Mississippi	561450	Credit bureaus	56	0400000US28	2.0	0.0	0.0
+21978	28	28	0	Mississippi	561491	Repossession services	56	0400000US28	11.666666666666666	192.22222222222223	4839.0
+21979	28	28	0	Mississippi	561492	Court reporting and stenotype services	56	0400000US28	19.11111111111111	26.88888888888889	1108.3333333333333
+21980	28	28	0	Mississippi	561499	All other business support services	56	0400000US28	10.88888888888889	19.444444444444443	708.5555555555555
+21981	28	28	0	Mississippi	561510	Travel agencies	56	0400000US28	37.22222222222222	66.55555555555556	2842.0
+21982	28	28	0	Mississippi	561520	Tour operators	56	0400000US28	5.111111111111111	8.222222222222221	228.44444444444446
+21983	28	28	0	Mississippi	561591	Convention and visitors bureaus	56	0400000US28	5.333333333333333	10.333333333333334	411.3333333333333
+21984	28	28	0	Mississippi	561599	All other travel arrangement and reservation services	56	0400000US28	4.777777777777778	17.555555555555557	440.6666666666667
+21985	28	28	0	Mississippi	561611	Investigation services	56	0400000US28	19.555555555555557	60.22222222222222	2699.1111111111113
+21986	28	28	0	Mississippi	561612	Security guards and patrol services	56	0400000US28	88.22222222222223	4276.555555555556	80902.33333333333
+21987	28	28	0	Mississippi	561613	Armored car services	56	0400000US28	5.333333333333333	0.0	0.0
+21988	28	28	0	Mississippi	561621	Security systems services (except locksmiths)	56	0400000US28	67.44444444444444	557.3333333333334	18411.777777777777
+21989	28	28	0	Mississippi	561622	Locksmiths	56	0400000US28	22.555555555555557	56.44444444444444	1896.888888888889
+21990	28	28	0	Mississippi	561710	Exterminating and pest control services	56	0400000US28	176.33333333333334	1145.888888888889	40534.0
+21991	28	28	0	Mississippi	561720	Janitorial services	56	0400000US28	324.1111111111111	5451.0	76728.66666666667
+21992	28	28	0	Mississippi	561730	Landscaping services	56	0400000US28	521.0	2977.222222222222	89321.33333333333
+21993	28	28	0	Mississippi	561740	Carpet and upholstery cleaning services	56	0400000US28	38.77777777777778	197.77777777777777	5093.0
+21994	28	28	0	Mississippi	561790	Other services to buildings and dwellings	56	0400000US28	45.0	127.77777777777777	3775.1111111111113
+21995	28	28	0	Mississippi	561910	Packaging and labeling services	56	0400000US28	3.2222222222222223	0.7777777777777778	78.33333333333333
+21996	28	28	0	Mississippi	561920	Convention and trade show organizers	56	0400000US28	10.555555555555555	104.22222222222223	2784.0
+21997	28	28	0	Mississippi	561990	All other support services	56	0400000US28	87.0	1274.4444444444443	42209.666666666664
+21998	28	28	0	Mississippi	562111	Solid waste collection	56	0400000US28	82.55555555555556	1207.0	71090.0
+21999	28	28	0	Mississippi	562112	Hazardous waste collection	56	0400000US28	2.0	0.0	0.0
+22000	28	28	0	Mississippi	562119	Other waste collection	56	0400000US28	3.7777777777777777	5.222222222222222	456.0
+22001	28	28	0	Mississippi	562211	Hazardous waste treatment and disposal	56	0400000US28	7.444444444444445	46.666666666666664	2126.3333333333335
+22002	28	28	0	Mississippi	562212	Solid waste landfill	56	0400000US28	28.22222222222222	143.11111111111111	7434.333333333333
+22003	28	28	0	Mississippi	562213	Solid waste combustors and incinerators	56	0400000US28	1.0	0.0	0.0
+22004	28	28	0	Mississippi	562219	Other nonhazardous waste treatment and disposal	56	0400000US28	2.6	2.8	316.0
+22005	28	28	0	Mississippi	562910	Remediation services	56	0400000US28	29.444444444444443	377.1111111111111	18085.222222222223
+22006	28	28	0	Mississippi	562920	Materials recovery facilities	56	0400000US28	5.0	45.0	1724.5555555555557
+22007	28	28	0	Mississippi	562991	Septic tank and related services	56	0400000US28	26.77777777777778	113.11111111111111	3614.4444444444443
+22008	28	28	0	Mississippi	562998	All other miscellaneous waste management services	56	0400000US28	5.444444444444445	66.44444444444444	2879.4444444444443
+22009	28	28	0	Mississippi	611110	Elementary and secondary schools	61	0400000US28	262.77777777777777	9341.333333333334	218489.11111111112
+22010	28	28	0	Mississippi	611210	Junior colleges	61	0400000US28	5.555555555555555	97.88888888888889	3283.777777777778
+22011	28	28	0	Mississippi	611310	Colleges, universities, and professional schools	61	0400000US28	26.0	5456.555555555556	131365.0
+22012	28	28	0	Mississippi	611420	Computer training	61	0400000US28	5.777777777777778	32.0	650.5555555555555
+22013	28	28	0	Mississippi	611430	Professional and management development training	61	0400000US28	20.0	35.22222222222222	1787.111111111111
+22014	28	28	0	Mississippi	611511	Cosmetology and barber schools	61	0400000US28	14.777777777777779	95.0	2662.777777777778
+22015	28	28	0	Mississippi	611512	Flight training	61	0400000US28	6.333333333333333	35.77777777777778	1856.111111111111
+22016	28	28	0	Mississippi	611513	Apprenticeship training	61	0400000US28	8.777777777777779	29.666666666666668	763.4444444444445
+22017	28	28	0	Mississippi	611519	Other technical and trade schools	61	0400000US28	24.88888888888889	332.77777777777777	14449.222222222223
+22018	28	28	0	Mississippi	611610	Fine arts schools	61	0400000US28	61.77777777777778	326.3333333333333	2936.5555555555557
+22019	28	28	0	Mississippi	611620	Sports and recreation instruction	61	0400000US28	56.44444444444444	311.1111111111111	3414.1111111111113
+22020	28	28	0	Mississippi	611630	Language schools	61	0400000US28	1.0	0.0	0.0
+22021	28	28	0	Mississippi	611691	Exam preparation and tutoring	61	0400000US28	39.333333333333336	452.8888888888889	9599.888888888889
+22022	28	28	0	Mississippi	611692	Automobile driving schools	61	0400000US28	4.111111111111111	23.0	286.1111111111111
+22023	28	28	0	Mississippi	611699	All other miscellaneous schools and instruction	61	0400000US28	16.22222222222222	36.666666666666664	728.6666666666666
+22024	28	28	0	Mississippi	611710	Educational support services	61	0400000US28	47.77777777777778	203.66666666666666	7316.222222222223
+22025	28	28	0	Mississippi	621111	Offices of physicians (except mental health specialists)	62	0400000US28	1602.111111111111	19051.777777777777	1467186.7777777778
+22026	28	28	0	Mississippi	621112	Offices of physicians, mental health specialists	62	0400000US28	41.22222222222222	160.66666666666666	8957.888888888889
+22027	28	28	0	Mississippi	621210	Offices of dentists	62	0400000US28	885.1111111111111	5700.444444444444	259781.22222222222
+22028	28	28	0	Mississippi	621310	Offices of chiropractors	62	0400000US28	148.44444444444446	495.6666666666667	15608.222222222223
+22029	28	28	0	Mississippi	621320	Offices of optometrists	62	0400000US28	194.88888888888889	1182.6666666666667	40017.555555555555
+22030	28	28	0	Mississippi	621330	Offices of mental health practitioners (except physicians)	62	0400000US28	92.11111111111111	239.11111111111111	8037.0
+22031	28	28	0	Mississippi	621340	Offices of physical, occupational and speech therapists, and audiologists	62	0400000US28	326.8888888888889	3257.0	126123.66666666667
+22032	28	28	0	Mississippi	621391	Offices of podiatrists	62	0400000US28	32.0	137.22222222222223	5274.666666666667
+22033	28	28	0	Mississippi	621399	Offices of all other miscellaneous health practitioners	62	0400000US28	199.11111111111111	808.3333333333334	34548.0
+22034	28	28	0	Mississippi	621410	Family planning centers	62	0400000US28	19.666666666666668	52.22222222222222	1391.5555555555557
+22035	28	28	0	Mississippi	621420	Outpatient mental health and substance abuse centers	62	0400000US28	43.55555555555556	1224.2222222222222	38047.666666666664
+22036	28	28	0	Mississippi	621491	HMO medical centers	62	0400000US28	2.25	0.0	0.0
+22037	28	28	0	Mississippi	621492	Kidney dialysis centers	62	0400000US28	89.55555555555556	1059.3333333333333	53963.333333333336
+22038	28	28	0	Mississippi	621493	Freestanding ambulatory surgical and emergency centers	62	0400000US28	60.888888888888886	1229.4444444444443	47004.0
+22039	28	28	0	Mississippi	621498	All other outpatient care centers	62	0400000US28	128.77777777777777	2057.8888888888887	99309.11111111111
+22040	28	28	0	Mississippi	621511	Medical laboratories	62	0400000US28	81.55555555555556	825.5555555555555	42844.666666666664
+22041	28	28	0	Mississippi	621512	Diagnostic imaging centers	62	0400000US28	38.333333333333336	287.77777777777777	17946.88888888889
+22042	28	28	0	Mississippi	621610	Home health care services	62	0400000US28	259.44444444444446	7725.222222222223	284382.22222222225
+22043	28	28	0	Mississippi	621910	Ambulance services	62	0400000US28	42.111111111111114	1199.0	47987.88888888889
+22044	28	28	0	Mississippi	621991	Blood and organ banks	62	0400000US28	13.444444444444445	403.44444444444446	14233.111111111111
+22045	28	28	0	Mississippi	621999	All other miscellaneous ambulatory health care services	62	0400000US28	27.22222222222222	133.33333333333334	7255.555555555556
+22046	28	28	0	Mississippi	622110	General medical and surgical hospitals	62	0400000US28	89.66666666666667	64856.555555555555	3485728.6666666665
+22047	28	28	0	Mississippi	622210	Psychiatric and substance abuse hospitals	62	0400000US28	6.333333333333333	3895.3333333333335	144379.44444444444
+22048	28	28	0	Mississippi	622310	Specialty (except psychiatric and substance abuse) hospitals	62	0400000US28	10.333333333333334	1369.6666666666667	64319.555555555555
+22049	28	28	0	Mississippi	623110	Nursing care facilities (skilled nursing facilities)	62	0400000US28	190.0	17475.222222222223	474394.55555555556
+22050	28	28	0	Mississippi	623210	Residential intellectual and developmental disability facilities	62	0400000US28	24.444444444444443	897.5555555555555	18519.555555555555
+22051	28	28	0	Mississippi	623220	Residential mental health and substance abuse facilities	62	0400000US28	25.333333333333332	907.8888888888889	26098.555555555555
+22052	28	28	0	Mississippi	623311	Continuing care retirement communities	62	0400000US28	39.888888888888886	1115.7777777777778	23937.555555555555
+22053	28	28	0	Mississippi	623312	Assisted living facilities for the elderly	62	0400000US28	112.77777777777777	2452.5555555555557	44558.88888888889
+22054	28	28	0	Mississippi	623990	Other residential care facilities	62	0400000US28	29.0	606.5555555555555	15957.444444444445
+22055	28	28	0	Mississippi	624110	Child and youth services	62	0400000US28	61.22222222222222	538.4444444444445	13612.222222222223
+22056	28	28	0	Mississippi	624120	Services for the elderly and persons with disabilities	62	0400000US28	188.22222222222223	5928.666666666667	97379.55555555556
+22057	28	28	0	Mississippi	624190	Other individual and family services	62	0400000US28	204.33333333333334	2322.0	61413.77777777778
+22058	28	28	0	Mississippi	624210	Community food services	62	0400000US28	35.111111111111114	186.33333333333334	4436.555555555556
+22059	28	28	0	Mississippi	624221	Temporary shelters	62	0400000US28	23.555555555555557	307.8888888888889	7445.333333333333
+22060	28	28	0	Mississippi	624229	Other community housing services	62	0400000US28	42.22222222222222	238.33333333333334	8160.0
+22061	28	28	0	Mississippi	624230	Emergency and other relief services	62	0400000US28	7.333333333333333	41.22222222222222	1484.111111111111
+22062	28	28	0	Mississippi	624310	Vocational rehabilitation services	62	0400000US28	61.666666666666664	3299.3333333333335	46829.11111111111
+22063	28	28	0	Mississippi	624410	Child day care services	62	0400000US28	790.1111111111111	9246.222222222223	142832.22222222222
+22064	28	28	0	Mississippi	711110	Theater companies and dinner theaters	71	0400000US28	8.11111111111111	37.44444444444444	752.4444444444445
+22065	28	28	0	Mississippi	711120	Dance companies	71	0400000US28	3.4	0.0	0.0
+22066	28	28	0	Mississippi	711130	Musical groups and artists	71	0400000US28	11.88888888888889	91.0	1516.0
+22067	28	28	0	Mississippi	711190	Other performing arts companies	71	0400000US28	2.0	0.0	0.0
+22068	28	28	0	Mississippi	711211	Sports teams and clubs	71	0400000US28	3.888888888888889	16.77777777777778	2161.8888888888887
+22069	28	28	0	Mississippi	711212	Racetracks	71	0400000US28	3.0	0.0	0.0
+22070	28	28	0	Mississippi	711219	Other spectator sports	71	0400000US28	4.2	2.4	680.8
+22071	28	28	0	Mississippi	711310	Promoters of performing arts, sports, and similar events with facilities	71	0400000US28	8.666666666666666	39.55555555555556	1031.111111111111
+22072	28	28	0	Mississippi	711320	Promoters of performing arts, sports, and similar events without facilities	71	0400000US28	11.222222222222221	39.111111111111114	1656.3333333333333
+22073	28	28	0	Mississippi	711410	Agents and managers for artists, athletes, entertainers, and other public figures	71	0400000US28	2.8	0.0	0.0
+22074	28	28	0	Mississippi	711510	Independent artists, writers, and performers	71	0400000US28	31.333333333333332	46.333333333333336	5691.222222222223
+22075	28	28	0	Mississippi	712110	Museums	71	0400000US28	42.111111111111114	378.6666666666667	9661.777777777777
+22076	28	28	0	Mississippi	712120	Historical sites	71	0400000US28	15.777777777777779	91.0	1354.4444444444443
+22077	28	28	0	Mississippi	712130	Zoos and botanical gardens	71	0400000US28	1.4	0.0	0.0
+22078	28	28	0	Mississippi	712190	Nature parks and other similar institutions	71	0400000US28	4.555555555555555	13.333333333333334	299.6666666666667
+22079	28	28	0	Mississippi	713110	Amusement and theme parks	71	0400000US28	2.888888888888889	2.3333333333333335	171.55555555555554
+22080	28	28	0	Mississippi	713120	Amusement arcades	71	0400000US28	22.0	167.55555555555554	1253.0
+22081	28	28	0	Mississippi	713210	Casinos (except casino hotels)	71	0400000US28	4.111111111111111	749.6666666666666	19978.88888888889
+22082	28	28	0	Mississippi	713290	Other gambling industries	71	0400000US28	7.555555555555555	58.111111111111114	1286.6666666666667
+22083	28	28	0	Mississippi	713910	Golf courses and country clubs	71	0400000US28	109.22222222222223	2070.8888888888887	41790.333333333336
+22084	28	28	0	Mississippi	713930	Marinas	71	0400000US28	17.0	194.55555555555554	5079.666666666667
+22085	28	28	0	Mississippi	713940	Fitness and recreational sports centers	71	0400000US28	243.0	2783.777777777778	33943.0
+22086	28	28	0	Mississippi	713950	Bowling centers	71	0400000US28	22.88888888888889	330.77777777777777	3806.5555555555557
+22087	28	28	0	Mississippi	713990	All other amusement and recreation industries	71	0400000US28	99.33333333333333	607.5555555555555	12437.666666666666
+22088	28	28	0	Mississippi	721110	Hotels (except casino hotels) and motels	72	0400000US28	661.8888888888889	9173.666666666666	141827.33333333334
+22089	28	28	0	Mississippi	721120	Casino hotels	72	0400000US28	26.88888888888889	22628.222222222223	673844.6666666666
+22090	28	28	0	Mississippi	721191	Bed-and-breakfast inns	72	0400000US28	34.22222222222222	319.6666666666667	5025.333333333333
+22091	28	28	0	Mississippi	721199	All other traveler accommodation	72	0400000US28	4.444444444444445	5.333333333333333	100.44444444444444
+22092	28	28	0	Mississippi	721211	RV (recreational vehicle) parks and campgrounds	72	0400000US28	22.77777777777778	92.11111111111111	2126.1111111111113
+22093	28	28	0	Mississippi	721214	Recreational and vacation camps (except campgrounds)	72	0400000US28	16.444444444444443	89.77777777777777	2725.4444444444443
+22094	28	28	0	Mississippi	721310	Rooming and boarding houses	72	0400000US28	28.22222222222222	121.22222222222223	2741.1111111111113
+22095	28	28	0	Mississippi	722310	Food service contractors	72	0400000US28	204.55555555555554	4831.555555555556	94484.55555555556
+22096	28	28	0	Mississippi	722320	Caterers	72	0400000US28	45.77777777777778	227.88888888888889	3996.5555555555557
+22097	28	28	0	Mississippi	722330	Mobile food services	72	0400000US28	15.666666666666666	55.333333333333336	675.7777777777778
+22098	28	28	0	Mississippi	722410	Drinking places (alcoholic beverages)	72	0400000US28	103.33333333333333	746.2222222222222	10061.444444444445
+22099	28	28	0	Mississippi	722511	Full-service restaurants	72	0400000US28	1706.888888888889	34181.77777777778	493424.1111111111
+22100	28	28	0	Mississippi	722513	Limited-service restaurants	72	0400000US28	2204.6666666666665	48623.555555555555	562731.7777777778
+22101	28	28	0	Mississippi	722514	Cafeterias, grill buffets, and buffets	72	0400000US28	133.11111111111111	1923.111111111111	30366.444444444445
+22102	28	28	0	Mississippi	722515	Snack and nonalcoholic beverage bars	72	0400000US28	281.8888888888889	2316.1111111111113	28301.11111111111
+22103	28	28	0	Mississippi	811111	General automotive repair	81	0400000US28	517.5555555555555	2061.0	65058.555555555555
+22104	28	28	0	Mississippi	811112	Automotive exhaust system repair	81	0400000US28	18.666666666666668	43.111111111111114	1233.0
+22105	28	28	0	Mississippi	811113	Automotive transmission repair	81	0400000US28	44.111111111111114	170.22222222222223	6050.111111111111
+22106	28	28	0	Mississippi	811118	Other automotive mechanical and electrical repair and maintenance	81	0400000US28	40.77777777777778	189.66666666666666	5567.555555555556
+22107	28	28	0	Mississippi	811121	Automotive body, paint, and interior repair and maintenance	81	0400000US28	309.55555555555554	1780.7777777777778	74108.0
+22108	28	28	0	Mississippi	811122	Automotive glass replacement shops	81	0400000US28	86.88888888888889	416.44444444444446	14626.555555555555
+22109	28	28	0	Mississippi	811191	Automotive oil change and lubrication shops	81	0400000US28	134.22222222222223	805.3333333333334	19783.666666666668
+22110	28	28	0	Mississippi	811192	Car washes	81	0400000US28	95.11111111111111	568.0	11318.111111111111
+22111	28	28	0	Mississippi	811198	All other automotive repair and maintenance	81	0400000US28	18.11111111111111	309.6666666666667	12730.222222222223
+22112	28	28	0	Mississippi	811211	Consumer electronics repair and maintenance	81	0400000US28	7.0	8.444444444444445	195.77777777777777
+22113	28	28	0	Mississippi	811212	Computer and office machine repair and maintenance	81	0400000US28	30.22222222222222	84.44444444444444	3406.777777777778
+22114	28	28	0	Mississippi	811213	Communication equipment repair and maintenance	81	0400000US28	21.88888888888889	157.88888888888889	7500.0
+22115	28	28	0	Mississippi	811219	Other electronic and precision equipment repair and maintenance	81	0400000US28	18.88888888888889	104.33333333333333	6402.666666666667
+22116	28	28	0	Mississippi	811310	Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance	81	0400000US28	198.44444444444446	1540.0	71696.66666666667
+22117	28	28	0	Mississippi	811411	Home and garden equipment repair and maintenance	81	0400000US28	25.88888888888889	68.66666666666667	1567.888888888889
+22118	28	28	0	Mississippi	811412	Appliance repair and maintenance	81	0400000US28	34.55555555555556	107.0	2951.3333333333335
+22119	28	28	0	Mississippi	811420	Reupholstery and furniture repair	81	0400000US28	12.333333333333334	17.88888888888889	318.77777777777777
+22120	28	28	0	Mississippi	811430	Footwear and leather goods repair	81	0400000US28	5.111111111111111	15.222222222222221	414.1111111111111
+22121	28	28	0	Mississippi	811490	Other personal and household goods repair and maintenance	81	0400000US28	52.44444444444444	152.55555555555554	4510.333333333333
+22122	28	28	0	Mississippi	812111	Barber shops	81	0400000US28	14.0	43.22222222222222	1287.4444444444443
+22123	28	28	0	Mississippi	812112	Beauty salons	81	0400000US28	306.44444444444446	1259.5555555555557	28522.555555555555
+22124	28	28	0	Mississippi	812113	Nail salons	81	0400000US28	70.44444444444444	189.88888888888889	4827.666666666667
+22125	28	28	0	Mississippi	812191	Diet and weight reducing centers	81	0400000US28	24.666666666666668	103.66666666666667	1151.3333333333333
+22126	28	28	0	Mississippi	812199	Other personal care services	81	0400000US28	93.44444444444444	545.2222222222222	7689.888888888889
+22127	28	28	0	Mississippi	812210	Funeral homes and funeral services	81	0400000US28	229.44444444444446	1325.111111111111	41004.77777777778
+22128	28	28	0	Mississippi	812220	Cemeteries and crematories	81	0400000US28	34.44444444444444	140.22222222222223	3649.3333333333335
+22129	28	28	0	Mississippi	812310	Coin-operated laundries and drycleaners	81	0400000US28	48.77777777777778	156.22222222222223	1906.7777777777778
+22130	28	28	0	Mississippi	812320	Drycleaning and laundry services (except coin-operated)	81	0400000US28	151.22222222222223	1408.5555555555557	24410.333333333332
+22131	28	28	0	Mississippi	812331	Linen supply	81	0400000US28	6.666666666666667	245.77777777777777	7013.0
+22132	28	28	0	Mississippi	812332	Industrial launderers	81	0400000US28	12.222222222222221	308.6666666666667	10959.444444444445
+22133	28	28	0	Mississippi	812910	Pet care (except veterinary) services	81	0400000US28	63.0	275.6666666666667	4461.0
+22134	28	28	0	Mississippi	812921	Photofinishing laboratories (except one-hour)	81	0400000US28	1.0	0.0	0.0
+22135	28	28	0	Mississippi	812930	Parking lots and garages	81	0400000US28	14.777777777777779	66.44444444444444	1010.6666666666666
+22136	28	28	0	Mississippi	812990	All other personal services	81	0400000US28	30.22222222222222	63.888888888888886	1856.4444444444443
+22137	28	28	0	Mississippi	813110	Religious organizations	81	0400000US28	2806.777777777778	19178.222222222223	331309.1111111111
+22138	28	28	0	Mississippi	813211	Grantmaking foundations	81	0400000US28	78.0	291.6666666666667	23958.11111111111
+22139	28	28	0	Mississippi	813212	Voluntary health organizations	81	0400000US28	22.11111111111111	112.88888888888889	8984.111111111111
+22140	28	28	0	Mississippi	813219	Other grantmaking and giving services	81	0400000US28	36.77777777777778	147.11111111111111	5230.333333333333
+22141	28	28	0	Mississippi	813311	Human rights organizations	81	0400000US28	13.666666666666666	111.22222222222223	4626.111111111111
+22142	28	28	0	Mississippi	813312	Environment, conservation and wildlife organizations	81	0400000US28	41.333333333333336	316.44444444444446	11096.666666666666
+22143	28	28	0	Mississippi	813319	Other social advocacy organizations	81	0400000US28	41.666666666666664	352.3333333333333	12465.777777777777
+22144	28	28	0	Mississippi	813410	Civic and social organizations	81	0400000US28	171.77777777777777	969.0	22511.777777777777
+22145	28	28	0	Mississippi	813910	Business associations	81	0400000US28	225.0	809.4444444444445	35452.444444444445
+22146	28	28	0	Mississippi	813920	Professional organizations	81	0400000US28	49.0	272.8888888888889	13840.333333333334
+22147	28	28	0	Mississippi	813930	Labor unions and similar labor organizations	81	0400000US28	91.33333333333333	502.77777777777777	7766.888888888889
+22148	28	28	0	Mississippi	813940	Political organizations	81	0400000US28	12.0	34.111111111111114	1514.4444444444443
+22149	28	28	0	Mississippi	813990	Other similar organizations (except business, professional, labor, and political organizations)	81	0400000US28	37.22222222222222	241.0	5952.0
