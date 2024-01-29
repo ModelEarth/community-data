@@ -1,0 +1,861 @@
+	NAICS_Sector	NAICS_TTL	state	relevant_naics	COUNTY	id	GEO_TTL	GEO_ID	estab	emp	payann	estimate
+0	11	Agriculture, forestry, fishing and hunting	2	11	13	02013	Aleutians East Borough	0500000US02013	4.0	1.0	177.0	0.0
+1	11	Agriculture, forestry, fishing and hunting	2	11	13	02013	Aleutians East Borough, Alaska	0500000US02013	3.625	8.126055594651653	426.320021111893	0.375
+2	11	Agriculture, forestry, fishing and hunting	2	11	16	02016	Aleutians West Census Area	0500000US02016	6.0	89.41463414634146	2332.243902439024	1.0
+3	11	Agriculture, forestry, fishing and hunting	2	11	16	02016	Aleutians West Census Area, Alaska	0500000US02016	6.375	46.860969387755105	1674.7716836734694	0.375
+4	11	Agriculture, forestry, fishing and hunting	2	11	20	02020	Anchorage Municipality	0500000US02020	33.0	78.0	9440.0	0.0
+5	11	Agriculture, forestry, fishing and hunting	2	11	20	02020	Anchorage Municipality, Alaska	0500000US02020	36.75	42.25	4532.25	0.0
+6	11	Agriculture, forestry, fishing and hunting	2	11	50	02050	Bethel Census Area, Alaska	0500000US02050	7.625	24.28448275862069	1205.1206896551723	0.625
+7	11	Agriculture, forestry, fishing and hunting	2	11	60	02060	Bristol Bay Borough	0500000US02060	2.0	29.804878048780488	777.4146341463415	1.0
+8	11	Agriculture, forestry, fishing and hunting	2	11	60	02060	Bristol Bay Borough, Alaska	0500000US02060	2.3333333333333335	10.705772538900618	421.62312338728594	0.6666666666666666
+9	11	Agriculture, forestry, fishing and hunting	2	11	70	02070	Dillingham Census Area	0500000US02070	2.0	29.804878048780488	777.4146341463415	1.0
+10	11	Agriculture, forestry, fishing and hunting	2	11	70	02070	Dillingham Census Area, Alaska	0500000US02070	3.125	12.021888927984987	411.757521111893	0.5
+11	11	Agriculture, forestry, fishing and hunting	2	11	90	02090	Fairbanks North Star Borough	0500000US02090	4.0	59.609756097560975	1554.829268292683	1.0
+12	11	Agriculture, forestry, fishing and hunting	2	11	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	4.0	13.903061224489795	416.3137755102041	0.25
+13	11	Agriculture, forestry, fishing and hunting	2	11	100	02100	Haines Borough	0500000US02100	8.0	8.0	169.0	0.0
+14	11	Agriculture, forestry, fishing and hunting	2	11	100	02100	Haines Borough, Alaska	0500000US02100	6.625	2.875	96.125	0.0
+15	11	Agriculture, forestry, fishing and hunting	2	11	105	02105	Hoonah-Angoon Census Area	0500000US02105	1.0	14.902439024390244	388.70731707317077	1.0
+16	11	Agriculture, forestry, fishing and hunting	2	11	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.0	12.021888927984987	382.507521111893	1.0
+17	11	Agriculture, forestry, fishing and hunting	2	11	110	02110	Juneau City and Borough	0500000US02110	25.0	0.0	2795.0	0.0
+18	11	Agriculture, forestry, fishing and hunting	2	11	110	02110	Juneau City and Borough, Alaska	0500000US02110	23.5	46.5	2786.0	0.0
+19	11	Agriculture, forestry, fishing and hunting	2	11	122	02122	Kenai Peninsula Borough	0500000US02122	91.0	91.0	4254.0	0.0
+20	11	Agriculture, forestry, fishing and hunting	2	11	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	105.0	74.125	6471.625	0.0
+21	11	Agriculture, forestry, fishing and hunting	2	11	130	02130	Ketchikan Gateway Borough	0500000US02130	14.0	126.0	10454.0	0.0
+22	11	Agriculture, forestry, fishing and hunting	2	11	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	18.125	104.75	8624.25	0.0
+23	11	Agriculture, forestry, fishing and hunting	2	11	150	02150	Kodiak Island Borough	0500000US02150	87.0	59.0	6440.0	0.0
+24	11	Agriculture, forestry, fishing and hunting	2	11	150	02150	Kodiak Island Borough, Alaska	0500000US02150	88.375	57.125	6234.0	0.0
+25	11	Agriculture, forestry, fishing and hunting	2	11	164	02164	Lake and Peninsula Borough	0500000US02164	1.0	14.902439024390244	388.70731707317077	1.0
+26	11	Agriculture, forestry, fishing and hunting	2	11	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	3.3333333333333335	6.2517006802721085	201.5612244897959	0.16666666666666666
+27	11	Agriculture, forestry, fishing and hunting	2	11	170	02170	Matanuska-Susitna Borough	0500000US02170	14.0	0.0	633.0	0.0
+28	11	Agriculture, forestry, fishing and hunting	2	11	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	14.0	25.125	549.0	0.0
+29	11	Agriculture, forestry, fishing and hunting	2	11	195	02195	Petersburg Borough, Alaska	0500000US02195	22.25	17.75	1375.25	0.0
+30	11	Agriculture, forestry, fishing and hunting	2	11	195	02195	Petersburg Census Area	0500000US02195	20.0	298.0487804878049	7774.1463414634145	1.0
+31	11	Agriculture, forestry, fishing and hunting	2	11	195	02195	Petersburg Census Area, Alaska	0500000US02195	24.75	184.70408163265307	8124.882653061224	0.5
+32	11	Agriculture, forestry, fishing and hunting	2	11	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	9.0	41.0	1966.0	0.0
+33	11	Agriculture, forestry, fishing and hunting	2	11	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	13.5	51.0	5582.875	0.0
+34	11	Agriculture, forestry, fishing and hunting	2	11	220	02220	Sitka City and Borough	0500000US02220	26.0	14.0	573.0	0.0
+35	11	Agriculture, forestry, fishing and hunting	2	11	220	02220	Sitka City and Borough, Alaska	0500000US02220	27.125	17.0	887.375	0.0
+36	11	Agriculture, forestry, fishing and hunting	2	11	230	02230	Skagway Municipality	0500000US02230	1.0	14.902439024390244	388.70731707317077	1.0
+37	11	Agriculture, forestry, fishing and hunting	2	11	230	02230	Skagway Municipality, Alaska	0500000US02230	1.0	12.596938775510203	347.3469387755102	1.0
+38	11	Agriculture, forestry, fishing and hunting	2	11	240	02240	Southeast Fairbanks Census Area	0500000US02240	3.0	44.70731707317073	1166.121951219512	1.0
+39	11	Agriculture, forestry, fishing and hunting	2	11	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	3.5	11.959183673469388	454.15561224489795	0.125
+40	11	Agriculture, forestry, fishing and hunting	2	11	261	02261	Valdez-Cordova Census Area	0500000US02261	41.0	0.0	1229.0	0.0
+41	11	Agriculture, forestry, fishing and hunting	2	11	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	58.625	18.0	1915.625	0.0
+42	11	Agriculture, forestry, fishing and hunting	2	11	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	3.0	6.931034482758621	400.7586206896552	1.0
+43	11	Agriculture, forestry, fishing and hunting	2	11	275	02275	Wrangell City and Borough	0500000US02275	5.0	0.0	174.0	0.0
+44	11	Agriculture, forestry, fishing and hunting	2	11	275	02275	Wrangell City and Borough, Alaska	0500000US02275	13.25	11.75	388.625	0.0
+45	11	Agriculture, forestry, fishing and hunting	2	11	282	02282	Yakutat City and Borough	0500000US02282	1.0	14.902439024390244	388.70731707317077	1.0
+46	11	Agriculture, forestry, fishing and hunting	2	11	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	12.021888927984987	382.507521111893	1.0
+47	11	Agriculture, forestry, fishing and hunting	2	11	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	1.6666666666666667	9.631226053639846	521.4454022988506	0.6666666666666666
+48	21	Mining, quarrying, and oil and gas extraction	2	21	16	02016	Aleutians West Census Area	0500000US02016	1.0	90.51219512195122	10267.073170731708	1.0
+49	21	Mining, quarrying, and oil and gas extraction	2	21	16	02016	Aleutians West Census Area, Alaska	0500000US02016	1.0	90.28784630495156	11522.650670030933	1.0
+50	21	Mining, quarrying, and oil and gas extraction	2	21	20	02020	Anchorage Municipality	0500000US02020	74.0	8121.0	958460.0	0.0
+51	21	Mining, quarrying, and oil and gas extraction	2	21	20	02020	Anchorage Municipality, Alaska	0500000US02020	60.625	5992.5	740656.125	0.0
+52	21	Mining, quarrying, and oil and gas extraction	2	21	50	02050	Bethel Census Area	0500000US02050	1.0	90.51219512195122	10267.073170731708	1.0
+53	21	Mining, quarrying, and oil and gas extraction	2	21	50	02050	Bethel Census Area, Alaska	0500000US02050	1.25	111.5783868454921	14409.441210571475	1.0
+54	21	Mining, quarrying, and oil and gas extraction	2	21	68	02068	Denali Borough	0500000US02068	3.0	271.5365853658536	30801.21951219512	1.0
+55	21	Mining, quarrying, and oil and gas extraction	2	21	68	02068	Denali Borough, Alaska	0500000US02068	3.8181818181818183	359.49618883891327	42698.4967499565	0.7272727272727273
+56	21	Mining, quarrying, and oil and gas extraction	2	21	70	02070	Dillingham Census Area	0500000US02070	2.0	181.02439024390245	20534.146341463416	1.0
+57	21	Mining, quarrying, and oil and gas extraction	2	21	70	02070	Dillingham Census Area, Alaska	0500000US02070	1.0	90.28784630495156	11522.650670030933	1.0
+58	21	Mining, quarrying, and oil and gas extraction	2	21	90	02090	Fairbanks North Star Borough	0500000US02090	21.0	733.0	73544.0	0.0
+59	21	Mining, quarrying, and oil and gas extraction	2	21	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	19.875	836.25	89272.5	0.0
+60	21	Mining, quarrying, and oil and gas extraction	2	21	100	02100	Haines Borough	0500000US02100	2.0	181.02439024390245	20534.146341463416	1.0
+61	21	Mining, quarrying, and oil and gas extraction	2	21	100	02100	Haines Borough, Alaska	0500000US02100	2.75	41.118421052631575	5499.921052631578	0.25
+62	21	Mining, quarrying, and oil and gas extraction	2	21	110	02110	Juneau City and Borough	0500000US02110	6.0	543.0731707317073	61602.43902439024	1.0
+63	21	Mining, quarrying, and oil and gas extraction	2	21	110	02110	Juneau City and Borough, Alaska	0500000US02110	6.625	774.895238095238	91501.59484126983	0.25
+64	21	Mining, quarrying, and oil and gas extraction	2	21	122	02122	Kenai Peninsula Borough	0500000US02122	17.0	238.0	28624.0	0.0
+65	21	Mining, quarrying, and oil and gas extraction	2	21	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	20.0	649.5	83040.0	0.0
+66	21	Mining, quarrying, and oil and gas extraction	2	21	130	02130	Ketchikan Gateway Borough	0500000US02130	2.0	181.02439024390245	20534.146341463416	1.0
+67	21	Mining, quarrying, and oil and gas extraction	2	21	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	2.75	245.79211034342612	31445.616295807085	1.0
+68	21	Mining, quarrying, and oil and gas extraction	2	21	170	02170	Matanuska-Susitna Borough	0500000US02170	12.0	1086.1463414634145	123204.87804878048	1.0
+69	21	Mining, quarrying, and oil and gas extraction	2	21	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	10.375	588.3546797737588	74745.71568645713	0.5
+70	21	Mining, quarrying, and oil and gas extraction	2	21	180	02180	Nome Census Area	0500000US02180	7.0	30.0	4910.0	0.0
+71	21	Mining, quarrying, and oil and gas extraction	2	21	180	02180	Nome Census Area, Alaska	0500000US02180	4.363636363636363	165.26203208556151	19172.967914438505	0.36363636363636365
+72	21	Mining, quarrying, and oil and gas extraction	2	21	185	02185	North Slope Borough	0500000US02185	1.0	90.51219512195122	10267.073170731708	1.0
+73	21	Mining, quarrying, and oil and gas extraction	2	21	185	02185	North Slope Borough, Alaska	0500000US02185	6.0	526.2481550159182	96619.96553179118	0.5
+74	21	Mining, quarrying, and oil and gas extraction	2	21	188	02188	Northwest Arctic Borough	0500000US02188	1.0	90.51219512195122	10267.073170731708	1.0
+75	21	Mining, quarrying, and oil and gas extraction	2	21	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	2.6363636363636362	392.10773848916267	49926.07749264282	0.7272727272727273
+76	21	Mining, quarrying, and oil and gas extraction	2	21	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	2.0	181.02439024390245	20534.146341463416	1.0
+77	21	Mining, quarrying, and oil and gas extraction	2	21	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	1.0	92.72393822393822	12018.25250965251	1.0
+78	21	Mining, quarrying, and oil and gas extraction	2	21	240	02240	Southeast Fairbanks Census Area	0500000US02240	7.0	633.5853658536586	71869.51219512196	1.0
+79	21	Mining, quarrying, and oil and gas extraction	2	21	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	5.909090909090909	571.0289646286551	71441.89415076691	0.7272727272727273
+80	21	Mining, quarrying, and oil and gas extraction	2	21	261	02261	Valdez-Cordova Census Area	0500000US02261	1.0	90.51219512195122	10267.073170731708	1.0
+81	21	Mining, quarrying, and oil and gas extraction	2	21	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	2.0	176.7948045790151	22809.756166316693	1.0
+82	21	Mining, quarrying, and oil and gas extraction	2	21	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	100.28571428571428	12489.342857142858	1.0
+83	21	Mining, quarrying, and oil and gas extraction	2	21	290	02290	Yukon-Koyukuk Census Area	0500000US02290	10.0	0.0	12093.0	0.0
+84	21	Mining, quarrying, and oil and gas extraction	2	21	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	6.5	26.5	2151.375	0.0
+85	22	Utilities	2	22	13	02013	Aleutians East Borough	0500000US02013	4.0	17.0	755.0	0.0
+86	22	Utilities	2	22	13	02013	Aleutians East Borough, Alaska	0500000US02013	3.125	14.725	1152.25	0.125
+87	22	Utilities	2	22	16	02016	Aleutians West Census Area	0500000US02016	1.0	25.28301886792453	2235.5849056603774	1.0
+88	22	Utilities	2	22	16	02016	Aleutians West Census Area, Alaska	0500000US02016	1.0	22.46473750790639	2013.0406388361796	1.0
+89	22	Utilities	2	22	20	02020	Anchorage Municipality	0500000US02020	14.0	353.9622641509434	31298.188679245282	1.0
+90	22	Utilities	2	22	20	02020	Anchorage Municipality, Alaska	0500000US02020	17.75	568.492765654649	62188.402395635676	0.25
+91	22	Utilities	2	22	50	02050	Bethel Census Area	0500000US02050	11.0	40.0	855.0	0.0
+92	22	Utilities	2	22	50	02050	Bethel Census Area, Alaska	0500000US02050	5.75	35.75	922.125	0.0
+93	22	Utilities	2	22	60	02060	Bristol Bay Borough	0500000US02060	1.0	25.28301886792453	2235.5849056603774	1.0
+94	22	Utilities	2	22	60	02060	Bristol Bay Borough, Alaska	0500000US02060	1.0	18.549961346545786	1654.8258749736453	1.0
+95	22	Utilities	2	22	68	02068	Denali Borough	0500000US02068	2.0	50.56603773584906	4471.169811320755	1.0
+96	22	Utilities	2	22	68	02068	Denali Borough, Alaska	0500000US02068	2.0	37.09992269309157	3309.6517499472907	1.0
+97	22	Utilities	2	22	70	02070	Dillingham Census Area	0500000US02070	2.0	50.56603773584906	4471.169811320755	1.0
+98	22	Utilities	2	22	70	02070	Dillingham Census Area, Alaska	0500000US02070	2.0	37.09992269309157	3309.6517499472907	1.0
+99	22	Utilities	2	22	90	02090	Fairbanks North Star Borough	0500000US02090	8.0	391.0	35583.0	0.0
+100	22	Utilities	2	22	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	11.25	379.125	37833.25	0.0
+101	22	Utilities	2	22	100	02100	Haines Borough	0500000US02100	2.0	50.56603773584906	4471.169811320755	1.0
+102	22	Utilities	2	22	100	02100	Haines Borough, Alaska	0500000US02100	2.0	37.09992269309157	3309.6517499472907	1.0
+103	22	Utilities	2	22	105	02105	Hoonah-Angoon Census Area	0500000US02105	3.0	75.84905660377359	6706.754716981132	1.0
+104	22	Utilities	2	22	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	2.909090909090909	52.169924162561735	4539.560752496502	0.7272727272727273
+105	22	Utilities	2	22	110	02110	Juneau City and Borough	0500000US02110	2.0	50.56603773584906	4471.169811320755	1.0
+106	22	Utilities	2	22	110	02110	Juneau City and Borough, Alaska	0500000US02110	6.7272727272727275	135.25755556833357	11961.871200812682	0.7272727272727273
+107	22	Utilities	2	22	122	02122	Kenai Peninsula Borough	0500000US02122	9.0	218.0	24624.0	0.0
+108	22	Utilities	2	22	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	9.375	206.5	24511.125	0.0
+109	22	Utilities	2	22	150	02150	Kodiak Island Borough	0500000US02150	1.0	25.28301886792453	2235.5849056603774	1.0
+110	22	Utilities	2	22	150	02150	Kodiak Island Borough, Alaska	0500000US02150	1.0	18.549961346545786	1654.8258749736453	1.0
+111	22	Utilities	2	22	164	02164	Lake and Peninsula Borough	0500000US02164	3.0	75.84905660377359	6706.754716981132	1.0
+112	22	Utilities	2	22	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	3.625	18.929435483870968	1199.3245967741937	0.125
+113	22	Utilities	2	22	170	02170	Matanuska-Susitna Borough	0500000US02170	6.0	151.69811320754718	13413.509433962265	1.0
+114	22	Utilities	2	22	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	7.2727272727272725	185.96240469208212	17424.522756598242	0.45454545454545453
+115	22	Utilities	2	22	180	02180	Nome Census Area	0500000US02180	1.0	25.28301886792453	2235.5849056603774	1.0
+116	22	Utilities	2	22	180	02180	Nome Census Area, Alaska	0500000US02180	1.0	18.549961346545786	1654.8258749736453	1.0
+117	22	Utilities	2	22	185	02185	North Slope Borough	0500000US02185	1.0	25.28301886792453	2235.5849056603774	1.0
+118	22	Utilities	2	22	185	02185	North Slope Borough, Alaska	0500000US02185	2.0	37.09992269309157	3309.6517499472907	1.0
+119	22	Utilities	2	22	188	02188	Northwest Arctic Borough	0500000US02188	2.0	50.56603773584906	4471.169811320755	1.0
+120	22	Utilities	2	22	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	2.0	37.09992269309157	3309.6517499472907	1.0
+121	22	Utilities	2	22	195	02195	Petersburg Census Area	0500000US02195	1.0	25.28301886792453	2235.5849056603774	1.0
+122	22	Utilities	2	22	195	02195	Petersburg Census Area, Alaska	0500000US02195	1.0	18.549961346545786	1654.8258749736453	1.0
+123	22	Utilities	2	22	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	3.0	75.84905660377359	6706.754716981132	1.0
+124	22	Utilities	2	22	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	3.5	53.32494201981868	4182.738812460468	0.5
+125	22	Utilities	2	22	230	02230	Skagway Municipality	0500000US02230	1.0	25.28301886792453	2235.5849056603774	1.0
+126	22	Utilities	2	22	230	02230	Skagway Municipality, Alaska	0500000US02230	1.0	18.549961346545786	1654.8258749736453	1.0
+127	22	Utilities	2	22	240	02240	Southeast Fairbanks Census Area	0500000US02240	5.0	57.0	3545.0	0.0
+128	22	Utilities	2	22	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	4.75	48.5	4120.25	0.0
+129	22	Utilities	2	22	261	02261	Valdez-Cordova Census Area	0500000US02261	7.0	176.9811320754717	15649.094339622641	1.0
+130	22	Utilities	2	22	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	8.727272727272727	158.14286240009199	13976.32192743373	0.5454545454545454
+131	22	Utilities	2	22	290	02290	Yukon-Koyukuk Census Area	0500000US02290	4.0	0.0	358.0	0.0
+132	22	Utilities	2	22	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	4.125	20.929435483870968	1307.9495967741937	0.125
+133	23	Construction	2	23	13	02013	Aleutians East Borough	0500000US02013	1.0	27.130434782608695	637.6521739130435	1.0
+134	23	Construction	2	23	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	37.742559523809526	3349.6994047619046	1.0
+135	23	Construction	2	23	16	02016	Aleutians West Census Area	0500000US02016	4.0	0.0	1468.0	0.0
+136	23	Construction	2	23	16	02016	Aleutians West Census Area, Alaska	0500000US02016	4.875	77.48751920122888	5528.064324116744	0.25
+137	23	Construction	2	23	20	02020	Anchorage Municipality	0500000US02020	926.0	11334.0	1047204.0	0.0
+138	23	Construction	2	23	20	02020	Anchorage Municipality, Alaska	0500000US02020	946.375	9691.25	884158.25	0.0
+139	23	Construction	2	23	50	02050	Bethel Census Area	0500000US02050	13.0	69.0	11848.0	0.0
+140	23	Construction	2	23	50	02050	Bethel Census Area, Alaska	0500000US02050	12.25	26.25	5040.0	0.0
+141	23	Construction	2	23	60	02060	Bristol Bay Borough	0500000US02060	4.0	108.52173913043478	2550.608695652174	1.0
+142	23	Construction	2	23	60	02060	Bristol Bay Borough, Alaska	0500000US02060	5.5	93.0619608885738	6812.222822876049	0.375
+143	23	Construction	2	23	68	02068	Denali Borough	0500000US02068	6.0	0.0	1399.0	0.0
+144	23	Construction	2	23	68	02068	Denali Borough, Alaska	0500000US02068	5.5	26.625	1543.125	0.0
+145	23	Construction	2	23	70	02070	Dillingham Census Area	0500000US02070	4.0	108.52173913043478	2550.608695652174	1.0
+146	23	Construction	2	23	70	02070	Dillingham Census Area, Alaska	0500000US02070	5.625	73.3024193548387	6035.104838709677	0.125
+147	23	Construction	2	23	90	02090	Fairbanks North Star Borough	0500000US02090	350.0	1928.0	182005.0	0.0
+148	23	Construction	2	23	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	342.875	1998.375	189102.75	0.0
+149	23	Construction	2	23	100	02100	Haines Borough	0500000US02100	11.0	0.0	6845.0	0.0
+150	23	Construction	2	23	100	02100	Haines Borough, Alaska	0500000US02100	15.75	44.625	7451.25	0.0
+151	23	Construction	2	23	105	02105	Hoonah-Angoon Census Area	0500000US02105	9.0	0.0	526.0	0.0
+152	23	Construction	2	23	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	6.0	11.375	455.0	0.0
+153	23	Construction	2	23	110	02110	Juneau City and Borough	0500000US02110	120.0	636.0	46693.0	0.0
+154	23	Construction	2	23	110	02110	Juneau City and Borough, Alaska	0500000US02110	119.625	588.25	44700.75	0.0
+155	23	Construction	2	23	122	02122	Kenai Peninsula Borough	0500000US02122	274.0	874.0	70033.0	0.0
+156	23	Construction	2	23	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	274.0	921.375	67592.125	0.0
+157	23	Construction	2	23	130	02130	Ketchikan Gateway Borough	0500000US02130	71.0	306.0	20729.0	0.0
+158	23	Construction	2	23	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	67.375	257.875	16043.75	0.0
+159	23	Construction	2	23	150	02150	Kodiak Island Borough	0500000US02150	43.0	161.0	10135.0	0.0
+160	23	Construction	2	23	150	02150	Kodiak Island Borough, Alaska	0500000US02150	42.125	177.625	12043.0	0.0
+161	23	Construction	2	23	164	02164	Lake and Peninsula Borough	0500000US02164	5.0	135.65217391304347	3188.2608695652175	1.0
+162	23	Construction	2	23	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	4.166666666666667	94.12570404505887	5768.6085509472605	0.3333333333333333
+163	23	Construction	2	23	170	02170	Matanuska-Susitna Borough	0500000US02170	401.0	1828.0	134020.0	0.0
+164	23	Construction	2	23	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	469.875	2292.875	182718.5	0.0
+165	23	Construction	2	23	180	02180	Nome Census Area	0500000US02180	10.0	0.0	2544.0	0.0
+166	23	Construction	2	23	180	02180	Nome Census Area, Alaska	0500000US02180	11.625	19.5	3157.75	0.0
+167	23	Construction	2	23	185	02185	North Slope Borough	0500000US02185	6.0	162.78260869565216	3825.913043478261	1.0
+168	23	Construction	2	23	185	02185	North Slope Borough, Alaska	0500000US02185	9.181818181818182	624.0502098707743	66317.68383632497	0.7272727272727273
+169	23	Construction	2	23	188	02188	Northwest Arctic Borough	0500000US02188	5.0	0.0	4080.0	0.0
+170	23	Construction	2	23	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	6.125	49.25	5990.625	0.0
+171	23	Construction	2	23	195	02195	Petersburg Borough, Alaska	0500000US02195	13.5	36.5	3450.5	0.0
+172	23	Construction	2	23	195	02195	Petersburg Census Area	0500000US02195	14.0	0.0	2736.0	0.0
+173	23	Construction	2	23	195	02195	Petersburg Census Area, Alaska	0500000US02195	13.25	40.25	3438.75	0.0
+174	23	Construction	2	23	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	15.0	0.0	1483.0	0.0
+175	23	Construction	2	23	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	15.625	46.375	2889.625	0.0
+176	23	Construction	2	23	220	02220	Sitka City and Borough	0500000US02220	48.0	202.0	16849.0	0.0
+177	23	Construction	2	23	220	02220	Sitka City and Borough, Alaska	0500000US02220	42.5	175.375	12943.625	0.0
+178	23	Construction	2	23	230	02230	Skagway Municipality	0500000US02230	5.0	31.0	2718.0	0.0
+179	23	Construction	2	23	230	02230	Skagway Municipality, Alaska	0500000US02230	7.0	57.0	5426.5	0.0
+180	23	Construction	2	23	240	02240	Southeast Fairbanks Census Area	0500000US02240	20.0	0.0	3965.0	0.0
+181	23	Construction	2	23	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	15.0	92.0	5918.875	0.0
+182	23	Construction	2	23	261	02261	Valdez-Cordova Census Area	0500000US02261	28.0	65.0	6708.0	0.0
+183	23	Construction	2	23	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	30.625	83.75	7993.375	0.0
+184	23	Construction	2	23	270	02270	Wade Hampton Census Area	0500000US02270	2.0	54.26086956521739	1275.304347826087	1.0
+185	23	Construction	2	23	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	2.75	74.37259615384616	7194.2067307692305	0.5
+186	23	Construction	2	23	275	02275	Wrangell City and Borough	0500000US02275	10.0	0.0	888.0	0.0
+187	23	Construction	2	23	275	02275	Wrangell City and Borough, Alaska	0500000US02275	10.375	12.375	781.0	0.0
+188	23	Construction	2	23	282	02282	Yakutat City and Borough	0500000US02282	1.0	27.130434782608695	637.6521739130435	1.0
+189	23	Construction	2	23	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.5	80.97569198274843	6933.116219130332	1.0
+190	23	Construction	2	23	290	02290	Yukon-Koyukuk Census Area	0500000US02290	7.0	0.0	735.0	0.0
+191	23	Construction	2	23	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	7.5	10.0	802.125	0.0
+192	42	Wholesale trade	2	42	13	02013	Aleutians East Borough	0500000US02013	1.0	31.25	924.1	1.0
+193	42	Wholesale trade	2	42	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	15.430443432130089	851.8646421981317	1.0
+194	42	Wholesale trade	2	42	16	02016	Aleutians West Census Area	0500000US02016	11.0	73.0	6245.0	0.0
+195	42	Wholesale trade	2	42	16	02016	Aleutians West Census Area, Alaska	0500000US02016	13.5	161.5	10479.5	0.0
+196	42	Wholesale trade	2	42	20	02020	Anchorage Municipality	0500000US02020	392.0	5709.0	340627.0	0.0
+197	42	Wholesale trade	2	42	20	02020	Anchorage Municipality, Alaska	0500000US02020	380.875	6009.375	383351.5	0.0
+198	42	Wholesale trade	2	42	50	02050	Bethel Census Area	0500000US02050	5.0	0.0	661.0	0.0
+199	42	Wholesale trade	2	42	50	02050	Bethel Census Area, Alaska	0500000US02050	3.5	16.875	1094.125	0.0
+200	42	Wholesale trade	2	42	60	02060	Bristol Bay Borough	0500000US02060	4.0	125.0	3696.4	1.0
+201	42	Wholesale trade	2	42	60	02060	Bristol Bay Borough, Alaska	0500000US02060	4.181818181818182	130.62609953764377	10815.166752288193	0.7272727272727273
+202	42	Wholesale trade	2	42	70	02070	Dillingham Census Area	0500000US02070	2.0	62.5	1848.2	1.0
+203	42	Wholesale trade	2	42	70	02070	Dillingham Census Area, Alaska	0500000US02070	2.0	30.860886864260177	1703.7292843962634	1.0
+204	42	Wholesale trade	2	42	90	02090	Fairbanks North Star Borough	0500000US02090	77.0	700.0	37807.0	0.0
+205	42	Wholesale trade	2	42	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	76.0	751.125	45015.375	0.0
+206	42	Wholesale trade	2	42	100	02100	Haines Borough	0500000US02100	1.0	31.25	924.1	1.0
+207	42	Wholesale trade	2	42	100	02100	Haines Borough, Alaska	0500000US02100	1.5	24.56406412178526	1225.6038663360628	1.0
+208	42	Wholesale trade	2	42	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.0	15.430443432130089	851.8646421981317	1.0
+209	42	Wholesale trade	2	42	110	02110	Juneau City and Borough	0500000US02110	38.0	277.0	12982.0	0.0
+210	42	Wholesale trade	2	42	110	02110	Juneau City and Borough, Alaska	0500000US02110	36.625	291.75	16309.75	0.0
+211	42	Wholesale trade	2	42	122	02122	Kenai Peninsula Borough	0500000US02122	53.0	441.0	22576.0	0.0
+212	42	Wholesale trade	2	42	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	56.0	385.625	22071.75	0.0
+213	42	Wholesale trade	2	42	130	02130	Ketchikan Gateway Borough	0500000US02130	11.0	141.0	8057.0	0.0
+214	42	Wholesale trade	2	42	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	12.375	126.0	8306.625	0.0
+215	42	Wholesale trade	2	42	150	02150	Kodiak Island Borough	0500000US02150	24.0	94.0	5342.0	0.0
+216	42	Wholesale trade	2	42	150	02150	Kodiak Island Borough, Alaska	0500000US02150	20.5	57.0	4734.375	0.0
+217	42	Wholesale trade	2	42	164	02164	Lake and Peninsula Borough	0500000US02164	1.0	31.25	924.1	1.0
+218	42	Wholesale trade	2	42	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	1.0	18.267241379310345	747.4784482758621	1.0
+219	42	Wholesale trade	2	42	170	02170	Matanuska-Susitna Borough	0500000US02170	46.0	0.0	14265.0	0.0
+220	42	Wholesale trade	2	42	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	46.625	260.625	14057.5	0.0
+221	42	Wholesale trade	2	42	180	02180	Nome Census Area	0500000US02180	4.0	51.0	2646.0	0.0
+222	42	Wholesale trade	2	42	180	02180	Nome Census Area, Alaska	0500000US02180	3.625	41.00762599469496	2578.930371352785	0.25
+223	42	Wholesale trade	2	42	185	02185	North Slope Borough	0500000US02185	12.0	311.0	29639.0	0.0
+224	42	Wholesale trade	2	42	185	02185	North Slope Borough, Alaska	0500000US02185	12.875	371.625	31624.375	0.0
+225	42	Wholesale trade	2	42	188	02188	Northwest Arctic Borough	0500000US02188	1.0	31.25	924.1	1.0
+226	42	Wholesale trade	2	42	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.0	15.430443432130089	851.8646421981317	1.0
+227	42	Wholesale trade	2	42	195	02195	Petersburg Borough, Alaska	0500000US02195	7.75	30.0	1813.25	0.0
+228	42	Wholesale trade	2	42	195	02195	Petersburg Census Area	0500000US02195	8.0	0.0	1830.0	0.0
+229	42	Wholesale trade	2	42	195	02195	Petersburg Census Area, Alaska	0500000US02195	8.0	21.5	1871.5	0.0
+230	42	Wholesale trade	2	42	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	2.0	62.5	1848.2	1.0
+231	42	Wholesale trade	2	42	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	2.6666666666666665	25.907257909506786	1384.1528562641754	0.6666666666666666
+232	42	Wholesale trade	2	42	220	02220	Sitka City and Borough	0500000US02220	9.0	45.0	1908.0	0.0
+233	42	Wholesale trade	2	42	220	02220	Sitka City and Borough, Alaska	0500000US02220	8.125	32.0	1948.875	0.0
+234	42	Wholesale trade	2	42	230	02230	Skagway Municipality	0500000US02230	2.0	62.5	1848.2	1.0
+235	42	Wholesale trade	2	42	230	02230	Skagway Municipality, Alaska	0500000US02230	2.25	33.91857917195249	1932.017745934725	1.0
+236	42	Wholesale trade	2	42	240	02240	Southeast Fairbanks Census Area	0500000US02240	4.0	0.0	2130.0	0.0
+237	42	Wholesale trade	2	42	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	3.142857142857143	23.714285714285715	1418.4285714285713	0.0
+238	42	Wholesale trade	2	42	261	02261	Valdez-Cordova Census Area	0500000US02261	9.0	52.0	5231.0	0.0
+239	42	Wholesale trade	2	42	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	8.875	70.75	5816.125	0.0
+240	42	Wholesale trade	2	42	270	02270	Wade Hampton Census Area	0500000US02270	4.0	14.0	984.0	0.0
+241	42	Wholesale trade	2	42	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	3.0	46.29133029639027	2555.5939265943953	1.0
+242	42	Wholesale trade	2	42	275	02275	Wrangell City and Borough	0500000US02275	2.0	62.5	1848.2	1.0
+243	42	Wholesale trade	2	42	275	02275	Wrangell City and Borough, Alaska	0500000US02275	2.0	32.99400299850075	1662.8698150924538	1.0
+244	42	Wholesale trade	2	42	282	02282	Yakutat City and Borough	0500000US02282	1.0	31.25	924.1	1.0
+245	42	Wholesale trade	2	42	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	15.430443432130089	851.8646421981317	1.0
+246	42	Wholesale trade	2	42	290	02290	Yukon-Koyukuk Census Area	0500000US02290	3.0	93.75	2772.2999999999997	1.0
+247	42	Wholesale trade	2	42	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	3.0	34.083165148195135	1850.8282132971976	0.5
+248	51	Information	2	51	13	02013	Aleutians East Borough	0500000US02013	1.0	7.805555555555555	271.0	1.0
+249	51	Information	2	51	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	11.78747138876449	539.8339366572125	1.0
+250	51	Information	2	51	16	02016	Aleutians West Census Area	0500000US02016	2.0	15.61111111111111	542.0	1.0
+251	51	Information	2	51	16	02016	Aleutians West Census Area, Alaska	0500000US02016	2.75	17.283503134796238	1205.2962382445141	0.25
+252	51	Information	2	51	20	02020	Anchorage Municipality	0500000US02020	172.0	4485.0	297691.0	0.0
+253	51	Information	2	51	20	02020	Anchorage Municipality, Alaska	0500000US02020	171.75	4502.125	328513.875	0.0
+254	51	Information	2	51	50	02050	Bethel Census Area	0500000US02050	6.0	43.0	1838.0	0.0
+255	51	Information	2	51	50	02050	Bethel Census Area, Alaska	0500000US02050	5.5	64.875	3413.25	0.0
+256	51	Information	2	51	60	02060	Bristol Bay Borough	0500000US02060	1.0	7.805555555555555	271.0	1.0
+257	51	Information	2	51	60	02060	Bristol Bay Borough, Alaska	0500000US02060	1.75	21.751666915460017	996.8489077971835	1.0
+258	51	Information	2	51	68	02068	Denali Borough	0500000US02068	3.0	23.416666666666664	813.0	1.0
+259	51	Information	2	51	68	02068	Denali Borough, Alaska	0500000US02068	3.0	9.675254702194358	332.13185736677116	0.25
+260	51	Information	2	51	70	02070	Dillingham Census Area	0500000US02070	1.0	7.805555555555555	271.0	1.0
+261	51	Information	2	51	70	02070	Dillingham Census Area, Alaska	0500000US02070	1.0	11.78747138876449	539.8339366572125	1.0
+262	51	Information	2	51	90	02090	Fairbanks North Star Borough	0500000US02090	33.0	532.0	27360.0	0.0
+263	51	Information	2	51	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	38.875	497.375	27477.25	0.0
+264	51	Information	2	51	100	02100	Haines Borough	0500000US02100	4.0	31.22222222222222	1084.0	1.0
+265	51	Information	2	51	100	02100	Haines Borough, Alaska	0500000US02100	3.125	10.25	311.125	0.0
+266	51	Information	2	51	110	02110	Juneau City and Borough	0500000US02110	22.0	249.0	11202.0	0.0
+267	51	Information	2	51	110	02110	Juneau City and Borough, Alaska	0500000US02110	24.375	227.875	11344.75	0.0
+268	51	Information	2	51	122	02122	Kenai Peninsula Borough	0500000US02122	30.0	220.0	9577.0	0.0
+269	51	Information	2	51	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	28.125	217.625	10560.625	0.0
+270	51	Information	2	51	130	02130	Ketchikan Gateway Borough	0500000US02130	12.0	106.0	3941.0	0.0
+271	51	Information	2	51	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	13.25	102.5	4670.25	0.0
+272	51	Information	2	51	150	02150	Kodiak Island Borough	0500000US02150	8.0	47.0	1625.0	0.0
+273	51	Information	2	51	150	02150	Kodiak Island Borough, Alaska	0500000US02150	8.375	57.13146551724138	3294.366379310345	0.125
+274	51	Information	2	51	170	02170	Matanuska-Susitna Borough	0500000US02170	31.0	553.0	31985.0	0.0
+275	51	Information	2	51	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	34.125	462.625	31371.125	0.0
+276	51	Information	2	51	180	02180	Nome Census Area	0500000US02180	5.0	21.0	1115.0	0.0
+277	51	Information	2	51	180	02180	Nome Census Area, Alaska	0500000US02180	5.375	41.375	1625.75	0.0
+278	51	Information	2	51	185	02185	North Slope Borough	0500000US02185	10.0	78.05555555555556	2710.0	1.0
+279	51	Information	2	51	185	02185	North Slope Borough, Alaska	0500000US02185	10.5	64.79251567398119	4045.4811912225705	0.25
+280	51	Information	2	51	188	02188	Northwest Arctic Borough	0500000US02188	4.0	31.22222222222222	1084.0	1.0
+281	51	Information	2	51	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	4.0	30.14655172413793	2389.637931034483	0.125
+282	51	Information	2	51	195	02195	Petersburg Borough, Alaska	0500000US02195	5.0	43.75	1401.5	0.0
+283	51	Information	2	51	195	02195	Petersburg Census Area	0500000US02195	6.0	0.0	1270.0	0.0
+284	51	Information	2	51	195	02195	Petersburg Census Area, Alaska	0500000US02195	5.0	26.75	1261.25	0.0
+285	51	Information	2	51	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	2.0	15.61111111111111	542.0	1.0
+286	51	Information	2	51	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	1.75	19.43208563467184	871.8107304572821	1.0
+287	51	Information	2	51	220	02220	Sitka City and Borough	0500000US02220	9.0	0.0	1798.0	0.0
+288	51	Information	2	51	220	02220	Sitka City and Borough, Alaska	0500000US02220	8.25	32.125	1587.0	0.0
+289	51	Information	2	51	230	02230	Skagway Municipality	0500000US02230	1.0	7.805555555555555	271.0	1.0
+290	51	Information	2	51	230	02230	Skagway Municipality, Alaska	0500000US02230	1.25	14.898582499875602	697.6394922127681	1.0
+291	51	Information	2	51	240	02240	Southeast Fairbanks Census Area	0500000US02240	6.0	0.0	431.0	0.0
+292	51	Information	2	51	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	7.75	17.469827586206897	840.9568965517242	0.125
+293	51	Information	2	51	261	02261	Valdez-Cordova Census Area	0500000US02261	14.0	96.0	6732.0	0.0
+294	51	Information	2	51	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	15.375	110.06974921630095	7365.800940438871	0.25
+295	51	Information	2	51	270	02270	Wade Hampton Census Area	0500000US02270	1.0	7.805555555555555	271.0	1.0
+296	51	Information	2	51	275	02275	Wrangell City and Borough	0500000US02275	3.0	12.0	477.0	0.0
+297	51	Information	2	51	275	02275	Wrangell City and Borough, Alaska	0500000US02275	3.25	11.25	617.75	0.0
+298	51	Information	2	51	282	02282	Yakutat City and Borough	0500000US02282	1.0	7.805555555555555	271.0	1.0
+299	51	Information	2	51	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	11.78747138876449	539.8339366572125	1.0
+300	51	Information	2	51	290	02290	Yukon-Koyukuk Census Area	0500000US02290	5.0	39.02777777777778	1355.0	1.0
+301	51	Information	2	51	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	3.75	18.333757836990596	621.0530956112852	0.25
+302	52	Finance and insurance	2	52	13	02013	Aleutians East Borough	0500000US02013	1.0	29.81818181818182	402.75757575757575	1.0
+303	52	Finance and insurance	2	52	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	9.67594441031941	575.0483338452088	1.0
+304	52	Finance and insurance	2	52	16	02016	Aleutians West Census Area	0500000US02016	2.0	59.63636363636364	805.5151515151515	1.0
+305	52	Finance and insurance	2	52	16	02016	Aleutians West Census Area, Alaska	0500000US02016	2.0	19.35188882063882	1150.0966676904177	1.0
+306	52	Finance and insurance	2	52	20	02020	Anchorage Municipality	0500000US02020	380.0	4840.0	315425.0	0.0
+307	52	Finance and insurance	2	52	20	02020	Anchorage Municipality, Alaska	0500000US02020	390.25	4822.625	369943.75	0.0
+308	52	Finance and insurance	2	52	50	02050	Bethel Census Area	0500000US02050	5.0	0.0	1830.0	0.0
+309	52	Finance and insurance	2	52	50	02050	Bethel Census Area, Alaska	0500000US02050	5.25	28.625	1901.5	0.0
+310	52	Finance and insurance	2	52	60	02060	Bristol Bay Borough	0500000US02060	1.0	29.81818181818182	402.75757575757575	1.0
+311	52	Finance and insurance	2	52	60	02060	Bristol Bay Borough, Alaska	0500000US02060	1.0	9.67594441031941	575.0483338452088	1.0
+312	52	Finance and insurance	2	52	68	02068	Denali Borough	0500000US02068	1.0	29.81818181818182	402.75757575757575	1.0
+313	52	Finance and insurance	2	52	68	02068	Denali Borough, Alaska	0500000US02068	1.0	9.67594441031941	575.0483338452088	1.0
+314	52	Finance and insurance	2	52	70	02070	Dillingham Census Area	0500000US02070	4.0	119.27272727272728	1611.030303030303	1.0
+315	52	Finance and insurance	2	52	70	02070	Dillingham Census Area, Alaska	0500000US02070	4.125	20.150798525798525	875.7380221130222	0.25
+316	52	Finance and insurance	2	52	90	02090	Fairbanks North Star Borough	0500000US02090	98.0	735.0	37382.0	0.0
+317	52	Finance and insurance	2	52	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	95.625	704.25	40358.5	0.0
+318	52	Finance and insurance	2	52	100	02100	Haines Borough	0500000US02100	1.0	29.81818181818182	402.75757575757575	1.0
+319	52	Finance and insurance	2	52	100	02100	Haines Borough, Alaska	0500000US02100	1.25	11.95719441031941	727.9233338452088	1.0
+320	52	Finance and insurance	2	52	110	02110	Juneau City and Borough	0500000US02110	50.0	0.0	21843.0	0.0
+321	52	Finance and insurance	2	52	110	02110	Juneau City and Borough, Alaska	0500000US02110	47.375	335.875	24958.375	0.0
+322	52	Finance and insurance	2	52	122	02122	Kenai Peninsula Borough	0500000US02122	60.0	0.0	14181.0	0.0
+323	52	Finance and insurance	2	52	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	59.25	294.125	16904.875	0.0
+324	52	Finance and insurance	2	52	130	02130	Ketchikan Gateway Borough	0500000US02130	20.0	188.0	10356.0	0.0
+325	52	Finance and insurance	2	52	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	18.375	207.125	11933.5	0.0
+326	52	Finance and insurance	2	52	150	02150	Kodiak Island Borough	0500000US02150	13.0	64.0	3427.0	0.0
+327	52	Finance and insurance	2	52	150	02150	Kodiak Island Borough, Alaska	0500000US02150	14.0	76.375	4579.5	0.0
+328	52	Finance and insurance	2	52	164	02164	Lake and Peninsula Borough	0500000US02164	2.0	59.63636363636364	805.5151515151515	1.0
+329	52	Finance and insurance	2	52	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	2.0	19.35188882063882	1150.0966676904177	1.0
+330	52	Finance and insurance	2	52	170	02170	Matanuska-Susitna Borough	0500000US02170	63.0	464.0	23063.0	0.0
+331	52	Finance and insurance	2	52	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	73.75	506.0	27604.875	0.0
+332	52	Finance and insurance	2	52	180	02180	Nome Census Area	0500000US02180	4.0	0.0	2734.0	0.0
+333	52	Finance and insurance	2	52	180	02180	Nome Census Area, Alaska	0500000US02180	4.75	33.9222972972973	2276.2905405405404	0.125
+334	52	Finance and insurance	2	52	185	02185	North Slope Borough	0500000US02185	2.0	59.63636363636364	805.5151515151515	1.0
+335	52	Finance and insurance	2	52	185	02185	North Slope Borough, Alaska	0500000US02185	1.5	14.58626382063882	809.8935426904177	1.0
+336	52	Finance and insurance	2	52	188	02188	Northwest Arctic Borough	0500000US02188	1.0	29.81818181818182	402.75757575757575	1.0
+337	52	Finance and insurance	2	52	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.0	9.67594441031941	575.0483338452088	1.0
+338	52	Finance and insurance	2	52	195	02195	Petersburg Borough, Alaska	0500000US02195	3.25	21.75	1131.25	0.0
+339	52	Finance and insurance	2	52	195	02195	Petersburg Census Area	0500000US02195	3.0	23.0	1047.0	0.0
+340	52	Finance and insurance	2	52	195	02195	Petersburg Census Area, Alaska	0500000US02195	3.0	16.75	1105.75	0.0
+341	52	Finance and insurance	2	52	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	6.0	178.9090909090909	2416.5454545454545	1.0
+342	52	Finance and insurance	2	52	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	6.0	26.969594594594597	1123.206081081081	0.125
+343	52	Finance and insurance	2	52	220	02220	Sitka City and Borough	0500000US02220	10.0	63.0	2881.0	0.0
+344	52	Finance and insurance	2	52	220	02220	Sitka City and Borough, Alaska	0500000US02220	10.625	62.625	3405.5	0.0
+345	52	Finance and insurance	2	52	230	02230	Skagway Municipality	0500000US02230	2.0	59.63636363636364	805.5151515151515	1.0
+346	52	Finance and insurance	2	52	230	02230	Skagway Municipality, Alaska	0500000US02230	2.0	19.35188882063882	1150.0966676904177	1.0
+347	52	Finance and insurance	2	52	240	02240	Southeast Fairbanks Census Area	0500000US02240	4.0	16.0	660.0	0.0
+348	52	Finance and insurance	2	52	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	4.125	13.0	715.5	0.0
+349	52	Finance and insurance	2	52	261	02261	Valdez-Cordova Census Area	0500000US02261	6.0	178.9090909090909	2416.5454545454545	1.0
+350	52	Finance and insurance	2	52	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	6.7272727272727275	85.98470515970516	5503.577149877149	0.5454545454545454
+351	52	Finance and insurance	2	52	270	02270	Wade Hampton Census Area	0500000US02270	2.0	59.63636363636364	805.5151515151515	1.0
+352	52	Finance and insurance	2	52	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	2.0	19.35188882063882	1150.0966676904177	1.0
+353	52	Finance and insurance	2	52	275	02275	Wrangell City and Borough	0500000US02275	2.0	59.63636363636364	805.5151515151515	1.0
+354	52	Finance and insurance	2	52	275	02275	Wrangell City and Borough, Alaska	0500000US02275	2.6363636363636362	35.8370504802323	2330.380606432879	0.7272727272727273
+355	53	Real estate and rental and leasing	2	53	13	02013	Aleutians East Borough	0500000US02013	3.0	32.86666666666667	494.3333333333333	1.0
+356	53	Real estate and rental and leasing	2	53	13	02013	Aleutians East Borough, Alaska	0500000US02013	3.25	12.113636363636363	347.52272727272725	0.125
+357	53	Real estate and rental and leasing	2	53	16	02016	Aleutians West Census Area	0500000US02016	4.0	43.82222222222222	659.1111111111111	1.0
+358	53	Real estate and rental and leasing	2	53	16	02016	Aleutians West Census Area, Alaska	0500000US02016	3.375	31.32	1898.9650000000001	0.125
+359	53	Real estate and rental and leasing	2	53	20	02020	Anchorage Municipality	0500000US02020	388.0	2703.0	122049.0	0.0
+360	53	Real estate and rental and leasing	2	53	20	02020	Anchorage Municipality, Alaska	0500000US02020	425.625	2511.625	125450.5	0.0
+361	53	Real estate and rental and leasing	2	53	50	02050	Bethel Census Area	0500000US02050	8.0	87.64444444444445	1318.2222222222222	1.0
+362	53	Real estate and rental and leasing	2	53	50	02050	Bethel Census Area, Alaska	0500000US02050	8.75	60.82181818181818	2044.9413636363636	0.25
+363	53	Real estate and rental and leasing	2	53	60	02060	Bristol Bay Borough	0500000US02060	1.0	10.955555555555556	164.77777777777777	1.0
+364	53	Real estate and rental and leasing	2	53	60	02060	Bristol Bay Borough, Alaska	0500000US02060	2.75	11.534545454545455	1088.550909090909	0.25
+365	53	Real estate and rental and leasing	2	53	68	02068	Denali Borough, Alaska	0500000US02068	3.2	4.479529411764706	164.95435294117647	0.4
+366	53	Real estate and rental and leasing	2	53	70	02070	Dillingham Census Area	0500000US02070	6.0	65.73333333333333	988.6666666666666	1.0
+367	53	Real estate and rental and leasing	2	53	70	02070	Dillingham Census Area, Alaska	0500000US02070	4.5	16.922727272727272	842.3795454545455	0.25
+368	53	Real estate and rental and leasing	2	53	90	02090	Fairbanks North Star Borough	0500000US02090	146.0	677.0	36167.0	0.0
+369	53	Real estate and rental and leasing	2	53	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	154.75	722.25	40709.0	0.0
+370	53	Real estate and rental and leasing	2	53	100	02100	Haines Borough	0500000US02100	5.0	3.0	87.0	0.0
+371	53	Real estate and rental and leasing	2	53	100	02100	Haines Borough, Alaska	0500000US02100	5.75	4.5	115.875	0.0
+372	53	Real estate and rental and leasing	2	53	105	02105	Hoonah-Angoon Census Area	0500000US02105	2.0	21.91111111111111	329.55555555555554	1.0
+373	53	Real estate and rental and leasing	2	53	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	2.0	7.935567439096851	214.27226381461674	1.0
+374	53	Real estate and rental and leasing	2	53	110	02110	Juneau City and Borough	0500000US02110	60.0	0.0	6669.0	0.0
+375	53	Real estate and rental and leasing	2	53	110	02110	Juneau City and Borough, Alaska	0500000US02110	62.0	232.25	8196.0	0.0
+376	53	Real estate and rental and leasing	2	53	122	02122	Kenai Peninsula Borough	0500000US02122	65.0	238.0	12271.0	0.0
+377	53	Real estate and rental and leasing	2	53	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	74.25	286.625	15582.875	0.0
+378	53	Real estate and rental and leasing	2	53	130	02130	Ketchikan Gateway Borough	0500000US02130	28.0	92.0	3318.0	0.0
+379	53	Real estate and rental and leasing	2	53	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	28.875	90.375	4695.5	0.0
+380	53	Real estate and rental and leasing	2	53	150	02150	Kodiak Island Borough	0500000US02150	13.0	71.0	1776.0	0.0
+381	53	Real estate and rental and leasing	2	53	150	02150	Kodiak Island Borough, Alaska	0500000US02150	14.75	69.0	2446.25	0.0
+382	53	Real estate and rental and leasing	2	53	158	02158	Kusilvak Census Area, Alaska	0500000US02158	3.0	7.5	378.0	0.0
+383	53	Real estate and rental and leasing	2	53	164	02164	Lake and Peninsula Borough	0500000US02164	4.0	43.82222222222222	659.1111111111111	1.0
+384	53	Real estate and rental and leasing	2	53	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	3.0	3.125	70.125	0.0
+385	53	Real estate and rental and leasing	2	53	170	02170	Matanuska-Susitna Borough	0500000US02170	76.0	192.0	6636.0	0.0
+386	53	Real estate and rental and leasing	2	53	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	81.25	220.5	8075.75	0.0
+387	53	Real estate and rental and leasing	2	53	180	02180	Nome Census Area	0500000US02180	5.0	54.77777777777777	823.8888888888888	1.0
+388	53	Real estate and rental and leasing	2	53	180	02180	Nome Census Area, Alaska	0500000US02180	7.625	28.50272727272727	903.3395454545455	0.25
+389	53	Real estate and rental and leasing	2	53	185	02185	North Slope Borough	0500000US02185	9.0	0.0	4316.0	0.0
+390	53	Real estate and rental and leasing	2	53	185	02185	North Slope Borough, Alaska	0500000US02185	8.125	77.75	6727.375	0.0
+391	53	Real estate and rental and leasing	2	53	188	02188	Northwest Arctic Borough	0500000US02188	3.0	0.0	37.0	0.0
+392	53	Real estate and rental and leasing	2	53	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	3.4	9.930524064171122	243.4208342245989	0.6
+393	53	Real estate and rental and leasing	2	53	195	02195	Petersburg Borough, Alaska	0500000US02195	4.25	6.0	177.5	0.0
+394	53	Real estate and rental and leasing	2	53	195	02195	Petersburg Census Area	0500000US02195	5.0	0.0	255.0	0.0
+395	53	Real estate and rental and leasing	2	53	195	02195	Petersburg Census Area, Alaska	0500000US02195	4.0	3.0	143.25	0.0
+396	53	Real estate and rental and leasing	2	53	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	4.0	43.82222222222222	659.1111111111111	1.0
+397	53	Real estate and rental and leasing	2	53	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	5.5	20.625	796.625	0.0
+398	53	Real estate and rental and leasing	2	53	220	02220	Sitka City and Borough	0500000US02220	16.0	47.0	1237.0	0.0
+399	53	Real estate and rental and leasing	2	53	220	02220	Sitka City and Borough, Alaska	0500000US02220	16.125	48.625	2013.125	0.0
+400	53	Real estate and rental and leasing	2	53	230	02230	Skagway Municipality	0500000US02230	2.0	21.91111111111111	329.55555555555554	1.0
+401	53	Real estate and rental and leasing	2	53	230	02230	Skagway Municipality, Alaska	0500000US02230	1.25	4.440005941770648	124.05279857397504	1.0
+402	53	Real estate and rental and leasing	2	53	240	02240	Southeast Fairbanks Census Area	0500000US02240	8.0	0.0	139.0	0.0
+403	53	Real estate and rental and leasing	2	53	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	4.5	7.0	389.625	0.0
+404	53	Real estate and rental and leasing	2	53	261	02261	Valdez-Cordova Census Area	0500000US02261	13.0	32.0	1065.0	0.0
+405	53	Real estate and rental and leasing	2	53	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	9.625	29.800454545454546	1018.7190909090909	0.25
+406	53	Real estate and rental and leasing	2	53	270	02270	Wade Hampton Census Area	0500000US02270	2.0	21.91111111111111	329.55555555555554	1.0
+407	53	Real estate and rental and leasing	2	53	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	2.25	8.741122994652407	210.43893048128342	0.75
+408	53	Real estate and rental and leasing	2	53	275	02275	Wrangell City and Borough	0500000US02275	3.0	0.0	43.0	0.0
+409	53	Real estate and rental and leasing	2	53	275	02275	Wrangell City and Borough, Alaska	0500000US02275	3.0	6.092783719548425	146.26113190730837	0.5
+410	53	Real estate and rental and leasing	2	53	282	02282	Yakutat City and Borough	0500000US02282	1.0	10.955555555555556	164.77777777777777	1.0
+411	53	Real estate and rental and leasing	2	53	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	3.9677837195484256	107.13613190730837	1.0
+412	53	Real estate and rental and leasing	2	53	290	02290	Yukon-Koyukuk Census Area	0500000US02290	3.0	32.86666666666667	494.3333333333333	1.0
+413	53	Real estate and rental and leasing	2	53	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	2.2	7.14845395127748	192.41781105169338	0.8
+414	54	Professional, scientific, and technical services	2	54	16	02016	Aleutians West Census Area	0500000US02016	1.0	21.11764705882353	1688.1176470588234	1.0
+415	54	Professional, scientific, and technical services	2	54	16	02016	Aleutians West Census Area, Alaska	0500000US02016	3.875	33.075	2112.9875	0.25
+416	54	Professional, scientific, and technical services	2	54	20	02020	Anchorage Municipality	0500000US02020	1138.0	13092.0	957761.0	0.0
+417	54	Professional, scientific, and technical services	2	54	20	02020	Anchorage Municipality, Alaska	0500000US02020	1143.875	14466.25	1120397.375	0.0
+418	54	Professional, scientific, and technical services	2	54	50	02050	Bethel Census Area	0500000US02050	6.0	0.0	956.0	0.0
+419	54	Professional, scientific, and technical services	2	54	50	02050	Bethel Census Area, Alaska	0500000US02050	6.25	18.5	1020.875	0.0
+420	54	Professional, scientific, and technical services	2	54	60	02060	Bristol Bay Borough	0500000US02060	1.0	21.11764705882353	1688.1176470588234	1.0
+421	54	Professional, scientific, and technical services	2	54	60	02060	Bristol Bay Borough, Alaska	0500000US02060	1.25	79.33253968253968	6146.70119047619	1.0
+422	54	Professional, scientific, and technical services	2	54	68	02068	Denali Borough	0500000US02068	6.0	3.0	297.0	0.0
+423	54	Professional, scientific, and technical services	2	54	68	02068	Denali Borough, Alaska	0500000US02068	4.545454545454546	144.54545454545453	13351.09090909091	0.36363636363636365
+424	54	Professional, scientific, and technical services	2	54	70	02070	Dillingham Census Area	0500000US02070	4.0	0.0	482.0	0.0
+425	54	Professional, scientific, and technical services	2	54	70	02070	Dillingham Census Area, Alaska	0500000US02070	3.375	61.03253968253968	4759.45119047619	0.375
+426	54	Professional, scientific, and technical services	2	54	90	02090	Fairbanks North Star Borough	0500000US02090	237.0	1802.0	100856.0	0.0
+427	54	Professional, scientific, and technical services	2	54	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	218.625	1308.0	86306.75	0.0
+428	54	Professional, scientific, and technical services	2	54	100	02100	Haines Borough	0500000US02100	5.0	0.0	229.0	0.0
+429	54	Professional, scientific, and technical services	2	54	100	02100	Haines Borough, Alaska	0500000US02100	6.25	10.0	667.25	0.0
+430	54	Professional, scientific, and technical services	2	54	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.0	64.48253968253968	5173.851190476191	1.0
+431	54	Professional, scientific, and technical services	2	54	110	02110	Juneau City and Borough	0500000US02110	88.0	516.0	38172.0	0.0
+432	54	Professional, scientific, and technical services	2	54	110	02110	Juneau City and Borough, Alaska	0500000US02110	94.75	523.25	33805.875	0.0
+433	54	Professional, scientific, and technical services	2	54	122	02122	Kenai Peninsula Borough	0500000US02122	120.0	483.0	32916.0	0.0
+434	54	Professional, scientific, and technical services	2	54	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	127.625	530.0	28468.5	0.0
+435	54	Professional, scientific, and technical services	2	54	130	02130	Ketchikan Gateway Borough	0500000US02130	29.0	111.0	4867.0	0.0
+436	54	Professional, scientific, and technical services	2	54	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	34.0	90.75	5840.25	0.0
+437	54	Professional, scientific, and technical services	2	54	150	02150	Kodiak Island Borough	0500000US02150	25.0	72.0	6129.0	0.0
+438	54	Professional, scientific, and technical services	2	54	150	02150	Kodiak Island Borough, Alaska	0500000US02150	22.5	60.75	2676.0	0.0
+439	54	Professional, scientific, and technical services	2	54	170	02170	Matanuska-Susitna Borough	0500000US02170	167.0	859.0	46266.0	0.0
+440	54	Professional, scientific, and technical services	2	54	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	167.75	797.375	44663.75	0.0
+441	54	Professional, scientific, and technical services	2	54	180	02180	Nome Census Area	0500000US02180	6.0	0.0	511.0	0.0
+442	54	Professional, scientific, and technical services	2	54	180	02180	Nome Census Area, Alaska	0500000US02180	6.125	9.0	711.75	0.0
+443	54	Professional, scientific, and technical services	2	54	185	02185	North Slope Borough	0500000US02185	6.0	126.70588235294119	10128.705882352942	1.0
+444	54	Professional, scientific, and technical services	2	54	185	02185	North Slope Borough, Alaska	0500000US02185	6.375	362.4	28506.8	0.25
+445	54	Professional, scientific, and technical services	2	54	188	02188	Northwest Arctic Borough	0500000US02188	2.0	42.23529411764706	3376.235294117647	1.0
+446	54	Professional, scientific, and technical services	2	54	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.5	99.40396825396824	8095.844047619047	1.0
+447	54	Professional, scientific, and technical services	2	54	195	02195	Petersburg Borough, Alaska	0500000US02195	7.75	11.25	489.5	0.0
+448	54	Professional, scientific, and technical services	2	54	195	02195	Petersburg Census Area	0500000US02195	5.0	9.0	184.0	0.0
+449	54	Professional, scientific, and technical services	2	54	195	02195	Petersburg Census Area, Alaska	0500000US02195	6.25	7.0	458.75	0.0
+450	54	Professional, scientific, and technical services	2	54	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	1.0	21.11764705882353	1688.1176470588234	1.0
+451	54	Professional, scientific, and technical services	2	54	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	2.0	88.88888888888889	8218.666666666666	1.0
+452	54	Professional, scientific, and technical services	2	54	220	02220	Sitka City and Borough	0500000US02220	16.0	49.0	1469.0	0.0
+453	54	Professional, scientific, and technical services	2	54	220	02220	Sitka City and Borough, Alaska	0500000US02220	18.625	55.75	2232.875	0.0
+454	54	Professional, scientific, and technical services	2	54	230	02230	Skagway Municipality	0500000US02230	2.0	42.23529411764706	3376.235294117647	1.0
+455	54	Professional, scientific, and technical services	2	54	230	02230	Skagway Municipality, Alaska	0500000US02230	1.0	73.8	4898.1	1.0
+456	54	Professional, scientific, and technical services	2	54	240	02240	Southeast Fairbanks Census Area	0500000US02240	8.0	0.0	1917.0	0.0
+457	54	Professional, scientific, and technical services	2	54	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	10.5	49.75	3420.0	0.0
+458	54	Professional, scientific, and technical services	2	54	261	02261	Valdez-Cordova Census Area	0500000US02261	17.0	100.0	6674.0	0.0
+459	54	Professional, scientific, and technical services	2	54	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	24.625	100.0	5972.875	0.0
+460	54	Professional, scientific, and technical services	2	54	275	02275	Wrangell City and Borough	0500000US02275	3.0	63.352941176470594	5064.352941176471	1.0
+461	54	Professional, scientific, and technical services	2	54	275	02275	Wrangell City and Borough, Alaska	0500000US02275	4.875	10.875	498.875	0.0
+462	54	Professional, scientific, and technical services	2	54	290	02290	Yukon-Koyukuk Census Area	0500000US02290	1.0	21.11764705882353	1688.1176470588234	1.0
+463	54	Professional, scientific, and technical services	2	54	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	2.7	104.53746031746032	10133.47380952381	0.8
+464	55	Management of companies and enterprises	2	55	20	02020	Anchorage Municipality	0500000US02020	105.0	4625.0	547121.0	0.0
+465	55	Management of companies and enterprises	2	55	20	02020	Anchorage Municipality, Alaska	0500000US02020	121.5	4977.25	606876.875	0.0
+466	55	Management of companies and enterprises	2	55	50	02050	Bethel Census Area	0500000US02050	3.0	121.27272727272728	7639.454545454546	1.0
+467	55	Management of companies and enterprises	2	55	50	02050	Bethel Census Area, Alaska	0500000US02050	2.25	98.23557189542484	8954.82656862745	1.0
+468	55	Management of companies and enterprises	2	55	68	02068	Denali Borough, Alaska	0500000US02068	1.0	44.57403594771242	4081.3257843137253	1.0
+469	55	Management of companies and enterprises	2	55	70	02070	Dillingham Census Area	0500000US02070	1.0	40.42424242424242	2546.4848484848485	1.0
+470	55	Management of companies and enterprises	2	55	70	02070	Dillingham Census Area, Alaska	0500000US02070	1.5	65.89153594771241	5878.440784313725	1.0
+471	55	Management of companies and enterprises	2	55	90	02090	Fairbanks North Star Borough	0500000US02090	9.0	363.8181818181818	22918.363636363636	1.0
+472	55	Management of companies and enterprises	2	55	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	10.875	130.625	8686.375	0.0
+473	55	Management of companies and enterprises	2	55	100	02100	Haines Borough	0500000US02100	1.0	40.42424242424242	2546.4848484848485	1.0
+474	55	Management of companies and enterprises	2	55	110	02110	Juneau City and Borough	0500000US02110	7.0	120.0	10646.0	0.0
+475	55	Management of companies and enterprises	2	55	110	02110	Juneau City and Borough, Alaska	0500000US02110	8.625	155.375	15245.125	0.0
+476	55	Management of companies and enterprises	2	55	122	02122	Kenai Peninsula Borough	0500000US02122	3.0	121.27272727272728	7639.454545454546	1.0
+477	55	Management of companies and enterprises	2	55	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	4.625	63.875	4902.75	0.0
+478	55	Management of companies and enterprises	2	55	130	02130	Ketchikan Gateway Borough	0500000US02130	5.0	0.0	8304.0	0.0
+479	55	Management of companies and enterprises	2	55	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	5.818181818181818	452.41818181818184	39465.19393939394	0.45454545454545453
+480	55	Management of companies and enterprises	2	55	150	02150	Kodiak Island Borough	0500000US02150	1.0	40.42424242424242	2546.4848484848485	1.0
+481	55	Management of companies and enterprises	2	55	150	02150	Kodiak Island Borough, Alaska	0500000US02150	2.0	59.53279411764706	5192.393235294117	0.75
+482	55	Management of companies and enterprises	2	55	170	02170	Matanuska-Susitna Borough	0500000US02170	7.0	178.0	23708.0	0.0
+483	55	Management of companies and enterprises	2	55	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	5.875	119.25	17437.0	0.0
+484	55	Management of companies and enterprises	2	55	180	02180	Nome Census Area	0500000US02180	1.0	40.42424242424242	2546.4848484848485	1.0
+485	55	Management of companies and enterprises	2	55	180	02180	Nome Census Area, Alaska	0500000US02180	1.25	53.661535947712416	4873.5007843137255	1.0
+486	55	Management of companies and enterprises	2	55	185	02185	North Slope Borough	0500000US02185	4.0	161.6969696969697	10185.939393939394	1.0
+487	55	Management of companies and enterprises	2	55	185	02185	North Slope Borough, Alaska	0500000US02185	3.4545454545454546	283.7012715389186	32519.700249554367	0.7272727272727273
+488	55	Management of companies and enterprises	2	55	188	02188	Northwest Arctic Borough	0500000US02188	1.0	40.42424242424242	2546.4848484848485	1.0
+489	55	Management of companies and enterprises	2	55	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.0	44.57403594771242	4081.3257843137253	1.0
+490	55	Management of companies and enterprises	2	55	195	02195	Petersburg Census Area	0500000US02195	1.0	40.42424242424242	2546.4848484848485	1.0
+491	55	Management of companies and enterprises	2	55	195	02195	Petersburg Census Area, Alaska	0500000US02195	1.0	44.57403594771242	4081.3257843137253	1.0
+492	55	Management of companies and enterprises	2	55	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	1.0	40.42424242424242	2546.4848484848485	1.0
+493	55	Management of companies and enterprises	2	55	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	1.0	44.57403594771242	4081.3257843137253	1.0
+494	55	Management of companies and enterprises	2	55	220	02220	Sitka City and Borough	0500000US02220	2.0	80.84848484848484	5092.969696969697	1.0
+495	55	Management of companies and enterprises	2	55	220	02220	Sitka City and Borough, Alaska	0500000US02220	2.375	50.04763888888888	4810.474166666667	0.375
+496	55	Management of companies and enterprises	2	55	261	02261	Valdez-Cordova Census Area	0500000US02261	1.0	40.42424242424242	2546.4848484848485	1.0
+497	55	Management of companies and enterprises	2	55	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	1.0	47.31538126361656	4385.5343790849665	1.0
+498	55	Management of companies and enterprises	2	55	282	02282	Yakutat City and Borough	0500000US02282	1.0	40.42424242424242	2546.4848484848485	1.0
+499	55	Management of companies and enterprises	2	55	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	44.57403594771242	4081.3257843137253	1.0
+500	55	Management of companies and enterprises	2	55	290	02290	Yukon-Koyukuk Census Area	0500000US02290	3.0	121.27272727272728	7639.454545454546	1.0
+501	55	Management of companies and enterprises	2	55	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	2.0	89.14807189542483	8162.651568627451	1.0
+502	56	Administrative and support and waste management and remediation services	2	56	13	02013	Aleutians East Borough	0500000US02013	4.0	171.4074074074074	6411.777777777777	1.0
+503	56	Administrative and support and waste management and remediation services	2	56	13	02013	Aleutians East Borough, Alaska	0500000US02013	3.909090909090909	518.218208464522	18979.704779947293	0.7272727272727273
+504	56	Administrative and support and waste management and remediation services	2	56	16	02016	Aleutians West Census Area	0500000US02016	6.0	257.1111111111111	9617.666666666666	1.0
+505	56	Administrative and support and waste management and remediation services	2	56	16	02016	Aleutians West Census Area, Alaska	0500000US02016	7.0	76.72402056126703	3049.1923798277303	0.25
+506	56	Administrative and support and waste management and remediation services	2	56	20	02020	Anchorage Municipality	0500000US02020	573.0	14503.0	705121.0	0.0
+507	56	Administrative and support and waste management and remediation services	2	56	20	02020	Anchorage Municipality, Alaska	0500000US02020	545.75	13491.0	675286.375	0.0
+508	56	Administrative and support and waste management and remediation services	2	56	50	02050	Bethel Census Area	0500000US02050	3.0	38.0	1411.0	0.0
+509	56	Administrative and support and waste management and remediation services	2	56	50	02050	Bethel Census Area, Alaska	0500000US02050	11.875	49.75	2129.0	0.0
+510	56	Administrative and support and waste management and remediation services	2	56	60	02060	Bristol Bay Borough, Alaska	0500000US02060	1.0	37.68852459016394	1483.016393442623	1.0
+511	56	Administrative and support and waste management and remediation services	2	56	68	02068	Denali Borough	0500000US02068	5.0	214.25925925925924	8014.722222222222	1.0
+512	56	Administrative and support and waste management and remediation services	2	56	68	02068	Denali Borough, Alaska	0500000US02068	4.125	99.98591234493242	3905.712434009447	0.5
+513	56	Administrative and support and waste management and remediation services	2	56	70	02070	Dillingham Census Area	0500000US02070	2.0	85.7037037037037	3205.8888888888887	1.0
+514	56	Administrative and support and waste management and remediation services	2	56	70	02070	Dillingham Census Area, Alaska	0500000US02070	2.6	72.70183057385222	2939.2692692414557	0.6
+515	56	Administrative and support and waste management and remediation services	2	56	90	02090	Fairbanks North Star Borough	0500000US02090	134.0	900.0	36106.0	0.0
+516	56	Administrative and support and waste management and remediation services	2	56	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	129.75	1256.25	59395.0	0.0
+517	56	Administrative and support and waste management and remediation services	2	56	100	02100	Haines Borough	0500000US02100	8.0	14.0	473.0	0.0
+518	56	Administrative and support and waste management and remediation services	2	56	100	02100	Haines Borough, Alaska	0500000US02100	5.375	10.375	550.125	0.0
+519	56	Administrative and support and waste management and remediation services	2	56	105	02105	Hoonah-Angoon Census Area	0500000US02105	1.0	42.85185185185185	1602.9444444444443	1.0
+520	56	Administrative and support and waste management and remediation services	2	56	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.0	42.610169491525426	1601.406779661017	1.0
+521	56	Administrative and support and waste management and remediation services	2	56	110	02110	Juneau City and Borough	0500000US02110	57.0	286.0	13152.0	0.0
+522	56	Administrative and support and waste management and remediation services	2	56	110	02110	Juneau City and Borough, Alaska	0500000US02110	56.625	372.5	18290.625	0.0
+523	56	Administrative and support and waste management and remediation services	2	56	122	02122	Kenai Peninsula Borough	0500000US02122	88.0	402.0	18026.0	0.0
+524	56	Administrative and support and waste management and remediation services	2	56	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	85.625	357.125	21471.5	0.0
+525	56	Administrative and support and waste management and remediation services	2	56	130	02130	Ketchikan Gateway Borough	0500000US02130	30.0	155.0	8667.0	0.0
+526	56	Administrative and support and waste management and remediation services	2	56	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	31.0	193.0	12537.625	0.0
+527	56	Administrative and support and waste management and remediation services	2	56	150	02150	Kodiak Island Borough	0500000US02150	12.0	514.2222222222222	19235.333333333332	1.0
+528	56	Administrative and support and waste management and remediation services	2	56	150	02150	Kodiak Island Borough, Alaska	0500000US02150	13.75	245.9464434565157	11762.439705473742	0.25
+529	56	Administrative and support and waste management and remediation services	2	56	158	02158	Kusilvak Census Area, Alaska	0500000US02158	4.5	23.0	1559.0	0.0
+530	56	Administrative and support and waste management and remediation services	2	56	164	02164	Lake and Peninsula Borough	0500000US02164	2.0	85.7037037037037	3205.8888888888887	1.0
+531	56	Administrative and support and waste management and remediation services	2	56	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	2.5	94.12955641272903	3507.6581967213115	0.75
+532	56	Administrative and support and waste management and remediation services	2	56	170	02170	Matanuska-Susitna Borough	0500000US02170	112.0	577.0	18278.0	0.0
+533	56	Administrative and support and waste management and remediation services	2	56	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	123.125	645.25	24593.125	0.0
+534	56	Administrative and support and waste management and remediation services	2	56	180	02180	Nome Census Area	0500000US02180	7.0	0.0	957.0	0.0
+535	56	Administrative and support and waste management and remediation services	2	56	180	02180	Nome Census Area, Alaska	0500000US02180	7.25	35.375	1201.0	0.0
+536	56	Administrative and support and waste management and remediation services	2	56	185	02185	North Slope Borough	0500000US02185	10.0	428.5185185185185	16029.444444444443	1.0
+537	56	Administrative and support and waste management and remediation services	2	56	185	02185	North Slope Borough, Alaska	0500000US02185	8.285714285714286	375.10737809989234	21409.46167586234	0.42857142857142855
+538	56	Administrative and support and waste management and remediation services	2	56	188	02188	Northwest Arctic Borough	0500000US02188	4.0	21.0	2014.0	0.0
+539	56	Administrative and support and waste management and remediation services	2	56	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	5.0	95.0	4843.428571428572	0.0
+540	56	Administrative and support and waste management and remediation services	2	56	195	02195	Petersburg Borough, Alaska	0500000US02195	5.25	15.0	422.75	0.0
+541	56	Administrative and support and waste management and remediation services	2	56	195	02195	Petersburg Census Area	0500000US02195	5.0	0.0	346.0	0.0
+542	56	Administrative and support and waste management and remediation services	2	56	195	02195	Petersburg Census Area, Alaska	0500000US02195	4.25	6.0	393.0	0.0
+543	56	Administrative and support and waste management and remediation services	2	56	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	2.0	85.7037037037037	3205.8888888888887	1.0
+544	56	Administrative and support and waste management and remediation services	2	56	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	2.857142857142857	40.24799271195002	1478.6652152052818	0.5714285714285714
+545	56	Administrative and support and waste management and remediation services	2	56	220	02220	Sitka City and Borough	0500000US02220	18.0	46.0	3002.0	0.0
+546	56	Administrative and support and waste management and remediation services	2	56	220	02220	Sitka City and Borough, Alaska	0500000US02220	14.875	48.75	2885.375	0.0
+547	56	Administrative and support and waste management and remediation services	2	56	230	02230	Skagway Municipality	0500000US02230	6.0	29.0	2500.0	0.0
+548	56	Administrative and support and waste management and remediation services	2	56	230	02230	Skagway Municipality, Alaska	0500000US02230	7.75	80.05029174770769	5506.993227285357	0.25
+549	56	Administrative and support and waste management and remediation services	2	56	240	02240	Southeast Fairbanks Census Area	0500000US02240	8.0	342.8148148148148	12823.555555555555	1.0
+550	56	Administrative and support and waste management and remediation services	2	56	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	6.5	149.51560584639526	5405.23567310364	0.375
+551	56	Administrative and support and waste management and remediation services	2	56	261	02261	Valdez-Cordova Census Area	0500000US02261	30.0	0.0	1163.0	0.0
+552	56	Administrative and support and waste management and remediation services	2	56	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	45.5	42.375	2097.0	0.0
+553	56	Administrative and support and waste management and remediation services	2	56	275	02275	Wrangell City and Borough	0500000US02275	2.0	85.7037037037037	3205.8888888888887	1.0
+554	56	Administrative and support and waste management and remediation services	2	56	275	02275	Wrangell City and Borough, Alaska	0500000US02275	2.0	99.0013078251584	3655.3949198851533	1.0
+555	56	Administrative and support and waste management and remediation services	2	56	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	1.8571428571428572	30.571802235759545	1117.255691395758	0.5714285714285714
+556	61	Educational services	2	61	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	12.446786609380595	321.35392051557466	1.0
+557	61	Educational services	2	61	20	02020	Anchorage Municipality	0500000US02020	115.0	1874.0	59277.0	0.0
+558	61	Educational services	2	61	20	02020	Anchorage Municipality, Alaska	0500000US02020	111.625	1603.625	47495.125	0.0
+559	61	Educational services	2	61	50	02050	Bethel Census Area	0500000US02050	6.0	128.54545454545456	2169.4545454545455	1.0
+560	61	Educational services	2	61	50	02050	Bethel Census Area, Alaska	0500000US02050	6.909090909090909	90.12760960843667	2529.437398691534	0.7272727272727273
+561	61	Educational services	2	61	68	02068	Denali Borough	0500000US02068	2.0	42.84848484848485	723.1515151515151	1.0
+562	61	Educational services	2	61	68	02068	Denali Borough, Alaska	0500000US02068	2.0	26.284465628356607	657.7023093447906	1.0
+563	61	Educational services	2	61	90	02090	Fairbanks North Star Borough	0500000US02090	32.0	345.0	9261.0	0.0
+564	61	Educational services	2	61	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	40.375	327.375	9278.625	0.0
+565	61	Educational services	2	61	100	02100	Haines Borough	0500000US02100	3.0	64.27272727272728	1084.7272727272727	1.0
+566	61	Educational services	2	61	100	02100	Haines Borough, Alaska	0500000US02100	3.0	40.93028268723757	1184.7467141880677	0.7272727272727273
+567	61	Educational services	2	61	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.0	12.625	360.5	1.0
+568	61	Educational services	2	61	110	02110	Juneau City and Borough	0500000US02110	13.0	0.0	3362.0	0.0
+569	61	Educational services	2	61	110	02110	Juneau City and Borough, Alaska	0500000US02110	15.0	130.625	3707.125	0.0
+570	61	Educational services	2	61	122	02122	Kenai Peninsula Borough	0500000US02122	23.0	153.0	2825.0	0.0
+571	61	Educational services	2	61	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	24.75	184.25	3274.75	0.0
+572	61	Educational services	2	61	130	02130	Ketchikan Gateway Borough	0500000US02130	6.0	0.0	734.0	0.0
+573	61	Educational services	2	61	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	5.875	28.125	738.75	0.0
+574	61	Educational services	2	61	150	02150	Kodiak Island Borough	0500000US02150	4.0	85.6969696969697	1446.3030303030303	1.0
+575	61	Educational services	2	61	150	02150	Kodiak Island Borough, Alaska	0500000US02150	3.875	39.348872180451124	620.5101503759398	0.25
+576	61	Educational services	2	61	158	02158	Kusilvak Census Area, Alaska	0500000US02158	8.0	119.81954887218045	3514.4285714285716	0.5714285714285714
+577	61	Educational services	2	61	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	1.0	10.985969387755102	321.1887755102041	1.0
+578	61	Educational services	2	61	170	02170	Matanuska-Susitna Borough	0500000US02170	26.0	226.0	7125.0	0.0
+579	61	Educational services	2	61	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	27.375	283.75	8519.125	0.0
+580	61	Educational services	2	61	180	02180	Nome Census Area	0500000US02180	2.0	42.84848484848485	723.1515151515151	1.0
+581	61	Educational services	2	61	180	02180	Nome Census Area, Alaska	0500000US02180	2.0	26.284465628356607	657.7023093447906	1.0
+582	61	Educational services	2	61	185	02185	North Slope Borough	0500000US02185	1.0	21.424242424242426	361.57575757575756	1.0
+583	61	Educational services	2	61	185	02185	North Slope Borough, Alaska	0500000US02185	1.0	13.142232814178303	328.8511546723953	1.0
+584	61	Educational services	2	61	188	02188	Northwest Arctic Borough	0500000US02188	1.0	21.424242424242426	361.57575757575756	1.0
+585	61	Educational services	2	61	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.0	15.298496240601503	336.5135338345865	1.0
+586	61	Educational services	2	61	195	02195	Petersburg Borough, Alaska	0500000US02195	3.0	39.646616541353374	1198.2857142857142	0.5714285714285714
+587	61	Educational services	2	61	195	02195	Petersburg Census Area	0500000US02195	3.0	0.0	133.0	0.0
+588	61	Educational services	2	61	195	02195	Petersburg Census Area, Alaska	0500000US02195	2.25	20.920179914070893	514.530880773362	0.75
+589	61	Educational services	2	61	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	2.0	42.84848484848485	723.1515151515151	1.0
+590	61	Educational services	2	61	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	1.5	20.791480934479054	497.1079215896885	1.0
+591	61	Educational services	2	61	220	02220	Sitka City and Borough	0500000US02220	11.0	56.0	1130.0	0.0
+592	61	Educational services	2	61	220	02220	Sitka City and Borough, Alaska	0500000US02220	8.0	57.25	1773.75	0.0
+593	61	Educational services	2	61	240	02240	Southeast Fairbanks Census Area	0500000US02240	2.0	42.84848484848485	723.1515151515151	1.0
+594	61	Educational services	2	61	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	3.75	23.973872180451128	540.3851503759398	0.25
+595	61	Educational services	2	61	261	02261	Valdez-Cordova Census Area	0500000US02261	2.0	42.84848484848485	723.1515151515151	1.0
+596	61	Educational services	2	61	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	3.875	23.51641044575725	544.9991809881847	0.5
+597	61	Educational services	2	61	270	02270	Wade Hampton Census Area	0500000US02270	8.0	171.3939393939394	2892.6060606060605	1.0
+598	61	Educational services	2	61	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	8.75	112.14806659505908	2842.2174006444684	1.0
+599	61	Educational services	2	61	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	1.0	13.142232814178303	328.8511546723953	1.0
+600	62	Health care and social assistance	2	62	13	02013	Aleutians East Borough	0500000US02013	10.0	196.83229813664596	9660.434782608696	1.0
+601	62	Health care and social assistance	2	62	13	02013	Aleutians East Borough, Alaska	0500000US02013	9.727272727272727	181.99543994268507	11854.39222610548	0.7272727272727273
+602	62	Health care and social assistance	2	62	16	02016	Aleutians West Census Area	0500000US02016	14.0	0.0	6074.0	0.0
+603	62	Health care and social assistance	2	62	16	02016	Aleutians West Census Area, Alaska	0500000US02016	12.625	89.75	5526.5	0.0
+604	62	Health care and social assistance	2	62	20	02020	Anchorage Municipality	0500000US02020	1164.0	24369.0	1364198.0	0.0
+605	62	Health care and social assistance	2	62	20	02020	Anchorage Municipality, Alaska	0500000US02020	1279.25	26180.625	1628686.25	0.0
+606	62	Health care and social assistance	2	62	50	02050	Bethel Census Area	0500000US02050	47.0	925.111801242236	45404.04347826087	1.0
+607	62	Health care and social assistance	2	62	50	02050	Bethel Census Area, Alaska	0500000US02050	45.0	1010.2548584844138	69518.1629407417	0.5454545454545454
+608	62	Health care and social assistance	2	62	60	02060	Bristol Bay Borough	0500000US02060	2.0	39.36645962732919	1932.086956521739	1.0
+609	62	Health care and social assistance	2	62	60	02060	Bristol Bay Borough, Alaska	0500000US02060	2.8181818181818183	48.279290557476386	3223.079326097288	0.7272727272727273
+610	62	Health care and social assistance	2	62	68	02068	Denali Borough	0500000US02068	3.0	0.0	564.0	0.0
+611	62	Health care and social assistance	2	62	68	02068	Denali Borough, Alaska	0500000US02068	3.125	9.5	487.625	0.0
+612	62	Health care and social assistance	2	62	70	02070	Dillingham Census Area	0500000US02070	8.0	618.0	32837.0	0.0
+613	62	Health care and social assistance	2	62	70	02070	Dillingham Census Area, Alaska	0500000US02070	9.0	666.375	40073.5	0.0
+614	62	Health care and social assistance	2	62	90	02090	Fairbanks North Star Borough	0500000US02090	294.0	5631.0	310861.0	0.0
+615	62	Health care and social assistance	2	62	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	307.375	6081.375	377398.875	0.0
+616	62	Health care and social assistance	2	62	100	02100	Haines Borough	0500000US02100	10.0	125.0	3869.0	0.0
+617	62	Health care and social assistance	2	62	100	02100	Haines Borough, Alaska	0500000US02100	10.0	123.375	4398.125	0.0
+618	62	Health care and social assistance	2	62	105	02105	Hoonah-Angoon Census Area	0500000US02105	7.0	137.78260869565216	6762.304347826087	1.0
+619	62	Health care and social assistance	2	62	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	8.0	64.36892911010558	3185.199245852187	0.25
+620	62	Health care and social assistance	2	62	110	02110	Juneau City and Borough	0500000US02110	144.0	2394.0	111982.0	0.0
+621	62	Health care and social assistance	2	62	110	02110	Juneau City and Borough, Alaska	0500000US02110	133.125	2315.5	129023.875	0.0
+622	62	Health care and social assistance	2	62	122	02122	Kenai Peninsula Borough	0500000US02122	228.0	3868.0	152855.0	0.0
+623	62	Health care and social assistance	2	62	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	245.375	3896.125	188611.75	0.0
+624	62	Health care and social assistance	2	62	130	02130	Ketchikan Gateway Borough	0500000US02130	36.0	782.0	37806.0	0.0
+625	62	Health care and social assistance	2	62	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	44.625	783.375	41858.0	0.0
+626	62	Health care and social assistance	2	62	150	02150	Kodiak Island Borough	0500000US02150	39.0	767.6459627329193	37675.69565217391	1.0
+627	62	Health care and social assistance	2	62	150	02150	Kodiak Island Borough, Alaska	0500000US02150	42.75	745.8161764705883	42050.67794117647	0.25
+628	62	Health care and social assistance	2	62	158	02158	Kusilvak Census Area, Alaska	0500000US02158	12.714285714285714	224.2787456445993	15881.45993031359	0.5714285714285714
+629	62	Health care and social assistance	2	62	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	3.0	2.0	9.0	0.0
+630	62	Health care and social assistance	2	62	170	02170	Matanuska-Susitna Borough	0500000US02170	269.0	3760.0	165467.0	0.0
+631	62	Health care and social assistance	2	62	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	314.0	4264.375	211434.875	0.0
+632	62	Health care and social assistance	2	62	180	02180	Nome Census Area	0500000US02180	27.0	845.0	44976.0	0.0
+633	62	Health care and social assistance	2	62	180	02180	Nome Census Area, Alaska	0500000US02180	28.454545454545453	833.4019681568279	57186.938820989715	0.5454545454545454
+634	62	Health care and social assistance	2	62	185	02185	North Slope Borough	0500000US02185	9.0	177.14906832298138	8694.391304347826	1.0
+635	62	Health care and social assistance	2	62	185	02185	North Slope Borough, Alaska	0500000US02185	9.181818181818182	271.1184416731045	23203.559484704678	0.5454545454545454
+636	62	Health care and social assistance	2	62	188	02188	Northwest Arctic Borough	0500000US02188	4.0	78.73291925465838	3864.173913043478	1.0
+637	62	Health care and social assistance	2	62	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	4.818181818181818	206.58467781887984	17113.479549838372	0.7272727272727273
+638	62	Health care and social assistance	2	62	195	02195	Petersburg Borough, Alaska	0500000US02195	9.0	173.5	9261.5	0.0
+639	62	Health care and social assistance	2	62	195	02195	Petersburg Census Area	0500000US02195	11.0	216.51552795031057	10626.478260869566	1.0
+640	62	Health care and social assistance	2	62	195	02195	Petersburg Census Area, Alaska	0500000US02195	11.0	199.33220211161387	10300.517043740574	0.5
+641	62	Health care and social assistance	2	62	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	10.0	200.0	6380.0	0.0
+642	62	Health care and social assistance	2	62	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	12.25	174.625	6882.875	0.0
+643	62	Health care and social assistance	2	62	220	02220	Sitka City and Borough	0500000US02220	25.0	933.0	47187.0	0.0
+644	62	Health care and social assistance	2	62	220	02220	Sitka City and Borough, Alaska	0500000US02220	24.75	832.375	50163.625	0.0
+645	62	Health care and social assistance	2	62	230	02230	Skagway Municipality	0500000US02230	4.0	4.0	112.0	0.0
+646	62	Health care and social assistance	2	62	230	02230	Skagway Municipality, Alaska	0500000US02230	5.0	4.75	134.0	0.0
+647	62	Health care and social assistance	2	62	240	02240	Southeast Fairbanks Census Area	0500000US02240	11.0	115.0	3648.0	0.0
+648	62	Health care and social assistance	2	62	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	11.625	109.625	4064.375	0.0
+649	62	Health care and social assistance	2	62	261	02261	Valdez-Cordova Census Area	0500000US02261	25.0	440.0	18282.0	0.0
+650	62	Health care and social assistance	2	62	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	28.875	503.0	23953.375	0.0
+651	62	Health care and social assistance	2	62	270	02270	Wade Hampton Census Area	0500000US02270	19.0	373.98136645962734	18354.82608695652	1.0
+652	62	Health care and social assistance	2	62	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	15.75	373.53698138267936	21731.263779518697	1.0
+653	62	Health care and social assistance	2	62	275	02275	Wrangell City and Borough	0500000US02275	7.0	200.0	8736.0	0.0
+654	62	Health care and social assistance	2	62	275	02275	Wrangell City and Borough, Alaska	0500000US02275	6.625	182.48585410053803	9949.650049526124	0.5
+655	62	Health care and social assistance	2	62	282	02282	Yakutat City and Borough	0500000US02282	3.0	59.04968944099379	2898.130434782609	1.0
+656	62	Health care and social assistance	2	62	282	02282	Yakutat City and Borough, Alaska	0500000US02282	3.125	29.03393665158371	1547.7636877828054	0.25
+657	62	Health care and social assistance	2	62	290	02290	Yukon-Koyukuk Census Area	0500000US02290	10.0	196.83229813664596	9660.434782608696	1.0
+658	62	Health care and social assistance	2	62	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	7.5	60.86892911010558	2961.824245852187	0.25
+659	71	Arts, entertainment, and recreation	2	71	13	02013	Aleutians East Borough	0500000US02013	1.0	8.891891891891893	156.97297297297297	1.0
+660	71	Arts, entertainment, and recreation	2	71	13	02013	Aleutians East Borough, Alaska	0500000US02013	1.0	4.784773936170213	194.10813386524825	1.0
+661	71	Arts, entertainment, and recreation	2	71	16	02016	Aleutians West Census Area	0500000US02016	2.0	17.783783783783786	313.94594594594594	1.0
+662	71	Arts, entertainment, and recreation	2	71	16	02016	Aleutians West Census Area, Alaska	0500000US02016	1.0	4.784773936170213	194.10813386524825	1.0
+663	71	Arts, entertainment, and recreation	2	71	20	02020	Anchorage Municipality	0500000US02020	146.0	2807.0	46850.0	0.0
+664	71	Arts, entertainment, and recreation	2	71	20	02020	Anchorage Municipality, Alaska	0500000US02020	156.25	2908.625	52107.125	0.0
+665	71	Arts, entertainment, and recreation	2	71	50	02050	Bethel Census Area	0500000US02050	7.0	51.0	393.0	0.0
+666	71	Arts, entertainment, and recreation	2	71	50	02050	Bethel Census Area, Alaska	0500000US02050	5.625	51.86702127659574	1030.9258643617022	0.25
+667	71	Arts, entertainment, and recreation	2	71	60	02060	Bristol Bay Borough, Alaska	0500000US02060	4.25	5.034574468085106	229.33896276595743	0.25
+668	71	Arts, entertainment, and recreation	2	71	68	02068	Denali Borough	0500000US02068	9.0	0.0	1516.0	0.0
+669	71	Arts, entertainment, and recreation	2	71	68	02068	Denali Borough, Alaska	0500000US02068	9.625	10.875	1887.625	0.0
+670	71	Arts, entertainment, and recreation	2	71	70	02070	Dillingham Census Area	0500000US02070	4.0	0.0	183.0	0.0
+671	71	Arts, entertainment, and recreation	2	71	70	02070	Dillingham Census Area, Alaska	0500000US02070	4.75	4.125	437.5	0.0
+672	71	Arts, entertainment, and recreation	2	71	90	02090	Fairbanks North Star Borough	0500000US02090	72.0	597.0	8232.0	0.0
+673	71	Arts, entertainment, and recreation	2	71	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	76.75	604.625	9250.875	0.0
+674	71	Arts, entertainment, and recreation	2	71	100	02100	Haines Borough	0500000US02100	10.0	0.0	1711.0	0.0
+675	71	Arts, entertainment, and recreation	2	71	100	02100	Haines Borough, Alaska	0500000US02100	14.0	47.0	1941.875	0.0
+676	71	Arts, entertainment, and recreation	2	71	105	02105	Hoonah-Angoon Census Area	0500000US02105	6.0	53.351351351351354	941.8378378378379	1.0
+677	71	Arts, entertainment, and recreation	2	71	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	4.7272727272727275	35.82898936170213	2534.3902401676337	0.7272727272727273
+678	71	Arts, entertainment, and recreation	2	71	110	02110	Juneau City and Borough	0500000US02110	37.0	262.0	5440.0	0.0
+679	71	Arts, entertainment, and recreation	2	71	110	02110	Juneau City and Borough, Alaska	0500000US02110	35.625	307.625	5853.25	0.0
+680	71	Arts, entertainment, and recreation	2	71	122	02122	Kenai Peninsula Borough	0500000US02122	67.0	280.0	6490.0	0.0
+681	71	Arts, entertainment, and recreation	2	71	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	67.875	204.625	5556.5	0.0
+682	71	Arts, entertainment, and recreation	2	71	130	02130	Ketchikan Gateway Borough	0500000US02130	24.0	69.0	4589.0	0.0
+683	71	Arts, entertainment, and recreation	2	71	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	22.25	72.375	4638.125	0.0
+684	71	Arts, entertainment, and recreation	2	71	150	02150	Kodiak Island Borough	0500000US02150	19.0	61.0	1695.0	0.0
+685	71	Arts, entertainment, and recreation	2	71	150	02150	Kodiak Island Borough, Alaska	0500000US02150	19.875	56.375	1870.0	0.0
+686	71	Arts, entertainment, and recreation	2	71	158	02158	Kusilvak Census Area, Alaska	0500000US02158	3.0	19.5	65.5	0.0
+687	71	Arts, entertainment, and recreation	2	71	164	02164	Lake and Peninsula Borough	0500000US02164	4.0	0.0	377.0	0.0
+688	71	Arts, entertainment, and recreation	2	71	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	3.2857142857142856	0.14285714285714285	392.57142857142856	0.0
+689	71	Arts, entertainment, and recreation	2	71	170	02170	Matanuska-Susitna Borough	0500000US02170	62.0	279.0	7386.0	0.0
+690	71	Arts, entertainment, and recreation	2	71	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	64.375	349.875	9431.5	0.0
+691	71	Arts, entertainment, and recreation	2	71	180	02180	Nome Census Area	0500000US02180	8.0	68.0	506.0	0.0
+692	71	Arts, entertainment, and recreation	2	71	180	02180	Nome Census Area, Alaska	0500000US02180	6.375	50.125	360.0	0.0
+693	71	Arts, entertainment, and recreation	2	71	185	02185	North Slope Borough	0500000US02185	4.0	35.56756756756757	627.8918918918919	1.0
+694	71	Arts, entertainment, and recreation	2	71	185	02185	North Slope Borough, Alaska	0500000US02185	3.6	39.06063829787234	1497.8321808510639	0.6
+695	71	Arts, entertainment, and recreation	2	71	188	02188	Northwest Arctic Borough	0500000US02188	2.0	17.783783783783786	313.94594594594594	1.0
+696	71	Arts, entertainment, and recreation	2	71	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	1.25	6.1039228723404255	230.94855939716314	1.0
+697	71	Arts, entertainment, and recreation	2	71	195	02195	Petersburg Borough, Alaska	0500000US02195	3.25	5.0	134.25	0.0
+698	71	Arts, entertainment, and recreation	2	71	195	02195	Petersburg Census Area	0500000US02195	4.0	0.0	131.0	0.0
+699	71	Arts, entertainment, and recreation	2	71	195	02195	Petersburg Census Area, Alaska	0500000US02195	4.25	8.25	157.5	0.0
+700	71	Arts, entertainment, and recreation	2	71	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	4.0	0.0	159.0	0.0
+701	71	Arts, entertainment, and recreation	2	71	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	3.25	2.5	154.25	0.0
+702	71	Arts, entertainment, and recreation	2	71	220	02220	Sitka City and Borough	0500000US02220	18.0	160.05405405405406	2825.5135135135138	1.0
+703	71	Arts, entertainment, and recreation	2	71	220	02220	Sitka City and Borough, Alaska	0500000US02220	15.5	49.0531914893617	2218.198404255319	0.25
+704	71	Arts, entertainment, and recreation	2	71	230	02230	Skagway Municipality	0500000US02230	8.0	0.0	1023.0	0.0
+705	71	Arts, entertainment, and recreation	2	71	230	02230	Skagway Municipality, Alaska	0500000US02230	5.875	8.875	841.125	0.0
+706	71	Arts, entertainment, and recreation	2	71	240	02240	Southeast Fairbanks Census Area	0500000US02240	4.0	0.0	260.0	0.0
+707	71	Arts, entertainment, and recreation	2	71	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	3.75	3.5289228723404253	213.82147606382978	0.25
+708	71	Arts, entertainment, and recreation	2	71	261	02261	Valdez-Cordova Census Area	0500000US02261	25.0	74.0	1851.0	0.0
+709	71	Arts, entertainment, and recreation	2	71	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	25.375	79.875	2244.0	0.0
+710	71	Arts, entertainment, and recreation	2	71	270	02270	Wade Hampton Census Area	0500000US02270	4.0	0.0	96.0	0.0
+711	71	Arts, entertainment, and recreation	2	71	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	2.5	13.085172872340426	376.51939273049646	0.75
+712	71	Arts, entertainment, and recreation	2	71	275	02275	Wrangell City and Borough	0500000US02275	1.0	8.891891891891893	156.97297297297297	1.0
+713	71	Arts, entertainment, and recreation	2	71	275	02275	Wrangell City and Borough, Alaska	0500000US02275	3.625	6.209574468085107	252.58896276595743	0.375
+714	71	Arts, entertainment, and recreation	2	71	282	02282	Yakutat City and Borough	0500000US02282	3.0	0.0	74.0	0.0
+715	71	Arts, entertainment, and recreation	2	71	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.25	6.1039228723404255	230.94855939716314	1.0
+716	71	Arts, entertainment, and recreation	2	71	290	02290	Yukon-Koyukuk Census Area	0500000US02290	3.0	26.675675675675677	470.91891891891896	1.0
+717	71	Arts, entertainment, and recreation	2	71	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	2.0	9.569547872340426	388.2162677304965	1.0
+718	72	Accommodation and food services	2	72	13	02013	Aleutians East Borough	0500000US02013	11.0	47.0	924.0	0.0
+719	72	Accommodation and food services	2	72	13	02013	Aleutians East Borough, Alaska	0500000US02013	9.625	31.25	538.125	0.0
+720	72	Accommodation and food services	2	72	16	02016	Aleutians West Census Area	0500000US02016	7.0	274.5	3325.0	1.0
+721	72	Accommodation and food services	2	72	16	02016	Aleutians West Census Area, Alaska	0500000US02016	7.25	118.54722222222222	4121.697685185185	0.25
+722	72	Accommodation and food services	2	72	20	02020	Anchorage Municipality	0500000US02020	780.0	14927.0	343462.0	0.0
+723	72	Accommodation and food services	2	72	20	02020	Anchorage Municipality, Alaska	0500000US02020	784.875	15465.375	383943.5	0.0
+724	72	Accommodation and food services	2	72	50	02050	Bethel Census Area	0500000US02050	18.0	46.0	1010.0	0.0
+725	72	Accommodation and food services	2	72	50	02050	Bethel Census Area, Alaska	0500000US02050	18.625	43.5	1178.25	0.0
+726	72	Accommodation and food services	2	72	60	02060	Bristol Bay Borough	0500000US02060	19.0	55.0	4141.0	0.0
+727	72	Accommodation and food services	2	72	60	02060	Bristol Bay Borough, Alaska	0500000US02060	18.75	46.875	5400.625	0.0
+728	72	Accommodation and food services	2	72	68	02068	Denali Borough	0500000US02068	36.0	0.0	19017.0	0.0
+729	72	Accommodation and food services	2	72	68	02068	Denali Borough, Alaska	0500000US02068	35.25	159.0	18095.125	0.0
+730	72	Accommodation and food services	2	72	70	02070	Dillingham Census Area	0500000US02070	11.0	46.0	1017.0	0.0
+731	72	Accommodation and food services	2	72	70	02070	Dillingham Census Area, Alaska	0500000US02070	10.875	45.875	1170.125	0.0
+732	72	Accommodation and food services	2	72	90	02090	Fairbanks North Star Borough	0500000US02090	215.0	3075.0	64708.0	0.0
+733	72	Accommodation and food services	2	72	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	221.375	3119.25	75904.125	0.0
+734	72	Accommodation and food services	2	72	100	02100	Haines Borough	0500000US02100	21.0	91.0	1749.0	0.0
+735	72	Accommodation and food services	2	72	100	02100	Haines Borough, Alaska	0500000US02100	18.625	81.0	1918.375	0.0
+736	72	Accommodation and food services	2	72	105	02105	Hoonah-Angoon Census Area	0500000US02105	16.0	0.0	1911.0	0.0
+737	72	Accommodation and food services	2	72	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	15.375	21.125	1970.625	0.0
+738	72	Accommodation and food services	2	72	110	02110	Juneau City and Borough	0500000US02110	117.0	1292.0	25433.0	0.0
+739	72	Accommodation and food services	2	72	110	02110	Juneau City and Borough, Alaska	0500000US02110	119.125	1276.75	30106.875	0.0
+740	72	Accommodation and food services	2	72	122	02122	Kenai Peninsula Borough	0500000US02122	262.0	1635.0	38763.0	0.0
+741	72	Accommodation and food services	2	72	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	284.625	1812.0	49703.625	0.0
+742	72	Accommodation and food services	2	72	130	02130	Ketchikan Gateway Borough	0500000US02130	67.0	526.0	11990.0	0.0
+743	72	Accommodation and food services	2	72	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	62.25	547.5	14889.125	0.0
+744	72	Accommodation and food services	2	72	150	02150	Kodiak Island Borough	0500000US02150	47.0	418.0	8906.0	0.0
+745	72	Accommodation and food services	2	72	150	02150	Kodiak Island Borough, Alaska	0500000US02150	46.625	418.375	9727.5	0.0
+746	72	Accommodation and food services	2	72	164	02164	Lake and Peninsula Borough	0500000US02164	10.0	0.0	2604.0	0.0
+747	72	Accommodation and food services	2	72	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	10.375	14.375	3562.625	0.0
+748	72	Accommodation and food services	2	72	170	02170	Matanuska-Susitna Borough	0500000US02170	200.0	1721.0	35868.0	0.0
+749	72	Accommodation and food services	2	72	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	222.125	2287.5	50658.75	0.0
+750	72	Accommodation and food services	2	72	180	02180	Nome Census Area	0500000US02180	18.0	179.0	3309.0	0.0
+751	72	Accommodation and food services	2	72	180	02180	Nome Census Area, Alaska	0500000US02180	18.625	150.625	3910.0	0.0
+752	72	Accommodation and food services	2	72	185	02185	North Slope Borough	0500000US02185	30.0	602.0	19814.0	0.0
+753	72	Accommodation and food services	2	72	185	02185	North Slope Borough, Alaska	0500000US02185	28.25	647.95	33900.90833333333	0.125
+754	72	Accommodation and food services	2	72	188	02188	Northwest Arctic Borough	0500000US02188	7.0	274.5	3325.0	1.0
+755	72	Accommodation and food services	2	72	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	7.5	93.79722222222222	3062.322685185185	0.25
+756	72	Accommodation and food services	2	72	195	02195	Petersburg Borough, Alaska	0500000US02195	15.0	66.25	1811.0	0.0
+757	72	Accommodation and food services	2	72	195	02195	Petersburg Census Area	0500000US02195	16.0	0.0	1147.0	0.0
+758	72	Accommodation and food services	2	72	195	02195	Petersburg Census Area, Alaska	0500000US02195	15.75	64.25	1336.75	0.0
+759	72	Accommodation and food services	2	72	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	26.0	0.0	2763.0	0.0
+760	72	Accommodation and food services	2	72	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	24.875	92.5	3488.875	0.0
+761	72	Accommodation and food services	2	72	220	02220	Sitka City and Borough	0500000US02220	39.0	315.0	7565.0	0.0
+762	72	Accommodation and food services	2	72	220	02220	Sitka City and Borough, Alaska	0500000US02220	39.125	349.875	10179.0	0.0
+763	72	Accommodation and food services	2	72	230	02230	Skagway Municipality	0500000US02230	22.0	58.0	4251.0	0.0
+764	72	Accommodation and food services	2	72	230	02230	Skagway Municipality, Alaska	0500000US02230	21.625	73.875	5398.625	0.0
+765	72	Accommodation and food services	2	72	240	02240	Southeast Fairbanks Census Area	0500000US02240	23.0	110.0	3331.0	0.0
+766	72	Accommodation and food services	2	72	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	24.875	126.5	3889.0	0.0
+767	72	Accommodation and food services	2	72	261	02261	Valdez-Cordova Census Area	0500000US02261	72.0	371.0	10290.0	0.0
+768	72	Accommodation and food services	2	72	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	69.625	336.5	11187.875	0.0
+769	72	Accommodation and food services	2	72	275	02275	Wrangell City and Borough	0500000US02275	6.0	44.0	737.0	0.0
+770	72	Accommodation and food services	2	72	275	02275	Wrangell City and Borough, Alaska	0500000US02275	5.625	59.40833333333333	2043.1236111111111	0.25
+771	72	Accommodation and food services	2	72	282	02282	Yakutat City and Borough	0500000US02282	6.0	0.0	788.0	0.0
+772	72	Accommodation and food services	2	72	282	02282	Yakutat City and Borough, Alaska	0500000US02282	6.125	10.375	898.875	0.0
+773	72	Accommodation and food services	2	72	290	02290	Yukon-Koyukuk Census Area	0500000US02290	12.0	53.0	1290.0	0.0
+774	72	Accommodation and food services	2	72	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	8.0	42.54722222222222	1508.197685185185	0.25
+775	81	Other services (except public administration)	2	81	13	02013	Aleutians East Borough	0500000US02013	5.0	95.26315789473684	222.1052631578947	1.0
+776	81	Other services (except public administration)	2	81	13	02013	Aleutians East Borough, Alaska	0500000US02013	3.0	10.606681034482758	156.8117627041742	0.375
+777	81	Other services (except public administration)	2	81	16	02016	Aleutians West Census Area	0500000US02016	9.0	44.0	2619.0	0.0
+778	81	Other services (except public administration)	2	81	16	02016	Aleutians West Census Area, Alaska	0500000US02016	9.125	47.375	2726.875	0.0
+779	81	Other services (except public administration)	2	81	20	02020	Anchorage Municipality	0500000US02020	779.0	5058.0	182659.0	0.0
+780	81	Other services (except public administration)	2	81	20	02020	Anchorage Municipality, Alaska	0500000US02020	777.625	5163.75	198240.25	0.0
+781	81	Other services (except public administration)	2	81	50	02050	Bethel Census Area	0500000US02050	17.0	62.0	1353.0	0.0
+782	81	Other services (except public administration)	2	81	50	02050	Bethel Census Area, Alaska	0500000US02050	22.75	81.5	1756.875	0.0
+783	81	Other services (except public administration)	2	81	60	02060	Bristol Bay Borough	0500000US02060	2.0	38.10526315789473	88.84210526315789	1.0
+784	81	Other services (except public administration)	2	81	60	02060	Bristol Bay Borough, Alaska	0500000US02060	4.125	6.633620689655173	159.03788566243193	0.25
+785	81	Other services (except public administration)	2	81	68	02068	Denali Borough	0500000US02068	5.0	9.0	92.0	0.0
+786	81	Other services (except public administration)	2	81	68	02068	Denali Borough, Alaska	0500000US02068	3.5714285714285716	12.871921182266009	106.04614985740213	0.2857142857142857
+787	81	Other services (except public administration)	2	81	70	02070	Dillingham Census Area	0500000US02070	6.0	0.0	433.0	0.0
+788	81	Other services (except public administration)	2	81	70	02070	Dillingham Census Area, Alaska	0500000US02070	5.375	14.125	707.5921052631579	0.125
+789	81	Other services (except public administration)	2	81	90	02090	Fairbanks North Star Borough	0500000US02090	254.0	1311.0	42082.0	0.0
+790	81	Other services (except public administration)	2	81	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	241.375	1263.125	43995.875	0.0
+791	81	Other services (except public administration)	2	81	100	02100	Haines Borough	0500000US02100	9.0	0.0	295.0	0.0
+792	81	Other services (except public administration)	2	81	100	02100	Haines Borough, Alaska	0500000US02100	8.625	14.25	366.875	0.0
+793	81	Other services (except public administration)	2	81	105	02105	Hoonah-Angoon Census Area	0500000US02105	3.0	57.1578947368421	133.26315789473682	1.0
+794	81	Other services (except public administration)	2	81	105	02105	Hoonah-Angoon Census Area, Alaska	0500000US02105	1.75	8.371408045977011	154.77423623714458	1.0
+795	81	Other services (except public administration)	2	81	110	02110	Juneau City and Borough	0500000US02110	114.0	606.0	20486.0	0.0
+796	81	Other services (except public administration)	2	81	110	02110	Juneau City and Borough, Alaska	0500000US02110	109.0	608.375	24249.625	0.0
+797	81	Other services (except public administration)	2	81	122	02122	Kenai Peninsula Borough	0500000US02122	186.0	821.0	23660.0	0.0
+798	81	Other services (except public administration)	2	81	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	194.75	796.625	24607.25	0.0
+799	81	Other services (except public administration)	2	81	130	02130	Ketchikan Gateway Borough	0500000US02130	51.0	172.0	4332.0	0.0
+800	81	Other services (except public administration)	2	81	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	47.25	160.25	4707.0	0.0
+801	81	Other services (except public administration)	2	81	150	02150	Kodiak Island Borough	0500000US02150	45.0	227.0	6108.0	0.0
+802	81	Other services (except public administration)	2	81	150	02150	Kodiak Island Borough, Alaska	0500000US02150	39.75	218.25	6300.5	0.0
+803	81	Other services (except public administration)	2	81	158	02158	Kusilvak Census Area, Alaska	0500000US02158	7.25	21.5	793.25	0.0
+804	81	Other services (except public administration)	2	81	164	02164	Lake and Peninsula Borough	0500000US02164	2.0	38.10526315789473	88.84210526315789	1.0
+805	81	Other services (except public administration)	2	81	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	2.7777777777777777	18.632662835249043	715.1031205888283	0.7777777777777778
+806	81	Other services (except public administration)	2	81	170	02170	Matanuska-Susitna Borough	0500000US02170	176.0	825.0	21873.0	0.0
+807	81	Other services (except public administration)	2	81	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	194.25	885.5	26883.875	0.0
+808	81	Other services (except public administration)	2	81	180	02180	Nome Census Area	0500000US02180	16.0	54.0	1744.0	0.0
+809	81	Other services (except public administration)	2	81	180	02180	Nome Census Area, Alaska	0500000US02180	17.375	59.625	1918.125	0.0
+810	81	Other services (except public administration)	2	81	185	02185	North Slope Borough	0500000US02185	11.0	0.0	1472.0	0.0
+811	81	Other services (except public administration)	2	81	185	02185	North Slope Borough, Alaska	0500000US02185	10.625	57.75	2052.875	0.0
+812	81	Other services (except public administration)	2	81	188	02188	Northwest Arctic Borough	0500000US02188	11.0	48.0	1089.0	0.0
+813	81	Other services (except public administration)	2	81	188	02188	Northwest Arctic Borough, Alaska	0500000US02188	9.5	32.625	1150.25	0.0
+814	81	Other services (except public administration)	2	81	195	02195	Petersburg Borough, Alaska	0500000US02195	14.0	47.75	1277.75	0.0
+815	81	Other services (except public administration)	2	81	195	02195	Petersburg Census Area	0500000US02195	15.0	0.0	806.0	0.0
+816	81	Other services (except public administration)	2	81	195	02195	Petersburg Census Area, Alaska	0500000US02195	15.75	35.5	901.75	0.0
+817	81	Other services (except public administration)	2	81	198	02198	Prince of Wales-Hyder Census Area	0500000US02198	9.0	0.0	330.0	0.0
+818	81	Other services (except public administration)	2	81	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	12.125	24.375	465.875	0.0
+819	81	Other services (except public administration)	2	81	220	02220	Sitka City and Borough	0500000US02220	33.0	0.0	2547.0	0.0
+820	81	Other services (except public administration)	2	81	220	02220	Sitka City and Borough, Alaska	0500000US02220	33.875	149.625	5372.125	0.0
+821	81	Other services (except public administration)	2	81	230	02230	Skagway Municipality	0500000US02230	5.0	21.0	366.0	0.0
+822	81	Other services (except public administration)	2	81	230	02230	Skagway Municipality, Alaska	0500000US02230	3.75	20.125	359.875	0.0
+823	81	Other services (except public administration)	2	81	240	02240	Southeast Fairbanks Census Area	0500000US02240	12.0	31.0	450.0	0.0
+824	81	Other services (except public administration)	2	81	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	11.125	20.875	370.875	0.0
+825	81	Other services (except public administration)	2	81	261	02261	Valdez-Cordova Census Area	0500000US02261	38.0	186.0	4869.0	0.0
+826	81	Other services (except public administration)	2	81	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	34.25	118.625	4484.875	0.0
+827	81	Other services (except public administration)	2	81	270	02270	Wade Hampton Census Area	0500000US02270	5.0	0.0	96.0	0.0
+828	81	Other services (except public administration)	2	81	270	02270	Wade Hampton Census Area, Alaska	0500000US02270	5.75	28.043103448275865	307.6894283121597	0.5
+829	81	Other services (except public administration)	2	81	275	02275	Wrangell City and Borough	0500000US02275	8.0	0.0	765.0	0.0
+830	81	Other services (except public administration)	2	81	275	02275	Wrangell City and Borough, Alaska	0500000US02275	6.375	31.525862068965516	609.8636569872958	0.25
+831	81	Other services (except public administration)	2	81	282	02282	Yakutat City and Borough	0500000US02282	1.0	19.052631578947366	44.421052631578945	1.0
+832	81	Other services (except public administration)	2	81	282	02282	Yakutat City and Borough, Alaska	0500000US02282	1.0	5.310704022988506	83.9233023290986	1.0
+833	81	Other services (except public administration)	2	81	290	02290	Yukon-Koyukuk Census Area	0500000US02290	6.0	114.3157894736842	266.52631578947364	1.0
+834	81	Other services (except public administration)	2	81	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	4.875	22.896551724137932	385.2197141560798	0.25
+835	99	Industries not classified	2	99	20	02020	Anchorage Municipality	0500000US02020	7.0	0.0	307.0	0.0
+836	99	Industries not classified	2	99	20	02020	Anchorage Municipality, Alaska	0500000US02020	14.5	10.75	369.5	0.0
+837	99	Industries not classified	2	99	50	02050	Bethel Census Area, Alaska	0500000US02050	1.0	0.7995014245014245	20.82371794871795	1.0
+838	99	Industries not classified	2	99	90	02090	Fairbanks North Star Borough	0500000US02090	2.0	0.0	18.88888888888889	1.0
+839	99	Industries not classified	2	99	90	02090	Fairbanks North Star Borough, Alaska	0500000US02090	3.857142857142857	2.732142857142857	406.1607142857143	0.14285714285714285
+840	99	Industries not classified	2	99	100	02100	Haines Borough, Alaska	0500000US02100	1.0	-0.4545454545454546	12.90909090909091	1.0
+841	99	Industries not classified	2	99	110	02110	Juneau City and Borough	0500000US02110	1.0	0.0	9.444444444444445	1.0
+842	99	Industries not classified	2	99	110	02110	Juneau City and Borough, Alaska	0500000US02110	2.75	1.1317016317016317	37.00262237762238	0.75
+843	99	Industries not classified	2	99	122	02122	Kenai Peninsula Borough	0500000US02122	1.0	0.0	9.444444444444445	1.0
+844	99	Industries not classified	2	99	122	02122	Kenai Peninsula Borough, Alaska	0500000US02122	4.0	2.8436285936285937	77.37631118881119	0.375
+845	99	Industries not classified	2	99	130	02130	Ketchikan Gateway Borough, Alaska	0500000US02130	1.0	0.4859897047397047	18.84506118881119	1.0
+846	99	Industries not classified	2	99	150	02150	Kodiak Island Borough	0500000US02150	1.0	0.0	9.444444444444445	1.0
+847	99	Industries not classified	2	99	150	02150	Kodiak Island Borough, Alaska	0500000US02150	1.0	0.5069444444444444	21.8125	1.0
+848	99	Industries not classified	2	99	164	02164	Lake and Peninsula Borough, Alaska	0500000US02164	1.0	-0.4545454545454546	12.90909090909091	1.0
+849	99	Industries not classified	2	99	170	02170	Matanuska-Susitna Borough	0500000US02170	1.0	0.0	9.444444444444445	1.0
+850	99	Industries not classified	2	99	170	02170	Matanuska-Susitna Borough, Alaska	0500000US02170	4.428571428571429	5.714285714285714	111.85714285714286	0.0
+851	99	Industries not classified	2	99	195	02195	Petersburg Census Area, Alaska	0500000US02195	1.5	1.329059829059829	24.096153846153847	1.0
+852	99	Industries not classified	2	99	198	02198	Prince of Wales-Hyder Census Area, Alaska	0500000US02198	1.3333333333333333	1.261039886039886	27.10576923076923	1.0
+853	99	Industries not classified	2	99	220	02220	Sitka City and Borough, Alaska	0500000US02220	1.5	2.1398358585858586	23.633522727272727	0.75
+854	99	Industries not classified	2	99	240	02240	Southeast Fairbanks Census Area, Alaska	0500000US02240	1.0	0.2729862729862729	14.085081585081587	1.0
+855	99	Industries not classified	2	99	261	02261	Valdez-Cordova Census Area	0500000US02261	2.0	0.0	18.88888888888889	1.0
+856	99	Industries not classified	2	99	261	02261	Valdez-Cordova Census Area, Alaska	0500000US02261	3.857142857142857	1.9826839826839826	27.415584415584416	0.2857142857142857
+857	99	Industries not classified	2	99	275	02275	Wrangell City and Borough	0500000US02275	1.0	0.0	9.444444444444445	1.0
+858	99	Industries not classified	2	99	275	02275	Wrangell City and Borough, Alaska	0500000US02275	1.0	0.4859897047397047	18.84506118881119	1.0
+859	99	Industries not classified	2	99	290	02290	Yukon-Koyukuk Census Area, Alaska	0500000US02290	1.0	1.2548076923076923	25.985576923076923	1.0
