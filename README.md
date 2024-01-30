@@ -14,6 +14,7 @@ Processed data resides at:
 - [Process Industries for Counties](process/python/bea)
 - [Process Zips](process/naics/)
 - [Process Farm Fresh Data](process/python/farmfresh/)
+- [Imputation Using Machine Learning - NAICS](https://github.com/modelearth/machine-learning/) 
 - [Model.Earth](https://model.earth)
 
 Investigation of [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
