@@ -11,7 +11,7 @@ Processed zip code files reside at:
 Processed using <b>split\_zip\_data.py</b> in the current folder.
 Creates files for naics levels 2,4 and 6.
 
-As of Jan 30, 2024: [Older NAICS columns](/community-data/industries/naics/US/country/US-2021-Q1-naics-6-digits.csv) are used by [upcoming naics list](/localsite/info/#state=GA&beta=true). Replacing soon.
+[New NAICS columns](/community-data/industries/naics/US/country/US-2021-Q1-naics-6-digits.csv) used by [upcoming naics list](/localsite/info/#state=GA&beta=true).
 
 <!--
 Old 2012 6-digit Naics
