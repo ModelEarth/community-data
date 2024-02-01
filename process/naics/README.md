@@ -10,12 +10,25 @@
 Processed using <b>split\_zip\_data.py</b> in the current folder.
 Creates files for naics levels 2,4 and 6 in "zips" subfolder.
 
-Bug: Payroll column is mostly 0. Why do some get populated? [Example](https://github.com/ModelEarth/community-data/tree/master/us/zipcodes/naics/5/3/5/2/1)
+Bug: Payroll column is mostly 0. Why do some get populated?
 
-The columns from the census naics zip file are:
-Zip Naics Establishments Employees Payroll 
+Example:
+[Zip 53521](https://github.com/ModelEarth/community-data/tree/master/us/zipcodes/naics/5/3/5/2/1)
 
-Population and Sqmiles would be good to add from another source.
+**Postal Code File Name**
+[CountryCode] - [State 2-char] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
+
+US-zip30318-census-naics6-2020.csv
+US-GA-zip-census-naics6-2020.csv
+
+**Columns**
+- Zip
+- Naics - ActivityProducedBy (6-digit naics)  
+- Establishments - Other (Number of Extablishments)  
+- Employees - Employment FlowAmount (Number of Employees)  
+- Payroll - US Dollars (Annual Wages)
+- Population - Included with our [Machine Learning](/machine-learning/) output
+- Sqkm or Sqmiles - To be added
 
 The file title format contains naics2, naics4 or naics6 and the year:
 zipcode53521-census-naics6-2020.csv
