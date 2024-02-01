@@ -30,9 +30,6 @@ US-GA-zip-census-naics6-2020.csv
 - Population - Included with our [Machine Learning](/machine-learning/) output
 - Sqkm or Sqmiles - To be added
 
-The file title format contains naics2, naics4 or naics6 and the year:
-zipcode53521-census-naics6-2020.csv
-
 ### Timeline zip code files
 
 Community-Forecasting timeline zip code files reside at:  
