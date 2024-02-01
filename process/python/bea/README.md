@@ -4,6 +4,8 @@
 <!--Import from BEA for NAICS industry charts us_econ)-->
 ### County Business Patterns (CBP)
 
+Processed county data resides at [/community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="us/state">view on localhost</a></span>
+
 **File Name**
 - Zip or Fips (5-digit state-county ID) or CountryCode (3-characters)  
 - NaicsLevel - ActivityProducedBy (6-digit naics)  
@@ -15,7 +17,6 @@
 - Payroll - US Dollars (Annual Wages)
 - Population - Included with our [Machine Learning](/machine-learning/) output
 - Sqkm or Sqmiles - To be added
-<br>
 
 Python pulls from the [US Census CBP&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
 
