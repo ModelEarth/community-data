@@ -3,6 +3,8 @@
 # Process Industries for Counties
 <!--Import from BEA for NAICS industry charts us_econ)-->
 
+Python pulls from the [US Census CBP&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
+
 The Jupyter Notebook for industry data preparation resides in [us_econ.ipynb](us_econ.ipynb).
 
 Open Jupyter Notebook with this command in the folder process/python/bea then click us_econ.ipynb and run each step:
@@ -26,9 +28,9 @@ After running, you can delete the county_level folder inside data_raw\BEA_Indust
 
 The last block of this notebook contains the code for generating the state-wide data. Getting the state-wide totals directly from the Census API results in numbers different from the sum of each state’s county totals since the cesus excludes payroll and number of employees for counties with only a couple firms.  
 
-TO DO: Columns of final output should be something like:
+TO DO: Columns of final output:
 
-FIPS, NAICS, Establishments, Employees, Payroll
+Fips, Naics, Establishments, Employees, Payroll
 
 TO DO: Recent years
 

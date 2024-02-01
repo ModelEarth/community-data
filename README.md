@@ -5,9 +5,6 @@
 ### County Business Patterns (CBP)
 Pre-processed data for local industry levels (including employment, establishments and payroll).
 
-<!-- https://github.com/modelearth/community-data/tree/master/ -->
-Here are [the steps](process/python/bea) we use to generate subfolders with our [us_econ.ipynb](process/python/bea) python script pulling from the [US Census&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
-
 Processed data resides at:
 [https://github.com/modelearth/community-data/tree/master/us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="us/state">view on localhost</a></span>
 
