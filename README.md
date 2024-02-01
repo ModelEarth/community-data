@@ -1,8 +1,5 @@
+# Community Datasets
 
-
-<!--# Community Datasets -->
-
-### County Business Patterns (CBP)
 Pre-processed data for local industry levels (including employment, establishments and payroll).
 
 Processed data resides at:
