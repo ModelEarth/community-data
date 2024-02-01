@@ -127,6 +127,4 @@ Example of data format:
 "01001","237310",1,1,0,0,0,0,0,0,0,0  
 
 
-<h2>lifecycle comparison tools</h2>
-
-<a href="../../localsite/info/">Payroll, employee count, and number of establisments</a>  
+<a href="/localsite/info/">View Industry Comparison using this data</a>  
