@@ -32,6 +32,16 @@ TO DO: Columns of final output:
 
 Fips, Naics, Establishments, Employees, Payroll
 
+[New NAICS columns](/community-data/industries/naics/US/country/US-2021-Q1-naics-6-digits.csv) used by [upcoming naics list](/localsite/info/#state=GA&beta=true).
+
+TO DO: In state files, change the Fips value to 2-character state abbreviation.
+
+<!--
+Old 2012 6-digit Naics
+https://github.com/modelearth/localsite/blob/main/info/naics/lookup/6-digit_2012_Codes.csv
+-->
+
+
 TO DO: Recent years
 
 USEPA has these 2 crosswalks. (There are no naics industry titles in these.)
@@ -39,13 +49,13 @@ USEPA has these 2 crosswalks. (There are no naics industry titles in these.)
 - [2017 NAICS to 2017 BEA](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_to_BEA_Crosswalk_2017.csv)
 - [Timeseries of NAICS codes for 2002, 2007, 2012, 2017](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_Crosswalk_TimeSeries.csv)
 
-Titles might need to be pulled from separate files (2017 and 2022) using the XLSX files downloadable from the following census page. Click "downloadable files" at [census.gov/naics/?48967](https://www.census.gov/naics/?48967)
+Titles might need to be pulled from separate files (2017 and 2022) using the XLSX files downloadable from the following census page. Click "downloadable files" at [census.gov/naics/?48967](https://www.census.gov/naics/?48967) &nbsp;The 2017 and 2022 files can reside in [community-data/us](https://github.com/ModelEarth/community-data/tree/master/us).
 
 <!--
 TO DO: Locate crosswalk relating North American NAICS, European Union NACE codes, and any other trade crosswalks.
 -->
 
-TO DO: Generate folders quarterly with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
+TO DO: Generate files quarterly with a GitHub Action - [Github&nbsp;Actions&nbsp;samples](https://model.earth/community/projects/#pipeline)  
 
 
 ## Usage  
