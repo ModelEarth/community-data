@@ -4,6 +4,19 @@
 <!--Import from BEA for NAICS industry charts us_econ)-->
 ### County Business Patterns (CBP)
 
+**File Name**
+- Zip or Fips (5-digit state-county ID) or CountryCode (3-characters)  
+- NaicsLevel - ActivityProducedBy (6-digit naics)  
+
+**Columns**
+- Naics - ActivityProducedBy (6-digit naics)  
+- Establishments - Other (Number of Extablishments)  
+- Employees - Employment FlowAmount (Number of Employees)  
+- Payroll - US Dollars (Annual Wages)
+- Population - Included with our [Machine Learning](/machine-learning/) output
+- Sqkm or Sqmiles - To be added
+<br>
+
 Python pulls from the [US Census CBP&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
 
 The Jupyter Notebook for industry data preparation resides in [us_econ.ipynb](us_econ.ipynb).
