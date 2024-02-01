@@ -7,8 +7,10 @@
 Processed county data resides at [/community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="us/state">view on localhost</a></span>
 
 **File Name**
-- Zip or Fips (5-digit state-county ID) or CountryCode (3-characters)  
-- NaicsLevel - ActivityProducedBy (6-digit naics)  
+CountryCode - Fips (5-digit state and county) - census - naics level (2, 4, 6) - year
+
+Example:
+[US36005-census-naics6-2020.csv](/community-data/industries/naics/US/country/US-2021-Q1-naics-6-digits.csv)
 
 **Columns**
 - Naics - ActivityProducedBy (6-digit naics)  
