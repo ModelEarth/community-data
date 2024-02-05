@@ -1,0 +1,38 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	2	999	Statewide	11	Forest nurseries and gathering of forest products	2	1132	3.333333333333333	1.5
+7	2	999	Statewide	11	Timber tract operations	2	1131	2.25	1.2
+8	2	999	Statewide	21	Coal mining	2	2121	3.25	2.0
+26	2	999	Statewide	31	Animal food manufacturing	2	3111	5.0	2.25
+28	2	999	Statewide	31	Apparel accessories and other apparel manufacturing	2	3159	3.0	1.2
+33	2	999	Statewide	31	Fruit and vegetable preserving and specialty food manufacturing	2	3114	1.0	1.0
+36	2	999	Statewide	31	Other leather and allied product manufacturing	2	3169	3.0	1.8
+40	2	999	Statewide	31	Textile and fabric finishing and fabric coating mills	2	3133	4.0	1.6666666666666667
+41	2	999	Statewide	31	Tobacco manufacturing	2	3122	1.0	1.0
+43	2	999	Statewide	32	Clay product and refractory manufacturing	2	3271	1.0	1.0
+44	2	999	Statewide	32	Converted paper product manufacturing	2	3222	3.0	1.2
+49	2	999	Statewide	32	Paint, coating, and adhesive manufacturing	2	3255	1.0	1.0
+50	2	999	Statewide	32	Pesticide, fertilizer, and other agricultural chemical manufacturing	2	3253	3.0	1.2
+52	2	999	Statewide	32	Pharmaceutical and medicine manufacturing	2	3254	3.0	1.5
+61	2	999	Statewide	33	Alumina and aluminum production and processing	2	3313	2.0	1.0
+65	2	999	Statewide	33	Commercial and service industry machinery manufacturing	2	3333	2.0	1.0
+66	2	999	Statewide	33	Communications equipment manufacturing	2	3342	3.0	1.25
+67	2	999	Statewide	33	Cutlery and handtool manufacturing	2	3322	5.5	2.6
+68	2	999	Statewide	33	Electric lighting equipment manufacturing	2	3351	2.0	1.6666666666666667
+69	2	999	Statewide	33	Electrical equipment manufacturing	2	3353	2.0	1.0
+70	2	999	Statewide	33	Engine, turbine, and power transmission equipment manufacturing	2	3336	5.0	2.3333333333333335
+71	2	999	Statewide	33	Forging and stamping	2	3321	1.0	1.0
+73	2	999	Statewide	33	Industrial machinery manufacturing	2	3332	1.0	1.0
+74	2	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	2	3311	2.0	1.0
+77	2	999	Statewide	33	Motor vehicle body and trailer manufacturing	2	3362	4.0	1.4
+80	2	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	2	3314	2.0	2.0
+82	2	999	Statewide	33	Other electrical equipment and component manufacturing	2	3359	1.0	1.0
+87	2	999	Statewide	33	Other transportation equipment manufacturing	2	3369	2.0	1.0
+89	2	999	Statewide	33	Steel product manufacturing from purchased steel	2	3312	1.0	1.0
+90	2	999	Statewide	33	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	2	3334	3.0	1.2
+95	2	999	Statewide	42	Farm product raw material merchant wholesalers	2	4245	1.0	1.0
+146	2	999	Statewide	48	Other support activities for transportation	2	4889	5.75	2.6
+149	2	999	Statewide	48	Pipeline transportation of natural gas	2	4862	4.333333333333333	1.75
+161	2	999	Statewide	48	Urban transit systems	2	4851	14.0	5.444444444444445
+218	2	999	Statewide	61	Junior colleges	2	6112	2.0	1.0
+237	2	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	2	6223	5.0	2.0
+239	2	999	Statewide	71	Agents and managers for artists, athletes, entertainers, and other public figures	2	7114	1.0	1.0

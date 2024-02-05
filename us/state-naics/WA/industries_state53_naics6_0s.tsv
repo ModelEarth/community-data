@@ -1,0 +1,80 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+14	53	999	Statewide	21	All other metal ore mining	53	212299	3.0	1.0
+16	53	999	Statewide	21	Bituminous coal and lignite surface mining	53	212111	4.0	2.0
+17	53	999	Statewide	21	Bituminous coal underground mining	53	212112	2.0	1.0
+18	53	999	Statewide	21	Clay and ceramic and refractory minerals mining	53	212325	2.0	1.0
+20	53	999	Statewide	21	Copper ore and nickel ore mining	53	212234	2.0	1.0
+27	53	999	Statewide	21	Gold ore mining	53	212221	17.5	7.333333333333333
+28	53	999	Statewide	21	Industrial sand mining	53	212322	5.0	1.6
+29	53	999	Statewide	21	Iron ore mining	53	212210	3.0	1.5
+30	53	999	Statewide	21	Lead ore and zinc ore mining	53	212231	2.0	1.0
+31	53	999	Statewide	21	Other chemical and fertilizer mineral mining	53	212393	1.0	1.0
+33	53	999	Statewide	21	Silver ore mining	53	212222	1.0	1.0
+34	53	999	Statewide	21	Support activities for coal mining	53	213113	2.0	1.0
+38	53	999	Statewide	21	Uranium-radium-vanadium ore mining	53	212291	1.0	1.0
+39	53	999	Statewide	22	Biomass electric power generation	53	221117	5.0	2.2
+47	53	999	Statewide	22	Steam and air-conditioning supply	53	221330	5.25	2.4
+87	53	999	Statewide	31	Breakfast cereal manufacturing	53	311230	8.25	3.7777777777777777
+97	53	999	Statewide	31	Creamery butter manufacturing	53	311512	4.0	1.6
+106	53	999	Statewide	31	Fats and oils refining and blending	53	311225	8.0	3.2
+119	53	999	Statewide	31	Knit fabric mills	53	313240	2.0	1.0
+121	53	999	Statewide	31	Malt manufacturing	53	311213	7.166666666666667	3.3333333333333335
+134	53	999	Statewide	31	Rendering and meat byproduct processing	53	311613	6.0	3.0
+147	53	999	Statewide	31	Wet corn milling	53	311221	5.0	2.4
+160	53	999	Statewide	32	Artificial and synthetic fibers and filaments manufacturing	53	325220	4.0	2.0
+175	53	999	Statewide	32	Cyclic crude, intermediate, and gum and wood chemical manufacturing	53	325194	2.0	1.0
+182	53	999	Statewide	32	Ground or treated mineral and earth manufacturing	53	327992	3.0	1.2
+188	53	999	Statewide	32	Lime manufacturing	53	327410	3.25	2.0
+204	53	999	Statewide	32	Petrochemical manufacturing	53	325110	1.0	1.0
+220	53	999	Statewide	32	Printing ink manufacturing	53	325910	1.0	1.0
+221	53	999	Statewide	32	Pulp mills	53	322110	3.5	1.6
+223	53	999	Statewide	32	Reconstituted wood product manufacturing	53	321219	5.0	2.2
+232	53	999	Statewide	32	Surface active agent manufacturing	53	325613	1.0	1.0
+234	53	999	Statewide	32	Tire manufacturing (except retreading)	53	326211	3.0	1.3333333333333333
+253	53	999	Statewide	33	Alumina refining and primary aluminum production	53	331313	5.0	2.2
+255	53	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	53	331315	5.0	2.4
+256	53	999	Statewide	33	Ammunition (except small arms) manufacturing	53	332993	1.0	1.0
+261	53	999	Statewide	33	Ball and roller bearing manufacturing	53	332991	1.0	1.0
+263	53	999	Statewide	33	Blank magnetic and optical recording media manufacturing	53	334613	5.25	2.4
+268	53	999	Statewide	33	Burial casket manufacturing	53	339995	2.25	1.2
+272	53	999	Statewide	33	Computer storage device manufacturing	53	334112	3.0	1.2
+276	53	999	Statewide	33	Copper rolling, drawing, extruding, and alloying	53	331420	2.0	1.0
+284	53	999	Statewide	33	Electric lamp bulb and part manufacturing	53	335110	2.0	1.0
+295	53	999	Statewide	33	Fluid power pump and motor manufacturing	53	333996	1.0	1.0
+300	53	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	53	336415	2.75	1.6
+303	53	999	Statewide	33	Heavy duty truck manufacturing	53	336120	8.0	3.2222222222222223
+304	53	999	Statewide	33	Household cooking appliance manufacturing	53	335221	2.0	1.0
+306	53	999	Statewide	33	Household laundry equipment manufacturing	53	335224	1.0	1.0
+317	53	999	Statewide	33	Iron and steel pipe and tube manufacturing from purchased steel	53	331210	3.0	1.2
+321	53	999	Statewide	33	Lawn and garden tractor and home lawn and garden equipment manufacturing	53	333112	6.5	2.8
+322	53	999	Statewide	33	Light truck and utility vehicle manufacturing	53	336112	2.0	1.0
+326	53	999	Statewide	33	Measuring and dispensing pump manufacturing	53	333913	2.0	1.0
+327	53	999	Statewide	33	Mechanical power transmission equipment manufacturing	53	333613	4.0	1.6
+337	53	999	Statewide	33	Motor and generator manufacturing	53	335312	3.0	1.5
+338	53	999	Statewide	33	Motor home manufacturing	53	336213	2.0	1.0
+340	53	999	Statewide	33	Motor vehicle brake system manufacturing	53	336340	3.0	1.6666666666666667
+343	53	999	Statewide	33	Motor vehicle metal stamping	53	336370	7.0	2.8
+345	53	999	Statewide	33	Motor vehicle steering and suspension components (except spring) manufacturing	53	336330	4.25	1.6
+350	53	999	Statewide	33	Nonferrous forging	53	332112	3.0	1.2
+364	53	999	Statewide	33	Other communication and energy wire manufacturing	53	335929	4.0	2.0
+369	53	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	53	336419	4.0	2.0
+372	53	999	Statewide	33	Other major household appliance manufacturing	53	335228	1.0	1.0
+383	53	999	Statewide	33	Powder metallurgy part manufacturing	53	332117	2.0	1.0
+385	53	999	Statewide	33	Power, distribution, and specialty transformer manufacturing	53	335311	4.0	2.0
+389	53	999	Statewide	33	Primary battery manufacturing	53	335912	5.25	2.4
+394	53	999	Statewide	33	Railroad rolling stock manufacturing	53	336510	3.0	1.2
+397	53	999	Statewide	33	Rolled steel shape manufacturing	53	331221	3.0	1.25
+398	53	999	Statewide	33	Rolling mill and other metalworking machinery manufacturing	53	333519	3.0	1.5
+401	53	999	Statewide	33	Scale and balance manufacturing	53	333997	3.75	1.8
+403	53	999	Statewide	33	Secondary smelting and alloying of aluminum	53	331314	3.0	1.25
+416	53	999	Statewide	33	Speed changer, industrial high-speed drive, and gear manufacturing	53	333612	1.0	1.0
+418	53	999	Statewide	33	Spring manufacturing	53	332613	4.0	2.0
+420	53	999	Statewide	33	Steel investment foundries	53	331512	7.0	3.111111111111111
+421	53	999	Statewide	33	Steel wire drawing	53	331222	6.0	3.6666666666666665
+422	53	999	Statewide	33	Storage battery manufacturing	53	335911	4.0	2.2
+588	53	999	Statewide	48	Air traffic control	53	488111	9.0	2.4
+606	53	999	Statewide	48	Mixed mode transit systems	53	485111	1.0	1.0
+695	53	999	Statewide	52	Monetary authorities - central bank	53	521110	2.0	1.0
+699	53	999	Statewide	52	Other depository credit intermediation	53	522190	3.0	3.0
+830	53	999	Statewide	56	Solid waste combustors and incinerators	53	562213	5.0	1.8
+840	53	999	Statewide	61	Business and secretarial schools	53	611410	3.666666666666667	1.75

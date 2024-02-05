@@ -1,0 +1,104 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	51	999	Statewide	11	Crop harvesting, primarily by machine	51	115113	4.0	1.4
+8	51	999	Statewide	11	Other marine fishing	51	114119	2.0	2.0
+15	51	999	Statewide	21	All other metal ore mining	51	212299	2.0	1.0
+26	51	999	Statewide	21	Industrial sand mining	51	212322	5.0	2.8
+27	51	999	Statewide	21	Iron ore mining	51	212210	1.0	1.0
+28	51	999	Statewide	21	Natural gas liquid extraction	51	211112	3.0	1.4
+29	51	999	Statewide	21	Other chemical and fertilizer mineral mining	51	212393	1.0	1.0
+84	51	999	Statewide	31	Beet sugar manufacturing	51	311313	1.0	1.0
+88	51	999	Statewide	31	Carpet and rug mills	51	314110	6.0	3.0
+90	51	999	Statewide	31	Chocolate and confectionery manufacturing from cacao beans	51	311351	6.0	2.0
+93	51	999	Statewide	31	Confectionery manufacturing from purchased chocolate	51	311352	24.75	12.666666666666666
+95	51	999	Statewide	31	Creamery butter manufacturing	51	311512	2.0	1.0
+99	51	999	Statewide	31	Dog and cat food manufacturing	51	311111	7.0	2.6666666666666665
+100	51	999	Statewide	31	Dried and dehydrated food manufacturing	51	311423	4.0	1.5
+102	51	999	Statewide	31	Dry, condensed, and evaporated dairy product manufacturing	51	311514	4.0	1.6
+106	51	999	Statewide	31	Flavoring syrup and concentrate manufacturing	51	311930	7.4	3.5555555555555554
+111	51	999	Statewide	31	Frozen fruit, juice, and vegetable manufacturing	51	311411	1.0	1.0
+112	51	999	Statewide	31	Frozen specialty food manufacturing	51	311412	11.0	5.111111111111111
+114	51	999	Statewide	31	Hosiery and sock mills	51	315110	3.0	1.5
+117	51	999	Statewide	31	Knit fabric mills	51	313240	6.0	2.2
+118	51	999	Statewide	31	Leather and hide tanning and finishing	51	316110	1.0	1.0
+126	51	999	Statewide	31	Other apparel knitting mills	51	315190	2.0	1.0
+136	51	999	Statewide	31	Soybean and other oilseed processing	51	311224	2.0	1.0
+137	51	999	Statewide	31	Specialty canning	51	311422	2.0	1.0
+142	51	999	Statewide	31	Tortilla manufacturing	51	311830	3.0	1.6666666666666667
+144	51	999	Statewide	31	Women's handbag and purse manufacturing	51	316992	6.0	1.8
+153	51	999	Statewide	32	All other petroleum and coal products manufacturing	51	324199	9.0	3.6666666666666665
+158	51	999	Statewide	32	Asphalt shingle and coating materials manufacturing	51	324122	2.0	1.0
+161	51	999	Statewide	32	Cement manufacturing	51	327310	7.0	3.2222222222222223
+172	51	999	Statewide	32	Ethyl alcohol manufacturing	51	325193	3.0	1.0
+175	51	999	Statewide	32	Flat glass manufacturing	51	327211	1.0	1.0
+177	51	999	Statewide	32	Glass container manufacturing	51	327213	8.0	3.2222222222222223
+180	51	999	Statewide	32	Gypsum product manufacturing	51	327420	10.0	4.0
+185	51	999	Statewide	32	Lime manufacturing	51	327410	4.0	2.0
+189	51	999	Statewide	32	Newsprint mills	51	322122	3.0	1.2
+190	51	999	Statewide	32	Nitrogenous fertilizer manufacturing	51	325311	2.0	1.0
+201	51	999	Statewide	32	Petroleum lubricating oil and grease manufacturing	51	324191	5.0	2.0
+202	51	999	Statewide	32	Petroleum refineries	51	324110	1.0	1.0
+204	51	999	Statewide	32	Phosphatic fertilizer manufacturing	51	325312	8.0	3.0
+217	51	999	Statewide	32	Pulp mills	51	322110	1.0	1.0
+222	51	999	Statewide	32	Sanitary paper product manufacturing	51	322291	2.0	1.0
+228	51	999	Statewide	32	Synthetic rubber manufacturing	51	325212	3.0	1.2
+229	51	999	Statewide	32	Tire manufacturing (except retreading)	51	326211	7.0	3.111111111111111
+242	51	999	Statewide	33	Aircraft manufacturing	51	336411	13.0	3.6666666666666665
+249	51	999	Statewide	33	Ammunition (except small arms) manufacturing	51	332993	2.0	1.0
+255	51	999	Statewide	33	Blank magnetic and optical recording media manufacturing	51	334613	3.0	1.2
+256	51	999	Statewide	33	Blind and shade manufacturing	51	337920	11.75	4.888888888888889
+258	51	999	Statewide	33	Bolt, nut, screw, rivet, and washer manufacturing	51	332722	10.0	5.0
+259	51	999	Statewide	33	Broom, brush, and mop manufacturing	51	339994	4.25	2.5555555555555554
+261	51	999	Statewide	33	Carbon and graphite product manufacturing	51	335991	1.0	1.0
+263	51	999	Statewide	33	Computer storage device manufacturing	51	334112	4.0	1.4
+286	51	999	Statewide	33	Fluid power valve and hose fitting manufacturing	51	332912	2.0	1.0
+287	51	999	Statewide	33	Food product machinery manufacturing	51	333241	9.0	3.6666666666666665
+289	51	999	Statewide	33	Guided missile and space vehicle manufacturing	51	336414	2.0	1.0
+290	51	999	Statewide	33	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	51	336415	2.0	1.0
+293	51	999	Statewide	33	Heavy duty truck manufacturing	51	336120	2.0	1.0
+297	51	999	Statewide	33	Industrial process furnace and oven manufacturing	51	333994	2.0	1.0
+299	51	999	Statewide	33	Industrial valve manufacturing	51	332911	3.0	1.2
+303	51	999	Statewide	33	Iron and steel forging	51	332111	13.0	3.4444444444444446
+305	51	999	Statewide	33	Iron and steel pipe and tube manufacturing from purchased steel	51	331210	6.0	3.3333333333333335
+309	51	999	Statewide	33	Lawn and garden tractor and home lawn and garden equipment manufacturing	51	333112	2.0	1.0
+310	51	999	Statewide	33	Light truck and utility vehicle manufacturing	51	336112	4.0	1.4
+315	51	999	Statewide	33	Mechanical power transmission equipment manufacturing	51	333613	2.0	1.0
+324	51	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	51	336992	1.0	1.0
+327	51	999	Statewide	33	Motor home manufacturing	51	336213	5.0	2.2
+333	51	999	Statewide	33	Motor vehicle seating and interior trim manufacturing	51	336360	3.0	1.5
+336	51	999	Statewide	33	Motorcycle, bicycle, and parts manufacturing	51	336991	17.333333333333332	5.888888888888889
+338	51	999	Statewide	33	Noncurrent-carrying wiring device manufacturing	51	335932	2.0	1.0
+339	51	999	Statewide	33	Nonferrous forging	51	332112	5.0	2.2
+343	51	999	Statewide	33	Office furniture (except wood) manufacturing	51	337214	5.0	1.5
+345	51	999	Statewide	33	Oil and gas field machinery and equipment manufacturing	51	333132	4.0	2.0
+358	51	999	Statewide	33	Other lighting equipment manufacturing	51	335129	6.0	3.0
+360	51	999	Statewide	33	Other metal container manufacturing	51	332439	5.0	2.0
+361	51	999	Statewide	33	Other metal valve and pipe fitting manufacturing	51	332919	5.0	3.0
+363	51	999	Statewide	33	Other nonferrous metal foundries (except die-casting)	51	331529	5.0	1.8
+368	51	999	Statewide	33	Plumbing fixture fitting and trim manufacturing	51	332913	4.0	2.4444444444444446
+369	51	999	Statewide	33	Powder metallurgy part manufacturing	51	332117	2.0	1.0
+372	51	999	Statewide	33	Power-driven handtool manufacturing	51	333991	8.0	3.5555555555555554
+382	51	999	Statewide	33	Rolled steel shape manufacturing	51	331221	1.0	1.0
+386	51	999	Statewide	33	Scale and balance manufacturing	51	333997	2.0	1.0
+388	51	999	Statewide	33	Secondary smelting and alloying of aluminum	51	331314	1.0	1.0
+389	51	999	Statewide	33	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	51	331492	1.0	1.0
+390	51	999	Statewide	33	Semiconductor and related device manufacturing	51	334413	14.0	6.777777777777778
+391	51	999	Statewide	33	Semiconductor machinery manufacturing	51	333242	2.0	1.0
+396	51	999	Statewide	33	Small arms ammunition manufacturing	51	332992	2.0	1.0
+398	51	999	Statewide	33	Small electrical appliance manufacturing	51	335210	5.0	2.0
+403	51	999	Statewide	33	Spring manufacturing	51	332613	3.0	1.2
+404	51	999	Statewide	33	Steel foundries (except investment)	51	331513	4.0	2.0
+405	51	999	Statewide	33	Steel investment foundries	51	331512	2.0	1.0
+412	51	999	Statewide	33	Totalizing fluid meter and counting device manufacturing	51	334514	2.0	1.0
+414	51	999	Statewide	33	Truck trailer manufacturing	51	336212	9.0	3.3333333333333335
+417	51	999	Statewide	33	Welding and soldering equipment manufacturing	51	333992	3.0	1.4
+573	51	999	Statewide	48	Air traffic control	51	488111	6.0	2.8
+579	51	999	Statewide	48	Coastal and great lakes passenger transportation	51	483114	1.0	1.0
+580	51	999	Statewide	48	Commuter rail systems	51	485112	2.0	1.0
+582	51	999	Statewide	48	Deep sea passenger transportation	51	483112	2.0	1.0
+592	51	999	Statewide	48	Mixed mode transit systems	51	485111	1.0	1.0
+604	51	999	Statewide	48	Pipeline transportation of crude oil	51	486110	7.0	3.0
+674	51	999	Statewide	52	International trade financing	51	522293	8.0	5.0
+683	51	999	Statewide	52	Other depository credit intermediation	51	522190	1.0	1.0
+692	51	999	Statewide	52	Securities and commodity exchanges	51	523210	1.0	1.0
+813	51	999	Statewide	56	Solid waste combustors and incinerators	51	562213	7.0	3.8
+896	51	999	Statewide	71	Skiing facilities	51	713920	6.0	2.4

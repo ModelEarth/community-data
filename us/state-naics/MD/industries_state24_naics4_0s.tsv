@@ -1,0 +1,15 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	24	999	Statewide	11	Forest nurseries and gathering of forest products	24	1132	4.0	1.5
+9	24	999	Statewide	21	Metal ore mining	24	2122	1.0	1.0
+11	24	999	Statewide	21	Oil and gas extraction	24	2111	3.0	2.0
+35	24	999	Statewide	31	Footwear manufacturing	24	3162	5.0	2.5555555555555554
+38	24	999	Statewide	31	Leather and hide tanning and finishing	24	3161	1.0	1.0
+46	24	999	Statewide	31	Tobacco manufacturing	24	3122	5.0	2.5
+62	24	999	Statewide	32	Pulp, paper, and paperboard mills	24	3221	8.0	3.6
+78	24	999	Statewide	33	Cutlery and handtool manufacturing	24	3322	8.0	3.4
+86	24	999	Statewide	33	Household appliance manufacturing	24	3352	4.0	1.3333333333333333
+94	24	999	Statewide	33	Motor vehicle manufacturing	24	3361	3.0	1.2
+105	24	999	Statewide	33	Railroad rolling stock manufacturing	24	3365	4.0	2.0
+166	24	999	Statewide	48	Other pipeline transportation	24	4869	8.0	3.5555555555555554
+202	24	999	Statewide	52	Monetary authorities - central bank	24	5211	2.0	1.0
+207	24	999	Statewide	52	Securities and commodity exchanges	24	5232	2.0	1.0

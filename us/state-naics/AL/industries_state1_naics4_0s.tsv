@@ -1,0 +1,9 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+9	1	999	Statewide	21	Metal ore mining	1	2122	7.0	2.8
+36	1	999	Statewide	31	Footwear manufacturing	1	3162	1.0	1.0
+39	1	999	Statewide	31	Leather and hide tanning and finishing	1	3161	3.0	1.6
+47	1	999	Statewide	31	Tobacco manufacturing	1	3122	3.0	1.4
+73	1	999	Statewide	33	Audio and video equipment manufacturing	1	3343	1.0	1.0
+87	1	999	Statewide	33	Household appliance manufacturing	1	3352	6.333333333333333	3.0
+186	1	999	Statewide	51	Cable and other subscription programming	1	5152	6.0	2.6
+203	1	999	Statewide	52	Monetary authorities - central bank	1	5211	2.0	1.0

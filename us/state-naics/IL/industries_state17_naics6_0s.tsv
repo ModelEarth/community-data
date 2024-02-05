@@ -1,0 +1,54 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+0	17	999	Statewide	11	Cotton ginning	17	115111	2.0	1.0
+8	17	999	Statewide	11	Other marine fishing	17	114119	2.0	1.0
+14	17	999	Statewide	11	Timber tract operations	17	113110	8.0	3.2222222222222223
+15	17	999	Statewide	21	All other metal ore mining	17	212299	1.0	1.0
+16	17	999	Statewide	21	All other nonmetallic mineral mining	17	212399	4.0	1.4
+28	17	999	Statewide	21	Lead ore and zinc ore mining	17	212231	2.0	1.0
+30	17	999	Statewide	21	Natural gas liquid extraction	17	211112	5.75	2.8
+31	17	999	Statewide	21	Other chemical and fertilizer mineral mining	17	212393	2.0	1.0
+34	17	999	Statewide	21	Support activities for metal mining	17	213114	6.0	3.2222222222222223
+37	17	999	Statewide	22	Biomass electric power generation	17	221117	2.0	2.0
+41	17	999	Statewide	22	Hydroelectric power generation	17	221111	5.0	3.0
+86	17	999	Statewide	31	Beet sugar manufacturing	17	311313	2.0	1.0
+91	17	999	Statewide	31	Cane sugar manufacturing	17	311314	4.0	2.0
+92	17	999	Statewide	31	Carpet and rug mills	17	314110	5.333333333333333	2.2
+99	17	999	Statewide	31	Creamery butter manufacturing	17	311512	4.0	2.0
+113	17	999	Statewide	31	Footwear manufacturing	17	316210	8.75	3.6666666666666665
+118	17	999	Statewide	31	Hosiery and sock mills	17	315110	2.0	1.3333333333333333
+121	17	999	Statewide	31	Knit fabric mills	17	313240	5.0	2.0
+137	17	999	Statewide	31	Rice milling	17	311212	1.5	1.5
+139	17	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	17	314994	6.0	2.4
+147	17	999	Statewide	31	Tobacco manufacturing	17	312230	5.0	2.0
+178	17	999	Statewide	32	Cyclic crude, intermediate, and gum and wood chemical manufacturing	17	325194	4.5	1.8
+179	17	999	Statewide	32	Engineered wood member (except truss) manufacturing	17	321213	2.0	1.0
+181	17	999	Statewide	32	Explosives manufacturing	17	325920	6.0	2.6
+193	17	999	Statewide	32	Lime manufacturing	17	327410	4.0	1.4
+197	17	999	Statewide	32	Newsprint mills	17	322122	1.0	1.0
+209	17	999	Statewide	32	Petrochemical manufacturing	17	325110	4.25	2.2
+213	17	999	Statewide	32	Phosphatic fertilizer manufacturing	17	325312	3.0	1.2
+226	17	999	Statewide	32	Pulp mills	17	322110	2.0	1.0
+252	17	999	Statewide	33	Aircraft manufacturing	17	336411	5.25	2.6
+258	17	999	Statewide	33	Alumina refining and primary aluminum production	17	331313	2.0	1.0
+260	17	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	17	331315	7.25	3.2222222222222223
+261	17	999	Statewide	33	Ammunition (except small arms) manufacturing	17	332993	4.0	1.6
+268	17	999	Statewide	33	Blank magnetic and optical recording media manufacturing	17	334613	2.75	1.6
+277	17	999	Statewide	33	Computer storage device manufacturing	17	334112	4.0	1.4
+289	17	999	Statewide	33	Electric lamp bulb and part manufacturing	17	335110	8.0	3.2222222222222223
+305	17	999	Statewide	33	Guided missile and space vehicle manufacturing	17	336414	2.0	1.0
+308	17	999	Statewide	33	Heavy duty truck manufacturing	17	336120	4.0	1.8
+309	17	999	Statewide	33	Household cooking appliance manufacturing	17	335221	17.75	7.8
+311	17	999	Statewide	33	Household laundry equipment manufacturing	17	335224	2.0	1.0
+312	17	999	Statewide	33	Household refrigerator and home freezer manufacturing	17	335222	1.0	1.0
+343	17	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	17	336992	3.25	1.4
+346	17	999	Statewide	33	Motor home manufacturing	17	336213	2.0	1.0
+379	17	999	Statewide	33	Other major household appliance manufacturing	17	335228	3.0	1.2
+396	17	999	Statewide	33	Primary battery manufacturing	17	335912	2.0	1.0
+413	17	999	Statewide	33	Semiconductor machinery manufacturing	17	333242	3.0	1.4
+418	17	999	Statewide	33	Small arms ammunition manufacturing	17	332992	7.0	3.111111111111111
+420	17	999	Statewide	33	Small electrical appliance manufacturing	17	335210	8.0	3.4
+427	17	999	Statewide	33	Steel investment foundries	17	331512	2.0	1.0
+595	17	999	Statewide	48	Air traffic control	17	488111	12.0	6.0
+596	17	999	Statewide	48	All other pipeline transportation	17	486990	3.0	2.4444444444444446
+602	17	999	Statewide	48	Coastal and great lakes passenger transportation	17	483114	2.0	1.3333333333333333
+604	17	999	Statewide	48	Deep sea passenger transportation	17	483112	1.0	1.0

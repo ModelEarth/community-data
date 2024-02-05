@@ -1,0 +1,6 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+8	37	999	Statewide	21	Coal mining	37	2121	2.0	1.0
+9	37	999	Statewide	21	Metal ore mining	37	2122	4.0	1.6666666666666667
+36	37	999	Statewide	31	Footwear manufacturing	37	3162	5.0	2.2
+106	37	999	Statewide	33	Railroad rolling stock manufacturing	37	3365	6.0	3.2222222222222223
+204	37	999	Statewide	52	Monetary authorities - central bank	37	5211	2.0	1.0

@@ -1,0 +1,17 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	9	999	Statewide	11	Forest nurseries and gathering of forest products	9	1132	2.0	1.0
+2	9	999	Statewide	11	Hunting and trapping	9	1142	4.0	2.0
+7	9	999	Statewide	11	Timber tract operations	9	1131	2.0	1.5
+8	9	999	Statewide	21	Metal ore mining	9	2122	2.0	1.0
+28	9	999	Statewide	31	Apparel knitting mills	9	3151	2.0	1.0
+37	9	999	Statewide	31	Grain and oilseed milling	9	3112	3.0	2.0
+41	9	999	Statewide	31	Seafood product preparation and packaging	9	3117	2.0	1.0
+45	9	999	Statewide	31	Tobacco manufacturing	9	3122	4.0	2.0
+88	9	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	9	3346	3.75	1.8
+92	9	999	Statewide	33	Motor vehicle manufacturing	9	3361	1.0	1.0
+103	9	999	Statewide	33	Railroad rolling stock manufacturing	9	3365	4.0	2.0
+164	9	999	Statewide	48	Other pipeline transportation	9	4869	4.0	2.4444444444444446
+168	9	999	Statewide	48	Scenic and sightseeing transportation, land	9	4871	7.333333333333333	3.888888888888889
+169	9	999	Statewide	48	Scenic and sightseeing transportation, other	9	4879	3.0	1.6
+175	9	999	Statewide	48	Support activities for rail transportation	9	4882	6.0	5.0
+204	9	999	Statewide	52	Securities and commodity exchanges	9	5232	1.0	1.0

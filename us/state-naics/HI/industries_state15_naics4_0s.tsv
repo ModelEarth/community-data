@@ -1,0 +1,34 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	15	999	Statewide	11	Logging	15	1133	1.0	1.0
+5	15	999	Statewide	11	Timber tract operations	15	1131	1.0	1.0
+7	15	999	Statewide	21	Oil and gas extraction	15	2111	3.0	1.25
+22	15	999	Statewide	31	Animal food manufacturing	15	3111	3.0	1.2
+29	15	999	Statewide	31	Fiber, yarn, and thread mills	15	3131	1.0	1.0
+30	15	999	Statewide	31	Footwear manufacturing	15	3162	2.0	1.0
+35	15	999	Statewide	31	Seafood product preparation and packaging	15	3117	4.0	2.4444444444444446
+37	15	999	Statewide	31	Textile and fabric finishing and fabric coating mills	15	3133	1.0	1.0
+43	15	999	Statewide	32	Other chemical product and preparation manufacturing	15	3259	2.0	2.0
+51	15	999	Statewide	32	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	15	3252	4.0	1.4
+52	15	999	Statewide	32	Rubber product manufacturing	15	3262	2.25	1.2
+56	15	999	Statewide	33	Aerospace product and parts manufacturing	15	3364	2.0	2.0
+57	15	999	Statewide	33	Agriculture, construction, and mining machinery manufacturing	15	3331	1.0	1.0
+58	15	999	Statewide	33	Alumina and aluminum production and processing	15	3313	2.0	1.0
+60	15	999	Statewide	33	Boiler, tank, and shipping container manufacturing	15	3324	2.0	1.0
+62	15	999	Statewide	33	Commercial and service industry machinery manufacturing	15	3333	5.0	2.6
+63	15	999	Statewide	33	Communications equipment manufacturing	15	3342	2.0	1.0
+64	15	999	Statewide	33	Cutlery and handtool manufacturing	15	3322	2.0	1.0
+65	15	999	Statewide	33	Electric lighting equipment manufacturing	15	3351	2.0	1.0
+66	15	999	Statewide	33	Forging and stamping	15	3321	2.0	1.0
+67	15	999	Statewide	33	Hardware manufacturing	15	3325	2.0	1.0
+69	15	999	Statewide	33	Industrial machinery manufacturing	15	3332	2.0	1.0
+71	15	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	15	3346	2.0	1.0
+73	15	999	Statewide	33	Metalworking machinery manufacturing	15	3335	1.0	1.0
+74	15	999	Statewide	33	Motor vehicle body and trailer manufacturing	15	3362	2.0	1.0
+77	15	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	15	3314	2.0	1.0
+79	15	999	Statewide	33	Other electrical equipment and component manufacturing	15	3359	1.0	1.0
+83	15	999	Statewide	33	Other transportation equipment manufacturing	15	3369	2.0	1.0
+84	15	999	Statewide	33	Semiconductor and other electronic component manufacturing	15	3344	1.0	1.0
+86	15	999	Statewide	33	Steel product manufacturing from purchased steel	15	3312	2.0	1.0
+141	15	999	Statewide	48	Interurban and rural bus transportation	15	4852	5.0	1.6
+143	15	999	Statewide	48	Other pipeline transportation	15	4869	2.0	1.0
+231	15	999	Statewide	62	Psychiatric and substance abuse hospitals	15	6222	4.0	2.0

@@ -1,0 +1,40 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+1	10	999	Statewide	11	Hunting and trapping	10	1142	2.0	1.0
+5	10	999	Statewide	11	Support activities for forestry	10	1153	2.0	1.0
+6	10	999	Statewide	11	Timber tract operations	10	1131	1.0	1.0
+25	10	999	Statewide	31	Apparel accessories and other apparel manufacturing	10	3159	5.5	2.6
+26	10	999	Statewide	31	Apparel knitting mills	10	3151	2.0	1.0
+31	10	999	Statewide	31	Fabric mills	10	3132	3.0	1.2
+32	10	999	Statewide	31	Fiber, yarn, and thread mills	10	3131	1.0	1.0
+34	10	999	Statewide	31	Grain and oilseed milling	10	3112	2.0	1.0
+38	10	999	Statewide	31	Seafood product preparation and packaging	10	3117	3.0	1.4
+40	10	999	Statewide	31	Textile and fabric finishing and fabric coating mills	10	3133	4.916666666666667	2.4
+47	10	999	Statewide	32	Lime and gypsum product manufacturing	10	3274	2.0	1.0
+59	10	999	Statewide	32	Sawmills and wood preservation	10	3211	2.5	1.4
+63	10	999	Statewide	33	Agriculture, construction, and mining machinery manufacturing	10	3331	3.0	1.2
+65	10	999	Statewide	33	Audio and video equipment manufacturing	10	3343	2.0	1.0
+68	10	999	Statewide	33	Commercial and service industry machinery manufacturing	10	3333	3.333333333333333	1.5
+70	10	999	Statewide	33	Computer and peripheral equipment manufacturing	10	3341	5.0	1.5
+71	10	999	Statewide	33	Cutlery and handtool manufacturing	10	3322	2.0	1.0
+74	10	999	Statewide	33	Engine, turbine, and power transmission equipment manufacturing	10	3336	2.0	1.0
+75	10	999	Statewide	33	Forging and stamping	10	3321	4.0	2.0
+76	10	999	Statewide	33	Foundries	10	3315	1.0	1.0
+77	10	999	Statewide	33	Hardware manufacturing	10	3325	1.0	1.0
+80	10	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	10	3311	2.0	1.0
+82	10	999	Statewide	33	Manufacturing and reproducing magnetic and optical media	10	3346	2.0	1.0
+84	10	999	Statewide	33	Metalworking machinery manufacturing	10	3335	5.0	1.6
+85	10	999	Statewide	33	Motor vehicle body and trailer manufacturing	10	3362	2.0	1.0
+86	10	999	Statewide	33	Motor vehicle manufacturing	10	3361	2.0	1.0
+89	10	999	Statewide	33	Nonferrous metal (except aluminum) production and processing	10	3314	2.0	1.0
+97	10	999	Statewide	33	Railroad rolling stock manufacturing	10	3365	1.0	1.0
+100	10	999	Statewide	33	Steel product manufacturing from purchased steel	10	3312	4.0	1.8
+156	10	999	Statewide	48	Other pipeline transportation	10	4869	1.0	1.0
+159	10	999	Statewide	48	Pipeline transportation of crude oil	10	4861	1.0	1.0
+160	10	999	Statewide	48	Pipeline transportation of natural gas	10	4862	2.0	1.0
+161	10	999	Statewide	48	Scenic and sightseeing transportation, land	10	4871	1.0	1.0
+162	10	999	Statewide	48	Scenic and sightseeing transportation, other	10	4879	1.0	1.0
+176	10	999	Statewide	51	Cable and other subscription programming	10	5152	2.0	1.0
+183	10	999	Statewide	51	Satellite telecommunications	10	5174	2.75	1.6
+230	10	999	Statewide	61	Junior colleges	10	6112	4.0	2.0
+249	10	999	Statewide	62	Specialty (except psychiatric and substance abuse) hospitals	10	6223	3.75	1.8
+263	10	999	Statewide	72	Rooming and boarding houses	10	7213	4.25	1.6

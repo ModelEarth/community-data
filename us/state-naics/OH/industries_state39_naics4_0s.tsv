@@ -1,0 +1,6 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+9	39	999	Statewide	21	Metal ore mining	39	2122	3.0	1.25
+29	39	999	Statewide	31	Apparel knitting mills	39	3151	1.0	1.0
+43	39	999	Statewide	31	Seafood product preparation and packaging	39	3117	4.0	1.6
+47	39	999	Statewide	31	Tobacco manufacturing	39	3122	1.0	1.0
+204	39	999	Statewide	52	Monetary authorities - central bank	39	5211	6.0	3.0

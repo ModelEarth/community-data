@@ -1,0 +1,157 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+16	22	999	Statewide	21	Bituminous coal and lignite surface mining	22	212111	5.0	2.888888888888889
+17	22	999	Statewide	21	Bituminous coal underground mining	22	212112	1.0	1.0
+18	22	999	Statewide	21	Clay and ceramic and refractory minerals mining	22	212325	2.0	1.8888888888888888
+25	22	999	Statewide	21	Iron ore mining	22	212210	1.0	1.0
+29	22	999	Statewide	21	Other crushed and broken stone mining and quarrying	22	212319	5.0	2.2
+30	22	999	Statewide	21	Potash, soda, and borate mineral mining	22	212391	1.0	1.0
+32	22	999	Statewide	21	Support activities for metal mining	22	213114	2.0	1.8
+33	22	999	Statewide	21	Support activities for nonmetallic minerals (except fuels) mining	22	213115	7.0	3.0
+35	22	999	Statewide	22	Biomass electric power generation	22	221117	2.0	1.0
+39	22	999	Statewide	22	Hydroelectric power generation	22	221111	3.0	2.3333333333333335
+42	22	999	Statewide	22	Other electric power generation	22	221118	1.0	1.0
+44	22	999	Statewide	22	Steam and air-conditioning supply	22	221330	1.0	1.0
+77	22	999	Statewide	31	All other leather good and allied product manufacturing	22	316998	9.0	3.8
+84	22	999	Statewide	31	Broadwoven fabric mills	22	313210	3.0	1.2
+86	22	999	Statewide	31	Carpet and rug mills	22	314110	2.0	1.0
+87	22	999	Statewide	31	Cheese manufacturing	22	311513	1.0	1.0
+88	22	999	Statewide	31	Chocolate and confectionery manufacturing from cacao beans	22	311351	2.0	1.5
+96	22	999	Statewide	31	Dog and cat food manufacturing	22	311111	1.0	1.0
+99	22	999	Statewide	31	Fabric coating mills	22	313320	2.0	2.0
+100	22	999	Statewide	31	Fats and oils refining and blending	22	311225	2.0	1.0
+101	22	999	Statewide	31	Fiber, yarn, and thread mills	22	313110	3.0	1.2
+102	22	999	Statewide	31	Flavoring syrup and concentrate manufacturing	22	311930	6.5	3.6666666666666665
+105	22	999	Statewide	31	Frozen fruit, juice, and vegetable manufacturing	22	311411	4.0	2.0
+108	22	999	Statewide	31	Ice cream and frozen dessert manufacturing	22	311520	5.0	1.6
+110	22	999	Statewide	31	Leather and hide tanning and finishing	22	316110	5.0	1.6
+118	22	999	Statewide	31	Other snack food manufacturing	22	311919	3.0	2.0
+124	22	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	22	314994	3.0	1.8
+126	22	999	Statewide	31	Soft drink manufacturing	22	312111	6.0	2.4
+127	22	999	Statewide	31	Soybean and other oilseed processing	22	311224	7.0	2.6
+128	22	999	Statewide	31	Specialty canning	22	311422	4.0	2.0
+132	22	999	Statewide	31	Tobacco manufacturing	22	312230	1.0	1.0
+133	22	999	Statewide	31	Tortilla manufacturing	22	311830	3.0	1.2
+134	22	999	Statewide	31	Wet corn milling	22	311221	3.0	1.2
+137	22	999	Statewide	32	Abrasive product manufacturing	22	327910	4.0	1.3333333333333333
+148	22	999	Statewide	32	Asphalt shingle and coating materials manufacturing	22	324122	3.0	1.2
+149	22	999	Statewide	32	Biological product (except diagnostic) manufacturing	22	325414	5.666666666666667	3.0
+150	22	999	Statewide	32	Books printing	22	323117	2.0	1.0
+151	22	999	Statewide	32	Cement manufacturing	22	327310	3.0	1.0
+162	22	999	Statewide	32	Engineered wood member (except truss) manufacturing	22	321213	6.0	3.5555555555555554
+163	22	999	Statewide	32	Ethyl alcohol manufacturing	22	325193	1.5	1.5
+165	22	999	Statewide	32	Fertilizer (mixing only) manufacturing	22	325314	5.0	2.2
+167	22	999	Statewide	32	Glass container manufacturing	22	327213	2.0	1.0
+170	22	999	Statewide	32	Gypsum product manufacturing	22	327420	8.0	3.2222222222222223
+171	22	999	Statewide	32	Hardwood veneer and plywood manufacturing	22	321211	1.0	1.0
+173	22	999	Statewide	32	Laminated plastics plate, sheet (except packaging), and shape manufacturing	22	326130	2.0	1.0
+174	22	999	Statewide	32	Lime manufacturing	22	327410	3.0	1.6
+176	22	999	Statewide	32	Medicinal and botanical manufacturing	22	325411	3.0	1.2
+177	22	999	Statewide	32	Mineral wool manufacturing	22	327993	10.0	3.4444444444444446
+178	22	999	Statewide	32	Nitrogenous fertilizer manufacturing	22	325311	10.5	4.0
+183	22	999	Statewide	32	Other pressed and blown glass and glassware manufacturing	22	327212	2.0	1.0
+185	22	999	Statewide	32	Paper (except newsprint) mills	22	322121	2.0	1.0
+188	22	999	Statewide	32	Pesticide and other agricultural chemical manufacturing	22	325320	8.0	3.111111111111111
+202	22	999	Statewide	32	Pottery, ceramics, and plumbing fixture manufacturing	22	327110	3.0	1.2
+204	22	999	Statewide	32	Printing ink manufacturing	22	325910	4.0	2.888888888888889
+207	22	999	Statewide	32	Rubber and plastics hoses and belting manufacturing	22	326220	3.0	1.2
+212	22	999	Statewide	32	Stationery product manufacturing	22	322230	7.5	3.0
+214	22	999	Statewide	32	Surface active agent manufacturing	22	325613	6.0	3.0
+215	22	999	Statewide	32	Synthetic dye and pigment manufacturing	22	325130	4.0	1.8
+217	22	999	Statewide	32	Tire manufacturing (except retreading)	22	326211	1.0	1.0
+218	22	999	Statewide	32	Tire retreading	22	326212	10.0	4.444444444444445
+222	22	999	Statewide	32	Unlaminated plastics profile shape manufacturing	22	326121	2.0	1.0
+229	22	999	Statewide	33	Aircraft engine and engine parts manufacturing	22	336412	2.0	1.0
+230	22	999	Statewide	33	Aircraft manufacturing	22	336411	9.0	3.4444444444444446
+238	22	999	Statewide	33	Aluminum sheet, plate, and foil manufacturing	22	331315	1.0	1.0
+239	22	999	Statewide	33	Analytical laboratory instrument manufacturing	22	334516	4.0	2.0
+240	22	999	Statewide	33	Audio and video equipment manufacturing	22	334310	4.5	3.0
+241	22	999	Statewide	33	Automatic environmental control manufacturing for residential, commercial, and appliance use	22	334512	5.0	2.4
+242	22	999	Statewide	33	Automobile manufacturing	22	336111	3.0	1.2
+246	22	999	Statewide	33	Burial casket manufacturing	22	339995	6.0	3.0
+247	22	999	Statewide	33	Carbon and graphite product manufacturing	22	335991	2.0	1.0
+248	22	999	Statewide	33	Commercial, industrial, and institutional electric lighting fixture manufacturing	22	335122	7.0	2.8
+249	22	999	Statewide	33	Computer terminal and other computer peripheral equipment manufacturing	22	334118	1.0	1.0
+251	22	999	Statewide	33	Conveyor and conveying equipment manufacturing	22	333922	6.0	3.0
+252	22	999	Statewide	33	Current-carrying wiring device manufacturing	22	335931	2.0	1.0
+258	22	999	Statewide	33	Electric lamp bulb and part manufacturing	22	335110	1.0	1.0
+271	22	999	Statewide	33	Heating equipment (except warm air furnaces) manufacturing	22	333414	4.0	1.8
+272	22	999	Statewide	33	Heavy duty truck manufacturing	22	336120	2.0	1.0
+273	22	999	Statewide	33	Household cooking appliance manufacturing	22	335221	3.0	1.5
+274	22	999	Statewide	33	Household furniture (except wood and metal) manufacturing	22	337125	3.0	1.8
+275	22	999	Statewide	33	Industrial and commercial fan and blower and air purification equipment manufacturing	22	333413	2.0	1.0
+276	22	999	Statewide	33	Industrial mold manufacturing	22	333511	4.0	1.5
+278	22	999	Statewide	33	Industrial truck, trailer, and stacker machinery manufacturing	22	333924	3.0	1.25
+283	22	999	Statewide	33	Iron and steel forging	22	332111	7.0	3.111111111111111
+286	22	999	Statewide	33	Iron foundries	22	331511	1.0	1.0
+287	22	999	Statewide	33	Irradiation apparatus manufacturing	22	334517	4.0	2.5555555555555554
+289	22	999	Statewide	33	Light truck and utility vehicle manufacturing	22	336112	1.0	1.0
+292	22	999	Statewide	33	Mattress manufacturing	22	337910	2.0	1.0
+294	22	999	Statewide	33	Mechanical power transmission equipment manufacturing	22	333613	4.0	2.0
+296	22	999	Statewide	33	Metal crown, closure, and other metal stamping (except automotive)	22	332119	4.0	2.0
+298	22	999	Statewide	33	Metal household furniture manufacturing	22	337124	3.0	1.25
+299	22	999	Statewide	33	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	22	332215	1.0	1.0
+302	22	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	22	336992	2.25	1.75
+303	22	999	Statewide	33	Mining machinery and equipment manufacturing	22	333131	6.0	2.2
+305	22	999	Statewide	33	Motor vehicle body manufacturing	22	336211	7.0	2.2
+306	22	999	Statewide	33	Motor vehicle brake system manufacturing	22	336340	2.0	2.0
+309	22	999	Statewide	33	Motor vehicle seating and interior trim manufacturing	22	336360	4.0	1.6
+311	22	999	Statewide	33	Motor vehicle transmission and power train parts manufacturing	22	336350	7.0	3.111111111111111
+312	22	999	Statewide	33	Motorcycle, bicycle, and parts manufacturing	22	336991	3.0	1.5
+314	22	999	Statewide	33	Noncurrent-carrying wiring device manufacturing	22	335932	2.0	1.0
+315	22	999	Statewide	33	Nonferrous metal (except aluminum) smelting and refining	22	331410	1.0	1.0
+316	22	999	Statewide	33	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	22	331491	2.0	1.0
+317	22	999	Statewide	33	Nonferrous metal die-casting foundries	22	331523	2.0	1.0
+319	22	999	Statewide	33	Office furniture (except wood) manufacturing	22	337214	4.0	2.0
+323	22	999	Statewide	33	Optical instrument and lens manufacturing	22	333314	2.0	1.0
+325	22	999	Statewide	33	Other aircraft parts and auxiliary equipment manufacturing	22	336413	4.25	1.6
+326	22	999	Statewide	33	Other aluminum rolling, drawing, and extruding	22	331318	5.25	1.8
+328	22	999	Statewide	33	Other communications equipment manufacturing	22	334290	1.0	1.0
+329	22	999	Statewide	33	Other electronic component manufacturing	22	334419	5.0	1.6
+332	22	999	Statewide	33	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	22	336419	2.0	1.0
+334	22	999	Statewide	33	Other lighting equipment manufacturing	22	335129	2.0	1.0
+337	22	999	Statewide	33	Other metal valve and pipe fitting manufacturing	22	332919	3.0	1.2
+340	22	999	Statewide	33	Packaging machinery manufacturing	22	333993	2.0	1.0
+341	22	999	Statewide	33	Photographic and photocopying equipment manufacturing	22	333316	1.0	1.0
+343	22	999	Statewide	33	Powder metallurgy part manufacturing	22	332117	2.0	1.0
+349	22	999	Statewide	33	Primary battery manufacturing	22	335912	2.0	1.0
+350	22	999	Statewide	33	Printed circuit assembly (electronic assembly) manufacturing	22	334418	3.0	1.5
+351	22	999	Statewide	33	Printing machinery and equipment manufacturing	22	333244	3.0	1.2
+354	22	999	Statewide	33	Railroad rolling stock manufacturing	22	336510	5.0	2.2
+356	22	999	Statewide	33	Residential electric lighting fixture manufacturing	22	335121	7.0	2.8
+357	22	999	Statewide	33	Rolling mill and other metalworking machinery manufacturing	22	333519	3.0	1.2
+361	22	999	Statewide	33	Semiconductor and related device manufacturing	22	334413	9.5	3.4444444444444446
+364	22	999	Statewide	33	Showcase, partition, shelving, and locker manufacturing	22	337215	4.0	1.4
+366	22	999	Statewide	33	Small arms ammunition manufacturing	22	332992	4.0	1.0
+367	22	999	Statewide	33	Small arms, ordnance, and ordnance accessories manufacturing	22	332994	4.0	2.0
+368	22	999	Statewide	33	Software and other prerecorded compact disc, tape, and record reproducing	22	334614	3.0	1.25
+370	22	999	Statewide	33	Speed changer, industrial high-speed drive, and gear manufacturing	22	333612	2.0	1.0
+372	22	999	Statewide	33	Spring manufacturing	22	332613	2.0	1.0
+374	22	999	Statewide	33	Steel investment foundries	22	331512	2.0	1.0
+375	22	999	Statewide	33	Steel wire drawing	22	331222	3.0	1.8
+376	22	999	Statewide	33	Surgical and medical instrument manufacturing	22	339112	3.75	1.8
+379	22	999	Statewide	33	Telephone apparatus manufacturing	22	334210	4.0	1.75
+380	22	999	Statewide	33	Totalizing fluid meter and counting device manufacturing	22	334514	2.0	1.0
+382	22	999	Statewide	33	Truck trailer manufacturing	22	336212	7.0	3.3333333333333335
+383	22	999	Statewide	33	Turbine and turbine generator set units manufacturing	22	333611	3.0	1.2
+385	22	999	Statewide	33	Welding and soldering equipment manufacturing	22	333992	3.0	1.2
+387	22	999	Statewide	33	Wood office furniture manufacturing	22	337211	3.0	1.2
+419	22	999	Statewide	42	Livestock merchant wholesalers	22	424520	2.0	1.0
+520	22	999	Statewide	45	Electronic auctions	22	454112	2.0	1.0
+541	22	999	Statewide	48	Air traffic control	22	488111	5.0	1.8
+542	22	999	Statewide	48	All other pipeline transportation	22	486990	17.0	8.0
+560	22	999	Statewide	48	Mixed mode transit systems	22	485111	2.0	1.0
+570	22	999	Statewide	48	Other urban transit systems	22	485119	1.0	1.0
+577	22	999	Statewide	48	Scenic and sightseeing transportation, other	22	487990	2.0	1.0
+601	22	999	Statewide	51	Drive-in motion picture theaters	22	512132	1.0	1.0
+602	22	999	Statewide	51	Greeting card publishers	22	511191	2.0	1.0
+606	22	999	Statewide	51	Motion picture and video distribution	22	512120	3.5	1.6
+610	22	999	Statewide	51	News syndicates	22	519110	8.0	3.5555555555555554
+613	22	999	Statewide	51	Other sound recording industries	22	512290	5.5	1.75
+635	22	999	Statewide	52	Credit card issuing	22	522210	8.75	3.8
+648	22	999	Statewide	52	Monetary authorities - central bank	22	521110	2.0	1.0
+652	22	999	Statewide	52	Other depository credit intermediation	22	522190	1.0	1.0
+657	22	999	Statewide	52	Reinsurance carriers	22	524130	3.0	3.0
+660	22	999	Statewide	52	Secondary market financing	22	522294	4.0	2.0
+782	22	999	Statewide	56	Solid waste combustors and incinerators	22	562213	2.0	1.0
+866	22	999	Statewide	71	Skiing facilities	22	713920	1.0	1.0
+917	22	999	Statewide	81	One-hour photofinishing	22	812922	2.0	2.0

@@ -1,0 +1,92 @@
+	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
+0	18	999	Statewide	11	Cotton ginning	18	115111	3.0	1.0
+4	18	999	Statewide	11	Finfish fishing	18	114111	2.0	1.0
+5	18	999	Statewide	11	Forest nurseries and gathering of forest products	18	113210	2.0	1.0
+9	18	999	Statewide	11	Shellfish fishing	18	114112	2.0	1.0
+14	18	999	Statewide	21	All other metal ore mining	18	212299	1.0	1.0
+15	18	999	Statewide	21	All other nonmetallic mineral mining	18	212399	6.0	2.4
+18	18	999	Statewide	21	Clay and ceramic and refractory minerals mining	18	212325	2.0	1.0
+22	18	999	Statewide	21	Crushed and broken granite mining and quarrying	18	212313	4.0	1.4
+26	18	999	Statewide	21	Gold ore mining	18	212221	1.0	1.0
+27	18	999	Statewide	21	Kaolin and ball clay mining	18	212324	2.0	1.0
+28	18	999	Statewide	21	Natural gas liquid extraction	18	211112	4.0	2.0
+31	18	999	Statewide	21	Support activities for metal mining	18	213114	2.0	2.0
+34	18	999	Statewide	22	Biomass electric power generation	18	221117	3.0	1.0
+35	18	999	Statewide	22	Electric bulk power transmission and control	18	221121	4.0	2.0
+38	18	999	Statewide	22	Geothermal electric power generation	18	221116	1.0	1.0
+39	18	999	Statewide	22	Hydroelectric power generation	18	221111	6.0	3.0
+41	18	999	Statewide	22	Nuclear electric power generation	18	221113	2.0	1.0
+42	18	999	Statewide	22	Other electric power generation	18	221118	3.0	1.4
+44	18	999	Statewide	22	Solar electric power generation	18	221114	1.0	1.0
+45	18	999	Statewide	22	Steam and air-conditioning supply	18	221330	4.0	1.8
+88	18	999	Statewide	31	Cheese manufacturing	18	311513	11.0	5.444444444444445
+89	18	999	Statewide	31	Chocolate and confectionery manufacturing from cacao beans	18	311351	3.0	1.5
+98	18	999	Statewide	31	Dried and dehydrated food manufacturing	18	311423	7.0	3.4444444444444446
+102	18	999	Statewide	31	Fats and oils refining and blending	18	311225	7.0	2.6
+103	18	999	Statewide	31	Fiber, yarn, and thread mills	18	313110	4.0	2.0
+106	18	999	Statewide	31	Footwear manufacturing	18	316210	1.0	1.0
+108	18	999	Statewide	31	Frozen fruit, juice, and vegetable manufacturing	18	311411	1.25	1.25
+111	18	999	Statewide	31	Hosiery and sock mills	18	315110	5.0	2.2
+113	18	999	Statewide	31	Ice manufacturing	18	312113	20.25	8.88888888888889
+114	18	999	Statewide	31	Knit fabric mills	18	313240	1.0	1.0
+115	18	999	Statewide	31	Mayonnaise, dressing, and other prepared sauce manufacturing	18	311941	8.75	3.6
+118	18	999	Statewide	31	Narrow fabric mills and schiffli machine embroidery	18	313220	3.0	1.6
+122	18	999	Statewide	31	Other apparel knitting mills	18	315190	2.0	1.0
+129	18	999	Statewide	31	Rope, cordage, twine, tire cord, and tire fabric mills	18	314994	6.0	2.4
+130	18	999	Statewide	31	Seafood product preparation and packaging	18	311710	3.0	1.3333333333333333
+133	18	999	Statewide	31	Specialty canning	18	311422	8.0	3.111111111111111
+137	18	999	Statewide	31	Tobacco manufacturing	18	312230	3.0	1.2
+141	18	999	Statewide	31	Women's handbag and purse manufacturing	18	316992	3.0	1.2
+150	18	999	Statewide	32	All other petroleum and coal products manufacturing	18	324199	5.0	2.2
+169	18	999	Statewide	32	Explosives manufacturing	18	325920	2.0	1.0
+192	18	999	Statewide	32	Paper (except newsprint) mills	18	322121	2.0	1.0
+197	18	999	Statewide	32	Petroleum refineries	18	324110	6.25	3.111111111111111
+199	18	999	Statewide	32	Phosphatic fertilizer manufacturing	18	325312	2.0	1.0
+224	18	999	Statewide	32	Tire manufacturing (except retreading)	18	326211	6.0	2.6
+237	18	999	Statewide	33	Aircraft manufacturing	18	336411	5.0	2.0
+246	18	999	Statewide	33	Ammunition (except small arms) manufacturing	18	332993	1.0	1.0
+253	18	999	Statewide	33	Blank magnetic and optical recording media manufacturing	18	334613	2.0	1.0
+257	18	999	Statewide	33	Broom, brush, and mop manufacturing	18	339994	8.25	3.6
+260	18	999	Statewide	33	Carbon and graphite product manufacturing	18	335991	3.0	1.8
+262	18	999	Statewide	33	Computer storage device manufacturing	18	334112	2.0	1.0
+274	18	999	Statewide	33	Electric lamp bulb and part manufacturing	18	335110	2.0	1.0
+279	18	999	Statewide	33	Elevator and moving stairway manufacturing	18	333921	5.0	2.2
+284	18	999	Statewide	33	Fiber optic cable manufacturing	18	335921	2.0	1.0
+286	18	999	Statewide	33	Fluid power pump and motor manufacturing	18	333996	2.0	1.0
+293	18	999	Statewide	33	Household cooking appliance manufacturing	18	335221	4.0	1.4
+295	18	999	Statewide	33	Household laundry equipment manufacturing	18	335224	2.0	1.0
+296	18	999	Statewide	33	Household refrigerator and home freezer manufacturing	18	335222	5.5	2.6
+325	18	999	Statewide	33	Military armored vehicle, tank, and tank component manufacturing	18	336992	4.0	1.8
+340	18	999	Statewide	33	Nonferrous forging	18	332112	3.0	1.2
+355	18	999	Statewide	33	Other communications equipment manufacturing	18	334290	5.0	2.3333333333333335
+368	18	999	Statewide	33	Photographic and photocopying equipment manufacturing	18	333316	4.0	1.6
+374	18	999	Statewide	33	Power-driven handtool manufacturing	18	333991	4.0	2.0
+393	18	999	Statewide	33	Semiconductor machinery manufacturing	18	333242	2.0	1.0
+398	18	999	Statewide	33	Small arms ammunition manufacturing	18	332992	3.0	1.0
+400	18	999	Statewide	33	Small electrical appliance manufacturing	18	335210	3.0	1.0
+413	18	999	Statewide	33	Telephone apparatus manufacturing	18	334210	4.25	2.2
+575	18	999	Statewide	48	Air traffic control	18	488111	8.0	4.0
+576	18	999	Statewide	48	All other pipeline transportation	18	486990	3.0	2.3333333333333335
+581	18	999	Statewide	48	Coastal and great lakes freight transportation	18	483113	3.0	1.2
+582	18	999	Statewide	48	Deep sea freight transportation	18	483111	2.0	1.0
+587	18	999	Statewide	48	Inland water freight transportation	18	483211	11.0	5.222222222222222
+588	18	999	Statewide	48	Inland water passenger transportation	18	483212	2.0	1.0
+594	18	999	Statewide	48	Nonscheduled chartered freight air transportation	18	481212	5.0	1.6
+600	18	999	Statewide	48	Other support activities for water transportation	18	488390	6.0	2.0
+601	18	999	Statewide	48	Other urban transit systems	18	485119	1.0	1.0
+608	18	999	Statewide	48	Scenic and sightseeing transportation, other	18	487990	4.0	1.3333333333333333
+633	18	999	Statewide	51	Greeting card publishers	18	511191	3.0	2.0
+634	18	999	Statewide	51	Integrated record production\/distribution	18	512220	6.0	2.0
+637	18	999	Statewide	51	Motion picture and video distribution	18	512120	8.666666666666666	3.2
+647	18	999	Statewide	51	Record production	18	512210	3.0	1.25
+674	18	999	Statewide	52	International trade financing	18	522293	3.0	1.0
+680	18	999	Statewide	52	Open-end investment funds	18	525910	5.0	2.0
+682	18	999	Statewide	52	Other depository credit intermediation	18	522190	5.0	1.6666666666666667
+690	18	999	Statewide	52	Secondary market financing	18	522294	19.0	6.444444444444445
+813	18	999	Statewide	56	Solid waste combustors and incinerators	18	562213	2.0	1.0
+823	18	999	Statewide	61	Business and secretarial schools	18	611410	9.0	3.2
+851	18	999	Statewide	62	HMO medical centers	18	621491	35.5	8.375
+878	18	999	Statewide	71	Amusement and theme parks	18	713110	10.0	4.444444444444445
+892	18	999	Statewide	71	Other performing arts companies	18	711190	12.25	4.222222222222222
+897	18	999	Statewide	71	Skiing facilities	18	713920	4.0	2.0
+948	18	999	Statewide	81	One-hour photofinishing	18	812922	2.0	1.0
