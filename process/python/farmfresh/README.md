@@ -14,6 +14,8 @@ The following USDA export used in our scrape no longer exists.
 https://search.ams.usda.gov/farmersmarkets/ExcelExport.aspx
 
 Processed data resides in: [community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state)
+The API pull can send to a new folder at community-data/farmfresh/us/NY
+The script can reside at [data-pipeline](/data-pipeline/)/farmfresh/us/NY
 
 Sample of [API file pull using Python](../bea/)
 
