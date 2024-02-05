@@ -3,7 +3,7 @@
 Pre-processed data for local industry levels (including employment, establishments and payroll).
 
 - [Process Industries by State and County](process/python/bea)
-- [Process Industries by Zip](process/naics/) - [Pull Census by Zip](/zip/io/#zip=30318)
+- [Process Industries by Zip](process/naics/) - [Pull Census by Zip](/zip/io/#zip=10001)
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/)
 - [Process Farm Fresh Data](process/python/farmfresh/)
 - [Imputation for NAICS Using Machine Learning](/machine-learning/) 
