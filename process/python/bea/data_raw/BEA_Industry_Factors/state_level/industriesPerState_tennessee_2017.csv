@@ -1,7 +1,7 @@
 "GEO_ID","NAME","COUNTY","YEAR","NAICS2017","NAICS2017_LABEL","ESTAB","EMP","PAYANN","state",
-"0400000US47","Tennessee",null,"2017","327320","Ready-mix concrete manufacturing","128","2173","109465","47",
 "0400000US47","Tennessee",null,"2017","3274","Lime and gypsum product manufacturing","3","245","14437","47",
 "0400000US47","Tennessee",null,"2017","3279","Other nonmetallic mineral product manufacturing","84","1502","73122","47",
+"0400000US47","Tennessee",null,"2017","327320","Ready-mix concrete manufacturing","128","2173","109465","47",
 "0400000US47","Tennessee",null,"2017","32791","Abrasive product manufacturing","3","0","0","47",
 "0400000US47","Tennessee",null,"2017","327910","Abrasive product manufacturing","3","0","0","47",
 "0400000US47","Tennessee",null,"2017","32799","All other nonmetallic mineral product manufacturing","81","1394","67421","47",
