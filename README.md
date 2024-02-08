@@ -4,6 +4,7 @@ Pre-processed data for local industry levels (including employment, establishmen
 
 - [Process Industries by State and County](process/python/bea) - Gaurav
 - [Process Multi-County State Regions](us/edd/)
+- [Process Product Impact Profiles by Zip](/io/template/feed/)
 - [Process Industries by Zip](process/naics/)
 - [Process Census by Zip](/zip/io/#zip=10001) - Gary
 - [Process Places by Zip](/places)
