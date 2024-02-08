@@ -22,6 +22,43 @@ US36005-census-naics6-2020.csv for a single county. Might not need that. -->
 - Population - Included with our [Machine Learning](/machine-learning/) output
 - Sqkm or Sqmiles - To be added
 
+
+**For Industry Comparisons**
+
+We send the "industries" files to a folder here:
+/community-data/industries/naics/us/
+
+There are 3 for the US, and 6 for each state:  
+
+ALL/US-census-naics2.csv
+ALL/US-census-naics4.csv
+ALL/US-census-naics6.csv
+NY/USNY-census-naics2.csv
+NY/USNY-census-naics4.csv
+NY/USNY-census-naics6.csv
+NY/USNY-census-naics2-counties.csv
+NY/USNY-census-naics4-counties.csv
+NY/USNY-census-naics6-counties.csvHere are the 4 year old files we're eliminating:
+https://github.com/ModelEarth/community-data/tree/master/us/state/NY
+NY is 75K with no counties, 836K with counties.
+
+**For Timelines**
+
+We send the year files here:
+/community-data/timelines/naics/us/
+
+For timeline projections, we just use naics6 (2017 to 2023).
+With and without country rows for each state.
+
+/community-data/timelines/naics/us/ALL/US-census-naics6-2017.csv
+/community-data/timelines/naics/us/NY/USNY-census-naics6-2017.csv
+/community-data/timelines/naics/us/NY/USNY-census-naics6-counties-2017.csv
+
+So for 2017 to 2023 there are 7 year files for the US with naics6, 
+and 14 year files for each state with naics6.
+
+**PIPELINE**
+
 Python pulls from the [US Census CBP&nbsp;API](https://www.census.gov/data/developers/data-sets.html).
 
 The Jupyter Notebook for industry data preparation resides in [us_econ.ipynb](us_econ.ipynb).
