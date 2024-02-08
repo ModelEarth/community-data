@@ -4,10 +4,10 @@
 <!--Import from BEA for NAICS industry charts us_econ)-->
 ### County Business Patterns (CBP)
 
-Processed county data resides at [/community-data/us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="us/state">view on localhost</a></span>
+State-county-naics files previouly resided in [us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="../../../us/state">view on localhost</a></span>
 
 **File Name**
-CountryCode - census - naics level (2, 4, 6) - year
+Country2 + State2 - census - naics[2,4,6] - year
 
 Example:<!-- 
 With Fips (5-digit state and county) 
