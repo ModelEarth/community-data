@@ -9,6 +9,7 @@ We used [a Python scraper](scraper) to pull and merge locations from the nationa
 TO DO:
 
 Please update our "Makefile" python script to use the new [USDA API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).
+Please call 877-333-9336 or write the maintainers of the USDA API since they have not responded to email.
 
 The following USDA export used in our scrape no longer exists.
 https://search.ams.usda.gov/farmersmarkets/ExcelExport.aspx

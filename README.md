@@ -2,12 +2,15 @@
 
 Pre-processed data for local industry levels (including employment, establishments and payroll).
 
-- [Process Industries by State and County](process/python/bea)
-- [Process Industries by Zip](process/naics/) - [Pull Census by Zip](/zip/io/#zip=10001)
-- [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/)
+- [Process Industries by State and County](process/python/bea) - Gaurav
+- [Process Multi-County State Regions](us/edd/)
+- [Process Industries by Zip](process/naics/)
+- [Process Census by Zip](/zip/io/#zip=10001) - Gary
+- [Process Places by Zip](/places)
+- [SQLite in Browser for Timelines](/places)
+- [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
 - [Process Farm Fresh Data](process/python/farmfresh/)
-- [Imputation for NAICS Using Machine Learning](/machine-learning/) 
 - [Data Pipeline: US EPA Data Sources](/data-pipeline/)
 - [Model.Earth](https://model.earth)
-
+<!-- [Imputation for NAICS Using Machine Learning](/machine-learning/)-->
 Investigation of [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
