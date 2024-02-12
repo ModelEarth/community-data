@@ -9,11 +9,20 @@ TO DO: Apply recent county naics processing to zip codes. Starting with 2019, [Z
 [Process Timelines](/data-pipeline/timelines/prep/all)
 -->
 
-**Postal Code File Name**
-[CountryCode] - [State 2-char] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
+153 US zip ztca areas reside in more than one state, so we may avoid creating state zip code files.
 
+**Postal Code File Name**
+[CountryCode] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
+
+US-zip-census-naics2-2020.csv (all for year)
+US-zip-census-naics4-2020.csv (all for year)
+US-zip-census-naics6-2020.csv (all for year)
+
+These will reside in 1/2/3/4/5 folders:
+
+US-zip30318-census-naics2-2020.csv
+US-zip30318-census-naics4-2020.csv
 US-zip30318-census-naics6-2020.csv
-USGA-zip-census-naics6-2020.csv
 
 **Columns**
 - Zip
