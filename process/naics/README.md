@@ -2,8 +2,29 @@
 
 # Processing NAICS by Zip Code
 
+TO DO: Apply recent county naics processing to zip codes. Starting with 2019, [ZIP Codes Business Patterns (ZBP)](https://www.census.gov/data/developers/data-sets/cbp-zbp/zbp-api.html) are available in the County Business Patterns (CBP) API, which we used for [state and county naics processing](/community-data/process/python/bea/).
+
+<!--
 [View Data by Zip](https://model.earth/zip/io/#zip=30318)
 [Process Timelines](/data-pipeline/timelines/prep/all)
+-->
+
+**Postal Code File Name**
+[CountryCode] - [State 2-char] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
+
+US-zip30318-census-naics6-2020.csv
+USGA-zip-census-naics6-2020.csv
+
+**Columns**
+- Zip
+- Naics - ActivityProducedBy (6-digit naics)  
+- Establishments - Other (Number of Extablishments)  
+- Employees - Employment FlowAmount (Number of Employees)  
+- Payroll - US Dollars (Annual Wages)
+- Population - Included with our [Machine Learning](/machine-learning/) output
+- Sqkm or Sqmiles - To be added
+
+## Older Notes
 
 ### NAICS zip code files
 
@@ -15,20 +36,7 @@ Bug: Payroll column is mostly 0. Why do some get populated?
 Example:
 [Zip 53521](https://github.com/ModelEarth/community-data/tree/master/us/zipcodes/naics/5/3/5/2/1)
 
-**Postal Code File Name**
-[CountryCode] - [State 2-char] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
 
-US-zip30318-census-naics6-2020.csv
-US-GA-zip-census-naics6-2020.csv
-
-**Columns**
-- Zip
-- Naics - ActivityProducedBy (6-digit naics)  
-- Establishments - Other (Number of Extablishments)  
-- Employees - Employment FlowAmount (Number of Employees)  
-- Payroll - US Dollars (Annual Wages)
-- Population - Included with our [Machine Learning](/machine-learning/) output
-- Sqkm or Sqmiles - To be added
 
 ### Timeline zip code files
 

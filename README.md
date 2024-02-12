@@ -3,10 +3,10 @@
 Pre-processed data for local industry levels (including employment, establishments and payroll).
 
 - [Process Industries by State and County](process/python/bea) - Gaurav
+- [Process Industries by Zip](process/naics/) - Gaurav
 - [Process Multi-County State Regions](us/edd/)
 - [Process Product Impact Profiles by Zip](/io/template/feed/)
-- [Process Industries by Zip](process/naics/)
-- [Process Census by Zip](/zip/io/#zip=10001) - Gary
+- [Process US Census by Zip and International Postal Codes](/zip/io/#zip=10001) - Gary
 - [Process Places by Zip](/places)
 - [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/)
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
