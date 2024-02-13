@@ -25,8 +25,7 @@ US36005-census-naics6-2020.csv for a single county. Might not need that. -->
 
 **For Industry Comparisons**
 
-We send the "industries" files to a folder here:
-/community-data/industries/naics/us/
+We send the annual naics files to: [/community-data/us/state-naics-update/](/community-data/us/state-naics-update/)
 
 There are 3 for the US, and 6 for each state:  
 
@@ -72,6 +71,18 @@ Or you can run [us_econ.ipynb](process/python/us_econ.ipynb) from the command li
 	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
 
 You may need to run `pip install notebook` after installing Python.  
+
+	pip install notebook
+
+You may also need to create a virtual environment.
+
+	python3 -m venv env &&
+	source env/bin/activate
+
+If you encounter [500: Internal Server Error](https://stackoverflow.com/questions/36851746/jupyter-notebook-500-internal-server-error)
+
+	pip install --upgrade nbconvert
+
 
 <!--
 Timeout still occured with the following...
