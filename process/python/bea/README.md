@@ -109,7 +109,7 @@ You may also need to create a virtual environment and install libraries.
 	pip install pandas  &&
 	pip install tqdm
 
-Avoid pip3 in virtual environment
+Avoid pip3 in virtual environment. Just "pip" without the 3.
 
 If you encounter [500: Internal Server Error](https://stackoverflow.com/questions/36851746/jupyter-notebook-500-internal-server-error)
 
