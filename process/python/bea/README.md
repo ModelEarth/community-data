@@ -70,14 +70,19 @@ Or you can run [us_econ.ipynb](process/python/us_econ.ipynb) from the command li
 
 	jupyter nbconvert --to notebook --inplace --execute us_econ.ipynb
 
-You may need to run `pip install notebook` after installing Python.  
+If the above does not work,
+you may need to run `pip install notebook` after installing Python.  
 
 	pip install notebook
 
-You may also need to create a virtual environment.
+You may also need to create a virtual environment and install libraries.
 
 	python3 -m venv env &&
-	source env/bin/activate
+	source env/bin/activate &&
+	pip install pandas  &&
+	pip install tqdm
+
+Avoid pip3 in virtual environment
 
 If you encounter [500: Internal Server Error](https://stackoverflow.com/questions/36851746/jupyter-notebook-500-internal-server-error)
 
