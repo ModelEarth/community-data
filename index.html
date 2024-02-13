@@ -38,8 +38,23 @@
 
 <style>
 
-.bgimg { background-position: 0 0px; }
-
+.bgimg {
+    background-position: 0 0px;
+    opacity:.85;
+    margin-top:-170px;
+}
+@media (max-width: 900px) {
+    .bgimg {
+        margin-top:-20px;
+    }
+    #heroContainer {
+        max-height: 220px;
+    }
+    .herocenter {
+        top:auto !important;
+        bottom: 50px;
+    }
+}
 .text-flow {
     position: absolute;
     bottom: 10px;
@@ -94,10 +109,10 @@
 </head>
 
 <body>
-<div style="background:#fff; min-height:150px; width:100%; height:300px; position:relative; overflow:hidden">
+<div id="heroContainer" style="background:#fff; min-height:150px; width:100%; height:300px; position:relative; overflow:hidden">
     
     <!-- logo centered -->
-    <div class="herocenter" style="position: absolute; z-index:2; top:230px; left:15px;">
+    <div class="herocenter" style="position: absolute; z-index:2; top:250px; left:15px;">
 
         <div id="topTitleHolder" class="fade-in text-flowX" style="position:absolute; text-align:center; top: 0px; padding-left: 20px; padding-right: 20px; color:#fff; font-size:24px; text-shadow: 2px 2px 8px #333;">
             <span style="font-weight:800; opacity:1">ModelEarth</span> Community&nbsp;Data
@@ -111,7 +126,7 @@
         </div>
     </div>
 
-    <div class="lazy bgimg bgimg-notfixed" data-src="img/hero/woman-table-computer.jpg" style="opacity:.85; margin-top:-170px">
+    <div class="lazy bgimg bgimg-notfixed" data-src="img/hero/woman-table-computer.jpg">
         <img src="img/hero/woman-table-computer.jpg" style="opacity:0;width:100%">
     </div>
 
