@@ -1,6 +1,6 @@
 "GEO_ID","NAME","COUNTY","YEAR","NAICS2017","NAICS2017_LABEL","ESTAB","EMP","PAYANN","state",
-"0400000US55","Wisconsin",null,"2017","445","Food and beverage stores","2015","55192","1061499","55",
 "0400000US55","Wisconsin",null,"2017","44421","Outdoor power equipment stores","108","706","27526","55",
+"0400000US55","Wisconsin",null,"2017","445","Food and beverage stores","2015","55192","1061499","55",
 "0400000US55","Wisconsin",null,"2017","445110","Supermarkets and other grocery (except convenience) stores","1014","48436","940087","55",
 "0400000US55","Wisconsin",null,"2017","445210","Meat markets","111","1085","26028","55",
 "0400000US55","Wisconsin",null,"2017","44522","Fish and seafood markets","8","120","1969","55",
