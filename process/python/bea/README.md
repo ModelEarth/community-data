@@ -26,6 +26,7 @@ US36005-census-naics6-2020.csv for a single county. Might not need that. -->
 **For Industry Comparisons**
 
 We send the annual naics files to: [/community-data/us/state-naics-update/](/community-data/us/state-naics-update/)
+Currently we then move manually to: [/community-data/us/state-naics/](/community-data/us/state-naics/)
 
 There are 3 for the US, and 6 for each state:  
 

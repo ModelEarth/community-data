@@ -1,9 +1,0 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
-28	41	999	Statewide	31	Apparel knitting mills	41	3151	3.0	1.4
-46	41	999	Statewide	31	Tobacco manufacturing	41	3122	4.0	2.0
-88	41	999	Statewide	33	Iron and steel mills and ferroalloy manufacturing	41	3311	7.0	3.6666666666666665
-94	41	999	Statewide	33	Motor vehicle manufacturing	41	3361	15.85	6.666666666666667
-105	41	999	Statewide	33	Railroad rolling stock manufacturing	41	3365	4.0	1.8
-166	41	999	Statewide	48	Other pipeline transportation	41	4869	3.4	2.5555555555555554
-169	41	999	Statewide	48	Pipeline transportation of crude oil	41	4861	1.0	1.0
-203	41	999	Statewide	52	Monetary authorities - central bank	41	5211	2.0	1.0

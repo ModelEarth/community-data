@@ -1,9 +1,0 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
-1	8	999	Statewide	11	Forest nurseries and gathering of forest products	8	1132	3.0	1.2
-29	8	999	Statewide	31	Apparel knitting mills	8	3151	6.0	2.2
-43	8	999	Statewide	31	Seafood product preparation and packaging	8	3117	6.25	2.6
-53	8	999	Statewide	32	Lime and gypsum product manufacturing	8	3274	10.5	3.888888888888889
-160	8	999	Statewide	48	Deep sea, coastal, and great lakes water transportation	8	4831	2.0	1.5
-163	8	999	Statewide	48	Inland water transportation	8	4832	6.0	1.8
-180	8	999	Statewide	48	Support activities for water transportation	8	4883	2.0	1.5
-203	8	999	Statewide	52	Monetary authorities - central bank	8	5211	2.0	1.0

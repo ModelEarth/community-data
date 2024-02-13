@@ -1,8 +1,0 @@
-	id	COUNTY	GEO_TTL	NAICS_Sector	NAICS_TTL	state	relevant_naics	estab_agg	estab_api
-7	34	999	Statewide	11	Timber tract operations	34	1131	2.0	1.5
-8	34	999	Statewide	21	Metal ore mining	34	2122	1.0	1.0
-51	34	999	Statewide	32	Lime and gypsum product manufacturing	34	3274	9.75	5.0
-104	34	999	Statewide	33	Railroad rolling stock manufacturing	34	3365	3.0	2.125
-168	34	999	Statewide	48	Pipeline transportation of crude oil	34	4861	4.0	1.6
-202	34	999	Statewide	52	Monetary authorities - central bank	34	5211	3.0	1.8
-207	34	999	Statewide	52	Securities and commodity exchanges	34	5232	3.5	2.2222222222222223
