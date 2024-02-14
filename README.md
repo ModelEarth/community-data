@@ -7,7 +7,7 @@ Pre-processed data for local industry levels (including employment, establishmen
 - [Process Multi-County State Regions](us/edd/)
 - [Process Product Impact Profiles by Zip](/io/template/feed/)
 - [Process US Census by Zip and International Postal Codes](/zip/io/#zip=10001) - Gary
-- [Process Places by Zip](/places)
+- [Process Places by Zip](/places) - Chen
 - [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/)
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
 - [Process Farm Fresh Data](process/python/farmfresh/)
