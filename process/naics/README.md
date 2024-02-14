@@ -4,6 +4,9 @@
 
 TO DO: Apply recent county naics processing to zip codes. Starting with 2019, [ZIP Codes Business Patterns (ZBP)](https://www.census.gov/data/developers/data-sets/cbp-zbp/zbp-api.html) are available in the County Business Patterns (CBP) API, which we used for [state and county naics processing](/community-data/process/python/bea/).
 
+The ZBP page above states that only naics2 has payroll.
+All levels have Employees count.
+
 <!--
 [View Data by Zip](https://model.earth/zip/io/#zip=30318)
 [Process Timelines](/data-pipeline/timelines/prep/all)
