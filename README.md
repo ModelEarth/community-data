@@ -11,7 +11,7 @@ Pre-processed data for local industry levels (including employment, establishmen
 - [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/)
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
 - [Process Farm Fresh Data](process/python/farmfresh/)
-- New: Update [State Map](#geoview=country) with EPA color levels
+- New: Update [State Map](#geoview=country) with [EPA color levels](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473)
 - [Data Pipeline: US EPA Data Sources](/data-pipeline/)
 - [Model.Earth](https://model.earth)
 <!-- [Imputation for NAICS Using Machine Learning](/machine-learning/)-->
