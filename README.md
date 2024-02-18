@@ -8,8 +8,15 @@ Pre-processed data for local industry levels (including employment, establishmen
 - [Process Product Impact Profiles by Zip](/io/template/feed/)
 - [Process US Census by Zip and International Postal Codes](/zip/io/#zip=10001) - Chen and Gary
 - [Process All the Places by Zip](/places) - Chen
-- [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/)
+- [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/) - We Need Help!
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
+- [ChatGPT Web Assistant Setup](https://github.com/Niek/chatgpt-web)
+<!--
+	Overview video
+	https://platform.openai.com/docs/actions/introduction
+
+	https://retool.com/component-library
+-->
 - [Process Farm Fresh Data](process/python/farmfresh/)
 - New: Update [State Map](#geoview=country) with [EPA color levels](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473)
 - [Data Pipeline: US EPA Data Sources](/data-pipeline/)
