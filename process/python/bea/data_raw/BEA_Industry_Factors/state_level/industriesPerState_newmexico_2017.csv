@@ -1,6 +1,6 @@
 "GEO_ID","NAME","COUNTY","YEAR","NAICS2017","NAICS2017_LABEL","ESTAB","EMP","PAYANN","state",
-"0400000US35","New Mexico",null,"2017","454310","Fuel dealers","94","591","21780","35",
 "0400000US35","New Mexico",null,"2017","45431","Fuel dealers","94","591","21780","35",
+"0400000US35","New Mexico",null,"2017","454310","Fuel dealers","94","591","21780","35",
 "0400000US35","New Mexico",null,"2017","481","Air transportation","29","579","39833","35",
 "0400000US35","New Mexico",null,"2017","4811","Scheduled air transportation","9","332","16630","35",
 "0400000US35","New Mexico",null,"2017","48111","Scheduled air transportation","9","332","16630","35",
