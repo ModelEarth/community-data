@@ -4,12 +4,14 @@
 <!--Import from BEA for NAICS industry charts naics-annual)-->
 ### County Business Patterns (CBP)
 
+View output: [industries/naics/US/counties](../../../industries/naics/US/counties/)
+
 State-county-naics files previouly resided in [us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="../../../us/state">view on localhost</a></span>
 
 
 TO DO: For recent years
 
-USEPA has these 2 crosswalks. (There are no naics industry titles in these.)
+USEPA has the following 2 crosswalks. (There are no naics industry titles in these.)
 
 - [2017 NAICS to 2017 BEA](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_to_BEA_Crosswalk_2017.csv)
 - [Timeseries of NAICS codes for 2002, 2007, 2012, 2017](https://github.com/USEPA/flowsa/blob/master/flowsa/data/NAICS_Crosswalk_TimeSeries.csv)
@@ -54,19 +56,25 @@ US36005-census-naics6-2020.csv for a single county. Not needed currently. -->
 We send the annual naics files to: [/community-data/us/state-naics-update/](/community-data/us/state-naics-update/)
 Currently we then move manually to: [/community-data/us/state-naics/](/community-data/us/state-naics/)
 
-There are 3 for the US, and 6 for each state:  
+For each year, there are 3 for the US, and 6 for each state:  
 
-ALL/US-census-naics2.csv
-ALL/US-census-naics4.csv
-ALL/US-census-naics6.csv
-NY/USNY-census-naics2.csv
-NY/USNY-census-naics4.csv
-NY/USNY-census-naics6.csv
-NY/USNY-census-naics2-counties.csv
-NY/USNY-census-naics4-counties.csv
-NY/USNY-census-naics6-counties.csvHere are the 4 year old files we're eliminating:
+US/country/US-census-naics2-2023.csv
+US/country/US-census-naics4-2023.csv
+US/country/US-census-naics6-2023.csv
+
+US/counties/NY/US-NY-census-naics2-2023.csv
+US/counties/NY/US-NY-census-naics4-2023.csv
+US/counties/NY/US-NY-census-naics6-2023.csv
+US/counties/NY/US-NY-census-naics2-counties-2023.csv
+US/counties/NY/US-NY-census-naics4-counties-2023.csv
+US/counties/NY/US-NY-census-naics6-counties-2023.csv
+
+
+<!--
+Here are the 4 year old files we're eliminating:
 https://github.com/ModelEarth/community-data/tree/master/us/state/NY
-NY is 75K with no counties, 836K with counties.
+NY is 75K with no counties, 836K with counties.
+
 
 **For Timelines**
 
@@ -77,11 +85,12 @@ For timeline projections, we just use naics6 (2017 to 2023).
 With and without country rows for each state.
 
 /community-data/timelines/naics/us/ALL/US-census-naics6-2017.csv
-/community-data/timelines/naics/us/NY/USNY-census-naics6-2017.csv
-/community-data/timelines/naics/us/NY/USNY-census-naics6-counties-2017.csv
+/community-data/timelines/naics/us/NY/US-NY-census-naics6-2017.csv
+/community-data/timelines/naics/us/NY/US-NY-census-naics6-counties-2017.csv
 
 So for 2017 to 2023 there are 7 year files for the US with naics6, 
 and 14 year files for each state with naics6.
+-->
 
 **PIPELINE**
 
