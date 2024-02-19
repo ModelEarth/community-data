@@ -1,6 +1,10 @@
+[Data Pipeline](/data-pipeline/)
+
 # Community Datasets
 
 Pre-processed data for local industry levels (including employment, establishments and payroll).
+
+Files for Timelines and Observable: [industries/naics/US/counties](industries/naics/US/counties/)
 
 - [Process Industries by State and County](process/python/bea) - Gaurav
 - [Process Industries by Zip](process/naics/) - Gaurav
@@ -8,7 +12,7 @@ Pre-processed data for local industry levels (including employment, establishmen
 - [Process Product Impact Profiles by Zip](/io/template/feed/)
 - [Process US Census by Zip and International Postal Codes](/zip/io/#zip=10001) - Chen and Gary
 - [Process All the Places by Zip](/places) - Chen
-- [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/) - We Need Help!
+- [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/) - We need help deploying to Github. [Like this.](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
 - [ChatGPT Web Assistant Setup](https://github.com/Niek/chatgpt-web)
 <!--
@@ -16,17 +20,19 @@ Pre-processed data for local industry levels (including employment, establishmen
 	https://platform.openai.com/docs/actions/introduction
 
 	https://retool.com/component-library
+
+	- [Process Farm Fresh Data](process/python/farmfresh/)
+
+	[Google Places API]() - Hours of Operation, All The Places Recyclers, BuildingTransparency Manufacturers
 -->
-- [Process Farm Fresh Data](process/python/farmfresh/)
-- New: Update [State Map](#geoview=country) with [EPA color levels](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473)
-- [Data Pipeline: US EPA Data Sources](/data-pipeline/)
-- [Model.Earth](https://model.earth)
+
 <!-- [Imputation for NAICS Using Machine Learning](/machine-learning/)-->
 
 Other areas:
-Google Places - For Recyclers, EV Parts Manufactures
-Google Data Commons
-CensusReporter.com
+[Observable Framework Notes](/data-pipeline/timelines/observable)
+[ChatGPT Web Repo](https://github.com/Niek/chatgpt-web) - We need help deploying to Github. [Like this.](https://niek.github.io/chatgpt-web/)
+[Google Data Commons API](https://docs.datacommons.org/api/) - Pull International, Push impact data from US EPA
+[CensusReporter.com](https://CensusReporter.com)
 
 Investigations of [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
 [International Data Pipeline](../data-pipeline/international) - Imports and exports by country by year (to be developed)  
@@ -36,6 +42,9 @@ Investigations of [Commodity Flow Survey for Counties](https://github.com/modele
 -->
 
 ---
+<br>
+
+[Update our State Map filter](#geoview=country) with [state color levels](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473) from report maps in letter from EPA engineer Wes Ingwersen.
 <br>
 
 Feb 2024
@@ -62,4 +71,4 @@ Center for Environmental Solutions and Emergency Response (CESER)
 Office of Research and Development
 US Environmental Protection Agency
 
-[Model.Earth Team](../io/team/)
+[Contact Model.Earth Team](../io/team/)
