@@ -44,7 +44,7 @@ Investigations of [Commodity Flow Survey for Counties](https://github.com/modele
 ---
 <br>
 
-[Update our State Map filter](#geoview=country) with [state color levels](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473) from report maps in letter from EPA engineer Wes Ingwersen.
+[Update our State Map filter](#geoview=country) with color levels like the [new report maps](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473) from US EPA engineer Wes Ingwersen.
 <br>
 
 Feb 2024
