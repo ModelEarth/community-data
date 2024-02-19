@@ -8,34 +8,38 @@ Files for Timelines and Observable: [industries/naics/US/counties](industries/na
 
 - [Process Industries by State and County](process/python/bea) - Gaurav
 - [Process Industries by Zip](process/naics/) - Gaurav
-- [Process Multi-County State Regions](us/edd/)
+- [Build IO json for all states](/io/charts/) - Zhu<!-- Honglin -->
+- [Process Multi-County State Regions (ChatGPT)](us/edd/)
 - [Process Product Impact Profiles by Zip](/io/template/feed/)
 - [Process US Census by Zip and International Postal Codes](/zip/io/#zip=10001) - Chen and Gary
 - [Process All the Places by Zip](/places) - Chen
 - [SQLite in Browser for Timelines](/data-pipeline/timelines/sqlite/) - We need help deploying to Github. [Like this.](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
-- [Timeline Data Prep and Samples](/data-pipeline/timelines/prep/all/) - Sijia
-- [ChatGPT Web Assistant Setup](https://github.com/Niek/chatgpt-web)
+- [Timeline Data Prep, Random Forest](/data-pipeline/timelines/prep/all/) - Sijia
 <!--
+
+	mark huang - deep learning
+
 	Overview video
 	https://platform.openai.com/docs/actions/introduction
 
 	https://retool.com/component-library
 
-	- [Process Farm Fresh Data](process/python/farmfresh/)
+	- 
 
 	[Google Places API]() - Hours of Operation, All The Places Recyclers, BuildingTransparency Manufacturers
 -->
 
 <!-- [Imputation for NAICS Using Machine Learning](/machine-learning/)-->
 
-Other areas:
-[Observable Framework Notes](/data-pipeline/timelines/observable)
-[ChatGPT Web Repo](https://github.com/Niek/chatgpt-web) - We need help deploying to Github. [Like this.](https://niek.github.io/chatgpt-web/)
-[Google Data Commons API](https://docs.datacommons.org/api/) - Pull International, Push impact data from US EPA
-[CensusReporter.com](https://CensusReporter.com)
+Exploration areas
 
-Investigations of [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
-[International Data Pipeline](../data-pipeline/international) - Imports and exports by country by year (to be developed)  
+- [Observable Framework Notes](/data-pipeline/timelines/observable)
+- [ChatGPT Web Assistant Repo](https://github.com/Niek/chatgpt-web) - We need help deploying to Github. [Like this.](https://niek.github.io/chatgpt-web/)
+- [Google Data Commons API](https://docs.datacommons.org/api/) - Pull International, Push impact data from US EPA
+- [CensusReporter.com](https://CensusReporter.com)
+- [Process Farm Fresh Data](process/python/farmfresh/)
+- [Commodity Flow Survey for Counties](https://github.com/modelearth/commodity-flow-survey)
+- [International Data Pipeline](../data-pipeline/international) - Imports and exports by country by year
 
 <!--   
 [Zipcode files with employment levels](https://github.com/modelearth/community-data/tree/master/us/zipcodes/naics) - Includes nunber of Establishments and Employees 
@@ -44,7 +48,7 @@ Investigations of [Commodity Flow Survey for Counties](https://github.com/modele
 ---
 <br>
 
-[Update our State Map filter](#geoview=country) with color levels like the [new report maps](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473) from US EPA engineer Wes Ingwersen.
+TO DO: [Update our state map filter](#geoview=country) with color levels like the [new report maps](https://figshare.com/collections/USEEIO_State_Models_v1_0_-_Supporting_Figures/7041473) from US EPA engineer Wes Ingwersen.
 <br>
 
 Feb 2024
