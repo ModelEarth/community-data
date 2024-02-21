@@ -4,7 +4,7 @@
 <!--Import from BEA for NAICS industry charts naics-annual)-->
 ### County Business Patterns (CBP)
 
-View output: [industries/naics/US/counties](../../../industries/naics/US/counties/)
+View output: [industries/naics/US/counties](https://github.com/ModelEarth/community-data/tree/master/industries/naics/US/counties)
 
 State-county-naics files previouly resided in [us/state](https://github.com/modelearth/community-data/tree/master/us/state) <span class="local" style="display:none">- <a href="../../../us/state">view on localhost</a></span>
 
