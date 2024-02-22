@@ -4,6 +4,9 @@ TO DO:
 
 Process [District Attributes](EDDLayer2_attributes.xls) (237 KB) to add a column with county FIPS so we can disply multi-county regions within states on maps.
 
+    python -m venv venv && source venv/bin/activate
+Should we use python3 above instead? .venv? The venv line is from [FastAPI ChatGPT plugins quickstart](https://github.com/keryc/chatgpt-plugins-fastapi-quickstart)
+
 Request sent to ChatGPT
 
 Add a column called Fips containing comma seperated FIPS codes for each county listed in the Counties column (separated by commas) within the State indicated in the State column. If the word City indicates the string is a city, use the county FIPS that the city resides in within the indicated state. Sometimes a city may reside in multiple counties. Provide a Python script to run this process. Use a Python library that looks up county FIPS codes based on county and state. And use a Python library that looks up counties for cities. Provide a link to download the resulting .xls file once you've added and populated the Fips column. Thanks!
