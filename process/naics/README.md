@@ -4,8 +4,15 @@
 
 From 2019 forward we'll pull zip data from the same census API as our [county and state processing](/data-pipeline/industries/naics/)
 
+Portions of this page will be moved into a new ztca page within data-pipeline/industries/naics
 
-The ZBP page states that only naics level-2 provide Payroll.
+The code and data in the current "process/naics" folder will be deleted.
+
+
+## Annual ZCTA Files
+
+The ZBP API page states that only naics level-2 provide payroll.
+We have however seen some of the payroll values populated at other naics levels.
 All levels have both Establishments and Employees count.
 
 <!--
@@ -15,16 +22,27 @@ All levels have both Establishments and Employees count.
 
 153 US zip zcta areas reside in more than one state, so state zip code agreegates could be inflated.
 
-## Zip Codes prior to 2019
-
 **Postal Code File Name (Upcoming)**
 
+All state's zip codes (zcta) and their industries (3 levels):
 community-data/industries/naics/US/zcta/NY/US-NY-census-naics2-zcta-2023.csv
 community-data/industries/naics/US/zcta/NY/US-NY-census-naics4-zcta-2023.csv
 community-data/industries/naics/US/zcta/NY/US-NY-census-naics6-zcta-2023.csv
 
+**Columns**
+- Ztca
+- Naics - ActivityProducedBy (6-digit naics)  
+- Establishments (Number of Locations)
+- Employees (Number of Employees)  
+- Payroll - US Dollars (Annual Wages)<!--
+Population - Included with our [Machine Learning](/machine-learning/) output
+Sqkm or Sqmiles - To be added -->
 
+<!--
 **Postal Code File Name (OLD)**
+
+https://github.com/ModelEarth/community-data/tree/master/process/naics/zips/30501
+
 [CountryCode] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
 
 US-zip-census-naics2-2020.csv
@@ -36,15 +54,7 @@ These will reside in 1/2/3/4/5 folders:
 US-zip30318-census-naics2-2020.csv
 US-zip30318-census-naics4-2020.csv
 US-zip30318-census-naics6-2020.csv
-
-**Columns**
-- Zip
-- Naics - ActivityProducedBy (6-digit naics)  
-- Establishments - Other (Number of Extablishments)  
-- Employees - Employment FlowAmount (Number of Employees)  
-- Payroll - US Dollars (Annual Wages)
-- Population - Included with our [Machine Learning](/machine-learning/) output
-- Sqkm or Sqmiles - To be added
+-->
 
 ## Older Notes
 
@@ -52,8 +62,6 @@ US-zip30318-census-naics6-2020.csv
 
 Processed using <b>split\_zip\_data.py</b> in the current folder.
 Creates files for naics levels 2,4 and 6 in "zips" subfolder.
-
-Bug: Payroll column is mostly 0. Why do some get populated?
 
 Example:
 [Zip 53521](https://github.com/ModelEarth/community-data/tree/master/us/zipcodes/naics/5/3/5/2/1)
