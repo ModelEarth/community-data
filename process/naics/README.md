@@ -13,16 +13,23 @@ All levels have both Establishments and Employees count.
 [Process Timelines](/data-pipeline/timelines/prep/all)
 -->
 
-153 US zip ztca areas reside in more than one state, so state zip code agreegates could be inflated.
+153 US zip zcta areas reside in more than one state, so state zip code agreegates could be inflated.
 
 ## Zip Codes prior to 2019
 
-**Postal Code File Name**
+**Postal Code File Name (Upcoming)**
+
+community-data/industries/naics/US/zcta/NY/US-NY-census-naics2-zcta-2023.csv
+community-data/industries/naics/US/zcta/NY/US-NY-census-naics4-zcta-2023.csv
+community-data/industries/naics/US/zcta/NY/US-NY-census-naics6-zcta-2023.csv
+
+
+**Postal Code File Name (OLD)**
 [CountryCode] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
 
-US-zip-census-naics2-2020.csv (all for year)
-US-zip-census-naics4-2020.csv (all for year)
-US-zip-census-naics6-2020.csv (all for year)
+US-zip-census-naics2-2020.csv
+US-zip-census-naics4-2020.csv
+US-zip-census-naics6-2020.csv
 
 These will reside in 1/2/3/4/5 folders:
 
