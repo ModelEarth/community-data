@@ -2,17 +2,20 @@
 
 # Processing NAICS by Zip Code
 
-TO DO: Apply recent county naics processing to zip codes. Starting with 2019, [ZIP Codes Business Patterns (ZBP)](https://www.census.gov/data/developers/data-sets/cbp-zbp/zbp-api.html) are available in the County Business Patterns (CBP) API, which we used for [state and county naics processing](/community-data/process/python/bea/).
+From 2019 forward we'll pull zip data from the same census API as our [county and state processing](/data-pipeline/industries/naics/)
 
-The ZBP page above states that only naics2 has payroll.
-All levels have Employees count.
+
+The ZBP page states that only naics level-2 provide Payroll.
+All levels have both Establishments and Employees count.
 
 <!--
 [View Data by Zip](https://model.earth/zip/io/#zip=30318)
 [Process Timelines](/data-pipeline/timelines/prep/all)
 -->
 
-153 US zip ztca areas reside in more than one state, so we may avoid creating state zip code files.
+153 US zip ztca areas reside in more than one state, so state zip code agreegates could be inflated.
+
+## Zip Codes prior to 2019
 
 **Postal Code File Name**
 [CountryCode] - zip[5-digit postalcode] - census - naics level (2, 4, 6) - year
@@ -54,6 +57,7 @@ Example:
 
 Community-Forecasting timeline zip code files reside at:  
 [https://github.com/ModelEarth/community-usa/tree/main/data/zip](https://github.com/ModelEarth/community-usa/tree/main/data/zip)
+Range 2012 to 2016 projected to 2021. [Regression project](/community-forecasting/?page=zip/#zip=30318) was in 2019.
 
 
 # Industries by Zip Code (ZCTA)
@@ -65,12 +69,6 @@ We're pulling [zip demographic data](../../zip/io/) into a json file for each zi
 [Bureau of Labor Statistics (BLS)](https://www.bls.gov/data/) also provides annual industry data by zip code.
 
 Here's a example of [clustering zip code data for multiple parameters](../../community/zip/leaflet/#columns=JobsAgriculture:50;JobsManufacturing:50).  
-
-
-## State Centroids
-
-Script for generating state centroids from TIGER data resides in:  
-[community-data/us/](/community-data/us/) and county/zip centroids [community/info/rstudio](/community/info/rstudio)
 
 
 ## Older - ZIP Code Industries from BEA Spreadsheets
