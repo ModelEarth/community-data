@@ -4,7 +4,7 @@
 
 From 2019 forward we'll pull zip data from the same census API as our [county and state processing](/data-pipeline/industries/naics/)
 
-Portions of this page will be moved into a new ztca page within data-pipeline/industries/naics
+Portions of this page will be moved into a new ztca page within [data-pipeline/industries/naics](/data-pipeline/industries/naics/)
 
 The code and data in the current "process/naics" folder will be deleted.
 
@@ -113,10 +113,6 @@ Issue: 2018 zipcode data is not available as of June 2020.
 
 [Source of Zipcode lat/lon - 2018 Census](https://www.census.gov/geo/maps-data/data/gazetteer2018.html)  
 
-
-"The Business Patterns series covers most of the country’s economic activity, but
-excludes data on self-employed individuals, employees of private households, railroad
-employees, agricultural production employees, and most government employees."
 From similar data collection with crosswalking of zips to zcta...  
 https://www.urban.org/sites/default/files/publication/29311/412248-business-patterns-and-trends-national-summary.pdf
 
