@@ -1,4 +1,5 @@
 *raw-data*
+*-update/*
 .DS_Store
 .env
 .flaskenv
