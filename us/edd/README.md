@@ -1,6 +1,8 @@
 # Economic Development Districts (EDDs)
 
-TO DO: 
+TO DO: Implement the Python below by adding a FIPS lookup library.
+TO DO: Lazy load the .csv into [Region Dropdown](/localsite/info/#show=farmfresh&state=ME&imgview=state&geoview=state) when clicked.
+TO DO: In our [Observable DataCommons](/data-pipeline/timelines/observable) repo, load international state (territory, municipality) menus and region menus for all countries.
 
 Process [District Attributes](EDDLayer2_attributes.xls) (237 KB) to add a column with county FIPS so we can disply multi-county regions within states on maps.
 
