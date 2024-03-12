@@ -11,7 +11,7 @@ A Python library will be needed for the county fips lookup.
 Start a virtual environment
 
     python3 -m venv env &&
-    source env/bin/activate &&
+    source env/bin/activate
 
 
 ## Request sent to ChatGPT
