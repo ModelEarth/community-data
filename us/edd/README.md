@@ -1,6 +1,6 @@
 # Economic Development Districts (EDDs)
 
-TO DO: Create a CoLab for the Python below. Include a county FIPS lookup library. Send Loren a link to the CoLab to add here.
+[Our CoLab](https://colab.research.google.com/drive/1d-5RD7Hu8OCOPsA9MhnI1Ea9FqCG89Mi?usp=sharing) for our county FIPS lookup library.
 
 TO DO: Use a Data Loder in our [Observable DataCommons](/data-pipeline/timelines/observable) repo to load regions (states, territories) for all countries.
 
