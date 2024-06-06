@@ -4,8 +4,6 @@
 
 From 2019 forward we'll pull zip data from the same census API as our [county and state processing](/data-pipeline/industries/naics/)
 
-Portions of this page will be moved into a new ztca page within [data-pipeline/industries/naics](/data-pipeline/industries/naics/)
-
 The code and data in the current "process/naics" folder will be deleted.
 
 
