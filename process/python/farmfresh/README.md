@@ -3,7 +3,7 @@
 
 This process fetches data for our [Map of Fresh Produce](/localsite/map/#show=farmfresh&state=NY)
 
-We previously used [a Python scraper](scraper) to pull and merge locations from the national USDA dataset.  
+We previously used [a Python scraper](https://github.com/ModelEarth/community-data/tree/master/process/python/farmfresh/scraper) to pull and merge locations from the national USDA dataset.  
 
 TO DO:
 
