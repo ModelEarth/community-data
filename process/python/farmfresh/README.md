@@ -1,7 +1,9 @@
 [Community Data](../../../)
 # Farm Fresh Data
 
-This process fetches data for our [Map of Fresh Produce](/localsite/map/#show=farmfresh&state=NY)
+[View our upcoming process notes](../../../locations/farmfresh/) - 2024
+
+The following older process fetches data for our [Map of Fresh Produce](/localsite/map/#show=farmfresh&state=NY)
 
 We previously used [a Python scraper](https://github.com/ModelEarth/community-data/tree/master/process/python/farmfresh/scraper) to pull and merge locations from the national USDA dataset.  
 
