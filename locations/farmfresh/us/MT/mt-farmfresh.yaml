@@ -1,0 +1,1258 @@
+data:
+- city: Boulder
+  contact_email: conniegrenz63@gmail.com
+  contact_name: Connie L Grenz
+  contact_phone: '4062253288'
+  directory_name: farmers market
+  distance: '1000'
+  facebook: Boulder MT Farmers and Artisans Market
+  latitude: '46.239153'
+  listing_desc: null
+  listing_id: '300036'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 304 N. Main Street, Boulder, Montana 59632
+  longitude: '-112.11759'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Boulder Farmers and Artisan's Market
+  state: Montana
+  street: 304 N. Main Street
+  tags: 'Open: July to September; July to September; July to September; <br>Available
+    Products: Fresh fruits;Fresh vegetables;Baked goods;Crafts/woodworking items;Cut
+    flowers;Eggs;Soap/body care products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Jan 28th, 2021
+  website: www.bouldermtchamber.org
+  zip: '59632'
+- city: Twin Bridges
+  contact_email: twinbridgesfarmersmarket@gmail.com
+  contact_name: Coree Martin
+  contact_phone: 406 596 1978
+  directory_name: farmers market
+  distance: '1000'
+  facebook: Twin Bridges ALL YEAR Farmers Market
+  latitude: '45.542747'
+  listing_desc: null
+  listing_id: '300436'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Main Street City Park and Fairgrounds, Twin Bridges , Montana
+    59754
+  longitude: '-112.33373'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Twin Bridges ALL YEAR Farmers' Market
+  state: Montana
+  street: Main Street City Park and Fairgrounds
+  tags: 'Open: Year-round<br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Bedding plants;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking
+    items;Cut flowers;Eggs;Fresh/dried herbs;Grains/flour;Honey;Maple products;Nursery
+    stock;Nuts;Poultry/fowl meat and products;Red/other non-poultry meat and products;Soap/body
+    care products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Jan 6th, 2021
+  website: null
+  zip: '59754'
+- city: Absarokee
+  contact_email: null
+  contact_name: null
+  contact_phone: null
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '45.51610137388303'
+  listing_desc: null
+  listing_id: '311406'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 327 S. Woodard Ave., Absarokee Elementary Playground , Absarokee,
+    MT, 59001
+  longitude: '-109.44656663298231'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Annual Farmers' Market
+  state: Montana
+  street: 327 S. Woodard Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.absarokeecobblestone.com/event/farmers-market/
+  zip: '59001'
+- city: BIGFORK
+  contact_email: null
+  contact_name: null
+  contact_phone: null
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/bigforkfarmersmarketcoop
+  latitude: '48.07446613275215'
+  listing_desc: null
+  listing_id: '311407'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 8096 MT Hwy 35 Bigfork, MT 59911
+  longitude: '-114.07885974240038'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Bigfork Farmer's Market
+  state: Montana
+  street: 8096 STATE HWY 35
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://bigforkfarmersmarket.com
+  zip: '59911'
+- city: Bozeman
+  contact_email: salal72@yahoo.com
+  contact_name: null
+  contact_phone: 406-539-0216
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Bogert-Farmers-Market-212101778815402
+  latitude: '45.675976897509905'
+  listing_desc: null
+  listing_id: '311408'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 332 S. Church Ave., Bogert Park, Bozeman, MT, 59715
+  longitude: '-111.03030084399124'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Bogert Farmers' Market
+  state: Montana
+  street: 332 S. Church Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://bogertfarmersmarket.org/
+  zip: '59715'
+- city: BOZEMAN
+  contact_email: null
+  contact_name: null
+  contact_phone: null
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/bozemanwintermarket
+  latitude: '45.67806691231796'
+  listing_desc: null
+  listing_id: '311409'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 111 S. Grand Ave. (Emerson Cultural Center) Bozeman, MT 59715
+  longitude: '-111.04013041556104'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Bozeman Winter Farmers' Market
+  state: Montana
+  street: 111 S GRAND AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.bozemanwintermarket.com
+  zip: '59715'
+- city: Circle
+  contact_email: mcconecu@mcconecu.com
+  contact_name: null
+  contact_phone: 406-485-2288
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.422195681022735'
+  listing_desc: null
+  listing_id: '311410'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 300 B Ave., Evangelical Church parking lot, Circle, MT, 59215
+  longitude: '-105.58217989626618'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Circle Farmers' Market
+  state: Montana
+  street: 300 B Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59215'
+- city: MISSOULA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-396-0593
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/ClarkForkMarket/
+  latitude: '46.868713655434824'
+  listing_desc: null
+  listing_id: '311411'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 225 S Pattee St Missoula, MT 59802 The Clark Fork Market is located
+    next to Caras Park in Downtown Missoula, MT, occupying the Riverside Parking Lot.
+    Adequate customer parking in the Lower Bank Parkin
+  longitude: '-113.99441188897083'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Clark Fork Market
+  state: Montana
+  street: 225 S PATTEE ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.clarkforkmarket.com
+  zip: '59802'
+- city: Columbia Falls
+  contact_email: cfcommunitymarket@gmail.com
+  contact_name: null
+  contact_phone: 406-871-6440
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '48.37140248465262'
+  listing_desc: null
+  listing_id: '311412'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 830 1st Ave. W., Columbia Falls, MT, 59912
+  longitude: '-114.1825096292467'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Columbia Falls Community Market
+  state: Montana
+  street: 830 1st Ave. W.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.cfcommunitymarket.com/
+  zip: '59912'
+- city: Deer Lodge
+  contact_email: bair.katherine@gmail.com
+  contact_name: null
+  contact_phone: 623-680-4525
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '46.402333078000524'
+  listing_desc: null
+  listing_id: '311413'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 519 Higgins Ave., Jaycee Park, Deer Lodge, MT, 59722
+  longitude: '-112.73220431835196'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Deer Lodge Community Garden Pick-Your-Own Market
+  state: Montana
+  street: 519 Higgins Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59722'
+- city: Dillon
+  contact_email: nativeplants@montana.com
+  contact_name: null
+  contact_phone: 406-683-6332
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '45.210395543994835'
+  listing_desc: null
+  listing_id: '311414'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 933 S. Washington St., Wells Fargo Bank parking lot, Dillon, MT,
+    59725
+  longitude: '-112.64304185142173'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Dillon Farmers' Market
+  state: Montana
+  street: 933 S. Washington St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://dillonfarmersmarket.blogspot.com/
+  zip: '59725'
+- city: WHITEFISH
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-862-2043
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '48.41241424982638'
+  listing_desc: null
+  listing_id: '311415'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1 Central avenue Whitefish, MT 59937
+  longitude: '-114.336749775076'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Whitefish Farmers Market
+  state: Montana
+  street: 1 CENTRAL AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.whitefishfarmersmarket.org
+  zip: '59937'
+- city: Glasgow
+  contact_email: dahltammi@yahoo.com
+  contact_name: null
+  contact_phone: 406-263-7822
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Glasgow-Farmers-Market-106798219374393
+  latitude: '48.193501923924316'
+  listing_desc: null
+  listing_id: '311416'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 213 1st Ave. S., Red Rock Plaza, Glasgow, MT, 59230
+  longitude: '-106.63232065491509'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Glasgow Farmers' Market
+  state: Montana
+  street: 213 1st Ave. S.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59230'
+- city: Glendive
+  contact_email: jkruger@midrivers.com
+  contact_name: null
+  contact_phone: 406-939-1482
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.10393915319848'
+  listing_desc: null
+  listing_id: '311417'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 313 S. Merrill Ave., Glendive, MT, 59330
+  longitude: '-104.7138146290362'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Glendive Farmers' & Flea Market
+  state: Montana
+  street: 313 S. Merrill Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://farmtotablecoop.com
+  zip: '59330'
+- city: GLENDIVE
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-377-4277
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.104456579097224'
+  listing_desc: null
+  listing_id: '311418'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 313 West Valentine Street Glendive, MT 59330
+  longitude: '-104.71677135439846'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Glendive Saturday Farmers Market
+  state: Montana
+  street: 313 W VALENTINE ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59330'
+- city: Great Falls
+  contact_email: GFFMmanager@earthlink.net
+  contact_name: null
+  contact_phone: 406-761-3881
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/farmersmarketgf
+  latitude: '47.50536901389064'
+  listing_desc: null
+  listing_id: '311419'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2 S. Park Dr., Great Falls, MT, 59401
+  longitude: '-111.30607825511363'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Great Falls Farmers' Market
+  state: Montana
+  street: 2 S. Park Dr.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.farmersmarketgf.com/
+  zip: '59401'
+- city: Hardin
+  contact_email: snb_margheim@yahoo.com
+  contact_name: null
+  contact_phone: 406-665-2332
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '45.73690822834287'
+  listing_desc: null
+  listing_id: '311420'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 835 N. Center Ave., Little Horn State Bank parking lot, Hardin,
+    MT, 59034
+  longitude: '-107.60599333791578'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Hardin Farmers' Market
+  state: Montana
+  street: 835 N. Center Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59034'
+- city: Stevensville
+  contact_email: bitterroot58@hotmail.com
+  contact_name: null
+  contact_phone: 406-381-0274
+  directory_name: farmers market
+  distance: '1000'
+  facebook: www.facebook.com/stevifarmersmarke
+  latitude: '46.510961356587764'
+  listing_desc: null
+  listing_id: '311421'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 220 Main St., Rocky Mountain Bank Parking Lot, Stevensville, MT,
+    59870
+  longitude: '-114.0931927541241'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Harvest Valley Farmers' Market
+  state: Montana
+  street: 220 Main St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59870'
+- city: HAVRE
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-265-4754
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '48.55222386085321'
+  listing_desc: null
+  listing_id: '311422'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 510 Second Street 510 Second Street Havre, MT 59501
+  longitude: '-109.67500789265334'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Havre Hi-Line Farmers Market
+  state: Montana
+  street: 510 2ND ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59501'
+- city: HELENA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-442-6147
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '46.59199456359409'
+  listing_desc: null
+  listing_id: '311423'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 500 block of Fuller Avenue Helena, MT 59601
+  longitude: '-112.03868319417836'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Helena Farmers Market
+  state: Montana
+  street: 500 FULLER AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59601'
+- city: Kalispell
+  contact_email: kalispellfarmersmarket@hotmail.com
+  contact_name: null
+  contact_phone: 406-881-4078
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Kalispell-Farmers-Market-209694292402404
+  latitude: '48.22589875455503'
+  listing_desc: null
+  listing_id: '311424'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 777 Grandview Dr., Flathead Valley Community College Campus, Kalispell,
+    MT, 59901
+  longitude: '-114.32954896873727'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Kalispell Farmers' Market
+  state: Montana
+  street: 777 Grandview Dr.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.kalispellfarmersmarket.org/
+  zip: '59901'
+- city: Laurel
+  contact_email: laurelchamber@laurelmontana.org
+  contact_name: null
+  contact_phone: 406-628-8105
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '45.67029354264017'
+  listing_desc: null
+  listing_id: '311425'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 100 1st Ave., Town Square, Laurel, MT, 59044
+  longitude: '-108.77168518356005'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Laurel Downtown Farmers' Market
+  state: Montana
+  street: 100 1st Ave., Town Square
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://laurelmontana.org/laurel-downtown-farmers-market/
+  zip: '59044'
+- city: MISSOULA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-396-0593
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/mslavalleywintermarket/
+  latitude: '46.844285828729674'
+  listing_desc: null
+  listing_id: '311426'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2901 Brooks Street 705 S Higgins Avenue Missoula, MT 59801 Located
+    in the Southgate Mall.
+  longitude: '-114.02455106652887'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Missoula Valley Winter Market
+  state: Montana
+  street: 2901 BROOKS ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59801'
+- city: MISSOULA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-540-1881
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/missoulawintermarket
+  latitude: '46.88088983766059'
+  listing_desc: null
+  listing_id: '311427'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2036 Mullan Rd Missoula, MT 59808
+  longitude: '-114.02448995908362'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Missoula Winter Market
+  state: Montana
+  street: 2036 MULLAN RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.missoulawintermarket.com
+  zip: '59808'
+- city: Fort Benton
+  contact_email: conniej@ourbank.com
+  contact_name: null
+  contact_phone: 406-750-2918
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.816630535263'
+  listing_desc: null
+  listing_id: '311428'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1400 Front St. , across from Grand Union Hotel by Shep statue,
+    Fort Benton, MT, 59442
+  longitude: '-110.66824573948497'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Missouri River Landing Farmers' Market
+  state: Montana
+  street: 1400 Front St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59442'
+- city: MISSOULA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-721-5678
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/Orchardhonesfarmersmarket
+  latitude: '46.86690424917581'
+  listing_desc: null
+  listing_id: '311429'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2537 South 3rd Street West Missoula, MT 59804
+  longitude: '-114.04053952343288'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Orchard Homes' Farmers' Market
+  state: Montana
+  street: 2537 S 3RD ST W
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59804'
+- city: POLSON
+  contact_email: null
+  contact_name: null
+  contact_phone: null
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.692312951412504'
+  listing_desc: null
+  listing_id: '311430'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1102 4th Ave. East. (Masonic Temple parking lot). Polson, MT 59860
+  longitude: '-114.14744861026405'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Polson Bay Farmers Market
+  state: Montana
+  street: 1102 4TH AVE E
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59860'
+- city: Polson
+  contact_email: louannehoskinson@yahoo.com
+  contact_name: null
+  contact_phone: 406-261-5700
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/pages/Polson-Farmers-Market/183060625074824
+  latitude: '47.69338574299122'
+  listing_desc: null
+  listing_id: '311431'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 11 3rd Ave. W., In front of the Cove Deli, Polson, MT, 59860
+  longitude: '-114.16351477443122'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Polson Farmers' Market
+  state: Montana
+  street: 11 3rd Ave. W.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.polsonwebsites.com/polson-farmers-market/
+  zip: '59860'
+- city: Sidney
+  contact_email: johanna.bunn@montana.edu
+  contact_name: null
+  contact_phone: 406-433-1206
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '47.70338077736187'
+  listing_desc: null
+  listing_id: '311432'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1499 N. Central Ave., Sidney, MT, 59270
+  longitude: '-104.16572444324464'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Richland County Farmers' Market
+  state: Montana
+  street: 1499 N. Central Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59270'
+- city: MISSOULA
+  contact_email: null
+  contact_name: null
+  contact_phone: 406-728-5302
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '46.84874482338431'
+  listing_desc: null
+  listing_id: '311433'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 4095 South Ave W Missoula, MT 59804
+  longitude: '-114.0809281576627'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Target Range Farmers' Market
+  state: Montana
+  street: 4095 SOUTH AVE W
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: null
+  zip: '59804'
+- city: Troy
+  contact_email: shawna@yaakvalley.org
+  contact_name: null
+  contact_phone: null
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/troyfarmersmarketmontana
+  latitude: '48.45469561108539'
+  listing_desc: null
+  listing_id: '311434'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 700 E. Missoula Ave., Troy, MT, 59935
+  longitude: '-115.88920738737173'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Troy Farmers' Market
+  state: Montana
+  street: 700 E. Missoula Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 27th, 2023
+  website: http://www.troyfarmersmarket.com/
+  zip: '59935'
+- city: Butte
+  contact_email: geverett@montana.com
+  contact_name: George Everett
+  contact_phone: 406-497-6464
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/ButteFM
+  latitude: '46.01269'
+  listing_desc: null
+  listing_id: '300035'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Uptown Butte, Butte, Montana 59701
+  longitude: '-112.5364'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Butte Farmers Market
+  state: Montana
+  street: Uptown Butte
+  tags: 'Open: May to October; <br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Bedding plants;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking
+    items;Cut flowers;Dairy products.;Eggs;Fish/seafood;Fresh/dried herbs;Grains/flour;Honey;Nursery
+    stock;Nuts;Pet food;Poultry/fowl meat and products;Soap/body care products;Wild
+    harvested forest products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Sep 10th, 2020
+  website: www.mainstrreetbutte.org/fmarket.htm
+  zip: '59701'
+- city: Miles City
+  contact_email: verber57@midrivers.com
+  contact_name: Bernadette Miller
+  contact_phone: 406-234-1639
+  directory_name: farmers market
+  distance: '1000'
+  facebook: null
+  latitude: '46.408215'
+  listing_desc: null
+  listing_id: '300193'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 500 Main St  Riverside Park, Miles City, Montana
+  longitude: '-105.84009'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Miles City Farmers Market
+  state: Montana
+  street: 500 Main St  Riverside Park
+  tags: 'Open: May to October; <br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Bedding plants;Canned or preserved fruits/vegetables;Crafts/woodworking
+    items;Cut flowers;Eggs;Fresh/dried herbs;Honey;Prepared foods;Soap/body care products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Sep 10th, 2020
+  website: null
+  zip: null
+- city: Anaconda
+  contact_email: gloria@anacondacommunityfoundation.org
+  contact_name: Gloria O'Rourke
+  contact_phone: '4065635259'
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/groups/478915098830452/
+  latitude: '46.099059'
+  listing_desc: null
+  listing_id: '300398'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Kennedy Common (306 Main), Anaconda, Montana 59711
+  longitude: '-113.13910'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Anaconda Community Market
+  state: Montana
+  street: 306 Main St
+  tags: 'Open: July to September; <br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Bedding plants;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking
+    items;Dairy products.;Eggs;Fresh/dried herbs;Honey;Prepared foods;Red/other non-poultry
+    meat and products;Soap/body care products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Sep 14th, 2020
+  website: 118 E 7TH St Ste 3F
+  zip: '59711'
+- city: Saint Ignatius
+  contact_email: info@roamingbisonranch.com
+  contact_name: Laura Wheeler
+  contact_phone: '14065465197'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/theroamingbisonranch
+  latitude: '47.330413'
+  listing_desc: null
+  listing_id: '701595'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 60756 Watson Road, Saint Ignatius, Montana 59865
+  longitude: '-114.06981'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Roaming Bison Ranch
+  state: Montana
+  street: 60756 Watson Road
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Apr 6th, 2021
+  website: https://roamingbisonranch.com
+  zip: '59865'
+- city: Bozeman
+  contact_email: dennis@nrmalpacas.com
+  contact_name: Dennis L. Duenas
+  contact_phone: 406-600-3835
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/NRMAlpacas
+  latitude: '45.6367630'
+  listing_desc: null
+  listing_id: '700093'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 1406 Bear Canyon Rd, Bozeman, Montana 59715
+  longitude: '-110.93765'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Northern Rocky Mountain Alpacas
+  state: Montana
+  street: 1406 Bear Canyon Rd
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Aug 14th, 2014
+  website: www.NRMAlpacas.com
+  zip: '59715'
+- city: Hamilton
+  contact_email: millcrickfarm@gmail.com
+  contact_name: Mill Crick Farm
+  contact_phone: 406 961 8861
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '46.312555'
+  listing_desc: null
+  listing_id: '701214'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 153 Dutch Hill RD, Hamilton, Montana 59840
+  longitude: '-114.16000'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Mill Crick Farm
+  state: Montana
+  street: 153 Dutch Hill RD
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Feb 19th, 2015
+  website: null
+  zip: '59840'
+- city: Big Timber
+  contact_email: catherine@uncommonbeef.com
+  contact_name: Catherine Kirchner
+  contact_phone: '4067402510'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/uncommonbeef/
+  latitude: '45.834528'
+  listing_desc: null
+  listing_id: '701626'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: ', Big Timber, Montana 59011'
+  longitude: '-109.94808'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Uncommon Beef LLC
+  state: Montana
+  street: null
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Jan 13th, 2022
+  website: www.uncommonbeef.com
+  zip: '59011'
+- city: Eureka
+  contact_email: sales@crankycarlsfarm.com
+  contact_name: Gretchen Kidwell
+  contact_phone: 406-359-1447
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '48.909427'
+  listing_desc: null
+  listing_id: '700237'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 443 Canyon Creek Rd, Eureka, Montana 59917
+  longitude: '-114.99831'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Cranky Carl's Farm
+  state: Montana
+  street: 443 Canyon Creek Rd
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Jul 30th, 2014
+  website: Http://wwww.crankycarlsfarm.com
+  zip: '59917'
+- city: Melstone
+  contact_email: paula@kyhlfarms.com
+  contact_name: Paula Kyhl
+  contact_phone: '4063582483'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: www.facebook.com/KyhlFarmRanch
+  latitude: '46.6918687'
+  listing_desc: null
+  listing_id: '701413'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 65 Haxton Lane, Melstone , Montana 59054
+  longitude: '-107.79400'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Kyhl Farms
+  state: Montana
+  street: 65 Haxton Lane
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Jun 2nd, 2017
+  website: www.kyhlfarms.com
+  zip: '59054'
+- city: Kalispell
+  contact_email: montanamill@gmail.com
+  contact_name: Diana Blair
+  contact_phone: 406-756-6772
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/pages/Going-to-the-Sun-Fiber-Mill-LLC/294302997264439
+  latitude: '48.1933980'
+  listing_desc: null
+  listing_id: '700265'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 805 Kienas Rd, Kalispell, Montana 59901
+  longitude: '-114.44623'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Going to the Sun Fiber Mill LLC
+  state: Montana
+  street: 805 Kienas Rd
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Mar 23rd, 2015
+  website: www.gttsfibermill.com
+  zip: '59901'
+- city: Kalispell
+  contact_email: cherrycreekfarms116@yahoo.com
+  contact_name: Helen Tobiason
+  contact_phone: 406-212-0063
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '48.114591'
+  listing_desc: null
+  listing_id: '701253'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 116 Treweek Dr, Kalispell , Montana 59901
+  longitude: '-114.24033'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Cherry Creek Gardens & Farms
+  state: Montana
+  street: 116 Treweek Dr
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: May 4th, 2015
+  website: cherrycreekgardens.com
+  zip: '59901'
+- city: Baker
+  contact_email: debnmike@midrivers.com
+  contact_name: Debi Kirschten
+  contact_phone: 406-778-3270
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '46.3684280'
+  listing_desc: null
+  listing_id: '700372'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 102 Sheep Corner Rd, Baker, Montana 59313
+  longitude: '-104.17730'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Starvation Flats Boer Goats
+  state: Montana
+  street: 102 Sheep Corner Rd
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Sep 16th, 2014
+  website: www.starvationflatsboergoats.com/
+  zip: '59313'
+- city: Joliet
+  contact_email: carbonadofarm@mtlamb.com
+  contact_name: William Barnes
+  contact_phone: 406-962-9032
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/CarbonadoFarm
+  latitude: '45.464550'
+  listing_desc: null
+  listing_id: '700165'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: ', Joliet, Montana 59041'
+  longitude: '-109.00900'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Carbonado Farm LLC
+  state: Montana
+  street: null
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Sep 17th, 2014
+  website: httsp://www.mtlamb.com
+  zip: '59041'
