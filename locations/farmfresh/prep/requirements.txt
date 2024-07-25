@@ -1,0 +1,3 @@
+SOME_SECRET=UXLbsdPdCU
+requests
+pandas
