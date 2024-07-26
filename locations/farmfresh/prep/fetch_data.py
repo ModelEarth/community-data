@@ -35,10 +35,10 @@ def fetch_usda_markets(api_key, state, market_type="farmersmarket"):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     #print(url, params)
-    logger.info(f"Fetching data from URL: {url} with params: {params}")
+    # logger.info(f"Fetching data from URL: {url} with params: {params}")
 
     response = requests.get(url, headers=headers, params=params)
-    logger.info(f"Received response with status code: {response.status_code}")
+    # logger.info(f"Received response with status code: {response.status_code}")
 
 
     data_json = {}
@@ -48,7 +48,7 @@ def fetch_usda_markets(api_key, state, market_type="farmersmarket"):
         data_json = data
         # Process the data (example: print it)
         # print(json.dumps(data, indent=2))
-        logger.info("Successfully fetched data from USDA API")
+        # logger.info("Successfully fetched data from USDA API")
     else:
         #print(f"Failed to fetch data: {response.status_code}")
         logger.error(f"Failed to fetch data: {response.status_code}")
@@ -71,7 +71,7 @@ def update_column_names(data_df):
         "brief_desc"        : "tags"    
     }
     df1 = data_df.rename(columns=columns_map)
-    logger.info("Updated column names")
+    # logger.info("Updated column names")
     return df1
 
 
@@ -86,7 +86,7 @@ def export_data(state):
     #     sys.exit(1)  # Exit the script if the API key is not available
     apikey="UXLbsdPdCU"
     market_type = "farmersmarket"
-    logger.info(f"Exporting data for state: {state}")
+    # logger.info(f"Exporting data for state: {state}")
     data_json1 = fetch_usda_markets(apikey, state, market_type)
     data_df1 =  pd.DataFrame.from_dict(data_json1)
     market_type = "onfarmmarket"
@@ -127,7 +127,8 @@ def export_all_states():
             with open(file_name+".yaml", 'w') as file:
                 documents = yaml.dump({'data': data_merged.to_dict(orient='records')}, file, default_flow_style=False)
             # data_merged.to_yaml(file_name+".yaml")
-            logger.info(f"Data for state {state} exported successfully")
+            # logger.info(f"Data for state {state} exported successfully")
+    logger.info(f"Data for all states exported successfully")
     
 
     
