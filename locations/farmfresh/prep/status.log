@@ -1,2 +1,8 @@
 2024-07-25 16:27:01,457 - __main__ - INFO - Exporting to directory: /Users/pranayspeed/Work/gitrepo/ModelEarth/community-data/locations/farmfresh/prep/../us
 2024-07-25 16:27:01,458 - __main__ - ERROR - API key not available!
+2024-07-25 18:43:12,149 - __main__ - INFO - Exporting to directory: /Users/pranayspeed/Work/gitrepo/ModelEarth/community-data/locations/farmfresh/prep/../us
+2024-07-25 18:43:12,151 - __main__ - INFO - Exporting data for state: VT
+2024-07-25 18:43:12,151 - __main__ - INFO - Fetching data from URL: https://www.usdalocalfoodportal.com/api/farmersmarket/ with params: {'apikey': 'UXLbsdPdCU', 'state': 'VT'}
+2024-07-25 18:43:13,958 - __main__ - INFO - Received response with status code: 200
+2024-07-25 18:43:13,959 - __main__ - INFO - Successfully fetched data from USDA API
+2024-07-25 18:43:13,969 - __main__ - INFO - Fetching data from URL: https://www.usdalocalfoodportal.com/api/onfarmmarket/ with params: {'apikey': 'UXLbsdPdCU', 'state': 'VT'}

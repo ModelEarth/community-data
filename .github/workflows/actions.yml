@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip  
           pip install requests
           pip install pandas
-          pip install yaml
+          pip install pyyaml
 
         #   pip install -r community-data/locations/farmfresh/prep/requirements.txt
 
