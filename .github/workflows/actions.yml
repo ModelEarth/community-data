@@ -25,7 +25,7 @@ jobs:
           pip install pandas
           pip install pyyaml
 
-        #   pip install -r community-data/locations/farmfresh/prep/requirements.txt
+        #   pip install -r locations/farmfresh/prep/requirements.txt
 
 
         #   pip install requests
@@ -33,7 +33,7 @@ jobs:
       - name: execute py script # run fetch_data.py
         # env:
         #   SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python community-data/locations/farmfresh/prep/fetch_data.py
+        run: python locations/farmfresh/prep/fetch_data.py
           
       - name: commit files
         run: |
