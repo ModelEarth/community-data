@@ -78,14 +78,14 @@ def update_column_names(data_df):
 
 def export_data(state):
     
-    # try:
-    #     apikey = os.environ["SOME_SECRET"]
-    #     print("API Key:", apikey)  # Debugging line
-    # except KeyError:
-    #     # logger.error("API key not available!")
-    #     apikey="UXLbsdPdCU"
-    #     sys.exit(1)  # Exit the script if the API key is not available
-    apikey="UXLbsdPdCU"
+    try:
+        apikey = os.environ["USDA_FARMFRESH_API"]
+        # print("API Key:", apikey)  # Debugging line
+    except KeyError:
+        logger.error("API key not available!")
+        # apikey="UXLbsdPdCU"
+        sys.exit(1)  # Exit the script if the API key is not available
+    # apikey="UXLbsdPdCU"
     market_type = "farmersmarket"
     # logger.info(f"Exporting data for state: {state}")
     data_json1 = fetch_usda_markets(apikey, state, market_type)
