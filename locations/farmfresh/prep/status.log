@@ -8,3 +8,5 @@
 2024-07-25 18:43:13,969 - __main__ - INFO - Fetching data from URL: https://www.usdalocalfoodportal.com/api/onfarmmarket/ with params: {'apikey': 'UXLbsdPdCU', 'state': 'VT'}
 2024-07-26 02:23:56,205 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
 2024-07-26 02:26:10,312 - __main__ - INFO - Data for all states exported successfully
+2024-07-26 02:38:23,695 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-26 02:40:26,776 - __main__ - INFO - Data for all states exported successfully
