@@ -2,7 +2,7 @@ name: run fetch_data.py
 
 on:
   schedule:
-    - cron: '0 0 * * *' # At 00:00 on Monday
+    - cron: '11 * * * *' # At 00:00 on Monday
 
 jobs:
   build:
@@ -20,12 +20,12 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install requests
+          pip install -r community-data/locations/farmfresh/prep/requirements.txt
+        #   pip install requests
           
       - name: execute py script # run fetch_data.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
+        # env:
+        #   SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python community-data/locations/farmfresh/prep/fetch_data.py
           
       - name: commit files

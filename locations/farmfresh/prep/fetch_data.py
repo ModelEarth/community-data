@@ -75,12 +75,13 @@ def update_column_names(data_df):
 
 
 def export_data(state):
-    #apikey="UXLbsdPdCU"
+    
     try:
         apikey = os.environ["SOME_SECRET"]
         print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
+        apikey="UXLbsdPdCU"
         sys.exit(1)  # Exit the script if the API key is not available
     market_type = "farmersmarket"
     logger.info(f"Exporting data for state: {state}")
