@@ -1,0 +1,3125 @@
+data:
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-919-9094
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.33087826955648'
+  listing_desc: null
+  listing_id: '308441'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 4700 E. Warner Road Phoenix, AZ 85015
+  longitude: '-111.98049644214557'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Ahwatukee Farmers Market
+  state: Arizona
+  street: 4700 E WARNER RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://arizonafarmersmarkets.com
+  zip: '85044'
+- city: Tempe
+  contact_email: farmersmarket@asu.edu
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/ASUFarmersMarket/
+  latitude: '33.41685106749478'
+  listing_desc: null
+  listing_id: '308442'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1151 S. Forest Ave., Tempe, AZ, 85287
+  longitude: '-111.93659536912573'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: ASU Tempe Farmers' Market
+  state: Arizona
+  street: 1151 S. Forest Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://eoss.asu.edu/farmersmarket
+  zip: '85287'
+- city: Bisbee
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-559-8054
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/pages/Bisbee-Farmers-Market/177022835686159
+  latitude: '31.411815000000047'
+  listing_desc: null
+  listing_id: '308443'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Bisbee AZ 85603, US
+  longitude: '-109.87788999999998'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Bisbee Farmers Market
+  state: Arizona
+  street: 100 W Vista
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85603'
+- city: Carefree
+  contact_email: marketinfo@arizonafarmersmarkets.com
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/pages/Carefree-Farmers-Market/151858821512415
+  latitude: '33.824581805632526'
+  listing_desc: null
+  listing_id: '308444'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 101 Easy St., Town of Carefree Sundial, Carefree, AZ, 85377
+  longitude: '-111.92196651066698'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Carefree Farmers' Market
+  state: Arizona
+  street: 101 Easy St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.arizonafarmersmarkets.com/pageCarefree/carefree.htm
+  zip: '85377'
+- city: Casa Grande
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-723-7276
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.88008595485245'
+  listing_desc: null
+  listing_id: '308445'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 110 W. Florence Blvd., Casa Grande Sally Historic Society, Casa
+    Grande, AZ, 85222
+  longitude: '-111.75440704997368'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Casa Grande Farmers' Market
+  state: Arizona
+  street: 110 W. Florence Blvd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85222'
+- city: Cave Creek
+  contact_email: Z@y.N
+  contact_name: null
+  contact_phone: 480-585-8639
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.8326323392058'
+  listing_desc: null
+  listing_id: '308446'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 6424 E. Cave Creek Rd., Cave Creek, AZ, 85331
+  longitude: '-111.94141522503347'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Cave Creek Farmers' & Crafts Market
+  state: Arizona
+  street: 6424 E. Cave Creek Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.azfarmersmarkets.us
+  zip: '85331'
+- city: Phoenix
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-253-6895
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.436829984857155'
+  listing_desc: null
+  listing_id: '308447'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 7th Ave. and Buckeye, Phoenix, AZ, 85007
+  longitude: '-112.08252997700242'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Central City South Farmers' Market
+  state: Arizona
+  street: 7th Ave. and Buckeye
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85007'
+- city: Scottsdale
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-884-7977
+  directory_name: farmers market
+  distance: '1000'
+  facebook: facebook.com/chadwicksmarket
+  latitude: '33.49610000000007'
+  listing_desc: null
+  listing_id: '308448'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Scottsdale AZ 85251, US
+  longitude: '-111.92618999999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Chadwick's Urban Market
+  state: Arizona
+  street: 3703 N 69th St Unit 1
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.chadwicksurbanmarket.com/
+  zip: '85251'
+- city: Tempe
+  contact_email: clarkparkfarmersmarket@gmail.com
+  contact_name: null
+  contact_phone: 480-350-5893
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/tempemarket
+  latitude: '33.41020444824795'
+  listing_desc: null
+  listing_id: '308449'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1730 S. Roosevelt St., Tempe, AZ, 85281
+  longitude: '-111.94785672830992'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Clark Park Farmers' Market
+  state: Arizona
+  street: 1730 S. Roosevelt St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85281'
+- city: Sun City West
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.68662712801556'
+  listing_desc: null
+  listing_id: '308450'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 22135 N. Mission Dr., Sun City West, AZ, 85375
+  longitude: '-112.34416764804357'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Corte Bella Farmers' Market
+  state: Arizona
+  street: 22135 N. Mission Dr.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85375'
+- city: Cottonwood
+  contact_email: jowen@ci.cottonwood.az.us
+  contact_name: null
+  contact_phone: 928-634-5505
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '34.74641363357492'
+  listing_desc: null
+  listing_id: '308451'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 187 E. Pima Ave., Old Town Historic District, Cottonwood, AZ,
+    86326
+  longitude: '-112.02621968091755'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Cottonwood Farmers' Market & Jamboree
+  state: Arizona
+  street: 187 E. Pima Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.ci.cottonwood.az.us
+  zip: '86326'
+- city: Chandler
+  contact_email: info@chandlerfarmersmarket.com
+  contact_name: null
+  contact_phone: 480-855-3539
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.30334798990136'
+  listing_desc: null
+  listing_id: '308452'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3 S. Arizona Ave., Dr. AJ Chandler Park East, Chandler, AZ, 85225
+  longitude: '-111.84143208993129'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Chandler Farmers' Market
+  state: Arizona
+  street: 3 S. Arizona Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.downtownchandler.org/farmersmarket/
+  zip: '85225'
+- city: Tucson
+  contact_email: Email not found
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.22032502396979'
+  listing_desc: null
+  listing_id: '308453'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 101 N. Stone Ave., South lawn of Main Library, Tucson, AZ, 85777
+  longitude: '-110.97055971202'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Farmers' Market
+  state: Arizona
+  street: 101 N. Stone Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://ediblebajaarizona.com/event/downtown-farmers-market-arts-and-crafts-mercado-2
+  zip: '85777'
+- city: Mesa
+  contact_email: info@dtmesafarmersmarket.com
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/mesafarmersmarket
+  latitude: '33.42158500000005'
+  listing_desc: null
+  listing_id: '308454'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Mesa AZ 85201, US
+  longitude: '-111.83534499999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Mesa Farmers Market
+  state: Arizona
+  street: 1 E. Main Street
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://dtmesafarmersmarket.com/
+  zip: '85201'
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.45584580999547'
+  listing_desc: null
+  listing_id: '308455'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 721 N. Central Phoenix, AZ 85004
+  longitude: '-112.07381515293832'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Phoenix Public Market
+  state: Arizona
+  street: 721 N CENTRAL AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.phoenixpublicmarket.com
+  zip: '85004'
+- city: Tucson
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.16325997941348'
+  listing_desc: null
+  listing_id: '308456'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Irvington Rd. & S. 6th Ave. , El Rio Clinic Parking Lot, Tucson,
+    AZ, 85714
+  longitude: '-110.96817003142469'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: El Pueblo Seasonal Mobile Market
+  state: Arizona
+  street: Irvington Rd. & S. 6th Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.communityfoodbank.org/pantry/El-Pueblo-Seasonal-Mobile-Market
+  zip: '85714'
+- city: Elfrida
+  contact_email: bramirez@cchci.org
+  contact_name: null
+  contact_phone: 520-378-2973
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '31.696246232615138'
+  listing_desc: null
+  listing_id: '308457'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 10566 Hwy. 191, Elfrida, AZ, 85610
+  longitude: '-109.6872535350203'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Elfrida Farmers' Market
+  state: Arizona
+  street: 10566 Hwy. 191
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://bajaaz.org/lfd/fm/
+  zip: '85610'
+- city: Superior
+  contact_email: ''
+  contact_name: null
+  contact_phone: 707-337-5055
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/CopperCommunitiesFoodHub
+  latitude: '33.28955000000008'
+  listing_desc: null
+  listing_id: '308458'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Superior AZ 85173, US
+  longitude: '-111.10024499999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Farm to Fantastic Farmers Market - Superior
+  state: Arizona
+  street: 300 Main Street
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85173'
+- city: Phoenix
+  contact_email: mmevents@juno.com
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.687067294913575'
+  listing_desc: null
+  listing_id: '308459'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 22066 N. 44th St., Phoenix, AZ, 85050
+  longitude: '-111.98053872004351'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Farmers' Market Cashman Park at Desert...
+  state: Arizona
+  street: 22066 N. 44th St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85050'
+- city: FLAGSTAFF
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-774-7781
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/FlagstaffCommunityMarket
+  latitude: '35.213191660075104'
+  listing_desc: null
+  listing_id: '308460'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 421 W Cedar Ave Flagstaff, AZ 86001
+  longitude: '-111.64734808547651'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Flagstaff Community Markets
+  state: Arizona
+  street: 421 W CEDAR AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.flagstaffmarket.com
+  zip: '86001'
+- city: Florence
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-868-4496
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/events/508714503582203/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%2C%22ref_notif_type%22%3Anull%7D
+  latitude: '33.06747500000006'
+  listing_desc: null
+  listing_id: '308461'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Florence AZ 85132, US
+  longitude: '-111.47072499999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Florence Farmers Market
+  state: Arizona
+  street: 24 W Ruggles Street
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.florenceazchamber.com/event/florence-farmers-market-2
+  zip: '85132'
+- city: Tucson
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-622-0525
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.1890936197704'
+  listing_desc: null
+  listing_id: '308462'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3003 S. Country Club Rd., Tucson, AZ, 85713
+  longitude: '-110.92646806342592'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Food Bank Farmers' Market
+  state: Arizona
+  street: 3003 S. Country Club Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://communityfoodbank.com/programs-services/ser
+  zip: '85713'
+- city: Fountain Hills
+  contact_email: contact@fhfarmersmarket.com
+  contact_name: null
+  contact_phone: 602-888-6758
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/FountainHillsFarmersMarket
+  latitude: '33.60383299490172'
+  listing_desc: null
+  listing_id: '308463'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 16858 E. Avenue Of The Fountains, Fountain Hills, AZ, 85268
+  longitude: '-111.71660745322633'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Fountain Hills Farmers' Market
+  state: Arizona
+  street: 16858 E. Avenue
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.fhfarmersmarket.com/
+  zip: '85268'
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: 925-876-7191
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/pages/Gaslight-Square-Farmers-Market-Concert-Series
+  latitude: '33.495171755299985'
+  listing_desc: null
+  listing_id: '308464'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3619 E. Indian School Road Phoenix, AZ 85018 Take highway 51 to
+    Indian School Road, Drive East until you meet 36th. Gaslight Square is a large
+    shopping center with plenty of parking.
+  longitude: '-112.00350853076546'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Gaslight Square Farmer's Market
+  state: Arizona
+  street: 3619 E INDIAN SCHOOL RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85018'
+- city: Glendale
+  contact_email: GetLocalArizonaEvents@gmail.com
+  contact_name: null
+  contact_phone: 602-703-7154
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/GetLocalAZfarmersmarkets
+  latitude: '33.65165500000006'
+  listing_desc: null
+  listing_id: '308465'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Glendale AZ 85308, US
+  longitude: '-112.16211999999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Get Local Arizona Events Farmers Markets
+  state: Arizona
+  street: 7780 W. Arrowhead
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://getlocalarizonaevents.com/saturdaymarket/
+  zip: '85308'
+- city: Safford
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-428-2511
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/gilavalleyfarmersmarket
+  latitude: '32.83000500000003'
+  listing_desc: null
+  listing_id: '308466'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Safford AZ 85546, US
+  longitude: '-109.71375499999999'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Gila Valley Farmers Market
+  state: Arizona
+  street: 1051 W Thatcher Boulevard
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.grahamchamber.org/gilavalleyfarmersmarket.html
+  zip: '85546'
+- city: Globe
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-701-3097
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/gmfm2011
+  latitude: '33.39628000000005'
+  listing_desc: null
+  listing_id: '308467'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Globe AZ 85501, US
+  longitude: '-110.78204999999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Globe-Miami Farmers Market
+  state: Arizona
+  street: 150 North Pine Street
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: globemiamifm.wix.com/gmfm2011
+  zip: '85501'
+- city: Green Valley
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-490-3315
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/greenvalleyfarmersmarket?fref=ts
+  latitude: '31.869362754040555'
+  listing_desc: null
+  listing_id: '308468'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 101 S. La Canada Dr., Green Valley, AZ, 85614
+  longitude: '-110.99547457357949'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Green Valley Farmers' Market
+  state: Arizona
+  street: 101 S. La Canada Dr.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://greenvalleyfarmersmarket.com/
+  zip: '85614'
+- city: GREEN VALLEY
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/heirloomfarmersmarkets
+  latitude: '31.869393136517004'
+  listing_desc: null
+  listing_id: '308470'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 101 South La Canada Drive Green Valley, AZ 85714 Located in Green
+    Valley, AZ right off of the I-19 South Freeway. Take the Esperanza exit, then
+    head west and turn into the Green Valley Village Shoppin
+  longitude: '-110.99546950983341'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Heirloom Farmers Market - Green Valley Village
+  state: Arizona
+  street: 101 S LA CANADA DR
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.heirloomfm.org
+  zip: '85614'
+- city: ORO VALLEY
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/heirloomfarmersmarkets
+  latitude: '32.4051581558523'
+  listing_desc: null
+  listing_id: '308471'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 10901 N. Oracle Rd. Oro Valley, AZ 85737 Located north of the
+    Home Depot Retail Center. Turn into the Steam Pump Ranch's entrance and follow
+    the dirt road to the northwest side of the property to the
+  longitude: '-110.9488066339273'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Heirloom Farmers Market - Oro Valley (Steam Pump Ranch)
+  state: Arizona
+  street: 10901 N ORACLE RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.heirloomfm.org
+  zip: '85737'
+- city: TUCSON
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/HeirloomFarmersMarkets
+  latitude: '32.28955229218169'
+  listing_desc: null
+  listing_id: '308472'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 4502 N 1st Ave Tucson, AZ 85718 Rillito Park Food Pavilion is
+    located off of 1st Ave. and River Rd. and on the Southeast side Rillito Park Racetrack's
+    parking lot. The pavilion is handicap accessible
+  longitude: '-110.96107928628354'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Heirloom Farmers Market - Rillito Park
+  state: Arizona
+  street: 4502 N 1ST AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://heirloomfm.org
+  zip: '85718'
+- city: TUCSON
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/heirloomfarmersmarkets
+  latitude: '32.12904469458948'
+  listing_desc: null
+  listing_id: '308473'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 12500 E. Old Spanish Trail Tucson, AZ 85745 Located East of Vail
+    and South of Escalante Road on Old Spanish Trail. Look for the big white and green
+    barn on the Southside of the road. Handicap accessib
+  longitude: '-110.72577836936586'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Heirloom Farmers Market - Rincon Valley
+  state: Arizona
+  street: 12500 E OLD SPANISH TRL
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.heirloomfm.org/markets/rincon-valley/
+  zip: '85747'
+- city: TUCSON
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/heirloomfarmersmarkets
+  latitude: '32.2507690522166'
+  listing_desc: null
+  listing_id: '308474'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 7202 East Tanque Verde Road Tucson, AZ 85715 Located off of Tanque
+    Verde Rd. near Sabino Canyon Road on the northside of Morris K. Udall Park near
+    the baseball fields. The market is accessible and has
+  longitude: '-110.83946756870156'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Heirloom Farmers Markets - Udall Park
+  state: Arizona
+  street: 7202 E TANQUE VERDE RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.heirloomfm.org
+  zip: '85715'
+- city: MESA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 480-380-5789
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.41510196242837'
+  listing_desc: null
+  listing_id: '308475'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 9705 E. Apache Trail Mesa, AZ 85207
+  longitude: '-111.62091147131417'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: JJ's Old West Flea Market
+  state: Arizona
+  street: 9705 E APACHE TRL
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85207'
+- city: Kingman
+  contact_email: ''
+  contact_name: null
+  contact_phone: 412-568-3536
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/OriginalKingmanFarmersMarket/
+  latitude: '35.18984500000005'
+  listing_desc: null
+  listing_id: '308476'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Kingman AZ 86401, US
+  longitude: '-114.05532499999998'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Kingman Farmers Market
+  state: Arizona
+  street: 102 E. Beale St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.kingmanfarmersmarket.org
+  zip: '86401'
+- city: Lake Havasu City
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-235-8105
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/lakehavasufarmersmarket
+  latitude: '34.473817100000076'
+  listing_desc: null
+  listing_id: '308477'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Lake Havasu City AZ 86403, US
+  longitude: '-114.33551169999998'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Lake Havasu Farmers Market
+  state: Arizona
+  street: 2144 McCulloch Blvd N
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.lakehavasufarmersmarket.com
+  zip: '86403'
+- city: TUCSON
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-323-5009
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.23616692677725'
+  listing_desc: null
+  listing_id: '308478'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3954 E Speedway Blvd Tucson, AZ 85712
+  longitude: '-110.90850911616221'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Local Harvest Marketplace
+  state: Arizona
+  street: 3954 E SPEEDWAY BLVD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.localharvestmarketplace.com
+  zip: '85712'
+- city: Marana
+  contact_email: papamandan@gmail.com
+  contact_name: null
+  contact_phone: 520-460-6292
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.448109028496305'
+  listing_desc: null
+  listing_id: '308479'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 13300 N. Postvale Rd., Marana, AZ, 85653
+  longitude: '-111.19990414208564'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Marana Farmers' Market
+  state: Arizona
+  street: 13300 N. Postvale Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.maranafarmerscoop.com/farmers-market/
+  zip: '85653'
+- city: Yuma
+  contact_email: info@yumafoodbank.org
+  contact_name: null
+  contact_phone: 928-343-1243
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.721539993175085'
+  listing_desc: null
+  listing_id: '308480'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 13th Ave. and 3rd St., Between 3rd and 5th St., Yuma, AZ, 85364
+  longitude: '-114.63590997952777'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Market in Carver Park
+  state: Arizona
+  street: 13th Ave. and 3rd St., Between 3rd and 5th St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.yumafoodbank.org/
+  zip: '85364'
+- city: Tucson
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/MaynardsMarketKitchen
+  latitude: '32.22352878783393'
+  listing_desc: null
+  listing_id: '308481'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 400 N. Toole Ave., Tucson, AZ, 85701
+  longitude: '-110.96769535523855'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Maynards Twilight Market
+  state: Arizona
+  street: 400 N. Toole Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://foodinroot.com/farmersmarkets/maynards/
+  zip: '85701'
+- city: Scottsdale
+  contact_email: mmevents@juno.com
+  contact_name: null
+  contact_phone: 480-585-8639
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.556468554895'
+  listing_desc: null
+  listing_id: '308482'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 8320 N. Hayden Rd., Scottsdale, AZ, 85258
+  longitude: '-111.89856159452005'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Mercado Del Lago Market
+  state: Arizona
+  street: 8320 N. Hayden Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85258'
+- city: MESA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-290-5093
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.420178078580015'
+  listing_desc: null
+  listing_id: '308483'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 260 N. Center St. Mesa, AZ 85201
+  longitude: '-111.83145151890875'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Mesa Community Farmers Market
+  state: Arizona
+  street: 260 N CENTER ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85201'
+- city: MESA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-428-8111
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/pages/Mesa-Riverview-Farmers-Market/176610265868496
+  latitude: '33.43154885516933'
+  listing_desc: null
+  listing_id: '308484'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 841 N Dobson Rd Mesa, AZ 85201
+  longitude: '-111.87406281652804'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Mesa Riverview Farmers Market
+  state: Arizona
+  street: 841 N DOBSON RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.mesariverviewmarket.com
+  zip: '85201'
+- city: PEORIA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-703-7154
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/mommasorganicmarket
+  latitude: '33.551455763720874'
+  listing_desc: null
+  listing_id: '308485'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 9744 W Northern Ave Peoria, AZ 85345
+  longitude: '-112.26841328452117'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Momma's Organic Market
+  state: Arizona
+  street: 9744 W NORTHERN AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.mommasorganicmarket.com
+  zip: '85345'
+- city: NOGALES
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-604-2743
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/nogalesmercado
+  latitude: '31.3345560717684'
+  listing_desc: null
+  listing_id: '308486'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 163 Morley Ave Nogales , AZ 85621 Corner of Court Street and Morley
+    Avenue. Free parking available in the same lot as the Mercado. Street parking
+    is also available.
+  longitude: '-110.94020856598029'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Nogales Mercado Farmers Market
+  state: Arizona
+  street: 163 N MORLEY AVE
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.nogalesmercado.com
+  zip: '85621'
+- city: SCOTTSDALE
+  contact_email: ''
+  contact_name: null
+  contact_phone: 480-389-4828
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/NorthScottsdaleFarmersMarket
+  latitude: '33.58223149801226'
+  listing_desc: null
+  listing_id: '308487'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 8740 E Shea Blvd Scottsdale, AZ 85260
+  longitude: '-111.8916647634321'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: North Scottsdale Farmers Market
+  state: Arizona
+  street: 8740 E SHEA BLVD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.northscottsdalefarmersmarket.com
+  zip: '85260'
+- city: Tucson
+  contact_email: clayton@foodinroot.com
+  contact_name: null
+  contact_phone: 520-261-6982
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/NorthwestFarmersMarketTucson
+  latitude: '32.31456832521344'
+  listing_desc: null
+  listing_id: '308488'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 6200 N. La Cholla Blvd., Tucson, AZ, 85741
+  longitude: '-111.01213244843099'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Northwest Farmers' Market
+  state: Arizona
+  street: 6200 N. La Cholla Blvd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://foodinroot.com/farmersmarkets/nw-medical-center/
+  zip: '85741'
+- city: Scottsdale
+  contact_email: marketinfoazcfmg@gmail.com
+  contact_name: null
+  contact_phone: 480-330-4421
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/OldTownScottsdaleFarmersMarket
+  latitude: '33.49610000000007'
+  listing_desc: null
+  listing_id: '308489'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Scottsdale AZ 85251, US
+  longitude: '-111.92618999999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Old Town Scottsdale Farmers Market
+  state: Arizona
+  street: 3806 North Brown Avenue
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://arizonacommunityfarmersmarkets.com/old-town-scottsdale
+  zip: '85251'
+- city: Oracle
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-896-9005
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.61810375713799'
+  listing_desc: null
+  listing_id: '308490'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1395 W. American Ave., Oracle, AZ, 85623
+  longitude: '-110.78931042029448'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Oracle Farmers' Market
+  state: Arizona
+  street: 1395 W. American Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85623'
+- city: Oro Valley
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-882-2157
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/HeirloomFarmersMarkets
+  latitude: '32.3894423874648'
+  listing_desc: null
+  listing_id: '308491'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Oro Valley AZ 85737, US
+  longitude: '-110.9995444281193'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Oro Valley Farmers Market
+  state: Arizona
+  street: 10901 N Oracle Rd
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.heirloomfm.org/markets/oro-valley/
+  zip: '85737'
+- city: Page
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/pagefarmersmarket
+  latitude: '36.92001630000004'
+  listing_desc: null
+  listing_id: '308492'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Page AZ 86040, US
+  longitude: '-111.45592569999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Page Farmers Market
+  state: Arizona
+  street: 500 S. Navajo Dr
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '86040'
+- city: Hereford
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/palominasfarmersmarket/
+  latitude: '31.43567500000006'
+  listing_desc: null
+  listing_id: '308493'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Hereford AZ 85615, US
+  longitude: '-110.24336999999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Palominas Farmers Market
+  state: Arizona
+  street: 10164 AZ-92
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85615'
+- city: Peoria
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/parkwestmarket
+  latitude: '33.581480000000056'
+  listing_desc: null
+  listing_id: '308494'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Peoria AZ 85345, US
+  longitude: '-112.23544999999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Park West Market
+  state: Arizona
+  street: 9744 W Northern Ave
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.theparkwestmarket.com/
+  zip: '85345'
+- city: Phoenix
+  contact_email: azfarmersmarkets@cox.net
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.44824685592514'
+  listing_desc: null
+  listing_id: '308495'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1 W. Washington St., Phoenix, AZ, 85003
+  longitude: '-112.07390246308228'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Patriots' Square Marketplace
+  state: Arizona
+  street: 1 W. Washington St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85003'
+- city: Peoria
+  contact_email: penlinafarmersmarket@gmail.com
+  contact_name: null
+  contact_phone: 623-850-3696
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/penlinafarmersmarket
+  latitude: '33.62930333851577'
+  listing_desc: null
+  listing_id: '308496'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 16101 N. 83rd Ave., Peoria, AZ, 85382
+  longitude: '-112.23740271973469'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: PenLina Farmers' Market
+  state: Arizona
+  street: 16101 N. 83rd Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.penlinafarmersmarket.com/
+  zip: '85382'
+- city: Phoenix
+  contact_email: contact@foodconnect.org
+  contact_name: null
+  contact_phone: 602-625-6736
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/phoenixpublicmarket
+  latitude: '33.45584580999547'
+  listing_desc: null
+  listing_id: '308497'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 721 N. Central Ave., Phoenix, AZ, 85004
+  longitude: '-112.07381515293832'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Phoenix Public Open Air Market
+  state: Arizona
+  street: 721 N. Central Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://phxpublicmarket.com/openair/
+  zip: '85004'
+- city: Pine
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/PSFarmersMarket
+  latitude: '34.38194000000004'
+  listing_desc: null
+  listing_id: '308498'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Pine AZ 85544, US
+  longitude: '-111.46340159999994'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Pine Strawberry Farmers Market
+  state: Arizona
+  street: 3774 AZ-87
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85544'
+- city: Mesa
+  contact_email: lynne@givemepixiedust.com
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/powerrdfarmersmarket
+  latitude: '33.32668910000007'
+  listing_desc: null
+  listing_id: '308499'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Mesa AZ 85212, US
+  longitude: '-111.60848119999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Power Road Farmers Market
+  state: Arizona
+  street: 4011 S. Power Road
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://powerrdfarmersmarket.com/
+  zip: '85212'
+- city: Prescott
+  contact_email: info@prescottfarmersmarket.org
+  contact_name: null
+  contact_phone: 928-442-3817
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.prescottfarmersmarket.org/
+  latitude: '34.56721439814862'
+  listing_desc: null
+  listing_id: '308500'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1310 Willow Creek Rd., Walgreens Parking Lot, Prescott, AZ, 86301
+  longitude: '-112.48230002915841'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Prescott Winter Market
+  state: Arizona
+  street: 1310 Willow Creek Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '86301'
+- city: Sahuarita
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-267-6982
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/RanchoSahuaritaTwilightMarket
+  latitude: '31.97007462939716'
+  listing_desc: null
+  listing_id: '308501'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 15455 S. Camino Lago Azul, Sahuarita, AZ, 85629
+  longitude: '-110.96839500170591'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Rancho Sahuarita Twilight Market
+  state: Arizona
+  street: 15455 S. Camino Lago Azul
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://foodinroot.com/rancho-sahuarita/
+  zip: '85629'
+- city: Scottsdale
+  contact_email: azfarmersmarkets@cox.net
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.7359135774325'
+  listing_desc: null
+  listing_id: '308502'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 27500 N. Alma School Pkwy., Scottsdale, AZ, 85262
+  longitude: '-111.84619573769679'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Reata Pass & Greasewood Flats Market
+  state: Arizona
+  street: 27500 N. Alma School Pkwy.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85262'
+- city: QUEEN CREEK
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.2237629116628'
+  listing_desc: null
+  listing_id: '308503'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 24712 S. Signal Butte Rd. Queen Creek, AZ 85242
+  longitude: '-111.59999174618945'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Reese Family Farmers' Market
+  state: Arizona
+  street: 24712 S SIGNAL BUTTE RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://qcfarmersmarket.blogspot.com
+  zip: '85142'
+- city: Tucson
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-882-2157
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.23322500000006'
+  listing_desc: null
+  listing_id: '308504'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Tucson AZ 85705, US
+  longitude: '-110.96870499999994'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Rillito Park Farmers Market
+  state: Arizona
+  street: 4502 N 1st Ave
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.heirloomfm.org/
+  zip: '85705'
+- city: Tucson
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/rinconvalleyfarmersartisansmarket
+  latitude: '32.10883000000007'
+  listing_desc: null
+  listing_id: '308505'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Tucson AZ 85747, US
+  longitude: '-110.79061499999995'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Rincon Valley Farmers Market
+  state: Arizona
+  street: 12500 East Old Spanish Trail,
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.heirloomfm.org/markets/rincon-valley/
+  zip: '85747'
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-290-5093
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.59705615455017'
+  listing_desc: null
+  listing_id: '308506'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3502 E Cactus Rd Phoenix, AZ 85032
+  longitude: '-112.0068820043632'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Roadrunner Farmers Market
+  state: Arizona
+  street: 3502 E CACTUS RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85032'
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.59705589203078'
+  listing_desc: null
+  listing_id: '308507'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3501 East Cactus Road Phoenix, AZ 85032
+  longitude: '-112.00529697997817'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Roadrunner Park Farmers Market
+  state: Arizona
+  street: 3501 E CACTUS RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85028'
+- city: San Tan Valley
+  contact_email: ''
+  contact_name: null
+  contact_phone: 480-788-3648
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/SanTanValleyFarmersMarket
+  latitude: '33.24929000000003'
+  listing_desc: null
+  listing_id: '308508'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: San Tan Valley AZ 85140, US
+  longitude: '-111.55720499999995'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: San Tan Valley Farmers Market
+  state: Arizona
+  street: 2505 East Germann Road
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: santanvalleyfarmersmarket.com/
+  zip: '85140'
+- city: Tucson
+  contact_email: info@mercadosanagustin.com
+  contact_name: null
+  contact_phone: 520-461-1107
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Mercado-San-Agustin-222280478452
+  latitude: '32.220271538833856'
+  listing_desc: null
+  listing_id: '308509'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 100 S. Avenida del Convento, Tucson, AZ, 85745
+  longitude: '-110.98536456247106'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Santa Cruz River Farmers' Market
+  state: Arizona
+  street: 100 S. Avenida del Convento
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://mercadosanagustin.com/event/thursday-farmers-market/
+  zip: '85745'
+- city: Scottsdale
+  contact_email: marketinfo@arizonafarmersmarkets.com
+  contact_name: null
+  contact_phone: 602-224-0225
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/OldTownScottsdaleFarmersMarket
+  latitude: '33.4914557636513'
+  listing_desc: null
+  listing_id: '308510'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3806 N. Brown Ave., Scottsdale, AZ, 85251
+  longitude: '-111.92455876566306'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Scottsdale Old Town Farmers' Market
+  state: Arizona
+  street: 3806 N. Brown Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://arizonafarmersmarkets.com/pageScottsdaleOldtown/ScottsdaleOTsat.htm
+  zip: '85251'
+- city: Peoria
+  contact_email: ''
+  contact_name: null
+  contact_phone: 623-297-1002
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.65863764145221'
+  listing_desc: null
+  listing_id: '308511'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 19251 N. Westbrook Pkwy., The Lakes Recreation Center, Peoria
+    , AZ, 85382
+  longitude: '-112.2667356346206'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Second Sunday Marketplace
+  state: Arizona
+  street: 19251 N. Westbrook Pkwy.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85382'
+- city: SEDONA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-821-1133
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/SEDONACOMMUNITYFARMERSMARKET/?fref=ts
+  latitude: '34.86350877869752'
+  listing_desc: null
+  listing_id: '308512'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2201 W State Route 89A at Wells Fargo Bank parking lot Sedona,
+    AZ 86336 We are located across from Sedona Rouge next to Pizza Lisa in the Wells
+    Fargo Bank parking lot. Please park at the bank in the d
+  longitude: '-111.7987182591946'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sedona Community Farmers Market
+  state: Arizona
+  street: 2201 STATE RTE 89A
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://sedona-farmers-market.com
+  zip: '86336'
+- city: SEDONA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-821-1133
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '34.86171783414848'
+  listing_desc: null
+  listing_id: '308513'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 336 Highway 179 Sedona, AZ 86336
+  longitude: '-111.76160265392124'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sedona Community Farmers Market at Tlaquepaque / Creekside
+  state: Arizona
+  street: 336 STATE RTE 179
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://sedona-farmers-market.com
+  zip: '86336'
+- city: SHOW LOW
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-532-4124
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '34.25386384274365'
+  listing_desc: null
+  listing_id: '308514'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1041 E. Deuce of Clubs Show Low, AZ 85901
+  longitude: '-110.03043649910752'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Show Low Main Street Farmers' Market & Art Walk
+  state: Arizona
+  street: 1041 E DEUCE OF CLUBS
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://showlowfarmersmarket.com
+  zip: '85901'
+- city: Sierra Vista
+  contact_email: ''
+  contact_name: null
+  contact_phone: 520-732-0350
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/sierravistafarmersmarket/
+  latitude: '31.555985000000078'
+  listing_desc: null
+  listing_id: '308515'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Sierra Vista AZ 85635, US
+  longitude: '-110.29628499999995'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sierra Vista Farmers Market
+  state: Arizona
+  street: 3105 E Fry Blvd
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.sierravistafarmersmarkets.com/
+  zip: '85635'
+- city: SKULL VALLEY
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/skullvalleyfm
+  latitude: '34.497671207860414'
+  listing_desc: null
+  listing_id: '308516'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3150 Old Skull Valley Road Skull Valley, AZ 86338
+  longitude: '-112.68797637864364'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Skull Valley Farmers Market
+  state: Arizona
+  street: 3150 OLD RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://skullvalleyfarmersmarket.weebly.com
+  zip: '86338'
+- city: Peoria
+  contact_email: ''
+  contact_name: null
+  contact_phone: 623-205-6166
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Smithslocalfarmersmarkets/
+  latitude: '33.75192050000004'
+  listing_desc: null
+  listing_id: '308517'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Peoria AZ 85383, US
+  longitude: '-112.32745539999996'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Smith's Local Farmers Market
+  state: Arizona
+  street: 29701 N Sunrise Point
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85383'
+- city: Sun City
+  contact_email: marketinfo@arizonafarmersmarkets.com
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Sun-City-Farmers-Market-631299790224049
+  latitude: '33.635868134151174'
+  listing_desc: null
+  listing_id: '308518'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 16820 N. 99th Ave., Sun City, AZ, 85351
+  longitude: '-112.27348173355736'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sun City Farmers' Market
+  state: Arizona
+  street: 16820 N. 99th Ave.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.arizonafarmersmarkets.com/pageSunCity/SunCityFM.htm
+  zip: '85351'
+- city: Flagstaff
+  contact_email: jb@sunnysideneighborhoodassociation.com
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/MarketofDreams
+  latitude: '35.21265000000005'
+  listing_desc: null
+  listing_id: '308519'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Flagstaff AZ 86004, US
+  longitude: '-111.61568999999997'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sunnyside Farmers Market/Market of Dreams
+  state: Arizona
+  street: 2532 E. 7th Ave
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://marketofdreamsflagstaff.org/
+  zip: '86004'
+- city: SUNSITES
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '31.939675020284913'
+  listing_desc: null
+  listing_id: '308520'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1105 Irene Street Pearce/Sunsites, AZ 85625
+  longitude: '-109.83740080834143'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Sunsites Farmers Market
+  state: Arizona
+  street: 1105 IRENE ST
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://SunsitesGolf.org
+  zip: '85625'
+- city: MESA
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-432-6865
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.35293257119352'
+  listing_desc: null
+  listing_id: '308521'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3440 S. Hawes Rd. Mesa, AZ 85212
+  longitude: '-111.65312854176844'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Super Farm Market
+  state: Arizona
+  street: 3440 S HAWES RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.SuperstitionFarm.com
+  zip: '85212'
+- city: Cave Creek
+  contact_email: vendorinfo@arizonacommunityfarmersmarkets.com
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/TatumRanchFarmersMarket
+  latitude: '33.742014995655985'
+  listing_desc: null
+  listing_id: '308522'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 28230 N. Tatum Blvd., Cave Creek, AZ, 85221
+  longitude: '-111.97833890046508'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Tatum Ranch Farmers' Market
+  state: Arizona
+  street: 28230 N. Tatum Blvd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85221'
+- city: Tempe
+  contact_email: ''
+  contact_name: null
+  contact_phone: 480-557-9970
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/tempefarmersmarket
+  latitude: '33.42316000000005'
+  listing_desc: null
+  listing_id: '308523'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Tempe AZ 85281, US
+  longitude: '-111.94552439999995'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Tempe Farmer's Market
+  state: Arizona
+  street: 805 S. Farmer Ave
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: www.tempefarmersmarket.com
+  zip: '85281'
+- city: Phoenix
+  contact_email: Email not found
+  contact_name: null
+  contact_phone: 602-224-0225
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.50987666059853'
+  listing_desc: null
+  listing_id: '308524'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3930 E. Camelback, Phoenix, AZ, 85018
+  longitude: '-111.99787823709885'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: The Camelback Farmers Market
+  state: Arizona
+  street: 3930 E. Camelback
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.vincentsoncamelback.com/market/
+  zip: '85018'
+- city: PHOENIX
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-224-0225
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.50987666059853'
+  listing_desc: null
+  listing_id: '308525'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 3930 East Camelback Phoenix, AZ 85018
+  longitude: '-111.99787823709885'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: The Farmers Market at Vincent's on Camelback
+  state: Arizona
+  street: 3930 E CAMELBACK RD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85018'
+- city: Marana
+  contact_email: mrrichardroberts@gmail.com
+  contact_name: null
+  contact_phone: 520-661-7215
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.44966766000219'
+  listing_desc: null
+  listing_id: '308526'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 4949 W. Heritage Club Blvd., Marana, AZ, 85658
+  longitude: '-111.07193443712023'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: The Farmers' Market of Dove Mountain
+  state: Arizona
+  street: 4949 W. Heritage Club Blvd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.dovemountainfarmersmarket.com/
+  zip: '85658'
+- city: Winslow
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-587-1041
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/Mother-Road-Farmers-Market-322523012016179
+  latitude: '35.029570000000035'
+  listing_desc: null
+  listing_id: '308527'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Winslow AZ 86047, US
+  longitude: '-110.69837499999994'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: The Mother Road Farmers Market
+  state: Arizona
+  street: 101-199 W 1st St
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '86047'
+- city: Scottsdale
+  contact_email: info@arizonafarmersmarkets.com
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.539168119215944'
+  listing_desc: null
+  listing_id: '308528'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 7001 N. Scottsdale Rd., Scottsdale, AZ, 85253
+  longitude: '-111.92369324710393'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Thursday Market at the Seville
+  state: Arizona
+  street: 7001 N. Scottsdale Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.arizonacommunityfarmersmarkets.com/
+  zip: '85253'
+- city: Phoenix
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-955-6850
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.50925186432258'
+  listing_desc: null
+  listing_id: '308529'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 2021 E. Camelback Rd., Phoenix, AZ, 85016
+  longitude: '-112.03838733086226'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Town and Country Farmers' Market
+  state: Arizona
+  street: 2021 E. Camelback Rd.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.townandcountryshops.com
+  zip: '85016'
+- city: Tucson,
+  contact_email: ''
+  contact_name: null
+  contact_phone: ''
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/UdallParkFarmersMarket
+  latitude: '32.17041500000005'
+  listing_desc: null
+  listing_id: '308530'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Tucson, AZ 85714
+  longitude: '-110.97124999999994'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Udall Park Farmers Market
+  state: Arizona
+  street: 7202 E. Tanque Verde Rd
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: https://www.heirloomfm.org/markets/udall-park/
+  zip: '85714'
+- city: Phoenix
+  contact_email: ''
+  contact_name: null
+  contact_phone: 602-859-5648
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/uptownmarketaz
+  latitude: '33.486290000000054'
+  listing_desc: null
+  listing_id: '308531'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Phoenix AZ 85012, US
+  longitude: '-112.06941999999998'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Uptown Farmers Market
+  state: Arizona
+  street: 5757 North Central Avenue
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: uptownmarketaz.com/
+  zip: '85012'
+- city: Camp Verde
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-634-7077
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/verdevalleyfarmersmarket/info
+  latitude: '34.56140840000006'
+  listing_desc: null
+  listing_id: '308532'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Camp Verde AZ 86322, US
+  longitude: '-111.85713459999994'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Verde Valley Farmers Market
+  state: Arizona
+  street: Hollamon St and Main St
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '86322'
+- city: Phoenix
+  contact_email: featherwolf@earthlink.net
+  contact_name: null
+  contact_phone: 623-848-1234
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '33.44816001292698'
+  listing_desc: null
+  listing_id: '308533'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Washington St. & 17th St., Phoenix, AZ, 85007
+  longitude: '-112.09581998740128'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Wesley Bolin Plaza Farmers' Market
+  state: Arizona
+  street: Washington St. & 17th St.
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.arizonafarmersmarkets.com
+  zip: '85007'
+- city: LITCHFIELD PARK
+  contact_email: ''
+  contact_name: null
+  contact_phone: 623-734-6526
+  directory_name: farmers market
+  distance: '1000'
+  facebook: http://www.facebook.com/events/325592437544764/
+  latitude: '33.49339245372156'
+  listing_desc: null
+  listing_id: '308534'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 300 E. Wigwam Blvd. Litchfield Park, AZ 85340
+  longitude: '-112.356113502775'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Wigwam Farmer's Market
+  state: Arizona
+  street: 300 E WIGWAM BLVD
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: http://www.vermillionpromotions.com
+  zip: '85340'
+- city: Yuma
+  contact_email: ''
+  contact_name: null
+  contact_phone: 928-580-4482
+  directory_name: farmers market
+  distance: '1000'
+  facebook: ''
+  latitude: '32.701345403207206'
+  listing_desc: null
+  listing_id: '308535'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Yuma Palms, Yuma, AZ, 85364
+  longitude: '-114.60319025636252'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Yuma Community Farmers' Market
+  state: Arizona
+  street: Yuma Palms
+  tags: ''
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 20th, 2023
+  website: ''
+  zip: '85364'
+- city: Superior
+  contact_email: mary4healthyfood@gmail.com
+  contact_name: Mary Karlin
+  contact_phone: 707-337-5055
+  directory_name: farmers market
+  distance: '1000'
+  facebook: Superior Farm-to-Fantastic Farmer's Market
+  latitude: '33.285146'
+  listing_desc: null
+  listing_id: '301483'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: Superior Food Court, Main Street, Superior, Arizona 85173
+  longitude: '-111.1103'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Superior Farm-to-Fantastic Farmer's Market
+  state: Arizona
+  street: Main Street
+  tags: 'Open: Year-round<br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Canned or preserved fruits/vegetables;Cut flowers;Dry beans;Eggs;Honey;Nursery
+    stock;Soap/body care products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Mar 26th, 2021
+  website: null
+  zip: '85173'
+- city: Tucson
+  contact_email: desertpeachmanagement@gmail.com
+  contact_name: Cindy
+  contact_phone: '5202039835'
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/stphilipsplazamarket/
+  latitude: '32.285766'
+  listing_desc: null
+  listing_id: '301510'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 4280 N. Campbell Rd, Tucson, Arizona 85718
+  longitude: '-110.94208'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: St. Phillips Plaza Market
+  state: Arizona
+  street: 4280 N. Campbell Rd
+  tags: 'Open: Year-round<br>Available Products: Fresh fruits;Fresh vegetables;Canned
+    or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking items;Eggs;Fish/seafood;Fresh/dried
+    herbs;Honey;Juices/non-alcoholic ciders;Maple products;Mushrooms;Soap/body care
+    products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: May 26th, 2021
+  website: null
+  zip: '85718'
+- city: Pinetop-Lakeside
+  contact_email: dnorth@northstarbusinesscenter.com
+  contact_name: North Star Business Center
+  contact_phone: 928-532-2680
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/AZWhiteMountainsMarket
+  latitude: '34.146798'
+  listing_desc: null
+  listing_id: '301514'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 1501 W White Mountain Blvd, Pinetop-Lakeside , Arizona 85929
+  longitude: '-109.97074'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: White Mountains Market
+  state: Arizona
+  street: 1501 W White Mountain Blvd
+  tags: 'Open: May to September; <br>Available Products: Fresh vegetables;Baked goods;Bedding
+    plants;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking items;Cut
+    flowers;Dairy products.;Eggs;Fresh/dried herbs;Honey;Mushrooms;Nuts;Poultry/fowl
+    meat and products;Prepared foods;Red/other non-poultry meat and products;Soap/body
+    care products;Wild harvested forest products;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: May 27th, 2021
+  website: www.whitemountainsmarket.com
+  zip: '85929'
+- city: Gilbert
+  contact_email: dan@azmarkets.com
+  contact_name: Dan Koppenhofer
+  contact_phone: 480 359 6446
+  directory_name: farmers market
+  distance: '1000'
+  facebook: facebook.com/gilbertmarket/
+  latitude: '33.354527'
+  listing_desc: null
+  listing_id: '301502'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 222 N Ash St, Gilbert, Arizona 85234
+  longitude: '-111.79094'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Gilbert Farmers Market
+  state: Arizona
+  street: 222 N Ash St
+  tags: 'Open: January to April; May to September; October to April; <br>Available
+    Products: Fresh fruits;Fresh vegetables;Baked goods;Bedding plants;Canned or preserved
+    fruits/vegetables;Coffee/tea;Crafts/woodworking items;Cut flowers;Dairy products.;Dry
+    beans;Eggs;Fish/seafood;Fresh/dried herbs;Grains/flour;Honey;Juices/non-alcoholic
+    ciders;Maple products;Mushrooms;Nursery stock;Nuts;Pet food;Poultry/fowl meat
+    and products;Prepared foods;Red/other non-poultry meat and products;Soap/body
+    care products;Tofu/non-animal protein;Wild harvested forest products;Wine, spirits,
+    beer, hard cider;'
+  term: ''
+  twitter: twitter.com/gilbertmarket
+  type: farmersmarket
+  updatetime: May 4th, 2021
+  website: gilbertmarket.com
+  zip: '85234'
+- city: CORNV
+  contact_email: WindmillParkFarmersMarket@gmail.com
+  contact_name: Catherine Seginski
+  contact_phone: '9289252478'
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/WindmillParkFarmersMarket
+  latitude: '34.739119'
+  listing_desc: null
+  listing_id: '301347'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 9950 E CORNVILLE RD, CORNV, Arizona 86325
+  longitude: '-111.90859'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Windmill Park Farmers Market in Cornville
+  state: Arizona
+  street: 9950 E CORNVILLE RD
+  tags: 'Open: September to December; <br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking items;Cut
+    flowers;Dry beans;Fresh/dried herbs;Honey;Juices/non-alcoholic ciders;Mushrooms;Nuts;Pet
+    food;Prepared foods;Red/other non-poultry meat and products;Soap/body care products;Tofu/non-animal
+    protein;'
+  term: ''
+  twitter: null
+  type: farmersmarket
+  updatetime: Sep 27th, 2020
+  website: null
+  zip: '86325'
+- city: Phoenix
+  contact_email: colin@downtownphoenixfarmersmarket.org
+  contact_name: Colin Dueker
+  contact_phone: '6026256736'
+  directory_name: farmers market
+  distance: '1000'
+  facebook: https://www.facebook.com/dtphxfarmersmarket
+  latitude: '33.456252'
+  listing_desc: null
+  listing_id: '301665'
+  listing_image: default-farmersmarket-4-3.jpg
+  location_address: 720 North 5th Street, Phoenix, AZ, USA
+  longitude: '-112.067838'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Downtown Phoenix Farmers Market
+  state: Arizona
+  street: 720 North 5th Street
+  tags: 'Open: Year-round<br>Available Products: Fresh fruits;Fresh vegetables;Baked
+    goods;Bedding plants;Canned or preserved fruits/vegetables;Coffee/tea;Crafts/woodworking
+    items;Cut flowers;Dairy products.;Dry beans;Eggs;Fish/seafood;Fresh/dried herbs;Grains/flour;Honey;Juices/non-alcoholic
+    ciders;Mushrooms;Nuts;Pet food;Prepared foods;Red/other non-poultry meat and products;Soap/body
+    care products;Wild harvested forest products;'
+  term: ''
+  twitter: https://twitter.com/dtphxfarmersmkt
+  type: farmersmarket
+  updatetime: Sep 28th, 2022
+  website: https://downtownphoenixfarmersmarket.org/
+  zip: '85004'
+- city: Palominas / Hereford
+  contact_email: thunder.mountain@yahoo.com
+  contact_name: Lisa Thompson
+  contact_phone: 520-366-5579
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/ThunderMountainAlpacaRanch
+  latitude: '31.357113'
+  listing_desc: null
+  listing_id: '700017'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: ', Palominas / Hereford, Arizona 85615'
+  longitude: '-110.21865'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Thunder Mountain Alpaca Ranch
+  state: Arizona
+  street: null
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Aug 13th, 2014
+  website: null
+  zip: '85615'
+- city: Gilbert
+  contact_email: organicphx@gmail.com
+  contact_name: Scott Brown
+  contact_phone: 480-577-5995
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/BackyardChickenFarmersUnite/info
+  latitude: '33.3628495'
+  listing_desc: null
+  listing_id: '700178'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 507 E Barbarita Ave, Gilbert, Arizona 85234
+  longitude: '-111.77949'
+  media_blog: http://www.phoenixorganicfeed.com/blog
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Wholesale Organic Chicken Feed and Grain Buyer's Club Phoenix Arizona
+  state: Arizona
+  street: 507 E Barbarita Ave
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Aug 13th, 2014
+  website: www.phoenixorganicfeed.com
+  zip: '85234'
+- city: Concho
+  contact_email: nate_neterval@yahoo.com
+  contact_name: Nate Neterval
+  contact_phone: '2532590172'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '34.461412'
+  listing_desc: null
+  listing_id: '701586'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 11 Mesquite Lane, Concho, Arizona 85924
+  longitude: '-109.63173'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Stone Tree Acres
+  state: Arizona
+  street: 11 Mesquite Lane
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Feb 17th, 2021
+  website: null
+  zip: '85924'
+- city: Phoenix
+  contact_email: zheka@citifarms.com
+  contact_name: Zheka
+  contact_phone: '9288216004'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: CitiFarms
+  latitude: '33.4704390'
+  listing_desc: null
+  listing_id: '701356'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 2024 N.7th Street , Phoenix , Arizona 85006
+  longitude: '-112.06580'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: CitiFarms LLC
+  state: Arizona
+  street: 2024 N.7th Street
+  tags: null
+  term: ''
+  twitter: CitiFarms
+  type: onfarmmarket
+  updatetime: Jul 12th, 2016
+  website: CitiFarms.com
+  zip: '85006'
+- city: Wilcox
+  contact_email: briggseggers@briggs-eggers.com
+  contact_name: Lance Eggers
+  contact_phone: (520) 384-6099
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '32.455554'
+  listing_desc: null
+  listing_id: '700539'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 27197 S. Brookerson Rd., Wilcox, Arizona 85643
+  longitude: '-109.92724'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Briggs & Eggers Orchards
+  state: Arizona
+  street: 27197 S. Brookerson Rd.
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Jul 26th, 2014
+  website: http://www.briggs-eggers.com
+  zip: '85643'
+- city: Sonoita
+  contact_email: gndpurvis@wildblue.net
+  contact_name: Denise Purvis
+  contact_phone: 520 455-9272
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/HarrisHeritageGrowers
+  latitude: '31.752720'
+  listing_desc: null
+  listing_id: '700779'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 27811 S. Sonoita Highway, Sonoita, Arizona 85637
+  longitude: '-110.67234'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Harris Heritage Growers
+  state: Arizona
+  street: 27811 S. Sonoita Highway
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: May 12th, 2015
+  website: null
+  zip: '85637'
+- city: PRESCOTT
+  contact_email: k_mcelroy@msn.com
+  contact_name: Kim McElroy
+  contact_phone: '9287089385'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/BHDRanch
+  latitude: '34.756704'
+  listing_desc: null
+  listing_id: '701565'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 11325 STRICKLAND WASH RD, PRESCOTT, Arizona 86305
+  longitude: '-112.66974'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Broken Horn D Ranch
+  state: Arizona
+  street: 11325 STRICKLAND WASH RD
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Oct 26th, 2020
+  website: www.BHDRanch.com
+  zip: '86305'
+- city: Tucson
+  contact_email: ourgarden@live.com
+  contact_name: Jesse Petty
+  contact_phone: '5208254360'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: null
+  latitude: '32.505129'
+  listing_desc: null
+  listing_id: '700255'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 16500 N. Stallion Pl., Tucson, Arizona 85739
+  longitude: '-110.89689'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Our Garden
+  state: Arizona
+  street: 16500 N. Stallion Pl.
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Sep 19th, 2014
+  website: www.ourgardencatalina.com
+  zip: '85739'
+- city: Tucson
+  contact_email: elderberryedibles@gmail.com
+  contact_name: Jennifer Vallier
+  contact_phone: '5209908435'
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: https://www.facebook.com/ElderberryEdibles?ref=hl
+  latitude: '32.2419960'
+  listing_desc: null
+  listing_id: '701097'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 1700 N Wentworth Rd, Tucson, Arizona 85749
+  longitude: '-110.71876'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Elderberry Edibles CSA & Market Garden
+  state: Arizona
+  street: 1700 N Wentworth Rd
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Sep 24th, 2014
+  website: www.elderberryedibles.com
+  zip: '85749'
+- city: Phoenix
+  contact_email: info@orchardlearningcenter.org
+  contact_name: John Wann
+  contact_phone: 602-509-6042
+  directory_name: on-farm market
+  distance: '1000'
+  facebook: Orchard Community Learning Center
+  latitude: '33.377375'
+  listing_desc: null
+  listing_id: '701100'
+  listing_image: default-onfarmmarket-4-3.jpg
+  location_address: 911 West Baseline Road, Phoenix, Arizona 85041
+  longitude: '-112.08618'
+  media_blog: null
+  media_instagram: null
+  media_pinterest: null
+  media_youtube: null
+  mydesc: ''
+  name: Orchard Community Learning Center
+  state: Arizona
+  street: 911 West Baseline Road
+  tags: null
+  term: ''
+  twitter: null
+  type: onfarmmarket
+  updatetime: Sep 25th, 2014
+  website: www.orchardlearningcenter.org
+  zip: '85041'
