@@ -2,7 +2,7 @@ name: run fetch_data.py
 
 on:
   schedule:
-    - cron: '11 * * * *' # At 00:00 on Monday
+    - cron: '20 * * * *' # At 00:00 on Monday
 
 jobs:
   build:
