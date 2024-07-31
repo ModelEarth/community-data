@@ -1,2 +1,24 @@
 2024-07-25 16:27:01,457 - __main__ - INFO - Exporting to directory: /Users/pranayspeed/Work/gitrepo/ModelEarth/community-data/locations/farmfresh/prep/../us
 2024-07-25 16:27:01,458 - __main__ - ERROR - API key not available!
+2024-07-25 18:43:12,149 - __main__ - INFO - Exporting to directory: /Users/pranayspeed/Work/gitrepo/ModelEarth/community-data/locations/farmfresh/prep/../us
+2024-07-25 18:43:12,151 - __main__ - INFO - Exporting data for state: VT
+2024-07-25 18:43:12,151 - __main__ - INFO - Fetching data from URL: https://www.usdalocalfoodportal.com/api/farmersmarket/ with params: {'apikey': 'UXLbsdPdCU', 'state': 'VT'}
+2024-07-25 18:43:13,958 - __main__ - INFO - Received response with status code: 200
+2024-07-25 18:43:13,959 - __main__ - INFO - Successfully fetched data from USDA API
+2024-07-25 18:43:13,969 - __main__ - INFO - Fetching data from URL: https://www.usdalocalfoodportal.com/api/onfarmmarket/ with params: {'apikey': 'UXLbsdPdCU', 'state': 'VT'}
+2024-07-26 02:23:56,205 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-26 02:26:10,312 - __main__ - INFO - Data for all states exported successfully
+2024-07-26 02:38:23,695 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-26 02:40:26,776 - __main__ - INFO - Data for all states exported successfully
+2024-07-27 00:40:14,221 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-27 00:42:56,298 - __main__ - INFO - Data for all states exported successfully
+2024-07-28 00:44:30,209 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-28 00:46:32,169 - __main__ - INFO - Data for all states exported successfully
+2024-07-29 00:42:18,399 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-29 00:44:31,954 - __main__ - INFO - Data for all states exported successfully
+2024-07-30 00:40:47,384 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-30 00:42:59,834 - __main__ - INFO - Data for all states exported successfully
+2024-07-31 00:33:44,250 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-31 00:35:50,259 - __main__ - INFO - Data for all states exported successfully
+2024-07-31 15:49:39,330 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-07-31 15:52:02,556 - __main__ - INFO - Data for all states exported successfully
