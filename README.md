@@ -1,6 +1,5 @@
+[Active Projects](/projects/)
 # Community Datasets
-
-View our [Active Projects](/projects/).
 
 Our work combines four primary datasets:
 
