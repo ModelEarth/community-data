@@ -2,7 +2,7 @@ name: run fetch_data.py
 
 on:
   schedule:
-    - cron: '0 0 * * *' # At 00:00 on Monday
+    - cron: '0 0 * * *' # At 00:00 Everyday
   workflow_dispatch:
 
 jobs:
@@ -26,9 +26,6 @@ jobs:
           pip install pyyaml
 
         #   pip install -r locations/farmfresh/prep/requirements.txt
-
-
-        #   pip install requests
           
       - name: execute py script # run fetch_data.py
         env:
