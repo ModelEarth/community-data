@@ -72,7 +72,7 @@ def update_column_names(data_df):
         "brief_desc"        : "tags"    
     }
     df1 = data_df.rename(columns=columns_map)
-    # logger.info("Updated column names")
+    df1 = df1.drop(columns=['distance'], errors='ignore')
     return df1
 
 
