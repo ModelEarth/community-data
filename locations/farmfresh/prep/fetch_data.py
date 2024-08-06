@@ -73,7 +73,6 @@ def update_column_names(data_df):
     }
     df1 = data_df.rename(columns=columns_map)
     df1 = df1.drop(columns=['distance'], errors='ignore')
-    # logger.info("Updated column names")
     return df1
 
 
