@@ -26,7 +26,7 @@ TO DO: Capitalize titles in columns, remove underscore, remove spaces
 TO DO: Split Tags column into two columns called: Dates and Products.  
 Remove "Open: " and "; Available Products: " before saving.
 
-TO DO: In Name column, change all-caps to Title Case . (CAVE SPRING FARMERS MARKET)
+TO DO: In Name column, change all-caps to Title Case . (Offender: CAVE SPRING FARMERS MARKET)
 
 TO DO: In Name column, replace L.L.C. with LLC
 
