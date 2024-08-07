@@ -10,16 +10,16 @@ TO DO: Omit columns: type, mydesc, term
 
 TO DO: Rename columns:
 
-directory_name to Type
+directory\_name to Type
 updatetime to ModifyDate
-listing_image to Image
-listing_id to ListingID
-listing_desc to Description
-media_instagram to Instagram
-media_pinterest to Pinterest
-media_youtube to Youtube
-media_blog to Blog
-location_address to Address
+listing\_image to Image
+listing\_id to ListingID
+listing\_desc to Description
+media\_instagram to Instagram
+media\_pinterest to Pinterest
+media\_youtube to Youtube
+media\_blog to Blog
+location\_address to Address
 
 TO DO: Capitalize titles in columns, remove underscore, remove spaces
 
@@ -64,7 +64,7 @@ If the column names differ in the API, we could use the new column names if they
 1. Locate the Workflow File
     Navigate to community-data/.github/workflows/actions.yml.
 2. Identify the Secret Key
-    Copy the value of {{secrets.USDA_FARMFRESH_API}}. In this case, it is USDA_FARMFRESH_API.
+    Copy the value of {{secrets.USDA\_FARMFRESH\_API}}. In this case, it is USDA\_FARMFRESH\_API.
 3. Access Repository Settings
     Click on the Settings tab of your repository.
 4. Navigate to Secrets
@@ -74,6 +74,6 @@ If the column names differ in the API, we could use the new column names if they
 6. Create a New Repository Secret
     Click on New repository secret.
 7. Add the Secret Key
-    In the Name field, enter the exact secret key name (USDA_FARMFRESH_API), ensuring it matches the name in the .yml file.
+    In the Name field, enter the exact secret key name (USDA\_FARMFRESH\_API), ensuring it matches the name in the .yml file.
     In the Secret field, enter the API key value.
     Click Add secret to save.
