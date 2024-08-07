@@ -10,15 +10,15 @@ TO DO: Omit columns: type, mydesc, term
 
 TO DO: Rename columns:
 
-directory\_name to Type
-updatetime to ModifyDate
-listing\_image to Image
-listing\_id to ListingID
-listing\_desc to Description
-media\_instagram to Instagram
-media\_pinterest to Pinterest
-media\_youtube to Youtube
-media\_blog to Blog
+directory\_name to Type  
+updatetime to ModifyDate  
+listing\_image to Image  
+listing\_id to ListingID  
+listing\_desc to Description  
+media\_instagram to Instagram  
+media\_pinterest to Pinterest  
+media\_youtube to Youtube  
+media\_blog to Blog  
 location\_address to Address
 
 TO DO: Capitalize titles in columns, remove underscore, remove spaces
