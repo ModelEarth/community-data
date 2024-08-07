@@ -6,16 +6,29 @@ We send the output to [2-char state folders](https://github.com/ModelEarth/commu
 The python resides in [locations/farmfresh/prep](https://github.com/ModelEarth/community-data/locations/farmfresh/prep)
 
 
-TO DO: Capitalize names of words in columns, remove spaces
+TO DO: Omit columns: type, mydesc, term
 
-TO DO: Split Tags into two columns: Dates and Products.  
+TO DO: Rename columns:
+
+directory_name to Type
+updatetime to ModifyDate
+listing_image to Image
+listing_id to ListingID
+listing_desc to Description
+media_instagram to Instagram
+media_pinterest to Pinterest
+media_youtube to Youtube
+media_blog to Blog
+location_address to Address
+
+TO DO: Capitalize titles in columns, remove underscore, remove spaces
+
+TO DO: Split Tags column into two columns called: Dates and Products.  
 Remove "Open: " and "; Available Products: " before saving.
 
-TO DO: Change all-caps to Title Case in Name column. (CAVE SPRING FARMERS MARKET)
+TO DO: In Name column, change all-caps to Title Case . (CAVE SPRING FARMERS MARKET)
 
 TO DO: In Name column, replace L.L.C. with LLC
-
-TO DO:
 
 ---
 
