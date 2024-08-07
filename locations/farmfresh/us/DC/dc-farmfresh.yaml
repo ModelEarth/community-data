@@ -4,7 +4,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.9302925'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -40,7 +39,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.91129249999999'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -79,7 +77,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.9004805'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -115,7 +112,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.9007086'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -152,7 +148,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.9323776'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -189,7 +184,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.90138630000001'
   listing_desc: "FRESHFARM is a nonprofit based in Washington, DC, that works to create\
@@ -227,7 +221,6 @@ data:
   contact_name: FRESHFARM Markets
   contact_phone: ''
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc/
   latitude: '38.8974361'
   listing_desc: FRESHFARM is a nonprofit based in Washington, DC, that works to create
@@ -264,7 +257,6 @@ data:
   contact_name: molly Scalise
   contact_phone: '2023628889'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/freshfarmdc
   latitude: '38.911806'
   listing_desc: null
@@ -297,7 +289,6 @@ data:
   contact_name: Mary Ellen Koontz
   contact_phone: '7178739607'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/CleParkMainStDC
   latitude: '38.934817'
   listing_desc: null
@@ -328,7 +319,6 @@ data:
   contact_name: Robert Frazier
   contact_phone: '2026433010'
   directory_name: farmers market
-  distance: '1000'
   facebook: facebook.com/MtPFarMar
   latitude: '38.931518'
   listing_desc: null
@@ -359,7 +349,6 @@ data:
   contact_name: Lee Cliburn
   contact_phone: 202-281-6349
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.887743'
   listing_desc: null
@@ -391,7 +380,6 @@ data:
   contact_name: Mary Ackley
   contact_phone: '3137840498'
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/littlewildthingsfarm
   latitude: '38.9115027'
   listing_desc: null
@@ -420,7 +408,6 @@ data:
   contact_name: Kendell Snyder
   contact_phone: '2022906687'
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/FlannelTieFarm
   latitude: '38.9118966'
   listing_desc: null
@@ -448,7 +435,6 @@ data:
   contact_name: null
   contact_phone: (202) 559-7513
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/CommonGoodCityFarm
   latitude: '38.918451'
   listing_desc: null

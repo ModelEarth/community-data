@@ -4,7 +4,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.069469507567'
   listing_desc: null
@@ -32,7 +31,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/northsidefarmersmarkets/
   latitude: '41.112536988739'
   listing_desc: null
@@ -60,7 +58,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.266593038188'
   listing_desc: null
@@ -88,7 +85,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.345400005274'
   listing_desc: null
@@ -116,7 +112,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.484694998471'
   listing_desc: null
@@ -144,7 +139,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.336220011737'
   listing_desc: null
@@ -172,7 +166,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.150120017654'
   listing_desc: null
@@ -200,7 +193,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.376321994875'
   listing_desc: null
@@ -228,7 +220,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.125298998377'
   listing_desc: null
@@ -256,7 +247,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.168689998411'
   listing_desc: null
@@ -284,7 +274,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.024020989902'
   listing_desc: null
@@ -312,7 +301,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.231475013882'
   listing_desc: null
@@ -340,7 +328,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.954223013462'
   listing_desc: null
@@ -368,7 +355,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.950255020498'
   listing_desc: null
@@ -396,7 +382,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.056709152313'
   listing_desc: null
@@ -424,7 +409,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.948103008768'
   listing_desc: null
@@ -452,7 +436,6 @@ data:
   contact_name: null
   contact_phone: 740-277-6305
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/lancasterohfarmersmarket/ https://www.instagram.com/lancasterohfarmersmarket/
   latitude: '39.712547311228'
   listing_desc: Downtown Lancaster, Chestnut Street between Broad & Columbus in the
@@ -482,7 +465,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.137790992455'
   listing_desc: null
@@ -510,7 +492,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.876983004099'
   listing_desc: null
@@ -538,7 +519,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.510930012684'
   listing_desc: null
@@ -566,7 +546,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.975870990193'
   listing_desc: null
@@ -594,7 +573,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.477636011074'
   listing_desc: null
@@ -622,7 +600,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.766925011187'
   listing_desc: null
@@ -650,7 +627,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.551375989128'
   listing_desc: null
@@ -678,7 +654,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.069469507567'
   listing_desc: null
@@ -706,7 +681,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.369442692862'
   listing_desc: null
@@ -734,7 +708,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.800259536732'
   listing_desc: null
@@ -762,7 +735,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.795424019357'
   listing_desc: null
@@ -790,7 +762,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.534896346524'
   listing_desc: null
@@ -818,7 +789,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.244976004234'
   listing_desc: null
@@ -846,7 +816,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.965880019574'
   listing_desc: null
@@ -874,7 +843,6 @@ data:
   contact_name: null
   contact_phone: 614-681-1440
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.885759462391'
   listing_desc: null
@@ -902,7 +870,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.081952991934'
   listing_desc: null
@@ -930,7 +897,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.081449993924'
   listing_desc: null
@@ -958,7 +924,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.140034988122'
   listing_desc: null
@@ -986,7 +951,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.496540286186'
   listing_desc: null
@@ -1014,7 +978,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.188089989679'
   listing_desc: null
@@ -1042,7 +1005,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.034149992296'
   listing_desc: null
@@ -1070,7 +1032,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.013939002535'
   listing_desc: null
@@ -1098,7 +1059,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/bexleyfarmersmarket/
   latitude: '39.957139999586'
   listing_desc: null
@@ -1126,7 +1086,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.039563008137'
   listing_desc: null
@@ -1154,7 +1113,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.762630015501'
   listing_desc: null
@@ -1182,7 +1140,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.956857990453'
   listing_desc: null
@@ -1210,7 +1167,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.266414984719'
   listing_desc: null
@@ -1238,7 +1194,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.521902211176'
   listing_desc: null
@@ -1266,7 +1221,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.899608006654'
   listing_desc: null
@@ -1294,7 +1248,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.56840198141'
   listing_desc: null
@@ -1322,7 +1275,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.313138981961'
   listing_desc: null
@@ -1350,7 +1302,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.512625008595'
   listing_desc: null
@@ -1378,7 +1329,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.697828683861'
   listing_desc: null
@@ -1406,7 +1356,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.619881996242'
   listing_desc: null
@@ -1434,7 +1383,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.072441987261'
   listing_desc: null
@@ -1462,7 +1410,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.467014002366'
   listing_desc: null
@@ -1490,7 +1437,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.097973994025'
   listing_desc: null
@@ -1518,7 +1464,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.969142993432'
   listing_desc: null
@@ -1546,7 +1491,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.88739098091'
   listing_desc: null
@@ -1574,7 +1518,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.59289201656'
   listing_desc: null
@@ -1602,7 +1545,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.587940993993'
   listing_desc: null
@@ -1630,7 +1572,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.635449009778'
   listing_desc: null
@@ -1658,7 +1599,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.335454995434'
   listing_desc: null
@@ -1686,7 +1626,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.858443994475'
   listing_desc: null
@@ -1714,7 +1653,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.796487019768'
   listing_desc: null
@@ -1742,7 +1680,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.44317100078'
   listing_desc: null
@@ -1770,7 +1707,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.544831004713'
   listing_desc: null
@@ -1798,7 +1734,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.971884982647'
   listing_desc: null
@@ -1826,7 +1761,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.959410992432'
   listing_desc: null
@@ -1854,7 +1788,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.041805980747'
   listing_desc: null
@@ -1882,7 +1815,6 @@ data:
   contact_name: null
   contact_phone: (440) 599-8684
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.966325986183'
   listing_desc: null
@@ -1910,7 +1842,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.037844608007'
   listing_desc: null
@@ -1938,7 +1869,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.273698947834'
   listing_desc: null
@@ -1966,7 +1896,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.118653012029'
   listing_desc: null
@@ -1994,7 +1923,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.189307007561'
   listing_desc: null
@@ -2022,7 +1950,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.186519018927'
   listing_desc: null
@@ -2050,7 +1977,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.760650300677'
   listing_desc: null
@@ -2078,7 +2004,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.364931013139'
   listing_desc: null
@@ -2106,7 +2031,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.785334017493'
   listing_desc: null
@@ -2134,7 +2058,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.315821015889'
   listing_desc: null
@@ -2162,7 +2085,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.299871997116'
   listing_desc: null
@@ -2190,7 +2112,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.573282997857'
   listing_desc: null
@@ -2218,7 +2139,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.869994994192'
   listing_desc: null
@@ -2246,7 +2166,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.373237018182'
   listing_desc: null
@@ -2274,7 +2193,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.372957984625'
   listing_desc: null
@@ -2302,7 +2220,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.49964802037'
   listing_desc: null
@@ -2330,7 +2247,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.346366983534'
   listing_desc: null
@@ -2358,7 +2274,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.100780003751'
   listing_desc: null
@@ -2386,7 +2301,6 @@ data:
   contact_name: null
   contact_phone: 419-222-6045
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/DowntownLimaFarmersMarket/
   latitude: '40.743355'
   listing_desc: null
@@ -2414,7 +2328,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.798222767458'
   listing_desc: null
@@ -2442,7 +2355,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.970754227978'
   listing_desc: null
@@ -2470,7 +2382,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.098446984821'
   listing_desc: null
@@ -2498,7 +2409,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.157492034356'
   listing_desc: null
@@ -2526,7 +2436,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.052358000564'
   listing_desc: null
@@ -2554,7 +2463,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.196020988373'
   listing_desc: null
@@ -2582,7 +2490,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.026266979997'
   listing_desc: null
@@ -2610,7 +2517,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.127544995922'
   listing_desc: null
@@ -2638,7 +2544,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.645191009923'
   listing_desc: null
@@ -2666,7 +2571,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.352009002749'
   listing_desc: null
@@ -2694,7 +2598,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.485847007244'
   listing_desc: null
@@ -2722,7 +2625,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.15666228637'
   listing_desc: null
@@ -2750,7 +2652,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.84096801227'
   listing_desc: null
@@ -2778,7 +2679,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.625794985157'
   listing_desc: null
@@ -2806,7 +2706,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.40588800954'
   listing_desc: null
@@ -2834,7 +2733,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.808995996979'
   listing_desc: null
@@ -2862,7 +2760,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.759306820457'
   listing_desc: null
@@ -2890,7 +2787,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.284620017411'
   listing_desc: null
@@ -2918,7 +2814,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.521017011963'
   listing_desc: null
@@ -2946,7 +2841,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.803808008229'
   listing_desc: null
@@ -2974,7 +2868,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.517875013648'
   listing_desc: null
@@ -3002,7 +2895,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.625794985157'
   listing_desc: null
@@ -3030,7 +2922,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.358293987977'
   listing_desc: null
@@ -3058,7 +2949,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.731527018701'
   listing_desc: null
@@ -3086,7 +2976,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.225118010875'
   listing_desc: null
@@ -3114,7 +3003,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.162768997328'
   listing_desc: null
@@ -3142,7 +3030,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.950776411011'
   listing_desc: null
@@ -3170,7 +3057,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.771361988863'
   listing_desc: null
@@ -3198,7 +3084,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.518044998645'
   listing_desc: null
@@ -3226,7 +3111,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.34832800615'
   listing_desc: null
@@ -3254,7 +3138,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.882146986147'
   listing_desc: null
@@ -3282,7 +3165,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.849558316723'
   listing_desc: null
@@ -3310,7 +3192,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.025374013942'
   listing_desc: null
@@ -3338,7 +3219,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.399613016005'
   listing_desc: null
@@ -3366,7 +3246,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.97538298507'
   listing_desc: null
@@ -3394,7 +3273,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.961656001379'
   listing_desc: null
@@ -3422,7 +3300,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.408551987916'
   listing_desc: null
@@ -3450,7 +3327,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.028724009185'
   listing_desc: null
@@ -3478,7 +3354,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.530978016337'
   listing_desc: null
@@ -3506,7 +3381,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.732632712068'
   listing_desc: null
@@ -3534,7 +3408,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.239765980858'
   listing_desc: null
@@ -3562,7 +3435,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.073692687553'
   listing_desc: null
@@ -3590,7 +3462,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.860830499583'
   listing_desc: null
@@ -3618,7 +3489,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.737937983935'
   listing_desc: null
@@ -3646,7 +3516,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.915285007989'
   listing_desc: null
@@ -3674,7 +3543,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.576507013094'
   listing_desc: null
@@ -3702,7 +3570,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.637334987352'
   listing_desc: null
@@ -3730,7 +3597,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.413827349884'
   listing_desc: null
@@ -3758,7 +3624,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.43272400621'
   listing_desc: null
@@ -3786,7 +3651,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.100353012374'
   listing_desc: null
@@ -3814,7 +3678,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.166166996195'
   listing_desc: null
@@ -3842,7 +3705,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.372289981401'
   listing_desc: null
@@ -3870,7 +3732,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.202521992476'
   listing_desc: null
@@ -3898,7 +3759,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.54794598862'
   listing_desc: null
@@ -3926,7 +3786,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.840057996493'
   listing_desc: null
@@ -3954,7 +3813,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.95382498156'
   listing_desc: null
@@ -3982,7 +3840,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.758722983654'
   listing_desc: null
@@ -4010,7 +3867,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.799990990572'
   listing_desc: null
@@ -4038,7 +3894,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.639338003304'
   listing_desc: null
@@ -4066,7 +3921,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.480345000271'
   listing_desc: null
@@ -4094,7 +3948,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.231439013608'
   listing_desc: null
@@ -4122,7 +3975,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.54925'
   listing_desc: null
@@ -4150,7 +4002,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.393382981603'
   listing_desc: null
@@ -4178,7 +4029,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.103171008221'
   listing_desc: null
@@ -4206,7 +4056,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.936192994908'
   listing_desc: null
@@ -4234,7 +4083,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.993981020522'
   listing_desc: Located between the New Concord Elementary School and the Library
@@ -4262,7 +4110,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.714013007336'
   listing_desc: null
@@ -4290,7 +4137,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.484519020414'
   listing_desc: Award-winning Shaker Square Market will be on East and West Bound
@@ -4321,7 +4167,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.430166988368'
   listing_desc: "Located in the beautiful village of Chagrin Falls, this market is\
@@ -4353,7 +4198,6 @@ data:
   contact_name: null
   contact_phone: 330-518-6971
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/northsidefarmersmarket/
   latitude: '41.112536988739'
   listing_desc: null
@@ -4381,7 +4225,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.254414991128'
   listing_desc: null
@@ -4409,7 +4252,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.289316020575'
   listing_desc: null
@@ -4437,7 +4279,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.292338995865'
   listing_desc: null
@@ -4465,7 +4306,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.441333988421'
   listing_desc: null
@@ -4493,7 +4333,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.731670006519'
   listing_desc: null
@@ -4521,7 +4360,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.840707306013'
   listing_desc: null
@@ -4549,7 +4387,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.509195'
   listing_desc: null
@@ -4577,7 +4414,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.7247673'
   listing_desc: null
@@ -4605,7 +4441,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.96279598212'
   listing_desc: null
@@ -4633,7 +4468,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.293756996884'
   listing_desc: null
@@ -4661,7 +4495,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.762630015501'
   listing_desc: null
@@ -4689,7 +4522,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.162768997328'
   listing_desc: null
@@ -4717,7 +4549,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.224911983695'
   listing_desc: null
@@ -4745,7 +4576,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.278243980034'
   listing_desc: null
@@ -4773,7 +4603,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.313138981961'
   listing_desc: null
@@ -4801,7 +4630,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.955607997233'
   listing_desc: null
@@ -4829,7 +4657,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.426296997083'
   listing_desc: Located on Franklin St. in front of the library
@@ -4857,7 +4684,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.414051857688'
   listing_desc: null
@@ -4885,7 +4711,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.746081012649'
   listing_desc: null
@@ -4913,7 +4738,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.924126993829'
   listing_desc: null
@@ -4941,7 +4765,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.792404243675'
   listing_desc: null
@@ -4969,7 +4792,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.804889014831'
   listing_desc: null
@@ -4997,7 +4819,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.128466980592'
   listing_desc: null
@@ -5025,7 +4846,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.113357988705'
   listing_desc: null
@@ -5053,7 +4873,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.867075007813'
   listing_desc: null
@@ -5081,7 +4900,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.818487982181'
   listing_desc: null
@@ -5109,7 +4927,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.714199990367'
   listing_desc: null
@@ -5137,7 +4954,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.284183019439'
   listing_desc: null
@@ -5165,7 +4981,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.922841000335'
   listing_desc: null
@@ -5193,7 +5008,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.81257901658'
   listing_desc: null
@@ -5221,7 +5035,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.372712981595'
   listing_desc: null
@@ -5249,7 +5062,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.318654986712'
   listing_desc: null
@@ -5277,7 +5089,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.840421016719'
   listing_desc: null
@@ -5305,7 +5116,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.104848981418'
   listing_desc: null
@@ -5333,7 +5143,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.285014989919'
   listing_desc: null
@@ -5361,7 +5170,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.878701018113'
   listing_desc: null
@@ -5389,7 +5197,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.457261524551'
   listing_desc: null
@@ -5417,7 +5224,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.448635681773'
   listing_desc: null
@@ -5445,7 +5251,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.314262006578'
   listing_desc: null
@@ -5473,7 +5278,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.93895001241'
   listing_desc: null
@@ -5501,7 +5305,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.663274002105'
   listing_desc: null
@@ -5529,7 +5332,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.513843329011'
   listing_desc: null
@@ -5557,7 +5359,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.318828995022'
   listing_desc: null
@@ -5585,7 +5386,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.220200013006'
   listing_desc: null
@@ -5613,7 +5413,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.238034992124'
   listing_desc: null
@@ -5641,7 +5440,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.890029998445'
   listing_desc: null
@@ -5669,7 +5467,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.273252983239'
   listing_desc: null
@@ -5697,7 +5494,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.254480998616'
   listing_desc: null
@@ -5725,7 +5521,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.23835'
   listing_desc: null
@@ -5753,7 +5548,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.169261015565'
   listing_desc: null
@@ -5781,7 +5575,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.73839800001'
   listing_desc: null
@@ -5809,7 +5602,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.944662991885'
   listing_desc: null
@@ -5837,7 +5629,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.006556012671'
   listing_desc: null
@@ -5865,7 +5656,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.47594'
   listing_desc: null
@@ -5893,7 +5683,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.6394533'
   listing_desc: null
@@ -5921,7 +5710,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.776580980875'
   listing_desc: null
@@ -5949,7 +5737,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.108651993847'
   listing_desc: null
@@ -5977,7 +5764,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.89121899609'
   listing_desc: null
@@ -6005,7 +5791,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.049791981955'
   listing_desc: null
@@ -6033,7 +5818,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.900532984128'
   listing_desc: null
@@ -6061,7 +5845,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.946798013033'
   listing_desc: null
@@ -6089,7 +5872,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.503192014761'
   listing_desc: The Cleveland Clinic Main Campus Market has become a vibrant community
@@ -6123,7 +5905,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.504072994694'
   listing_desc: Introducing our market at University Hospitals Cleveland Medical Center
@@ -6154,7 +5935,6 @@ data:
   contact_name: null
   contact_phone: 330-807-1374 or 330-
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.018072017943'
   listing_desc: "Seasonal Farmers Market located in the parking lot on West Hopocan\
@@ -6184,7 +5964,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.457261524551'
   listing_desc: "Support your local farms year-round at Crocker Park\u2019s Winter\
@@ -6218,7 +5997,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.466134184224'
   listing_desc: 'Join us in The Van Aken District in the Van Aken Market Hall at the
@@ -6251,7 +6029,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.463633865222'
   listing_desc: Crocker Park Market is conveniently located at Crocker Park in Westlake
@@ -6283,7 +6060,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.465926480357'
   listing_desc: Van Aken District Market is located on Tuttle Road. Find farms and
@@ -6313,7 +6089,6 @@ data:
   contact_name: null
   contact_phone: 216-751-7656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.501409016317'
   listing_desc: Legacy Village Market is located on Cedar Road in the Capital Grille
@@ -6344,7 +6119,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.084770987781'
   listing_desc: null
@@ -6372,7 +6146,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.899752007751'
   listing_desc: null
@@ -6400,7 +6173,6 @@ data:
   contact_name: Emily Badgett
   contact_phone: 740-297-9531
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/BaltimoreFarmersMarket
   latitude: '39.85445099876'
   listing_desc: null
@@ -6428,7 +6200,6 @@ data:
   contact_name: Karen Stiles
   contact_phone: 614-270-5053
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/profile.php?id=100057164332076
   latitude: '39.845634996819'
   listing_desc: null
@@ -6456,7 +6227,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.737937983935'
   listing_desc: null
@@ -6484,7 +6254,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.927586012952'
   listing_desc: null
@@ -6512,7 +6281,6 @@ data:
   contact_name: Erin Harvey
   contact_phone: 740-277-6305
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/kellermarkethouse/
   latitude: '39.712720014952'
   listing_desc: A year round, indoor marketplace in downtown Lancaster
@@ -6540,7 +6308,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.555149025603'
   listing_desc: null
@@ -6568,7 +6335,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.212332230718'
   listing_desc: null
@@ -6596,7 +6362,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.137790992455'
   listing_desc: null
@@ -6624,7 +6389,6 @@ data:
   contact_name: Drake Riley
   contact_phone: 740-617-9821
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.instagram.com/kellermarkethouse/
   latitude: '39.7184598'
   listing_desc: Mathias Miller Park in Millersport on Lancaster Street
@@ -6652,7 +6416,6 @@ data:
   contact_name: David Gummere
   contact_phone: 740-304-4553
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.726143004245'
   listing_desc: Fairfield County Fairgrounds during market hours
@@ -6680,7 +6443,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.754525979867'
   listing_desc: null
@@ -6708,7 +6470,6 @@ data:
   contact_name: null
   contact_phone: 419-967-0361
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.366447006057'
   listing_desc: null
@@ -6736,7 +6497,6 @@ data:
   contact_name: null
   contact_phone: 419- 433-4947 567- 6
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.358786994293'
   listing_desc: null
@@ -6764,7 +6524,6 @@ data:
   contact_name: null
   contact_phone: 419-562-0683
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.830729985996'
   listing_desc: null
@@ -6792,7 +6551,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.455241098875'
   listing_desc: null
@@ -6820,7 +6578,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.238437396875'
   listing_desc: null
@@ -6848,7 +6605,6 @@ data:
   contact_name: Emily Diefendorf
   contact_phone: 513-614-3671
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/CinciNorthsideFarmersMarket
   latitude: '39.163947'
   listing_desc: null
@@ -6879,7 +6635,6 @@ data:
   contact_name: Andrew Rome
   contact_phone: (330) 422 - 8034
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/haymaker.farmers.market
   latitude: '41.155218'
   listing_desc: null
@@ -6912,7 +6667,6 @@ data:
   contact_name: Peggy Behm
   contact_phone: '5137458644'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/blueashfarmersmarket/
   latitude: '39.251798'
   listing_desc: null
@@ -6942,7 +6696,6 @@ data:
   contact_name: Susan West
   contact_phone: 740-676-8187
   directory_name: farmers market
-  distance: '1000'
   facebook: Ohio Valley Farmers' Market
   latitude: '40.014375'
   listing_desc: null
@@ -6974,7 +6727,6 @@ data:
   contact_name: null
   contact_phone: 740-201-8242
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/AllLifeCenter
   latitude: '40.212904582323674'
   listing_desc: null
@@ -7002,7 +6754,6 @@ data:
   contact_name: null
   contact_phone: 614-425-3043
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.98814779249316'
   listing_desc: null
@@ -7030,7 +6781,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.82628385145559'
   listing_desc: null
@@ -7058,7 +6808,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/brookvillecommunityfarmersmarket
   latitude: '39.84023371980815'
   listing_desc: null
@@ -7086,7 +6835,6 @@ data:
   contact_name: null
   contact_phone: 937-515-0109
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.85133709675104'
   listing_desc: null
@@ -7114,7 +6862,6 @@ data:
   contact_name: null
   contact_phone: 330-558-6894
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/Brunswick-Area-Historical-Society-Heritage-Farm-Museum-Park-113678478644
   latitude: '41.22663282070473'
   listing_desc: null
@@ -7142,7 +6889,6 @@ data:
   contact_name: null
   contact_phone: 513-381-3436
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.14364314395748'
   listing_desc: null
@@ -7170,7 +6916,6 @@ data:
   contact_name: null
   contact_phone: 937-339-5455
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/troymainstreet/
   latitude: '40.039586249701536'
   listing_desc: null
@@ -7199,7 +6944,6 @@ data:
   contact_name: null
   contact_phone: 216-289-8656
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.60688090941197'
   listing_desc: null
@@ -7227,7 +6971,6 @@ data:
   contact_name: null
   contact_phone: 216-289-8578
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.60688090941197'
   listing_desc: null
@@ -7255,7 +6998,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/FarmersMarketofMedina/
   latitude: '41.169097647030384'
   listing_desc: null
@@ -7284,7 +7026,6 @@ data:
   contact_name: null
   contact_phone: 800-858-4678
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.38553604018125'
   listing_desc: null
@@ -7312,7 +7053,6 @@ data:
   contact_name: null
   contact_phone: 330-225-4748
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.238430986048655'
   listing_desc: null
@@ -7340,7 +7080,6 @@ data:
   contact_name: null
   contact_phone: 614-304-0133
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.04286365872855'
   listing_desc: null
@@ -7368,7 +7107,6 @@ data:
   contact_name: null
   contact_phone: 419-832-3053
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.415394888185446'
   listing_desc: null
@@ -7396,7 +7134,6 @@ data:
   contact_name: null
   contact_phone: 614-929-5255
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/gvmvfarmersmarket
   latitude: '39.93531992932412'
   listing_desc: null
@@ -7424,7 +7161,6 @@ data:
   contact_name: null
   contact_phone: 419-688-9579
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/pages/Mount-Gilead-Farmers-Market/357066631010759
   latitude: '40.548051979249'
   listing_desc: null
@@ -7453,7 +7189,6 @@ data:
   contact_name: null
   contact_phone: 513-232-5724
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/MWmarketinthepark/
   latitude: '39.095669786400585'
   listing_desc: null
@@ -7481,7 +7216,6 @@ data:
   contact_name: null
   contact_phone: 330-877-8344
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.953390744729646'
   listing_desc: null
@@ -7509,7 +7243,6 @@ data:
   contact_name: null
   contact_phone: 740-676-8187
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Ohio-Valley-Farmers-Market/76218936373
   latitude: '40.061092517237'
   listing_desc: null
@@ -7537,7 +7270,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.710624106150966'
   listing_desc: null
@@ -7565,7 +7297,6 @@ data:
   contact_name: null
   contact_phone: 740-776-6406
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '38.776010984021795'
   listing_desc: null
@@ -7593,7 +7324,6 @@ data:
   contact_name: null
   contact_phone: 419-332-8696
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.34640086634128'
   listing_desc: null
@@ -7621,7 +7351,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/BoroFarmersMarket
   latitude: '39.54732183137754'
   listing_desc: null
@@ -7650,7 +7379,6 @@ data:
   contact_name: null
   contact_phone: 440-466-7480
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.782049181257314'
   listing_desc: null
@@ -7678,7 +7406,6 @@ data:
   contact_name: null
   contact_phone: 440-845-9770
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '41.37581565237398'
   listing_desc: null
@@ -7706,7 +7433,6 @@ data:
   contact_name: null
   contact_phone: 419-562-6664
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '40.807612774169236'
   listing_desc: null
@@ -7734,7 +7460,6 @@ data:
   contact_name: null
   contact_phone: 513-524-9591
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.50062813719112'
   listing_desc: null
@@ -7762,7 +7487,6 @@ data:
   contact_name: null
   contact_phone: 614-563-6402
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/richwoodfarmersmarket
   latitude: '40.42656163142057'
   listing_desc: null
@@ -7792,7 +7516,6 @@ data:
   contact_name: null
   contact_phone: 937-277-9028
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '39.79862515543578'
   listing_desc: null
@@ -7820,7 +7543,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/wyoming-ave-farmers-market-98917383857/?ref=hl
   latitude: '39.23381241172754'
   listing_desc: null
@@ -7848,7 +7570,6 @@ data:
   contact_name: Jena Grosschmidt
   contact_phone: '3302090809'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/NorthCantonFarmersMarket/
   latitude: '40.875871'
   listing_desc: null
@@ -7880,7 +7601,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.066714'
   listing_desc: null
@@ -7908,7 +7628,6 @@ data:
   contact_name: Carol Cunkle
   contact_phone: 330-670-0796
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.162239'
   listing_desc: null
@@ -7936,7 +7655,6 @@ data:
   contact_name: MELISSA RUPP
   contact_phone: '4195536366'
   directory_name: on-farm market
-  distance: '1000'
   facebook: facebook.com/rfarmnwo
   latitude: '41.493370'
   listing_desc: null
@@ -7964,7 +7682,6 @@ data:
   contact_name: Elizabeth Schaefer
   contact_phone: 513-726-5307
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/SchaefersCSA/
   latitude: '39.514640'
   listing_desc: null
@@ -7992,7 +7709,6 @@ data:
   contact_name: null
   contact_phone: 937-403-4135
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '38.86261'
   listing_desc: null
@@ -8020,7 +7736,6 @@ data:
   contact_name: Gary Keuffer
   contact_phone: 937-379-2048
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '38.96138'
   listing_desc: null
@@ -8048,7 +7763,6 @@ data:
   contact_name: Charles McCafferty
   contact_phone: 513-875-2292
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.17156'
   listing_desc: null
@@ -8076,7 +7790,6 @@ data:
   contact_name: null
   contact_phone: 440-319-9329
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.97531'
   listing_desc: null
@@ -8104,7 +7817,6 @@ data:
   contact_name: null
   contact_phone: 440-645-0703
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.53478'
   listing_desc: null
@@ -8132,7 +7844,6 @@ data:
   contact_name: null
   contact_phone: 330-925-6861
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.97139'
   listing_desc: 'Bauman Orchards, started in 1929, currently has a total of 260 acres
@@ -8166,7 +7877,6 @@ data:
   contact_name: null
   contact_phone: 419-368-3353
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.76692'
   listing_desc: "Scenic Ridge Fruit Farm is an extension of Bauman Orchards, offering\
@@ -8199,7 +7909,6 @@ data:
   contact_name: null
   contact_phone: 330-855-1029
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.92539'
   listing_desc: The Corner Market is a seasonal market through Bauman Orchards, located
@@ -8230,7 +7939,6 @@ data:
   contact_name: null
   contact_phone: 330-673-6433
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.17105'
   listing_desc: 'Family owned and operated orchard since 1878. Our season begins in
@@ -8262,7 +7970,6 @@ data:
   contact_name: null
   contact_phone: 419- 335-3942
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.57666'
   listing_desc: Orchard market with apples available seasonally for local pick-up.
@@ -8292,7 +7999,6 @@ data:
   contact_name: null
   contact_phone: 937-323-3987
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.91523'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8321,7 +8027,6 @@ data:
   contact_name: null
   contact_phone: 740-622-1881
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.2506'
   listing_desc: A local fruit grower specializing in peaches, apples and plums.
@@ -8349,7 +8054,6 @@ data:
   contact_name: null
   contact_phone: 419-395-1184
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.26226'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8378,7 +8082,6 @@ data:
   contact_name: null
   contact_phone: 740-427-2620
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.34431'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8407,7 +8110,6 @@ data:
   contact_name: null
   contact_phone: 330-769-3276
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.04227'
   listing_desc: Family-owned and operated orchard that specializes in growing and
@@ -8441,7 +8143,6 @@ data:
   contact_name: null
   contact_phone: 740-392-9341
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.36835'
   listing_desc: Grower of apples, peaches, cherries and asian pears. The farm shop
@@ -8471,7 +8172,6 @@ data:
   contact_name: null
   contact_phone: 740-787-1353
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.9312'
   listing_desc: Heartland Orchard is open from late July through mid-December. They
@@ -8502,7 +8202,6 @@ data:
   contact_name: null
   contact_phone: 740-826-4287
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.04305'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8531,7 +8230,6 @@ data:
   contact_name: null
   contact_phone: 740-587-1711
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.16983'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8560,7 +8258,6 @@ data:
   contact_name: null
   contact_phone: 330-893-9906
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.54296'
   listing_desc: Hillcrest Orchard of Walnut Creek is family-owned and operated by
@@ -8594,7 +8291,6 @@ data:
   contact_name: null
   contact_phone: 513-574-0663
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.1498'
   listing_desc: We are a family-owned 105 year-old orchard on the west side of Cincinnati.
@@ -8626,7 +8322,6 @@ data:
   contact_name: null
   contact_phone: 937-568-5459
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.91523'
   listing_desc: Orchard with apples, unpasterized cider, veggies, pumpkins, squash
@@ -8656,7 +8351,6 @@ data:
   contact_name: null
   contact_phone: 330-533-8762
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.93487'
   listing_desc: Farm with fruit and produce available seasonally. Must call ahead
@@ -8685,7 +8379,6 @@ data:
   contact_name: null
   contact_phone: 440-969-9042
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.80923'
   listing_desc: Orchard with apples available seasonally. Must call ahead for availability.
@@ -8713,7 +8406,6 @@ data:
   contact_name: null
   contact_phone: 419-541-0234
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.34918'
   listing_desc: Malone Orchards is a family owned and operated farm located in Berlin
@@ -8746,7 +8438,6 @@ data:
   contact_name: null
   contact_phone: 330-895-4861
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.685713002778'
   listing_desc: The Manfull Family has been growing fresh fruits and vegetables in
@@ -8779,7 +8470,6 @@ data:
   contact_name: null
   contact_phone: 440-965-7762
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.34154'
   listing_desc: Orchard with fruit available seasonally. Call ahead for hours and
@@ -8808,7 +8498,6 @@ data:
   contact_name: null
   contact_phone: 440-988-8405
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.36771'
   listing_desc: "Miller Orchards is a family-owned fruit farm, in business for more\
@@ -8842,7 +8531,6 @@ data:
   contact_name: null
   contact_phone: 330-457-7571
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.83613'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8871,7 +8559,6 @@ data:
   contact_name: null
   contact_phone: 419-898-0898
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.58489'
   listing_desc: Quaint country store off the beaten path. Offering quality home grown
@@ -8901,7 +8588,6 @@ data:
   contact_name: null
   contact_phone: 330-727-2068 or 330-
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.87214'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8930,7 +8616,6 @@ data:
   contact_name: null
   contact_phone: 419-337-7367
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.66207'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -8959,7 +8644,6 @@ data:
   contact_name: null
   contact_phone: 740-653-5796
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.67979'
   listing_desc: Orchard with local apples available seasonally. Must call ahead for
@@ -8988,7 +8672,6 @@ data:
   contact_name: null
   contact_phone: 937-362-3924
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.18017'
   listing_desc: Orchard with local apples available seasonally. Must call ahead for
@@ -9017,7 +8700,6 @@ data:
   contact_name: null
   contact_phone: 937-466-2388
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.14979'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9046,7 +8728,6 @@ data:
   contact_name: null
   contact_phone: 330-584-6922 or 330-
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.94125'
   listing_desc: Orchard with local fruit available seasonally. Available through local
@@ -9076,7 +8757,6 @@ data:
   contact_name: null
   contact_phone: 330-325-0640
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.11354'
   listing_desc: Stahl's Orchard and Farm Market offers local apples and other produce
@@ -9106,7 +8786,6 @@ data:
   contact_name: null
   contact_phone: 330-325-0640
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.96386'
   listing_desc: Stahl's Orchard and Farm Market offers local apples and other produce
@@ -9136,7 +8815,6 @@ data:
   contact_name: null
   contact_phone: 937-456-5162
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.77014'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9165,7 +8843,6 @@ data:
   contact_name: null
   contact_phone: 419-925-5121
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.41233'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9194,7 +8871,6 @@ data:
   contact_name: null
   contact_phone: 330-222-1790
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.81249'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9223,7 +8899,6 @@ data:
   contact_name: null
   contact_phone: 440-775-4114
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.3135'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9252,7 +8927,6 @@ data:
   contact_name: null
   contact_phone: 419-547-9354
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.30714'
   listing_desc: Orchard with local apples available seasonally. Must call ahead for
@@ -9281,7 +8955,6 @@ data:
   contact_name: null
   contact_phone: 440- 259-3192
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.76971'
   listing_desc: 'On our 70 acre farm we grow many deciduous fruit tree varieties including
@@ -9313,7 +8986,6 @@ data:
   contact_name: null
   contact_phone: 419-542-7613
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.29289'
   listing_desc: Orchard with local apples available seasonally. Must call ahead for
@@ -9342,7 +9014,6 @@ data:
   contact_name: null
   contact_phone: 419-707-2279
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.58264'
   listing_desc: 'Witts Orchards is a small, family-owned operation growing apples,
@@ -9373,7 +9044,6 @@ data:
   contact_name: null
   contact_phone: 419-898-8115
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.56769'
   listing_desc: Witts Orchards is a small, family-owned operation growing apples,
@@ -9404,7 +9074,6 @@ data:
   contact_name: null
   contact_phone: 740-796-5922
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.1165'
   listing_desc: 'A 100 acre orchard with one of the largest varieties of apples and
@@ -9434,7 +9103,6 @@ data:
   contact_name: null
   contact_phone: 419-588-2138
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.30767'
   listing_desc: Burnham Orchards, is a family owned and operated farm, providing great
@@ -9466,7 +9134,6 @@ data:
   contact_name: null
   contact_phone: 740-733-8413
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.251905005543'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9495,7 +9162,6 @@ data:
   contact_name: null
   contact_phone: 440-466-0474
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.746'
   listing_desc: "Here at Cold Springs, we take great pride in our history and believe\
@@ -9529,7 +9195,6 @@ data:
   contact_name: Al Bowman
   contact_phone: 330-225-4748
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.23854'
   listing_desc: Family owned orchard and farm market offering a variety of fruits
@@ -9559,7 +9224,6 @@ data:
   contact_name: null
   contact_phone: 419-588-2858
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.33827'
   listing_desc: "Our passion is growing fruit. Apples are our primary crop, but that\u2019\
@@ -9594,7 +9258,6 @@ data:
   contact_name: null
   contact_phone: 330-659-6830 or 330-
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.24347'
   listing_desc: Country Maid Orchard includes over 2,000 apple, peach, pear, and plum
@@ -9627,7 +9290,6 @@ data:
   contact_name: null
   contact_phone: 937-862-4376
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.618210788176'
   listing_desc: Apple Country Farm Market (ACFM) is a family owned and operated business.
@@ -9662,7 +9324,6 @@ data:
   contact_name: null
   contact_phone: 419-884-1500
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.72665'
   listing_desc: "Apple Hill Or.chards has two locations. The Mansfield location is\
@@ -9694,7 +9355,6 @@ data:
   contact_name: null
   contact_phone: 937-492-2005
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.25889'
   listing_desc: Small family orchard with apples available seasonally, for local pick
@@ -9724,7 +9384,6 @@ data:
   contact_name: null
   contact_phone: 440-286-3416
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.57986'
   listing_desc: 'Sage''s Apples is a family farm, part of Ransom Sage Farm, selling
@@ -9754,7 +9413,6 @@ data:
   contact_name: null
   contact_phone: 440-647-5524
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.18397'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9783,7 +9441,6 @@ data:
   contact_name: null
   contact_phone: 440-466-6780
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.75978'
   listing_desc: Small local farm offering apples, fresh baked goods, local produce,
@@ -9813,7 +9470,6 @@ data:
   contact_name: null
   contact_phone: 330-503-3004 or 330-
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.94048'
   listing_desc: 'Family farm offering premium quality grain fed beef. '
@@ -9841,7 +9497,6 @@ data:
   contact_name: null
   contact_phone: 330- 896-1391
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.92344'
   listing_desc: Orchard with local fruit available seasonally. Must call ahead for
@@ -9870,7 +9525,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.37509'
   listing_desc: 'This forty eight-acre farm has lots of animals, as well as several
@@ -9903,7 +9557,6 @@ data:
   contact_name: null
   contact_phone: 330-533-2046
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.98012'
   listing_desc: null
@@ -9931,7 +9584,6 @@ data:
   contact_name: Sonia Williamson
   contact_phone: 614-940-6142
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.91674'
   listing_desc: null
@@ -9959,7 +9611,6 @@ data:
   contact_name: Kelsey Ashbaugh
   contact_phone: 419-822-7797
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.68382'
   listing_desc: null
@@ -9987,7 +9638,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.73223'
   listing_desc: null
@@ -10015,7 +9665,6 @@ data:
   contact_name: Laurie Dotson
   contact_phone: 614-450-2339
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.72284'
   listing_desc: null
@@ -10043,7 +9692,6 @@ data:
   contact_name: null
   contact_phone: 740-438-4463, 740-50
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.85575'
   listing_desc: null
@@ -10071,7 +9719,6 @@ data:
   contact_name: Steve Best
   contact_phone: 740-251-7142
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.58357'
   listing_desc: null
@@ -10099,7 +9746,6 @@ data:
   contact_name: null
   contact_phone: 330- 301-7352
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.03229'
   listing_desc: null
@@ -10127,7 +9773,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.74178'
   listing_desc: null
@@ -10155,7 +9800,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.83969'
   listing_desc: null
@@ -10183,7 +9827,6 @@ data:
   contact_name: Elizabeth Zawislak
   contact_phone: 740-777-3977
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.69532'
   listing_desc: null
@@ -10211,7 +9854,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.70292'
   listing_desc: null
@@ -10239,7 +9881,6 @@ data:
   contact_name: null
   contact_phone: 330-482-4064
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.90015'
   listing_desc: null
@@ -10267,7 +9908,6 @@ data:
   contact_name: Mike and Cathy Pullins
   contact_phone: 937-232-7525
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.08264'
   listing_desc: null
@@ -10295,7 +9935,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.73985'
   listing_desc: null
@@ -10323,7 +9962,6 @@ data:
   contact_name: null
   contact_phone: 330-536-2178
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.02396'
   listing_desc: null
@@ -10351,7 +9989,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.74075'
   listing_desc: null
@@ -10379,7 +10016,6 @@ data:
   contact_name: null
   contact_phone: 330-482-2276
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.92289'
   listing_desc: null
@@ -10407,7 +10043,6 @@ data:
   contact_name: Greg Dewitt
   contact_phone: 740-304-9372, 740-86
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.79692'
   listing_desc: null
@@ -10436,7 +10071,6 @@ data:
   contact_name: Don Maloney
   contact_phone: 740-536-9003
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.762311019815'
   listing_desc: null
@@ -10464,7 +10098,6 @@ data:
   contact_name: Lauren Ketchum
   contact_phone: 614-772-8394
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.74437'
   listing_desc: null
@@ -10492,7 +10125,6 @@ data:
   contact_name: Jodi Luke
   contact_phone: 740-438-6501
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.73451'
   listing_desc: null
@@ -10520,7 +10152,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.76075'
   listing_desc: null
@@ -10548,7 +10179,6 @@ data:
   contact_name: null
   contact_phone: 440-655-9960
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.69442'
   listing_desc: null
@@ -10576,7 +10206,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.85979'
   listing_desc: null
@@ -10604,7 +10233,6 @@ data:
   contact_name: Kendall Foster
   contact_phone: 740-851-3240
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.58762'
   listing_desc: null
@@ -10635,7 +10263,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.67492'
   listing_desc: null
@@ -10663,7 +10290,6 @@ data:
   contact_name: Richard & Gina Orr
   contact_phone: 740-243-9085
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.77755'
   listing_desc: null
@@ -10691,7 +10317,6 @@ data:
   contact_name: null
   contact_phone: 330- 853-7592
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.92258'
   listing_desc: null
@@ -10719,7 +10344,6 @@ data:
   contact_name: null
   contact_phone: 330-533-7221
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.94679'
   listing_desc: null
@@ -10747,7 +10371,6 @@ data:
   contact_name: Chris & Angi Miller
   contact_phone: 740-407-6868
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.90339'
   listing_desc: null
@@ -10775,7 +10398,6 @@ data:
   contact_name: null
   contact_phone: 740- 408-3500
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.20729'
   listing_desc: null
@@ -10803,7 +10425,6 @@ data:
   contact_name: null
   contact_phone: 740-448-4021
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.42001'
   listing_desc: null
@@ -10831,7 +10452,6 @@ data:
   contact_name: Katherine Harrison
   contact_phone: 614-271-0304
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.81445'
   listing_desc: null
@@ -10859,7 +10479,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.737417239644'
   listing_desc: null
@@ -10887,7 +10506,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.7391'
   listing_desc: null
@@ -10915,7 +10533,6 @@ data:
   contact_name: Joyce Shriner
   contact_phone: 740-569-7400
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.65808'
   listing_desc: null
@@ -10943,7 +10560,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.83752'
   listing_desc: null
@@ -10971,7 +10587,6 @@ data:
   contact_name: null
   contact_phone: 740-536-9590
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.74598'
   listing_desc: null
@@ -10999,7 +10614,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.88347'
   listing_desc: null
@@ -11027,7 +10641,6 @@ data:
   contact_name: Todd and Lisa Joos
   contact_phone: 740-653-0771
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.70546'
   listing_desc: null
@@ -11055,7 +10668,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.73896'
   listing_desc: null
@@ -11083,7 +10695,6 @@ data:
   contact_name: null
   contact_phone: 330-531-4240
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.90089'
   listing_desc: null
@@ -11111,7 +10722,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.81066'
   listing_desc: null
@@ -11139,7 +10749,6 @@ data:
   contact_name: null
   contact_phone: 937-661-4480
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.06819'
   listing_desc: null
@@ -11167,7 +10776,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.61091'
   listing_desc: null
@@ -11195,7 +10803,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.7396'
   listing_desc: null
@@ -11223,7 +10830,6 @@ data:
   contact_name: null
   contact_phone: 330-533-5821
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.98553'
   listing_desc: null
@@ -11251,7 +10857,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.832200992774'
   listing_desc: null
@@ -11279,7 +10884,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.87057'
   listing_desc: null
@@ -11307,7 +10911,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.80994'
   listing_desc: null
@@ -11335,7 +10938,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.88049'
   listing_desc: null
@@ -11363,7 +10965,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.74787'
   listing_desc: null
@@ -11391,7 +10992,6 @@ data:
   contact_name: Brian Helser
   contact_phone: 740-601-8419
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.64878'
   listing_desc: null
@@ -11420,7 +11020,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.73961'
   listing_desc: null
@@ -11448,7 +11047,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.72289'
   listing_desc: null
@@ -11476,7 +11074,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.64221'
   listing_desc: null
@@ -11504,7 +11101,6 @@ data:
   contact_name: Kerry Lynn Sykes
   contact_phone: 614-554-7202
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.65463'
   listing_desc: null
@@ -11532,7 +11128,6 @@ data:
   contact_name: Bill & Jodie Poor
   contact_phone: 740-407-6588
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.63086'
   listing_desc: null
@@ -11560,7 +11155,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.89903'
   listing_desc: null
@@ -11588,7 +11182,6 @@ data:
   contact_name: Craig Getz
   contact_phone: 740-862-6085
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.87221'
   listing_desc: null
@@ -11616,7 +11209,6 @@ data:
   contact_name: null
   contact_phone: 330-240-0663
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.900915014046'
   listing_desc: null
@@ -11644,7 +11236,6 @@ data:
   contact_name: Trish Preston
   contact_phone: 614-330-5955
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.8343'
   listing_desc: null
@@ -11673,7 +11264,6 @@ data:
   contact_name: Gail & Jim Ellinger
   contact_phone: "740-808-2523, \n740-9"
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.68945'
   listing_desc: null
@@ -11701,7 +11291,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.75693'
   listing_desc: null
@@ -11729,7 +11318,6 @@ data:
   contact_name: null
   contact_phone: 740-654-0335
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.74739'
   listing_desc: null
@@ -11757,7 +11345,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.67528'
   listing_desc: null
@@ -11785,7 +11372,6 @@ data:
   contact_name: null
   contact_phone: 330-355-2500
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.45583'
   listing_desc: null
@@ -11813,7 +11399,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.79121'
   listing_desc: null
@@ -11841,7 +11426,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.760004014596'
   listing_desc: null
@@ -11869,7 +11453,6 @@ data:
   contact_name: null
   contact_phone: 330-853-6340
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.89126'
   listing_desc: null
@@ -11897,7 +11480,6 @@ data:
   contact_name: Roger and Marlene Miller
   contact_phone: 740-862-2501
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.90896'
   listing_desc: null
@@ -11925,7 +11507,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.81083'
   listing_desc: null
@@ -11953,7 +11534,6 @@ data:
   contact_name: null
   contact_phone: 614-406-3461
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.87477'
   listing_desc: null
@@ -11981,7 +11561,6 @@ data:
   contact_name: Lynne Schultz
   contact_phone: 740-438-8337
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.712498984166'
   listing_desc: null
@@ -12009,7 +11588,6 @@ data:
   contact_name: null
   contact_phone: 330-607-3332
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.17829'
   listing_desc: null
@@ -12037,7 +11615,6 @@ data:
   contact_name: null
   contact_phone: 330-328-7004, 614-35
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.03129'
   listing_desc: null
@@ -12065,7 +11642,6 @@ data:
   contact_name: null
   contact_phone: 440- 466-2433
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.80896'
   listing_desc: null
@@ -12093,7 +11669,6 @@ data:
   contact_name: null
   contact_phone: 330-309-5884
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.95039'
   listing_desc: null
@@ -12121,7 +11696,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.83383'
   listing_desc: null
@@ -12149,7 +11723,6 @@ data:
   contact_name: null
   contact_phone: 330-482-1521
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.92678'
   listing_desc: null
@@ -12178,7 +11751,6 @@ data:
   contact_name: null
   contact_phone: 330-584-2077
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.964026724448'
   listing_desc: null
@@ -12206,7 +11778,6 @@ data:
   contact_name: Jennifer Starner
   contact_phone: 740-215-8577
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.80938'
   listing_desc: null
@@ -12234,7 +11805,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.68977'
   listing_desc: null
@@ -12262,7 +11832,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.79506'
   listing_desc: null
@@ -12290,7 +11859,6 @@ data:
   contact_name: null
   contact_phone: 330-657-2727
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.20113'
   listing_desc: null
@@ -12318,7 +11886,6 @@ data:
   contact_name: Clayton Templin
   contact_phone: 740-243-0341
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.831'
   listing_desc: null
@@ -12346,7 +11913,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.24653'
   listing_desc: null
@@ -12374,7 +11940,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.84543'
   listing_desc: null
@@ -12402,7 +11967,6 @@ data:
   contact_name: null
   contact_phone: 330-597-6141
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.04931'
   listing_desc: null
@@ -12430,7 +11994,6 @@ data:
   contact_name: David Gummere
   contact_phone: 740-304-4553
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.67913'
   listing_desc: null
@@ -12458,7 +12021,6 @@ data:
   contact_name: null
   contact_phone: 740-627-0688
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.76803'
   listing_desc: null
@@ -12486,7 +12048,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.83915'
   listing_desc: null
@@ -12514,7 +12075,6 @@ data:
   contact_name: null
   contact_phone: 614-205-0365
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.8417'
   listing_desc: null
@@ -12542,7 +12102,6 @@ data:
   contact_name: null
   contact_phone: 330-466-6059
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.04996'
   listing_desc: null
@@ -12570,7 +12129,6 @@ data:
   contact_name: "The McKnight\_Family"
   contact_phone: 419-561-4755
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.77593'
   listing_desc: null
@@ -12598,7 +12156,6 @@ data:
   contact_name: Andy Stockmaster
   contact_phone: 419-561-0124
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.99068'
   listing_desc: null
@@ -12626,7 +12183,6 @@ data:
   contact_name: Joshua and Taylor Ayers
   contact_phone: 740-222-1352
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '38.81801'
   listing_desc: null
@@ -12654,7 +12210,6 @@ data:
   contact_name: null
   contact_phone: 330-336-3611
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.0301'
   listing_desc: null
@@ -12682,7 +12237,6 @@ data:
   contact_name: Vicki Bixler
   contact_phone: 937-515-0109
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '38.85223'
   listing_desc: null
@@ -12710,7 +12264,6 @@ data:
   contact_name: Matt Brungard
   contact_phone: 330-542-3068
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.95814'
   listing_desc: null
@@ -12738,7 +12291,6 @@ data:
   contact_name: null
   contact_phone: 330-475-3520
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.27847'
   listing_desc: null
@@ -12766,7 +12318,6 @@ data:
   contact_name: null
   contact_phone: 330-825-3320
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.04454'
   listing_desc: null
@@ -12794,7 +12345,6 @@ data:
   contact_name: null
   contact_phone: 330-836-2727
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.08934'
   listing_desc: 'A family owned farmers market featuring local produce including bi-color
@@ -12824,7 +12374,6 @@ data:
   contact_name: null
   contact_phone: 330-334-1325
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.04723'
   listing_desc: null
@@ -12852,7 +12401,6 @@ data:
   contact_name: null
   contact_phone: 330-388-2270
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.01165'
   listing_desc: null
@@ -12880,7 +12428,6 @@ data:
   contact_name: null
   contact_phone: 330-745-7694
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.0268'
   listing_desc: null
@@ -12908,7 +12455,6 @@ data:
   contact_name: null
   contact_phone: 330-659-2526
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.27015'
   listing_desc: null
@@ -12936,7 +12482,6 @@ data:
   contact_name: null
   contact_phone: 419-502-6338
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.43011'
   listing_desc: null
@@ -12964,7 +12509,6 @@ data:
   contact_name: null
   contact_phone: 330-212-9549
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.06692'
   listing_desc: null
@@ -12992,7 +12536,6 @@ data:
   contact_name: Mark Runyan
   contact_phone: 937-869-6083
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.084770987781'
   listing_desc: null
@@ -13020,7 +12563,6 @@ data:
   contact_name: David Ochs
   contact_phone: 740-652-5758
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.7461'
   listing_desc: null
@@ -13048,7 +12590,6 @@ data:
   contact_name: null
   contact_phone: 330-538-3601
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.08417'
   listing_desc: null
@@ -13076,7 +12617,6 @@ data:
   contact_name: Rusty & Mendy Sellman
   contact_phone: 419-971-6957
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.73255'
   listing_desc: null
@@ -13104,7 +12644,6 @@ data:
   contact_name: Corboy Family
   contact_phone: 937-403-0961
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.01663'
   listing_desc: null
@@ -13132,7 +12671,6 @@ data:
   contact_name: null
   contact_phone: 419-625-4376
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.44273'
   listing_desc: null
@@ -13164,7 +12702,6 @@ data:
   contact_name: Erin Harvey
   contact_phone: 740-808-9908
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.73893'
   listing_desc: null
@@ -13196,7 +12733,6 @@ data:
   contact_name: null
   contact_phone: '330-542-3068 '
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.95814'
   listing_desc: null
@@ -13224,7 +12760,6 @@ data:
   contact_name: null
   contact_phone: 330-482-0767
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.71775'
   listing_desc: null
@@ -13252,7 +12787,6 @@ data:
   contact_name: null
   contact_phone: 330-853-8236
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.75949'
   listing_desc: null
@@ -13280,7 +12814,6 @@ data:
   contact_name: null
   contact_phone: 330-533-3036
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.11367'
   listing_desc: null
@@ -13308,7 +12841,6 @@ data:
   contact_name: null
   contact_phone: 216-215-2855
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.36104'
   listing_desc: null
@@ -13336,7 +12868,6 @@ data:
   contact_name: null
   contact_phone: 330-222-1377 or 234-
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.81567'
   listing_desc: null
@@ -13364,7 +12895,6 @@ data:
   contact_name: null
   contact_phone: 330-876-5655
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.48953'
   listing_desc: null
@@ -13392,7 +12922,6 @@ data:
   contact_name: null
   contact_phone: 330-332-0728
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.959'
   listing_desc: null
@@ -13420,7 +12949,6 @@ data:
   contact_name: null
   contact_phone: 740-503-4872
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.65837'
   listing_desc: 'We raise and sell Rex rabbits, Bielefelder chickens, honeybees, and
@@ -13451,7 +12979,6 @@ data:
   contact_name: Randy Thurman
   contact_phone: '4192602744'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Thurmans-Farm-Market/133871850093087
   latitude: '41.415294'
   listing_desc: null
@@ -13479,7 +13006,6 @@ data:
   contact_name: Alex Restaino
   contact_phone: 330-554-8858
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/AmalfiGardens
   latitude: '41.475637'
   listing_desc: null
@@ -13507,7 +13033,6 @@ data:
   contact_name: Lori Fry
   contact_phone: 614-385-4080
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/folsomandpine
   latitude: '39.844156'
   listing_desc: null
@@ -13535,7 +13060,6 @@ data:
   contact_name: Timothy Stein
   contact_phone: 330-606-3799
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.1779940'
   listing_desc: null
@@ -13563,7 +13087,6 @@ data:
   contact_name: Susan Zimmerman
   contact_phone: 740-544-6012
   directory_name: on-farm market
-  distance: '1000'
   facebook: Susan Gates Zimmerman
   latitude: '40.504650'
   listing_desc: null
@@ -13591,7 +13114,6 @@ data:
   contact_name: Phil Carlton
   contact_phone: 330-274-2387
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/CarltonFarmProduce
   latitude: '41.292584'
   listing_desc: null
@@ -13619,7 +13141,6 @@ data:
   contact_name: Julie Garner
   contact_phone: 740-517-5012
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/The-Gold-Family-Farm/210127155664647
   latitude: '39.268587'
   listing_desc: null
@@ -13647,7 +13168,6 @@ data:
   contact_name: Paul O\'Neill
   contact_phone: '2165349600'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/weymouthfarms/
   latitude: '41.211152'
   listing_desc: null
@@ -13675,7 +13195,6 @@ data:
   contact_name: White House Fruit Farm
   contact_phone: 330-533-4161
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/whitehousefruitfarm
   latitude: '40.9841580'
   listing_desc: null
@@ -13703,7 +13222,6 @@ data:
   contact_name: Lawrence Orchards
   contact_phone: 740-389-3019
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/LawrenceOrchards?ref=hl
   latitude: '40.537152'
   listing_desc: null
@@ -13731,7 +13249,6 @@ data:
   contact_name: Deborah Mattix
   contact_phone: 419-768-3050
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/baalissgrass.farm
   latitude: '40.432817'
   listing_desc: null
@@ -13759,7 +13276,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.423439'
   listing_desc: null
@@ -13787,7 +13303,6 @@ data:
   contact_name: Rodney Davidson
   contact_phone: 740-349-2782
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.092689'
   listing_desc: null
@@ -13815,7 +13330,6 @@ data:
   contact_name: Marietta Lobdell
   contact_phone: 216-288-0851
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.163216'
   listing_desc: null
@@ -13843,7 +13357,6 @@ data:
   contact_name: Philip Louden
   contact_phone: '9376534558'
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.119300'
   listing_desc: null
@@ -13871,7 +13384,6 @@ data:
   contact_name: Alfred Coe
   contact_phone: 937-372-2531
   directory_name: on-farm market
-  distance: '1000'
   facebook: Brookside Farm
   latitude: '39.6834'
   listing_desc: null
@@ -13899,7 +13411,6 @@ data:
   contact_name: Michael Messuri
   contact_phone: '9376681441'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Messuri-Family-Farm/262765327140695?ref=hl
   latitude: '39.3764880'
   listing_desc: null
@@ -13927,7 +13438,6 @@ data:
   contact_name: Turner Farm Inc.
   contact_phone: 513 561 7400
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Turner-Farm/455826481129640
   latitude: '39.190080'
   listing_desc: null
@@ -13955,7 +13465,6 @@ data:
   contact_name: Mindy Bartholomae
   contact_phone: '2164073822'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Breezy-Hill-Farm-Homeworth-Ohio/184191254939126
   latitude: '40.8431293'
   listing_desc: null
@@ -13983,7 +13492,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.821676'
   listing_desc: null
@@ -14011,7 +13519,6 @@ data:
   contact_name: Andrea Gillis
   contact_phone: 330-205-6752
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.751443'
   listing_desc: null
@@ -14039,7 +13546,6 @@ data:
   contact_name: Joyce, Angie
   contact_phone: '3308622733'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/ArrowheadOrchard/
   latitude: '40.799762'
   listing_desc: null
@@ -14067,7 +13573,6 @@ data:
   contact_name: Jennifer Sharpnack
   contact_phone: 330-329-2880
   directory_name: on-farm market
-  distance: '1000'
   facebook: RodSharpnack.FamilyRootsFarm
   latitude: '41.216353'
   listing_desc: null
@@ -14095,7 +13600,6 @@ data:
   contact_name: Debbie Rardin
   contact_phone: 740-398-8621
   directory_name: on-farm market
-  distance: '1000'
   facebook: 4R Angus Farm
   latitude: '40.3586810'
   listing_desc: null
@@ -14123,7 +13627,6 @@ data:
   contact_name: Jason Wish
   contact_phone: 937-592-2173
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/WishwellFarms
   latitude: '40.409166'
   listing_desc: null
@@ -14151,7 +13654,6 @@ data:
   contact_name: Tammy Brown
   contact_phone: '4197383991'
   directory_name: on-farm market
-  distance: '1000'
   facebook: Hilltop Harvest Farm
   latitude: '40.555566'
   listing_desc: null
@@ -14179,7 +13681,6 @@ data:
   contact_name: Jeremy Freer
   contact_phone: '7405078775'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/double8cattle/
   latitude: '40.402862'
   listing_desc: null
@@ -14207,7 +13708,6 @@ data:
   contact_name: Kenny Adams
   contact_phone: 937-416-5533
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/adamsgreenhouse
   latitude: '40.127688'
   listing_desc: null
@@ -14235,7 +13735,6 @@ data:
   contact_name: Cameron Way
   contact_phone: 740-222-0179
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/wayfarm
   latitude: '39.138281'
   listing_desc: null
@@ -14263,7 +13762,6 @@ data:
   contact_name: Shawn Woods
   contact_phone: 325-721-9968
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/W-Bench-Farms-LLC-262282387063/
   latitude: '40.685548'
   listing_desc: null
@@ -14291,7 +13789,6 @@ data:
   contact_name: Nathan Goodell
   contact_phone: 330-322-3725
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://facebook.com/goodellfamilyfarm
   latitude: '41.2694840'
   listing_desc: null
@@ -14319,7 +13816,6 @@ data:
   contact_name: Terrie Godfrey
   contact_phone: '4195541069'
   directory_name: on-farm market
-  distance: '1000'
   facebook: The stemshire
   latitude: '41.3286520'
   listing_desc: null
@@ -14347,7 +13843,6 @@ data:
   contact_name: Missy Kroninger
   contact_phone: 937-505-0732
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/rootdownacres
   latitude: '39.939077'
   listing_desc: null
@@ -14375,7 +13870,6 @@ data:
   contact_name: Marian Buchanan
   contact_phone: 440-822-5257
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/MarianKayBerryFarm
   latitude: '41.028575'
   listing_desc: null
@@ -14403,7 +13897,6 @@ data:
   contact_name: Sharon Grover
   contact_phone: 440-693-4000
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Ridgeview-Farm-and-Tours/118515271492395
   latitude: '41.458943'
   listing_desc: null
@@ -14431,7 +13924,6 @@ data:
   contact_name: charles voytko
   contact_phone: 440-543-8586
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.421487'
   listing_desc: null
@@ -14459,7 +13951,6 @@ data:
   contact_name: Richard Vest
   contact_phone: 740-541-1169
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Vest-Berries/162080763828140
   latitude: '39.3380933'
   listing_desc: null
@@ -14487,7 +13978,6 @@ data:
   contact_name: Darcy Klier
   contact_phone: 440-6474402
   directory_name: on-farm market
-  distance: '1000'
   facebook: Greener Pasture Farm
   latitude: '41.2160269'
   listing_desc: null
@@ -14515,7 +14005,6 @@ data:
   contact_name: Cindy Ellis
   contact_phone: 440-237-8708
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.2879379'
   listing_desc: null
@@ -14543,7 +14032,6 @@ data:
   contact_name: Billie Setzekorn
   contact_phone: 937-776-2493
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/WildHareNaturalFarm
   latitude: '39.8137320'
   listing_desc: null
@@ -14571,7 +14059,6 @@ data:
   contact_name: Ricky Bruckner
   contact_phone: 330-221-6621
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/PolecatPinesMushroomFarm
   latitude: '41.343496'
   listing_desc: null
@@ -14599,7 +14086,6 @@ data:
   contact_name: Vivian Pfankuch
   contact_phone: 937-442-4800
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/JaybirdFarms
   latitude: '39.062666'
   listing_desc: null
@@ -14627,7 +14113,6 @@ data:
   contact_name: Meiring Farm
   contact_phone: 419-877-5802
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.526752'
   listing_desc: null
@@ -14655,7 +14140,6 @@ data:
   contact_name: Julie Richards
   contact_phone: 330-592-6574
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://facebook.com/NorthridgeBlueberries
   latitude: '41.927312'
   listing_desc: null
@@ -14683,7 +14167,6 @@ data:
   contact_name: Steve Hirsch
   contact_phone: 740-775-7055
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/hirschfruitfarm
   latitude: '39.301476'
   listing_desc: null
@@ -14711,7 +14194,6 @@ data:
   contact_name: Isaac and Jayne Barnes
   contact_phone: null
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/honeyrunfarm
   latitude: '39.6525000'
   listing_desc: null
@@ -14739,7 +14221,6 @@ data:
   contact_name: Robert Dorsten
   contact_phone: 937-506-0487
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/AngryHippieFarms
   latitude: '39.94265'
   listing_desc: null
@@ -14767,7 +14248,6 @@ data:
   contact_name: Kacie Winn-Skelley
   contact_phone: 614-873-0510
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.047682'
   listing_desc: null
@@ -14795,7 +14275,6 @@ data:
   contact_name: Lucy Owsley
   contact_phone: '9374569724'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/boulderbeltfarm
   latitude: '39.791734'
   listing_desc: null
@@ -14823,7 +14302,6 @@ data:
   contact_name: Daniel Huggett
   contact_phone: '7409838873'
   directory_name: on-farm market
-  distance: '1000'
   facebook: Blueberry Valley
   latitude: '39.724435'
   listing_desc: null
@@ -14851,7 +14329,6 @@ data:
   contact_name: Michael Schafer
   contact_phone: 740-507-9348
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/grannybfarms/
   latitude: '40.346711'
   listing_desc: null
@@ -14879,7 +14356,6 @@ data:
   contact_name: Larry and Tina Klco
   contact_phone: 440-259-4924
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/rainbowfarmsohio
   latitude: '41.800121'
   listing_desc: null
@@ -14907,7 +14383,6 @@ data:
   contact_name: Bonnie Mercuri
   contact_phone: 937-289-2500
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.Facebook/BonnybrookFarms
   latitude: '39.367811'
   listing_desc: null
@@ -14935,7 +14410,6 @@ data:
   contact_name: Lisa Schacht
   contact_phone: 614-837-4663
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/SchachtFarmMarket
   latitude: '39.893120'
   listing_desc: null
@@ -14963,7 +14437,6 @@ data:
   contact_name: Kaitlyn Sirna
   contact_phone: 440-834-0696
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/sirnasfarm.oh
   latitude: '41.352165'
   listing_desc: null
@@ -14991,7 +14464,6 @@ data:
   contact_name: Jeanette Toms
   contact_phone: 216-288-0170
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.477146'
   listing_desc: null
@@ -15019,7 +14491,6 @@ data:
   contact_name: Laura Eshleman
   contact_phone: '3022425723'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/Eshleman-Fruit-Farm-314477007606/?rf=157614694313691
   latitude: '41.3179418'
   listing_desc: null
@@ -15047,7 +14518,6 @@ data:
   contact_name: John and Sandy Abell
   contact_phone: 937-466-9202
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.1619920'
   listing_desc: null
@@ -15075,7 +14545,6 @@ data:
   contact_name: Tanya Holmes
   contact_phone: 216 224-9397
   directory_name: on-farm market
-  distance: '1000'
   facebook: Ka-La Healing Garden Resource Center LLC
   latitude: '41.4965696'
   listing_desc: null
@@ -15103,7 +14572,6 @@ data:
   contact_name: Lori Hartman
   contact_phone: '9373712977'
   directory_name: on-farm market
-  distance: '1000'
   facebook: Www.facebook.com/hartmanheimstytte
   latitude: '39.905200'
   listing_desc: null
@@ -15131,7 +14599,6 @@ data:
   contact_name: Dave, Donna, & Nick Divoky
   contact_phone: 440-286-7275
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Maple-Valley-Sugarbush-Farm/141855572516431?ref=hl
   latitude: '41.5773560'
   listing_desc: null
@@ -15159,7 +14626,6 @@ data:
   contact_name: Zella F. Cook
   contact_phone: 937-248-1536
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/cooksgardennewlebanon
   latitude: '39.7597210'
   listing_desc: null
@@ -15187,7 +14653,6 @@ data:
   contact_name: Michael Gotshall
   contact_phone: 330-760-3955
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.5013874'
   listing_desc: null
@@ -15215,7 +14680,6 @@ data:
   contact_name: Visar Duane
   contact_phone: 440-628-1393
   directory_name: on-farm market
-  distance: '1000'
   facebook: purpleskieshomestead@gmail.com
   latitude: '41.281938'
   listing_desc: null
@@ -15243,7 +14707,6 @@ data:
   contact_name: Jennifer LittleBear
   contact_phone: '3306718219'
   directory_name: on-farm market
-  distance: '1000'
   facebook: facebook.com/jacobsheritagefarm
   latitude: '41.1259834'
   listing_desc: null
@@ -15271,7 +14734,6 @@ data:
   contact_name: Bill Cusano
   contact_phone: 440-812-4430
   directory_name: on-farm market
-  distance: '1000'
   facebook: SEARCH @TRIPLE C FARM MARKET
   latitude: '41.855468'
   listing_desc: null
@@ -15299,7 +14761,6 @@ data:
   contact_name: Ted and Najet Lane
   contact_phone: 740-374-3161
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.436996'
   listing_desc: null
@@ -15327,7 +14788,6 @@ data:
   contact_name: Jeannie Seabrook
   contact_phone: '6144992958'
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/glassroostercannery
   latitude: '40.194321'
   listing_desc: null
@@ -15355,7 +14815,6 @@ data:
   contact_name: Matthew Moore
   contact_phone: '4403219727'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/Pmooreacres/
   latitude: '41.388323'
   listing_desc: null
@@ -15383,7 +14842,6 @@ data:
   contact_name: Tammy Brown
   contact_phone: 419-738-3991
   directory_name: on-farm market
-  distance: '1000'
   facebook: Hilltop Harvest Farm
   latitude: '40.555154'
   listing_desc: null
@@ -15411,7 +14869,6 @@ data:
   contact_name: Thomas Brown
   contact_phone: '4195162538'
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/hilltop-harvest-farm
   latitude: '40.555814'
   listing_desc: null
@@ -15439,7 +14896,6 @@ data:
   contact_name: Ben Gammie
   contact_phone: 419-588-2858
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Quarry-Hill-Orchards/538012959591189
   latitude: '41.337620'
   listing_desc: null
@@ -15467,7 +14923,6 @@ data:
   contact_name: Ronald Hayhurst
   contact_phone: 419-930-8576
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.350138'
   listing_desc: null
@@ -15495,7 +14950,6 @@ data:
   contact_name: Charles Fritsch
   contact_phone: 740-587-3632
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '40.1554270'
   listing_desc: null
@@ -15523,7 +14977,6 @@ data:
   contact_name: Susan Schmidt
   contact_phone: 330-239-2325
   directory_name: on-farm market
-  distance: '1000'
   facebook: Schmidt family Farms
   latitude: '41.1587370'
   listing_desc: null
@@ -15551,7 +15004,6 @@ data:
   contact_name: Tom Westendorf
   contact_phone: 937-429-3792
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/WhisperingPinesFarm
   latitude: '39.674614'
   listing_desc: null
@@ -15579,7 +15031,6 @@ data:
   contact_name: Sara Moore
   contact_phone: '9373505901'
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.601443'
   listing_desc: null
@@ -15607,7 +15058,6 @@ data:
   contact_name: null
   contact_phone: 740-536-7853
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '39.763103'
   listing_desc: null
@@ -15635,7 +15085,6 @@ data:
   contact_name: Marsha Krieg
   contact_phone: 440-988-9228
   directory_name: on-farm market
-  distance: '1000'
   facebook: Marsha Krieg
   latitude: '41.383635'
   listing_desc: null
@@ -15663,7 +15112,6 @@ data:
   contact_name: Dandelion Lane Farm
   contact_phone: '7022191208'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Dandelion-Lane-Farm
   latitude: '40.839863'
   listing_desc: null
@@ -15691,7 +15139,6 @@ data:
   contact_name: Laura Hetrick
   contact_phone: 419-966-1139
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.363336'
   listing_desc: null
@@ -15719,7 +15166,6 @@ data:
   contact_name: Michael Link
   contact_phone: 419-202-7230
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.436443'
   listing_desc: null
@@ -15747,7 +15193,6 @@ data:
   contact_name: Kathy Dollman
   contact_phone: 419-877-0755
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.536222'
   listing_desc: null
@@ -15775,7 +15220,6 @@ data:
   contact_name: Ronald Taylor
   contact_phone: 440-466-8982
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.765378'
   listing_desc: null
@@ -15803,7 +15247,6 @@ data:
   contact_name: Bob Folck
   contact_phone: 937-828-0233
   directory_name: on-farm market
-  distance: '1000'
   facebook: folckfamilyfarm
   latitude: '40.0222168'
   listing_desc: null
@@ -15831,7 +15274,6 @@ data:
   contact_name: Lana Rufener
   contact_phone: 330-628-1082
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '41.017294'
   listing_desc: null

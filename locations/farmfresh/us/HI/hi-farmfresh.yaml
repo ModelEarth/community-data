@@ -4,7 +4,6 @@ data:
   contact_name: Stacy Aurway
   contact_phone: '8089601493'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/kamuelafarmersmarket
   latitude: '20.017794'
   listing_desc: null
@@ -36,7 +35,6 @@ data:
   contact_name: Maureen Datta
   contact_phone: 808-324-6600
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/adaptationsaloha
   latitude: '19.5257840'
   listing_desc: null
@@ -66,7 +64,6 @@ data:
   contact_name: Tanya Nuuhiwa Gomez
   contact_phone: 808-826-1011
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/hanaleifarmersmarket.halehalawai/
   latitude: '22.201731'
   listing_desc: null
@@ -98,7 +95,6 @@ data:
   contact_name: Kari Hagedorn
   contact_phone: '8083780084'
   directory_name: farmers market
-  distance: '1000'
   facebook: HFUU Hana Chapter
   latitude: '20.750751'
   listing_desc: null
@@ -130,7 +126,6 @@ data:
   contact_name: Nikki Ige
   contact_phone: '8086322528'
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/GroveFarmMarket/
   latitude: '21.965378'
   listing_desc: null
@@ -161,7 +156,6 @@ data:
   contact_name: null
   contact_phone: 808-432-2270
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '21.30059672156182'
   listing_desc: null
@@ -189,7 +183,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '19.57337976250685'
   listing_desc: null
@@ -217,7 +210,6 @@ data:
   contact_name: null
   contact_phone: 808-357-4564
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/lipoamarket
   latitude: '20.747443980309384'
   listing_desc: null
@@ -245,7 +237,6 @@ data:
   contact_name: null
   contact_phone: 808-280-5516
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/MakawaoMarketplace
   latitude: '20.855321714539134'
   listing_desc: null
@@ -275,7 +266,6 @@ data:
   contact_name: null
   contact_phone: 808-938-2897
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '20.023980129684865'
   listing_desc: null
@@ -303,7 +293,6 @@ data:
   contact_name: Jeanette Baysa
   contact_phone: 808-968-1333
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/hcmcoffee
   latitude: '19.564663'
   listing_desc: ''
@@ -331,7 +320,6 @@ data:
   contact_name: Saleh Azizi
   contact_phone: '8083835224'
   directory_name: on-farm market
-  distance: '1000'
   facebook: facebook.com/kahumanafarms/
   latitude: '21.440047'
   listing_desc: null
@@ -359,7 +347,6 @@ data:
   contact_name: Ken and Margy Love
   contact_phone: 808-323-2417
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '19.499856'
   listing_desc: null
@@ -387,7 +374,6 @@ data:
   contact_name: Dr. Kurt Weigelt
   contact_phone: (808) 328-7424
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '19.477671'
   listing_desc: null

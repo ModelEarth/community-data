@@ -4,7 +4,6 @@ data:
   contact_name: Kelsea Sutton
   contact_phone: '6058305039'
   directory_name: farmers market
-  distance: '1000'
   facebook: Burke Area Farmers Market
   latitude: '43.185042'
   listing_desc: null
@@ -35,7 +34,6 @@ data:
   contact_name: null
   contact_phone: 605-225-9704
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Aberdeen-Farmers-Market/328864940497596
   latitude: '45.46309463092055'
   listing_desc: null
@@ -63,7 +61,6 @@ data:
   contact_name: null
   contact_phone: 605-646-0976
   directory_name: farmers market
-  distance: '1000'
   facebook: http://www.facebook.com/Blackhillsfarmersmarket
   latitude: '44.08143717473823'
   listing_desc: null
@@ -91,7 +88,6 @@ data:
   contact_name: null
   contact_phone: 605-690-4364
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/Brookings-Farmers-Market-117737541579595/
   latitude: '44.31150449410911'
   listing_desc: null
@@ -119,7 +115,6 @@ data:
   contact_name: null
   contact_phone: 712-472-3347
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '43.489592697225504'
   listing_desc: null
@@ -147,7 +142,6 @@ data:
   contact_name: null
   contact_phone: 605-769-0269
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/countryfarmersmarket
   latitude: '44.37774003896799'
   listing_desc: null
@@ -176,7 +170,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '44.37481347854722'
   listing_desc: null
@@ -204,7 +197,6 @@ data:
   contact_name: null
   contact_phone: 605-356-3180
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '42.687187460026635'
   listing_desc: null
@@ -232,7 +224,6 @@ data:
   contact_name: null
   contact_phone: 605-925-7135
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '43.34765160081549'
   listing_desc: null
@@ -261,7 +252,6 @@ data:
   contact_name: null
   contact_phone: 605-642-5438
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '44.5167375304399'
   listing_desc: null
@@ -289,7 +279,6 @@ data:
   contact_name: null
   contact_phone: 352-5574x605
   directory_name: farmers market
-  distance: '1000'
   facebook: www.facebook.com/Huron-Farmers-Market-162801030450226
   latitude: '44.36330813850614'
   listing_desc: null
@@ -317,7 +306,6 @@ data:
   contact_name: null
   contact_phone: 605-852-2254
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '44.4119813780739'
   listing_desc: null
@@ -345,7 +333,6 @@ data:
   contact_name: null
   contact_phone: 605-651-3624
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '44.00506062927794'
   listing_desc: null
@@ -373,7 +360,6 @@ data:
   contact_name: null
   contact_phone: 605-651-3624
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/Sioux-Empire-Farmers-Market-208744942655
   latitude: '43.54862405425529'
   listing_desc: null
@@ -401,7 +387,6 @@ data:
   contact_name: null
   contact_phone: null
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/theprairiefarmersmarket
   latitude: '43.54911628163366'
   listing_desc: null
@@ -429,7 +414,6 @@ data:
   contact_name: null
   contact_phone: 605-882-8900
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/Farmers-Market-Watertown-SD-312755785472162
   latitude: '44.890063709297905'
   listing_desc: null
@@ -457,7 +441,6 @@ data:
   contact_name: Wanda Bethke
   contact_phone: 605-532-7333
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/purityseeds
   latitude: '44.828767'
   listing_desc: null
@@ -485,7 +468,6 @@ data:
   contact_name: Beverly Lamers
   contact_phone: 605-742-4174
   directory_name: on-farm market
-  distance: '1000'
   facebook: null
   latitude: '45.518557'
   listing_desc: null
@@ -513,7 +495,6 @@ data:
   contact_name: Kyle Haroldson
   contact_phone: 832-942-2820
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/HaroldsonFarms/
   latitude: '44.437716'
   listing_desc: null
@@ -541,7 +522,6 @@ data:
   contact_name: Terry Lehmkuhl
   contact_phone: 605-769-0269
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Springerridge-Barnyard-Products/139944099427072
   latitude: '44.940829'
   listing_desc: null
@@ -569,7 +549,6 @@ data:
   contact_name: Vaughn Reints
   contact_phone: '6053605792'
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/betterrootsfarm/
   latitude: '45.500131'
   listing_desc: null
@@ -597,7 +576,6 @@ data:
   contact_name: Alex Ufford
   contact_phone: 605-677-8775
   directory_name: on-farm market
-  distance: '1000'
   facebook: Uffordhills
   latitude: '42.779161'
   listing_desc: null
@@ -625,7 +603,6 @@ data:
   contact_name: Stephanie Peterson
   contact_phone: 605-366-1219
   directory_name: on-farm market
-  distance: '1000'
   facebook: www.facebook.com/fruitofthecoop
   latitude: '43.578181'
   listing_desc: null
@@ -653,7 +630,6 @@ data:
   contact_name: Sherilyn Ortman
   contact_phone: 605-925-7038
   directory_name: on-farm market
-  distance: '1000'
   facebook: https://www.facebook.com/pages/Berrybrook-Organics/576031785742694
   latitude: '43.3287083'
   listing_desc: null

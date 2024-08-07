@@ -4,7 +4,6 @@ data:
   contact_name: Jennifer Morrow
   contact_phone: 787-465-8805
   directory_name: farmers market
-  distance: '1000'
   facebook: https://www.facebook.com/PalmasFarmersMarket
   latitude: '18.088831'
   listing_desc: null
@@ -37,7 +36,6 @@ data:
   contact_name: Rowin
   contact_phone: '7812676312'
   directory_name: farmers market
-  distance: '1000'
   facebook: null
   latitude: '18.431395'
   listing_desc: null
@@ -66,7 +64,6 @@ data:
   contact_name: Jose Torres
   contact_phone: 954-554-1429
   directory_name: on-farm market
-  distance: '1000'
   facebook: SweetWater Vertical Farm
   latitude: '18.243352'
   listing_desc: null
