@@ -1,19 +1,32 @@
-# New Farmfresh Data Pull
+# About Farmfresh Data
 
-We're pulling USDA for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
+We're pulling listings from the USDA API for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
 
-We'll eliminate these two scrapper pages after the new API pull is ready:
+We send the output to [2-char state folders](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/us)  
+The python resides in [locations/farmfresh/prep](https://github.com/ModelEarth/community-data/locations/farmfresh/prep)
+
+
+TO DO: Capitalize names of words in columns, remove spaces
+
+TO DO: Split Tags into two columns: Dates and Products.  
+Remove "Open: " and "; Available Products: " before saving.
+
+TO DO: Change all-caps to Title Case in Name column. (CAVE SPRING FARMERS MARKET)
+
+TO DO: In Name column, replace L.L.C. with LLC
+
+TO DO:
+
+---
+
+We're no longer using thse two scrapper pages now that the API is available:
 [model.earth/community-data/process/python/farmfresh/](https://model.earth/community-data/process/python/farmfresh/)
 [model.earth/community/farmfresh](https://model.earth/community/farmfresh)
 
 The data was sent here previously - Arkansas example:
 [github.com/ModelEarth/community-data/blob/master/us/state/AK/ak-farmfresh.csv](https://github.com/ModelEarth/community-data/blob/master/us/state/AK/ak-farmfresh.csv)
 
-We'll send the new output to 2-char state folders here:
-https://github.com/ModelEarth/community-data/locations/farmfresh
 
-The new python can reside here:
-https://github.com/ModelEarth/community-data/locations/farmfresh/prep
 
 Include these column names in the new output:
 
@@ -33,7 +46,8 @@ Latitude
 And any other columns in the API source, capitalize using CamelCase.
 If the column names differ in the API, we could use the new column names if they are decent.
 
-Setting Up the Secret Key - API Key
+## Setting Up the Secret Key - API Key
+
 1. Locate the Workflow File
     Navigate to community-data/.github/workflows/actions.yml.
 2. Identify the Secret Key
