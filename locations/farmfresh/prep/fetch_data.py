@@ -5,6 +5,7 @@ import sys
 import yaml
 import os
 import logging.handlers
+import re
 
 
 ## Notes
@@ -58,46 +59,94 @@ def fetch_usda_markets(api_key, state, market_type="farmersmarket"):
 
 def update_column_names(data_df):
     columns_map = {
-        "directory_type"    :"type"     ,
-        "listing_name"      :"name"     ,
-        "media_website"     :"website"  ,
-        "media_facebook"    :"facebook" ,
-        "media_twitter"     :"twitter"  ,  
-         "location_street"  :"street"   ,
-        "location_city"     :"city"     ,
-        "location_state"    :"state"    ,
-        "location_zipcode"  :"zip"      ,
-        "location_x"        :"longitude",
-        "location_y"        :"latitude" ,
-        "brief_desc"        : "tags"    
+        "directory_name"    :"Type"     ,
+        "updatetime"        :"ModifyDate",
+        "listing_id"        :"ListingID",
+        "listing_name"      :"Name"     ,
+        "listing_image"     :"Image"     ,
+        "listing_desc"      :"Description",
+        "contact_name"      :"ContactName",
+        "contact_email"     :"ContactEmail",
+        "contact_phone"     :"ContactPhone",
+        "media_website"     :"Website"  ,
+        "media_facebook"    :"Facebook" ,
+        "media_twitter"     :"Twitter"  ,
+        "media_instagram"   :"Instagram",
+        "media_pinterest"   :"Pinterest",
+        "media_youtube"     :"Youtube",
+        "media_blog"        :"Blog",
+         "location_street"  :"Street"   ,
+        "location_city"     :"City"     ,
+        "location_state"    :"State",
+        "location_zipcode"  :"Zip",
+        "location_address"  :"Address",
+        "location_x"        :"Longitude",
+        "location_y"        :"Latitude",
+        "brief_desc"        :"Tags"    
     }
     df1 = data_df.rename(columns=columns_map)
-    df1 = df1.drop(columns=['distance'], errors='ignore')
+    df1 = df1.drop(columns=['distance', 'mydesc', 'term', 'directory_type'], errors='ignore')
     return df1
+
+#Split the Tags column into Dates and Products, and clean the data.
+def split_tags_column(data_df):
+    if 'Tags' in data_df.columns:
+        # Ensure 'Tags' column has no NaN values and all entries are strings
+        data_df['Tags'] = data_df['Tags'].fillna('').astype(str)
+        
+        # Regular expressions to capture Dates and Products
+        date_pattern = r'Open:\s*(.*?)(?:;\s*<br>|;|\s*<br>Available Products:|$)'
+        products_pattern = r'Available Products:\s*(.*)'
+
+        # Extract Dates
+        data_df['Dates'] = data_df['Tags'].str.extract(date_pattern, expand=False)
+
+        # Extract Products
+        products = data_df['Tags'].str.extract(products_pattern, expand=False)
+        data_df['Products'] = products.fillna('').apply(lambda x: [item.strip() for item in x.split(';') if item.strip()])
+
+        # Drop the original Tags column
+        data_df = data_df.drop(columns=['Tags'], errors='ignore')
+    return data_df
+
+#Clean the Name column to convert all-caps to title case and replace 'L.L.C.' with 'LLC'.
+def clean_name_column(data_df):
+    if 'Name' in data_df.columns:
+        # Convert all-caps strings to title case
+        data_df['Name'] = data_df['Name'].apply(lambda x: x.title() if x.isupper() else x)
+        # Replace 'L.L.C.' with 'LLC'
+        data_df['Name'] = data_df['Name'].str.replace('L.L.C.', 'LLC')
+    return data_df
 
 
 def export_data(state):
     
     try:
-        apikey = os.environ["USDA_FARMFRESH_API"]
+        apikey="UXLbsdPdCU"
+        # apikey = os.environ["USDA_FARMFRESH_API"]
         # print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
         # apikey="UXLbsdPdCU"
         sys.exit(1)  # Exit the script if the API key is not available
-    # apikey="UXLbsdPdCU"
+    
     market_type = "farmersmarket"
-    # logger.info(f"Exporting data for state: {state}")
     data_json1 = fetch_usda_markets(apikey, state, market_type)
     data_df1 =  pd.DataFrame.from_dict(data_json1)
+
     market_type = "onfarmmarket"
     data_json2 = fetch_usda_markets(apikey, state, market_type)
     data_df2 =  pd.DataFrame.from_dict(data_json2)
+    # print(data_json1)
 
     data_merge = pd.concat([data_df1, data_df2], ignore_index=True)
 
     data_merge = update_column_names(data_merge)
+     # Split the Tags column into Dates and Products, and clean the data.
+    data_merge = split_tags_column(data_merge)  
     
+    # Clean the Name column to convert all-caps to title case and replace 'L.L.C.' with 'LLC'.
+    data_merge = clean_name_column(data_merge)
     return data_merge
 
 def export_all_states():
@@ -121,7 +170,12 @@ def export_all_states():
                 print("exporting state:", curr_state_dir )
                 os.mkdir(curr_state_dir)
             data_merged = export_data(state)
+            #save farmersmarket files
             file_name = os.path.join(curr_state_dir,state.lower()+"-farmfresh")
+            data_merged.to_csv(file_name+".csv")
+            data_merged.to_json(file_name+".json")
+            #save onfarmmarket files
+            file_name = os.path.join(curr_state_dir,state.lower()+"-onfarm")
             data_merged.to_csv(file_name+".csv")
             data_merged.to_json(file_name+".json")
 
@@ -139,17 +193,5 @@ if __name__=="__main__":
 
     export_all_states()
 
-    # market_type = sys.argv[1]
-    # state =  sys.argv[2]
-    # output_file =  sys.argv[3]
-    # apikey="UXLbsdPdCU"
-    # data_json = fetch_usda_markets(apikey, state, market_type)
-    # str_data = json.dumps(data_json,indent=2)
-    # with open(output_file, mode="w") as f:
-    #     f.write(str_data)
-
-    # df = pd.DataFrame.from_dict(data_json)
-    # output_file_csv = output_file.split(".")[0] + ".csv"
-    # df.to_csv(output_file_csv)
 
 
