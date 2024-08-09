@@ -48,11 +48,8 @@ def fetch_usda_markets(api_key, state, market_type="farmersmarket"):
     if response.status_code == 200:
         data = response.json()
         data_json = data
-        # Process the data (example: print it)
-        # print(json.dumps(data, indent=2))
-        # logger.info("Successfully fetched data from USDA API")
+        
     else:
-        #print(f"Failed to fetch data: {response.status_code}")
         logger.error(f"Failed to fetch data: {response.status_code}")
         return {}
     return data_json["data"]
@@ -122,8 +119,8 @@ def clean_name_column(data_df):
 def export_data(state):
     
     try:
-        apikey="UXLbsdPdCU"
-        # apikey = os.environ["USDA_FARMFRESH_API"]
+        # apikey="UXLbsdPdCU"
+        apikey = os.environ["USDA_FARMFRESH_API"]
         # print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
