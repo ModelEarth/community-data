@@ -1,0 +1,107 @@
+data:
+- Address: 170 Canderlero Dr, Humacao, Puerto Rico 00791
+  Blog: null
+  City: Humacao
+  ContactEmail: Jennifer@GrowingPR.com
+  ContactName: Jennifer Morrow
+  ContactPhone: 787-465-8805
+  Dates: Year-round
+  Description: null
+  Facebook: https://www.facebook.com/PalmasFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '18.088831'
+  ListingID: '301622'
+  Longitude: '-65.797119'
+  ModifyDate: Dec 15th, 2021
+  Name: Palmas Farmers Market
+  Pinterest: null
+  Products:
+  - Fresh fruits
+  - Fresh vegetables
+  - Baked goods
+  - Bedding plants
+  - Canned or preserved fruits/vegetables
+  - Coffee/tea
+  - Crafts/woodworking items
+  - Cut flowers
+  - Dairy products.
+  - Eggs
+  - Fish/seafood
+  - Fresh/dried herbs
+  - Honey
+  - Juices/non-alcoholic ciders
+  - Mushrooms
+  - Pet food
+  - Poultry/fowl meat and products
+  - Prepared foods
+  - Red/other non-poultry meat and products
+  - Soap/body care products
+  - Tofu/non-animal protein
+  - Wild harvested forest products
+  - Wine, spirits, beer, hard cider
+  State: Puerto Rico
+  Street: 170 Canderlero Dr
+  Twitter: https://twitter.com/wegrowpr
+  Type: farmers market
+  Website: https://palmasfarmersmarket.com/
+  Youtube: null
+  Zip: 00791
+- Address: Carolina, Puerto Rico 00979
+  Blog: null
+  City: Carolina
+  ContactEmail: lamercadoagricola@gmail.com
+  ContactName: Rowin
+  ContactPhone: '7812676312'
+  Dates: Year-round
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '18.431395'
+  ListingID: '301360'
+  Longitude: '-66.011273'
+  ModifyDate: Dec 24th, 2020
+  Name: L. A Mercado Agricola
+  Pinterest: null
+  Products:
+  - Fresh vegetables
+  - Baked goods
+  - Coffee/tea
+  - Cut flowers
+  - Eggs
+  - Honey
+  - Juices/non-alcoholic ciders
+  - Nursery stock
+  State: Puerto Rico
+  Street: null
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: 00979
+- Address: Carretera 779 KM 8.9, Barranquitas , Puerto Rico 00794
+  Blog: null
+  City: Barranquitas
+  ContactEmail: jtorresortiz1@gmail.com
+  ContactName: Jose Torres
+  ContactPhone: 954-554-1429
+  Dates: .nan
+  Description: null
+  Facebook: SweetWater Vertical Farm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '18.243352'
+  ListingID: '701340'
+  Longitude: '-66.269690'
+  ModifyDate: May 25th, 2016
+  Name: SweetWater Vertical Farm
+  Pinterest: null
+  Products: []
+  State: Puerto Rico
+  Street: Carretera 779 KM 8.9
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: 00794

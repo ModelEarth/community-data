@@ -1,0 +1,1753 @@
+data:
+- Address: 115 S Main Street , Wagoner , Oklahoma 74467
+  Blog: null
+  City: Wagoner
+  ContactEmail: wagonermarket@gmail.com
+  ContactName: Carol Jones
+  ContactPhone: 918-844-5493
+  Dates: April to October
+  Description: null
+  Facebook: '@wagonermarket'
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.963528'
+  ListingID: '301545'
+  Longitude: '-95.379596'
+  ModifyDate: Jun 23rd, 2021
+  Name: Wagoner Farmers Market
+  Pinterest: null
+  Products:
+  - Fresh fruits
+  - Fresh vegetables
+  - Baked goods
+  - Canned or preserved fruits/vegetables
+  - Crafts/woodworking items
+  - Cut flowers
+  - Dairy products.
+  - Eggs
+  - Honey
+  - Mushrooms
+  - Prepared foods
+  - Red/other non-poultry meat and products
+  - Soap/body care products
+  - Wild harvested forest products
+  - Wine, spirits, beer, hard cider
+  State: Oklahoma
+  Street: 115 S Main Street
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74467'
+- Address: 3100 N Walker Ave, Oklahoma City, Oklahoma 73103
+  Blog: null
+  City: Oklahoma City
+  ContactEmail: paseofarmersmarket@gmail.com
+  ContactName: Megan Sisco
+  ContactPhone: 405-476-8932
+  Dates: Year-round
+  Description: null
+  Facebook: paseofarmersmkt
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.501891'
+  ListingID: '301145'
+  Longitude: '-97.524820'
+  ModifyDate: Jun 25th, 2020
+  Name: Paseo Farmers Market
+  Pinterest: null
+  Products:
+  - Fresh fruits
+  - Fresh vegetables
+  - Baked goods
+  - Bedding plants
+  - Canned or preserved fruits/vegetables
+  - Coffee/tea
+  - Crafts/woodworking items
+  - Cut flowers
+  - Dairy products.
+  - Eggs
+  - Fresh/dried herbs
+  - Honey
+  - Mushrooms
+  - Nursery stock
+  - Nuts
+  - Poultry/fowl meat and products
+  - Prepared foods
+  - Red/other non-poultry meat and products
+  - Soap/body care products
+  - Wine, spirits, beer, hard cider
+  State: Oklahoma
+  Street: 3100 N Walker Ave
+  Twitter: null
+  Type: farmers market
+  Website: www.paseofarmersmarket.com
+  Youtube: null
+  Zip: '73103'
+- Address: 50 W. Dawes Bixby, OK 74008 Located at the newly renovated Charley Young
+    Event Park between Dawes and Breckenridge in Downtown Bixby, OK.
+  Blog: null
+  City: BIXBY
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.94236437904529'
+  ListingID: '312369'
+  Longitude: '-95.88386898519266'
+  ModifyDate: Mar 27th, 2023
+  Name: Bixby Farmer's Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 50 W DAWES AVE
+  Twitter: null
+  Type: farmers market
+  Website: http://www.bixbyfarmersmarket.com
+  Youtube: null
+  Zip: '74008'
+- Address: 7050 Slaughterville Rd., Slaughterville, OK, 73051
+  Blog: null
+  City: Slaughterville
+  ContactEmail: CanadianRiverWinery@gmail.com
+  ContactName: null
+  ContactPhone: 405-872-5565
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.08738575386908'
+  ListingID: '312370'
+  Longitude: '-97.33817335979067'
+  ModifyDate: Mar 27th, 2023
+  Name: Canadian River Farmstand & Community Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 7050 Slaughterville Rd.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.canadianriverwinery.net/farmstand---community-market.html
+  Youtube: null
+  Zip: '73051'
+- Address: 116 S. Main St., Cashion, OK, 73016
+  Blog: null
+  City: Cashion
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-433-2243
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.798626013419764'
+  ListingID: '312371'
+  Longitude: '-97.6790616764433'
+  ModifyDate: Mar 27th, 2023
+  Name: Cashion Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 116 S. Main St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73016'
+- Address: 121 E. Main St., Cherokee, OK, 73728
+  Blog: null
+  City: Cherokee
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 580-596-6111
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.757784747502825'
+  ListingID: '312372'
+  Longitude: '-98.35686004816043'
+  ModifyDate: Mar 27th, 2023
+  Name: Cherokee Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 121 E. Main St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.cherokeemainstreet.org/menu/
+  Youtube: null
+  Zip: '73728'
+- Address: 1327 E. 15th St. , The Cherry Street District, Tulsa, OK, 74120
+  Blog: null
+  City: Tulsa
+  ContactEmail: info@tulsafarmersmarket.org
+  ContactName: null
+  ContactPhone: 918-789-3881
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/cherrystreetfarmersmarketassociation
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.14065728691063'
+  ListingID: '312373'
+  Longitude: '-95.9742628746402'
+  ModifyDate: Mar 27th, 2023
+  Name: Cherry Street Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1327 E. 15th St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.cherrystreetfarmersmarket.com
+  Youtube: null
+  Zip: '74120'
+- Address: 301 S. Howard, Moore, OK, 73160
+  Blog: null
+  City: Moore
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-793-5090
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.33646345569217'
+  ListingID: '312374'
+  Longitude: '-97.48836398182277'
+  ModifyDate: Mar 27th, 2023
+  Name: City of Moore Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 301 S. Howard
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73160'
+- Address: 200 S. Lynn Riggs Blvd., Claremore, OK, 74017
+  Blog: null
+  City: Claremore
+  ContactEmail: mcw352@netzero.com
+  ContactName: null
+  ContactPhone: 918-284-4668
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/ClaremoreFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.3106978193351'
+  ListingID: '312375'
+  Longitude: '-95.61715503423794'
+  ModifyDate: Mar 27th, 2023
+  Name: Claremore Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 200 S. Lynn Riggs Blvd.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74017'
+- Address: 101 E. Pawnee, Cleveland, OK, 74020
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-358-2131
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.31008968971088'
+  ListingID: '312376'
+  Longitude: '-96.46325574973578'
+  ModifyDate: Mar 27th, 2023
+  Name: Cleveland Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 101 E. Pawnee
+  Twitter: null
+  Type: farmers market
+  Website: http://www.chamberofclevelandok.com/
+  Youtube: null
+  Zip: '74020'
+- Address: 4901 N. Kickapoo St., Shawnee Mall, Shawnee, OK, 74804
+  Blog: null
+  City: Shawnee
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-863-3580
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/countrygalsfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.380356353486114'
+  ListingID: '312377'
+  Longitude: '-96.92977769514624'
+  ModifyDate: Mar 27th, 2023
+  Name: Country Gals Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 4901 N. Kickapoo St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74804'
+- Address: 1407 Bell Creek Dr., Cushing, OK, 74023
+  Blog: null
+  City: Cushing
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-399-3480
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.96717336135304'
+  ListingID: '312378'
+  Longitude: '-96.75156297867254'
+  ModifyDate: Mar 27th, 2023
+  Name: Cushing Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1407 Bell Creek Dr.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.downtowncushing.com
+  Youtube: null
+  Zip: '74023'
+- Address: 102 W. Harrison Ave., Guthrie, OK, 73044
+  Blog: null
+  City: Guthrie
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-282-1947
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/GuthrieFarmersMarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.87699388411591'
+  ListingID: '312379'
+  Longitude: '-97.42546713472706'
+  ModifyDate: Mar 27th, 2023
+  Name: Guthrie Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 102 W. Harrison Ave.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73044'
+- Address: 106 W 4th Hobart, OK 73651
+  Blog: null
+  City: HOBART
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 580-726-4206
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.02447683686794'
+  ListingID: '312380'
+  Longitude: '-99.093340778326'
+  ModifyDate: Mar 27th, 2023
+  Name: Hobart Main Street Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 106 W 4TH ST
+  Twitter: null
+  Type: farmers market
+  Website: http://www.hobartok.com
+  Youtube: null
+  Zip: '73651'
+- Address: 1509 E. Kirk St., Between DHS and Boys & Girls Club, Hugo, OK, 74743
+  Blog: null
+  City: Hugo
+  ContactEmail: hugofarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 580-326-6441x245
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/HugoFarmersMarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.01162190036825'
+  ListingID: '312381'
+  Longitude: '-95.49200337767992'
+  ModifyDate: Mar 27th, 2023
+  Name: Hugo Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1509 E. Kirk St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74743'
+- Address: 108-B North Central, Main Street Idabel, OK 74745
+  Blog: null
+  City: IDABEL
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-286-3305
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '33.895118982619444'
+  ListingID: '312382'
+  Longitude: '-94.82798792377577'
+  ModifyDate: Mar 27th, 2023
+  Name: Idabel Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 108 N CENTRAL AVE
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74745'
+- Address: 301 E. Main St., Jenks, OK, 74037
+  Blog: null
+  City: Jenks
+  ContactEmail: deanna@villageonmain.com
+  ContactName: null
+  ContactPhone: 918-629-9495
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.02257560935167'
+  ListingID: '312383'
+  Longitude: '-95.96579016517032'
+  ModifyDate: Mar 27th, 2023
+  Name: Jenks Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 301 E. Main St.
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/JenksSaturdayMarket/timeline?ref=page_internal
+  Youtube: null
+  Zip: '74037'
+- Address: 207 N. Kemp, Tishomingo, OK, 73460
+  Blog: null
+  City: Tishomingo
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 580-371-5604
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.23687677918054'
+  ListingID: '312384'
+  Longitude: '-96.6785373278902'
+  ModifyDate: Mar 27th, 2023
+  Name: Johnston County Farmers' Market in Tishomingo
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 207 N. Kemp
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73460'
+- Address: 229 W. Main, Wilburton, OK, 74578
+  Blog: null
+  City: Wilburton
+  ContactEmail: mainstreetwilburton@yahoo.com
+  ContactName: null
+  ContactPhone: 918-465-2254
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.91871432787904'
+  ListingID: '312385'
+  Longitude: '-95.31219120460995'
+  ModifyDate: Mar 27th, 2023
+  Name: Latimer County Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 229 W. Main
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74578'
+- Address: 920 SW Sheridan Rd Lawton, OK 73505
+  Blog: null
+  City: LAWTON
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.618682304448946'
+  ListingID: '312386'
+  Longitude: '-98.42238990015548'
+  ModifyDate: Mar 27th, 2023
+  Name: Lawton Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 920 NW SHERIDAN RD
+  Twitter: null
+  Type: farmers market
+  Website: http://swokgrowers.org/
+  Youtube: null
+  Zip: '73505'
+- Address: 9104 SE 15th St., Midwest City, OK, 73130
+  Blog: null
+  City: Midwest City
+  ContactEmail: okgrown@gmail.com
+  ContactName: null
+  ContactPhone: 405-818-1962
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/mwcfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.44964075504315'
+  ListingID: '312387'
+  Longitude: '-97.36913855173432'
+  ModifyDate: Mar 27th, 2023
+  Name: Midwest City Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 9104 SE 15th St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73130'
+- Address: 425 Boston Ave., Civic Center, Muskogee, OK, 74401
+  Blog: null
+  City: Muskogee
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-487-5474
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.74845401128258'
+  ListingID: '312388'
+  Longitude: '-95.37330813117984'
+  ModifyDate: Mar 27th, 2023
+  Name: Muskogee Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 425 Boston Ave.
+  Twitter: null
+  Type: farmers market
+  Website: http://muskogeefarmersmarket.com/
+  Youtube: null
+  Zip: '74401'
+- Address: 304 S. Main Hwy. 77, Noble, OK, 73068
+  Blog: null
+  City: Noble
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-872-0100
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.135546930829626'
+  ListingID: '312389'
+  Longitude: '-97.39462521045577'
+  ModifyDate: Mar 27th, 2023
+  Name: Noble Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 304 S. Main Hwy. 77
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '73068'
+- Address: 615 E Robinson St, Norman, OK, 73071
+  Blog: null
+  City: Norman
+  ContactEmail: info@clevelandcountyfair.org
+  ContactName: null
+  ContactPhone: 405-360-4721
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.23285517492661'
+  ListingID: '312390'
+  Longitude: '-97.43793770980335'
+  ModifyDate: Mar 27th, 2023
+  Name: Norman Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 615 E Robinson St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.clevelandcountyfair.org/
+  Youtube: null
+  Zip: '73071'
+- Address: 3727 E. Apache St., Tulsa, OK, 74115
+  Blog: null
+  City: Tulsa
+  ContactEmail: newfars777@aol.com
+  ContactName: null
+  ContactPhone: 918-955-8559
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/NorthTulsaFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.191579992611715'
+  ListingID: '312391'
+  Longitude: '-95.93604505170681'
+  ModifyDate: Mar 27th, 2023
+  Name: North Tulsa Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 3727 E. Apache St.
+  Twitter: null
+  Type: farmers market
+  Website: http://northtulsafarmersmarket.intuitwebsites.com/
+  Youtube: null
+  Zip: '74115'
+- Address: 329 S. Ash St., Orscheln Parking Lot, Nowata, OK, 74048
+  Blog: null
+  City: Nowata
+  ContactEmail: NowataFarmersMarket@gmail.com
+  ContactName: null
+  ContactPhone: 918-559-7090
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Nowata-Farmers-Market-132486320231963
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.697342876822105'
+  ListingID: '312392'
+  Longitude: '-95.62961047039694'
+  ModifyDate: Mar 27th, 2023
+  Name: Nowata Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 329 S. Ash St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74048'
+- Address: 311 S. Klein Ave., Oklahoma City, OK, 73108
+  Blog: null
+  City: Oklahoma City
+  ContactEmail: katiek@okcfarmersmarket.com
+  ContactName: null
+  ContactPhone: 405-232-6506
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/okcfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.46315634488667'
+  ListingID: '312393'
+  Longitude: '-97.53273022904555'
+  ModifyDate: Mar 27th, 2023
+  Name: Oklahoma City Farmers' Public Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 311 S. Klein Ave.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.okcfarmersmarket.com/index.html
+  Youtube: null
+  Zip: '73108'
+- Address: 220 Dewey Avenue Poteau, OK 74953 Located in the heart of Downtown Poteau.
+    Parking is on street.
+  Blog: null
+  City: POTEAU
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-647-8648
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/PoteauFarmersMarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.05202280143748'
+  ListingID: '312394'
+  Longitude: '-94.62149970203282'
+  ModifyDate: Mar 27th, 2023
+  Name: Old Town Poteau Farmer's Market, Craft Fair
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 220 DEWEY AVE
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74953'
+- Address: 202 E. Rogers, Skiatook, OK, 74070
+  Blog: null
+  City: Skiatook
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-384-8835
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.36854634776969'
+  ListingID: '312395'
+  Longitude: '-95.99992017474419'
+  ModifyDate: Mar 27th, 2023
+  Name: Osage Hills Farmers' Market in Skiatook
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 202 E. Rogers
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74070'
+- Address: 423 Main Street Between Courthouse & Park 423 Main Street Osborne, KS 67473
+  Blog: null
+  City: KANSAS
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 785-984-2320
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.20909406008447'
+  ListingID: '312396'
+  Longitude: '-94.80222100684935'
+  ModifyDate: Mar 27th, 2023
+  Name: Osborne Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 423 MAIN ST
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74347'
+- Address: 400 N. Portland Ave. Oklahoma City, OK 73107
+  Blog: null
+  City: OKLAHOMA CITY
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-945-3326
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/osuokcfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.47178378955144'
+  ListingID: '312397'
+  Longitude: '-97.58332808681021'
+  ModifyDate: Mar 27th, 2023
+  Name: OSU-OKC Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 400 N PORTLAND AVE
+  Twitter: null
+  Type: farmers market
+  Website: http://www.osuokc.edu/farmersmarket
+  Youtube: null
+  Zip: '73107'
+- Address: 4502 E 41st ST Tulsa, OK 74135
+  Blog: null
+  City: TULSA
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-619-4817
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.10432764863885'
+  ListingID: '312398'
+  Longitude: '-95.92677205530987'
+  ModifyDate: Mar 27th, 2023
+  Name: OU-Tulsa Farmers Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 4502 E 41ST ST
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74135'
+- Address: 8300 N. Owasso Expy., Owasso, OK, 74055
+  Blog: null
+  City: Owasso
+  ContactEmail: leeann@theowassofarmersmarket.com
+  ContactName: null
+  ContactPhone: 918-629-7223
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/Owasso.Farmers.Marke
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.27556111687816'
+  ListingID: '312399'
+  Longitude: '-95.84840540388063'
+  ModifyDate: Mar 27th, 2023
+  Name: Owasso Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 8300 N. Owasso Expy.
+  Twitter: null
+  Type: farmers market
+  Website: eowassofarmersmarket.com
+  Youtube: null
+  Zip: '74055'
+- Address: 701 Monument Rd., Pioneer Woman Museum, Ponca City, OK, 74604
+  Blog: null
+  City: Ponca City
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 580-761-2665
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Ponca-City-Farmers-Market/643528455659797
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.71060159818491'
+  ListingID: '312400'
+  Longitude: '-97.06548953741371'
+  ModifyDate: Mar 27th, 2023
+  Name: Ponca City Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 701 Monument Rd.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74604'
+- Address: 2321 N. Broadway, Shawnee, OK, 74804
+  Blog: null
+  City: Shawnee
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-830-8109
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.35765912200965'
+  ListingID: '312401'
+  Longitude: '-96.92382354577613'
+  ModifyDate: Mar 27th, 2023
+  Name: Pottawatomie County Farmers' Cooperative Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 2321 N. Broadway
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74804'
+- Address: 101 E. Broadway St., Sand Springs, OK, 74063
+  Blog: null
+  City: Sand Springs
+  ContactEmail: cook4fun1962@aol.com
+  ContactName: null
+  ContactPhone: 918-245-2884
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/sandspringsfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.139654118773386'
+  ListingID: '312402'
+  Longitude: '-96.10880337854432'
+  ModifyDate: Mar 27th, 2023
+  Name: Sand Springs Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 101 E. Broadway St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.sandspringsok.org/ssfm
+  Youtube: null
+  Zip: '74063'
+- Address: 910 W. Wrangler Blvd., Seminole United Methodist church parking lot, Seminole,
+    OK, 74868
+  Blog: null
+  City: Seminole
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-588-2051
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Seminolefarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.24662080900612'
+  ListingID: '312403'
+  Longitude: '-96.68044867753271'
+  ModifyDate: Mar 27th, 2023
+  Name: Seminole County Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 910 W. Wrangler Blvd.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74868'
+- Address: 600 S. Adams St., Stillwater, OK, 74074
+  Blog: null
+  City: Stillwater
+  ContactEmail: marketmanager@stillwaterfarmersmarket.com
+  ContactName: null
+  ContactPhone: 405-466-2279
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/stillwaterfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.115764319375415'
+  ListingID: '312404'
+  Longitude: '-97.07252531198331'
+  ModifyDate: Mar 27th, 2023
+  Name: Stillwater Medical Center Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 600 S. Adams St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.stillwaterfarmersmarket.com
+  Youtube: null
+  Zip: '74074'
+- Address: 619 N. Perkins Rd., Pioneer Square Mall Parking Lot, Stillwater, OK, 74075
+  Blog: null
+  City: Stillwater
+  ContactEmail: marketmanager@stillwaterfarmersmarket.com
+  ContactName: null
+  ContactPhone: 405-466-2279
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/stillwaterfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.128946680665045'
+  ListingID: '312405'
+  Longitude: '-97.05144835974083'
+  ModifyDate: Mar 27th, 2023
+  Name: Stillwater Pioneer Square Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 619 N. Perkins Rd.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.stillwaterfarmersmarket.com
+  Youtube: null
+  Zip: '74075'
+- Address: 309 N. Main St., Stillwater, OK, 74075
+  Blog: null
+  City: Stillwater
+  ContactEmail: marketmanager@stillwaterfarmersmarket.com
+  ContactName: null
+  ContactPhone: 405-466-2279
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/stillwaterfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.12433529060344'
+  ListingID: '312406'
+  Longitude: '-97.05867518852567'
+  ModifyDate: Mar 27th, 2023
+  Name: Stillwater Strickland Park Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 309 N. Main St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.stillwaterfarmersmarket.com
+  Youtube: null
+  Zip: '74075'
+- Address: 7837 E. 51st St., Fontana Shopping Center, Tulsa, OK, 74145
+  Blog: null
+  City: Tulsa
+  ContactEmail: sundaymarket2015@gmail.com
+  ContactName: null
+  ContactPhone: 918-260-3327
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Sundaymarket2015
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.08989113805926'
+  ListingID: '312407'
+  Longitude: '-95.89175600456609'
+  ModifyDate: Mar 27th, 2023
+  Name: Sunday Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 7837 E. 51st St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '74145'
+- Address: 400 2nd St., Talihina, OK, 74571
+  Blog: null
+  City: Talihina
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-429-9925
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Talihina-Farmers-Market-127284840708424
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.75341254002904'
+  ListingID: '312408'
+  Longitude: '-95.04518194840658'
+  ModifyDate: Mar 27th, 2023
+  Name: Talihina Farmers' Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 400 2nd St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.talihinamarket.com/
+  Youtube: null
+  Zip: '74571'
+- Address: 111 E. Brady St., Tulsa, OK, 74103
+  Blog: null
+  City: Tulsa
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-574-2421
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/guthriegreentulsa
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.158787233424846'
+  ListingID: '312409'
+  Longitude: '-95.99229315289382'
+  ModifyDate: Mar 27th, 2023
+  Name: The Market at Guthrie Green
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 111 E. Brady St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.guthriegreen.com
+  Youtube: null
+  Zip: '74103'
+- Address: 106 E. Broadway, Ardmore, OK, 73401
+  Blog: null
+  City: Ardmore
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 405-207-6515
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/marketplacebroadway
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.17403642283183'
+  ListingID: '312410'
+  Longitude: '-97.1269544440344'
+  ModifyDate: Mar 27th, 2023
+  Name: The Market Place on Broadway
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 106 E. Broadway
+  Twitter: null
+  Type: farmers market
+  Website: http://www.ardmoremainstreet.com/
+  Youtube: null
+  Zip: '73401'
+- Address: 125 N. Main St Wagoner, OK 74467
+  Blog: null
+  City: Wagoner
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 918-844-5493
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/wagonermarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.96175298297847'
+  ListingID: '312411'
+  Longitude: '-95.3768213341895'
+  ModifyDate: Mar 27th, 2023
+  Name: Wagoner Farmers Market & Music Inc.
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 125 N. Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://wagonerfarmersmarket.com/
+  Youtube: null
+  Zip: '74467'
+- Address: 1201 N. Mustang Rd., Mustang, OK, 73064
+  Blog: null
+  City: Mustang
+  ContactEmail: WildHorseMarket@gmail.com
+  ContactName: null
+  ContactPhone: 405-818-4721
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/WildhorseGardensAndMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.40355757677881'
+  ListingID: '312412'
+  Longitude: '-97.72457823163401'
+  ModifyDate: Mar 27th, 2023
+  Name: Wildhorse Gardens & Market
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1201 N. Mustang Rd.
+  Twitter: null
+  Type: farmers market
+  Website: http://wildhorsegardensandmarket.org/
+  Youtube: null
+  Zip: '73064'
+- Address: 13th St. and Locust Ave. , Woodward, Oklahoma 73801
+  Blog: null
+  City: Woodward
+  ContactEmail: woodwardfarmersmarket@gmail.com
+  ContactName: Tressie Harzman
+  ContactPhone: 580-256-4594
+  Dates: May to October
+  Description: null
+  Facebook: Woodward Farmers Market Association
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.4314963'
+  ListingID: '300358'
+  Longitude: '-99.395780'
+  ModifyDate: May 19th, 2020
+  Name: Woodward Farmers' Market Association
+  Pinterest: null
+  Products:
+  - Fresh fruits
+  - Fresh vegetables
+  - Baked goods
+  - Bedding plants
+  - Canned or preserved fruits/vegetables
+  - Crafts/woodworking items
+  - Cut flowers
+  - Eggs
+  - Fresh/dried herbs
+  - Honey
+  - Poultry/fowl meat and products
+  - Prepared foods
+  - Red/other non-poultry meat and products
+  - Soap/body care products
+  State: Oklahoma
+  Street: 13th St. and Locust Ave.
+  Twitter: '@wwfarmers'
+  Type: farmers market
+  Website: www.woodwardfarmersmarket.com
+  Youtube: null
+  Zip: '73801'
+- Address: 11714 CR 1690, Roff, Oklahoma 74865
+  Blog: null
+  City: Roff
+  ContactEmail: paulshari@real-ranch.com
+  ContactName: Shari Morrison
+  ContactPhone: 580-777-4799
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/realranch
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.564565'
+  ListingID: '700925'
+  Longitude: '-96.745575'
+  ModifyDate: Aug 25th, 2014
+  Name: Real-Ranch LLC
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 11714 CR 1690
+  Twitter: null
+  Type: on-farm market
+  Website: real-ranch.com
+  Youtube: null
+  Zip: '74865'
+- Address: 32757 Hwy 9, Pink , Oklahoma 74873
+  Blog: null
+  City: Pink
+  ContactEmail: okbelties@gmail.com
+  ContactName: Jason & Linda Fly
+  ContactPhone: (405)-432-8758
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.257996'
+  ListingID: '700950'
+  Longitude: '-97.074740'
+  ModifyDate: Aug 26th, 2014
+  Name: ZaKK Farms; Home of OKBelties
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 32757 Hwy 9
+  Twitter: null
+  Type: on-farm market
+  Website: okbelties.weebly.com
+  Youtube: null
+  Zip: '74873'
+- Address: 1400 Seeley Chapel Rd, Connerville, Oklahoma 74836
+  Blog: null
+  City: Connerville
+  ContactEmail: bassholeofoklahoma@hotmail.com
+  ContactName: Donald Inslee
+  ContactPhone: 580-836-7150
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Inslee-Fish-Farm/123937417683643
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.460187'
+  ListingID: '700976'
+  Longitude: '-96.628693'
+  ModifyDate: Aug 28th, 2014
+  Name: Inslee Fish Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1400 Seeley Chapel Rd
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '74836'
+- Address: 211th Between Harvard & Lewis, Liberty-Mounds, Oklahoma 74047
+  Blog: null
+  City: Liberty-Mounds
+  ContactEmail: endicottfarms@yahoo.com
+  ContactName: Betsy Endicott
+  ContactPhone: 918-344-4582
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.856606'
+  ListingID: '700797'
+  Longitude: '-95.961522'
+  ModifyDate: Aug 2nd, 2014
+  Name: Endicott Farms LLC
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 211th Between Harvard & Lewis
+  Twitter: null
+  Type: on-farm market
+  Website: www.endicottfarms.com
+  Youtube: null
+  Zip: '74047'
+- Address: 16963 CR NS 227, Manitou, Oklahoma 73555
+  Blog: null
+  City: Manitou
+  ContactEmail: redtruckfarm@hotmail.com
+  ContactName: Susan Howell
+  ContactPhone: 580-919-0967
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Red-Truck-Farm-1441855589413794/?ref=bookmarks
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.557891'
+  ListingID: '701364'
+  Longitude: '-98.933473'
+  ModifyDate: Jul 21st, 2016
+  Name: Red Truck Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 16963 CR NS 227
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '73555'
+- Address: 10219 us hwy 177, Stratford, Oklahoma 74872
+  Blog: null
+  City: Stratford
+  ContactEmail: sbergen1@cox.net
+  ContactName: null
+  ContactPhone: 405-650-0804
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.860704'
+  ListingID: '700559'
+  Longitude: '-96.966834'
+  ModifyDate: Jul 26th, 2014
+  Name: Peach Crest Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 10219 us hwy 177
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '74872'
+- Address: 700 Beaty Avenue, Pocola, Oklahoma 74902
+  Blog: null
+  City: Pocola
+  ContactEmail: farmer@wildthingsfarm.com
+  ContactName: Catherine Greene
+  ContactPhone: 918-626-4053
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/pages/Wild-Things-Farm/309163820790
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.303899'
+  ListingID: '700793'
+  Longitude: '-94.446848'
+  ModifyDate: Jul 26th, 2014
+  Name: Wild Things Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 700 Beaty Avenue
+  Twitter: null
+  Type: on-farm market
+  Website: www.wildthingsfarm.com
+  Youtube: null
+  Zip: '74902'
+- Address: 23200 CR 1480, Cyril, Oklahoma 73029
+  Blog: forbiddenfruitsfarm.blogspot.com
+  City: Cyril
+  ContactEmail: alexis.kaiser@gmail.com
+  ContactName: Alexis Kaiser
+  ContactPhone: '4057577670'
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/forbiddenfruitsfarm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.869930'
+  ListingID: '700649'
+  Longitude: '-98.215386'
+  ModifyDate: Jul 27th, 2014
+  Name: Forbidden Fruits Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 23200 CR 1480
+  Twitter: null
+  Type: on-farm market
+  Website: www.forbiddenfruitsfarm.com
+  Youtube: null
+  Zip: '73029'
+- Address: 1010 CS 2930, Tuttle, Oklahoma 73089
+  Blog: null
+  City: Tuttle
+  ContactEmail: tim@chisholmtrailfarm.com
+  ContactName: Tim Boehrer
+  ContactPhone: 405-850-2207
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.245987'
+  ListingID: '700460'
+  Longitude: '-97.777551'
+  ModifyDate: Jul 28th, 2014
+  Name: Chisholm Trail Farm LLC
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 1010 CS 2930
+  Twitter: null
+  Type: on-farm market
+  Website: www.chisholmtrailfarm.com
+  Youtube: null
+  Zip: '73089'
+- Address: 9211 Sloan Rd, Mustang, Oklahoma 73064
+  Blog: null
+  City: Mustang
+  ContactEmail: bobby.sloan@yahoo.com
+  ContactName: Bobby Sloan Jr.
+  ContactPhone: 405-412-4515
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.373981'
+  ListingID: '700544'
+  Longitude: '-97.681934'
+  ModifyDate: Jul 29th, 2014
+  Name: Buffalo Creek Berry Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 9211 Sloan Rd
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '73064'
+- Address: 9211 Sloan Rd., Mustang , Oklahoma 73064
+  Blog: null
+  City: Mustang
+  ContactEmail: bobby.sloan@yahoo.com
+  ContactName: Bobby Sloan
+  ContactPhone: 405-830-8067
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.374633'
+  ListingID: '700798'
+  Longitude: '-97.681907'
+  ModifyDate: Jul 29th, 2014
+  Name: SandStone Spring Vineyard
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 9211 Sloan Rd.
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '73064'
+- Address: 19400 Ne 63rd Street 18499 NE 50th Street, Harrah, Oklahoma 73045
+  Blog: null
+  City: Harrah
+  ContactEmail: winddriftorchards@gmail.com
+  ContactName: Bill Spencer
+  ContactPhone: (405) 454-6618 and (
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Wind-Drift-Orchards/465391816870294
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.535937'
+  ListingID: '700429'
+  Longitude: '-97.186475'
+  ModifyDate: Jul 30th, 2014
+  Name: Wind Drift Orchards
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 19400 Ne 63rd Street 18499 NE 50th Street
+  Twitter: null
+  Type: on-farm market
+  Website: www.winddriftorchards.com
+  Youtube: null
+  Zip: '73045'
+- Address: 12th and Vilas, Guthrie , Oklahoma 73044
+  Blog: null
+  City: Guthrie
+  ContactEmail: Johnny8@cox.net
+  ContactName: Vision Farms
+  ContactPhone: 405-519-3996
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/visionfarms
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.875703'
+  ListingID: '701211'
+  Longitude: '-97.443558'
+  ModifyDate: Mar 2nd, 2015
+  Name: Vision Farms
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 12th and Vilas
+  Twitter: null
+  Type: on-farm market
+  Website: http://vision-farms.org
+  Youtube: null
+  Zip: '73044'
+- Address: 17153 CR 1380, Anadarko, Oklahoma 73005
+  Blog: null
+  City: Anadarko
+  ContactEmail: alexis@woodsandwaterswinery.com
+  ContactName: Alexis Kaiser
+  ContactPhone: 405-757-7670
+  Dates: .nan
+  Description: null
+  Facebook: Facebook.com/woodsandwaters/
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.013603'
+  ListingID: '701393'
+  Longitude: '-98.326276'
+  ModifyDate: Mar 7th, 2017
+  Name: Woods & Waters Winery & Vineyards & Berry Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 17153 CR 1380
+  Twitter: null
+  Type: on-farm market
+  Website: www.woodsandwaterswinery.com
+  Youtube: null
+  Zip: '73005'
+- Address: 53622 W 211th Road S, Depew, Oklahoma 74028
+  Blog: null
+  City: Depew
+  ContactEmail: our800oaksranch@hotmail.com
+  ContactName: Regina Smith
+  ContactPhone: 405-473-6580
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/800-Oaks-Farm-Ranch-362168957769623/?ref=py_c
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.855424'
+  ListingID: '701599'
+  Longitude: '-96.591224'
+  ModifyDate: May 7th, 2021
+  Name: 800 Oaks Farm&Ranch
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 53622 W 211th Road S
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '74028'
+- Address: 7645 N 429 Road, Adair, Oklahoma 74330
+  Blog: null
+  City: Adair
+  ContactEmail: wildrosestrawberryfarm@gmail.com
+  ContactName: null
+  ContactPhone: 918-785-2122
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.418079'
+  ListingID: '700435'
+  Longitude: '-95.368498'
+  ModifyDate: Oct 1st, 2014
+  Name: Wild Rose Strawberry Farm
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 7645 N 429 Road
+  Twitter: null
+  Type: on-farm market
+  Website: wild rose strawberry farm @g mail.com
+  Youtube: null
+  Zip: '74330'
+- Address: 409 N 11th, Thomas, Oklahoma 73669
+  Blog: null
+  City: Thomas
+  ContactEmail: beef@crispin-grassfedbeef.com
+  ContactName: null
+  ContactPhone: 580-661-1637
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.747020'
+  ListingID: '701119'
+  Longitude: '-98.751283'
+  ModifyDate: Oct 6th, 2014
+  Name: Crispin Murray Grey Grass-Fed Beef
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 409 N 11th
+  Twitter: null
+  Type: on-farm market
+  Website: http://crispin-grassfedbeef.com
+  Youtube: null
+  Zip: '73669'
+- Address: 897 Redwood Road, Broken Bow, Oklahoma 74728
+  Blog: null
+  City: Broken Bow
+  ContactEmail: sandy@honeybear-ranch.com
+  ContactName: Sandra Harris
+  ContactPhone: 580-584-6022
+  Dates: .nan
+  Description: null
+  Facebook: HoneyBear Ranch
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '34.054489'
+  ListingID: '700563'
+  Longitude: '-94.774638'
+  ModifyDate: Sep 16th, 2014
+  Name: HoneyBear Ranch
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 897 Redwood Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.honeybear-ranch.com
+  Youtube: null
+  Zip: '74728'
+- Address: 12647 SW 104th Street, Mustang, Oklahoma 73064
+  Blog: null
+  City: Mustang
+  ContactEmail: davidyateswsg@gmail.com
+  ContactName: david yates
+  ContactPhone: 405-863-1016
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.363025'
+  ListingID: '700499'
+  Longitude: '-97.754910'
+  ModifyDate: Sep 17th, 2014
+  Name: Whispering Springs Greenhouse
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 12647 SW 104th Street
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '73064'
+- Address: 7920 W 133 St So, Sapulpa, Oklahoma 74066
+  Blog: null
+  City: Sapulpa
+  ContactEmail: okiedragon@yahoo.com
+  ContactName: null
+  ContactPhone: 918-224-5337
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '35.970830'
+  ListingID: '700612'
+  Longitude: '-96.080329'
+  ModifyDate: Sep 19th, 2014
+  Name: The Peppermint Dragon Herb and Oriental Gardens
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 7920 W 133 St So
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '74066'
+- Address: 5900 N. West Point Road, Glencoe, Oklahoma 74032
+  Blog: null
+  City: Glencoe
+  ContactEmail: sylvia@westpointbeef.com
+  ContactName: SYLVIA K DEWITT
+  ContactPhone: '4057476262'
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/westpointbeef
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '36.183214'
+  ListingID: '701614'
+  Longitude: '-96.855802'
+  ModifyDate: Sep 9th, 2021
+  Name: West Point Beef and Cattle Company, LLC
+  Pinterest: null
+  Products: []
+  State: Oklahoma
+  Street: 5900 N. West Point Road
+  Twitter: null
+  Type: on-farm market
+  Website: https://westpointbeef.com/
+  Youtube: null
+  Zip: '74032'
