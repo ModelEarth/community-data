@@ -81,7 +81,8 @@ def update_column_names(data_df):
         "location_y"        :"Latitude",
         "brief_desc"        :"Tags"    
     }
-    df1 = data_df.rename(columns=columns_map)
+    data_df = data_df.drop(columns=data_df.columns[data_df.columns.str.contains('^Unnamed')])
+    df1 = data_df.rename(columns=columns_map).reset_index(drop=True)
     df1 = df1.drop(columns=['distance', 'mydesc', 'term', 'directory_type'], errors='ignore')
     return df1
 
@@ -100,7 +101,11 @@ def split_tags_column(data_df):
 
         # Extract Products
         products = data_df['Tags'].str.extract(products_pattern, expand=False)
-        data_df['Products'] = products.fillna('').apply(lambda x: [item.strip() for item in x.split(';') if item.strip()])
+        data_df['Products'] = products.fillna('').apply(lambda x: ', '.join([item.strip() for item in x.split(';') if item.strip()]))
+        
+        #remove comment if want to save storage data
+        # products = data_df['Tags'].str.extract(products_pattern, expand=False)
+        # data_df['Products'] = products.fillna('').apply(lambda x: [item.strip() for item in x.split(';') if item.strip()])
 
         # Drop the original Tags column
         data_df = data_df.drop(columns=['Tags'], errors='ignore')
@@ -119,8 +124,8 @@ def clean_name_column(data_df):
 def export_data(state):
     
     try:
-        # apikey="UXLbsdPdCU"
-        apikey = os.environ["USDA_FARMFRESH_API"]
+        apikey="UXLbsdPdCU"
+        # apikey = os.environ["USDA_FARMFRESH_API"]
         # print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
@@ -167,15 +172,18 @@ def export_all_states():
                 print("exporting state:", curr_state_dir )
                 os.mkdir(curr_state_dir)
             data_merged = export_data(state)
+            data_merged.reset_index(drop=True, inplace=True)
             #save farmersmarket files
             file_name = os.path.join(curr_state_dir,state.lower()+"-farmfresh")
-            data_merged.to_csv(file_name+".csv")
-            data_merged.to_json(file_name+".json")
+            data_merged.to_csv(file_name+".csv", index=False)
+            data_merged.to_json(file_name+".json", orient='records')
+            with open(file_name+".yaml", 'w') as file:
+                documents = yaml.dump({'data': data_merged.to_dict(orient='records')}, file, default_flow_style=False)
+
             #save onfarmmarket files
             file_name = os.path.join(curr_state_dir,state.lower()+"-onfarm")
-            data_merged.to_csv(file_name+".csv")
-            data_merged.to_json(file_name+".json")
-
+            data_merged.to_csv(file_name+".csv", index=False)
+            data_merged.to_json(file_name+".json", orient='records')
             with open(file_name+".yaml", 'w') as file:
                 documents = yaml.dump({'data': data_merged.to_dict(orient='records')}, file, default_flow_style=False)
             # data_merged.to_yaml(file_name+".yaml")
