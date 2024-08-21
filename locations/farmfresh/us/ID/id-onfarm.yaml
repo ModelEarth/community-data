@@ -16,30 +16,12 @@ data:
   ModifyDate: Apr 17th, 2022
   Name: Grove Street farmers Market
   Pinterest: ''
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nursery stock (trees)
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nursery stock (trees), Nuts, Pet food, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products, Tofu/non-animal protein
   State: Florida
   Street: 1001 Northwest 4th Street
   Twitter: ''
@@ -65,26 +47,11 @@ data:
   ModifyDate: Aug 25th, 2020
   Name: Delray GreenMarket
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood, Fresh/dried herbs,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Pet food, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products, Wild harvested forest products
   State: Florida
   Street: NE 2nd Avenue, half block east of Atlantic Avenue
   Twitter: null
@@ -109,23 +76,10 @@ data:
   ModifyDate: Aug 31st, 2020
   Name: Main Street DeFuniak Farmer's Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Nursery stock
-  - Pet food
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Dairy products., Dry beans,
+    Eggs, Fish/seafood, Fresh/dried herbs, Honey, Maple products, Nursery stock, Pet
+    food, Soap/body care products
   State: Florida
   Street: Baldwin Avenue between 7th and 8th St.
   Twitter: null
@@ -150,34 +104,13 @@ data:
   ModifyDate: Aug 3rd, 2020
   Name: Yellow Green Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Mushrooms
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
+    Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms, Nursery stock,
+    Nuts, Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products, Tofu/non-animal protein, Wine, spirits,
+    beer, hard cider
   State: Florida
   Street: 1940 North 30th Road
   Twitter: https://twitter.com/ygfarmersmarket
@@ -202,26 +135,11 @@ data:
   ModifyDate: Dec 28th, 2020
   Name: Legion Park Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Pet food
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Pet food, Prepared foods, Red/other non-poultry meat and products,
+    Soap/body care products
   State: Florida
   Street: 6601 Biscayne Blvd
   Twitter: https://twitter.com/urbanoasisproj
@@ -246,25 +164,10 @@ data:
   ModifyDate: Dec 28th, 2020
   Name: South Miami Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nuts
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Eggs, Fish/seafood, Fresh/dried
+    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Mushrooms, Nuts, Prepared
+    foods, Red/other non-poultry meat and products, Soap/body care products
   State: Florida
   Street: 6130 Sunset Dr
   Twitter: null
@@ -289,23 +192,10 @@ data:
   ModifyDate: Dec 28th, 2020
   Name: Market Mondays at the Arsht Center
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Pet food
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Dairy products., Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Pet food, Prepared foods, Red/other non-poultry meat and products,
+    Soap/body care products, Tofu/non-animal protein
   State: Florida
   Street: 1301 Biscayne Blvd
   Twitter: null
@@ -330,21 +220,9 @@ data:
   ModifyDate: Dec 28th, 2020
   Name: Vizcaya Village Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Coffee/tea
-  - Eggs
-  - Fish/seafood
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Pet food
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Coffee/tea, Eggs, Fish/seafood,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Pet food, Prepared foods, Red/other
+    non-poultry meat and products, Soap/body care products, Tofu/non-animal protein
   State: Florida
   Street: 3250 S. Miami Ave
   Twitter: null
@@ -369,25 +247,11 @@ data:
   ModifyDate: Feb 17th, 2021
   Name: Orange Park Farmer's & Arts Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Mushrooms
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Eggs, Fish/seafood,
+    Fresh/dried herbs, Honey, Maple products, Mushrooms, Pet food, Poultry/fowl meat
+    and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Florida
   Street: 2042 Park Ave
   Twitter: null
@@ -412,24 +276,10 @@ data:
   ModifyDate: Feb 9th, 2022
   Name: South Collier Farmer's Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Fish/seafood
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Prepared foods
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Fish/seafood, Honey, Mushrooms, Nuts, Pet food, Prepared foods,
+    Soap/body care products, Wild harvested forest products
   State: Florida
   Street: 6060 Collier Blvd
   Twitter: https://twitter.com/southcollierfm
@@ -454,31 +304,12 @@ data:
   ModifyDate: Jan 25th, 2021
   Name: Pinecrest Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
+    Tofu/non-animal protein
   State: Florida
   Street: 11000 S. Red Road
   Twitter: https://twitter.com/GreenMarket_FL
@@ -503,32 +334,12 @@ data:
   ModifyDate: Jan 25th, 2021
   Name: Cape Coral Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Mushrooms
-  - Nursery stock
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Maple products, Mushrooms, Nursery stock, Pet food, Poultry/fowl meat
+    and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products, Tofu/non-animal protein, Wild harvested forest products
   State: Florida
   Street: SE 47th Terrace & SE 10th Place
   Twitter: null
@@ -553,18 +364,9 @@ data:
   ModifyDate: Jan 4th, 2022
   Name: Circle Square Commons Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Dairy products.
-  - Eggs
-  - Honey
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Dairy products., Eggs, Honey, Poultry/fowl meat and
+    products, Red/other non-poultry meat and products, Soap/body care products
   State: Florida
   Street: 8445 SW 80th Street
   Twitter: null
@@ -589,27 +391,11 @@ data:
   ModifyDate: Jan 5th, 2021
   Name: Union Street Farmers Market @ Celebration Pointe
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nuts, Pet food, Poultry/fowl meat and products, Prepared foods,
+    Red/other non-poultry meat and products
   State: Florida
   Street: 4949 Celebration Pointe Ave
   Twitter: null
@@ -634,13 +420,8 @@ data:
   ModifyDate: Mar 20th, 2020
   Name: Soutel Community Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Canned or preserved fruits/vegetables,
+    Coffee/tea, Prepared foods, Soap/body care products
   State: Florida
   Street: 4750 Soutel Dr
   Twitter: https://twitter.com/SoutelM
@@ -665,7 +446,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Apollo Beach Outdoor Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6176 N. US Hwy. 41
   Twitter: null
@@ -690,7 +471,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Abacoa Town Center Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Town Center Drive
   Twitter: null
@@ -717,7 +498,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alachua Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 14801 MAIN ST
   Twitter: null
@@ -744,7 +525,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alico Crossing Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 17051 JEAN ST
   Twitter: null
@@ -769,7 +550,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alliance for the Arts Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10091 McGregor Blvd.
   Twitter: null
@@ -794,7 +575,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Aventura Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 19501 BISCAYNE BLVD
   Twitter: null
@@ -819,7 +600,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Baker County Farmers' Market, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 160 West Blvd.
   Twitter: null
@@ -844,7 +625,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Battens Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5151 SW 64th Avenue
   Twitter: null
@@ -871,7 +652,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Beach Baptist Farmers Market Fort Myers Beach
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 130 CONNECTICUT ST
   Twitter: null
@@ -896,7 +677,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Beaches Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: A1A and Florida Boulevard
   Twitter: null
@@ -921,7 +702,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Beaches Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1166 3rd Ave. North
   Twitter: null
@@ -947,7 +728,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Boca Raton GreenMarket
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 201 West Palmetto Park Rd
   Twitter: null
@@ -974,7 +755,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bonita Shores Club Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 315 WEST AVE
   Twitter: null
@@ -999,7 +780,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: BTN Lake Nona Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12350 Narcoossee Rd
   Twitter: null
@@ -1024,7 +805,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Butler Plaza Satellite Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3736 SW Archer Road
   Twitter: null
@@ -1049,7 +830,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: C & L Farms and Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 20290 Palm Beach Blvd
   Twitter: null
@@ -1074,7 +855,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Celebration Sunday Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 690 Celebration Avenue
   Twitter: null
@@ -1099,7 +880,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Central Sarasota Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4748 BENEVA RD
   Twitter: null
@@ -1124,7 +905,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: CHC Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7991 SW 117TH AVE
   Twitter: null
@@ -1149,7 +930,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Chiefland Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 23 SE 2 AVE, CHIEAND
   Twitter: null
@@ -1174,7 +955,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Citrus Hills Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 240 W FENWAY DR
   Twitter: null
@@ -1200,7 +981,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: City Island Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 105 E. Orange Ave
   Twitter: null
@@ -1225,7 +1006,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Clearwater Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 500 Block of Cleveland St.
   Twitter: null
@@ -1250,7 +1031,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Clearwater Gateway Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 612 FRANKLIN ST
   Twitter: null
@@ -1275,7 +1056,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Cocoa Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 605 Florida Avenue
   Twitter: null
@@ -1300,7 +1081,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Coconut Grove Organic Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3300 Grand Ave.
   Twitter: null
@@ -1325,7 +1106,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Coconut Point Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 23106 Fashion Dr.
   Twitter: null
@@ -1351,7 +1132,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Collier County Government Complex Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3335 U.S. 41 E.
   Twitter: null
@@ -1376,7 +1157,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Collins Park Sunday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Collins Avenue & 22nd Street
   Twitter: null
@@ -1401,7 +1182,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Coral Gables Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 405 BILTMORE WAY
   Twitter: null
@@ -1426,7 +1207,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Delray Green Market in the Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: SE 4th Avenue & Atlantic Avenue
   Twitter: null
@@ -1451,7 +1232,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Doral Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 9659 NW 41st St.
   Twitter: null
@@ -1476,7 +1257,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Clearwater Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 500 Cleveland St., Downtown
   Twitter: null
@@ -1503,7 +1284,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Dadeland Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7250 N KENDALL DR
   Twitter: null
@@ -1528,7 +1309,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Daytona Beach Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 105 E. Orange Ave
   Twitter: null
@@ -1553,7 +1334,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Farmers' and Produce Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 115 E. Park Ave.
   Twitter: null
@@ -1578,7 +1359,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Farmers' Curb Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 200 N. Kentucky Ave.
   Twitter: null
@@ -1603,7 +1384,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Fernandina Beach Market Place
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1 N 7TH ST
   Twitter: null
@@ -1628,7 +1409,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Fort Walton Beach Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 201 MIRACLE STRIP PKWY
   Twitter: null
@@ -1653,7 +1434,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Kissimmee Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Darlington Avenue and Pleasant Street
   Twitter: null
@@ -1680,7 +1461,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown MarketPlace Tallahassee
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 119 E PARK AVE
   Twitter: null
@@ -1705,7 +1486,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Melbourne Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1900 S. Harbor City Blvd.
   Twitter: null
@@ -1730,7 +1511,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown New Port Richey Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Nebraska Avenue & Adams Street
   Twitter: null
@@ -1755,7 +1536,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Vero Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2140 14th Avenue
   Twitter: null
@@ -1780,7 +1561,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Dunedin Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Main Street and Douglas Avenue
   Twitter: null
@@ -1805,7 +1586,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Eastside Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3725 Apalachee Pkwy.
   Twitter: null
@@ -1830,7 +1611,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Eau Gallie Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Eau Gallie Boulevard and Highland Avenue
   Twitter: null
@@ -1855,7 +1636,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ellenville's Moonlit Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 220 NE 11TH ST
   Twitter: null
@@ -1880,7 +1661,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Evans Center Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1361 ORIDA AVE NE
   Twitter: null
@@ -1905,7 +1686,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers' Market @ Hoover's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1035 Academy Dr., Hoover's Market
   Twitter: null
@@ -1930,7 +1711,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers' Market Oceanside
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Ocean Dr. and Dahlia Ln.
   Twitter: null
@@ -1956,7 +1737,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market of San Marco
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1620 NALDO AVE
   Twitter: null
@@ -1983,7 +1764,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fatto a Mano ArtWalk Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3355 NE 33RD ST
   Twitter: null
@@ -2008,7 +1789,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fellsmere Farmers Market and Mercado
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 22 S ORANGE ST
   Twitter: null
@@ -2033,7 +1814,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fellsmere Fresh Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 32 N. Broadway St.
   Twitter: null
@@ -2058,7 +1839,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fernandina Beach Market Place
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: N. 7th St.
   Twitter: null
@@ -2083,7 +1864,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Festival Bay Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5260 International Drive
   Twitter: null
@@ -2108,7 +1889,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Flagler Beach Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 111 South Central Avenue
   Twitter: null
@@ -2133,7 +1914,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Flamingo Road Nursery and Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1655 S AMINGO RD
   Twitter: null
@@ -2158,7 +1939,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Florida City State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 300 North Krome Avenue
   Twitter: null
@@ -2183,7 +1964,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fort Myers Beach Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2731 Oak St.
   Twitter: null
@@ -2208,7 +1989,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fort Myers Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Heitman and West First Street
   Twitter: null
@@ -2234,7 +2015,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fort Pierce Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 101 Melody Ln.
   Twitter: null
@@ -2259,7 +2040,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fort Pierce State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3479 South Federal Highway 1
   Twitter: null
@@ -2284,7 +2065,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Founders Corner Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 431 Southwest Blvd. N.
   Twitter: null
@@ -2309,7 +2090,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Four Corners Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 9895 N CITRUS AVE
   Twitter: null
@@ -2334,7 +2115,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Frenchtown Heritage Market Place
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Georgia St. & Macomb St.
   Twitter: null
@@ -2359,7 +2140,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fresh Friday Night Farmers' Market & Art
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6231 GRAND BLVD
   Twitter: null
@@ -2384,7 +2165,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fresh Market at Wiregrass
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 28211 Paseo Dr.
   Twitter: null
@@ -2410,7 +2191,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fusion Miami Church Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 16325 SW 288TH ST
   Twitter: null
@@ -2435,7 +2216,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gadsden State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 18212 Blue Star Highway
   Twitter: null
@@ -2460,7 +2241,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Good Neighbors Famers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1101 Lloyds Ln.
   Twitter: null
@@ -2485,7 +2266,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Green Cove Springs Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 825 N Orange Avenue
   Twitter: null
@@ -2510,7 +2291,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Growers' Market at Purple Martin Nurseries, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1554 Crawfordville Highway
   Twitter: null
@@ -2535,7 +2316,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gulfport Tuesday Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3000 Beach Blvd. S.
   Twitter: null
@@ -2560,7 +2341,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Harvest Time Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4361 HYPOLUXO RD
   Twitter: null
@@ -2585,7 +2366,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: '""Health Happens"" Farmers'' Market'
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 601 SE 25th Ave
   Twitter: null
@@ -2610,7 +2391,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Heart of Christmas Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 21310 FORT RD
   Twitter: null
@@ -2635,7 +2416,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hemming Park Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 117 W. Duval St.
   Twitter: null
@@ -2660,7 +2441,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hemming Plaza Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Monroe and North Hogan Streets
   Twitter: null
@@ -2685,7 +2466,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hernando County Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2450 US 19
   Twitter: null
@@ -2710,7 +2491,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Homestead Harvest Market & Cafe
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12690 SW 280 Street
   Twitter: null
@@ -2735,7 +2516,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hunter's Creek Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 13502 TOWN LOOP BLVD
   Twitter: null
@@ -2760,7 +2541,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: immokalee state farmers' market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 424 east new market road
   Twitter: null
@@ -2785,7 +2566,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Indian River Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 455 58TH AVE SW
   Twitter: null
@@ -2810,7 +2591,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Indian Shores Sunday Morning Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 19305 Gulf Blvd.
   Twitter: null
@@ -2835,7 +2616,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Inverness Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 212 W MAIN ST
   Twitter: null
@@ -2860,7 +2641,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jackson County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Madison Street and Jackson Street
   Twitter: null
@@ -2885,7 +2666,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jackson Memorial Foundation Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1611 NW 12th Avenue
   Twitter: null
@@ -2910,7 +2691,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Johnson's Family Flea and Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5800 Ramona Boulevard
   Twitter: null
@@ -2935,7 +2716,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jupiter Green and Artisan Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 150 S. US Hwy. 1
   Twitter: null
@@ -2962,7 +2743,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Kendall Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8789 SW 117TH AVE
   Twitter: null
@@ -2987,7 +2768,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: King Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1021 KING ST
   Twitter: null
@@ -3012,7 +2793,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake DeSoto Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 778 NE Lake DeSoto Circle
   Twitter: null
@@ -3037,7 +2818,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Ella Growers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 229 Lake Ella Dr.
   Twitter: null
@@ -3062,7 +2843,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Wales Downtown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 20 N MARKET ST
   Twitter: null
@@ -3087,7 +2868,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Worth Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1 S Ocean Blvd.
   Twitter: null
@@ -3112,7 +2893,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lakewood Ranch Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Main Street
   Twitter: null
@@ -3137,7 +2918,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lakewood Ranch Outdoor Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11315 Palmbrush Trl.
   Twitter: null
@@ -3162,7 +2943,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Las Olas Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 333 E. Las Olas Blvd.
   Twitter: null
@@ -3187,7 +2968,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Las Olas Outdoor Gourmet Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1201 E Las Olas Boulevard
   Twitter: null
@@ -3212,7 +2993,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Levy County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 401 S.E. 6th Avenue
   Twitter: null
@@ -3237,7 +3018,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lincoln Road Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 730 LINCOLN RD
   Twitter: null
@@ -3262,7 +3043,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Live Oak Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 115 Howard St. W.
   Twitter: null
@@ -3287,7 +3068,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Longleaf Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3101 Town Avenue
   Twitter: null
@@ -3312,7 +3093,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lynn Haven Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 903 OHIO AVE
   Twitter: null
@@ -3337,7 +3118,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: M.O.M.'s Friday Night Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5546 MAIN ST
   Twitter: null
@@ -3362,7 +3143,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mandarin Farmers' Market by the Whole Foods Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10601 San Jose Boulevard
   Twitter: null
@@ -3387,7 +3168,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marco Island Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Park Avenue & Elkcam Circle
   Twitter: null
@@ -3413,7 +3194,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marianna City Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2844 MADISON ST
   Twitter: null
@@ -3438,7 +3219,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marion Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Duval Street and North Marion Ave
   Twitter: null
@@ -3463,7 +3244,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market at Rockledge Gardens
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2153 US Hwy. 1
   Twitter: null
@@ -3488,7 +3269,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market at the Depot in Inverness
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 286 N APOPKA AVE
   Twitter: null
@@ -3513,7 +3294,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market in the Breeze
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 800 Shoreline Dr.
   Twitter: null
@@ -3538,7 +3319,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market In The Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11909 - 125th Street
   Twitter: null
@@ -3563,7 +3344,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mayfair Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2911 Grand Avenue
   Twitter: null
@@ -3588,7 +3369,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: MidTown Farmers Market at Lake Ella
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 229 LAKE ELLA DR
   Twitter: null
@@ -3613,7 +3394,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mid-Week Madeira Beach Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 15004 Madeira Way, FL
   Twitter: null
@@ -3638,7 +3419,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Milton ReStore Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6606 ELVA ST
   Twitter: null
@@ -3663,7 +3444,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Monticello Saturday Main Street Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Pearl & Jefferson Street
   Twitter: null
@@ -3688,7 +3469,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Normandy Village Marketplace
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1025 71ST ST
   Twitter: null
@@ -3713,7 +3494,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oakleaf Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8380 Merchants Way
   Twitter: null
@@ -3738,7 +3519,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oceanside Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: S. Ocean Blvd.
   Twitter: null
@@ -3763,7 +3544,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Okaloosa Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1954 Lewis Turner Blvd.
   Twitter: null
@@ -3788,7 +3569,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old - Town Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5770 Irlo Bronson Memorial Highway
   Twitter: null
@@ -3813,7 +3594,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Miakka Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1620 MYAKKA RD
   Twitter: null
@@ -3838,7 +3619,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oldsmar Downtown Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 100 State Street West
   Twitter: null
@@ -3863,7 +3644,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Orange City Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 205 E. Graves Ave., Dickinson Park
   Twitter: null
@@ -3888,7 +3669,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Orlando Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 195 N ROSALIND AVE
   Twitter: null
@@ -3913,7 +3694,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Orlando Farmers Market at Lake Eola
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: E. Central Boulevard and N. Eola Drive
   Twitter: null
@@ -3939,7 +3720,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palafox Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: N. Palafox St. and Wright St.
   Twitter: null
@@ -3964,7 +3745,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palatka Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 111 Yelvington Road East
   Twitter: null
@@ -3989,7 +3770,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palatka State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 225 U.S. Highway 17, South
   Twitter: null
@@ -4014,7 +3795,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palm Beach Gardens Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11010 N. Military Trl.
   Twitter: null
@@ -4041,7 +3822,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palm City Farms Produce & Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3706 SW CITRUS BLVD
   Twitter: null
@@ -4066,7 +3847,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pensacola Growers' Retail Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4905 N. Palafox Street
   Twitter: null
@@ -4091,7 +3872,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Perry Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 603 S. Jefferson St.
   Twitter: null
@@ -4116,7 +3897,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plant City Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 708 W SAM ALLEN RD
   Twitter: null
@@ -4141,7 +3922,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plant City State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1305 West Dr. Martin Luther King Jr. Blvd
   Twitter: null
@@ -4166,7 +3947,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plantation Community Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12050 W SUNRISE BLVD
   Twitter: null
@@ -4191,7 +3972,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pompano Beach Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Atlantic Blvd. and SE 1st Ave.
   Twitter: null
@@ -4216,7 +3997,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pompano State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1255 West Atlantic Boulevard
   Twitter: null
@@ -4241,7 +4022,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ponte Vedra YMCA Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 170 LANDRUM LN
   Twitter: null
@@ -4266,7 +4047,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Port Orange Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5501 S WILLIAMSON BLVD
   Twitter: null
@@ -4291,7 +4072,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: punta gorda farmers market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 307 taylor street
   Twitter: null
@@ -4316,7 +4097,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Red Hills Online Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 915 RAILROAD AVE
   Twitter: null
@@ -4341,7 +4122,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Riverwalk Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Willing Street
   Twitter: null
@@ -4366,7 +4147,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Salt Air Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 101 Tolstoy Ln.
   Twitter: null
@@ -4391,7 +4172,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: SaltAir Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Port St.
   Twitter: null
@@ -4416,7 +4197,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sanford State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1300-1A South French Avenue
   Twitter: null
@@ -4442,7 +4223,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sanibel Island Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 800 DUNLOP RD
   Twitter: null
@@ -4468,7 +4249,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Santini Farmers Market Ft. Myers Beach
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7205 ESTERO BLVD
   Twitter: null
@@ -4493,7 +4274,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sarasota Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Lemon Avenue and Main Street
   Twitter: null
@@ -4518,7 +4299,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Seaside Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2217 E CO HWY 30A
   Twitter: null
@@ -4543,7 +4324,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Seminole Heights Sunday Morning Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5000 N.Central Ave.
   Twitter: null
@@ -4568,7 +4349,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Shoppes at Vanderbilt Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2355 Vanderbilt Beach Rd.
   Twitter: null
@@ -4594,7 +4375,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Spring Hill Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3021 COMMERCIAL WAY
   Twitter: null
@@ -4619,7 +4400,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: St. Andrews Waterfront Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3151 W 10TH ST
   Twitter: null
@@ -4644,7 +4425,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Starke State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2222 North Temple Highway
   Twitter: null
@@ -4669,7 +4450,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stetson Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 234 E Michigan Ave
   Twitter: null
@@ -4694,7 +4475,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stuart Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 121 SW Flagler Avenue
   Twitter: null
@@ -4719,7 +4500,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sumter County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 524 North Market Boulevard
   Twitter: null
@@ -4744,7 +4525,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Suwannee County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 208 N Ohio Avenue
   Twitter: null
@@ -4769,7 +4550,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Suwannee Valley State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2758 County Road 136
   Twitter: null
@@ -4794,7 +4575,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tampa Bay Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10001 N ARMENIA AVE
   Twitter: null
@@ -4819,7 +4600,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tampa Downtown Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 300 Madison Street
   Twitter: null
@@ -4844,7 +4625,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Taste of the Gardens Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10500 North Military Trail
   Twitter: null
@@ -4870,7 +4651,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Temple Terrace Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11302 N 56TH ST
   Twitter: null
@@ -4895,7 +4676,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Green Marketplace at Adamson Road
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3910 N Highway US 1
   Twitter: null
@@ -4920,7 +4701,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Vilano Beach Sunday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 260 Vilano Road
   Twitter: null
@@ -4945,7 +4726,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Third Street South Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 255 13TH AVE S
   Twitter: null
@@ -4970,7 +4751,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tioga Monday Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 105 SW 128th St.
   Twitter: null
@@ -4995,7 +4776,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Titusville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3550 SOUTH ST
   Twitter: null
@@ -5020,7 +4801,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Trenton Community Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 419 N. Main Street
   Twitter: null
@@ -5045,7 +4826,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tuesday Marketplace
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 208 Ohio Avenue N
   Twitter: null
@@ -5070,7 +4851,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tuesday's Growers Market at Purple Martin Nurseries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1554 HWY
   Twitter: null
@@ -5095,7 +4876,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Union Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 111 East University Avenue
   Twitter: null
@@ -5120,7 +4901,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: University of South Florida Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4202 E FOWLER AVE
   Twitter: null
@@ -5145,7 +4926,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Upper East Side Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5556 N. E. 4th Court
   Twitter: null
@@ -5170,7 +4951,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Upper Eastside Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: NE 66th St. and Biscayne Blvd.
   Twitter: null
@@ -5195,7 +4976,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11001 Southern Blvd.
   Twitter: null
@@ -5220,7 +5001,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village Park Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 13586 S JOHN YOUNG PKWY
   Twitter: null
@@ -5245,7 +5026,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Volusia County Farm Bureau Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3050 E. New York Ave.
   Twitter: null
@@ -5270,7 +5051,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wauchula State Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 535 South 6th Ave
   Twitter: null
@@ -5297,7 +5078,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wednesday Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 101 MELODY LN
   Twitter: null
@@ -5322,7 +5103,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wellington Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12300 Forest Hill Blvd.
   Twitter: null
@@ -5347,7 +5128,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Palm Beach Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 100 N CLEMATIS ST
   Twitter: null
@@ -5372,7 +5153,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Palm Beach Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Narcissus Avenue and Second Street
   Twitter: null
@@ -5397,7 +5178,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: White Springs Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Highway 136 & US 41
   Twitter: null
@@ -5422,7 +5203,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wilton Manors Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2020 Wilton Dr., Hagen Park
   Twitter: null
@@ -5447,7 +5228,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winter Haven Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Third Street NW and Avenue G NW
   Twitter: null
@@ -5472,7 +5253,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winter Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 200 W. New England Ave.
   Twitter: null
@@ -5497,7 +5278,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Woolbright Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 141 W WOOLBRIGHT RD
   Twitter: null
@@ -5522,7 +5303,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ybor City Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1800 E. 8th Ave.
   Twitter: null
@@ -5547,7 +5328,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ybor City Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: Eighth Avenue and 19th Street
   Twitter: null
@@ -5572,18 +5353,9 @@ data:
   ModifyDate: Mar 31st, 2022
   Name: Koreshan State Park Farmers Market
   Pinterest: ''
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Pet food
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Honey, Juices/non-alcoholic ciders, Pet
+    food, Prepared foods, Soap/body care products
   State: Florida
   Street: 3800 Corkscrew Road
   Twitter: ''
@@ -5608,29 +5380,11 @@ data:
   ModifyDate: Sep 11th, 2020
   Name: Airport Farmers and Flea Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Prepared foods
-  - Soap/body care products
-  - Wild harvested forest products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Maple products, Nursery stock, Nuts, Pet food, Prepared foods, Soap/body
+    care products, Wild harvested forest products, Wine, spirits, beer, hard cider
   State: Florida
   Street: 17375 Spring Hill Dr
   Twitter: null
@@ -5655,23 +5409,11 @@ data:
   ModifyDate: Sep 12th, 2020
   Name: Brooksville Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Nursery stock
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Dairy products., Eggs,
+    Fish/seafood, Fresh/dried herbs, Honey, Nursery stock, Poultry/fowl meat and products,
+    Red/other non-poultry meat and products, Soap/body care products, Tofu/non-animal
+    protein
   State: Florida
   Street: 15487 Citrus Way
   Twitter: twitter.com/HernandoGrowers
@@ -5698,7 +5440,7 @@ data:
   ModifyDate: Apr 12th, 2022
   Name: Momma G Farms
   Pinterest: ''
-  Products: []
+  Products: ''
   State: Florida
   Street: 36815 LESLYE LN
   Twitter: ''
@@ -5723,7 +5465,7 @@ data:
   ModifyDate: Apr 16th, 2019
   Name: Heirloom Country Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 15880 SE 36th Ave
   Twitter: Heirloom Cntry Farms
@@ -5748,7 +5490,7 @@ data:
   ModifyDate: Apr 19th, 2017
   Name: Gray's and Danny's Meat Plant
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 29513 US Highway 27th Moore Haven, FL
   Twitter: null
@@ -5773,7 +5515,7 @@ data:
   ModifyDate: Apr 27th, 2017
   Name: Wingspread Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3003 Pearson Road
   Twitter: null
@@ -5800,7 +5542,7 @@ data:
   ModifyDate: Apr 27th, 2022
   Name: Rooney's Front Porch Farm
   Pinterest: ''
-  Products: []
+  Products: ''
   State: Florida
   Street: 8611 47th Drive
   Twitter: ''
@@ -5825,7 +5567,7 @@ data:
   ModifyDate: Apr 8th, 2015
   Name: D&K Upick Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1615 U.s. Highway 92 East
   Twitter: null
@@ -5850,7 +5592,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Carlton Myers Nursery and Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 14451 NE County Road 339
   Twitter: null
@@ -5875,7 +5617,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Rebman Farms Llc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3604 Barjar Place
   Twitter: null
@@ -5900,7 +5642,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Heart of Christmas Farms LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 21310 Fort Christmas Rd
   Twitter: null
@@ -5925,7 +5667,7 @@ data:
   ModifyDate: Aug 14th, 2014
   Name: Aquaponic Lynx LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8748 Guava St
   Twitter: null
@@ -5950,7 +5692,7 @@ data:
   ModifyDate: Aug 1st, 2014
   Name: Beasley Farm of Brooksville
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10137 Preston Rd. just off Mondon Hill Road
   Twitter: null
@@ -5975,7 +5717,7 @@ data:
   ModifyDate: Aug 21st, 2014
   Name: Jonesville Persimmons
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 17010 West Newberry Road
   Twitter: null
@@ -6000,7 +5742,7 @@ data:
   ModifyDate: Aug 22nd, 2014
   Name: Liberty Farms of Florida
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4540 Corey Road
   Twitter: null
@@ -6025,7 +5767,7 @@ data:
   ModifyDate: Aug 22nd, 2014
   Name: South Moon Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 15912 S County Road 325
   Twitter: null
@@ -6050,7 +5792,7 @@ data:
   ModifyDate: Aug 24th, 2014
   Name: Hancock Groves
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 31107 Blanton Road
   Twitter: null
@@ -6075,7 +5817,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: Bender's Tropical Grove
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 14800 sw 31st ct
   Twitter: https://www.twitter.com/bendersgrove
@@ -6100,7 +5842,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: The Farmers Market at Flamingo Road Nursery
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1655 Flamingo Road
   Twitter: null
@@ -6125,7 +5867,7 @@ data:
   ModifyDate: Aug 28th, 2014
   Name: Hiamonee Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 13170 N. Meridian Rd.
   Twitter: null
@@ -6150,7 +5892,7 @@ data:
   ModifyDate: Aug 31st, 2014
   Name: Meadors Blueberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3685 Orlando Avenue
   Twitter: null
@@ -6175,7 +5917,7 @@ data:
   ModifyDate: Aug 3rd, 2014
   Name: Shockley Springs Blueberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7097 Old River Road
   Twitter: null
@@ -6200,7 +5942,7 @@ data:
   ModifyDate: Aug 7th, 2014
   Name: Persimmony Snickets, LLC.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 102 Palm Beach St
   Twitter: https://www.twitter.com/PSnickets
@@ -6225,7 +5967,7 @@ data:
   ModifyDate: Aug 9th, 2015
   Name: Criswell Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 24 NW 6th Avenue
   Twitter: null
@@ -6250,7 +5992,7 @@ data:
   ModifyDate: Dec 1st, 2014
   Name: Ridge Island Groves, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6000 Polk City Road
   Twitter: null
@@ -6275,7 +6017,7 @@ data:
   ModifyDate: Dec 29th, 2019
   Name: Eden Gardens Jax
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 9179 Garden St
   Twitter: null
@@ -6300,7 +6042,7 @@ data:
   ModifyDate: Feb 10th, 2021
   Name: Redland Forest Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 18575 SW 280th Street
   Twitter: null
@@ -6325,7 +6067,7 @@ data:
   ModifyDate: Feb 21st, 2016
   Name: The Flyin D Ranch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4166 Millside Road
   Twitter: null
@@ -6350,7 +6092,7 @@ data:
   ModifyDate: Feb 21st, 2018
   Name: Southern Hill Farms, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 16651 Schofield Road
   Twitter: www.twitter.com/shfblueberries
@@ -6375,7 +6117,7 @@ data:
   ModifyDate: Feb 3rd, 2021
   Name: The Villages Grown Retail Store
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2666 West Torch Lake Dr
   Twitter: null
@@ -6400,7 +6142,7 @@ data:
   ModifyDate: Jan 27th, 2015
   Name: Bellablue Berry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 43405 State Road 64 East
   Twitter: null
@@ -6425,7 +6167,7 @@ data:
   ModifyDate: Jan 28th, 2019
   Name: Sustainable Seasons Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: null
   Twitter: null
@@ -6450,7 +6192,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Laughing Chicken Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2397 SE 37th Avenue
   Twitter: null
@@ -6475,7 +6217,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Loftus Family Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 15585 NW 29 Street
   Twitter: null
@@ -6500,7 +6242,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: LE Farms LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2763 Caniehead Rd
   Twitter: null
@@ -6525,7 +6267,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Bramble Bush Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 27400 Old Trilby Road
   Twitter: null
@@ -6550,7 +6292,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Genes Patch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6381 Tulip Drive
   Twitter: null
@@ -6575,7 +6317,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Cypress Cattle and Produce
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2980 R.M. Ward Road
   Twitter: null
@@ -6600,7 +6342,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: High Springs Orchard Bakery LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 10804 Nw Sr 45
   Twitter: null
@@ -6625,7 +6367,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: The Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 9050 Corkscrew Road
   Twitter: null
@@ -6650,7 +6392,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Pine Island Botanicals, Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12571 Aubrey Ln
   Twitter: null
@@ -6675,7 +6417,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Osceola Organic Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6980 33rd street
   Twitter: null
@@ -6700,7 +6442,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Hydro Harvest Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1101 Shell Point Rd East
   Twitter: null
@@ -6725,7 +6467,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Goat First Network:Mahan Farms Enterperises
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 16824 Mahan Drive
   Twitter: null
@@ -6750,7 +6492,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Pattys Patch Blueberry Upick
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1320 Hog Wallow Lane SW
   Twitter: null
@@ -6775,7 +6517,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Abshier Blueberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3960 SE 115th Street
   Twitter: null
@@ -6800,7 +6542,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Al and MLiss Grissom
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3261 Endsley Road
   Twitter: null
@@ -6825,7 +6567,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Blueberry Hill Farm Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1522 CR 308
   Twitter: null
@@ -6850,7 +6592,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Windy Hill Vineyard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 14663 Mahan Drive
   Twitter: null
@@ -6875,7 +6617,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Honeyside Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8276 Ibis Street
   Twitter: null
@@ -6900,7 +6642,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: The Back Acres Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8335 240th Street
   Twitter: null
@@ -6925,7 +6667,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: Big Bear Farms, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7606 Kinard Rd.
   Twitter: null
@@ -6950,7 +6692,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: Brads Organic Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 7450 Ne 135th Street
   Twitter: null
@@ -6975,7 +6717,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: Fresh Start Farm Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2331 Red Ember Road
   Twitter: null
@@ -7000,7 +6742,7 @@ data:
   ModifyDate: Jul 30th, 2014
   Name: Colusa Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: null
   Twitter: null
@@ -7025,7 +6767,7 @@ data:
   ModifyDate: Jul 30th, 2014
   Name: Mitillini Vineyards
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 17569 76th Street
   Twitter: null
@@ -7050,7 +6792,7 @@ data:
   ModifyDate: Jul 31st, 2014
   Name: Great Tasting Pigs
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 16323 NW 37 Dr
   Twitter: null
@@ -7075,7 +6817,7 @@ data:
   ModifyDate: Jul 4th, 2015
   Name: Peach Pit Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11106 State Road 674
   Twitter: null
@@ -7100,7 +6842,7 @@ data:
   ModifyDate: Jun 21st, 2016
   Name: Twelve Oaks Community Farms, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5344 White Road
   Twitter: null
@@ -7125,7 +6867,7 @@ data:
   ModifyDate: Jun 8th, 2015
   Name: Stetson Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 234 E Michigan Ave
   Twitter: null
@@ -7150,7 +6892,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Sampson Family Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 17790 96th St.
   Twitter: null
@@ -7175,7 +6917,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Green Meadows Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 177 East Bluebird Road
   Twitter: null
@@ -7200,7 +6942,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Allison Family Farm LLC.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 124 Diamond Lake Lane
   Twitter: null
@@ -7225,7 +6967,7 @@ data:
   ModifyDate: Mar 24th, 2015
   Name: Hardy Farms LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 2102 N Shannon Ave
   Twitter: null
@@ -7250,7 +6992,7 @@ data:
   ModifyDate: Mar 26th, 2015
   Name: The Showcase of Citrus
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5010 Highway 27
   Twitter: null
@@ -7275,7 +7017,7 @@ data:
   ModifyDate: May 1st, 2015
   Name: Sandy Acre Avocado & Mango Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 23515 S.W. 162 Ave
   Twitter: null
@@ -7300,7 +7042,7 @@ data:
   ModifyDate: May 31st, 2015
   Name: Wakulla Berries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 252 Wakulla Springs Road
   Twitter: null
@@ -7325,7 +7067,7 @@ data:
   ModifyDate: May 4th, 2018
   Name: Abundant Gardens
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1211 W. Terrace Dr
   Twitter: null
@@ -7350,7 +7092,7 @@ data:
   ModifyDate: Nov 23rd, 2018
   Name: CoLab Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 12951 SW Paddock Dr
   Twitter: null
@@ -7375,7 +7117,7 @@ data:
   ModifyDate: Nov 29th, 2020
   Name: Naga Gardens
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 3160 D Road
   Twitter: null
@@ -7400,7 +7142,7 @@ data:
   ModifyDate: Nov 3rd, 2014
   Name: Maggies Herb Farm LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 11400 County Road 13N
   Twitter: null
@@ -7425,7 +7167,7 @@ data:
   ModifyDate: Oct 21st, 2014
   Name: Shepperds Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 35622 Braddock Road
   Twitter: null
@@ -7450,7 +7192,7 @@ data:
   ModifyDate: Oct 30th, 2014
   Name: Brown's Country Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 13992 North U.S. 301
   Twitter: null
@@ -7475,7 +7217,7 @@ data:
   ModifyDate: Oct 8th, 2014
   Name: Shadowood Farm, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6220 SW Martin Highway
   Twitter: null
@@ -7500,7 +7242,7 @@ data:
   ModifyDate: Sep 16th, 2014
   Name: Marks Upick Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 18900 County Road  561
   Twitter: null
@@ -7525,7 +7267,7 @@ data:
   ModifyDate: Sep 17th, 2014
   Name: Glovers Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 4612 S. Calhoun Road
   Twitter: null
@@ -7550,7 +7292,7 @@ data:
   ModifyDate: Sep 18th, 2020
   Name: East Fork Creek, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 6901 Hendry Creek Drive
   Twitter: null
@@ -7575,7 +7317,7 @@ data:
   ModifyDate: Sep 19th, 2014
   Name: Tom West Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 324 E. Orlando Avenue
   Twitter: null
@@ -7600,7 +7342,7 @@ data:
   ModifyDate: Sep 23rd, 2014
   Name: Baker U-Pick Blueberries
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 5949 Dairy Road
   Twitter: null
@@ -7625,7 +7367,7 @@ data:
   ModifyDate: Sep 30th, 2014
   Name: Brook Hollow Hydroponics Strawberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 8505 Silver Star Road
   Twitter: null
@@ -7650,7 +7392,7 @@ data:
   ModifyDate: Sep 4th, 2015
   Name: Valley View Vineyards
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 22310 County Road 455
   Twitter: null
@@ -7675,7 +7417,7 @@ data:
   ModifyDate: Sep 6th, 2014
   Name: Tropical Acres Farms Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 1010 Camellia road
   Twitter: null
@@ -7700,7 +7442,7 @@ data:
   ModifyDate: Sep 7th, 2014
   Name: Vo-LaSalle Farms, Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Florida
   Street: 601 Johnson Lake Rd
   Twitter: null

@@ -16,11 +16,8 @@ data:
   ModifyDate: Feb 9th, 2021
   Name: Norfolk Farmers Market
   Pinterest: null
-  Products:
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products, Wine, spirits, beer, hard cider
   State: Connecticut
   Street: 19 Maple Avenue
   Twitter: null
@@ -45,19 +42,10 @@ data:
   ModifyDate: Jan 21st, 2021
   Name: Voluntown Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Eggs, Fresh/dried herbs, Honey, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products
   State: Connecticut
   Street: 195 Main Street
   Twitter: null
@@ -82,22 +70,10 @@ data:
   ModifyDate: Jan 26th, 2021
   Name: Collinsville Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Cut flowers, Dairy products., Eggs, Fresh/dried herbs,
+    Honey, Juices/non-alcoholic ciders, Maple products, Red/other non-poultry meat
+    and products, Soap/body care products, Wine, spirits, beer, hard cider
   State: Connecticut
   Street: Main St. and Route 179
   Twitter: '@CollinsvilleFM'
@@ -122,25 +98,11 @@ data:
   ModifyDate: Jan 26th, 2021
   Name: Lebanon Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Coffee/tea,
+    Crafts/woodworking items, Cut flowers, Dairy products., Eggs, Fresh/dried herbs,
+    Honey, Juices/non-alcoholic ciders, Maple products, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
+    Wine, spirits, beer, hard cider
   State: Connecticut
   Street: 579 Exeter Road
   Twitter: null
@@ -165,18 +127,9 @@ data:
   ModifyDate: Jan 6th, 2021
   Name: Orange Community Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh vegetables, Baked goods, Bedding plants, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Juices/non-alcoholic ciders, Maple products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products
   State: Connecticut
   Street: 525 Orange Center Road
   Twitter: null
@@ -201,11 +154,7 @@ data:
   ModifyDate: Jul 19th, 2021
   Name: West Haven Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Honey
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Honey, Soap/body care products
   State: Connecticut
   Street: 355 Main Street
   Twitter: null
@@ -230,18 +179,9 @@ data:
   ModifyDate: Jul 23rd, 2020
   Name: Manchester's Spruce Street Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Eggs, Fresh/dried herbs, Honey, Maple products, Prepared foods, Red/other non-poultry
+    meat and products, Tofu/non-animal protein
   State: Connecticut
   Street: 163 Spruce St.
   Twitter: null
@@ -266,26 +206,11 @@ data:
   ModifyDate: Jul 29th, 2021
   Name: South Windsor Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Pet food
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Honey, Maple products, Pet food, Prepared
+    foods, Red/other non-poultry meat and products, Soap/body care products, Tofu/non-animal
+    protein, Wild harvested forest products
   State: Connecticut
   Street: 220 Nevers Rd.
   Twitter: null
@@ -310,7 +235,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Andover Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 22 Long Hill Rd.
   Twitter: null
@@ -335,7 +260,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Berlin Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 191 FARMINGTON AVE
   Twitter: null
@@ -360,7 +285,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bethel Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 67 Stony Hill Rd.
   Twitter: null
@@ -385,7 +310,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Billings Forge Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 563 BROAD ST
   Twitter: null
@@ -410,7 +335,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bishop's Orchards Farm Market & Winery
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1355 BOSTON POST RD
   Twitter: null
@@ -435,7 +360,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Black Rock Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 481 BREWSTER ST
   Twitter: null
@@ -460,7 +385,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bozrah Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 45 Bozrah Street
   Twitter: null
@@ -485,7 +410,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brass City Market on Field
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 359 Mill Street
   Twitter: null
@@ -510,7 +435,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brickwalk Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1189 POST RD
   Twitter: null
@@ -535,7 +460,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bridgeport Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Main St. and Bank St.
   Twitter: null
@@ -560,7 +485,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bridgeport Farmers Market - East End
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 985 STRATFORD AVE
   Twitter: null
@@ -585,7 +510,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bridgeport South End Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 877 PARK AVE
   Twitter: null
@@ -611,7 +536,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bristol Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: N. Main St. & Riverside Ave
   Twitter: null
@@ -636,7 +561,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brookfield Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 100 Pocono Rd.
   Twitter: null
@@ -661,7 +586,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brooklyn Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 564 PROVIDENCE RD
   Twitter: null
@@ -686,7 +611,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Chester Summer Sunday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 23 Ridge Road
   Twitter: null
@@ -711,7 +636,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Chester Sunday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 23 MAIN ST
   Twitter: null
@@ -736,7 +661,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: CitySeed Indoor Winter Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 115 WATER ST
   Twitter: null
@@ -761,7 +686,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Connecticut Valley Farmers Market I
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 18 HARTFORD AVE
   Twitter: null
@@ -786,7 +711,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Coventry Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 2299 South Street
   Twitter: null
@@ -811,7 +736,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Cromwell Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1 RIVER RD
   Twitter: null
@@ -836,7 +761,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Danbury City Center Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Kennedy Park
   Twitter: null
@@ -861,7 +786,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Danielson Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 25 WESTCOTT RD
   Twitter: null
@@ -887,7 +812,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Denison Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 120 Pequotsepos Road
   Twitter: null
@@ -913,7 +838,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Corner of Temple St. and Chapel St
   Twitter: null
@@ -939,7 +864,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown New Britain Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 27 W MAIN ST
   Twitter: null
@@ -964,7 +889,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Dudley Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 2351 DURHAM RD
   Twitter: null
@@ -989,7 +914,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Durham Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Town Green
   Twitter: null
@@ -1014,7 +939,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Granby Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 24 Center St., East
   Twitter: null
@@ -1039,7 +964,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Haven Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 250 MAIN ST
   Twitter: null
@@ -1064,7 +989,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Windsor Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 58 North St.
   Twitter: null
@@ -1089,7 +1014,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Edgewood Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: W. Rock Ave. and Whalley Ave.
   Twitter: null
@@ -1115,7 +1040,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ellington Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 37 MAPLE ST
   Twitter: null
@@ -1140,7 +1065,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ellington Summer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Arbor Park, Main Street
   Twitter: null
@@ -1165,7 +1090,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Enfield Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 178 Enfield Main Rd.
   Twitter: null
@@ -1190,7 +1115,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fairfield Brickwalk Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1215 POST RD
   Twitter: null
@@ -1215,7 +1140,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fairfield Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 75 Hillside Rd., Between Hillside and Bronson
   Twitter: null
@@ -1240,7 +1165,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers' Market @ Billings Forge
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 539 BROAD ST
   Twitter: null
@@ -1266,7 +1191,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market at Sun Valley Resort
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 51 OLD SPRINGFIELD RD
   Twitter: null
@@ -1292,7 +1217,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: First Presbyterian Church Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 136 Capital Ave
   Twitter: null
@@ -1318,7 +1243,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Forge City Works Year Round Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 563 Broad Street
   Twitter: null
@@ -1343,7 +1268,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Goshen Farmers' Holiday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 71 North St.
   Twitter: null
@@ -1368,7 +1293,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Goshen Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 42 Ives Rd., Miranda Vineyard
   Twitter: null
@@ -1393,7 +1318,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Greenfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 75 HILLSIDE RD
   Twitter: null
@@ -1418,7 +1343,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Greenfield Hill Summer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 75 Hillside Road
   Twitter: null
@@ -1443,7 +1368,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Greenwich Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 2 Horseneck Lane
   Twitter: null
@@ -1468,7 +1393,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hamden Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 2901 Dixwell Ave.
   Twitter: null
@@ -1493,7 +1418,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hartford Capitol Ave Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 156 CAPITOL AVE
   Twitter: null
@@ -1519,7 +1444,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hartford Park Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Corner of Park St. & Washington St.
   Twitter: null
@@ -1544,7 +1469,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hartford Regional Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 101 RESERVE RD
   Twitter: null
@@ -1570,7 +1495,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hartford/Farmers Market at Billings Forge
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 536 BROAD ST
   Twitter: null
@@ -1595,7 +1520,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hartford's North End Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 80 COVENTRY ST
   Twitter: null
@@ -1620,7 +1545,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hebron Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1 MAIN ST
   Twitter: null
@@ -1645,7 +1570,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Higganum Village Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Rte. 154 and Candlewood Rd.
   Twitter: null
@@ -1671,7 +1596,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hill Market Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Corner of Park St. and South St.
   Twitter: null
@@ -1696,7 +1621,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hill-Stead Museum Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 35 MOUNTAIN RD
   Twitter: null
@@ -1721,7 +1646,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Homestead Avenue Farmers Market at the Ch...
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 255 Homestead Ave.
   Twitter: null
@@ -1746,7 +1671,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Kent Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 9 South Main Street
   Twitter: null
@@ -1771,7 +1696,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Larson's Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 547 DANBURY RD
   Twitter: null
@@ -1796,7 +1721,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ledyard Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 722 Colonel Ledyard Hwy.
   Twitter: null
@@ -1821,7 +1746,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Litchfield Hills Farm-Fresh Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 125 West St.
   Twitter: null
@@ -1847,7 +1772,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Litchfield Hills Year Round Farmers Market--2022
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 421 Bantam Road/Woodruff Lane
   Twitter: null
@@ -1872,7 +1797,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lyme Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 78 BILL HILL RD
   Twitter: null
@@ -1897,7 +1822,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Manchester Community Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 161 HILLSTOWN RD
   Twitter: null
@@ -1923,7 +1848,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Meriden Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 46 PRATT ST
   Twitter: null
@@ -1948,7 +1873,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Middletown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: South Green on Old Church St.
   Twitter: null
@@ -1973,7 +1898,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Milford Woodmont Farmers' Market at the Robert Treat Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1339 NEW HAVEN AVE
   Twitter: null
@@ -1998,7 +1923,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Monroe Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 7 Fan Hill Rd.
   Twitter: null
@@ -2023,7 +1948,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mystic-Denison Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 120 Pequotsepos Rd.
   Twitter: null
@@ -2048,7 +1973,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Naugatuck Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Corner of Church St. & Division St.
   Twitter: null
@@ -2073,7 +1998,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Britain Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 109 North St.
   Twitter: null
@@ -2100,7 +2025,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Canaan Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 64 MAPLE ST
   Twitter: null
@@ -2125,7 +2050,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Canaan Winter Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 144 Oenoke Ridge Rd.
   Twitter: null
@@ -2150,7 +2075,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Haven Farmers Market II
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 224 COLLEGE ST
   Twitter: null
@@ -2175,7 +2100,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New London Field of Greens L&M Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 365 MONTAUK AVE
   Twitter: null
@@ -2200,7 +2125,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New London Field of Greens Markets
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1 Water St.
   Twitter: null
@@ -2225,7 +2150,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Milford Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Main St.
   Twitter: null
@@ -2250,7 +2175,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Newington Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Market Square
   Twitter: null
@@ -2275,7 +2200,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Niantic Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Methodist St. and Main St.
   Twitter: null
@@ -2300,7 +2225,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: North End Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 575 MAIN ST
   Twitter: null
@@ -2325,7 +2250,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Norwalk Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 205 Main St.
   Twitter: null
@@ -2350,7 +2275,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Greenwich Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 38 W END AVE
   Twitter: null
@@ -2375,7 +2300,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Saybrook Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 210 MAIN ST
   Twitter: null
@@ -2400,7 +2325,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Saybrook Summer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 210 Main Street
   Twitter: null
@@ -2427,7 +2352,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oxford Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 486 Oxford Rd
   Twitter: null
@@ -2452,7 +2377,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plainfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 651 Norwich Road
   Twitter: null
@@ -2477,7 +2402,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plainville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 47 Robert Holcomb Way
   Twitter: null
@@ -2502,7 +2427,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Putnam Summer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 18 Kennedy Drive
   Twitter: null
@@ -2527,7 +2452,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Salem Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 82 NORWICH RD
   Twitter: null
@@ -2552,7 +2477,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Seymour Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 20 Pine St.
   Twitter: null
@@ -2578,7 +2503,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Shelton CT Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 100 CANAL ST W
   Twitter: null
@@ -2603,7 +2528,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Simsbury Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 540 HOPMEADOW ST
   Twitter: null
@@ -2628,7 +2553,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Southbury Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 501 Main St. S.
   Twitter: null
@@ -2653,7 +2578,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Southington Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Main St.
   Twitter: null
@@ -2678,7 +2603,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Spruce Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 153 Spruce Street
   Twitter: null
@@ -2703,7 +2628,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stamford Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Bedford St. at Forest
   Twitter: null
@@ -2728,7 +2653,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stamford Museum & Nature Center - Friday Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 39 SCOFIELDTOWN RD
   Twitter: null
@@ -2753,7 +2678,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stratford Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 2725 MAIN ST
   Twitter: null
@@ -2778,7 +2703,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Suffield Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: N. Main St. and High St.
   Twitter: null
@@ -2803,7 +2728,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Morris Marketplace
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 21 Higbie Rd.
   Twitter: null
@@ -2828,7 +2753,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Thomaston Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 100 S. Main St.
   Twitter: null
@@ -2853,7 +2778,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Torrington Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1000 E. Main S.
   Twitter: null
@@ -2879,7 +2804,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Trumbull Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1773 Huntington Tpke.
   Twitter: null
@@ -2904,7 +2829,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Upper State Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1010 State St.
   Twitter: null
@@ -2929,7 +2854,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Devon Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 120 BRIDGEPORT AVE
   Twitter: null
@@ -2954,7 +2879,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wallingford Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Jct. Rte. 5 and Rte. 150
   Twitter: null
@@ -2979,7 +2904,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Waterford Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 15 Rope Ferry Rd.
   Twitter: null
@@ -3004,7 +2929,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Watertown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 470 Main St.
   Twitter: null
@@ -3029,7 +2954,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West End Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 385 Farmington Ave
   Twitter: null
@@ -3054,7 +2979,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Hartford Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 102 LaSalle Rd
   Twitter: null
@@ -3079,7 +3004,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Westport Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 50 Imperial Avenue
   Twitter: null
@@ -3104,7 +3029,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Westport Summer Evening Market Series
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 399 POST RD W
   Twitter: null
@@ -3129,7 +3054,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wethersfield Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 220 Hartford Ave.
   Twitter: null
@@ -3154,7 +3079,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Whole Foods Market of Westport Winter Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 399 POST RD W
   Twitter: null
@@ -3179,7 +3104,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wilton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 224 Danbury Rd.
   Twitter: null
@@ -3204,7 +3129,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winsted Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1 PARK PL W
   Twitter: null
@@ -3229,7 +3154,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winter Farmers Market Greenfield Hill Grange, Fairfield, CT
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1873 HILLSIDE RD
   Twitter: null
@@ -3254,7 +3179,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wooster Square Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: Corner of Chapel St. and DePalma Ct.
   Twitter: null
@@ -3279,7 +3204,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wooster Square Summer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 511 Chapel Street
   Twitter: null
@@ -3304,25 +3229,10 @@ data:
   ModifyDate: Mar 30th, 2022
   Name: Danbury Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Mushrooms
-  - Pet food
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fresh/dried herbs, Honey, Maple products, Mushrooms,
+    Pet food, Prepared foods, Soap/body care products
   State: Connecticut
   Street: 1 Patriot Drive
   Twitter: danburyfarmersmarket
@@ -3347,26 +3257,11 @@ data:
   ModifyDate: Sep 10th, 2020
   Name: Milford - Downtown Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Mushrooms
-  - Nursery stock
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
+    Nursery stock, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products
   State: Connecticut
   Street: 108 West Main Street (Wasson Field)
   Twitter: null
@@ -3391,7 +3286,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: StandingStone Farm/Flatland Alpacas
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 285 Sam Chikan Rd
   Twitter: null
@@ -3416,7 +3311,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Old Fitch Farm Vineyard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 83 Fitchville Road
   Twitter: null
@@ -3441,7 +3336,7 @@ data:
   ModifyDate: Aug 15th, 2014
   Name: Pell Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 96 Kibbe Grove Road
   Twitter: https://twitter.com/PellFarm
@@ -3466,7 +3361,7 @@ data:
   ModifyDate: Aug 1st, 2014
   Name: Walnut Ledge Farm, LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 360 Matson Hill Road
   Twitter: null
@@ -3491,7 +3386,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: Averill Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 250 Calhoun St
   Twitter: null
@@ -3516,7 +3411,7 @@ data:
   ModifyDate: Aug 4th, 2014
   Name: Buell's Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 108 Crystal Pond Road
   Twitter: https://twitter.com/BuellsOrchard
@@ -3541,7 +3436,7 @@ data:
   ModifyDate: Dec 4th, 2014
   Name: Pakulis Farm LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 63 Creamery Brook Road
   Twitter: null
@@ -3566,7 +3461,7 @@ data:
   ModifyDate: Jan 5th, 2015
   Name: Blue Hills Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 141Blue Hills Rd.
   Twitter: null
@@ -3591,7 +3486,7 @@ data:
   ModifyDate: Jul 20th, 2016
   Name: White Stone Acres
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 113 South Rd
   Twitter: null
@@ -3616,7 +3511,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Sepe Farm LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 83 Toddy Hill Road
   Twitter: null
@@ -3641,7 +3536,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Starberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 47 & 81 Kielwasser Road
   Twitter: null
@@ -3666,7 +3561,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Whippoorwill Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 189 Salmon Kill Rd
   Twitter: null
@@ -3691,7 +3586,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Lost Acres Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 130 Lost Acres Road
   Twitter: null
@@ -3716,7 +3611,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: Cheney Family Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 144 Mansfield Rd
   Twitter: null
@@ -3741,7 +3636,7 @@ data:
   ModifyDate: Jul 30th, 2014
   Name: Staehly Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 278 Town Street
   Twitter: null
@@ -3766,7 +3661,7 @@ data:
   ModifyDate: Jul 6th, 2016
   Name: The Village Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 682 Kent Rd.
   Twitter: null
@@ -3791,7 +3686,7 @@ data:
   ModifyDate: Jun 10th, 2016
   Name: Raspberry Knoll Farm LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 163 North Windham Rd
   Twitter: null
@@ -3816,7 +3711,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Laurel Ridge Grass Fed Beef
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 66 Wigwam Road
   Twitter: null
@@ -3841,7 +3736,7 @@ data:
   ModifyDate: Mar 24th, 2015
   Name: Bishops Orchards location 1
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 1355 Boston Post Road
   Twitter: null
@@ -3868,8 +3763,7 @@ data:
   ModifyDate: Mar 30th, 2022
   Name: Howling Flats Farm
   Pinterest: ''
-  Products:
-  - Poultry/fowl meat and products
+  Products: Poultry/fowl meat and products
   State: Connecticut
   Street: 19 Raymond Ave
   Twitter: ''
@@ -3894,7 +3788,7 @@ data:
   ModifyDate: Nov 30th, 2016
   Name: Rose Orchards
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 33 Branford rd.
   Twitter: null
@@ -3919,7 +3813,7 @@ data:
   ModifyDate: Oct 15th, 2014
   Name: Common Ground CSA
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 46 Lake Hayward Town Road
   Twitter: null
@@ -3944,7 +3838,7 @@ data:
   ModifyDate: Oct 15th, 2014
   Name: COLD SPRING FARM at Lake Hayward
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: null
   Twitter: null
@@ -3969,7 +3863,7 @@ data:
   ModifyDate: Sep 14th, 2014
   Name: Devon Point Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 54 Joy Road
   Twitter: null
@@ -3994,7 +3888,7 @@ data:
   ModifyDate: Sep 16th, 2014
   Name: Oak Haven Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 113 Khourie Road
   Twitter: null
@@ -4019,7 +3913,7 @@ data:
   ModifyDate: Sep 23rd, 2014
   Name: Holbrook Farm Market and Bakery
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 45 Turkey Plain RD
   Twitter: null
@@ -4044,7 +3938,7 @@ data:
   ModifyDate: Sep 27th, 2014
   Name: Mike's Beehives LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 94 Mallory Rd
   Twitter: Mike\'s  Beehives
@@ -4069,7 +3963,7 @@ data:
   ModifyDate: Sep 30th, 2014
   Name: Stone Bridge Farm Alpacas
   Pinterest: null
-  Products: []
+  Products: ''
   State: Connecticut
   Street: 116 Crary Rd.
   Twitter: null

@@ -16,21 +16,9 @@ data:
   ModifyDate: Aug 4th, 2020
   Name: The Village Farmers Market on California Street
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Poultry/fowl meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Eggs, Fish/seafood, Fresh/dried
+    herbs, Honey, Nuts, Poultry/fowl meat and products, Soap/body care products
   State: Nevada
   Street: 625 Booth Street
   Twitter: null
@@ -55,20 +43,9 @@ data:
   ModifyDate: Aug 4th, 2020
   Name: Tamarack Junction Casino Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Crafts/woodworking items
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Crafts/woodworking
+    items, Eggs, Fish/seafood, Fresh/dried herbs, Honey, Nuts, Poultry/fowl meat and
+    products, Prepared foods, Soap/body care products
   State: Nevada
   Street: 13101 So. Virginia Street
   Twitter: null
@@ -93,18 +70,9 @@ data:
   ModifyDate: Aug 6th, 2021
   Name: Pahrump Saturday Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Honey
-  - Pet food
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Eggs, Honey,
+    Pet food, Soap/body care products
   State: Nevada
   Street: 900 E Hwy 372
   Twitter: null
@@ -129,25 +97,11 @@ data:
   ModifyDate: Jan 19th, 2022
   Name: Fernley Poolside Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Eggs, Fresh/dried herbs, Honey,
+    Mushrooms, Nuts, Pet food, Poultry/fowl meat and products, Prepared foods, Red/other
+    non-poultry meat and products, Soap/body care products, Wild harvested forest
+    products
   State: Nevada
   Street: 300 Cottonwood Lane
   Twitter: null
@@ -172,28 +126,12 @@ data:
   ModifyDate: Jan 20th, 2021
   Name: Carson Farmers Market @3rd & Curry St.
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fish/seafood, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Nursery
+    stock, Nuts, Pet food, Poultry/fowl meat and products, Prepared foods, Red/other
+    non-poultry meat and products, Soap/body care products, Wild harvested forest
+    products
   State: Nevada
   Street: 3rd & Curry St.
   Twitter: 3rd&curry
@@ -218,25 +156,10 @@ data:
   ModifyDate: Jul 18th, 2021
   Name: Sparks United Methodist Church Farmer's Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Dairy products., Eggs, Fresh/dried
+    herbs, Honey, Mushrooms, Nuts, Pet food, Poultry/fowl meat and products, Prepared
+    foods, Red/other non-poultry meat and products, Soap/body care products
   State: Nevada
   Street: 1231 Pyramid Way
   Twitter: null
@@ -261,7 +184,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Clark County Backyard Farmer Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 3130 MCLEOD DR
   Twitter: null
@@ -286,7 +209,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Connors Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 2240 Village Walk Dr.
   Twitter: null
@@ -311,7 +234,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Country Fresh Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 240 WATER ST
   Twitter: null
@@ -337,7 +260,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Dayton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 60 2ND AVE
   Twitter: null
@@ -362,7 +285,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Downtown3rd Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 201 N. 3rd. St.
   Twitter: null
@@ -387,7 +310,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: E. Center St. Farmers Market & Street Celebration
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 40 E CENTER ST
   Twitter: null
@@ -412,7 +335,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Ely Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 400 Ely St.
   Twitter: null
@@ -437,7 +360,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Farmers' Market at Kahle Community Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 236 Kingsbury Grade
   Twitter: null
@@ -462,7 +385,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Farmers Market at The District
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 2240 VILLAGE WALK DR
   Twitter: null
@@ -487,7 +410,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Fernley Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 465 E MAIN ST
   Twitter: null
@@ -513,7 +436,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Fresh52 Farmers And Artisan Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 9480 S EASTERN AVE
   Twitter: null
@@ -538,7 +461,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: fresh52 Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 302 S. Rampart St.
   Twitter: null
@@ -563,7 +486,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Gardens Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 10407 Garden Park Dr.
   Twitter: null
@@ -588,7 +511,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Henderson Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 200 S.Green Valley Pkwy.
   Twitter: null
@@ -613,7 +536,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Lampe Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 1328 WATERLOO LN
   Twitter: null
@@ -638,7 +561,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Las Vegas Farmers Market at Bruce Trent Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 1600 N RAMPART BLVD
   Twitter: null
@@ -663,7 +586,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Las Vegas Farmers Market at Floyd Lamb Park / Tule Springs
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 9200 TULE SPRINGS RD
   Twitter: null
@@ -688,7 +611,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Reno Summit Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 13925 S. Virginia St.
   Twitter: null
@@ -713,7 +636,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Sands Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 345 N. Arlington Ave.
   Twitter: null
@@ -740,7 +663,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Sierra Chef Farmers Market @ Lampe Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 1325 WATERLOO LN
   Twitter: null
@@ -765,7 +688,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Sparks Tuesday Morning Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 1231 Pyramid Way
   Twitter: null
@@ -790,7 +713,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: The Fernley Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 465 E. Main St.
   Twitter: null
@@ -815,7 +738,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: The Green Chefs Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 333 S. Valley View Blvd.
   Twitter: null
@@ -840,7 +763,7 @@ data:
   ModifyDate: Mar 27th, 2023
   Name: Yerington Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 120 N. California St.
   Twitter: null
@@ -865,7 +788,7 @@ data:
   ModifyDate: Aug 3rd, 2016
   Name: Silver Springs Custom Gardens On-Farm Green-Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 3701 Elm Street
   Twitter: null
@@ -890,7 +813,7 @@ data:
   ModifyDate: Jan 4th, 2015
   Name: k-t ranch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 2090 fox st.
   Twitter: null
@@ -915,7 +838,7 @@ data:
   ModifyDate: Jul 28th, 2014
   Name: Gilcrease Orchard Foundation
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 7800 N. Tenaya Way
   Twitter: null
@@ -940,7 +863,7 @@ data:
   ModifyDate: Jul 30th, 2014
   Name: Cowboy Trail Farm Indoor Farm Stand
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 6550 Cowboy Trail
   Twitter: null
@@ -965,7 +888,7 @@ data:
   ModifyDate: Mar 24th, 2015
   Name: Iron Mountain Nursery & Farm__On-Farm Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Nevada
   Street: 7575 Iron Mountain Blvd.
   Twitter: null

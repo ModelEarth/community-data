@@ -16,19 +16,9 @@ data:
   ModifyDate: Apr 6th, 2022
   Name: Historic Lewes Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Cut flowers,
+    Eggs, Fresh/dried herbs, Honey, Pet food, Poultry/fowl meat and products, Prepared
+    foods, Soap/body care products
   State: Delaware
   Street: 36707 Crooked Hammock Way
   Twitter: null
@@ -53,26 +43,11 @@ data:
   ModifyDate: Apr 6th, 2022
   Name: Historic Lewes Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nursery stock
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Dry beans,
+    Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Mushrooms, Nursery
+    stock, Pet food, Poultry/fowl meat and products, Prepared foods, Soap/body care
+    products
   State: Delaware
   Street: 820 Savannah Road
   Twitter: null
@@ -97,17 +72,9 @@ data:
   ModifyDate: Aug 3rd, 2020
   Name: Capital City Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Poultry/fowl meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Cut flowers, Eggs, Fresh/dried herbs, Poultry/fowl meat
+    and products, Soap/body care products
   State: Delaware
   Street: 126 West Loockerman Street
   Twitter: null
@@ -132,15 +99,8 @@ data:
   ModifyDate: Jan 27th, 2021
   Name: Bethany Beach Farmers' Market, Inc.
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Cut flowers
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Cut flowers, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Soap/body care products
   State: Delaware
   Street: 601 castle court
   Twitter: '@BBFarmersMarket'
@@ -165,23 +125,10 @@ data:
   ModifyDate: Jun 10th, 2021
   Name: Historic Lewes Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood,
+    Fresh/dried herbs, Honey, Mushrooms, Poultry/fowl meat and products, Red/other
+    non-poultry meat and products, Soap/body care products
   State: Delaware
   Street: Dupont and Johnson Avenues
   Twitter: null
@@ -206,7 +153,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bellefonte DE Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 912 BRANDYWINE BLVD
   Twitter: null
@@ -231,7 +178,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bellefonte Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 500 Duncan Rd.
   Twitter: null
@@ -256,7 +203,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bethany Beach Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Garfield Pkwy. and Pennsylvania Ave.
   Twitter: null
@@ -281,7 +228,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Delaware Avenue Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 1727 Delaware Ave.
   Twitter: null
@@ -306,7 +253,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Delaware City Farmers' Market & Galleria
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 86 Clinton St.
   Twitter: null
@@ -331,7 +278,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers' Market at Sea Colony
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Rt. 1 & West Way
   Twitter: null
@@ -356,7 +303,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fenwick Island Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Coastal Hwy. and E. Essex St.
   Twitter: null
@@ -381,7 +328,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: French Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 2nd St. and French St.
   Twitter: null
@@ -406,7 +353,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fresh Friday Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 10th St. and Tatnall St.
   Twitter: null
@@ -431,7 +378,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Georgetown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 413 S. Bedford St.
   Twitter: null
@@ -456,7 +403,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Loockerman Way Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Loockerman St. and S. Bradford St.
   Twitter: null
@@ -481,7 +428,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Milton Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Union St. and Magnolia St.
   Twitter: null
@@ -506,7 +453,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Castle County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Glasgow Park
   Twitter: null
@@ -531,7 +478,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: New Castle Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 110 N. Dupont Hwy.
   Twitter: null
@@ -556,7 +503,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Smyrna Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 106 W. Commerce St.
   Twitter: null
@@ -581,7 +528,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Southbridge Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 1210 Lobdell St.
   Twitter: null
@@ -613,7 +560,7 @@ data:
   ModifyDate: May 9th, 2022
   Name: Westside Farmers Market at Cool Spring Park
   Pinterest: ''
-  Products: []
+  Products: ''
   State: Delaware
   Street: West 10th Street & North Van Buren Street
   Twitter: https://twitter.com/westsidegrowsde
@@ -638,7 +585,7 @@ data:
   ModifyDate: Jul 11th, 2016
   Name: Southbridge Youth Farm Stand
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 1218 B. Street
   Twitter: null
@@ -663,7 +610,7 @@ data:
   ModifyDate: Mar 10th, 2015
   Name: Cook Family Farm's - CoolRockStock
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 3300 Frazer Rd
   Twitter: null
@@ -688,7 +635,7 @@ data:
   ModifyDate: Mar 24th, 2015
   Name: Maebrook Produce
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: Hearns Pond Rd
   Twitter: null
@@ -713,7 +660,7 @@ data:
   ModifyDate: May 19th, 2015
   Name: Highland Orchards Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Delaware
   Street: 1431 Foulk Rd
   Twitter: https://twitter.com/highlandcsa

@@ -16,21 +16,10 @@ data:
   ModifyDate: Aug 3rd, 2020
   Name: Market in The Park
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Honey
-  - Nursery stock
-  - Prepared foods
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Eggs, Fish/seafood, Honey,
+    Nursery stock, Prepared foods, Soap/body care products, Wild harvested forest
+    products
   State: Alabama
   Street: 300 Conti
   Twitter: null
@@ -55,14 +44,8 @@ data:
   ModifyDate: Aug 3rd, 2020
   Name: Market in The Park - Lavretta Park
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Fish/seafood
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Fish/seafood, Soap/body care products
   State: Alabama
   Street: 200 Parkway Street West
   Twitter: null
@@ -87,9 +70,7 @@ data:
   ModifyDate: Aug 3rd, 2020
   Name: Glencoe
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Bedding plants
+  Products: Fresh fruits, Bedding plants
   State: Alabama
   Street: 201  W CHASTAIN BLVD. WEST
   Twitter: null
@@ -114,19 +95,9 @@ data:
   ModifyDate: Aug 4th, 2020
   Name: Montevallo Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Cut flowers, Eggs, Fresh/dried herbs, Honey, Nuts, Prepared
+    foods, Soap/body care products
   State: Alabama
   Street: Middle Street and Island Street
   Twitter: null
@@ -151,20 +122,9 @@ data:
   ModifyDate: Jun 20th, 2020
   Name: The Marketplace at Lee Branch, Lee Branch Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Honey
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Eggs, Fish/seafood, Honey,
+    Mushrooms, Poultry/fowl meat and products, Red/other non-poultry meat and products
   State: Alabama
   Street: 611 Doug Baker Blvd
   Twitter: null
@@ -189,7 +149,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Abbeville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 100 Columbia Rd.
   Twitter: null
@@ -214,7 +174,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Abita Springs Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 22049 Main St.
   Twitter: null
@@ -239,7 +199,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Adamsville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 3633 Gray Ave.
   Twitter: null
@@ -264,7 +224,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alabama Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 344 Finley Ave.
   Twitter: null
@@ -289,7 +249,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alabaster Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1097 7th St. SW
   Twitter: null
@@ -314,7 +274,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Albertville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 116 W MAIN ST, BERTVILLE
   Twitter: null
@@ -339,7 +299,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alexander City Downtown Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 16 Broad St.
   Twitter: null
@@ -364,7 +324,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Andalusia Power Plant Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 256 Historic Central St.
   Twitter: null
@@ -389,7 +349,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Anniston Downtown Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 176 W. 12th St.
   Twitter: null
@@ -414,7 +374,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Arab Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 307 N. Main St.
   Twitter: null
@@ -439,7 +399,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Athens Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 409 W. Green St.
   Twitter: null
@@ -464,7 +424,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Attalla Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 3rd St. NW & Commerce St. NW
   Twitter: null
@@ -489,7 +449,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bailey Cove Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 12200 Bailey Cove Rd.
   Twitter: null
@@ -514,7 +474,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bay Minette Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 301 MCMEANS AVE
   Twitter: null
@@ -539,7 +499,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bayou Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 13790 South Wintzell Avenue
   Twitter: null
@@ -564,7 +524,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bessemer Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2 19TH ST N
   Twitter: null
@@ -589,7 +549,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: BIG D""s CURB MARKET
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 10733 Highway 431 S
   Twitter: null
@@ -614,7 +574,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Blount County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 500 New St.
   Twitter: null
@@ -639,7 +599,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brewton Choo-choo Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 205 Bellville Ave.
   Twitter: null
@@ -664,7 +624,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Butler County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 701 Oliver St.
   Twitter: null
@@ -689,7 +649,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Calera Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 9758 STATE RTE 25
   Twitter: null
@@ -714,7 +674,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Calhoun County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1702 Noble St.
   Twitter: null
@@ -739,7 +699,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Center Point Parkway Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 335 Polly Reed Rd.
   Twitter: null
@@ -764,7 +724,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Chicago Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 125 East Laurel Avenue
   Twitter: null
@@ -789,7 +749,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1150 S GAY ST
   Twitter: null
@@ -814,7 +774,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: City of Centre Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 635 Armory Rd.
   Twitter: null
@@ -839,7 +799,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Clio Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 21 College St.
   Twitter: null
@@ -864,7 +824,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Coastal Alabama Farmers and Fishermen Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 104 North McKenzie Street.
   Twitter: null
@@ -889,7 +849,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: College Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 526 E COLLEGE ST
   Twitter: null
@@ -914,7 +874,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: CUMC Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 6101 Grelot Rd.
   Twitter: null
@@ -939,7 +899,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Daleville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 493 N. Daleville Ave.
   Twitter: null
@@ -964,7 +924,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Dekalb County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 151 18th St. N.
   Twitter: null
@@ -989,7 +949,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Wilcox County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 869 County Rd. 59
   Twitter: null
@@ -1014,7 +974,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Eastchase Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 7274 Eastchase Pkwy.
   Twitter: null
@@ -1039,7 +999,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Elberta Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 24978 State Street
   Twitter: null
@@ -1064,7 +1024,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Enterprise Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 525 N. Main St.
   Twitter: null
@@ -1089,7 +1049,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fairhope Outdoor Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Magnolia Avenue and North Bancroft Street
   Twitter: null
@@ -1114,7 +1074,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fairview Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 60 W.Fairview Ave.
   Twitter: null
@@ -1139,7 +1099,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market at Latham UMC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 109 WEATHERLY RD SE
   Twitter: null
@@ -1164,7 +1124,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market of Mobile
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2245 HLS MILL RD
   Twitter: null
@@ -1189,7 +1149,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fayette Co. Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 650 MCCONNELL LOOP
   Twitter: null
@@ -1214,7 +1174,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fitzpen Place Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 11247 US Highway 31
   Twitter: null
@@ -1239,7 +1199,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Flomaton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 435 PAFOX ST
   Twitter: null
@@ -1264,7 +1224,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Florence - Lauderdale Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 451 Fairground Rd.
   Twitter: null
@@ -1289,7 +1249,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Forland Family Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 20733 Miflin Road
   Twitter: null
@@ -1314,7 +1274,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Franklin County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 202 Green Ave. SW
   Twitter: null
@@ -1339,7 +1299,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gadsden Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Albert Rains Blvd. @ 90 Walnut St.
   Twitter: null
@@ -1364,7 +1324,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gardendale Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 857 Main St.
   Twitter: null
@@ -1389,7 +1349,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Greene Street Market At Nativity
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 304 Eustis Ave. SE
   Twitter: null
@@ -1414,7 +1374,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Greene/Sumter County Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 137 Furse Ln.
   Twitter: null
@@ -1439,7 +1399,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Guntersville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1500 SUNSET DR
   Twitter: null
@@ -1464,7 +1424,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Halls Mill Road Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2245 Halls Mill Road
   Twitter: null
@@ -1489,7 +1449,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Healthworks Farmers' Market (Huntsville Hospital)
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 101 Governors Dr.
   Twitter: null
@@ -1514,7 +1474,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Helena Market Days
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 4151 Helena Rd.
   Twitter: null
@@ -1539,7 +1499,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Highway 45 Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1401 A St. Stephens Road
   Twitter: null
@@ -1564,7 +1524,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Historic Langdale Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 6000 20th Ave.
   Twitter: null
@@ -1589,7 +1549,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Homegrown Alabama Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 812 5th Ave.
   Twitter: null
@@ -1614,7 +1574,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Houston Co. Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1699 ROSS CLARK CIR
   Twitter: null
@@ -1639,7 +1599,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jackson Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1701 College Ave.
   Twitter: null
@@ -1664,7 +1624,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jacksonville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Public Square E.
   Twitter: null
@@ -1689,7 +1649,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Latham Umc Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 109 Weatherly Rd. SE
   Twitter: null
@@ -1714,7 +1674,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lawrence County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 13182 AL Hwy. 157
   Twitter: null
@@ -1739,7 +1699,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Leeds Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 7901 Parkway Dr. , at 6th St.
   Twitter: null
@@ -1764,7 +1724,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Limestone County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 409 Green St. W.
   Twitter: null
@@ -1789,7 +1749,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Locust Grove Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 171 County Lake Rd.
   Twitter: null
@@ -1814,7 +1774,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Macon County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Elm St. and Spring St.
   Twitter: null
@@ -1839,7 +1799,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Madison City Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1088 HUGHES RD
   Twitter: null
@@ -1864,7 +1824,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Madison County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1022 Cook Ave.
   Twitter: null
@@ -1889,7 +1849,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Main Street Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 95 E. Oak St.
   Twitter: null
@@ -1914,7 +1874,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market At Dothan
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1300 MONTGOMERY HWY
   Twitter: null
@@ -1939,7 +1899,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market on the Hill
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1 University Boulevard
   Twitter: null
@@ -1964,7 +1924,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market on the Square
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 300 Conti St.
   Twitter: null
@@ -1989,7 +1949,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: MicroGreen Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 8442 Rockwell Lane
   Twitter: null
@@ -2014,7 +1974,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Millbrook Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Main St. at Grandview Rd.
   Twitter: null
@@ -2039,7 +1999,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Montgomery Curb Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1004 Madison Ave.
   Twitter: null
@@ -2064,7 +2024,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Montgomery State Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1655 FEDER DR
   Twitter: null
@@ -2089,7 +2049,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Morgan County/Decatur Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 211 1st Ave. SE
   Twitter: null
@@ -2114,7 +2074,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Moundville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 39751 Hwy. 69
   Twitter: null
@@ -2139,7 +2099,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt Laurel Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 50 Manning Pl.
   Twitter: null
@@ -2164,7 +2124,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Northport Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 4150 5th St.
   Twitter: null
@@ -2189,7 +2149,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ozark Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 275 N. Union Ave.
   Twitter: null
@@ -2214,7 +2174,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pepper Place Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2829 2nd Ave. S.
   Twitter: null
@@ -2239,7 +2199,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pickens County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 25661 Hwy. 17 N.
   Twitter: null
@@ -2264,7 +2224,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pinson Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 4509 Center Point Rd.
   Twitter: null
@@ -2289,7 +2249,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Poplar Head Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 126 MUSEUM AVE
   Twitter: null
@@ -2314,7 +2274,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Red Bay Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 648 2nd St. NE
   Twitter: null
@@ -2339,7 +2299,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Riverchase United Methodist Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1953 Old Montgomery Hwy
   Twitter: null
@@ -2364,7 +2324,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rocky Ridge Church Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2404 Altadena Rd.
   Twitter: null
@@ -2389,7 +2349,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ross Bridge Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2101 Grand Ave.
   Twitter: null
@@ -2414,7 +2374,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Russell County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1500 14th St.
   Twitter: null
@@ -2439,7 +2399,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Satsuma Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Baldwin Square
   Twitter: null
@@ -2464,7 +2424,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Section Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 73 Dutton Rd.
   Twitter: null
@@ -2489,7 +2449,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Selma Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Dallas Ave. & Marina Dr.
   Twitter: null
@@ -2514,7 +2474,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Spring Park Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 400 S MAIN ST
   Twitter: null
@@ -2539,7 +2499,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: St. Clair County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2404 Forrest Ln.
   Twitter: null
@@ -2564,7 +2524,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sylacauga Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 423 N. Norton Ave.
   Twitter: null
@@ -2589,7 +2549,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Talladega Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 210 South St. E.
   Twitter: null
@@ -2614,7 +2574,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tallassee Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 301 Barnett Blvd.
   Twitter: null
@@ -2639,7 +2599,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Terry Heights/Hillendale Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1000 Meadow Dr.
   Twitter: null
@@ -2664,7 +2624,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Bee Hive Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 901 GOVERNMENT ST
   Twitter: null
@@ -2689,7 +2649,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Market at Good Shepherd
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 3809 SPRING AVE SW
   Twitter: null
@@ -2714,7 +2674,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Market at Pepper Place
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2829 2ND AVE S
   Twitter: null
@@ -2739,7 +2699,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Summit Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 214 Summit Blvd
   Twitter: null
@@ -2764,7 +2724,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Town Creek Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 15992 Main St.
   Twitter: null
@@ -2789,7 +2749,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Trinity Episcopal Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 5375 US Hwy. 231
   Twitter: null
@@ -2814,7 +2774,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Trussville Fresh Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Parkway Dr.
   Twitter: null
@@ -2839,7 +2799,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tuscaloosa River Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 1900 Jack Warner Pkwy.
   Twitter: null
@@ -2864,7 +2824,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: UAB Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 18th St. S. & 6th Ave. S.
   Twitter: null
@@ -2889,7 +2849,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Valleydale Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 4601 VLEYDE RD
   Twitter: null
@@ -2914,7 +2874,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Walker County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: N. Airport Rd.
   Twitter: null
@@ -2939,7 +2899,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Westside Tailgate Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2320 Schillinger Road
   Twitter: null
@@ -2964,7 +2924,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winston County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: Hwy 195 and 20th Ave.
   Twitter: null
@@ -2989,7 +2949,7 @@ data:
   ModifyDate: Aug 21st, 2014
   Name: Backyard Orchards
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 6585 Highway 431 North
   Twitter: null
@@ -3014,7 +2974,7 @@ data:
   ModifyDate: Aug 22nd, 2014
   Name: Northern Lights Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 173 Fowler Road
   Twitter: null
@@ -3039,7 +2999,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: LA Berry Farms Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 12562 Mary Ann Beach Road
   Twitter: null
@@ -3064,7 +3024,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Bixler Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 358 County Road 204
   Twitter: null
@@ -3089,7 +3049,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Meme's Poultry and Quail Sales
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 21985 Koier Rd
   Twitter: null
@@ -3114,7 +3074,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Mountain View Orchards
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 16045 County Road 29
   Twitter: null
@@ -3139,7 +3099,7 @@ data:
   ModifyDate: Jul 27th, 2014
   Name: Oakachoy Nursery and Blueberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 363 Coosa County Road 98
   Twitter: null
@@ -3164,7 +3124,7 @@ data:
   ModifyDate: Jul 29th, 2014
   Name: SheerLark Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 367 County Road 327
   Twitter: null
@@ -3189,7 +3149,7 @@ data:
   ModifyDate: Jun 24th, 2015
   Name: Bagwell Blueberry farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 228 county road 721
   Twitter: null
@@ -3214,7 +3174,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Barber Berry Farm, LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 2362 Alabama River Parkway
   Twitter: null
@@ -3239,7 +3199,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Hill View Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 949 Phillips Rd
   Twitter: null
@@ -3264,7 +3224,7 @@ data:
   ModifyDate: Mar 28th, 2015
   Name: Moody Family Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 311 Ellen Street
   Twitter: null
@@ -3289,7 +3249,7 @@ data:
   ModifyDate: Nov 4th, 2015
   Name: Gardner'S Berry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 21909 COUNTY ROAD 68 NORTH
   Twitter: null
@@ -3314,7 +3274,7 @@ data:
   ModifyDate: Sep 2nd, 2014
   Name: Old Field Farm General Store
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 3142 State Highway 132
   Twitter: null
@@ -3339,7 +3299,7 @@ data:
   ModifyDate: Sep 30th, 2014
   Name: Suberis Blueberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Alabama
   Street: 27608 County Road 65
   Twitter: null
