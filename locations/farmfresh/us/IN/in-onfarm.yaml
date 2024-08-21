@@ -16,24 +16,11 @@ data:
   ModifyDate: Apr 14th, 2022
   Name: Huntley Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Honey, Mushrooms, Poultry/fowl meat
+    and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Illinois
   Street: 11712 Coral Street
   Twitter: null
@@ -61,23 +48,10 @@ data:
   ModifyDate: Apr 15th, 2022
   Name: Downtown Bloomington Farmers Market
   Pinterest: ''
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Maple products
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fresh/dried herbs, Grains/flour, Honey, Maple products, Poultry/fowl meat
+    and products, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 200 N. Main
   Twitter: ''
@@ -102,24 +76,10 @@ data:
   ModifyDate: Apr 18th, 2022
   Name: Riverside Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Nursery stock
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Eggs, Fish/seafood, Fresh/dried
+    herbs, Honey, Maple products, Nursery stock, Poultry/fowl meat and products, Prepared
+    foods, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 10 Pine Ave.
   Twitter: null
@@ -148,7 +108,7 @@ data:
   ModifyDate: Apr 20th, 2022
   Name: Galesburg Farmers' Market
   Pinterest: ''
-  Products: []
+  Products: ''
   State: Illinois
   Street: 362 East Simmons Street
   Twitter: ''
@@ -173,22 +133,10 @@ data:
   ModifyDate: Apr 3rd, 2023
   Name: Downtown Elgin Farmers Market
   Pinterest: ''
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Honey
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Cut flowers, Eggs, Honey, Mushrooms, Poultry/fowl
+    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products, Wild harvested forest products
   State: Illinois
   Street: S. Spring Ave
   Twitter: https://twitter.com/ElginFarmersMkt
@@ -213,24 +161,10 @@ data:
   ModifyDate: Aug 22nd, 2020
   Name: Rockford Midtown Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Nuts
-  - Pet food
-  - Prepared foods
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fresh/dried herbs, Grains/flour, Honey, Nuts, Pet food, Prepared foods,
+    Soap/body care products, Wild harvested forest products
   State: Illinois
   Street: 503 Seventh Street
   Twitter: https://twitter.com/marketmidtown
@@ -255,14 +189,8 @@ data:
   ModifyDate: Aug 24th, 2021
   Name: 4 Veggies & 3 Fruits Farmers Market
   Pinterest: null
-  Products:
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Coffee/tea, Crafts/woodworking items, Fresh/dried herbs, Honey, Nuts,
+    Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 140 W 62nd Street
   Twitter: null
@@ -287,28 +215,11 @@ data:
   ModifyDate: Aug 25th, 2021
   Name: Open Air Farmers Market+ At The Dole Mansion
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Dairy products.,
+    Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour, Honey, Mushrooms, Nuts, Pet
+    food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat
+    and products, Soap/body care products, Wild harvested forest products
   State: Illinois
   Street: 401 Country Club Road
   Twitter: null
@@ -333,26 +244,11 @@ data:
   ModifyDate: Aug 31st, 2021
   Name: Humpday Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fish/seafood, Fresh/dried herbs, Honey, Mushrooms, Nuts, Pet food, Poultry/fowl
+    meat and products, Red/other non-poultry meat and products, Soap/body care products,
+    Wild harvested forest products
   State: Illinois
   Street: 1237 E Main St
   Twitter: null
@@ -377,19 +273,9 @@ data:
   ModifyDate: Aug 31st, 2021
   Name: Humpday Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Soap/body care products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Eggs, Fresh/dried
+    herbs, Honey, Soap/body care products, Wild harvested forest products
   State: Illinois
   Street: 2421 W Main St
   Twitter: null
@@ -414,24 +300,10 @@ data:
   ModifyDate: Dec 14th, 2021
   Name: LEAF Food Hub
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fresh/dried
+    herbs, Grains/flour, Honey, Mushrooms, Nuts, Poultry/fowl meat and products, Red/other
+    non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 9535 US Hwy 51 N
   Twitter: null
@@ -456,26 +328,11 @@ data:
   ModifyDate: Feb 10th, 2022
   Name: Oswego Country Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Dairy products.,
+    Eggs, Fish/seafood, Honey, Juices/non-alcoholic ciders, Mushrooms, Nuts, Pet food,
+    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
+    products, Soap/body care products
   State: Illinois
   Street: 15 Main Street
   Twitter: null
@@ -500,26 +357,11 @@ data:
   ModifyDate: Feb 17th, 2021
   Name: Old Capitol Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour, Honey, Nuts, Pet food, Poultry/fowl
+    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Illinois
   Street: 4th and Adams
   Twitter: null
@@ -544,18 +386,9 @@ data:
   ModifyDate: Feb 1st, 2022
   Name: Lanark Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Dairy products.
-  - Honey
-  - Maple products
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Dairy products., Honey,
+    Maple products, Prepared foods, Soap/body care products
   State: Illinois
   Street: 101 N Broad St
   Twitter: https://twitter.com/lanark_market
@@ -580,13 +413,8 @@ data:
   ModifyDate: Feb 23rd, 2022
   Name: Navarro Farm
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Cut flowers
-  - Eggs
-  - Honey
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Cut flowers, Eggs, Honey, Soap/body care
+    products
   State: Illinois
   Street: 22155 S.104th Ave.
   Twitter: null
@@ -611,20 +439,10 @@ data:
   ModifyDate: Feb 9th, 2021
   Name: Northbrook Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Cut flowers, Dairy products., Eggs, Fresh/dried herbs,
+    Honey, Poultry/fowl meat and products, Red/other non-poultry meat and products,
+    Soap/body care products
   State: Illinois
   Street: Cherry Lane and Meadow Road
   Twitter: null
@@ -649,24 +467,10 @@ data:
   ModifyDate: Jan 10th, 2022
   Name: The LMH Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Cut flowers, Dairy products., Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic
+    ciders, Maple products, Nuts, Pet food, Poultry/fowl meat and products, Prepared
+    foods, Soap/body care products
   State: Illinois
   Street: 1408 Short Eleventh St
   Twitter: null
@@ -691,25 +495,11 @@ data:
   ModifyDate: Jan 13th, 2021
   Name: DeKalb Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Nursery stock
-  - Nuts
-  - Prepared foods
-  - Soap/body care products
-  - Wild harvested forest products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Nursery stock,
+    Nuts, Prepared foods, Soap/body care products, Wild harvested forest products,
+    Wine, spirits, beer, hard cider
   State: Illinois
   Street: 2nd and Locust Streets
   Twitter: null
@@ -734,18 +524,9 @@ data:
   ModifyDate: Jan 17th, 2022
   Name: Garfield Park Neighborhood Market - Indoor Season
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Nuts
-  - Prepared foods
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders,
+    Nuts, Prepared foods, Soap/body care products
   State: Illinois
   Street: 135 N Kedzie Ave.
   Twitter: https://twitter.com/gpccouncil
@@ -770,28 +551,12 @@ data:
   ModifyDate: Jan 25th, 2021
   Name: Vine Street Market at O'Fallon Station
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Nursery stock
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
+    ciders, Nursery stock, Pet food, Poultry/fowl meat and products, Prepared foods,
+    Red/other non-poultry meat and products, Soap/body care products, Wine, spirits,
+    beer, hard cider
   State: Illinois
   Street: 212 E 1st Street
   Twitter: null
@@ -816,21 +581,10 @@ data:
   ModifyDate: Jan 26th, 2021
   Name: Mount Carroll Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Eggs, Fresh/dried
+    herbs, Honey, Nuts, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Illinois
   Street: 116 E Market Street
   Twitter: null
@@ -855,23 +609,10 @@ data:
   ModifyDate: Jan 26th, 2021
   Name: Woodstock Farmers Market - Winter
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Pet food
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Dairy products., Dry beans, Eggs, Fresh/dried herbs,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Pet food, Poultry/fowl meat and
+    products, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 11900 Country Club Rd.
   Twitter: '@woodstockfarmmk'
@@ -896,31 +637,12 @@ data:
   ModifyDate: Jan 27th, 2021
   Name: Green City Market Lincoln Park
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Cut flowers, Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried
+    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
+    Nuts, Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products, Tofu/non-animal protein, Wild harvested
+    forest products
   State: Illinois
   Street: 1817 N. Clark St
   Twitter: www.twitter.com/greencitymarket
@@ -945,24 +667,11 @@ data:
   ModifyDate: Jan 27th, 2021
   Name: Green City Market West Loop
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood, Fresh/dried herbs,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Wild harvested forest
+    products
   State: Illinois
   Street: 115 S. Sangamon St
   Twitter: www.twitter.com/greencitymarket
@@ -987,26 +696,11 @@ data:
   ModifyDate: Jan 4th, 2021
   Name: Twin City Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Mushrooms
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Honey, Maple products, Mushrooms, Pet
+    food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat
+    and products, Soap/body care products
   State: Illinois
   Street: 106 Avenue A
   Twitter: '@twincitymarket'
@@ -1031,27 +725,11 @@ data:
   ModifyDate: Jan 4th, 2021
   Name: Glenwood Sunday Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Mushrooms
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Cut flowers, Dairy products., Dry beans, Eggs, Fish/seafood,
+    Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products,
+    Mushrooms, Poultry/fowl meat and products, Red/other non-poultry meat and products,
+    Soap/body care products, Tofu/non-animal protein
   State: Illinois
   Street: null
   Twitter: https://twitter.com/glenwoodsunday
@@ -1076,25 +754,11 @@ data:
   ModifyDate: Jan 5th, 2021
   Name: Crystal Lake Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Maple products
-  - Mushrooms
-  - Nursery stock
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Cut flowers, Dairy products., Eggs, Fish/seafood,
+    Fresh/dried herbs, Grains/flour, Honey, Maple products, Mushrooms, Nursery stock,
+    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
+    products
   State: Illinois
   Street: Woodstock & Williams Streets
   Twitter: null
@@ -1119,25 +783,11 @@ data:
   ModifyDate: Jan 7th, 2021
   Name: Hinsdale Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Dry beans,
+    Eggs, Fish/seafood, Fresh/dried herbs, Honey, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
+    Wine, spirits, beer, hard cider
   State: Illinois
   Street: 30 E. Chicago Ave.
   Twitter: null
@@ -1162,15 +812,9 @@ data:
   ModifyDate: Jul 21st, 2020
   Name: Bethalto Market In The Park
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Honey
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Honey, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Illinois
   Street: 213 N Priaire St
   Twitter: null
@@ -1195,19 +839,9 @@ data:
   ModifyDate: Jul 31st, 2020
   Name: Downtown Bloomington Farmers Market- Indoor
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Maple products
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Eggs, Fresh/dried herbs, Grains/flour, Honey, Maple products, Poultry/fowl meat
+    and products, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 101 S. Madison
   Twitter: null
@@ -1232,20 +866,10 @@ data:
   ModifyDate: Jul 7th, 2020
   Name: Vernon Hills Park District Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Nuts
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Fish/seafood, Fresh/dried herbs, Honey, Nuts, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products
   State: Illinois
   Street: Lakeview Parkway and Hawthorn Parkway
   Twitter: null
@@ -1270,17 +894,9 @@ data:
   ModifyDate: Jun 17th, 2022
   Name: Streator Farmers Market
   Pinterest: ''
-  Products:
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Fresh/dried herbs
-  - Honey
-  - Pet food
-  - Soap/body care products
+  Products: Fresh vegetables, Baked goods, Bedding plants, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Cut flowers, Fresh/dried herbs, Honey, Pet food, Soap/body
+    care products
   State: Illinois
   Street: 201 North Park Street
   Twitter: ''
@@ -1305,25 +921,11 @@ data:
   ModifyDate: Jun 23rd, 2021
   Name: Batavia Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Maple products
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fresh/dried
+    herbs, Honey, Juices/non-alcoholic ciders, Maple products, Pet food, Poultry/fowl
+    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
   State: Illinois
   Street: North River Street
   Twitter: null
@@ -1348,13 +950,9 @@ data:
   ModifyDate: Jun 7th, 2020
   Name: Andersonville Farmers Market
   Pinterest: null
-  Products:
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
-  - Wild harvested forest products
+  Products: Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products, Tofu/non-animal protein, Wild harvested
+    forest products
   State: Illinois
   Street: 1500 W. Catalpa Ave.
   Twitter: null
@@ -1379,29 +977,11 @@ data:
   ModifyDate: Mar 12th, 2021
   Name: Woodstock Farmers Market-Tuesday Summer
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Dairy products.,
+    Dry beans, Eggs, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 112 S. Benton St.
   Twitter: '@woodstockfarmmk'
@@ -1426,29 +1006,11 @@ data:
   ModifyDate: Mar 12th, 2021
   Name: Woodstock Farmers Market-Saturday Summer
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Dry beans
-  - Eggs
-  - Fresh/dried herbs
-  - Grains/flour
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nursery stock
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Crafts/woodworking items, Cut flowers, Dairy products.,
+    Dry beans, Eggs, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products
   State: Illinois
   Street: 112 S. Benton St.
   Twitter: '@woodstockfarmmk'
@@ -1473,7 +1035,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: 18th Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 825 18th Street
   Twitter: null
@@ -1498,7 +1060,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: 61st Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6100 S. Blackstone Ave.
   Twitter: null
@@ -1523,7 +1085,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: 95th St. Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3015 Cedar Glade Drive
   Twitter: null
@@ -1548,7 +1110,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Abundant Market - Tuscola's Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 214 N MAIN ST
   Twitter: null
@@ -1573,7 +1135,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Aledo Main Street Farmer's Market & Bake Sale
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 201 W Main St
   Twitter: null
@@ -1598,7 +1160,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alsip Park District Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 12521 S. Kostner Ave.
   Twitter: null
@@ -1623,7 +1185,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Alton Farmers' & Artisans' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 501 Landmarks Blvd.
   Twitter: null
@@ -1648,7 +1210,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Andersonville Winter Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1650 W FOSTER AVE
   Twitter: null
@@ -1673,7 +1235,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Anna / Union County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1150 Vienna Street
   Twitter: null
@@ -1698,7 +1260,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Antioch Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 845 Main St.
   Twitter: null
@@ -1724,7 +1286,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Antioch's Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 900 SKIDMORE DR
   Twitter: null
@@ -1749,7 +1311,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Arlington Heights Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 110 W FREMONT ST
   Twitter: null
@@ -1774,7 +1336,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ashburn (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6700 S Kedzie Ave
   Twitter: null
@@ -1799,7 +1361,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Assumption Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 N Chestnut St
   Twitter: null
@@ -1824,7 +1386,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Athens Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Jefferson Street
   Twitter: null
@@ -1849,7 +1411,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Aurora Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 233 N. Broadway
   Twitter: null
@@ -1874,7 +1436,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Aurora's Farmers Market East
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 701 S. Eola Road
   Twitter: null
@@ -1899,7 +1461,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Aurora's Farmers Market West
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2131 West Galena Boulevard
   Twitter: null
@@ -1924,7 +1486,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Austin City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5900 W Chicago Ave.
   Twitter: null
@@ -1949,7 +1511,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Austin Town Hall City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5610 W LAKE ST
   Twitter: null
@@ -1974,7 +1536,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Barrington Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: S. Cook St. and E. Station St.
   Twitter: null
@@ -1999,7 +1561,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Barrington Village Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Park Avenue and Cook Street
   Twitter: null
@@ -2024,7 +1586,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Batavia Indoor Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 160 First Street
   Twitter: null
@@ -2049,7 +1611,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Beardstown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 206 WASHINGTON ST
   Twitter: null
@@ -2074,7 +1636,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Belleville Old Town Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 620 N. Illinois Street
   Twitter: null
@@ -2099,7 +1661,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Belvidere Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1940 N. State St.
   Twitter: null
@@ -2124,7 +1686,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Belvidere's Hometown Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 324 S STATE ST
   Twitter: null
@@ -2149,7 +1711,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bensenville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 12 S CENTER ST
   Twitter: null
@@ -2174,7 +1736,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Berwyn Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6600 26th St.
   Twitter: null
@@ -2199,7 +1761,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Beverly Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 9500 S. Longwood Dr.
   Twitter: null
@@ -2224,7 +1786,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bolingbrook Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 631 E. Boughton Rd.
   Twitter: null
@@ -2249,7 +1811,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Breese Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 500 N 1st Street
   Twitter: null
@@ -2274,7 +1836,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Bronzeville (City of Chicago Markets)
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4700 S King Drive
   Twitter: null
@@ -2299,7 +1861,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Brookfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8820 Brookfield Ave.
   Twitter: null
@@ -2324,7 +1886,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Buffalo Grove Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 50 Raupp Blvd
   Twitter: null
@@ -2349,7 +1911,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Burr Ridge Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 450 Village Center Dr.
   Twitter: null
@@ -2374,7 +1936,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Camp Point Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 506 W. Wood St.
   Twitter: null
@@ -2399,7 +1961,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Cannon Park Community Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 120 N. Greenbriar
   Twitter: null
@@ -2424,7 +1986,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Canton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 90 E. Locust Street
   Twitter: null
@@ -2449,7 +2011,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Carbondale Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2001 West Main Street
   Twitter: null
@@ -2474,7 +2036,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Carlinville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 220 N BROAD ST, CARLINVLE
   Twitter: null
@@ -2499,7 +2061,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Carlyle Courthouse Square Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8th Street and Fairfax
   Twitter: null
@@ -2524,7 +2086,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Carthage Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 500 MAIN ST
   Twitter: null
@@ -2549,7 +2111,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Champaign Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 400-498 N Neil St
   Twitter: null
@@ -2574,7 +2136,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Chicago Nettlehorst French Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: N Broadway Street at W. Melrose Street
   Twitter: null
@@ -2599,7 +2161,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: City Market at Federal Plaza
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 50 W ADAMS ST
   Twitter: null
@@ -2625,7 +2187,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: City of La Salle Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: North West Corner Hegeler Park
   Twitter: null
@@ -2650,7 +2212,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: CL Farms Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2042 N 2653rd Road
   Twitter: null
@@ -2677,7 +2239,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: CLC Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 19351 W WASHINGTON ST, HAINESVLE
   Twitter: null
@@ -2702,7 +2264,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Clinton Area Farmers' & Artisans' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 S. Center St., Mr. Lincon's Square
   Twitter: null
@@ -2727,7 +2289,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Colonial Village Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1240 S. Alpine Rd.
   Twitter: null
@@ -2752,7 +2314,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Columbus Park (City of Chicago Market)
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 500 S Central Ave
   Twitter: null
@@ -2777,7 +2339,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Community Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 27 N BENNETT ST
   Twitter: null
@@ -2802,7 +2364,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Community Winter Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 11 North Fifth St.
   Twitter: null
@@ -2827,7 +2389,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Crete European Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Main St. and W. Exchange St.
   Twitter: null
@@ -2852,7 +2414,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Cuba Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 403 E. Jefferson Street
   Twitter: null
@@ -2877,7 +2439,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Daley Plaza Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 50 W. Washington
   Twitter: null
@@ -2902,7 +2464,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Danville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 319 N. Vermilion St.
   Twitter: null
@@ -2927,7 +2489,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Davis Junction Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: RT 72
   Twitter: null
@@ -2952,7 +2514,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Deerfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Park Avenue between Jewett Park Drive and Hazel Avenue
   Twitter: null
@@ -2977,7 +2539,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Des Plaines Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Ellinwood St.
   Twitter: null
@@ -3003,7 +2565,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Desoto Community Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 W MAIN ST
   Twitter: null
@@ -3028,7 +2590,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Devon Avenue Community Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2720 W. Devon Ave.
   Twitter: null
@@ -3053,7 +2615,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Discover Sycamore Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Sacramento Street.
   Twitter: null
@@ -3078,7 +2640,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Division Street City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 W DIVISION ST
   Twitter: null
@@ -3103,7 +2665,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Division Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 50 W. Division St
   Twitter: null
@@ -3128,7 +2690,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Dixon Winter Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 513 W. 2nd St.
   Twitter: null
@@ -3153,7 +2715,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downs Village Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 S. Seminary Street
   Twitter: null
@@ -3178,7 +2740,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Downers Grove Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5001 Main Street
   Twitter: null
@@ -3204,7 +2766,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Elgin Winter Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 51 S GROVE AVE
   Twitter: null
@@ -3229,7 +2791,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 138 S. Vine St., Downtown
   Twitter: null
@@ -3254,7 +2816,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Downtown Paris Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: N. Central Ave. and W. Wood St.
   Twitter: null
@@ -3279,7 +2841,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Du Quoin Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 127 N. Division St.
   Twitter: null
@@ -3304,7 +2866,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: DuQuoin Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Keyes Park
   Twitter: null
@@ -3329,7 +2891,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Dwight Main Street Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 132 E. Main Street
   Twitter: null
@@ -3354,7 +2916,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Dundee Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 319 N. River Street
   Twitter: null
@@ -3379,7 +2941,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Moline Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1112 42nd Avenue
   Twitter: null
@@ -3404,7 +2966,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: East Peoria Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 396 W. Washington St. Levee District
   Twitter: null
@@ -3429,7 +2991,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Edgebrook Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1605 N. Alpine Road
   Twitter: null
@@ -3456,7 +3018,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Edgebrook Neighborhood Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6525 N HIAWATHA AVE
   Twitter: null
@@ -3481,7 +3043,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Edgewater Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6034 N BROADWAY ST
   Twitter: null
@@ -3506,7 +3068,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Effingham Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: E. Washington Ave. and 4th St.
   Twitter: null
@@ -3531,7 +3093,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Eli's Cheesecake / Wright College Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6701 W FOREST PRESERVE DR
   Twitter: null
@@ -3556,7 +3118,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Elk Grove Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1260 Leeds Lane
   Twitter: null
@@ -3581,7 +3143,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Elmhurst Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 105 E. Vallette Street
   Twitter: null
@@ -3607,7 +3169,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Englewood City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1219 W 76TH ST
   Twitter: null
@@ -3632,7 +3194,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Englewood/Anchor House (City of Chicago Market)
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 76th st & Racine Ave
   Twitter: null
@@ -3657,7 +3219,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: EP!C Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1913 TOWN LINE RD
   Twitter: null
@@ -3682,7 +3244,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Evanston Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1800 Maple Ave
   Twitter: null
@@ -3707,7 +3269,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Evergreen Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 9001 S Kedzie Ave.
   Twitter: null
@@ -3732,7 +3294,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Faith in Place Winter Farmers Markets - Chicago Area
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 70 E LAKE ST
   Twitter: null
@@ -3757,7 +3319,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fall Harvest Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 39W830 HIGHLAND AVE
   Twitter: null
@@ -3782,7 +3344,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers' Market at Country Fair
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 301 S. Mattis Ave.
   Twitter: null
@@ -3807,7 +3369,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market at St. John's
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 750 Aurora Avenue
   Twitter: null
@@ -3832,7 +3394,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Farmers Market on the Square
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 901 East Morton Avenue
   Twitter: null
@@ -3857,7 +3419,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Federal Plaza (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 230 S. Dearborn Street
   Twitter: null
@@ -3882,7 +3444,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: First Market in Mahomet
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: IL-47 & E. Main Street
   Twitter: null
@@ -3907,7 +3469,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Flossmoor Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1000 STERLING AVE
   Twitter: null
@@ -3932,7 +3494,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Fox Lake Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 17 E School Ct.
   Twitter: null
@@ -3957,7 +3519,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Frankfort Country Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 Kansas Street
   Twitter: null
@@ -3982,7 +3544,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Freeport Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 721 W. South St
   Twitter: null
@@ -4009,7 +3571,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Galana Summer Marketplace
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 123 N COMMERCE ST
   Twitter: null
@@ -4034,7 +3596,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Galena Winter Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 219 SUMMIT ST
   Twitter: null
@@ -4059,7 +3621,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gately/Pullman (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 11141 S. Cottage Grove Avenue
   Twitter: null
@@ -4084,7 +3646,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Geneva French Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: South Street at S. 4th Street
   Twitter: null
@@ -4109,7 +3671,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Geneva Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 327 Hamilton St.
   Twitter: null
@@ -4134,7 +3696,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Geneva Winter Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 11 North Fifth Street
   Twitter: null
@@ -4159,7 +3721,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gibson City Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 126 N. Sangamon Avenue
   Twitter: null
@@ -4184,7 +3746,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Glen Ellyn Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 400 N. Main Street
   Twitter: null
@@ -4209,7 +3771,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Glencoe Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 675 Village Court
   Twitter: null
@@ -4234,7 +3796,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Glenview Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1510 Wagner Road
   Twitter: null
@@ -4259,7 +3821,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Golconda Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 310 E. Main Street
   Twitter: null
@@ -4284,7 +3846,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Grayslake Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Center and Whitney Streets
   Twitter: null
@@ -4309,7 +3871,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Gurnee Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Grand Ave. and Kilbourne Rd.
   Twitter: null
@@ -4334,7 +3896,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hanover Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Jefferson St. and Jackson St.
   Twitter: null
@@ -4359,7 +3921,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hawthorn Woods Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 37 OLD MCHENRY RD
   Twitter: null
@@ -4384,7 +3946,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: HCC Realty Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1280 S Alpine Rd
   Twitter: null
@@ -4409,7 +3971,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Heirloom Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2200 STATE RTE 84
   Twitter: null
@@ -4434,7 +3996,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Heritage Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 20235 IL-9
   Twitter: null
@@ -4459,7 +4021,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Herrin Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 612 N. 31st.
   Twitter: null
@@ -4484,7 +4046,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Highwoods Evening Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 130 Highwood Ave.
   Twitter: null
@@ -4509,7 +4071,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Horner Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2741 W. Montrose Ave.
   Twitter: null
@@ -4535,7 +4097,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Humpday Farmers Market LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1511 Skyhawk Rd
   Twitter: null
@@ -4560,7 +4122,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Hyde Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: E 53rd St. and Harper Ct.
   Twitter: null
@@ -4585,7 +4147,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Illinois Farmers Market Association
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5544 South Paulina Street
   Twitter: null
@@ -4610,7 +4172,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Illinois Products Farmers' Market - Illinois Department of Agriculture
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 801 E Sangamon Ave
   Twitter: null
@@ -4635,7 +4197,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: IMAN Fresh Beats and Eats Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2744 W 63RD ST
   Twitter: null
@@ -4660,7 +4222,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: IMAN Health and Wellness Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2744 W. 63rd Street
   Twitter: null
@@ -4685,7 +4247,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Independence Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3945 N. Springfield Ave.
   Twitter: null
@@ -4710,7 +4272,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Iron Street Urban Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3333 S. Iron St.
   Twitter: null
@@ -4735,7 +4297,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jacksonville Farmers Market at Lincoln Square
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 901 W. Morton Avenue
   Twitter: null
@@ -4760,7 +4322,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jacksonville Main Street Farmers Market on the Square
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 300 W. State Street
   Twitter: null
@@ -4785,7 +4347,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: JBJ Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 214 Highway 24
   Twitter: null
@@ -4810,7 +4372,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jefferson Park Sunday Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4776 N. Milwaukee Ave.
   Twitter: null
@@ -4835,7 +4397,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Jerseyville Farmers and Artisan Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 902 S State St
   Twitter: null
@@ -4860,7 +4422,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Joliet City Center Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W. Van Buren Street at N. Chicago Street
   Twitter: null
@@ -4885,7 +4447,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Joliet Junior College Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1215 HOUBOLT RD
   Twitter: null
@@ -4910,7 +4472,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Junction City Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5901 N. Prospect Rd.
   Twitter: null
@@ -4935,7 +4497,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Kankakee County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 S. Schuyler Ave., Downtown
   Twitter: null
@@ -4960,7 +4522,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Kankakee County Farmers' Market 1
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 E. Merchant Street
   Twitter: null
@@ -4985,7 +4547,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Kankakee Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 250 S Schuyler Ave
   Twitter: null
@@ -5010,7 +4572,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: LaFollette Park Farmers Market Pop-Up
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1333 N LARAMIE AVE
   Twitter: null
@@ -5035,7 +4597,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Bluff Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: E. Center Ave. & W. Scranton Ave.
   Twitter: null
@@ -5060,7 +4622,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Forest Open Air Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 695 N WESTERN AVE
   Twitter: null
@@ -5085,7 +4647,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lake Zurich Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 S. Rand Road
   Twitter: null
@@ -5110,7 +4672,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Land of Goshen Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: St. Louis St. & N. Main St.
   Twitter: null
@@ -5135,7 +4697,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: LaSalle Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2nd St & Gooding St
   Twitter: null
@@ -5160,7 +4722,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lawndale (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3555 W. Ogden Avenue
   Twitter: null
@@ -5185,7 +4747,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lemont Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Stephen Street and Talcott Avenue
   Twitter: null
@@ -5210,7 +4772,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lewistown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 N MAIN ST
   Twitter: null
@@ -5235,7 +4797,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Libertyville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 413 N Milwaukee Ave
   Twitter: null
@@ -5260,7 +4822,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Libertyville's Main Street Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 127 W. Church St.
   Twitter: null
@@ -5285,7 +4847,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lincoln Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 316 S. Kickapoo St.
   Twitter: null
@@ -5310,7 +4872,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lincoln Square (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4700 N Lincoln Avenue
   Twitter: null
@@ -5335,7 +4897,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lincoln Square Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2309 W LELAND AVE
   Twitter: null
@@ -5360,7 +4922,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Lockport Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 222 E 9TH ST
   Twitter: null
@@ -5387,7 +4949,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Loyola Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6550 N SHERIDAN RD
   Twitter: null
@@ -5412,7 +4974,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Macomb Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 232 e Jackson st.
   Twitter: null
@@ -5437,7 +4999,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Main Street Farmers Market Downtown Aledo
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: S. College Avenue
   Twitter: null
@@ -5462,7 +5024,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Main Street Farmers' Market of Olney
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 202 Main St.
   Twitter: null
@@ -5487,7 +5049,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Main Street Paris Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 222 N. Main St.
   Twitter: null
@@ -5512,7 +5074,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Manteno Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 211 N. Main St.
   Twitter: null
@@ -5537,7 +5099,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marengo Friday Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W Washington Street at S. Ann Street
   Twitter: null
@@ -5562,7 +5124,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marengo-Brookfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2602 HAWTHORN RD
   Twitter: null
@@ -5587,7 +5149,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marion Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 507 W. Main Street
   Twitter: null
@@ -5612,7 +5174,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Market in the Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 102 N. Hubbard St.
   Twitter: null
@@ -5637,7 +5199,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Marseilles Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 Lincoln Street
   Twitter: null
@@ -5662,7 +5224,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Maryville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 N. Donk St.
   Twitter: null
@@ -5687,7 +5249,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mattoon Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 500 Broadway Avenue
   Twitter: null
@@ -5714,7 +5276,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Maxwell Street Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 800 S DESPLAINES ST
   Twitter: null
@@ -5739,7 +5301,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Maywood Multicultural Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 121 S 5TH AVE
   Twitter: null
@@ -5764,7 +5326,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: McHenry Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3400 Pearl St.
   Twitter: null
@@ -5789,7 +5351,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mendota Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 700 Main Street
   Twitter: null
@@ -5814,7 +5376,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Midtown Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1131 2ND AVE
   Twitter: null
@@ -5839,7 +5401,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Milledgeville Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 18 W 5TH ST
   Twitter: null
@@ -5864,7 +5426,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mokena Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10901 W. La Porte Rd.
   Twitter: null
@@ -5889,7 +5451,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mokena Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10901 LA PORTE RD
   Twitter: null
@@ -5914,7 +5476,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Momence Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 123 W. River St.
   Twitter: null
@@ -5939,7 +5501,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Monroe County Farmer's Market - Columbia
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1000 Columbia Center
   Twitter: null
@@ -5964,7 +5526,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Monroe County Farmer's Market - Waterloo
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 901 Illinois Avenue
   Twitter: null
@@ -5989,7 +5551,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Monticello Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 201 N State Street
   Twitter: null
@@ -6014,7 +5576,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Morrison Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 204 E. Lincolnway
   Twitter: null
@@ -6039,7 +5601,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Morton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 210 S Main Street
   Twitter: null
@@ -6064,7 +5626,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Morton Grove Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6140 Dempster St
   Twitter: null
@@ -6089,7 +5651,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Carroll Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 W. Market St.
   Twitter: null
@@ -6114,7 +5676,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Carmel Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 219 N Market St
   Twitter: null
@@ -6139,7 +5701,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Morris Community Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5 W. Hitt
   Twitter: null
@@ -6164,7 +5726,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Morris Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2 W. Main St.
   Twitter: null
@@ -6189,7 +5751,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Prospect Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W. Northwest Hwy. & Rt. 83
   Twitter: null
@@ -6214,7 +5776,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Vernon Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3403 BROADWAY ST
   Twitter: null
@@ -6239,7 +5801,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mt. Vernon Market Days
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 205 S 7th St.
   Twitter: null
@@ -6264,7 +5826,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Mundelein Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 469 N.Seymour Ave.
   Twitter: null
@@ -6289,7 +5851,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Murphysboro Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1101 Walnut St
   Twitter: null
@@ -6314,7 +5876,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Museum of Contemporary Art/Streeterville (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 220 E Chicago Avenue
   Twitter: null
@@ -6339,7 +5901,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Naperville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 E 5TH AVE, NAPERVLE
   Twitter: null
@@ -6364,7 +5926,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Nashville Chamber of Commerce Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 E Saint Louis St.
   Twitter: null
@@ -6389,7 +5951,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Nokomis Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 301 E State St.
   Twitter: null
@@ -6414,7 +5976,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: North End City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Main St & Auburn St
   Twitter: null
@@ -6439,7 +6001,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: North End Commons Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1416 N Main St
   Twitter: null
@@ -6464,7 +6026,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: North Valley Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 614 Spring St
   Twitter: null
@@ -6489,7 +6051,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: NorthCenter Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4100 N DAMEN AVE
   Twitter: null
@@ -6515,7 +6077,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Northfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6 HAPP RD
   Twitter: null
@@ -6540,7 +6102,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Northwest Side Farmers Market Collective
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4730 W IRVING PARK RD
   Twitter: null
@@ -6565,7 +6127,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oak Forest Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 15600 Cicero Ave.
   Twitter: null
@@ -6591,7 +6153,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oak Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 460 Lake St.
   Twitter: null
@@ -6616,7 +6178,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Capitol Farmers Market Holiday/Winter Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 619 East Washington Street
   Twitter: null
@@ -6641,7 +6203,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Old Dundee Sunday Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 319 N. River St.
   Twitter: null
@@ -6666,7 +6228,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Olde Schaumburg Centre Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 109 S ROSELLE RD
   Twitter: null
@@ -6691,7 +6253,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oneida Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 221 W. Highway 34
   Twitter: null
@@ -6716,7 +6278,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Orangeville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Ewing Street at W High Road
   Twitter: null
@@ -6741,7 +6303,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oregon Park District Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 418 W, Washington Street
   Twitter: null
@@ -6767,7 +6329,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Oregon Park District-Oregon, Illinois Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 304 S. 5th Street
   Twitter: null
@@ -6792,7 +6354,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ottawa's Old Town Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 West Jackson Street
   Twitter: null
@@ -6817,7 +6379,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palatine Winter Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 137 W Wood St.
   Twitter: null
@@ -6842,7 +6404,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palos Heights' Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 12217 S. Harlem Ave.
   Twitter: null
@@ -6867,7 +6429,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Palos Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 12312 S 88TH AVE
   Twitter: null
@@ -6892,7 +6454,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Patoka Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W. Bond Ave
   Twitter: null
@@ -6917,7 +6479,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pekin Downtown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 17 S. Capitol Street
   Twitter: null
@@ -6942,7 +6504,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Peoria Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4700 N University St
   Twitter: null
@@ -6967,7 +6529,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Peoria Heights Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4541 North Prospect Road
   Twitter: null
@@ -6992,7 +6554,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Peoria RiverFront Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 Water Steet
   Twitter: null
@@ -7017,7 +6579,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pfeiffer Farms Fresh Market, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2511 Reynolds Road
   Twitter: null
@@ -7042,7 +6604,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pilsen Community Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1800 S BLUE ISLAND AVE
   Twitter: null
@@ -7067,7 +6629,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pinckneyville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1031 South Main
   Twitter: null
@@ -7092,7 +6654,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plainfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 15025 S Illinois St.
   Twitter: null
@@ -7117,7 +6679,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Plant Chicago Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4459 S. Marshfield Ave
   Twitter: null
@@ -7142,7 +6704,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Polo Chamber of Commerce Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 E. Mason Street
   Twitter: null
@@ -7167,7 +6729,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Portage Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4100 N. Long Avenue
   Twitter: null
@@ -7192,7 +6754,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Princeton Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 439 S. Main St.
   Twitter: null
@@ -7217,7 +6779,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Printers Row (Chicago) Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 47 W Polk St.
   Twitter: null
@@ -7242,7 +6804,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Pullman Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 111th St and Cottage Grove Ave.
   Twitter: null
@@ -7267,7 +6829,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Quad Cities Growers' Markets
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Avenue of the Cities and 11th St.
   Twitter: null
@@ -7292,7 +6854,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Quincy Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 500 Hampshire Street
   Twitter: null
@@ -7317,7 +6879,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rantoul Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Corner of Sangamon & Garrard
   Twitter: null
@@ -7342,7 +6904,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ravenswood Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4900 North Damen
   Twitter: null
@@ -7367,7 +6929,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ravinia Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 477 roger williams rd
   Twitter: null
@@ -7392,7 +6954,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Richland Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: One College Park
   Twitter: null
@@ -7417,7 +6979,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ridgeville Park District Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 908 Seward St.
   Twitter: null
@@ -7442,7 +7004,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: River's Edge Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 W. Washington St
   Twitter: null
@@ -7467,7 +7029,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rochester Public Library Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1 Community Drive
   Twitter: null
@@ -7492,7 +7054,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rock Falls Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 400 W 2nd Street
   Twitter: null
@@ -7517,7 +7079,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rockford City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: E. State St. and N. Water St.
   Twitter: null
@@ -7542,7 +7104,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Rockford-Shumway Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5633 LINDEN RD
   Twitter: null
@@ -7567,7 +7129,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Roscoe Village Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2200 W ROSCOE ST
   Twitter: null
@@ -7592,7 +7154,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Roseland City Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 W 109TH ST
   Twitter: null
@@ -7617,7 +7179,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sainte Marie Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 South Franklin St
   Twitter: null
@@ -7642,7 +7204,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Saturday Produce Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1 College Park
   Twitter: null
@@ -7667,7 +7229,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Seaway Bank Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 645 E. 87th St
   Twitter: null
@@ -7692,7 +7254,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Seguin Gardens Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3100 S CENTRAL AVE
   Twitter: null
@@ -7717,7 +7279,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sidetrack Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3349 N. halsted street
   Twitter: null
@@ -7742,7 +7304,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Skokie Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5127 OAKTON ST
   Twitter: null
@@ -7767,7 +7329,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: SOAR Farmers Market @ MCA
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 220 E AVE
   Twitter: null
@@ -7792,7 +7354,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Southport Green Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1420 W Grace St
   Twitter: null
@@ -7817,7 +7379,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Spears Family Market/Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 300 Garden Ave
   Twitter: null
@@ -7842,7 +7404,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: St. Charles Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 307 Cedar Ave.
   Twitter: null
@@ -7867,7 +7429,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Stade's Farm & Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3709 Miller Road
   Twitter: null
@@ -7892,7 +7454,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Star Farm / Back of the Yards Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5256 S ASHLAND AVE
   Twitter: null
@@ -7917,7 +7479,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Steeleville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 107 W BROADWAY ST, STEELEVLE
   Twitter: null
@@ -7942,7 +7504,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Streator Downtown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 200 N Park
   Twitter: null
@@ -7967,7 +7529,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sugar Grove Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10 Municipal Drive
   Twitter: null
@@ -7992,7 +7554,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Summit Park District Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5700 S ARCHER RD
   Twitter: null
@@ -8017,7 +7579,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Swansea Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2801 N. Illinois St.
   Twitter: null
@@ -8042,7 +7604,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Sycamore Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Somonauk St. & W. Elm St.
   Twitter: null
@@ -8067,7 +7629,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Taste of Eden Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 13 N. Genesee St.
   Twitter: null
@@ -8092,7 +7654,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Taylorville Farmers' Marketplace
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 102 S. Main St.
   Twitter: null
@@ -8117,7 +7679,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Taylorville Market Day
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 100 N Main St.
   Twitter: null
@@ -8143,7 +7705,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Abraham Lincoln Memorial Hospital Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1408 SHORT ELEVENTH ST
   Twitter: null
@@ -8168,7 +7730,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Hyde Park Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5400 South Lake Park Avenue
   Twitter: null
@@ -8193,7 +7755,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: The Lincoln Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2001 N ORCHARD ST
   Twitter: null
@@ -8218,7 +7780,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Thornton Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W Margaret St & Hubbard St
   Twitter: null
@@ -8243,7 +7805,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tinley Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6771 North St
   Twitter: null
@@ -8268,7 +7830,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Tower Island Chute Farmer's Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 269 RAGWEED LN
   Twitter: null
@@ -8293,7 +7855,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Twice's Belmont Cragin Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5450 West Belmont Ave
   Twitter: null
@@ -8318,7 +7880,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Ujamaa Co-op Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4857 S Evans Ave.
   Twitter: null
@@ -8343,7 +7905,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Uncommon Ground Farmer Friday Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1401 W DEVON AVE
   Twitter: null
@@ -8368,7 +7930,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Union County Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 148 E. Davie St.
   Twitter: null
@@ -8394,7 +7956,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Uptown Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4620 North Broadway
   Twitter: null
@@ -8419,7 +7981,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Urbana Market at the Square
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 400 S. Vine Street
   Twitter: null
@@ -8444,7 +8006,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Vandalia, Illinois Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4th Street
   Twitter: null
@@ -8469,7 +8031,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Villa Park French Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10 W. Park Blvd.
   Twitter: null
@@ -8494,7 +8056,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Lakemoor Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 234 W STATE RTE 120
   Twitter: null
@@ -8519,7 +8081,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Lemont Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 418 Main Street
   Twitter: null
@@ -8544,7 +8106,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Orland Park Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 14700 S. Ravinia Avenue
   Twitter: null
@@ -8569,7 +8131,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Park Forest Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 152 Main Street
   Twitter: null
@@ -8594,7 +8156,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Village of Thornton Market In The Park
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 102 HUBBARD ST
   Twitter: null
@@ -8619,7 +8181,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Warrenville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3S260 WARREN AVE
   Twitter: null
@@ -8644,7 +8206,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Watseka Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 120 E. Walnut St.
   Twitter: null
@@ -8669,7 +8231,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wauconda Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Main Street
   Twitter: null
@@ -8696,7 +8258,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wellness Rising Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 820 N LIBERTY ST
   Twitter: null
@@ -8721,7 +8283,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Frankfort Farmers' Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1100 E. Cleveland St.
   Twitter: null
@@ -8746,7 +8308,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Humbolt Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3601 W Chicago Ave
   Twitter: null
@@ -8771,7 +8333,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: West Town Health Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2233 W Division St
   Twitter: null
@@ -8796,7 +8358,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Westmont Open Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: W. Irving St. and N Cass Ave.
   Twitter: null
@@ -8821,7 +8383,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wheaton French Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Main St. & Liberty Dr.
   Twitter: null
@@ -8846,7 +8408,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wicker Park Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1425 N. Damen Ave.
   Twitter: null
@@ -8871,7 +8433,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Wilmette French Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Green Bay Rd. at Central Ave.
   Twitter: null
@@ -8896,7 +8458,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winfield Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Geneva Rd. at County Farm Rd.
   Twitter: null
@@ -8921,7 +8483,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Winter Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 150 N SCHUYLER AVE
   Twitter: null
@@ -8946,7 +8508,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Woodstock Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 101 N. Johnson St.
   Twitter: null
@@ -8971,7 +8533,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Woodstock Farmers Market_Indoor
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 12015 Country Club Rd
   Twitter: null
@@ -8996,7 +8558,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Woodstock Winter Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 11900 country Club Road
   Twitter: null
@@ -9021,7 +8583,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Yorkville Farmers Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: S. Bridge St. at S. Main St.
   Twitter: null
@@ -9046,7 +8608,7 @@ data:
   ModifyDate: Mar 20th, 2023
   Name: Zion Market Days
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Shiloh Blvd
   Twitter: null
@@ -9073,27 +8635,11 @@ data:
   ModifyDate: May 19th, 2022
   Name: MainStreet Libertyville Farmers Market
   Pinterest: ''
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fish/seafood
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Nuts
-  - Pet food
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood,
+    Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Mushrooms, Nuts, Pet food,
+    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
+    products, Soap/body care products
   State: Illinois
   Street: 413 N Milwaukee Ave
   Twitter: ''
@@ -9118,14 +8664,8 @@ data:
   ModifyDate: May 4th, 2021
   Name: Pontiac Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Crafts/woodworking items
-  - Cut flowers
-  - Fresh/dried herbs
-  - Soap/body care products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Crafts/woodworking items,
+    Cut flowers, Fresh/dried herbs, Soap/body care products
   State: Illinois
   Street: null
   Twitter: null
@@ -9150,26 +8690,11 @@ data:
   ModifyDate: Nov 16th, 2021
   Name: Downtown Evanston Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Maple products
-  - Mushrooms
-  - Nursery stock
-  - Poultry/fowl meat and products
-  - Prepared foods
-  - Red/other non-poultry meat and products
-  - Soap/body care products
-  - Tofu/non-animal protein
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fresh/dried
+    herbs, Honey, Maple products, Mushrooms, Nursery stock, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products, Tofu/non-animal protein
   State: Illinois
   Street: University Place at Oak Street
   Twitter: null
@@ -9194,16 +8719,8 @@ data:
   ModifyDate: Sep 10th, 2020
   Name: The Territory Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Crafts/woodworking items
-  - Eggs
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Eggs, Fresh/dried herbs, Honey, Mushrooms
   State: Illinois
   Street: 2000 Territory Drive
   Twitter: null
@@ -9228,23 +8745,10 @@ data:
   ModifyDate: Sep 10th, 2020
   Name: Homewood Farmers Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Fresh/dried herbs
-  - Honey
-  - Juices/non-alcoholic ciders
-  - Mushrooms
-  - Prepared foods
-  - Soap/body care products
-  - Wine, spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Mushrooms,
+    Prepared foods, Soap/body care products, Wine, spirits, beer, hard cider
   State: Illinois
   Street: Martin Ave and Chestnut Rd
   Twitter: null
@@ -9269,21 +8773,10 @@ data:
   ModifyDate: Sep 11th, 2020
   Name: Low-Line Market at Southport
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Cut flowers
-  - Dairy products.
-  - Eggs
-  - Honey
-  - Mushrooms
-  - Nuts
-  - Poultry/fowl meat and products
-  - Red/other non-poultry meat and products
-  - Wild harvested forest products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Cut flowers, Dairy products., Eggs, Honey, Mushrooms, Nuts, Poultry/fowl
+    meat and products, Red/other non-poultry meat and products, Wild harvested forest
+    products
   State: Illinois
   Street: 3410 N Southport Ave
   Twitter: null
@@ -9308,21 +8801,10 @@ data:
   ModifyDate: Sep 22nd, 2021
   Name: QC Farmers' Market
   Pinterest: null
-  Products:
-  - Fresh fruits
-  - Fresh vegetables
-  - Baked goods
-  - Bedding plants
-  - Canned or preserved fruits/vegetables
-  - Coffee/tea
-  - Crafts/woodworking items
-  - Cut flowers
-  - Dairy products.
-  - Fresh/dried herbs
-  - Honey
-  - Mushrooms
-  - Nursery stock
-  - Poultry/fowl meat and products
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Fresh/dried herbs, Honey, Mushrooms, Nursery stock, Poultry/fowl
+    meat and products
   State: Illinois
   Street: 1700 1st ave
   Twitter: null
@@ -9347,7 +8829,7 @@ data:
   ModifyDate: Apr 13th, 2019
   Name: Boru Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8225 Rte 26 N
   Twitter: null
@@ -9372,7 +8854,7 @@ data:
   ModifyDate: Apr 22nd, 2020
   Name: AMERICAN INDIAN Jone's Applebee's Farming Conglomerate
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5555 Main Street
   Twitter: null
@@ -9397,7 +8879,7 @@ data:
   ModifyDate: Apr 23rd, 2022
   Name: Dugosh Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1149 1950 East Street
   Twitter: null
@@ -9422,7 +8904,7 @@ data:
   ModifyDate: Apr 28th, 2016
   Name: Gail's Pumpkin Patch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1709 2000th Avenue
   Twitter: null
@@ -9447,7 +8929,7 @@ data:
   ModifyDate: Apr 5th, 2017
   Name: Willies Honey Company
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: null
   Twitter: null
@@ -9472,7 +8954,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Stone Home Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1125 Inlet Road
   Twitter: null
@@ -9497,7 +8979,7 @@ data:
   ModifyDate: Aug 13th, 2014
   Name: Mulberry Lane Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 414 N. Mulberry
   Twitter: null
@@ -9522,7 +9004,7 @@ data:
   ModifyDate: Aug 17th, 2016
   Name: L&A Family Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 21661 Staley Rd
   Twitter: https://twitter.com/LAFamilyFarms
@@ -9547,7 +9029,7 @@ data:
   ModifyDate: Aug 1st, 2014
   Name: Country Pond Gardens
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2190 North 45th Road
   Twitter: null
@@ -9572,7 +9054,7 @@ data:
   ModifyDate: Aug 21st, 2014
   Name: Lazy J Ranch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 9000 Cascade Road
   Twitter: null
@@ -9597,7 +9079,7 @@ data:
   ModifyDate: Aug 22nd, 2014
   Name: Wolfe Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1657N 1125E ROAD
   Twitter: null
@@ -9622,7 +9104,7 @@ data:
   ModifyDate: Aug 24th, 2014
   Name: Edwards Apple Orchard West
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8218 Cemetery Rd.
   Twitter: null
@@ -9647,7 +9129,7 @@ data:
   ModifyDate: Aug 25th, 2014
   Name: Valley of Beruch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 456 S. Jungle Rd.
   Twitter: null
@@ -9672,7 +9154,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: Raines Honey Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 16566 BEST ROAD
   Twitter: null
@@ -9697,7 +9179,7 @@ data:
   ModifyDate: Aug 26th, 2014
   Name: Prairie Sky Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4914 N. Union Rd.
   Twitter: null
@@ -9722,7 +9204,7 @@ data:
   ModifyDate: Aug 29th, 2014
   Name: Country Corner Farm Market & Pumpkin Patch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5333 U. S. highway 150
   Twitter: null
@@ -9747,7 +9229,7 @@ data:
   ModifyDate: Aug 3rd, 2014
   Name: Thornpaw Lea Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: Menge Rd
   Twitter: null
@@ -9772,7 +9254,7 @@ data:
   ModifyDate: Aug 3rd, 2016
   Name: UR Foods Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2844 US Hwy 24
   Twitter: null
@@ -9797,7 +9279,7 @@ data:
   ModifyDate: Aug 6th, 2014
   Name: Four Sisters Organic Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 719 East State Street
   Twitter: null
@@ -9822,7 +9304,7 @@ data:
   ModifyDate: Dec 28th, 2018
   Name: Big Muddy Hogs
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 300 Adams street
   Twitter: null
@@ -9847,7 +9329,7 @@ data:
   ModifyDate: Feb 12th, 2022
   Name: Rancho Los Nunez
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 13218 E 2260 S Rd Pembroke Township, IL
   Twitter: null
@@ -9872,7 +9354,7 @@ data:
   ModifyDate: Feb 23rd, 2022
   Name: Navarro Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 22155 S.104th Ave.
   Twitter: null
@@ -9897,7 +9379,7 @@ data:
   ModifyDate: Feb 6th, 2015
   Name: Larson's Country Market, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 1968 E. U.S. Route 34
   Twitter: null
@@ -9922,7 +9404,7 @@ data:
   ModifyDate: Jan 16th, 2020
   Name: 3 Winds Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10769 N 1500W Rd
   Twitter: null
@@ -9947,7 +9429,7 @@ data:
   ModifyDate: Jan 25th, 2015
   Name: Radical Root Organic Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 31330 N IL RT 21
   Twitter: null
@@ -9972,7 +9454,7 @@ data:
   ModifyDate: Jul 23rd, 2014
   Name: Crandall Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10905 104th Street
   Twitter: www.twitter.com/crandallfarms
@@ -9997,7 +9479,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Grace Farm Studios
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2719 Franklinville Rd.
   Twitter: null
@@ -10022,7 +9504,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Wishful Acres Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4679 N Flansburg Rd
   Twitter: null
@@ -10047,7 +9529,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Royal Oak Farm Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 15908 Hebron Road
   Twitter: https://twitter.com/RoyalOakFarmIL
@@ -10072,7 +9554,7 @@ data:
   ModifyDate: Jul 26th, 2014
   Name: Curtis Orchard & Pumpkin Patch
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 3902 S Duncan Rd
   Twitter: www.twitter.com/curtisorchard
@@ -10097,7 +9579,7 @@ data:
   ModifyDate: Jul 30th, 2014
   Name: McNitt Growers
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 78 Oak Ridge Lane
   Twitter: https://twitter.com/AndyMcNitt
@@ -10122,7 +9604,7 @@ data:
   ModifyDate: Jul 6th, 2020
   Name: Berkowski Family Farm LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 9432 E Scott Rd
   Twitter: twitter.com/bffpoultry
@@ -10147,7 +9629,7 @@ data:
   ModifyDate: Jun 10th, 2020
   Name: Hilton Farms Rooted
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2620 s spielman rd
   Twitter: null
@@ -10172,7 +9654,7 @@ data:
   ModifyDate: Mar 19th, 2015
   Name: Sunrise Market Farm, Inc.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2820 Yale Bridge Road
   Twitter: null
@@ -10197,7 +9679,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Tammen Treeberry Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 37131 Essex Road
   Twitter: null
@@ -10222,7 +9704,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: All Seasons Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 14510 Il Route 176
   Twitter: null
@@ -10247,7 +9729,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Voss Pecans
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 10101 Slant Road
   Twitter: null
@@ -10272,7 +9754,7 @@ data:
   ModifyDate: Mar 23rd, 2015
   Name: Gorman Farm Fresh Produce
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6607 West Bruns Road
   Twitter: null
@@ -10297,7 +9779,7 @@ data:
   ModifyDate: Mar 24th, 2015
   Name: Didier Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 16678 West Aptakisic Road
   Twitter: null
@@ -10322,7 +9804,7 @@ data:
   ModifyDate: Mar 25th, 2015
   Name: Liberty Apple Orchard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8308 Kuhn Station Road
   Twitter: null
@@ -10347,7 +9829,7 @@ data:
   ModifyDate: Mar 28th, 2017
   Name: PCC Austin Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 330 N. Lotus
   Twitter: null
@@ -10372,7 +9854,7 @@ data:
   ModifyDate: Mar 5th, 2016
   Name: Madoli Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2109 S. Country Club Rd
   Twitter: null
@@ -10397,7 +9879,7 @@ data:
   ModifyDate: May 31st, 2018
   Name: Growing Home Inc
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 5814 S Wood St
   Twitter: https://twitter.com/growinghome
@@ -10422,7 +9904,7 @@ data:
   ModifyDate: May 4th, 2016
   Name: Natural Environments Greenhouses and Nursery
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 23520 Old McHenry Road
   Twitter: null
@@ -10447,7 +9929,7 @@ data:
   ModifyDate: May 5th, 2018
   Name: Eden Place Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 4911 S Shields Ave
   Twitter: null
@@ -10472,7 +9954,7 @@ data:
   ModifyDate: Nov 10th, 2017
   Name: Mills Apple Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 11477 Pocahontas Road
   Twitter: null
@@ -10497,7 +9979,7 @@ data:
   ModifyDate: Nov 21st, 2018
   Name: Northland Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 31095 Penrose Rd.
   Twitter: https://twitter.com/NorthlandFarms
@@ -10522,7 +10004,7 @@ data:
   ModifyDate: Nov 23rd, 2018
   Name: J N' J Cattle Co.
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 8354 DUSTMAN RD
   Twitter: null
@@ -10547,7 +10029,7 @@ data:
   ModifyDate: Nov 28th, 2021
   Name: Hempstock Pharms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 14023 West South Street Rd.
   Twitter: null
@@ -10572,7 +10054,7 @@ data:
   ModifyDate: Oct 1st, 2014
   Name: Cow Creek Farm
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 2112 E 100 N Rd
   Twitter: null
@@ -10597,7 +10079,7 @@ data:
   ModifyDate: Oct 21st, 2014
   Name: Hazel Creek Vineyard
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 23060 Hazel Road
   Twitter: null
@@ -10622,7 +10104,7 @@ data:
   ModifyDate: Sep 10th, 2014
   Name: Fox River Farm, LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 6091 Pope Road
   Twitter: https://www.twitter.com/foxriverfarm
@@ -10647,7 +10129,7 @@ data:
   ModifyDate: Sep 29th, 2014
   Name: Homestead Harvests LLC
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 14861 Enterprise Road
   Twitter: null
@@ -10672,7 +10154,7 @@ data:
   ModifyDate: Sep 3rd, 2014
   Name: Bronkberry Farms
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 18061 S. Bronk Road
   Twitter: null
@@ -10697,7 +10179,7 @@ data:
   ModifyDate: Sep 5th, 2014
   Name: Rendleman Orchards Farm Market
   Pinterest: null
-  Products: []
+  Products: ''
   State: Illinois
   Street: 9680 State Route 127 North P. O. Box 159
   Twitter: null
