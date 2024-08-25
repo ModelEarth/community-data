@@ -2,6 +2,10 @@
 
 # Processing NAICS by Zip Code
 
+The new process resides in [community-zipcodes](/community-zipcodes)
+
+The following can be absorbed and removed.
+
 From 2019 forward we'll pull zip data from the same census API as our [county and state processing](/data-pipeline/industries/naics/)
 
 The code and data in the current "process/naics" folder will be deleted.
