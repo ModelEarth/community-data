@@ -49,3 +49,5 @@
 2024-09-02 01:11:26,638 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
 2024-09-02 01:12:53,182 - __main__ - ERROR - Failed to fetch data: 502
 2024-09-02 01:13:48,880 - __main__ - INFO - Data for all states exported successfully
+2024-09-03 01:09:13,385 - __main__ - INFO - Exporting to directory: /home/runner/work/community-data/community-data/locations/farmfresh/prep/../us
+2024-09-03 01:12:07,012 - __main__ - INFO - Data for all states exported successfully
