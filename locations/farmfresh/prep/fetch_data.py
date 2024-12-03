@@ -128,7 +128,7 @@ def export_data(state):
     try:
         # apikey="UXLbsdPdCU"
         apikey = os.environ["USDA_FARMFRESH_API"]
-        print("API Key:", apikey)  # Debugging line
+        # print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
         # apikey="UXLbsdPdCU"
