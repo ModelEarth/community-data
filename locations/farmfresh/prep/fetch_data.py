@@ -81,6 +81,7 @@ def update_column_names(data_df):
         "location_y"        :"Latitude",
         "brief_desc"        :"Tags"    
     }
+    data_df.columns = data_df.columns.astype(str)
     data_df = data_df.drop(columns=data_df.columns[data_df.columns.str.contains('^Unnamed')])
     df1 = data_df.rename(columns=columns_map).reset_index(drop=True)
     df1 = df1.drop(columns=['distance', 'mydesc', 'term', 'directory_type'], errors='ignore')
@@ -114,6 +115,7 @@ def split_tags_column(data_df):
 #Clean the Name column to convert all-caps to title case and replace 'L.L.C.' with 'LLC'.
 def clean_name_column(data_df):
     if 'Name' in data_df.columns:
+        data_df['Name'] = data_df['Name'].fillna('').astype(str)  # Ensure string
         # Convert all-caps strings to title case
         data_df['Name'] = data_df['Name'].apply(lambda x: x.title() if x.isupper() else x)
         # Replace 'L.L.C.' with 'LLC'
@@ -124,8 +126,8 @@ def clean_name_column(data_df):
 def export_data(state):
     
     try:
-        apikey="UXLbsdPdCU"
-        # apikey = os.environ["USDA_FARMFRESH_API"]
+        # apikey="UXLbsdPdCU"
+        apikey = os.environ["USDA_FARMFRESH_API"]
         # print("API Key:", apikey)  # Debugging line
     except KeyError:
         logger.error("API key not available!")
@@ -155,7 +157,7 @@ def export_all_states():
     export_dir = "../us"
     curr_file_dir = os.path.dirname(__file__)
     export_dir =os.path.join(curr_file_dir, export_dir)
-    #print("Exporting to", export_dir)
+    # print("Exporting to", export_dir)
     logger.info(f"Exporting to directory: {export_dir}")
     
     if not os.path.exists(export_dir):
@@ -169,7 +171,7 @@ def export_all_states():
             curr_state_dir = os.path.join(export_dir,state)
             # print("exporting state:", curr_state_dir )
             if not os.path.exists(curr_state_dir):
-                print("exporting state:", curr_state_dir )
+                # print("exporting state:", curr_state_dir )
                 os.mkdir(curr_state_dir)
             data_merged = export_data(state)
             data_merged.reset_index(drop=True, inplace=True)
@@ -195,8 +197,10 @@ def export_all_states():
 
 
 if __name__=="__main__":
-
-    export_all_states()
+    try:
+        export_all_states()
+    except Exception as e:
+        logger.error(f"An error occurred: {e}")
 
 
 
