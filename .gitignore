@@ -9,4 +9,4 @@ env/
 venv/
 dist/
 build/
-*status.log
+locations/farmfresh/prep/status.log
