@@ -1,13 +1,12 @@
 [Community Data](../../../)
 # Farm Fresh Data
 
-[View our upcoming process notes](../../../locations/farmfresh/) - 2024
+[Data Processing Notes](../../../locations/farmfresh/) (2024)
 
-The following older process fetches data for our [Map of Fresh Produce](/localsite/map/#show=farmfresh&state=NY)
 
 We previously used [a Python scraper](https://github.com/ModelEarth/community-data/tree/master/process/python/farmfresh/scraper) to pull and merge locations from the national USDA dataset.  
 
-TO DO:
+TO DO (older notes before 2024):
 
 Please update our "Makefile" python script to use the new [USDA API](https://www.ams.usda.gov/local-food-directories/farmersmarkets).
 Please call 877-333-9336 or write the maintainers of the USDA API since they have not responded to email.

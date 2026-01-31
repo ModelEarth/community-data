@@ -1,9 +1,9 @@
 # About Farmfresh Data
 
-We're pulling listings from the USDA API for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
+Listing are pull from the USDA API for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
 
 We send the output to [2-char state folders](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/us)  
-The python resides in [locations/farmfresh/prep](https://github.com/ModelEarth/community-data/locations/farmfresh/prep)
+The python resides in [locations/farmfresh/prep](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/prep)
 
 
 TO DO: Omit columns: type, mydesc, term
