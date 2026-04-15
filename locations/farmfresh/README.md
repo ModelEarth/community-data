@@ -1,79 +1,73 @@
 # About Farmfresh Data
 
-Listing are pull from the USDA API for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
+<!-- LAST_UPDATED -->Python pulled fresh state data on **April 15, 2026**
 
-We send the output to [2-char state folders](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/us)  
-The python resides in [locations/farmfresh/prep](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/prep)
+Listings are pulled from the USDA API for our [Farm Fresh state maps](/localsite/map/#show=farmfresh&state=NY)
+
+Output goes to [2-char state folders](https://github.com/ModelEarth/community-data/tree/master/locations/farmfresh/us).
+Those folders reside locally when running the python, so no need to push to Github now.
+
+The python and running instructions reside in [/community-data/locations/farmfresh/prep](prep)
+
+For an initial test, just pull for GA (Georgia).
+
+### Output File
+
+Each state produces a single combined CSV: `../us/<STATE>/<state>-farmfresh.csv`
+
+All listing types from the USDA API are merged into this one file. The `Type` column identifies each record:
+
+- farmers market
+- on-farm market
+- csa enterprise
+- food hub
+
+### Column Names
+
+Type, ModifyDate, Image, ListingID, Name, Description, ContactName, ContactEmail, ContactPhone,
+Website, Facebook, Twitter, Instagram, Pinterest, Youtube, Blog,
+Address, State, Street, City, Zip, Longitude, Latitude, Dates, Products
+
+Any API columns not in the list above are renamed to CamelCase automatically.
+
+### Data Cleanup Applied
+
+DONE: CamelCase applied to all column names; snake_case API names are mapped to the columns above.
+
+DONE: Tags column split into Dates and Products — "Open: " and "; Available Products: " prefixes removed.
+
+DONE: In Name column, all-caps names converted to Title Case. (e.g. CAVE SPRING FARMERS MARKET → Cave Spring Farmers Market)
+
+DONE: In Name column, L.L.C. replaced with LLC.
 
 
-TO DO: Omit columns: type, mydesc, term
+## API Key
 
-TO DO: Rename columns:
+The script reads the key from the `USDA_FARMFRESH_API` environment variable.
+The working key (`UXLbsdPdCU`) is referenced in the commented line inside `fetch_data.py`.
+See the [prep README](prep/README.md) for full setup and running instructions.
 
-directory\_name to Type  
-updatetime to ModifyDate  
-listing\_image to Image  
-listing\_id to ListingID  
-listing\_desc to Description  
-media\_instagram to Instagram  
-media\_pinterest to Pinterest  
-media\_youtube to Youtube  
-media\_blog to Blog  
-location\_address to Address
+The GitHub Actions workflow reads the key from `secrets.USDA_FARMFRESH_API`
+(see `.github/workflows/actions.yml`).
 
-TO DO: Capitalize titles in columns, remove underscore, remove spaces
 
-TO DO: Split Tags column into two columns called: Dates and Products.  
-Remove "Open: " and "; Available Products: " before saving.
+## Prior Pull
 
-TO DO: In Name column, change all-caps to Title Case . (Offender: CAVE SPRING FARMERS MARKET)
-
-TO DO: In Name column, replace L.L.C. with LLC
-
----
-
-We're no longer using thse two scrapper pages now that the API is available:
+The data was previously scraped (no longer needed now that the API is available):
 [model.earth/community-data/process/python/farmfresh/](https://model.earth/community-data/process/python/farmfresh/)
 [model.earth/community/farmfresh](https://model.earth/community/farmfresh)
 
-The data was sent here previously - Arkansas example:
+Prior column rename reference:
+- directory\_name → Type
+- updatetime → ModifyDate
+- listing\_image → Image
+- listing\_id → ListingID
+- listing\_desc → Description
+- media\_instagram → Instagram
+- media\_pinterest → Pinterest
+- media\_youtube → Youtube
+- media\_blog → Blog
+- location\_address → Address
+
+Data was previously stored per state under `us/state/` — example:
 [github.com/ModelEarth/community-data/blob/master/us/state/AK/ak-farmfresh.csv](https://github.com/ModelEarth/community-data/blob/master/us/state/AK/ak-farmfresh.csv)
-
-
-
-Include these column names in the new output:
-
-Type
-Name
-Street
-City
-State (2-char)
-Zip
-Tags
-Website
-Twitter
-Facebook
-Longitude
-Latitude
-
-And any other columns in the API source, capitalize using CamelCase.
-If the column names differ in the API, we could use the new column names if they are decent.
-
-## Setting Up the Secret Key - API Key
-
-1. Locate the Workflow File
-    Navigate to community-data/.github/workflows/actions.yml.
-2. Identify the Secret Key
-    Copy the value of {{secrets.USDA\_FARMFRESH\_API}}. In this case, it is USDA\_FARMFRESH\_API.
-3. Access Repository Settings
-    Click on the Settings tab of your repository.
-4. Navigate to Secrets
-    In the left sidebar, under the Security section, click on Secrets and variables.
-5. Select Actions
-    Choose Actions from the available options.
-6. Create a New Repository Secret
-    Click on New repository secret.
-7. Add the Secret Key
-    In the Name field, enter the exact secret key name (USDA\_FARMFRESH\_API), ensuring it matches the name in the .yml file.
-    In the Secret field, enter the API key value.
-    Click Add secret to save.
