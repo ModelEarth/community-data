@@ -8,4 +8,4 @@ Our work combines four primary datasets:
 - [Open Footprint](/profile/) - [US State Reports](/profile/state/) plus [Exiobase Trade Flow](/profile/trade/) and [BuildingTransparency.org Product Profiles](/products/)
 - [All The Places](/places/) - Locations [sorted](https://github.com/modelearth/places-data/) by country, state and zip
 
-Learn more about our [Data Pipeline](/data-pipeline/) and collaborate in [RealityStream (Python)](/RealityStream) and [Feed Player (React)](/feed/).
+Learn more about our [Data Pipeline](/data-pipeline/) and collaborate in [RealityStream (Python)](/realitystream) and [Feed Player (React)](/feed/).
